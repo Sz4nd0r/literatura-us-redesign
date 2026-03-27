@@ -1,0 +1,10 @@
+---
+layout: story
+title: El Niño Cinco Mil Millones
+slug: elnino
+source: https://www.literatura.us/benedetti/elnino.html
+tags:
+  - elnino
+  - benedetti
+---
+Mario Benedetti (Paso de los Toros, Departamento de Tacuarembó, Uruguay, 14 de septiembre del 1920 — Montevideo, 17 de mayo de 2009) El Niño Cinco Mil Millones (Despistes y franquezas, 1989) En un día del año 1987 nació el niño Cinco Mil Millones. Vino sin etiqueta, así que podía ser negro, blanco, amarillo, etc. Muchos países, en ese día, eligieron al azar un niño Cinco Mil Millones para homenajearlo y hasta para filmarlo y grabar su primer llanto. Sin embargo, el verdadero niño Cinco Mil Millones no fue homenajeado ni filmado ni acaso tuvo energías para su primer llanto. Mucho antes de nacer, ya tenía hambre. Un hambre atroz. Un hambre vieja. Cuando por fin movió sus dedos, éstos tocaron la tierra seca. Cuarteada y seca. Tierra con grietas y esqueletos de perros o de camellos o de vacas. También con el esqueleto del niño número 4.999.999.999. El verdadero niño Cinco Mil Millones tenía hambre y sed, pero su madre tenía más hambre y más sed y sus pechos oscuros eran como tierra exhausta. Junto a ella, el abuelo del niño tenía hambre y sed más antiguas aún y ya no encontraba en sí mismo ganas de pensar o de creer. Una semana después el niño Cinco Mil Millones era un minúsculo esqueleto y en consecuencia disminuyó en algo el horrible riesgo de que el planeta llegara a estar superpoblado. 

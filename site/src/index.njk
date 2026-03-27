@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: Literatura US
+---
+<section>
+  <h1>Literatura US</h1>
+  <p>
+    Esta página consistirá de una biblioteca personal: incluirá autores que creemos, como lectores, importantes. Se incluirán autores que muchos considerarán “menores” y se excluirán otros considerados “imprescindibles”.
+      Toda antología es arbitriaria e incompleta. Esta selección no es, entonces, una excepción.
+  </p>
+<section>
+  <h2>Explorar Autores</h2>
+  <div class="author-grid">
+    {% for author in collections.authors %}
+      <a href="content/authors/{{ author.slug }}/" class="author-card">
+        <h2>{{ author.name }}</h2>
+        <p>Ver obras relacionadas</p>
+      </a>
+    {% endfor %}
+  </div>
+</section>

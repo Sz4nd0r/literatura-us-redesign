@@ -1,0 +1,10 @@
+---
+layout: story
+title: Traducciones
+slug: traducc
+source: https://www.literatura.us/benedetti/traducc.html
+tags:
+  - traducc
+  - benedetti
+---
+Mario Benedetti (Paso de los Toros, Departamento de Tacuarembó, Uruguay, 14 de septiembre del 1920 — Montevideo, 17 de mayo de 2009) Traducciones (Despistes y franquezas, 1989) Siempre le pasaba lo mismo. Cuando alguien traducía uno de sus poemas a una lengua extranjera (al menos, de las que él conocía), sus propios versos le sonaban mejor que en el original. Por eso no le sorprendió que la versión francesa de su poema «El tiempo y la campana» le pareciera estupenda, grácil, sustanciosa. Dos años más tarde, un traductor italiano, que no sabía español, tradujo aquella versión francesa, y aunque él nunca había sido partidario de las versiones indirectas (no olvidaba, sin embargo, que muchos años atrás había conocido a través de ellas a Tolstoy, Dostoievsky y también a Confucio), disfrutó grandemente de su poema «in italico modo». Transcurrieron otros tres años y un traductor inglés, que, como la mayoría de los traductores ingleses, no sabía español, se basó en la versión italiana, basada a su vez en la versión francesa. Pese a tan lejano origen, fue la que mayor placer le produjo al primigenio autor hispanoparlante. Sólo le asombró un poco (en realidad, lo atribuyó a una errata de tantas) que esta nueva versión indirecta se titulara «Burnt Norton» y que el nombre del presunto autor fuera un tal T. S. Eliot. Sin embargo, le gustó tanto que decidió encargarse personalmente de traducirla al español. 

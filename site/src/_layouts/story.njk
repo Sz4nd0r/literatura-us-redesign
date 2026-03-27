@@ -1,0 +1,16 @@
+---
+layout: base.njk
+---
+
+<article>
+  <header>
+    <h1>{{ title }}</h1>
+  </header>
+  
+  <div class="reader-content">
+    {{ content | safe }}
+  </div>
+
+  <hr>
+  <p><a href="/content/authors/{{ author }}/">Volver al autor</a></p>
+</article>

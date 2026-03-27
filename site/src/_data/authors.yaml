@@ -1,0 +1,504 @@
+  - name: Álvaro Cepeda Samudio
+    path: /acs/index.html
+    slug: acs
+  - name: Álvaro Mutis
+    path: /mutis/index.html
+    slug: mutis
+  - name: Adolfo Bioy Casares
+    path: /bioy/index.html
+    slug: bioy
+  - name: Alejo Carpentier
+    path: /alejo/index.html
+    slug: alejo
+  - name: Antonio Benítez Rojo
+    path: /rojo/index.html
+    slug: rojo
+  - name: Antonio Skármeta
+    path: /skarmeta/index.html
+    slug: skarmeta
+  - name: Arturo Uslar Pietri
+    path: /arturo/index.html
+    slug: arturo
+  - name: Augusto Roa Bastos
+    path: /augusto/index.html
+    slug: augusto
+  - name: "Bonaparte\n      Gautreaux Piñeyro"
+    path: /bonaparte/index.html
+    slug: bonaparte
+  - name: Carlos Fuentes
+    path: /carlos/index.html
+    slug: carlos
+  - name: Carlos Martínez Moreno
+    path: /moreno/index.html
+    slug: moreno
+  - name: César Vallejo
+    path: /vallejo/index.html
+    slug: vallejo
+  - name: Ciro Alegría
+    path: /ciro/index.html
+    slug: ciro
+  - name: Eduardo Mallea
+    path: /mallea/index.html
+    slug: mallea
+  - name: Elena Garro
+    path: /elena/index.html
+    slug: elena
+  - name: "Emilio Díaz\n      Valcárcel"
+    path: /emilio/index.html
+    slug: emilio
+  - name: Ernesto Cardenal
+    path: /cardenal/index.html
+    slug: cardenal
+  - name: "Felisberto\n      Hernández"
+    path: /hernandez/index.html
+    slug: hernandez
+  - name: Félix Pita Rodríguez
+    path: /felix/index.html
+    slug: felix
+  - name: "Franklin Mieses\n      Burgos"
+    path: /mieses/index.html
+    slug: mieses
+  - name: "Gabriel\n      García Márquez"
+    path: /garciamarquez/index.html
+    slug: garciamarquez
+  - name: Guillermo Cabrera Infante
+    path: /gci/index.html
+    slug: gci
+  - name: Heberto Padilla
+    path: /padilla/index.html
+    slug: padilla
+  - name: Hernando Téllez
+    path: /tellez/index.html
+    slug: tellez
+  - name: Horacio Quiroga
+    path: /quiroga/index.html
+    slug: quiroga
+  - name: Jesús Díaz
+    path: /jesus/index.html
+    slug: jesus
+  - name: Jorge Ibargüengoitia
+    path: /jorge/index.html
+    slug: jorge
+  - name: Jorge Luis Borges
+    path: /borges/index.html
+    slug: borges
+  - name: "José Alcántara\n      Almánzar"
+    path: /jose/index.html
+    slug: jose
+  - name: José Donoso
+    path: /donoso/index.html
+    slug: donoso
+  - name: José Emilio Pacheco
+    path: /josee/index.html
+    slug: josee
+  - name: "José Luis\n      González"
+    path: /joseluis/index.html
+    slug: joseluis
+  - name: José María Arguedas
+    path: /jma/index.html
+    slug: jma
+  - name: José Martí
+    path: /marti/index.html
+    slug: marti
+  - name: Juan Bosch
+    path: /juanbosch/index.html
+    slug: juanbosch
+  - name: Juan Carlos Onetti
+    path: /onetti/index.html
+    slug: onetti
+  - name: Juan Rulfo
+    path: /rulfo/index.html
+    slug: rulfo
+  - name: Julia de Burgos
+    path: /julia/index.html
+    slug: julia
+  - name: Julio Cortázar
+    path: /cortazar/index.html
+    slug: cortazar
+  - name: Julio Ramón Ribeyro
+    path: /julio/index.html
+    slug: julio
+  - name: Liliana Heker
+    path: /liliana/index.html
+    slug: liliana
+  - name: Lino Novás Calvo
+    path: /lino/index.html
+    slug: lino
+  - name: Manuel Mujica Lainez
+    path: /mujica/index.html
+    slug: mujica
+  - name: Manuel Rojas
+    path: /manuel/index.html
+    slug: manuel
+  - name: Manuel Rueda
+    path: /rueda/index.html
+    slug: rueda
+  - name: María Luisa Bombal
+    path: /maria/index.html
+    slug: maria
+  - name: Mario Benedetti
+    path: /benedetti/index.html
+    slug: benedetti
+  - name: Miguel Ángel Asturias
+    path: /miguel/index.html
+    slug: miguel
+  - name: Onelio Jorge Cardoso
+    path: /onelio/index.html
+    slug: onelio
+  - name: Óscar Collazos
+    path: /oscar/index.html
+    slug: oscar
+  - name: Pablo Antonio Cuadra
+    path: /cuadra/index.html
+    slug: cuadra
+  - name: Pablo Neruda
+    path: /neruda/index.html
+    slug: neruda
+  - name: Pedro Gómez Valderrama
+    path: /pgv/index.html
+    slug: pgv
+  - name: Reinaldo Arenas
+    path: /arenas/index.html
+    slug: arenas
+  - name: Ricardo Piglia
+    path: /piglia/index.html
+    slug: piglia
+  - name: Roberto Arlt
+    path: /arlt/index.html
+    slug: arlt
+  - name: Roberto Bolaño
+    path: /bolano/index.html
+    slug: bolano
+  - name: "Roberto Fernández\n      Retamar"
+    path: /roberto/index.html
+    slug: roberto
+  - name: Rómulo Gallegos
+    path: /romulo/index.html
+    slug: romulo
+  - name: Roque Dalton
+    path: /roque/index.html
+    slug: roque
+  - name: Rosario Ferré
+    path: /ferre/index.html
+    slug: ferre
+  - name: Sergio Ramírez
+    path: /sergio/index.html
+    slug: sergio
+  - name: "Virgilio Díaz\n      Grullón"
+    path: /virgilio/index.html
+    slug: virgilio
+  - name: Franz Kafka
+    path: /idiomas/fk.html
+    slug: idiomas
+  - name: Rainer María Rilke
+    path: /idiomas/rmr.html
+    slug: idiomas
+  - name: Thomas Mann
+    path: /idiomas/tm.html
+    slug: idiomas
+  - name: Milan Kundera
+    path: /idiomas/mk.html
+    slug: idiomas
+  - name: Alfred de Musset
+    path: /idiomas/musset/index.html
+    slug: idiomas
+  - name: Alphonse Daudet
+    path: /idiomas/daudet/index.html
+    slug: idiomas
+  - name: George Simenon
+    path: /idiomas/simenon/index.html
+    slug: idiomas
+  - name: Guy de Maupassant
+    path: /idiomas/gdm.html
+    slug: idiomas
+  - name: Prosper Merimée
+    path: /idiomas/merimee/index.html
+    slug: idiomas
+  - name: Aldous Huxley
+    path: /idiomas/huxley/index.html
+    slug: idiomas
+  - name: Alice Munro
+    path: /idiomas/aam.html
+    slug: idiomas
+  - name: Ambrose Bierce
+    path: /idiomas/ab.html
+    slug: idiomas
+  - name: Amy Hempel
+    path: /idiomas/ah.html
+    slug: idiomas
+  - name: Arthur Conan Doyle
+    path: /idiomas/acd/index.html
+    slug: idiomas
+  - name: Bernard Malamud
+    path: /idiomas/malamud/index.html
+    slug: idiomas
+  - name: Bret Harte
+    path: /idiomas/fbh/index.html
+    slug: idiomas
+  - name: Carson McCullers
+    path: /idiomas/cmc.html
+    slug: idiomas
+  - name: Charles Dickens
+    path: /idiomas/dickens/index.html
+    slug: idiomas
+  - name: Cynthia Ozick
+    path: /idiomas/ozick/index.html
+    slug: idiomas
+  - name: D. H. Lawrence
+    path: /idiomas/dhl/index.html
+    slug: idiomas
+  - name: Doris Lessing
+    path: /idiomas/lessing/index.html
+    slug: idiomas
+  - name: Edgar Allan Poe
+    path: /idiomas/eap.html
+    slug: idiomas
+  - name: E. L. Doctorow
+    path: /idiomas/eld.html
+    slug: idiomas
+  - name: Ernest Hemingway
+    path: /idiomas/eh.html
+    slug: idiomas
+  - name: Eudora Welty
+    path: /idiomas/ew.html
+    slug: idiomas
+  - name: F. Scott Fitzgerald
+    path: /idiomas/fsc.html
+    slug: idiomas
+  - name: Flannery O’Connor
+    path: /idiomas/foc.html
+    slug: idiomas
+  - name: G. K. Chesterton
+    path: /idiomas/gkc.html
+    slug: idiomas
+  - name: George Saunders
+    path: /idiomas/gs.html
+    slug: idiomas
+  - name: Grace Paley
+    path: /idiomas/gp.html
+    slug: idiomas
+  - name: Graham Greene
+    path: /idiomas/greene/index.html
+    slug: idiomas
+  - name: Henry James
+    path: /idiomas/james/index.html
+    slug: idiomas
+  - name: Herman Melville
+    path: /idiomas/hm.html
+    slug: idiomas
+  - name: H. G. Wells
+    path: /idiomas/hgw.html
+    slug: idiomas
+  - name: Ian McEwan
+    path: /idiomas/im.html
+    slug: idiomas
+  - name: Isak Dinesen
+    path: /idiomas/id.html
+    slug: idiomas
+  - name: J. D. Salinger
+    path: /idiomas/jds.html
+    slug: idiomas
+  - name: Jack London
+    path: /idiomas/london/index.html
+    slug: idiomas
+  - name: James Joyce
+    path: /idiomas/jjoyce.html
+    slug: idiomas
+  - name: James Thurber
+    path: /idiomas/jt.html
+    slug: idiomas
+  - name: Jhumpa Lahiri
+    path: /idiomas/jhl.html
+    slug: idiomas
+  - name: John Cheever
+    path: /idiomas/jc.html
+    slug: idiomas
+  - name: John O’Connor
+    path: /idiomas/franko/index.html
+    slug: idiomas
+  - name: John O’Hara
+    path: /idiomas/ohara/index.html
+    slug: idiomas
+  - name: John Steinbeck
+    path: /idiomas/js.html
+    slug: idiomas
+  - name: John Updike
+    path: /idiomas/jup/index.html
+    slug: idiomas
+  - name: Joseph Conrad
+    path: /idiomas/conrad/index.html
+    slug: idiomas
+  - name: Joy Williams
+    path: /idiomas/jw.html
+    slug: idiomas
+  - name: Joyce Carol Oates
+    path: /idiomas/jco.html
+    slug: idiomas
+  - name: Kate Chopin
+    path: /idiomas/kate/index.html
+    slug: idiomas
+  - name: Katherine Anne Porter
+    path: /idiomas/kap.html
+    slug: idiomas
+  - name: Katherine Mansfield
+    path: /idiomas/km/index.html
+    slug: idiomas
+  - name: Lorrie Moore
+    path: /idiomas/lm.html
+    slug: idiomas
+  - name: Louise Erdrich
+    path: /idiomas/le.html
+    slug: idiomas
+  - name: Lydia Davis
+    path: /idiomas/ld/index.html
+    slug: idiomas
+  - name: Margaret Atwood
+    path: /idiomas/ma.html
+    slug: idiomas
+  - name: Mark Twain
+    path: /idiomas/mt.html
+    slug: idiomas
+  - name: Nathaniel Hawthorne
+    path: /idiomas/nh.html
+    slug: idiomas
+  - name: O. Henry
+    path: /idiomas/ohenry/index.html
+    slug: idiomas
+  - name: Oscar Wilde
+    path: /idiomas/ow.html
+    slug: idiomas
+  - name: Philip Roth
+    path: /idiomas/pr.html
+    slug: idiomas
+  - name: Raymond Carver
+    path: /idiomas/rc.html
+    slug: idiomas
+  - name: Richard Ford
+    path: /idiomas/rf.html
+    slug: idiomas
+  - name: Robert Louis Stevenson
+    path: /idiomas/rls/index.html
+    slug: idiomas
+  - name: Rudyard Kipling
+    path: /idiomas/rk.html
+    slug: idiomas
+  - name: Sarah Orne Jewett
+    path: /idiomas/sarah/index.html
+    slug: idiomas
+  - name: Saul Bellow
+    path: /idiomas/saul/index.html
+    slug: idiomas
+  - name: Sherwood Anderson
+    path: /idiomas/sa.html
+    slug: idiomas
+  - name: Shirley Jackson
+    path: /idiomas/shirley/index.html
+    slug: idiomas
+  - name: Stephen Crane
+    path: /idiomas/sc.html
+    slug: idiomas
+  - name: Susan Sontag
+    path: /idiomas/sontag/index.html
+    slug: idiomas
+  - name: T.S. Eliot
+    path: /idiomas/tse.html
+    slug: idiomas
+  - name: Tim O’Brien
+    path: /idiomas/to.html
+    slug: idiomas
+  - name: Tobias Wolff
+    path: /idiomas/tw.html
+    slug: idiomas
+  - name: Truman Capote
+    path: /idiomas/tc.html
+    slug: idiomas
+  - name: Virginia Woolf
+    path: /idiomas/vw.html
+    slug: idiomas
+  - name: W. Somerset Maugham
+    path: /idiomas/maugham/index.html
+    slug: idiomas
+  - name: Washington Irving
+    path: /idiomas/wi.html
+    slug: idiomas
+  - name: Willa Cather
+    path: /idiomas/willa/index.html
+    slug: idiomas
+  - name: William Faulkner
+    path: /idiomas/wf.html
+    slug: idiomas
+  - name: Amos Oz
+    path: /idiomas/ao.html
+    slug: idiomas
+  - name: Alberto Moravia
+    path: /idiomas/am/index.html
+    slug: idiomas
+  - name: Cesare Pavese
+    path: /idiomas/cp.html
+    slug: idiomas
+  - name: Dino Buzzati
+    path: /idiomas/buzzati/index.html
+    slug: idiomas
+  - name: Italo Calvino
+    path: /idiomas/calvino.html
+    slug: idiomas
+  - name: Luigi Pirandello
+    path: /idiomas/lp.html
+    slug: idiomas
+  - name: Tommaso Landolfi
+    path: /idiomas/tommaso/index.html
+    slug: idiomas
+  - name: Ryûnosuke Akutagawa
+    path: /idiomas/ra.html
+    slug: idiomas
+  - name: Yasunari Kawabata
+    path: /idiomas/yk.html
+    slug: idiomas
+  - name: Clarice Lispector
+    path: /idiomas/cl.html
+    slug: idiomas
+  - name: João Guimarães Rosa
+    path: /idiomas/jgr.html
+    slug: idiomas
+  - name: José Maria Eça de Queirós
+    path: /idiomas/edq.html
+    slug: idiomas
+  - name: Machado de Assís
+    path: /idiomas/mda.html
+    slug: idiomas
+  - name: Rubem Fonseca
+    path: /idiomas/rf/index.html
+    slug: idiomas
+  - name: Aleksandr Pushkin
+    path: /idiomas/pushkin/index.html
+    slug: idiomas
+  - name: Antón Chéjov
+    path: /idiomas/ac/ac.html
+    slug: idiomas
+  - name: Feodor Dostoievski
+    path: /idiomas/fd.html
+    slug: idiomas
+  - name: Isaac Babel
+    path: /idiomas/babel/index.html
+    slug: idiomas
+  - name: Iván S. Turguénev
+    path: /idiomas/ivant/index.html
+    slug: idiomas
+  - name: León Tolstói
+    path: /idiomas/lt.html
+    slug: idiomas
+  - name: Maksim Gorki
+    path: /idiomas/gorki/index.html
+    slug: idiomas
+  - name: Nikolái Gógol
+    path: /idiomas/gogol/index.html
+    slug: idiomas
+  - name: Vladimir Nabokov
+    path: /idiomas/vn.html
+    slug: idiomas
+  - name: Stig Dagerman
+    path: /idiomas/stig/index.html
+    slug: idiomas
+  - name: Isaac Bashevis Singer
+    path: /idiomas/ibs.html
+    slug: idiomas

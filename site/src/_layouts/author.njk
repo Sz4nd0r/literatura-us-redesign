@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+
+<article>
+  <header>
+    <h1>{{ title }}</h1>
+  </header>
+
+  <div class="reader-content">
+    {{ content | safe }}
+  </div>
+
+  <section>
+    <h2>Obras disponibles</h2>
+    <ul>
+    {% for work in collections.works %}
+      {% if work.tags[1] == tags[1] and work.layout == "story" %}
+        <li><a href="{{ work.url }}">{{ work.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </section>
+</article>
