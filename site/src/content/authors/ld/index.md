@@ -1,0 +1,10 @@
+---
+layout: author
+title: Lydia Davis
+slug: index
+source: https://www.literatura.us/idiomas/ld/index.html
+tags:
+  - index
+  - ld
+---
+¿Quién es Lydia Davis? ![Lydia Davis](/assets/images/ld.jpg) Lydia Davis es una narradora, traductora y crítica literaria estadounidense. Es conocida por sus cuentos breves (y a veces, brevísimos) y por sus traducciones del francés. En 2007, fue finalista para el National Book Award Fiction (por Varieties of Disturbance: Stories) y obtuvo el Man Booker International Prize, en 2013. Lydia Davis nació el 15 de julio de 1947, en Northampton, Massachussets. Son sus padres Robert Gorham Davis, crítico y profesor de inglés, y Hope Hale Davis, maestra y escritora de cuentos. Davis inicialmente estudió música (primero piano, y luego violín), pero eventualmente estudió inglés y latín. Estuvo un año en Austria, donde aprendió alemán. Estudió en Barnard College. En 1974, Davis se casó con Paul Auster, con quien tuvo un hijo, Daniel; pero el matrimonio terminó en divorcio. Actualmente está casada con el artista Alan Cote, con quien tuvo su segundo hijo, Theo Cote. Recibió una beca Guggenheim, en 1997, y una MacArthur Fellowship, en 2003. Es profesora de escritura creativa en la universidad del estado de Nueva York (SUNY), en Albany, y fue, en 2012, la Lillian Vernon Distinguida Escritora-en-Residencia de la Universidad de Nueva York (NYU). Davis ha publicado ocho colecciones de ficción. En 2009, publicó The Collected Stories of Lydia Davis, que contiene toda su ficción hasta 2008. Su colección más reciente es Can’t and Won’t, publicada en 2013. ÍNDICE: Cuentos: Almost No Memory (1997): —St. Martín —La casa de atrás Samuel Johnson Is Indignant (2001): —Césped recién cortado [A Mown Lawn] —Traición —El viejo diccionario Varieties of Disturbance (2007): —Televisión Can't and Won't: Stories (2013): —Hombres 

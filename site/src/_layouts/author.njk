@@ -1,24 +1,39 @@
----
-layout: base.njk
----
+{% extends "./base.njk" %}
 
-<article>
-  <header>
-    <h1>{{ title }}</h1>
-  </header>
+{% block content %}
+  <article class="max-w-4xl mx-auto py-16 px-8 min-h-screen">
+    <div class="bg-white shadow-2xl border border-gray-100 p-12 mb-12 rounded-none relative">
+      <div class="absolute top-0 right-0 w-24 h-24 bg-gray-50 -mr-12 -mt-12 rotate-45 border-b border-l border-gray-200"></div>
+      
+      <header class="mb-12 border-b border-gray-100 pb-8">
+        <h1 class="text-5xl font-serif font-bold text-gray-900 leading-tight mb-4">{{ title }}</h1>
+        <div class="w-24 h-1 bg-blue-600"></div>
+      </header>
 
-  <div class="reader-content">
-    {{ content | safe }}
-  </div>
+      <div class="reader-content prose prose-lg prose-slate max-w-none" id="reader-author">
+        {{ content | safe }}
+      </div>
+    </div>
 
-  <section>
-    <h2>Obras disponibles</h2>
-    <ul>
-    {% for work in collections.works %}
-      {% if work.tags[1] == tags[1] and work.layout == "story" %}
-        <li><a href="{{ work.url }}">{{ work.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-    </ul>
-  </section>
-</article>
+    <section class="mt-20">
+      <h2 class="text-2xl font-serif font-bold text-gray-900 mb-8 flex items-center">
+        <span class="bg-gray-900 text-white px-3 py-1 text-sm uppercase tracking-widest mr-4">Obras</span>
+        Obras disponibles
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {% for work in collections.works %}
+          {% if work.tags[1] == slug or work.tags[1] == tags[1] %}
+            <a href="{{ work.url }}" class="group bg-white p-6 border border-gray-100 shadow-sm hover:shadow-xl transition-all duration-300 flex items-center justify-between">
+              <span class="text-gray-800 group-hover:text-blue-700 font-serif font-medium transition-colors">{{ work.title }}</span>
+              <span class="text-gray-300 group-hover:text-blue-400 transform group-hover:translate-x-2 transition-all">&rarr;</span>
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </section>
+  </article>
+{% endblock %}
+
+{% block scripts %}
+  <script src="/assets/js/formatter.js"></script>
+{% endblock %}

@@ -2,19 +2,20 @@
 layout: base.njk
 title: Literatura US
 ---
-<section>
-  <h1>Literatura US</h1>
-  <p>
-    Esta página consistirá de una biblioteca personal: incluirá autores que creemos, como lectores, importantes. Se incluirán autores que muchos considerarán “menores” y se excluirán otros considerados “imprescindibles”.
-      Toda antología es arbitriaria e incompleta. Esta selección no es, entonces, una excepción.
-  </p>
-<section>
-  <h2>Explorar Autores</h2>
-  <div class="author-grid">
+<section class="max-w-7xl mx-auto py-12 px-8 min-h-screen">
+  <div class="mb-16 max-w-2xl">
+    <h1 class="text-4xl font-serif font-bold mb-6 text-gray-900 leading-tight">Biblioteca Literatura US</h1>
+    <p class="text-lg text-gray-700 leading-relaxed font-serif italic border-l-4 border-gray-300 pl-6">
+      "Esta página consistirá de una biblioteca personal: incluirá autores que creemos, como lectores, importantes. Se incluirán autores que muchos considerarán “menores” y se excluirán otros considerados “imprescindibles”. Toda antología es arbitraria e incompleta. Esta selección no es, entonces, una excepción."
+    </p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     {% for author in collections.authors %}
-      <a href="content/authors/{{ author.slug }}/" class="author-card">
-        <h2>{{ author.name }}</h2>
-        <p>Ver obras relacionadas</p>
+      <a href="content/authors/{{ author.slug }}/" class="group bg-white p-5 border border-gray-200 shadow-sm hover:shadow-xl transition-all duration-300 rounded-none relative flex items-center justify-between">
+        <div class="absolute inset-y-0 left-0 w-1 bg-gray-100 group-hover:bg-blue-600 transition-colors duration-300"></div>
+        <h2 class="text-lg font-serif font-bold text-gray-800 ml-4 group-hover:text-blue-800 transition-colors">{{ author.name }}</h2>
+        <span class="text-gray-300 group-hover:text-blue-600 group-hover:translate-x-1 transition-all mr-2">&rarr;</span>
       </a>
     {% endfor %}
   </div>
