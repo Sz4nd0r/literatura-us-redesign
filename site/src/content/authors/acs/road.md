@@ -7,4 +7,123 @@ tags:
   - road
   - acs
 ---
-Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972) The Road of Excess Leads to the Palace of Wisdom Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.) —El viejo Blake Aunque por más de veinte años hemos vivido juntos; escandalizado juntos; emborrachado juntos; disparado juntos a las lechuzas y a los faroles de las escuelas de Bellas Artes; toreado juntos; cantado juntos las nanas de las garrapatas que parió la gata; construído cartillas reemplazando en las letras encerradas los cuadros coloreados de bandera colombiana por símbolos que nos permitan juntos entendernos mejor; recibido juntos más de un centenar de brechas que debieron ser cosidas por puntadas de sutura en broncas, accidentes y simples tonterías; aunque por mas de veinte años hemos cogido juntos la vida por los cachos, y si ha sido necesario también por el rabo, y la hemos tratado de agotar a patadas y a riesgo de piel sin perder nuestro infinito afan de estar vivos y juntos: a pesar de todo esto yo nunca he escrito sobre Obregón porque es el único hombre a quien confiaría mis hijos para siempre. (Lo que sin constituir abiertamente una declaración de amor, pero si de confianza, indica que nunca hemos enredado nuestras profesiones). Porque Obregón tampoco me ha pintado nunca un retrato, ni nunca me ha regalado un cuadro, ni me ha ilustrado un libro. Esto de no mezclar utilitariamente nuestros oficios, nos ha permitido, creo yo, establecer un vinculo poco comprensible para la gran mayoría de sapos que brincan a nuestro alrededor (más alrededor de Obregón que del mío) que no necesita de públicas ni privadas ni periódicas reafirmaciones que lo mantengan invariable a través de tantos años y vericuetos. Por qué salgo ahora, después de semejante explicación, y sin razón alguna, con este cuento sobre Obregón, casi traído de los pelos? Me ha pintado un retrato? Me ha regalado un cuadro? Me ha ilustrado un libro? No. Pero hemos llegado a un acuerdo: Obregón va a escribir Los Cuentos de Juana, esa novela que hace diez años estoy pintando. Para eso precisamente está la introducción: para que no lo entienda nadie. La explicación viene en el diálogo, y para aquellos a quienes la envidia, o la estupidez, o simplemente la ingeniería del concreto armado, no les permite encontrar la razón, voy a decirselo de una vez para ahorrarles tiempo, trabajo y bilis. —Estamos cansados del arte que se hace hoy y que se ha hecho en toda la historia. Y esto hay que decirlo con letras, creo yo, porque Obregón ha estado siempre diciéndolo a gritos, a tremendos o románticos tramojazos de color, y ahora a rugosos volúmenes de bronce que no saben si volar solos o volver a la plana quietud de los lienzos, las paredes, los cartones, o las maderas. Y nadie parece haberlo oído. Vamos a ver si ahora, usando otros símbolos, más elementales y aparentemente más manoseados, van a oir la gran verdad de Obregón que vamos a gritar a coro, coro ensordecedor, coro costeño, coro de hombres y no de mariconcitos con pantaloncitos ajustados a entecas nalguitas bogotanas. No vamos a hablar de su pintura ni de sus esculturas. No me interesa su oficio: eso esta ahí: para verlo cada uno a su manera y cada uno puede sentir o ver o maldecir o escupir o acariciar, si quieren, su obra monumental, monstruosa, sensiblera, asombrosa, de segura y fuerte muñeca siempre, irregular como todo lo que resulta de la actitud, habilidad, curiosidad, pasión, compasión, alegría, prisa o aburrimiento frente a la vida diaria e inexorable. Llamese ese genio Pelé, Picasso, Marini, Oppenhlimer, Brancusi, Van Eyk, Fellini, Vivaldi, Faulkner, Britten, García Ponce, Tolstoi, Obregón, Neruda, Bacon, García Márquez o Pedro Yudez. Pensar o sentir, repito, lo que le salga de donde quisiera salirle: la obra está ahí: desafiante, respondiendo a color, forma, linea, volumen, metal, altaneramente y por sí sola a lo que quieran decirle. Eso de decir u opinar sobre la obra de un artista, especialmente de uno tan caótico y cósmico como Obregón, lo dejo a los parasitos prepotentes, a los críticos, que no sé por qué cada vez que paso volando, no que leo porque hay en este mundo millones de cosas más agradables que hacer que leer a los críticos de cine, literatura o base-ball, no sé pero siempre recuerdo aquel pedazo de Calderón que me hacian aprender en el colegio de Ciénaga, frente al Templete que hizo que Juana se pegara un tiro al recordar, justamente al salir del casamiento, que ella ya estaba rota, aquella del pobre sabio que se lamentaba porque solo hierbas tenía para comer, pero que de puro pendejo se alegró inmensamente al ver que otro sabio, más pobre que él, o más flojo, recogía las hierbas que el primero botaba ya masticadas. Y es que el artista es ya un parásito y solo se da en las sociedades afluentes —a mayor afluencia mejor arte. Ahora a qué denominación de los platelmintos perteneceran los críticos: parásitos que viven de parásitos? (—Es una interesante especulación: a los gusanos que se comen los cadáveres qué otros gusanos se los comen a ellos? O es que se mueren de hartura? ) Punto. Y al diálogo: —¿Has leído Cien años de soledad? —Yo sí, pero Alvaro Cepeda no. Y eso me consta. —¿Y te gustó? —A mí no pero a Alvaro Cepeda sí. —¿Por qué te gusto? —Porque como no sé mucho de eso. O mejor porque como nunca tengo mucho tiempo entre el va y el viene..... —¿Del arte? —No: de los viajes entre Barranquilla y Cartagena en jeeps que casi nunca pasan de Luruaco. —¿Y por qué afirmas tan vehementemente que a Alvaro Cepeda sí le gustó? —Porque es cómplice. —¿Para qué sirve en este caso la complicidad? No creo que García Márquez necesite más cómplices que Faulkner y el idioma castellano, o a la visconversa. —La complicidad, en este caso particular, significa otra cosa que la gente no sabe, ni siquiera sospecha: significa ternura, respeto, discreción a gritos, amor a rajatabla y todo lo demas que solamente está al alcance de los que viven a flor de piel. —Entonces no es acusación, porque no te parece que todavía no es hora de comenzar a darnos trompadas. El diálogo esta todavía a 16 decibeles. —Qué es eso? Delfines debajo del agua de la Fuente de La Cibeles? —No. Son las unidades para medir la intensidad de los sonidos. Algo así como los espectrómetros, que miden la intensidad de los colores. —Eso es hablar de pintura: y yo de eso no hablo. —Si te parece. —Sí me parece: la pintura -Obregón se agacha, se humilla, se rasca la cabeza, se sopla un trago, y continua, mejor, principia: tiene un valor silente que produce un rubor de verdes oscuros, ya que los pintores, que todavia quedamos, y creemos, somos muy pocos..... —Eso lo sé. —No interrumpas y déjame seguir porque eso precisamente es lo que hace que los reportajes de los periodistas colombianos no se los lean ni los presos: las preguntas son siempre más largas y aburridas que las respuestas. Pero en este caso el que habla soy yo y no tú. Obregón continua: andamos cargando, como el hombre del bacalao a cuestas de la emulsion de Scott, la futilidad de la pintura. —Entonces ¿tú no crees en la pintura? —Sí —No. Y déjame seguir escribiendo, porque el resto lo hacemos mal. —¿Qué hacemos mal: pintar o escribir? —Gabo me contó un día que él quería ser arquitecto, cayó en lo que no tocaba, a pesar de hacerlo muy bien. Un día me encontré contigo y me dijiste que el cuento de los soldaditos era para pintarlo (Casa Grande) (El paréntesis es de Obregón). Lo que indica que no hay que reirse demasiado en los puntos de angustia en los cuales uno es útil, sea o no lo de uno. —¿Qué es utilidad? ¿Conveniencia? ¿Éxito? ¿Ternura? ¿Cuidandería? ¿O la gran mamadera de gallo? —Alvaro, cambiemos de puesto porque yo creo que tu oficio es pintar y el mío escribir. —Lo que prueba que todo lo que hemos dicho toda la vida es verdad. —Aceptado: pregunta. —¿Por qué dices que la pintura no sirve? —Porque contra lo establecido, la gente en vez de tener sensaciones pictóricas todo lo quiere en blanco y negro. No saben que hacer con los colores. —Pero eso no la invalida como cosa utilitaria. —Dentro del arte, hay una pujanza que trata de convencer a la gente que uno tiene la mas grande y mas terrible duda: eso es humildad. —¿Eso quiere decir que la gente compra el arte para compartir la duda, es decir, como comprar bulas papales y compartir la angustia de la religion? —Exacto: la pintura es una mística visual. Cuando a la gente le sale el hígado por los ojos compra cuadros porque es la única manera de verse las entrañas y eso es el mejor espectáculo del mundo: aunque es falso. —Pero estamos hablando precisamente de lo que yo no quiero: de pintura. Es como meterme en los terrenos del toro y yo no soy tan pendejo como para dejar que me cojan fuera de base. —Yo tampoco, y si quieres literatura ahí voy: en San Antonio de la Florida fuí a buscar el cróneo de Goya. Y resulta que las putas de la Capilla de San Antonio de la Florida eran la Reina María Luisa y el gran cabrón del monasterio era Godoy. Y para que quede manifiesto que el arte sirve para hacer una feria, puedo afirmar que Goya inventó las fiestas de San Isidro para hacer de su pequeno invento una gran fiesta respetable. —Pero esto no es literatura sino historia, es un cuento de Juana. —¿Y que es la literatura sino la gran historia del mundo bien contada? —Mano, ¿te gusta escribir? —A mí sí, pero no me da la gana. —¿Y a tí te gusta pintar? —A mí no, pero me da la gana. Ahora sí vamos por donde es. ¿Y de la vida? —Primun Vivere y endespués philosofare. —Pero eso no es Griego: es Cienaguero: el que se murió se jodió. 
+# The Road of Excess Leads to the Palace of Wisdom
+
+*Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
+*Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
+
+*—El viejo Blake*
+
+Aunque por más de veinte años hemos vivido juntos; escandalizado juntos; emborrachado juntos; disparado juntos a las lechuzas y a los faroles de las escuelas de Bellas Artes; toreado juntos; cantado juntos las nanas de las garrapatas que parió la gata; construido cartillas reemplazando en las letras encerradas los cuadros coloreados de bandera colombiana por símbolos que nos permitan juntos entendernos mejor; recibido juntos más de un centenar de brechas que debieron ser cosidas por puntadas de sutura en broncas, accidentes y simples tonterías; aunque por mas de veinte años hemos cogido juntos la vida por los cachos, y si ha sido necesario también por el rabo, y la hemos tratado de agotar a patadas y a riesgo de piel sin perder nuestro infinito afán de estar vivos y juntos: a pesar de todo esto yo nunca he escrito sobre Obregón porque es el único hombre a quien confiaría mis hijos para siempre. (Lo que sin constituir abiertamente una declaración de amor, pero si de confianza, indica que nunca hemos enredado nuestras profesiones).
+
+Porque Obregón tampoco me ha pintado nunca un retrato, ni nunca me ha regalado un cuadro, ni me ha ilustrado un libro. Esto de no mezclar utilitariamente nuestros oficios, nos ha permitido, creo yo, establecer un vinculo poco comprensible para la gran mayoría de sapos que brincan a nuestro alrededor (más alrededor de Obregón que del mío) que no necesita de públicas ni privadas ni periódicas reafirmaciones que lo mantengan invariable a través de tantos años y vericuetos.
+
+¿Por qué salgo ahora, después de semejante explicación, y sin razón alguna, con este cuento sobre Obregón, casi traído de los pelos? ¿Me ha pintado un retrato? ¿Me ha regalado un cuadro? ¿Me ha ilustrado un libro? No. Pero hemos llegado a un acuerdo: Obregón va a escribir Los Cuentos de Juana, esa novela que hace diez años estoy pintando. Para eso precisamente está la introducción: para que no lo entienda nadie.
+
+La explicación viene en el diálogo, y para aquellos a quienes la envidia, o la estupidez, o simplemente la ingeniería del concreto armado, no les permite encontrar la razón, voy a decírselo de una vez para ahorrarles tiempo, trabajo y bilis.
+
+—Estamos cansados del arte que se hace hoy y que se ha hecho en toda la historia.
+
+Y esto hay que decirlo con letras, creo yo, porque Obregón ha estado siempre diciéndolo a gritos, a tremendos o románticos tramojazos de color, y ahora a rugosos volúmenes de bronce que no saben si volar solos o volver a la plana quietud de los lienzos, las paredes, los cartones, o las maderas. Y nadie parece haberlo oído. Vamos a ver si ahora, usando otros símbolos, más elementales y aparentemente más manoseados, van a oír la gran verdad de Obregón que vamos a gritar a coro, coro ensordecedor, coro costeño, coro de hombres y no de mariconcitos con pantaloncitos ajustados a entecas nalguitas bogotanas.
+
+No vamos a hablar de su pintura ni de sus esculturas. No me interesa su oficio: eso esta ahí: para verlo cada uno a su manera y cada uno puede sentir o ver o maldecir o escupir o acariciar, si quieren, su obra monumental, monstruosa, sensiblera, asombrosa, de segura y fuerte muñeca siempre, irregular como todo lo que resulta de la actitud, habilidad, curiosidad, pasión, compasión, alegría, prisa o aburrimiento frente a la vida diaria e inexorable. Llámese ese genio Pelé, Picasso, Marini, Oppenhlimer, Brancusi, Van Eyk, Fellini, Vivaldi, Faulkner, Britten, García Ponce, Tolstoi, Obregón, Neruda, Bacon, García Márquez o Pedro Yudez.
+
+Pensar o sentir, repito, lo que le salga de donde quisiera salirle: la obra está ahí: desafiante, respondiendo a color, forma, línea, volumen, metal, altaneramente y por sí sola a lo que quieran decirle. Eso de decir u opinar sobre la obra de un artista, especialmente de uno tan caótico y cósmico como Obregón, lo dejo a los parásitos prepotentes, a los críticos, que no sé por qué cada vez que paso volando, no que leo porque hay en este mundo millones de cosas más agradables que hacer que leer a los críticos de cine, literatura o base-ball, no sé pero siempre recuerdo aquel pedazo de Calderón que me hacían aprender en el colegio de Ciénaga, frente al Templete que hizo que Juana se pegara un tiro al recordar, justamente al salir del casamiento, que ella ya estaba rota, aquella del pobre sabio que se lamentaba porque solo hierbas tenía para comer, pero que de puro pendejo se alegró inmensamente al ver que otro sabio, más pobre que él, o más flojo, recogía las hierbas que el primero botaba ya masticadas.
+
+Y es que el artista es ya un parásito y solo se da en las sociedades afluentes —a mayor afluencia mejor arte. Ahora a qué denominación de los platelmintos pertenecerán los críticos: ¿parásitos que viven de parásitos?
+
+(—Es una interesante especulación: ¿a los gusanos que se comen los cadáveres qué otros gusanos se los comen a ellos? ¿O es que se mueren de hartura?)
+
+Punto. Y al diálogo:
+
+—¿Has leído Cien años de soledad?
+
+—Yo sí, pero Álvaro Cepeda no. Y eso me consta.
+
+—¿Y te gustó?
+
+—A mí no pero a Álvaro Cepeda sí.
+
+—¿Por qué te gustó?
+
+—Porque como no sé mucho de eso. O mejor porque como nunca tengo mucho tiempo entre el va y el viene...
+
+—¿Del arte?
+
+—No: de los viajes entre Barranquilla y Cartagena en jeeps que casi nunca pasan de Luruaco.
+
+—¿Y por qué afirmas tan vehementemente que a Álvaro Cepeda sí le gustó?
+
+—Porque es cómplice.
+
+—¿Para qué sirve en este caso la complicidad? No creo que García Márquez necesite más cómplices que Faulkner y el idioma castellano, o a la visconversa.
+
+—La complicidad, en este caso particular, significa otra cosa que la gente no sabe, ni siquiera sospecha: significa ternura, respeto, discreción a gritos, amor a rajatabla y todo lo demás que solamente está al alcance de los que viven a flor de piel.
+
+—Entonces no es acusación, porque no te parece que todavía no es hora de comenzar a darnos trompadas. El diálogo esta todavía a 16 decibeles.
+
+—¿Qué es eso? ¿Delfines debajo del agua de la Fuente de La Cibeles?
+
+—No. Son las unidades para medir la intensidad de los sonidos. Algo así como los espectrómetros, que miden la intensidad de los colores.
+
+—Eso es hablar de pintura: y yo de eso no hablo.
+
+—Si te parece.
+
+—Sí me parece: la pintura —Obregón se agacha, se humilla, se rasca la cabeza, se sopla un trago, y continua, mejor, principia: tiene un valor silente que produce un rubor de verdes oscuros, ya que los pintores, que todavía quedamos, y creemos, somos muy pocos...
+
+—Eso lo sé.
+
+—No interrumpas y déjame seguir porque eso precisamente es lo que hace que los reportajes de los periodistas colombianos no se los lean ni los presos: las preguntas son siempre más largas y aburridas que las respuestas. Pero en este caso el que habla soy yo y no tú.
+
+Obregón continua:
+
+—Andamos cargando, como el hombre del bacalao a cuestas de la emulsión de Scott, la futilidad de la pintura.
+
+—Entonces ¿tú no crees en la pintura?
+
+—Sí. —No. Y déjame seguir escribiendo, porque el resto lo hacemos mal.
+
+—¿Qué hacemos mal: pintar o escribir?
+
+—Gabo me contó un día que él quería ser arquitecto, cayó en lo que no tocaba, a pesar de hacerlo muy bien. Un día me encontré contigo y me dijiste que el cuento de los soldaditos era para pintarlo (*Casa Grande*) (El paréntesis es de Obregón). Lo que indica que no hay que reírse demasiado en los puntos de angustia en los cuales uno es útil, sea o no lo de uno.
+
+—¿Qué es utilidad? ¿Conveniencia? ¿Éxito? ¿Ternura? ¿Cuidandería? ¿O la gran mamadera de gallo?
+
+—Álvaro, cambiemos de puesto porque yo creo que tu oficio es pintar y el mío escribir.
+
+—Lo que prueba que todo lo que hemos dicho toda la vida es verdad.
+
+—Aceptado: pregunta.
+
+—¿Por qué dices que la pintura no sirve?
+
+—Porque contra lo establecido, la gente en vez de tener sensaciones pictóricas todo lo quiere en blanco y negro. No saben qué hacer con los colores.
+
+—Pero eso no la invalida como cosa utilitaria.
+
+—Dentro del arte, hay una pujanza que trata de convencer a la gente que uno tiene la mas grande y mas terrible duda: eso es humildad.
+
+—¿Eso quiere decir que la gente compra el arte para compartir la duda, es decir, como comprar bulas papales y compartir la angustia de la religión?
+
+—Exacto: la pintura es una mística visual. Cuando a la gente le sale el hígado por los ojos compra cuadros porque es la única manera de verse las entrañas y eso es el mejor espectáculo del mundo: aunque es falso.
+
+—Pero estamos hablando precisamente de lo que yo no quiero: de pintura. Es como meterme en los terrenos del toro y yo no soy tan pendejo como para dejar que me cojan fuera de base.
+
+—Yo tampoco, y si quieres literatura ahí voy: en San Antonio de la Florida fui a buscar el cráneo de Goya. Y resulta que las putas de la Capilla de San Antonio de la Florida eran la Reina María Luisa y el gran cabrón del monasterio era Godoy. Y para que quede manifiesto que el arte sirve para hacer una feria, puedo afirmar que Goya inventó las fiestas de San Isidro para hacer de su pequeño invento una gran fiesta respetable.
+
+—Pero esto no es literatura sino historia, es un cuento de Juana.
+
+—¿Y qué es la literatura sino la gran historia del mundo bien contada?
+
+—Mano, ¿te gusta escribir?
+
+—A mí sí, pero no me da la gana.
+
+—¿Y a ti te gusta pintar?
+
+—A mí no, pero me da la gana. Ahora sí vamos por donde es. ¿Y de la vida?
+
+—*Primun Vivere* y endespués *philosofare*.
+
+—Pero eso no es Griego: es Cienaguero: el que se murió se jodió.

@@ -13,11 +13,12 @@
 <body class="bg-[#f4f1ea] text-[#2c2c2c] min-h-screen">
   <header class="sticky top-0 z-50 bg-white shadow-xl py-4 px-8 border-b border-gray-100">
     <div class="max-w-7xl mx-auto flex justify-between items-center">
-      <h1><a href="/" class="text-2xl font-bold tracking-tight hover:text-gray-600 transition-colors">Literatura.us 2.0</a></h1>
+      <h1 id="logo"><a href="/" class="text-2xl font-bold tracking-tight hover:text-gray-600 transition-colors">Literatura.us 2.0</a></h1>
       <nav>
         <ul class="flex space-x-6 text-sm font-medium uppercase tracking-wider">
-          <li><a href="/" class="hover:text-blue-600 transition-colors">Inicio</a></li>
-          <!-- Add more nav items as needed -->
+          <li><a href="/" class="link_style">Inicio</a></li>
+          <li><a href="#" class="link_style">Quienes somos</a></li>
+          <li><a href="#" class="link_style">Aviso legal</a></li>
         </ul>
       </nav>
     </div>
@@ -30,9 +31,15 @@
   </main>
 
   <footer>
-    <p>&copy; 2026 Literatura.us 2.0 - Modernizando la biblioteca personal.</p>
+    <a href="#" class="group bg-white p-1 w-[240px] border border-gray-200 shadow-sm hover:shadow-xl transition-all duration-300 rounded-none relative flex items-center justify-between">
+        <div class="absolute inset-x-0 bottom-0 h-1 w-full bg-gray-100 group-hover:bg-blue-600 transition-colors duration-300"></div>
+        <p class="text-lg font-serif font-bold text-zinc-950 ml-4 group-hover:text-blue-800 transition-colors">Vuelve arriba</p>
+        <span class="text-gray-300 group-hover:text-blue-600 group-hover:translate-y-1 transition-all mr-2">&uarr;</span>
+    </a>
+    <p>&copy; 2026 Literatura.us 2.0 - Modernizando la <a  class="link_style" href="https://literatura.us">biblioteca personal</a> de <a class="link_style" href="https://paredes.us">Roberto Paredes</a>.</p>
   </footer>
 
   {% block scripts %}{% endblock %}
+  <script src="/assets/js/styles.utilities.js"></script>
 </body>
 </html>

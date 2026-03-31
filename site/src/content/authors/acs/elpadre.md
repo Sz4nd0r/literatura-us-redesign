@@ -7,4 +7,344 @@ tags:
   - elpadre
   - acs
 ---
-Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972) La casa grande (Bogotá: Mito, 1962, 220 págs.) Para Alejandro Obregón EL PADRE El Padre está sentado en una silla rústica hecha de madera y de cuero templado y sin curtir. El Padre tiene sesenta años y es fuerte y duro. Cuando se ponga de pies el Padre será de baja estatura, las espaldas serán anchas, la nuca abultada, el pecho poderoso, la cintura delgada y las piernas ligeramente corvas de haber pasado gran parte de sus sesenta años sobre un caballo. Cuando hable la voz del Padre será áspera, autoritaria, hecha de dar órdenes siempre. No hay ternura en el Padre. Pero tampoco hay torpeza. Es implacable pero no hay venganza ni amargura en él. Es naturalmente duro como el guayacán. Las manos del Padre son delgadas y tal vez finas, pero sus caricias deben ser dolorosas y deben asombrar. El cuarto donde está sentado el Padre es limpio y el piso está cementado; las paredes están pintadas con cal y no hay ni siquiera un almanaque; en un rincón, al lado de una ventana, hay un aguamanil de hierro con su palangana, su jarra y su balde de peltre blanco. La cama está contra la otra ventana, al lado de la única puerta que da al patio y no a la calle aunque es un cuarto de esquina. La cama es de madera, ancha, resistente, y la estera gruesa que está puesta sobre las tablas está cubierta por una sábana muy limpia. En la cama no hay una sola almohada. En este cuarto no vive nadie; es un cuarto deshabitado pero atendido y cuidadoso y aseado diariamente. La muchacha empuja una hoja de la puerta y éstas se abren como si hubieran estado cerradas a presión; entra, las hace coincidir cuidadosamente y las cierra con las dos manos; coge la tranca y la coloca sobre sus ganchos bloqueando la puerta. La muchacha va hacia el Padre, que no la ha mirado todavía, se agacha frente a él y comienza a desabotonarle las polainas que quedan paradas a cada lado de la silla como dos rollos gruesos y oscuros. Todos los movimientos de la muchacha son mecánicos, como aprendidos hace mucho tiempo y practicados muy frecuentemente. La muchacha comienza a destrenzar los cordones de las botas sin levantar la cabeza. E lPadre.¿Dónde estabas? La Muchacha.En la tienda. El Padre.¿Qué fuiste a hacer? La Muchacha. Acomprar. El Padre. ¿Porqué no fue tu madre? La Muchacha. Está en el río. No sabíamos que usted venía hoy: hacía días que no venía. El Padre. He dicho que no salgas de la casa. La Muchacha. Yo no salgo: es que no creía que usted venía hoy. La muchacha embute las medias dentro de las botas y las coloca ordenadamente al lado de una polaina, se levanta y queda frente al Padre, entre los pies descalzos del Padre, esperando el próximo movimiento conocido. El Padre se suelta la correa delgada que sostiene la cartuchera con el revólver, un poco más abajo de la correa ancha de doble hilera de huecos para la hebilla de dos ganchos que sostiene la cartuchera con el revólver, y se la entrega a la muchacha. La muchacha engancha nuevamente el canto de la correa en la hebilla y coloca la punta en la abertura de la cartuchera y va a colgar el revólver en uno de los clavos grandes que hay clavados contra el último travesaño de la puerta. La Muchacha.Yo creía que usted no venía hoy porque como le mandaron razón. El Padre. Por eso vine: por la razón. La Muchacha. La razón era para que no viniera. El Padre. Sí. La muchacha se ha dado vuelta y mira al Padre, por primera vez de frente y con la cabeza erguida. El padre está ya de pies y camina hacia la cama quitándose la camisa gruesa de kaki. Elpadreestáyadepiesycaminahacialacamaquitándoselacamisagruesadekaki. La Muchacha.Yo no salí a comprar. El Padre ha terminado de quitarse la camisa y la muchacha va hacia él para cogerla y volverse y caminar nuevamente los pocos pasos hasta la puerta para colgarla mecánica y cuidadosamente. Todavía de espaldas al Padre que ya ha comenzado a desvestirse de la franela blanca de mangas largas y de cuello redondo, la muchacha repite: La Muchacha. Yo no salí a comprar. El Padre. Aqué entonces. La Muchacha. A oír. La muchacha ha tomado la franela y la ha puesto al derecho metiendo una mano en una manga y luego la misma mano en la otra manga y la ha colgado con el mismo cuidado al lado del revólver y de la camisa. El Padre. ¿A oír qué? La Muchacha. Lo que dicen. El Padre. No dirán nada: tienen miedo: son cobardes. Serán cobardes toda la vida. El Padre está acostado de espaldas en la cama, del lado de la pared, con la cabeza quieta y mirando vagamente el intrincado andamiaje de varas y bejucos que sostiene el techo de paja. Las manos del Padre descansan sobre el pecho ancho y los dedos se mueven recorriendo la piel lentamente. La Muchacha. No tienen miedo. El Padre. Sí tienen miedo; siempre tendrán miedo. La muchacha está sentada en el borde de la cama y con la punta de un zapato se quita el zapato del otro pie y luego con los dedos del pie descalzo se quita el otro zapato empujándolo fuera del talón. La Muchacha. Está bien: tienen miedo, pero esta vez harán algo. El Padre. No harán nada, no se atreverán, son cobardes. La Muchacha. Está bien; son cobardes, pero van a hacer algo; están dispuestos a hacer algo. El Padre. Por qué estás tan segura. La Muchacha. Lo sé. El Padre. ¿Te han dicho algo? La Muchacha. No: a mí no medicen nada. El Padre. ¿De quién eres? La Muchacha. De usted, usted me compró. La muchacha se ha quitado el vestido y lo ha dejado caer en un ovillo al lado de los zapatos. Al acostarse al lado del Padre, de espaldas al Padre, con la cara vuelta hacia la puerta cerrada, la combinación de percal rosado apenas le cubre los muslos y la muchacha trata de estirarla hacia abajo con una mano mientras descansa la cabeza sobre la otra mano. Los movimientos de la muchacha están ahora entorpecidos por un pudor formidable. Aprieta firmemente las piernas, las dobla contra los muslos y se encorva tímida, no asustada. La Muchacha. Josefa me lo dijo. El Padre. Qué te dijo. La Muchacha. Que lo iban a matar. El Padre, sin volverse, levanta un brazo y pone la mano sobre el hombro de la Muchacha. La Muchacha se extiende, afloja las piernas y queda con la espalda sobre la cama, casi junto al Padre, tan larga como el Padre. El Padre saca la mano de debajo del peso de la espalda de la Muchacha y la pone sobre el pecho de ella. La Muchacha cierra los ojos. El Padre. ¿Quiénes? La Muchacha. Todos: el pueblo. El Padre. ¿Cuándo? La Muchacha. Cuando usted volviera aquí. El Padre. ¿Por qué no me mataron cuando llegué? La Muchacha. Esperarán a que se ponga oscuro. El Padre. Tienen miedo: me tienen miedo: no se atreverán a hacerlo. La Muchacha. Le tienen miedo, pero ahora lo odian más. El Padre. Siempre me han odiado. La Muchacha. Siempre odian a los que tienen plata. El Padre. No, no es por la plata: siempre odian a los mejores que ellos. Yo soy mejor. La Muchacha. No es por la plata, a usted no lo odian por la plata: es por lo de la huelga. El Padre. ¿La huelga? La Muchacha. Mataron muchos en la estación: los soldados dispararon desde los vagones: no se bajaron: el tren paró y los soldados dispararon sobre los que estaban en la estación y el tren arrancó después: los soldados no se bajaron pero mataron un montón. El Padre. Bien hecho. La Muchacha. Yo no lo vi: yo nunca voy hasta la estación, pero Josefa me lo contó. El Padre. Sí. La Muchacha. Por eso dije que le mandaran la razón: para que no viniera. El Padre. ¿Quién le dijo a Josefa que me iban a matar? La Muchacha. Todos: el pueblo: todos dicen que lo van a matar. El Padre. ¿Pero quiénes son? La Muchacha. Todos: el pueblo entero. El Padre. Son los mismos cabecillas. La Muchacha. No, a los que organizaban lo de las fincas los mataron en la estación. No quedó ninguno. El Padre. Bien hecho. La Muchacha. Es el pueblo: ahora son todos. El Padre. No, solos no harán nada. La Muchacha. Sí esperarán a que esté oscuro. El Padre se vuelve hacia la muchacha y la cubre con un brazo y apoya parte de su pecho sobre el pecho de la muchacha. El Padre. Nosotros no vamos a esperar que esté oscuro. La muchacha, con las dos manos, se levanta el lado izquierdo de la combinación descubriendo toda la pierna hasta la cintura y sin mirar, con dedos hábiles y seguros comienza a desatar el nudo de la tira que le sujeta la jareta de los pantalones también de percal rosado. 1) —Acaba de llegar; el caballo está en el patio. —¿Cómo sabes que es él? —Es su caballo. —¿Estás seguro? —¿Quién no conoce ese caballo? —Pero, ¿Lo viste a él? —No, a él no lo he visto pero es su caballo y tiene su silla y los estribos marcados. —Nadie más monta ese caballo. —Nadie más. —Y los aperos menos. —Sí, entonces tiene que ser él. —Pero le mandaron razón: yo no creí que viniera por todo este tiempo. —Sí, le avisaron que no viniera. —Ella tampoco lo esperaba. Salía de la tienda cuando vio el caballo en el patio: entonces se fue corriendo a la casa. —Tiene que ser él. —Es él, yo te digo que es él. —Sí. —Yo no creía que se atreviera a venir. —Tú no lo conoces. —¿Y ahora qué vamos a hacer? —Ahora tendremos que matarlo. 2) —Vino solo. —Sí, parece que vino solo. —Mejor es averiguar. —Ha podido traer la escolta. —¿De peones? Si los peones de La Gabriela también se fueron. —No: la escolta son los soldados. —Verdad: los soldados deben estar esperándolo en la represa. —Esperando que él les avise será. —Sí, esperando que les avise para entrar al pueblo. —Mejor averiguamos porque si trajo soldados es mejor no hacer nada. —De todas maneras vamos a hacerlo. —Con los soldados no podemos. —Sí podemos. —Vino solo. —No sabemos. —Entonces hay que bajar hasta la represa para ver si están los soldados. —Es lo mejor. —¿Y si están del lado de la línea? —No, allá no están; nosotros estuvimos vigilando toda la mañana por los lados del puente. —Si trajo escolta tienen que estar en la represa. —Vayan ustedes a la represa a ver; nosotros esperamos aquí. —Bueno. —No se vayan a dejar ver. —Bueno. —¿Y si hay soldados? —No importa, de todas maneras vamos a hacerlo. —¿Entonces para qué mandaste a averiguar? —Para saber. —¿Vamos a esperar a que regresen? —Sí. —Hay que avisar. —Ya todos lo saben: hace rato que su caballo está ahí en el patio. —Todos lo han visto ya. —Sí, pero si trajo a los soldados no lo van a hacer. —Sí lo haremos. —Los soldados tienen máuser. Nosotros no tenemos nada: la requisa cargó hasta con las rulas. —Tenemos cavadores. —¿Los cavadores? —Sí: los cavadores. 3) —Lo van a matar, como se quede lo van a matar. —Para qué vino. —Ella lo mandó llamar. —No, dicen que ella le mandó razón para que no viniera: que le advirtió que lo iban a matar. —Eso dicen, pero no es así: no pudo aguantarse y lo mandó a llamar. —Si lo matan será culpa de ella. —Por eso solo, porque ella lo mandara a llamar no iba a venir. —No pudo aguantarse todo este tiempo: es una bandolera. —Siempre ha buscado mujer cuando él quiere, no cuando uno quiere. —Es una bandolera. —Es igual a todas nosotras. —No es igual: lo ha mandado llamar cuando sabía que lo iban a matar. Porque ella: sabía que si venía lo mataban: todo el pueblo lo sabía. Después de la matanza de la estación lo han estado esperando. Al hombre de una hay que defenderlo. —Él no es de nadie, nunca fue de nadie. A ella no le tiene más consideración de la que te tuvo a ti. —A mí siempre me trató bien: yo no le di motivos. —Ninguna le ha dado motivo, ninguna se atrevería a darle motivo. —No es malo: no es tan malo como dicen. —Él no es malo: es el dueño; el dueño de todo y puede tener todo lo que quiera. —A usted no la pudo tener. —¿Eso dicen? —Sí, dicen que a usted siempre la ha respetado. —A mí no me quiso tener. 4) —Ahora tendremos que matarlo. —Por qué regresó: ¿acaso no sabía? —Vino a obligarnos. Siempre nos ha obligado a todo: ahora viene a obligarnos a que lo matemos. Viene a provocar el miedo. —No, vino porque no creyó la razón: pero cuando ella le diga que es verdad, que lo vamos a matar; cuando él se convenza que ella le mandó la razón porque es verdad y no por otra cosa, que no son engaños de ella, se irá. —No se irá. —Se irá y no podremos hacerle nada: tampoco podremos hacerle nada esta vez. —No se irá porque sabe que le tenemos miedo. —Sí, le tenemos miedo. —Y por eso le vamos a matar: porque le tenemos miedo. —No, no es por eso: es por todo lo que nos ha hecho, por todo lo que te ha hecho a ti y lo que me hará a mí si sigue viviendo: es por haber traído a los soldados para que nos mataran por lo que tenemos que matarlo a él. —No, es por miedo. Y también porque es mejor que nosotros y él lo sabe. —Tal vez es mejor que cada uno de nosotros, pero no mejor que todos. —Es mejor que todos: por eso tenemos que juntarnos todos para matarlo. —Si no se va ahora, después de haber hablado con ella, es porque no cree que nos atrevamos contra él; porque no cree que seremos capaces de matarlo. 5) —Todavía no sabemos si seremos capaces. —No hay soldados en la represa. —Ni rastros. —¿Vieron bien? —Sí. —No hay ni rastros. —Mejor. —Entonces vino solo. —Sí, vino solo. —Era mentira de que ella le había mandado razón. —Sí era mentira; ella es como nosotros. —Decían otra cosa. —Sí, pero era mentira. —¿Ya todos saben que no hay soldados? —Sí, veníamos avisando. —A algunos habrá que ir a buscar al monte. —¿Por qué? —Con la matazón muchos se huyeron al monte y no han vuelto. —Es que creen que los soldados van a volver. —La huelga ya se acabó, a qué van a volver. —Uno no sabe. —Podemos ir a buscarlos. —Podemos. —¿Hay muchos avisados? —Sí, muchos. —Entonces, para qué vamos a buscar a los otros. —Hay tiempo. —¿Hay tiempo? —Sí. —Si quieres vamos. —Bueno, vayan. —El caballo está todavía en el patio. —¿Ahora qué esperamos? —Esperamos a que se ponga oscuro. 6) —Sabes, van a matarlo hoy. —¿A quién? —Al marido de Regina. —¿Al viejo que vienes siempre en el caballo bonito? —Sí, al dueño de La Gabriela. —Por todo esto no hay un caballo como ése. —Ni parecido. —Debe tener más en La Gabriela. —Vamos un día de éstos hasta allá. —Es muy lejos. Y no creo que tenga otro caballo como ése. —¿Te acuerdas de los caballos que trajeron aquella vez para la fiesta? — Sí, pero a mí me gusta mas el del viejo. —El manchado que montaba el hombre que tenía el pelo largo como mujer era bonito. —A mí no me gustan los caballos con manchas, me gustan los de un solo color. —Este año no hubo fiesta. —Qué pasaría: todos los años hay: ¿no es verdad? Sí. —El caballo del viejo está en el patio de la casa de Regina. —¿Quién dijo? —Así dicen. —¿Por qué no vamos a verlo? —Ahorita se pone oscuro. La oscurana tiene maleficio. —Y cuando lo maten, ¿quién se va a quedar con el caballo? —No sé. Esta noche se va a poner muy oscuro porque no hay luna. Si sientes La Llorona me dices mañana, y si yo la siento te digo. —Bueno. —¿Tú la has oído? —Yo no. Yo creo que el caballo se huye. —Está en el corral. —Si matan al viejo el caballo se huye; yo sé que se huye. —Busquemos un tejo y juguemos a la raya, ¿quieres? —Bueno. —¿O sacamos la cometa? —No, es muy tarde. Casi está oscuro ya. 7) —Ya está oscureciendo y el caballo sigue ahí en el patio: qué espera, por qué no se va. —Nos está esperando. —¿A nosotros? —Sí a todo el pueblo. —¿Y nosotros qué esperamos? ¿Por qué no han comenzado a salir de sus casas? —Esperan que se ponga más oscuro. —¿Para qué necesitamos que esté oscuro?: todos estamos de acuerdo en esto. —No sabemos lo que vamos a hacer. —Necesitamos que esté oscuro para que él no nos vea; ¿no es eso? —No es para que él no nos vea: es para no vernos nosotros. 5) —¿Regresaron todos? —Sí, todos están en sus casas esperando. —Les avisamos que los soldados no volvieron y que él estaba solo en la casa. —Todos regresaron enseguida. —Al pasar vimos al caballo. —Todavía está ahí. —¿Se irá a quedar toda la noche? —Nunca se queda a dormir: nunca lo ha hecho. —Ya está bien oscuro. —¿Vamos? —Vamos. 8) —Están saliendo de las casas y el caballo todavía está ahí. —Lo van a matar. —Por culpa de esa bandolera lo van a matar. —No: de esto nadie tiene la culpa: ni siquiera él. —Si ella hubiera querido, si ella le hubiera contado habría podido irse. —Él lo sabía: lo supo siempre: no ha querido irse. —Va a esperarlos y no se atreverán a hacerle nada. —Quién sabe. —No se atreverán, nunca se ha atrevido nadie. —Ahora son todos: es el pueblo. —Le van a caer en gavilla. —Sí: en gavilla. —Ojalá no lo maten. —Ojalá, ojalá, ojalá. 10) —Vamos a la casa: ya está muy oscuro. —No. —Está muy oscuro; ¿a qué vamos a jugar? —A nada. —Entonces vamos a la casa. —Yo no voy a la casa, yo no voy a jugar a nada: me voy a quedar aquí, aquí me voy a quedar toda la noche porque si lo matan el caballo se huye, no podrán con el caballo, a ese caballo no lo va a agarrar nadie: se va a huir y va a pasar por aquí corriendo y yo lo voy a ver: no voy a perderme de verlo la última vez. La Muchacha oyó el golpear amortiguado y redondo de los cascos del caballo en el patio; y 1uego, en un tropel silencioso, en procesión regular, el ruido de las varas, de la talanquera y los pasos sobre el barro apisonado, sobre la verdolaga espesa, alrededor de toda la casa, alrededor del cuarto, alrededor del caballo que pateaba y hacía crujir los aperos nerviosamente; la Muchacha oyó al Padre vistiéndose con prisa pero seguramente; oyó el ruido metálico de los ganchos de las correas del Padre recorrer los ojetes metálicos y apagarse al descansar el cuero sobre el cuero; oyó las botas del Padre afirmarse sobre el piso duro del cuarto: oyó desatrancar la puerta y girar los goznes ruidosamente. Y entonces todos los sonidos secos de la muerte y del apresuramiento se metieron atropellándose por el hueco desamparado de la puerta. La Muchacha oyó el abalanzarse de los hombres y el forcejeo; oyó el rodeo jadeante alrededor del Padre; oyó el desacompasado golpear de los cavadores sobre el cuerpo que se oía ceder al ataque inexperto pero tenaz. La Muchacha oyó la caída ronca del cuerpo y la caída ronca de los cavadores ya innecesarios sobre el Padre muerto. La Muchacha no oyó palabras: solamente el relincho furioso y el galope despavorido del caballo atravesando el pueblo como una herida ancha e inacabable. 
+# El Padre
+
+*Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
+*La casa grande (Bogotá: Mito, 1962, 220 págs.)*
+
+Para Alejandro Obregón
+
+## EL PADRE
+
+El Padre está sentado en una silla rústica hecha de madera y de cuero templado y sin curtir. El Padre tiene sesenta años y es fuerte y duro. Cuando se ponga de pies el Padre será de baja estatura, las espaldas serán anchas, la nuca abultada, el pecho poderoso, la cintura delgada y las piernas ligeramente corvas de haber pasado gran parte de sus sesenta años sobre un caballo.
+
+Cuando hable la voz del Padre será áspera, autoritaria, hecha de dar órdenes siempre. No hay ternura en el Padre. Pero tampoco hay torpeza. Es implacable pero no hay venganza ni amargura en él. Es naturalmente duro como el guayacán. Las manos del Padre son delgadas y tal vez finas, pero sus caricias deben ser dolorosas y deben asombrar.
+
+El cuarto donde está sentado el Padre es limpio y el piso está cementado; las paredes están pintadas con cal y no hay ni siquiera un almanaque; en un rincón, al lado de una ventana, hay un aguamanil de hierro con su palangana, su jarra y su balde de peltre blanco. La cama está contra la otra ventana, al lado de la única puerta que da al patio y no a la calle aunque es un cuarto de esquina. La cama es de madera, ancha, resistente, y la estera gruesa que está puesta sobre las tablas está cubierta por una sábana muy limpia. En la cama no hay una sola almohada. En este cuarto no vive nadie; es un cuarto deshabitado pero atendido y cuidadoso y aseado diariamente.
+
+La muchacha empuja una hoja de la puerta y éstas se abren como si hubieran estado cerradas a presión; entra, las hace coincidir cuidadosamente y las cierra con las dos manos; coge la tranca y la coloca sobre sus ganchos bloqueando la puerta. La muchacha va hacia el Padre, que no la ha mirado todavía, se agacha frente a él y comienza a desabotonarle las polainas que quedan paradas a cada lado de la silla como dos rollos gruesos y oscuros. Todos los movimientos de la muchacha son mecánicos, como aprendidos hace mucho tiempo y practicados muy frecuentemente. La muchacha comienza a destrenzar los cordones de las botas sin levantar la cabeza.
+
+–¿Dónde estabas?
+–En la tienda.
+–¿Qué fuiste a hacer?
+–A comprar.
+–¿Por qué no fue tu madre?
+–Está en el río. No sabíamos que usted venía hoy: hacía días que no venía.
+–He dicho que no salgas de la casa.
+–Yo no salgo: es que no creía que usted venía hoy.
+
+La muchacha embute las medias dentro de las botas y las coloca ordenadamente al lado de una polaina, se levanta y queda frente al Padre, entre los pies descalzos del Padre, esperando el próximo movimiento conocido.
+
+El Padre se suelta la correa delgada que sostiene la cartuchera con el revólver, un poco más abajo de la correa ancha de doble hilera de huecos para la hebilla de dos ganchos que sostiene la cartuchera con el revólver, y se la entrega a la muchacha. La muchacha engancha nuevamente el canto de la correa en la hebilla y coloca la punta en la abertura de la cartuchera y va a colgar el revólver en uno de los clavos grandes que hay clavados contra el último travesaño de la puerta.
+
+–Yo creía que usted no venía hoy porque como le mandaron razón.
+–Por eso vine: por la razón.
+–La razón era para que no viniera.
+–Sí.
+
+La muchacha se ha dado vuelta y mira al Padre, por primera vez de frente y con la cabeza erguida. El padre está ya de pies y camina hacia la cama quitándose la camisa gruesa de kaki.
+
+El padre está ya de pies y camina hacia la cama quitándose la camisa gruesa de kaki.
+*Elpadreestáyadepiesycaminahacialacamaquitándoselacamisagruesadekaki.*
+
+–Yo no salí a comprar.
+
+El Padre ha terminado de quitarse la camisa y la muchacha va hacia él para cogerla y volverse y caminar nuevamente los pocos pasos hasta la puerta para colgarla mecánica y cuidadosamente. Todavía de espaldas al Padre que ya ha comenzado a desvestirse de la franela blanca de mangas largas y de cuello redondo, la muchacha repite:
+
+–Yo no salí a comprar.
+–¿A qué entonces?
+–A oír.
+
+La muchacha ha tomado la franela y ha puesto al derecho metiendo una mano en una manga y luego la misma mano en la otra manga y la ha colgada con el mismo cuidado al lado del revólver y de la camisa.
+
+–¿A oír qué?
+–Lo que dicen.
+–No dirán nada: tienen miedo: son cobardes. Serán cobardes toda la vida.
+
+El Padre está acostado de espaldas en la cama, del lado de la pared, con la cabeza quieta y mirando vagamente el intrincado andamiaje de varas y bejucos que sostiene el techo de paja. Las manos del Padre descansan sobre el pecho ancho y los dedos se mueven recorriendo la piel lentamente.
+
+–No tienen miedo.
+–Sí tienen miedo; siempre tendrán miedo.
+
+La muchacha está sentada en el borde de la cama y con la punta de un zapato se quita el zapato del otro pie y luego con los dedos del pie descalzo se quita el otro zapato empujándolo fuera del talón.
+
+–Está bien: tienen miedo, pero esta vez harán algo.
+–No harán nada, no se atreverán, son cobardes.
+–Está bien; son cobardes, pero van a hacer algo; están dispuestos a hacer algo.
+–¿Por qué estás tan segura?
+–Lo sé.
+–¿Te han dicho algo?
+–No: a mí no me dicen nada.
+–¿De quién eres?
+–De usted, usted me compró.
+
+La muchacha se ha quitado el vestido y lo ha dejado caer en un ovillo al lado de los zapatos. Al acostarse al lado del Padre, de espaldas al Padre, con la cara vuelta hacia la puerta cerrada, la combinación de percal rosado apenas le cubre los muslos y la muchacha trata de estirarla hacia abajo con una mano mientras descansa la cabeza sobre la otra mano. Los movimientos de la muchacha están ahora entorpecidos por un pudor formidable. Aprieta firmemente las piernas, las dobla contra los muslos y se encorva tímida, no asustada.
+
+–Josefa me lo dijo.
+–Qué te dijo.
+–Que lo iban a matar.
+
+El Padre, sin volverse, levanta un brazo y pone la mano sobre el hombro de la Muchacha. La Muchacha se extiende, afloja las piernas y queda con la espalda sobre la cama, casi junto al Padre, tan larga como el Padre. El Padre saca la mano de debajo del peso de la espalda de la Muchacha y la pone sobre el pecho de ella. La Muchacha cierra los ojos.
+
+–¿Quiénes?
+–Todos: el pueblo.
+–¿Cuándo?
+–Cuando usted volviera aquí.
+–¿Por qué no me mataron cuando llegué?
+–Esperarán a que se ponga oscuro.
+–Tienen miedo: me tienen miedo: no se atreverán a hacerlo.
+–Le tienen miedo, pero ahora lo odian más.
+–Siempre me han odiado.
+–Siempre odian a los que tienen plata.
+–No, no es por la plata: siempre odian a los mejores que ellos. Yo soy mejor.
+–No es por la plata, a usted no lo odian por la plata: es por lo de la huelga.
+–¿La huelga?
+–Mataron muchos en la estación: los soldados dispararon desde los vagones: no se bajaron: el tren paró y los soldados dispararon sobre los que estaban en la estación y el tren arrancó después: los soldados no se bajaron pero mataron un montón.
+–Bien hecho.
+–Yo no lo vi: yo nunca voy hasta la estación, pero Josefa me lo contó.
+–Sí.
+–Por eso dije que le mandaran la razón: para que no viniera.
+–¿Quién le dijo a Josefa que me iban a matar?
+–Todos: el pueblo: todos dicen que lo van a matar.
+–¿Pero quiénes son?
+–Todos: el pueblo entero.
+–Son los mismos cabecillas.
+–No, a los que organizaban lo de las fincas los mataron en la estación. No quedó ninguno.
+–Bien hecho.
+–Es el pueblo: ahora son todos.
+–No, solos no harán nada.
+–Sí esperarán a que esté oscuro.
+
+El Padre se vuelve hacia la muchacha y la cubre con un brazo y apoya parte de su pecho sobre el pecho de la muchacha.
+
+–Nosotros no vamos a esperar que esté oscuro.
+
+La muchacha, con las dos manos, se levanta el lado izquierdo de la combinación descubriendo toda la pierna hasta la cintura y sin mirar, con dedos hábiles y seguros comienza a desatar el nudo de la tira que le sujeta la jareta de los pantalones también de percal rosado.
+
+***
+
+### 1)
+—Acaba de llegar; el caballo está en el patio.
+—¿Cómo sabes que es él?
+—Es su caballo.
+—¿Estás seguro?
+—¿Quién no conoce ese caballo?
+—Pero, ¿Lo viste a él?
+—No, a él no lo he visto pero es su caballo y tiene su silla y los estribos marcados.
+—Nadie más monta ese caballo.
+—Nadie más.
+—Y los aperos menos.
+—Sí, entonces tiene que ser él.
+—Pero le mandaron razón: yo no creí que viniera por todo este tiempo.
+—Sí, le avisaron que no viniera.
+—Ella tampoco lo esperaba. Salía de la tienda cuando vio el caballo en el patio: entonces se fue corriendo a la casa.
+—Tiene que ser él.
+—Es él, yo te digo que es él.
+—Sí.
+—Yo no creía que se atreviera a venir.
+—Tú no lo conoces.
+—¿Y ahora qué vamos a hacer?
+—Ahora tendremos que matarlo.
+
+### 2)
+—Vino solo.
+—Sí, parece que vino solo.
+—Mejor es averiguar.
+—Ha podido traer la escolta.
+—¿De peones? Si los peones de La Gabriela también se fueron.
+—No: la escolta son los soldados.
+—Verdad: los soldados deben estar esperándolo en la represa.
+—Esperando que él les avise será.
+—Sí, esperando que les avise para entrar al pueblo.
+—Mejor averiguamos porque si trajo soldados es mejor no hacer nada.
+—De todas maneras vamos a hacerlo.
+—Con los soldados no podemos.
+—Sí podemos.
+—Vino solo.
+—No sabemos.
+—Entonces hay que bajar hasta la represa para ver si están los soldados.
+—Es lo mejor.
+—¿Y si están del lado de la línea?
+—No, allá no están; nosotros estuvimos vigilando toda la mañana por los lados del puente.
+—Si trajo escolta tienen que estar en la represa.
+—Vayan ustedes a la represa a ver; nosotros esperamos aquí.
+—Bueno.
+—No se vayan a dejar ver.
+—Bueno.
+—¿Y si hay soldados?
+—No importa, de todas maneras vamos a hacerlo.
+—¿Entonces para qué mandaste a averiguar?
+—Para saber.
+—¿Vamos a esperar a que regresen?
+—Sí.
+—Hay que avisar.
+—Ya todos lo saben: hace rato que su caballo está ahí en el patio.
+—Todos lo han visto ya.
+—Sí, pero si trajo a los soldados no lo van a hacer.
+—Sí lo haremos.
+—Los soldados tienen máuser. Nosotros no tenemos nada: la requisa cargó hasta con las rulas.
+—Tenemos cavadores.
+—¿Los cavadores?
+—Sí: los cavadores.
+
+### 3)
+—Lo van a matar, como se quede lo van a matar.
+—Para qué vino.
+—Ella lo mandó llamar.
+—No, dicen que ella le mandó razón para que no viniera: que le advirtió que lo iban a matar.
+—Eso dicen, pero no es así: no pudo aguantarse y lo mandó a llamar.
+—Si lo matan será culpa de ella.
+—Por eso solo, porque ella lo mandara a llamar no iba a venir.
+—No pudo aguantarse todo este tiempo: es una bandolera.
+—Siempre ha buscado mujer cuando él quiere, no cuando uno quiere.
+—Es una bandolera.
+—Es igual a todas nosotras.
+—No es igual: lo ha mandado llamar cuando sabía que lo iban a matar. Porque ella sabí que si venía lo mataban: todo el pueblo lo sabía. Después de la matanza de la estación lo han estado esperando. Al hombre de una hay que defenderlo.
+—Él no es de nadie, nunca fue de nadie. A ella no le tiene más consideración de la que te tuvo a ti.
+—A mí siempre me trató bien: yo no le di motivos.
+—Ninguna le ha dado motivo, ninguna se atrevería a darle motivo.
+—No es malo: no es tan malo como dicen.
+—Él no es malo: es el dueño; el dueño de todo y puede tener todo lo que quiera.
+—A usted no la pudo tener.
+—¿Eso dicen?
+—Sí, dicen que a usted siempre la ha respetado.
+—A mí no me quiso tener.
+
+### 4)
+—Ahora tendremos que matarlo.
+—Por qué regresó: ¿acaso no sabía?
+—Vino a obligarnos. Siempre nos ha obligado a todo: ahora viene a obligarnos a que lo matemos. Viene a provocar el miedo.
+—No, vino porque no creyó la razón: pero cuando ella le diga que es verdad, que lo vamos a matar; cuando él se convenza que ella le mandó la razón porque es verdad y no por otra cosa, que no son engaños de ella, se irá.
+—No se irá.
+—Se irá y no podremos hacerle nada: tampoco podremos hacerle nada esta vez.
+—No se irá porque sabe que le tenemos miedo.
+—Sí, le tenemos miedo.
+—Y por eso le vamos a matar: porque le tenemos miedo.
+—No, no es por eso: es por todo lo que nos ha hecho, por todo lo que te ha hecho a ti y lo que me hará a mí si sigue viviendo: es por haber traído a los soldados para que nos mataran por lo que tenemos que matarlo a él.
+—No, es por miedo. Y también porque es mejor que nosotros y él lo sabe.
+—Tal vez es mejor que cada uno de nosotros, pero no mejor que todos.
+—Es mejor que todos: por eso tenemos que juntarnos todos para matarlo.
+—Si no se va ahora, después de haber hablado con ella, es porque no cree que nos atrevamos contra él; porque no cree que seremos capaces de matarlo.
+
+### 5)
+—Todavía no sabemos si seremos capaces.
+—No hay soldados en la represa.
+—Ni rastros.
+—¿Vieron bien?
+—Sí.
+—No hay ni rastros.
+—Mejor.
+—Entonces vino solo.
+—Sí, vino solo.
+—Era mentira de que ella le había mandado razón.
+—Sí era mentira; ella es como nosotros.
+—Decían otra cosa.
+—Sí, pero era mentira.
+—¿Ya todos saben que no hay soldados?
+—Sí, veníamos avisando.
+—A algunos habrá que ir a buscar al monte.
+—¿Por qué?
+—Con la matazón muchos se huyeron al monte y no han vuelto.
+—Es que creen que los soldados van a volver.
+—La huelga ya se acabó, a qué van a volver.
+—Uno no sabe.
+—Podemos ir a buscarlos.
+—Podemos.
+—¿Hay muchos avisados?
+—Sí, muchos.
+—Entonces, para qué vamos a buscar a los otros.
+—Hay tiempo.
+—¿Hay tiempo?
+—Sí.
+—Si quieres vamos.
+—Bueno, vayan.
+—El caballo está todavía en el patio.
+—¿Ahora qué esperamos?
+—Esperamos a que se ponga oscuro.
+
+### 6)
+—Sabes, van a matarlo hoy.
+—¿A quién?
+—Al marido de Regina.
+—¿Al viejo que vienes siempre en el caballo bonito?
+—Sí, al dueño de La Gabriela.
+—Por todo esto no hay un caballo como ése.
+—Ni parecido.
+—Debe tener más en La Gabriela.
+—Vamos un día de éstos hasta allá.
+—Es muy lejos. Y no creo que tenga otro caballo como ése.
+—¿Te acuerdas de los caballos que trajeron aquella vez para la fiesta?
+— Sí, pero a mí me gusta mas el del viejo.
+—El manchado que montaba el hombre que tenía el pelo largo como mujer era bonito.
+—A mí no me gustan los caballos con manchas, me gustan los de un solo color.
+—Este año no hubo fiesta.
+—Qué pasaría: todos los años hay: ¿no es verdad? Sí.
+—El caballo del viejo está en el patio de la casa de Regina.
+—¿Quién dijo?
+—Así dicen.
+—¿Por qué no vamos a verlo?
+—Ahorita se pone oscuro. La oscurana tiene maleficio.
+—Y cuando lo maten, ¿quién se va a quedar con el caballo?
+—No sé. Esta noche se va a poner muy oscuro porque no hay luna. Si sientes La Llorona me dices mañana, y si yo la siento te digo.
+—Bueno.
+—¿Tú la has oído?
+—Yo no. Yo creo que el caballo se huye.
+—Está en el corral.
+—Si matan al viejo el caballo se huye; yo sé que se huye.
+—Busquemos un tejo y juguemos a la raya, ¿quieres?
+—Bueno.
+—¿O sacamos la cometa?
+—No, es muy tarde. Casi está oscuro ya.
+
+### 7)
+—Ya está oscureciendo y el caballo sigue ahí en el patio: qué espera, por qué no se va.
+—Nos está esperando.
+—¿A nosotros?
+—Sí a todo el pueblo.
+—¿And nosotros qué esperamos? ¿Por qué no han comenzado a salir de sus casas?
+—Esperan que se ponga más oscuro.
+—¿Para qué necesitamos que esté oscuro?: todos estamos de acuerdo en esto.
+—No sabemos lo que vamos a hacer.
+—Necesitamos que esté oscuro para que él no nos vea; ¿no es eso?
+—No es para que él no nos vea: es para no vernos nosotros.
+
+### 5) [sic]
+—¿Regresaron todos?
+—Sí, todos están en sus casas esperando.
+—Les avisamos que los soldados no volvieron y que él estaba solo en la casa.
+—Todos regresaron enseguida.
+—Al pasar vimos al caballo.
+—Todavía está ahí.
+—¿Se irá a quedar toda la noche?
+—Nunca se queda a dormir: nunca lo ha hecho.
+—Ya está bien oscuro.
+—¿Vamos?
+—Vamos.
+
+### 8)
+—Están saliendo de las casas y el caballo todavía está ahí.
+—Lo van a matar.
+—Por culpa de esa bandolera lo van a matar.
+—No: de esto nadie tiene la culpa: ni siquiera él.
+—Si ella hubiera querido, si ella le hubiera contado habría podido irse.
+—Él lo sabía: lo supo siempre: no ha querido irse.
+—Va a esperarlos y no se atreverán a hacerle nada.
+—Quién sabe.
+—No se atreverán, nunca se ha atrevido nadie.
+—Ahora son todos: es el pueblo.
+—Le van a caer en gavilla.
+—Sí: en gavilla.
+—Ojalá no lo maten.
+—Ojalá, ojalá, ojalá.
+
+### 10)
+—Vamos a la casa: ya está muy oscuro.
+—No.
+—Está muy oscuro; ¿a qué vamos a jugar?
+—A nada.
+—Entonces vamos a la casa.
+—Yo no voy a la casa, yo no voy a jugar a nada: me voy a quedar aquí, aquí me voy a quedar toda la noche porque si lo matan el caballo se huye, no podrán con el caballo, a ese caballo no lo va a agarrar nadie: se va a huir y va a pasar por aquí corriendo y yo lo voy a ver: no voy a perderme de verlo la última vez.
+
+La Muchacha oyó el golpear amortiguado y redondo de los cascos del caballo en el patio; y luego, en un tropel silencioso, en procesión regular, el ruido de las varas, de la talanquera y los pasos sobre el barro apisonado, sobre la verdolaga espesa, alrededor de toda la casa, alrededor del cuarto, alrededor del caballo que pateaba y hacía crujir los aperos nerviosamente; la Muchacha oyó al Padre vistiéndose con prisa pero seguramente; oyó el ruido metálico de los ganchos de las correas del Padre recorrer los ojetes metálicos y apagarse al descansar el cuero sobre el cuero; oyó las botas del Padre afirmarse sobre el piso duro del cuarto: oyó desatrancar la puerta y girar los goznes ruidosamente.
+
+Y entonces todos los sonidos secos de la muerte y del apresuramiento se metieron atropellándose por el hueco desamparado de la puerta. La Muchacha oyó el abalanzarse de los hombres y el forcejeo; oyó el rodeo jadeante alrededor del Padre; oyó el desacompasado golpear de los cavadores sobre el cuerpo que se oía ceder al ataque inexperto pero tenaz. La Muchacha oyó la caída ronca del cuerpo y la caída ronca de los cavadores ya innecesarios sobre el Padre muerto. La Muchacha no oyó palabras: solamente el relincho furioso y el galope despavorido del caballo atravesando el pueblo como una herida ancha e inacabable.

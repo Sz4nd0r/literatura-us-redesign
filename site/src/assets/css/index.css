@@ -6,10 +6,14 @@
   --sans-font: 'Inter', sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: var(--sans-font);
   background-color: var(--paper-color);
-  background-image: 
+  background-image:
     radial-gradient(#d1d1d1 0.5px, transparent 0.5px),
     radial-gradient(#d1d1d1 0.5px, #fcfaf2 0.5px);
   background-size: 20px 20px;
@@ -34,7 +38,7 @@ body {
   left: 0;
   right: 0;
   height: 5px;
-  background: linear-gradient(to right, transparent, rgba(0,0,0,0.05), transparent);
+  background: linear-gradient(to right, transparent, rgba(0, 0, 0, 0.05), transparent);
 }
 
 main {
@@ -52,7 +56,7 @@ main {
   margin: 0 auto;
   background: white;
   padding: 4rem;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
   border: 1px solid #f0f0f0;
 }
 
@@ -61,6 +65,10 @@ main {
 }
 
 footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
   text-align: center;
   padding: 6rem 2rem;
   font-size: 0.85rem;

@@ -7,4 +7,95 @@ tags:
   - todos
   - acs
 ---
-Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972) Todos estábamos a la espera Todos estábamos a la espera (Con dibujos de Cecilia Porras) (Barranquilla: Editorial Arte, 1954, 70 págs.); también: Todos estábamos a la espera (Barranquilla: Ediciones Librería Mundo, 1954) “And it seemed to him then that every human was always looking for himself, in bars, in railway trains, in offices, in mirrors, in love, especially in love, for the self of him that is there, someplace, in every other human. Love was not to give oneself, but to find oneself, describe oneself. And that the whole conception had been written wrong. Because the only part of any man that he can ever touch or understand is that part of himself he recognizes in him. And that he is always looking for the way in which he can escape his sealed bee cell and reach the other airtight cells with which he is connected in the waxy comb”. James Jones (From Here to Eternity). Íbamos llegando uno a uno y nos sentábamos en los altos bancos rojos a lo largo del bar. Nos quedábamos allí, en silencio, oyendo las canciones que alguien cantaba en los discos. Otras noches había boxeo. Entonces dejábamos de echar monedas en los tocadiscos y mirábamos la pelea. Pero no duraban mucho tiempo. Casi nunca llegaban al último round pues siempre alguien era tirado violentamente sobre la lona gris y un hombre con un corbatín le levantaba la mano al que se había quedado de pie y la pelea terminaba. Algunas veces apostábamos, pero después de un tiempo no quisimos ver más esto y dejamos de sintonizar al Madison. Nadie dijo nada. Nos pusimos de acuerdo sobre ello sin que nadie lo propusiera. Dejamos de ver el boxeo como hacíamos todo: sin decirnos nada. Había otras noches cuando no teníamos dinero y entonces entrábamos, nos acercábamos al tocadiscos y apretábamos un botón. La canción sonaba un largo rato y luego nos íbamos otra vez. Porque teníamos que ir todas las noches pues no sabíamos cuándo llegaría y no queríamos que llegara y no estuviéramos nosotros allí. Pero el dueño se dio cuenta. Supo que nosotros también estábamos a la espera y una noche, cuando pasábamos frente a él hacia el tocadiscos, nos dijo: “pueden tomar lo que quieran”. Entonces nos acercamos al bar y comenzamos a tomar como siempre. Desde esa noche ya nunca dejamos de ir. Y aunque no tuviéramos dinero nos sentábamos en los altos bancos rojos y pedíamos nuestros tragos. Una noche llegó alguien a quien nunca habíamos visto. Como si conociera el lugar desde mucho antes, como si él supiera de nosotros. Tomó un banco y lo acercó al nuestro. Luego dijo: “voy a quedarme aquí. Tiene que llegar a este bar”. Nadie lo miró. Pero nosotros sí. Tenía el pelo negro, una pipa labrada y un saco grueso. No dijimos nada y él puso sus billetes sobre el mostrador y comenzó a tomar lentamente. “hace tiempo que estoy esperando”, dijo y golpeó la pipa contra la palma de la mano abierta y dura. “me salí de la carretera con los catorce que me tocaban a mí. Caminé detrás de ellos hasta que encontré un pequeño claro de arena blanca. Entonces oí que ya él había terminado. Ya su ametralladora no sonaba. Estaban de espaldas. Yo comencé a llorar. Cuando él llegó su ametralladora volvió a sonar. Yo me dije que no quería oir más. Y ni siquiera oí cuando las balas se callaron. Seguramente me dijo que lo siguiera y yo lo seguí, pero ya no oí más”. Nosotros no dijimos nada porque él siguió hablando y nosotros dejamos de oírlo de pronto. Era que habíamos comenzado a recordar. Y nos fuimos apartando poco a poco a medida que los recuerdos se alejaban. Llegamos a una estación. Había buses plateados y ventanillas numeradas en negro en el fondo del gran corredor. Allí habíamos comenzado, sentados en unas butacas tibias por el calor de los cuerpos que llenaban la estación, con las revistas y los periódicos desordenados a nuestro lado. No sabíamos si esperábamos o si nos esperaban. Allí habíamos comenzado. Pero antes era yo. Yo sólo viajando sobre las carreteras de ladrillos rojos. Yo frente a la vendedora de revistas, comprando todas las revistas y todos los periódicos, no para leerlos, sino para ofrecérselos a quien había de sentarse a mi lado en el doble asiento del viaje, y la voz de la muchacha preguntando a qué hora sale su bus y un negro le da la hora que yo conozco; porque he estado esperando toda la noche en esa estación. Y de pronto me quedo solo con la muchacha y las paredes se van alejando en cuatro direcciones y estamos allí solos, la muchacha y yo, y el negro, con los botones dorados de su chaqueta y su brillante escoba, se aleja empujado por la huída de las paredes mientras la muchacha de las revistas desaparece detrás de las carátulas multicolores que le hacen muecas. Yo le hablo a la muchacha que tiene un largo tiquete verde y mira sin entender los itinerarios con su complicada combinación de números. En la enorme soledad de la estación mi vos y la voz de la muchacha van llenando lentamente todos sus vacíos. Y después ya no hablamos más. La muchacha se duerme contra la madera lustrosa de los bancos y yo estoy velando su sueño derrotado. De pronto me dice sin abrir los ojos: “Tengo hambre”. Y yo me levanto sin ruido y atravieso el frío ancho de la calle porque he visto en algún lado las vitrinas opacadas de un restaurante. En un tarro de cartón me dan café caliente para la muchacha. Yo le digo al griego que está detrás del mostrador: “Ella está ahí en la estación, no sé para donde va pero ha esperado el bus toda la noche y tiene hambre”. Y el griego me pregunta: “¿Por qué no te vas con ella?”. Y yo le contesto que no lo había pensado, pero que quiero irme con ella. Me llena un tarro de cartón blanco y me lo entrega. “Llévaselo y antes de despertarla dile que te vas con ella”. Yo lo hago así y la muchacha se toma lentamente el café mientras yo pienso en lo que me ha dicho griego. Cuando llegan los buses nos levantamos y salimos a leer las letras blancas hasta hacerlas coincidir con los tiquetes. Yo me vuelvo al restaurante y le digo al griego que ella se ha ido. El me dice: “Tiene que volver”. Yo atravieso todo el frío del mundo que se ha acumulado en la calle, recojo mis revistas y me meto en el último bus. Y otra vez las estaciones repetidas a lo largo del cansancio que había comenzado hace muchas semanas. Y por fin he llegado a esta estación y me he encontrado en este banco rodeado de periódicos y revistas. Cuando la voz vieja conocida que anuncia las llegadas y las salidas anunció el nombre que esperábamos, ya éramos nosotros. Y subimos a nuestro bus. Ahora estamos en este bar todavía a la espera. Nos rodea gente, cada uno con su espera. Estamos estrechamente unidos en que todos sabemos que estamos a la espera pero no nos conocemos, ni siquiera hablamos. Solamente “nosotros” hablamos de vez en cuando. Y ahora ha llegado este hombre y nos ha hablado, nos ha dicho cosas que no hemos preguntado. Secretamente sabemos que ha de seguir hablando y hablando, que mañana vendrá y hablará otra vez, y seguirá viniendo todas las noches. Vamos a tener miedo, miedo de que nos interrumpa a cada momento a cada momento cuando nos ponemos a parar monedas de canto sobre la madera humedecida por nuestros vasos. Y de que pregunte cuando nos ponemos a jugar con los círculos de agua que hay debajo de cada trago. Yo sé que nos está mirando y espera que volvamos la cabeza hacia él para seguir hablando. Pero tenemos miedo y no queremos mirarlo porque tenemos los ojos redondeados sobre los vasos. No podemos oírlo pues alguien ha vuelto a meter monedas en el tocadiscos y hemos hecho tapones de música para nuestros oídos. Y para distraernos pensamos: —la foca azul tiene una pelota blanca y roja sobre la nariz— cómo se llamará la foca —tonto no ves que se llama Carstairs— no, ese no es el nombre de la foca —es el nombre del whisky- pero no es lo mismo —yo siempre quise ver las focas —vamos a verlas una tarde cuando haya verano- no, ya he perdido el interés y de propio no son tan reales como esta foca azul —aquellas también tendrán pelotas rojas pues yo las llevaré— llevaremos pelotas blancas y pelotas rojas, las más grandes y más blancas y más rojas que podamos conseguir —llevaremos pelotas para dárselas a las focas— sí, tal vez podamos ir un día cuando haya verano —y después iríamos a un cine, me gusta el cine- creo que me gustaría ver una película que se llame los rinocerontes hacen pompas de jabón en la que esté Susan Peters que cuando yo era pequeño se parecía a una muchacha que llevaba sus libros amarrados con una correa verde —hubo un tiempo cuando veía todas las películas- cuando no se tienen sueños, cuando no esperamos nada, tenemos que meternos en las salas de cine y tomar los sueños prestados de las películas —también yo iba al cine todos los días a hacer míos todos los sueños—. Dejamos de pensar y nos pusimos a jugar otra vez con las monedas. Nos habíamos olvidado de nuestro miedo. No supimos cuándo entró; estaba mirándonos cuando alzamos la cabeza para pedir los tragos. La vimos al mismo tiempo, pero yo me quedé solo mirándola. Cuando me levanté, todas las monedas que estaban paradas de canto comenzaron a rodar. Yo le dije: “He estado esperándote Madeleine”. Y luego: “Ahora vendrás todas la noches”. Ella siguió mirándome y asintió. Cuando salíamos oí su voz diciéndome: “Ya no me necesitas más. Déjame ir ahora”. Yo le tomé la mano y se la apreté con fuerza. Mientras cruzamos la calle veíamos a Madeleine a través de la vitrina que había comenzado a esperar. 
+# Todos estábamos a la espera
+
+*Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
+*Todos estábamos a la espera (Con dibujos de Cecilia Porras) (Barranquilla: Editorial Arte, 1954, 70 págs.)*
+*También en: Todos estábamos a la espera (Barranquilla: Ediciones Librería Mundo, 1954)*
+
+> “And it seemed to him then that every human was always looking for himself, in bars, in railway trains, in offices, in mirrors, in love, especially in love, for the self of him that is there, someplace, in every other human. Love was not to give oneself, but to find oneself, describe oneself. And that the whole conception had been written wrong. Because the only part of any man that he can ever touch or understand is that part of himself he recognizes in him. And that he is always looking for the way in which he can escape his sealed bee cell and reach the other airtight cells with which he is connected in the waxy comb”.
+>
+> — James Jones (From Here to Eternity)
+
+Íbamos llegando uno a uno y nos sentábamos en los altos bancos rojos a lo largo del bar. Nos quedábamos allí, en silencio, oyendo las canciones que alguien cantaba en los discos.
+
+Otras noches había boxeo. Entonces dejábamos de echar monedas en los tocadiscos y mirábamos la pelea. Pero no duraban mucho tiempo. Casi nunca llegaban al último round pues siempre alguien era tirado violentamente sobre la lona gris y un hombre con un corbatín le levantaba la mano al que se había quedado de pie y la pelea terminaba. Algunas veces apostábamos, pero después de un tiempo no quisimos ver más esto y dejamos de sintonizar al Madison. Nadie dijo nada. Nos pusimos de acuerdo sobre ello sin que nadie lo propusiera. Dejamos de ver el boxeo como hacíamos todo: sin decirnos nada.
+
+Había otras noches cuando no teníamos dinero y entonces entrábamos, nos acercábamos al tocadiscos y apretábamos un botón. La canción sonaba un largo rato y luego nos íbamos otra vez. Porque teníamos que ir todas las noches pues no sabíamos cuándo llegaría y no queríamos que llegara y no estuviéramos nosotros allí. Pero el dueño se dio cuenta. Supo que nosotros también estábamos a la espera y una noche, cuando pasábamos frente a él hacia el tocadiscos, nos dijo:
+
+—Pueden tomar lo que quieran.
+
+Entonces nos acercamos al bar y comenzamos a tomar como siempre. Desde esa noche ya nunca dejamos de ir. Y aunque no tuviéramos dinero nos sentábamos en los altos bancos rojos y pedíamos nuestros tragos.
+
+Una noche llegó alguien a quien nunca habíamos visto. Como si conociera el lugar desde mucho antes, como si él supiera de nosotros. Tomó un banco y lo acercó al nuestro. Luego dijo:
+
+—Voy a quedarme aquí. Tiene que llegar a este bar.
+
+Nadie lo miró. Pero nosotros sí. Tenía el pelo negro, una pipa labrada y un saco grueso. No dijimos nada y él puso sus billetes sobre el mostrador y comenzó a tomar lentamente.
+
+—Hace tiempo que estoy esperando —dijo y golpeó la pipa contra la palma de la mano abierta y dura—. Me salí de la carretera con los catorce que me tocaban a mí. Caminé detrás de ellos hasta que encontré un pequeño claro de arena blanca. Entonces oí que ya él había terminado. Ya su ametralladora no sonaba. Estaban de espaldas. Yo comencé a llorar. Cuando él llegó su ametralladora volvió a sonar. Yo me dije que no quería oír más. Y ni siquiera oí cuando las balas se callaron. Seguramente me dijo que lo siguiera y yo lo seguí, pero ya no oí más.
+
+Nosotros no dijimos nada porque él siguió hablando y nosotros dejamos de oírlo de pronto. Era que habíamos comenzado a recordar. Y nos fuimos apartando poco a poco a medida que los recuerdos se alejaban. Llegamos a una estación. Había buses plateados y ventanillas numeradas en negro en el fondo del gran corredor. Allí habíamos comenzado, sentados en unas butacas tibias por el calor de los cuerpos que llenaban la estación, con las revistas y los periódicos desordenados a nuestro lado. No sabíamos si esperábamos o si nos esperaban. Allí habíamos comenzado.
+
+Pero antes era yo. Yo sólo viajando sobre las carreteras de ladrillos rojos. Yo frente a la vendedora de revistas, comprando todas las revistas y todos los periódicos, no para leerlos, sino para ofrecérselos a quien había de sentarse a mi lado en el doble asiento del viaje, y la voz de la muchacha preguntando a qué hora sale su bus y un negro le da la hora que yo conozco; porque he estado esperando toda la noche en esa estación.
+
+Y de pronto me quedo solo con la muchacha y las paredes se van alejando en cuatro direcciones y estamos allí solos, la muchacha y yo, y el negro, con los botones dorados de su chaqueta y su brillante escoba, se aleja empujado por la huida de las paredes mientras la muchacha de las revistas desaparece detrás de las carátulas multicolores que le hacen muecas. Yo le hablo a la muchacha que tiene un largo tiquete verde y mira sin entender los itinerarios con su complicada combinación de números. En la enorme soledad de la estación mi vos y la voz de la muchacha van llenando lentamente todos sus vacíos. Y después ya no hablamos más.
+
+La muchacha se duerme contra la madera lustrosa de los bancos y yo estoy velando su sueño derrotado. De pronto me dice sin abrir los ojos:
+
+—Tengo hambre.
+
+Y yo me levanto sin ruido y atravieso el frío ancho de la calle porque he visto en algún lado las vitrinas opacadas de un restaurante. En un tarro de cartón me dan café caliente para la muchacha. Yo le digo al griego que está detrás del mostrador:
+
+—Ella está ahí en la estación, no sé para donde va pero ha esperado el bus toda la noche y tiene hambre.
+
+Y el griego me pregunta:
+
+—¿Por qué no te vas con ella?
+
+Y yo le contesto que no lo había pensado, pero que quiero irme con ella. Me llena un tarro de cartón blanco y me lo entrega.
+
+—Llévaselo y antes de despertarla dile que te vas con ella.
+
+Yo lo hago así y la muchacha se toma lentamente el café mientras yo pienso en lo que me ha dicho griego. Cuando llegan los buses nos levantamos y salimos a leer las letras blancas hasta hacerlas coincidir con los tiquetes. Yo me vuelvo al restaurante y le digo al griego que ella se ha ido. Él me dice:
+
+—Tiene que volver.
+
+Yo atravieso todo el frío del mundo que se ha acumulado en la calle, recojo mis revistas y me meto en el último bus. Y otra vez las estaciones repetidas a lo largo del cansancio que había comenzado hace muchas semanas. Y por fin he llegado a esta estación y me he encontrado en este banco rodeado de periódicos y revistas. Cuando la voz vieja conocida que anuncia las llegadas y las salidas anunció el nombre que esperábamos, ya éramos nosotros. Y subimos a nuestro bus. Ahora estamos en este bar todavía a la espera.
+
+Nos rodea gente, cada uno con su espera. Estamos estrechamente unidos en que todos sabemos que estamos a la espera pero no nos conocemos, ni siquiera hablamos. Solamente “nosotros” hablamos de vez en cuando. Y ahora ha llegado este hombre y nos ha hablado, nos ha dicho cosas que no hemos preguntado. Secretamente sabemos que ha de seguir hablando y hablando, que mañana vendrá y hablará otra vez, y seguirá viniendo todas las noches. Vamos a tener miedo, miedo de que nos interrumpa a cada momento cuando nos ponemos a parar monedas de canto sobre la madera humedecida por nuestros vasos. Y de que pregunte cuando nos ponemos a jugar con los círculos de agua que hay debajo de cada trago. Yo sé que nos está mirando y espera que volvamos la cabeza hacia él para seguir hablando. Pero tenemos miedo y no queremos mirarlo porque tenemos los ojos redondeados sobre los vasos. No podemos oírlo pues alguien ha vuelto a meter monedas en el tocadiscos y hemos hecho tapones de música para nuestros oídos.
+
+Y para distraernos pensamos:
+
+—la foca azul tiene una pelota blanca y roja sobre la nariz
+—cómo se llamará la foca
+—tonto no ves que se llama Carstairs
+—no, ese no es el nombre de la foca 
+—es el nombre del whisky
+—pero no es lo mismo 
+—yo siempre quise ver las focas 
+—vamos a verlas una tarde cuando haya verano
+—no, ya he perdido el interés y de propio no son tan reales como esta foca azul 
+—aquellas también tendrán pelotas rojas pues yo las llevaré
+—llevaremos pelotas blancas y pelotas rojas, las más grandes y más blancas y más rojas que podamos conseguir 
+—llevaremos pelotas para dárselas a las focas
+—sí, tal vez podamos ir un día cuando haya verano 
+—y después iríamos a un cine, me gusta el cine
+—creo que me gustaría ver una película que se llame los rinocerontes hacen pompas de jabón en la que esté Susan Peters que cuando yo era pequeño se parecía a una muchacha que llevaba sus libros amarrados con una correa verde 
+—hubo un tiempo cuando veía todas las películas
+—cuando no se tienen sueños, cuando no esperamos nada, tenemos que meternos en las salas de cine y tomar los sueños prestados de las películas 
+—también yo iba al cine todos los días a hacer míos todos los sueños.
+
+Dejamos de pensar y nos pusimos a jugar otra vez con las monedas. Nos habíamos olvidado de nuestro miedo. No supimos cuándo entró; estaba mirándonos cuando alzamos la cabeza para pedir los tragos. La vimos al mismo tiempo, pero yo me quedé solo mirándola. Cuando me levanté, todas las monedas que estaban paradas de canto comenzaron a rodar. Yo le dije:
+
+—He estado esperándote Madeleine.
+
+Y luego:
+
+—Ahora vendrás todas la noches.
+
+Ella siguió mirándome y asintió. Cuando salíamos oí su voz diciéndome:
+
+—Ya no me necesitas más. Déjame ir ahora.
+
+Yo le tomé la mano y se la apreté con fuerza. Mientras cruzamos la calle veíamos a Madeleine a través de la vitrina que había comenzado a esperar.
