@@ -1,0 +1,69 @@
+---
+layout: story
+title: Bromas del calor
+slug: am_calor
+source: https://www.literatura.us/idiomas/am/am_calor.html
+tags:
+  - am_calor
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+Bromas del calor (1950)
+(“Scherzi del caldo”)
+Originalmente publicado en el periódico Il Corriere della Sera (2 de julio de 1950);
+Racconti romani
+(Milán: Bompiani, 1954, 439 págs.)
+Al llegar el verano, quizás porque aún soy joven y no me he adaptado aún al hecho de ser marido y padre de familia, me entran siempre ganas de escapar. En verano, en las casas de los ricos, se cierran las ventanas por la mañana, y el aire fresco de la noche permanece en las habitaciones amplias y oscuras, donde, en la penumbra, brillan espejos, pavimentos de mármol, muebles brillantes de cera. Todo está en su sitio, todo es limpio, ordenado, nítido; hasta el silencio es un silencio fresco, sedante, oscuro. Y luego, si tienes sed, te traen una buena bebida helada en una bandeja, una naranjada, una limonada, dentro de un vaso de cristal en el que los cubitos de hielo, al removerlos, hacen un ruido alegre que por sí solo te refresca. Pero en las casas de los pobres las cosas son muy distintas. Con el primer día de calor el bochorno entra en tus cuartitos sin ventilación y ya no se vuelve a ir. Quieres beber y del grifo, en la cocina, sale un agua caliente que parece caldo. En casa no te puedes mover: parece que todo, muebles, vestidos, utensilios, se haya hinchado y se te cae encima. Todos están en mangas de camisa, pero las camisas están sudadas y apestan. Si cierras las ventanas, te ahogas, porque el aire de la noche no ha conseguido entrar en esas dos o tres habitaciones donde duermen seis personas; si las abres, el sol te inunda y te parece que estás en la calle, y todo sabe a metal hirviente, a sudor y a polvo. Con el calor, incluso los caracteres se calientan, quiero decir que se hacen pendencieros. Mientras que el rico, si le da por ahí, coge y se va al fondo del departamento, tres habitaciones más allá, los pobres, en cambio, se quedan ante los platos grasientos y los vasos sucios, nariz contra nariz; o bien tienen que irse de casa.
+Uno de esos días, tras haber tenido una buena pelea con toda mi familia —o sea con mi mujer porque la sopa estaba salada e hirviendo, con mi cuñado porque se ponía de parte de mi mujer y, en mi opinión, no tenía derecho porque está parado y vive a mi costa, con mi cuñada porque me defendía y esto me fastidiaba, porque sabía que lo hacía por coquetería, pues está enamorada de mí, con mi madre porque trataba de calmarme, con mi padre porque protestaba diciendo que quería comer en paz, e incluso con la niña, porque había estallado en llanto—, de pronto me levanté, tomé la chaqueta de la silla y dije sencillamente:
+—¿Sabéis lo que os digo? Me jorobáis todos. Hasta la vista, en octubre, cuando venga el fresco.
+Y salí de casa. Mi mujer, pobrecita, me siguió, y asomándose a la barandilla de la escalera me gritó que había ensalada de pepinos, que me gusta mucho. Le contesté que se la comiera ella y bajé a la calle.
+Vivimos en la via Ostiense. La atravesé y, maquinalmente, me fui hasta el puente de hierro, donde está el puerto fluvial de Roma. Eran las dos, la hora más cálida de la jornada, con un cielo de siroco, lívido, que parecía un ojo amoratado por un puñetazo. Cuando llegué al puente, me apoyé en el pretil de hierro claveteado: quemaba. El Tíber, encajonado entre los muelles, al fondo de los murallones oblicuos, parecía, con su color fangoso, una cloaca al aire libre. El gasómetro, que parece un esqueleto después de un incendio, los altos hornos de la fábrica del gas, las torres de los silos, las tuberías de los depósitos de petróleo, los puntiagudos techos de la central termoeléctrica cerraban el horizonte, hasta el punto de no hacer pensar en Roma, sino en alguna ciudad industrial del Norte. Me quedé un rato mirando al Tíber, amarillo y pequeño, con una gabarra llena de sacos de cemento parada junto al muelle, y me dio la risa al pensar que este arroyuelo se llamaba puerto, como los puertos de Génova y de Nápoles, atestados de navíos de todos los tamaños. De haber querido realmente huir, desde este puerto habría podido llegar, todo lo más, a Fiumicino, para comer una fritada de pescado a la vista del mar. Finalmente me moví, crucé el puente, me dirigí hacia unos terrenos que se encuentran al otro lado del Tíber. Aunque vivía allí cerca, nunca había estado por aquí y no sabía a dónde iba. Primero caminé por una carretera asfaltada, regular, aunque entre campos yermos sembrados de basuras; después la carretera se convirtió en un sendero de tierra, y las basuras empezaron a ser montones altos, casi colinitas. Pensé que había caído justamente en el lugar donde se descargan todas las basuras de Roma; no se veía una brizna de hierba, sino solamente papeles, latas herrumbrosas, tronchos, detritus, entre una luz cegadora, con un hedor ácido de cosas echadas a perder. Me sentía extraviado, como quien no tiene ya ganas de andar pero, por otra parte, no quisiera retroceder. De pronto, oí llamar:
+—Pss..., pss... —como se hace con los perros.
+Me volví para ver dónde estaba el perro. Pero no había perros, aunque el lugar, con todas aquellas basuras diseminadas, era ideal para perros vagabundos; de manera que pensé que me llamaban a mí y miré hacia el sitio de donde venía la llamada. Vi entonces, adosada a los montones de basura, una choza que no había observado, minúscula, desvencijada, con techo de chapa ondulada. Una niña rubia, de unos ocho años, estaba en la puerta y me hacía señas de que entrase. La miré: tenía un rostro blanco y sucio, con unos ojos cercados de violeta, como una mujer. Los cabellos llenos de pajitas, de pelusas y de polvo le hacían una cabeza abultada e hirsuta, como la de un milano. Su traje era muy simple: una saco de cáñamo con cuatro agujeros, dos para los brazos y dos para las piernas. Me preguntó, tan pronto como me volví:
+—¿Eres médico?
+—No —contesté—. ¿Por qué? ¿Necesitas un médico?
+—Porque si eres médico —prosiguió—, entra. Mamá está enferma.
+No quise insistir en demostrarle que no era médico y entré en la choza. Primero me pareció haber entrado en la tienda de un chamarilero, en Campo di Fiori. Todo colgaba del techo: trajes, zapatos, medias, utensilios, vajilla, harapos. Luego comprendí que eran sus cosas, colgadas de clavos a falta de muebles. Mientras, inclinando la cabeza entre todos aquellos colgajos, me volvía hacia uno y otro lado en busca de la madre, la niña me indicó, con un gesto casi furtivo, un montón de trapos en un rincón. Miré mejor y vi que aquel montón de trapos me observaba con un ojo brillante, el otro estaba cubierto por un mechón de cabellos grises. Me impresionó su aspecto: parecía una vieja, aunque se comprendía que era joven. Al verme, dijo de inmediato:
+—Los que no mueren, vuelven a verse.
+La niña estalló en risas, como al comienzo de un espectáculo divertido, y se acurrucó en el suelo jugando con unas latas abiertas de conservas. Yo dije:
+—En realidad, yo no te conozco... ¿Qué tienes?... ¿Esta niña es hija tuya?
+—Claro..., y tuya también.
+La niña volvió a reírse, para sí, con la cabeza gacha. Creí que era una broma y respondí:
+—Puede que sea mi hija, pero también lo será de algún otro.
+—No —exclamó ella, incorporándose a medias y apuntándome con un dedo—, es tu hija, y sólo tuya... ¡Gandul, holgazán, poltrón, sinvergüenza, no eres más que eso!
+La niña, al oír estos insultos, se echó a reír, encantada, como si se los esperara. Dije, ofendido:
+—Fíjate en cómo hablas... Ya te he dicho que no te conozco.
+—No me conoces, ¿eh?... No me conoces, pero has vuelto... Si no me conocieras, ¿cómo te hubieras arreglado para encontrar el camino de casa?
+—Poltrón, sinvergüenza —empezó a cantar la niña, en voz baja.
+Yo estaba sudando ahora, en parte por el calor y en parte por la angustia. Dije:
+—Pasaba por aquí, casualmente...
+—Ah, sí, pobrecillo... —se volvió hacia la niña y le ordenó—: Dame el bolso.
+La niña, muy ligera, descolgó del techo un bolso de terciopelo negro completamente sucio y roto, y se lo dio. La madre lo abrió, sacó un papel y dijo:
+—Ahí tienes el documento del matrimonio: Proietti, Elvira, se casa con Rapelli, Ernesto... ¿Lo negarás aún, Ernesto Rapelli?
+Me impresionó el hecho de que yo también me llamo Ernesto. Dije, un poco turbado:
+—Pero yo no soy Rapelli.
+—¿Ah, no?
+La niña canturreaba: “Ernesto, Ernesto”, y ella se puso en pie. Había adivinado bien: aunque tenía el pelo gris y arrugas, y carecía de dientes, se veía que no contaba más de treinta años.
+—Ah, no, ¿no eres Rapelli? —con las manos en las caderas vino hacia mí, me miró y luego gritó—: ¡Eres Rapelli...! Ante Dios y los hombres eres Rapelli.
+—Ya entiendo —dije—, veo que no te sientes bien... Si no te molesta, me iré.
+—Despacito, un momento... No tan de prisa...
+Entre tanto la niña, en el colmo de la alegría, bailaba alrededor nuestro. Ella continuó, sarcástica:
+—Ernesto, el gran Ernesto... Que deja plantada a su mujer y se larga de casa y no aparece en más de un año... ¿Sabes de qué hemos vivido, esta criatura y yo, durante este año que has estado fuera?
+—No lo sé —dije, bruscamente— ni quiero saberlo..., me voy.
+—Díselo tú —gritó a la niña—, díselo tú de qué hemos vivido, díselo a tu padre.
+—De limosnas —dijo la niña, gozosa, con una voz cantarina, acercándoseme a su vez.
+Confieso la verdad: empezaba a sentirme realmente turbado. Todas aquellas coincidencia: el nombre de Ernesto, el hecho de que yo también me había ido de casa, el otro hecho de que también yo tenía mujer y una hija, me daban la sensación de no ser yo, y al mismo tiempo de serlo pero de una forma distinta de lo habitual. Ella, entre tanto, al verme inseguro, gritaba en mis narices.
+—¿Sabes lo que le espera a quien abandona el domicilio conyugal?... La cárcel... ¿Lo has entendido, delincuente?... La cárcel.
+Esta vez tuve miedo y, sin hablar, me volví hacia la puerta para irme. Pero alguien nos miraba desde el umbral: una mujeruca seca, pobre, aunque vestida decentemente. Dijo, al verme tan confuso:
+—No le haga caso... Tiene la obsesión de que todos los hombres son su marido... Y esa maligna de su hija atrae a propósito a los transeúntes hasta la casa para divertirse oyéndola gritar y caer en sus manías... Ya verás como te coja, bruja asquerosa.
+Hizo un gesto como para dar una bofetada a la niña, pero ésta, ligera, la evitó y comenzó a bailar a mi alrededor, repitiendo alegremente:
+—Te lo has creído, di la verdad, te lo has creído... Y has tenido miedo, has tenido miedo... Has tenido miedo.
+—Elvira, éste no es tu marido —dijo la mujer, tranquilamente. En seguida, como convencida, Elvira volvió a acurrucarse en su rincón.
+La mujer, sin ocuparse ya de mí, fue al fondo de la choza y empezó a revolver en un hornillo.
+—Soy yo quien les hace la comida —me explicó—; es cierto que viven de limosnas, pero el marido no se ha ido, ha muerto...
+Ya tenía más que suficiente. Saqué de la cartera cien liras y se las di a la niña, que las cogió sin darme las gracias. Luego salí y deshice el camino andado: del sendero a la carretera asfaltada y luego, a través del puente, hasta la via Ostiense. En casa, en comparación con el calor que hacía en la choza, me pareció entrar en una gruta. Y aunque nuestros pocos muebles son modestos, eran siempre mejor que los clavos de los que aquellas dos desgraciadas colgaban sus harapos. En la cocina ya habían quitado la mesa; pero mi mujer me sacó la ensalada de pepinos que me había dejado guardada y me la comí con pan, mirándola a ella lavar los platos y los cubiertos, de pie ante el fregadero. Luego me levanté, le di a traición un beso en el cuello, y así hicimos las paces.
+Unos días después le conté a mi mujer la historia de la choza, y luego decidí volver allí para ver si podía hacer algo por la niña. Ahora ya no tenía miedo de que me confundieran con Ernesto Rapelli. Pero, ¿lo creerán ustedes? No encontré la choza, ni la mujer, ni la niña, ni a la otra mujer seca que les hacía la comida. Di vueltas durante una hora, bajo un sol cegador, entre los montones de basura, y luego volví a casa, derrotado. Desde entonces, pienso que no supe encontrar el camino. Mi mujer, en cambio, dice que esa historia me la he inventado yo, por el remordimiento de haber pensado en abandonarla.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

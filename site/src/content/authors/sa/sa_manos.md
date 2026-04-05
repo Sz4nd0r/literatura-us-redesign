@@ -1,0 +1,84 @@
+---
+layout: story
+title: Manos
+slug: sa_manos
+source: https://www.literatura.us/idiomas/sa_manos.html
+tags:
+  - sa_manos
+  - sa
+---
+Sherwood Anderson
+(Camden, Ohio, 1876 - Colón, Panamá, 1941)
+Manos
+(1916)
+(“Hands”)
+Winesburg, Ohio
+(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+En el porche medio podrido de una casita de madera próxima al borde del barranco cerca de Winesburg, Ohio, un hombrecillo gordo
+caminaba nerviosamente de un lado a otro. Más allá de un extenso terreno sembrado de tréboles, el cual sólo había producido abundantes hierbas de mostaza, el hombre podía
+ver la carretera por donde pasaba un carro lleno de recolectores de bayas de regreso de los cultivos. Eran jóvenes y doncellas que reían y gritaban ruidosamente. Un muchacho de blusa azul saltó del carro y trató de jalar a una de las chicas, que en protesta soltó un chillido agudo y penetrante. Los pies del joven levantaban en el camino una nube de polvo frente al rostro del sol poniente. A través del vasto campo se dejó oír una voz fina y aniñada. “Oh, Wing Biddlebaum, peínate, se te cae el pelo en los ojos”, ordenó la voz al hombre calvo, cuyas manos pequeñas y nerviosas, jugaban con su frente blanca y desnuda, como si arreglaran una madeja de bucles enredados.
+Wing Biddlebaum, siempre asustado y acosado por una banda fantasmal de dudas, no sentía formar parte del pueblo donde había vivido durante veinte años. Entre todos los habitantes de Winesburg, uno solo se le había acercado, George Willard, hijo de Tom Willard, dueño del New Willard House, con quien había formado algo parecido a una amistad. George Willard era el
+reportero del Águila de Winesburg y algunas veces, al atardecer, caminaba hasta la casa de Wing Biddlebaum. Ahora el anciano se paseaba de un lado a otro del porche moviendo las manos nerviosamente, mientras esperaba a que George Willard viniera a pasar la velada con él. Cuando el carro en que iban los recolectores se alejó, cruzó el terreno a través de la alta hierba y, trepando una cerca, miró fija y ansiosamente a lo largo del camino hacia el pueblo. Permaneció así unos momentos frotándose las manos y observando la carretera de extremo a extremo. Luego, vencido por el miedo, regresó corriendo a pasearse nuevamente por el porche de su casa.
+Wing Biddlebaum, que durante veinte años había sido el misterio del pueblo, perdía un tanto su timidez ante George Willard, y su personalidad sombría, inmersa en un mar de dudas, emergía para contemplar el mundo. Con el joven reportero a su lado, se aventuraba a la luz del día en la calle Main o caminaba de un lado a otro por el porche deteriorado de su casa hablando excitadamente. La voz baja y temblorosa se tornaba aguda y fuerte, y la figura encorvada se enderezaba. Con una especie de coleteo, como del pez que el pescador devuelve al arroyo, Biddlebaum el silencioso comenzaba a hablar, esforzándose por poner en palabras las ideas acumuladas en su mente durante largos años de mutismo.
+Wing Biddlebaum hablaba mucho con las manos. Sus expresivos dedos delgados, siempre activos y luchando incesantemente por esconderse en los bolsillos o tras la espalda, aparecían para convertirse en las varillas del pistón de su maquinaria de expresión.
+La historia de Wing Biddlebaum es una historia de manos. Su incansable actividad, como el aleteo de un pájaro aprisionado, le dio su nombre. Se le ocurrió a algún poeta
+oscuro de la ciudad.[Wing significa ala] Las manos alarmaban a su dueño. Quería mantenerlas ocultas y, en cambio, contemplaba con asombro las manos
+inexpresivas y tranquilas de otros hombres que trabajaban junto a él en los campos o que conducían tiros de caballos soñolientos por los caminos rurales.
+Cuando hablaba con George Willard, Wing Biddlebaum cerraba los puños y golpeaba una mesa o las paredes de su casa, acción que le hacía sentirse más cómodo.
+Si le entraba el deseo de charlar mientras caminaban por los cultivos, buscaba un tronco o la tabla más alta de una cerca y, con manos diligentes, hablaba con renovado desahogo.
+La historia de las manos de Wing Biddlebaum se merece un libro aparte. Si se expone con simpatía revelará muchas cualidades extrañas y hermosas de los hombres oscuros. Es trabajo para un poeta.
+En Winesburg las manos llamaron la atención solamente por su actividad. Con ellas Wing Biddlebaum llegó a recoger hasta ciento cuarenta arrobas de fresas en un día. Se convirtieron en su rasgo distintivo,
+en la fuente de su fama. También provocaron que su personalidad evasiva y grotesca se hiciera más grotesca aún. Winesburg sentía el mismo orgullo por las manos de
+Wing Biddlebaum que por la casa de piedra nueva del banquero White, o por Tony Tip, el potrillo bayo de Wesley Moyer que ganó dos contra quince en las carreras de otoño de Cleveland.
+En cuanto a George Willard, en diversas ocasiones quiso preguntar sobre las manos. A veces se apoderaba de él una curiosidad casi irresistible.
+Creía que su extraña actividad e inclinación a permanecer ocultas se debía a un fuerte motivo, y solamente el creciente respeto que sentía por Wing Biddlebaum le impedía soltar las preguntas que le venían a la mente.
+Una vez estuvo a punto de cuestionarlo. Ambos caminaban por los campos una tarde de verano y se detuvieron para sentarse en un montón de hierba. Durante todo
+ese tiempo Wing Biddlebaum habló como un inspirado. Se paró junto a una cerca y, golpeando las tablas como un pájaro carpintero gigante, le gritó a George Willard censurándolo por permitir que la gente a su alrededor influyera tanto en él.
+—Usted se está destruyendo –le gritó–. Se inclina a estar solo, a soñar, y tiene miedo de los sueños. Quiere ser igual a todos en este pueblo. Los escucha e intenta imitarlos.
+Sentado en la hierba Wing Biddlebaum volvió a insistir sobre el punto. Su voz se tornó suave, evocadora, y con un suspiro de satisfacción, se lanzó a una conversación vaga hablando como perdido en un sueño.
+Del sueño, Wing Biddlebaum le pintó un cuadro a George Willard en donde los hombres nuevamente vivían en una especie de edad de oro pastoril. Después de cruzar la campiña abierta,
+verde, llegaron unos jóvenes bien proporcionados a pie y a caballo. En grupos se colocaron a los pies de un anciano que les habló sentado bajo un árbol en un jardincito.
+Wing Biddlebaum se inspiró plenamente. Por una vez se olvidó, de sus manos. Poco a poco se deslizaron frente a él hasta posarse eh los hombros de George Willard. En su voz aparecía algo nuevo e intrépido.
+—Debe procurar olvidar todo lo que ha aprendido –dijo el anciano–. Debe empezar a soñar. De hoy en adelante no prestará atención a las voces que rugen.
+Wing Biddlebaum interrumpió su discurso y miró prolongada y vehementemente a George Willard. Sus ojos brillaban. De nuevo alzó las manos para acariciar al joven y, de repente, una expresión de horror cruzó por su rostro.
+Con un movimiento convulsivo del cuerpo, Wing Biddlebaum se levantó de un salto y metió las manos hasta el fondo de los bolsillos del pantalón. Se le llenaron los ojos de lágrimas.
+—Debo regresar a casa. No puedo seguir hablando con usted –dijo nerviosamente.
+Sin voltear hacia atrás el anciano bajó la colina y cruzó un prado apresuradamente, dejando a George Willard perplejo y asustado en el montículo de hierba.
+El muchacho se levantó estremeciéndose de miedo y caminó por la carretera hacia el pueblo. “No le preguntaré sobre sus manos”, pensó conmovido al recordar el
+terror en los ojos del hombre. “Algo anda mal pero no quiero saber lo que es. Sus manos tienen que ver con el miedo que me tiene a mí y a cualquiera.”
+Y George Willard tenía razón. Veamos rápidamente la historia de las manos. Es posible que si hablamos de ellas surgirá el poeta que contará la anécdota asombrosa y oculta sobre
+la influencia que ejercían las manos como banderas ondeantes de promesa.
+En su juventud Wing Biddlebaum había sido maestro de escuela en una ciudad de
+Pennsylvania. En aquel tiempo no se le conocía como Wing Biddlebaum sino que tenía un nombre menos eufónico, Adolph Myers. Como Adolph Myers los niños de la escuela lo habían llegado a querer mucho.
+Por naturaleza, Adolph Myers estaba destinado a ser profesor de niños. Era uno de esos nombres raros e incomprendidos que gobiernan por medio de un poder tan gentil que se confunde con una adorable
+debilidad. En su sentir hacia los niños a su cargo, tales hombres no difieren de un tipo más fino de mujeres en su amor por los hombres.
+Y sin embargo, esto se ha dicho de una manera muy cruda. Es entonces cuando se necesita al poeta. Con los niños a su cargo, Adolph Myers había caminado por las tardes o se había sentado a conversar
+hasta el anochecer en los escalones de la escuela, perdido en una especie de sueño. Sus manos iban de un lado a otro, acariciaban los hombros de los niños, jugaban con las cabezas despeinadas. Conforme hablaba, su voz se
+tornaba suave y musical. En ello también había una caricia. De alguna manera, su voz y las manos, las palmadas en los hombros y el jugueteo con el pelo eran parte de su esfuerzo por transmitir un sueño a las mentes jóvenes.
+Por medio del roce de sus dedos se expresaba a sí mismo. Era uno de esos hombres en quienes la fuerza que crea la vida se diluye, no se concentra. Bajo la caricia de sus manos la duda y la incredulidad salían de
+las mentes infantiles y entonces empezaban también a soñar.
+Y luego la tragedia. Un niño de la escuela, poco inteligente, se enamoró del joven profesor. Por la noche, en su cama, imaginaba cosas innombrables y, en la mañana, procedía a contar sus sueños como si fueran hechos.
+De esos labios colgantes salían acusaciones extrañas, repugnantes. Un estremecimiento sacudió a la ciudad de Pennsylvania. Las dudas ocultas y sombrías latentes en las mentes de los
+hombres en relación a Adolph Myers se transformaron en creencias.
+La tragedia no esperó. A empujones sacaron de sus camas a los muchachos temblorosos para interrogarlos. “Me abrazó”, dijo uno. “Sus dedos jugaban continuamente con mi pelo”, dijo otro.
+Una tarde un hombre de la ciudad dueño de una cantina, Henry Bradford, vino a la puerta de la escuela. Sacó a Adolph Myers al patio y empezó a darle de puñetazos. Conforme los duros nudillos daban en la cara horrorizada del
+maestro, se encolerizaba más y más. Muertos de susto los niños corrían por todos lados como insectos alborotados. “Yo le enseñaré a ponerle las manos encima a mi hijo, bestia”, rugía el dueño de la cantina que,
+ya cansado de golpear al maestro, había empezado a patearlo por todo el patio.
+Durante la noche obligaron a Adolph Myers a dejar la ciudad de Pennsylvania. Una docena de hombres con linternas llegaron hasta la puerta de la casa donde vivía solo y le exigieron que se vistiera y saliera.
+Llovía y uno de los hombres llevaba una soga en la mano. Tenían la intención de colgar al maestro, pero algo en su figura, tan pequeña, blanca y triste, los conmovió y lo dejaron escapar. Conforme veían
+al hombre correr en la oscuridad, se arrepintieron de su debilidad y fueron tras él, insultándolo y aventándole palos y grandes bolas de lodo, mientras él gritaba y corría cada vez más rápido en la penumbra.
+Adolph Myers había vivido solo en Winesburg veinte años. Tenía solamente cuarenta años, pero aparentaba sesenta y cinco. Tomó el nombre de Biddlebaum de una caja de mercancías que vio en una estación de
+carga cuando atravesaba una ciudad al este de Ohio. Tenía una tía en Winesburg, una mujer de dientes negros que criaba pollos y con quien vivió hasta que ella murió. Había estado enfermo durante un año
+tras la experiencia en Pennsylvania y, después de su recuperación, trabajó como labriego en los campos, yendo y viniendo con timidez y luchando para ocultar sus manos. Aunque no comprendía lo que había
+sucedido, sintió que sus manos eran las culpables. Una y otra vez los padres y los niños se habían referido a ellas. “No meta las manos donde no debe”, el cantinero le había gritado bailando con furia
+en el patio de la escuela.
+En el cobertizo de su casa junto al barranco, Wing Biddlebaum continuó caminando de un lado a otro hasta que desapareció el sol y el
+camino al borde del campo se perdió en las sombras grises. Al llegar a su casa cortó unas rebanadas de pan y las untó con miel. Cuando el retumbar del tren nocturno que jalaba los vagones expresos cargados
+con la cosecha del día pasó y se restauró el silencio de la noche de verano, empezó de nuevo a pasear por el porche. En la penumbra no podía verse las manos y entonces dejaban de moverse. Aunque anhelaba
+la presencia del joven, único medio a través del cual expresaba su amor al hombre, su ansiedad de nuevo se transformó en parte de su soledad y de su espera. Wing Biddlebaum encendió una lámpara para lavar
+los pocos platos sucios de su comida tan simple y, tras instalar un catre junto a la puerta de alambre que daba al porche, se desvistió para pasar la noche. Quedaron unas cuantas morusas de pan blanco
+esparcidas por el piso limpio junto a la mesa; colocó la lámpara en un banquito y comenzó a recoger las migajas, llevándose una por una a la boca con increíble rapidez. En la mancha de luz bajo la mesa,
+la figura arrodillada parecía un sacerdote ejerciendo servicio en su iglesia. Los dedos expresivos y nerviosos que entraban y salían de la luz podrían haberse confundido con los de un devoto que repasa ágilmente diez tras diez de su rosario.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

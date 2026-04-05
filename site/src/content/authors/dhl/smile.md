@@ -1,0 +1,81 @@
+---
+layout: story
+title: Sonrisa
+slug: smile
+source: https://www.literatura.us/idiomas/dhl/smile.html
+tags:
+  - smile
+  - dhl
+---
+D. H. Lawrence
+(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
+Sonrisa (1926)
+(“Smile”)
+Originalmente publicado en la revista Nation & Anthenaeum,
+Vol. XXXIX (19 de junio de 1926), págs. 319-320;
+revista New Masse [Nueva York) (junio de 1926);
+The Woman Who Rode Away and Other Stories
+(Londres: Martin Secker, 1928, 292 págs.);
+The Woman Who Rode Away: and Other Stories
+(Nueva York: A. Knopf, 1928, 307 págs.)
+Había decidido no acostarse en toda la noche, en una especie de penitencia. El telegrama decía simplemente: “Ophelia estado crítico”. Sentía, dadas las circunstancias, que meterse en la cama del coche cama sería frívolo. De modo que se quedó sentado, abrumado, en el vagón de primera clase, mientras la noche caía sobre Francia.
+Él, sin duda, debía encontrarse junto al lecho de enferma de Ophelia. Pero Ophelia no quería. De modo que estaba sentado en el tren.
+Muy hondo dentro de él había un peso negro y grave, como un tumor lleno de tinieblas que pesara sobre sus entrañas. Siempre se había tomado la vida seriamente. Ahora la seriedad lo aplastaba. Su hermoso rostro moreno y bien afeitado podía haber sido el de Cristo en la cruz, con las espesas cejas negras enarcadas en aturdida agonía.
+La noche en el tren era como un infierno: nada parecía real. Dos inglesas avejentadas sentadas frente a él habían muerto hacía rato, quizá antes que él. Porque, naturalmente, él estaba muerto.
+El amanecer, lento y gris, asomó en las montañas de la frontera, y lo contempló sin verlo. Pero su mente repetía:
+Y cuando llegó el alba, opaca y triste
+y fría de lluvia temprana,
+se cerraron sus ojos tranquilos: veía
+un alba que no es la nuestra.
+[The Deathbed, Thomas Hood (1799-1845)]
+Y en su rostro de monje, inmutable y atormentado, no había rastro del desprecio que sentía, incluso autodesprecio, por aquel paso de lo sublime a lo ridículo, según el juicio de su mente crítica.
+Estaba en Italia. Contempló el paisaje con leve aversión. Incapaz de sentir más intensamente, sentía tan solo un gustillo de aversión al ver los olivos y el mar. Una especie de estafa poética.
+Había vuelto a caer la noche cuando llegó a la casa de las Hermanas Azules [Soeurs Bleues]que Ophelia había elegido para retirarse. Lo condujeron hasta el despacho de la madre superiora, en el palacio. La monja se puso en pie y le dirigió una silenciosa inclinación de cabeza, mirándolo de frente. Luego dijo en francés:
+—Me apena decírselo. Ha muerto esta tarde.
+Él se quedo quieto, pero sin ningún sentimiento demasiado intenso, mirando al vacío desde su hermoso rostro de monje de rasgos marcados.
+La madre superiora le puso suavemente su blanca y hermosa mano en el brazo y le miró el rostro, apoyándose en él.
+—¡Valor! —dijo dulcemente—. Valor, ¿no?
+Él dio un paso atrás. Siempre le había asustado que una mujer se apoyara en él de aquel modo. La madre superiora, con su voluminoso ropaje, era muy mujer.
+—¡Claro! —repuso en inglés—. ¿Puedo verla?
+La madre superiora hizo sonar una campana, y apareció una monja joven. Era más bien pálida, pero había algo ingenuo y travieso en sus ojos color avellana. La mujer mayor murmuró una presentación, y la mujer joven hizo una leve reverencia modesta. Pero Matthew le tendió la mano, como un hombre que se aferra al último asidero. La monja joven abrió sus manos blancas y, tímidamente, puso una de ellas en la suya, pasiva como un pájaro que duerme.
+Y, abandonando la tristeza del inexplicable Hades, él pensó: “¡Qué mano tan bonita!”.
+Siguieron por un pasillo hermoso pero frío, y llamaron a una puerta. Matthew, mientras andaba en lejanos abismos, seguía consciente del suave y agradable volumen de las ropas negras de la mujer, que se movía con un dulce revoloteo apresurado delante de él.
+Se sintió aterrado cuando se abrió la puerta. Vio arder las velas alrededor del lecho blanco en la alta y noble habitación. Junto a las velas estaba sentada una monja, y vio su rostro moreno y primitivo enmarcado por la cofia blanca cuando alzó la mirada de su breviario. Luego se puso en pie. Era una mujer robusta. Hizo una leve reverencia, y Matthew percibió unas manos color crema oscuro moviéndose sobre un rosario negro en la rica seda azul de su pecho.
+Las tres hermanas se reunieron en silencio, pero revoloteando y muy femeninas, con sus faldas voluminosas de seda negra, al lado de la cabecera. La madre superiora se inclinó y, con delicadeza extrema, alzó el velo de estopilla blanca que cubría el rostro muerto.
+Matthew vio la hermosa serenidad de la muerte en el rostro de su mujer, y, al instante, algo parecido a la risa brincó en las profundidades de su ser, emitió un leve quejido, y una extraordinaria sonrisa se abrió en su rostro.
+Las tres monjas, a la luz de las velas que temblaba cálida y veloz como un árbol navideño, le observaban con miradas de profunda compasión por debajo de las viseras de sus cofias. Eran como un espejo. En seis ojos apareció un ligero temor sobresaltado, y luego los seis pasaron, desconcertados, al asombro. Y en las caras de las tres monjas, irremediablemente encaradas con él a la luz de las velas, empezó a asomar una extraña sonrisa involuntaria. En las tres caras, la misma sonrisa crecía de modos muy distintos, como tres flores primorosas que se abren. En el caso de la monja joven, era casi congoja, con un toque de travieso éxtasis. Pero el moreno rostro ligur de la monja que velaba, una mujer madura y cejijunta, se rizó en una sonrisa pagana, lenta, infinitamente sutil en su humor arcaico. Era la sonrisa etrusca, leve y descarada, e incontestable.
+La madre superiora, cuyo rostro de rasgos marcados tenía algo que lo asemejaba al de Matthew, intentó con todas sus fuerzas no sonreír. Pero mantuvo su mentón voluntarioso y malévolo alzado, y fue bajando el rostro a medida que aquella sonrisa crecía, y crecía, y crecía en él.
+La pálida hermana joven se tapó el rostro de repente con la manga, mientras su cuerpo se convulsionaba. La madre superiora pasó el brazo por los hombros de la muchacha y murmuró con emoción italiana:
+—¡Pobrecilla! ¡Llora, llora, pequeña!
+Pero la risa ahogada seguía allí, debajo de la emoción. La robusta monja morena se mantuvo impávida, empuñando las cuentas negras, pero con la silenciosa sonrisa inmutable.
+Matthew se volvió de repente hacia la cama para ver si su difunta mujer le había mirado. Fue un movimiento de miedo.
+Ophelia yacía, tan hermosa y enternecedora, con su muerta naricilla respingona apuntando al techo y su rostro de niña obstinada fijado en la obstinación final… La sonrisa desapareció en Matthew, y un gesto de martirio supremo la sustituyó. No lloraba: tan solo miraba sin ánimo. Tan solo en su rostro se acentuó el aspecto de “Sabía que este martirio me estaba reservado”.
+Ophelia estaba tan hermosa, tan pueril, tan lista, tan obstinada, tan cansada… ¡y tan muerta! Se sintió completamente vacío.
+Habían estado casados diez años. Él no había sido perfecto… ¡No, no! ¡De ninguna manera! Pero Ophelia había querido siempre hacer su voluntad. Ella le había amado, y se había obcecado, y le había dejado, y se había puesto melancólica, o despectiva, o colérica, una docena de veces, y una docena de veces había vuelto junto a él.
+No habían tenido hijos. Y él, en su interior, siempre había deseado tenerlos. Estaba muy triste.
+Ahora ella jamás volvería a su lado. Era la decimotercera vez, y ella se había marchado para siempre.
+Pero ¿se había marchado para siempre? Incluso mientras lo pensaba, la sentía darle codazos en alguna parte, en las costillas, para hacerle sonreír. Tuvo una leve contracción y su frente se frunció irritada. ¡No iba a sonreír! Afirmó sus fuertes mandíbulas bien afeitadas y descubrió los dientes mientras bajaba la mirada a la mujer muerta tan profundamente provocativa. “¡Volvamos a ello!”, deseaba decirle, como el personaje de Dickens [Jonas Chuzzlewit en Martín Chuzzlewit (1844)].
+Él no había sido perfecto. Iba a residir en sus propias imperfecciones.
+Se volvió de repente hacia las tres mujeres, borrosas tras retroceder detrás de las velas, que ahora revoloteaban, con las formas blancas de sus cofias, entre él y la nada. Los ojos de Matthew brillaban, y descubrió los dientes.
+—Mea culpa! Mea culpa! —gruñó.
+—Macchè! [sucio] —exclamó la madre superiora, acobardada, y sus manos se separaron, y luego volvieron a juntarse, entre sus tupidas mangas, como dos pájaros anidando juntos.
+Matthew bajó la cabeza y miró a su alrededor, dispuesto a fugarse. La madre superiora, al fondo, entonó dulcemente un padrenuestro, y las cuentas de su rosario se balancearon. La monja joven y pálida se deslizó más al fondo. Pero los ojos negros de la monja robusta y ominosa centelleaban como estrellas eternamente jocosas, y él se dio cuenta de que la sonrisa volvía a hurgar en sus costillas.
+—¡Oh! —dijo a las mujeres, en tono de reconvención—. Me siento terriblemente trastornado. Será mejor que me vaya.
+Ellas revolotearon con fascinado asombro. Él caminó hacia la puerta, con la cabeza gacha. Pero mientras andaba la sonrisa empezó a asomar en su rostro, atraída por el rabillo de los ojos negros de la monja robusta con su eterno centelleo. Y él pensó en secreto que deseaba tomarle las manos color crema oscuro, enlazadas como una pareja de pájaros, voluptuosas.
+Pero insistió en residir en sus propias imperfecciones. Mea culpa!, se aulló a sí mismo. Pero mientras lo gritaba sintió que alguien le daba con el codo en las costillas y le decía: “¡Sonríe!”.
+Detrás de él, las tres mujeres, en la alta habitación, se miraban unas a otras, y sus manos se abrieron por un instante, como seis pájaros que bruscamente salieran volando del follaje, cerrándose luego nuevamente.
+—¡Pobrecillo! —dijo la madre superiora, compasiva.
+—¡Sí! ¡Sí! —exclamó la monja joven, con pueril y chillona impetuosidad.
+—Già [sí] —dijo la monja ominosa.
+La madre superiora se dirigió en silencio hacia el lecho y se inclinó sobre el rostro muerto.
+—¡Parece darse cuenta, pobre alma! —murmuró—. ¿No creéis?
+Las tres cabezas con cofia se inclinaron a un tiempo. Y, por primera vez, vieron el leve rizo irónico en las comisuras de la boca de Ophelia. La contemplaron con temeroso asombro.
+—¡Le ha visto! —susurró la monja joven, estremecida.
+La madre superiora dejó caer delicadamente el fino velo sobre el rostro frío. Luego murmuró una plegaria por su alma, pasando las cuentas de su rosario. Después la madre superiora embutió dos de las velas en sus candelabros, agarró la gruesa vela con mano firme y suave y la afianzó.
+La robusta monja morena volvió a sentarse con su pequeño devocionario. Las otras dos, susurrantes, cruzaron la puerta y salieron al gran pasillo blanco. Allí, navegando suave y silenciosamente en sus oscuros ropajes, como cisnes oscuros en un río, de repente titubearon. Ambas a un tiempo habían visto la desamparada figura de un hombre con un melancólico abrigo, vagando al extremo del pasillo, en la fría distancia. La madre superiora aceleró de repente el paso aparentando prisa.
+Matthew vio llegar a él a esas figuras voluminosas de manos perdidas. La monja joven iba un poco rezagada.
+—Pardon, ma Mère! —dijo Matthew, como en la calle—. Me he dejado el sombrero en alguna parte…
+Hizo un gesto desesperado con el brazo, y nunca ha habido hombre menos sonriente.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

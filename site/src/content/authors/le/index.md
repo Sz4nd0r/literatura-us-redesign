@@ -7,4 +7,35 @@ tags:
   - index
   - le
 ---
-¿Quién es Louise Erdrich? ![Louise Erdrich](/assets/images/le.jpg) Louise Erdrich es una narradora y poeta estadounidense. Es reconocida como uno de los escritores más importantes de la segunda ola del Renacimiento Nativo Americano. Louise Erdrich, la mayor de siete hijos, nació el 7 de junio de 1954, en Little Falls, Minnesota. Son sus padres Ralph Erdrich, un germano-estadounidense, y Rita (Gourneau), una mujer Chippewa (de mitad Ojibwe y mitad de sangre francesa). Ambos padres enseñaron en un internado en Wahpeton, Dakota del Norte, establecido por la Oficina de Asuntos Indígenas. Erdrich asistió a Dartmouth College de 1972 a 1976, y obtuvo un A.B. en inglés. Durante su primer año, Erdrich conoció a su futuro esposo y colaborador, Michael Dorris, antropólogo, escritor y entonces director del nuevo programa de Estudios de Nativos Americanos. En 1978, Erdrich se inscribió en un programa de Maestría en Artes en la Universidad Johns Hopkins, en Baltimore, Maryland. Casi un año después, obtuvo la Maestría en Artes en Writing Seminars en 1979. Erdrich regresó a Dartmouth como escritora en residencia. Erdrich y Dorris comenzaron a colaborar en cuentos. En 1982, “The World’s Greatest Fisherman”, una colaboración, ganó $5,000 en la competencia de ficción Nelson Algren. (Los jueces fueron Donald Barthelme, Kay Boyle y Studs Terkel). El cuento finalmente se convirtió en el primer capítulo de la novela Love Medicine (1984), que ganó el Premio Nacional de Crítica del Libro. También en 1984, Erdrich publicó su primera colección de poemas, Jacklight. Erdrich y Dorris se casaron en 1981 y criaron tres hijos adoptados y tres hijos biológicos. Se separaron en 1995, y Dorris se suicidó en 1997. En 1985, obtuvo una Guggenheim Fellowship en Artes Creativas. En 1986, Erdrich publicó The Beet Queen (1986), que continuó su técnica de uso de múltiples narradores. Dos años después, publicó Tracks (1988), y seis años más tarde, The Bingo Palace (1994). Tales of Burning Love se publicó tres años después, en 1997; seguida de The Antelope Wife (1998), la primera novela de Erdrich después de su divorcio de Dorris y su posterior suicidio. Después de The Last Report on the Miracles at Little No Horse (2001), en 2003, Erdrich expandió su herencia nativa americana, con su novela The Master Butchers Singing Club (2003), que incluye un enfoque en el lado europeo de su ascendencia. La novela fue finalista para el Premio Nacional del Libro. En 2009, The Plague of Doves fue nombrada finalista del Premio Pulitzer en ficción. Ese mismo año también publicó The Red Convertible: Collected and New Stories 1978-2008, donde reunió sus cuentos. En 2012, su novela The Round House ganó el Premio Nacional del Libro. En 2016, su novela LaRose ganó el Premio del Círculo Nacional de Críticos del Libro por ficción (National Book Critics Circle Award for Fiction). Los críticos han comparado las complejas series de novelas entrelazadas de Erdrich con las novelas Yoknapatawpha de William Faulkner. Al igual que Faulkner, las sucesivas novelas de Erdrich crearon múltiples narraciones en la misma área ficticia y combinaron el tapiz de la historia local con los temas actuales y la conciencia moderna. Erdrich es propietaria de Birchbark Books, una pequeña librería independiente en Minneapolis que se enfoca en la literatura de los nativos americanos. Además de libros, la librería vende arte nativo y medicinas tradicionales, y joyería nativa americana. ÍNDICE: Cuentos: —El descapotable rojo (1984) —El mejor pescador del mundo (1982) —Santa Marie (1984) —Fleur (1986) —Matchimanito (1988) —Los sellos de catástrofes de Pluto (2004) 
+
+¿Quién es Louise Erdrich? ![Louise Erdrich](/assets/images/le.jpg) Louise Erdrich es una narradora y poeta estadounidense. Es reconocida como uno de los escritores más importantes de la segunda ola del Renacimiento Nativo Americano. Louise Erdrich, la mayor de siete hijos, nació el 7 de junio de 1954, en Little Falls, Minnesota. Son sus padres Ralph Erdrich, un germano-estadounidense, y Rita (Gourneau), una mujer Chippewa (de mitad Ojibwe y mitad de sangre francesa). Ambos padres enseñaron en un internado en Wahpeton, Dakota del Norte, establecido por la Oficina de Asuntos Indígenas.
+
+Erdrich asistió a Dartmouth College de 1972 a 1976, y obtuvo un A.B. en inglés. Durante su primer año, Erdrich conoció a su futuro esposo y colaborador, Michael Dorris, antropólogo, escritor y entonces director del nuevo programa de Estudios de Nativos Americanos. En 1978, Erdrich se inscribió en un programa de Maestría en Artes en la Universidad Johns Hopkins, en Baltimore, Maryland. Casi un año después, obtuvo la Maestría en Artes en Writing Seminars en 1979. Erdrich regresó a Dartmouth como escritora en residencia.
+
+Erdrich y Dorris comenzaron a colaborar en cuentos. En 1982, “The World’s Greatest Fisherman”, una colaboración, ganó $5,000 en la competencia de ficción Nelson Algren. (Los jueces fueron Donald Barthelme, Kay Boyle y Studs Terkel). El cuento finalmente se convirtió en el primer capítulo de la novela Love Medicine (1984), que ganó el Premio Nacional de Crítica del Libro. También en 1984, Erdrich publicó su primera colección de poemas, Jacklight. Erdrich y Dorris se casaron en 1981 y criaron tres hijos adoptados y tres hijos biológicos.
+
+Se separaron en 1995, y Dorris se suicidó en 1997. En 1985, obtuvo una Guggenheim Fellowship en Artes Creativas. En 1986, Erdrich publicó The Beet Queen (1986), que continuó su técnica de uso de múltiples narradores. Dos años después, publicó Tracks (1988), y seis años más tarde, The Bingo Palace (1994). Tales of Burning Love se publicó tres años después, en 1997; seguida de The Antelope Wife (1998), la primera novela de Erdrich después de su divorcio de Dorris y su posterior suicidio. Después de The Last Report on the Miracles at Little No Horse (2001), en 2003, Erdrich expandió su herencia nativa americana, con su novela The Master Butchers Singing Club (2003), que incluye un enfoque en el lado europeo de su ascendencia.
+
+La novela fue finalista para el Premio Nacional del Libro. En 2009, The Plague of Doves fue nombrada finalista del Premio Pulitzer en ficción. Ese mismo año también publicó The Red Convertible: Collected and New Stories 1978-2008, donde reunió sus cuentos. En 2012, su novela The Round House ganó el Premio Nacional del Libro. En 2016, su novela LaRose ganó el Premio del Círculo Nacional de Críticos del Libro por ficción (National Book Critics Circle Award for Fiction). Los críticos han comparado las complejas series de novelas entrelazadas de Erdrich con las novelas Yoknapatawpha de William Faulkner.
+
+Al igual que Faulkner, las sucesivas novelas de Erdrich crearon múltiples narraciones en la misma área ficticia y combinaron el tapiz de la historia local con los temas actuales y la conciencia moderna. Erdrich es propietaria de Birchbark Books, una pequeña librería independiente en Minneapolis que se enfoca en la literatura de los nativos americanos. Además de libros, la librería vende arte nativo y medicinas tradicionales, y joyería nativa americana.
+
+ÍndiceCuentos
+ —
+
+El descapotable rojo (1984)
+—
+
+El mejor pescador del mundo (1982)
+—
+
+Santa Marie (1984)
+—
+
+Fleur (1986)
+—
+
+Matchimanito (1988)
+—
+
+Los sellos de catástrofes de Pluto (2004)

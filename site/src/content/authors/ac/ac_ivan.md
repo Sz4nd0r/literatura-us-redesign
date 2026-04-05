@@ -1,0 +1,85 @@
+---
+layout: story
+title: Iván Matveich
+slug: ac_ivan
+source: https://www.literatura.us/idiomas/ac/ac_ivan.html
+tags:
+  - ac_ivan
+  - ac
+---
+Antón Chéjov
+(Ucrania, 1860 - Alemania, 1904)
+Iván Matveich (1886)
+(“Иван Матвеич”)
+Originalmente publicado en la Gaceta de San Petersburgo,
+Núm. 60 (3 de marzo de 1886);
+Relatos abigarrados [Пестрых рассказов] (1886, primera edición);
+Obras completas (1889, vol. I)
+Ya son más de las cinco de la tarde. Un sabio ruso de bastante renombre —lo llamaremos sencillamente un sabio— está sentado en su despacho y se muerde con inquietud las uñas.
+—¡Es absolutamente escandaloso! —dice, mirando a cada momento el reloj—. No cabe mayor desconsideración por el tiempo y el trabajo ajenos. ¡En Inglaterra un individuo así no ganaría ni un céntimo y se moriría de hambre! Ya verás la que te espera cuando llegues…
+Y, sintiendo la necesidad de descargar en alguien su irritación y su impaciencia, el sabio se acerca a la puerta de la habitación de su mujer y llama:
+—Escucha, Katia —dice con voz indignada—. Si ves a Piotr Danílich, dile de mi parte que las personas decentes no se comportan de ese modo. ¡Qué vergüenza! ¡Recomendarme un amanuense sin saber quién es! Ese muchacho se retrasa sistemáticamente dos o tres horas cada día. ¿Qué clase de amanuense es ése? ¡Para mí esas dos o tres horas son más valiosas que para otros dos o tres años! ¡Cuando llegue, lo regañaré como a un perro, no le pagaré y lo pondré de patas en la calle! ¡Con gente así no puede andarse uno con contemplaciones!
+—Todos los días dices lo mismo y nunca haces nada.
+—Pues de hoy no pasa. Ya he perdido bastante tiempo por su culpa. ¡Perdona si oyes palabras gruesas, voy a jurar como un carretero!
+Pero he aquí que suena por fin el timbre. El sabio adopta un aire de severidad, se yergue y, echando la cabeza hacia atrás, se dirige al vestíbulo. Allí, junto a la percha, se encuentra su amanuense Iván Matveich, un joven de unos dieciocho años, con el rostro oval como un huevo, imberbe, con un abrigo usado y raído y sin chanclos. Jadea y limpia cuidadosamente en el felpudo sus botas grandes y toscas, tratando de ocultar de la mirada de la doncella un agujero por el que asoma un calcetín blanco. Cuando ve al sabio, esboza una de esas sonrisas amplias, prolongadas y algo bobaliconas de que sólo son capaces los niños y las personas muy ingenuas.
+—Buenas tardes —dice, tendiéndole una mano enorme y mojada—. ¿Se le ha pasado el dolor de garganta?
+—¡Iván Matveich! —dice el sabio con voz temblorosa, retrocediendo y enlazando los dedos de las manos—. ¡Iván Matveich! —luego se abalanza sobre el amanuense, lo agarra por un hombro y lo sacude sin violencia—. ¿Cómo puede tratarme así? —dice con desesperación—. ¡Es usted un hombre ruin y despreciable! ¿Cómo puede tratarme así? ¡Está usted burlándose, mofándose de mí!
+Iván Matveich, a juzgar por su sonrisa, que aún no se ha borrado del rostro, esperaba un recibimiento muy distinto; por ello, cuando repara en la expresión indignada del sabio, estira aún más su semblante ovalado y, lleno de asombro, abre la boca.
+—¿Qué… qué pasa? —pregunta.
+—¿Y me lo pregunta usted? —exclama el sabio, levantando las manos—. ¡Sabe lo importante que es el tiempo para mí y se retrasa de este modo! ¡Llega usted dos horas tarde…! ¡No tiene vergüenza!
+—Es que no vengo directamente de casa —balbucea Iván Matveich, desanudándose la bufanda con indecisión—. He ido a ver a mi tía para felicitarle el santo y su casa está a unas seis verstas de aquí… Si hubiera venido directamente de casa, sería otra cosa.
+—Reflexione usted, Iván Matveich, y se dará cuenta de que su proceder carece de sentido. Aquí hay un trabajo que hacer, un trabajo urgente, ¡y usted se va por ahí a celebrar el santo de su tía! ¡Ah, acabe de desanudarse de una vez esa horrible bufanda! ¡Esto es verdaderamente intolerable!
+El sabio se abalanza de nuevo sobre el amanuense y le ayuda a quitarse la bufanda.
+—Qué torpe es usted… Bueno, vamos… ¡Dese prisa, por favor!
+Sonándose en un pañuelo sucio y arrugado y arreglándose su astrosa levita gris, Iván Matveich atraviesa la sala y el comedor y entra en el despacho. Allí hace tiempo que tiene preparado el lugar para escribir, el papel y hasta los cigarrillos.
+—Siéntese, siéntese —le apremia el sabio, frotándose las manos con impaciencia—. Es usted un hombre insoportable… Sabe que el trabajo es urgente y se retrasa de ese modo. Tengo que regañarle aunque no quiera. Bueno, escriba… ¿Dónde nos habíamos quedado?
+Iván Matveich se alisa los erizados cabellos, cortados a trasquilones, y toma su pluma. El sabio se pasea de un rincón al otro, se concentra y empieza a dictar:
+—La cuestión es… coma… que algunas formas que podríamos llamar fundamentales… ¿lo ha escrito…? Están condicionadas exclusivamente por la existencia de esos principios… coma… que encuentran expresión en sí mismos y sólo pueden encarnarse en ellos… Nueva línea… Ahí, por supuesto, hay que poner un punto… La mayor independencia se encuentra… se encuentra… en aquellas formas que tienen un carácter menos político… coma… que social…
+—Ahora los alumnos de secundaria tienen otro atuendo… de color gris… —dice Iván Matveich—. Cuando yo estudiaba, era más bonito: llevábamos un uniforme…
+—¡Ah, escriba, por favor! —se enfada el sabio—. ¿Ha escrito usted «social»? Pero en lo que se refiere a las reformas relativas a la organización… de las funciones gubernamentales y no a la reglamentación de usos y costumbres populares… coma… no puede decirse que se distingan por las características nacionales de sus formas… las cinco últimas palabras van entrecomilladas… Eh… Bueno… ¿Qué decía usted del instituto?
+—Que en mis tiempos llevábamos otro uniforme.
+—Ah… sí… ¿Hace mucho que abandonó los estudios?
+—¡Pero si se lo dije ayer! Hace ya tres años… Lo dejé en cuarto.
+—¿Por qué razón? —pregunta el sabio, echando una ojeada a lo que acaba de escribir Iván Matveich.
+—Por razones de familia.
+—¡Otra vez tengo que repetírselo, Iván Matveich! ¿Cuándo perderá usted la costumbre de separar tanto las palabras? ¡En un renglón no debe haber menos de cuarenta letras!
+—¿Se figura que lo hago a propósito? —replica ofendido Iván Matveich—. Además, otros renglones superan esa cifra… Cuéntelas.
+Pero si le parece que separo demasiado las palabras, puede usted quitármelo de la paga.
+~¡No se trata de eso! Qué poco delicado es usted, la verdad… A la menor alusión, saca usted a colación el dinero. Lo principal es la puntualidad, Iván Matveich. ¡La puntualidad es esencial! Debe usted acostumbrarse a ser puntual.
+La doncella entra en el despacho llevando una bandeja con dos vasos de té y una cesta llena de galletas… Iván Matveich coge torpemente su vaso con ambas manos y al punto empieza a beber. El té está demasiado caliente. Para no quemarse los labios, Iván Matveich trata de tragarlo a pequeños sorbos. Come una galleta, luego otra, a continuación una tercera y, con aire confuso, mirando al sabio de reojo, tiende con timidez la mano hacia la cuarta… Sus ruidosos sorbos, la glotonería con que mastica y la expresión de hambrienta avidez de sus cejas levantadas irritan al sabio.
+—Acabe de una vez… El tiempo es oro.
+—Siga dictando. Puedo beber y escribir a un tiempo… Le confieso que tenía hambre.
+—¡No me extraña, ha venido a pie!
+—Sí… ¡Y vaya tiempo tan malo! En mi tierra en esta época huele ya a primavera… Hay charcos por todas partes, la nieve se derrite.
+—Es usted del sur, ¿no es así?
+—Sí, de la región del Don… Allí en el mes de marzo ya es primavera. Aquí aún hiela y todo el mundo lleva pelliza; allí, en cambio, ya asoma la hierba… Todo está seco y hasta se pueden coger tarántulas.
+—Y ¿para qué?
+—Pues… para pasar el rato… —dice Iván Matveich con un suspiro— Es divertido. Se pega a un hilo un trocito de resina, se mete en el nido y se golpea a la tarántula en el lomo; entonces, la muy canalla, se irrita, coge la resina con las patas y queda atrapada… ¡Qué no habremos hecho con ellas! A veces llenábamos una palangana entera y soltábamos dentro una bijorka.
+—¿Qué es una bijorka?
+—Una araña parecida a la tarántula. En una batalla una sola de ellas puede matar cien tarántulas.
+—Ya… Bueno, sigamos escribiendo… ¿Dónde se ha quedado usted?
+El sabio dicta unos veinte renglones más, luego se sienta y se sumerge en sus propios pensamientos.
+Mientras espera el resultado de esa reflexión, Iván Matveich estira el pescuezo, tratando de acomodar mejor el cuello de su camisa. La corbata no está bien anudada, los botones se han soltado y el cuello se abre a cada momento.
+—Sí… —dice el sabio—. Bueno… ¿Aún no ha encontrado colocación, Iván Matveich?
+—No. ¿Dónde encontrarla? Había decidido partir como voluntario, sabe. Pero mi padre me aconseja que me haga mancebo de botica.
+—Ya… Mejor sería que ingresara usted en la universidad. El examen es difícil, pero con paciencia y dedicación se puede superar. Estudie, lea usted más… ¿Lee usted mucho?
+—Poco, lo confieso… —dice Iván Matveich, encendiendo un cigarrillo.
+—¿Ha leído a Turguéniev?
+—No…
+—¿Y a Gógol?
+—¿AGógol? ¡Hum…! Gógol… ¡No, no lo he leído!
+—¡Iván Matveich! ¿No le da a usted vergüenza? ¡Ay, ay! Un muchacho tan listo y original como usted y resulta… ¡que ni siquiera ha leído a Gógol! ¡Haga el favor de leerlo! ¡Yo se lo daré! ¡Tiene que leerlo sin falta! ¡De otro modo acabaremos discutiendo!
+De nuevo se hace el silencio. El sabio está recostado en un mullido sofá y medita, mientras Iván Matveich, dejando en paz el cuello, concentra toda su atención en las botas. No se había dado cuenta de que la nieve, al fundirse, había formado dos grandes charcos bajo sus pies. Se siente avergonzado.
+—Hoy no me sale nada… —masculla el sabio—. Me parece, Iván Matveich, que también es aficionado usted a capturar pájaros.
+—Eso es en otoño… Aquí no los cazo, pero en mi tierra no hacía otra cosa.
+—Ya… Bueno. En cualquier caso, hay que escribir.
+El sabio se levanta con decisión y empieza a dictar, pero al cabo de diez renglones vuelve a sentarse en el sofá.
+—No, mejor será que lo dejemos para mañana por la mañana —dice—. Vuelva mañana, pero antes, a eso de las nueve. Que Dios le proteja si se retrasa.
+Iván Matveich deja la pluma, se levanta de la mesa y se sienta en otra silla. Después de unos cinco minutos de silencio, empieza a sentir que es hora de marcharse, que está de más en esa casa, pero se encuentra tan a gusto en el despacho del sabio, una habitación luminosa y caldeada, y el sabor de las galletas de mantequilla y del té azucarado está tan fresco en la memoria que se le encoge el corazón ante la sola idea de volver a su casa, donde le esperan la pobreza, el hambre y el frío, un padre gruñón y una sarta de reproches; allí, en cambio, reinan la tranquilidad y el sosiego y hasta hay alguien que se interesa por sus tarántulas y sus pájaros.
+El sabio consulta su reloj y coge un libro.
+—Entonces ¿va a prestarme un ejemplar de Gógol? —pregunta Iván Matveich, poniéndose en pie.
+—Sí, sí. Pero ¿por qué tiene tanta prisa, amigo? Siéntese y cuénteme algo…
+Iván Matveich se sienta y esboza una amplia sonrisa. Pasa casi todas las tardes en el despacho del sabio, en cuya voz y mirada percibe un matiz especialmente delicado y afectuoso, casi paternal. En algunos momentos hasta le asalta la sospecha de que el sabio le aprecia y se ha acostumbrado a él, y se figura que los reproches que le dirige cuando se retrasa sólo se deben a que echa de menos sus comentarios sobre las tarántulas y el modo de coger jilgueros a orillas del Don.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

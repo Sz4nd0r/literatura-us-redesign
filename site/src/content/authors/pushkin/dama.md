@@ -1,0 +1,265 @@
+---
+layout: story
+title: La dama de pique
+slug: dama
+source: https://www.literatura.us/idiomas/pushkin/dama.html
+tags:
+  - dama
+  - pushkin
+---
+Aleksandr Pushkin
+(Moscú, 1799 - San Petersburgo, 1837)
+La dama de pique (1834)
+[Otro título en español" “La dama de espadas”]
+(“Пиковая дама”)
+Originalmente publicado en la revista Библиотека для чтения [La Librería del Lector]
+(marzo de 1834);
+Собр. соч. в 10 тт. Т. 5
+[Obras recopiladas, en 10 tomos. Tomo 5]
+(Moscú, 1975)
+La dama de pique significa malevolencia secreta.
+Cartomancia moderna
+I
+En los días de lluvia
+se reunían
+a menudo;
+apostaban —Dios los perdone–
+de cincuenta
+a cien,
+ganaban y apuntaban
+sus ganancias
+con tiza.
+Así, en los días de lluvia
+estaban ocupados
+todos.
+Una vez se jugó a las cartas en casa de Narúmov, oficial de la guardia montada. La larga noche de invierno transcurrió sin sentir; empezaron a cenar pasadas las cuatro de la mañana. Aquellos que habían ganado comían con gran apetito, los otros permanecían distraídos ante sus platos vacíos. Pero pronto apareció el champagne, la conversación se animó y todos participaron en ella.
+—¿Como te ha ido, Surin? —preguntó el dueño de la casa.
+—He perdido, como de costumbre. Debo reconocer que tengo mala suerte: nunca doblo la apuesta, no me acaloro, no hay quien me distraiga, ¡y no hago más que perder!
+—¿Nunca te has sentido tentado? ¿Nunca has jugado routé? Tu firmeza me asombra.
+—¿Y qué me decís de Hermann? —dijo uno de los invitados señalando un joven ingeniero—. En su vida ha tocado una carta, en su vida ha doblado un solo paroli, y se queda con nosotros hasta las cinco de la mañana viéndonos jugar.
+—El juego me interesa mucho —dijo Hermann—, pero no puedo permitirme sacrificar lo esencial con la esperanza de conseguir lo superfluo.
+—Hermann es alemán: es calculador y ése es el secreto —observó Tomsky—. Quien me resulta verdaderamente incomprensible es mi abuela, la condesa Anna Fédorovna.
+—¿Cómo? ¿Qué dices? —exclamaron los invitados.
+—No llego a comprender —continuó Tomsky— por qué no juega mi abuela.
+—¿Qué tiene de extraño que una vieja de ochenta años no juegue a las cartas? —dijo Narúmov.
+—¿Acaso no conocéis su historia?
+—Para nada.
+—Ah, pues os la voy a contar. Tengo que deciros que hace unos sesenta años mi abuela iba mucho a París, donde tenía un gran éxito. La gente la perseguía para ver a la Venus moscovita; Richelieu le hacía la corte, y mi abuela asegura que el hombre estuvo a punto de pegarse un tiro por la crueldad con que ella lo trataba.
+“En aquellos tiempos las damas jugaban al faraón. Una vez, estando en la corte, mi abuela perdió de palabra al duque de Orleans una suma muy considerable. Al llegar a casa, mientras se despegaba los lunares postizos y se quitaba el miriñaque, anunció a mi abuelo su deuda y le ordenó que la pagara.
+“Mi difunto abuelo, según recuerdo, era una especie de mayordomo de mi abuela. La temía como a la peste; sin embargo, al enterarse de la enorme cantidad que había perdido, se enfureció, trajo las cuentas y demostró a mi abuela que en medio año habían gastado medio millón, que cerca de París no tenían sus aldeas de la provincia de Sarátov ni las de Moscú, y se negó rotundamente a pagar. Mi abuela le dio una bofetada y se fue a dormir sola, como muestra de su disgusto.
+“Al día siguiente mandó llamar al marido esperando que el castigo doméstico hubiera surtido efecto, pero lo encontró incólume. Por primera vez en su vida tuvo que conversar con él y darle explicaciones; pretendió avergonzarlo demostrándole condescendiente que no había dos deudas iguales y que no era lo mismo un príncipe que un cochero. Todo era inútil. El abuelo se había rebelado. Seguía erre que erre. Mi abuela no sabía qué hacer.
+“Era amiga de un hombre muy notable. Habréis oído hablar del conde Saint Germain, de quien cuentan tantas cosas extraordinarias. Sabéis que se hacía pasar por el Judío Errante, por el inventor del elixir de la vida y de la piedra filosofal, y muchas cosas más. Se burlaban de él tomándolo por charlatán, Casanova decía en sus memorias que era espía; no obstante, Saint Germain, a pesar de todo el misterio, tenía un aire muy respetable y era sumamente correcto en sociedad. Mi abuela sigue queriéndolo con locura y se enfada cuando hablan de él sin el debido respeto. Mi abuela sabía que Saint Germain podía disponer de mucho dinero. Decidió recurrir a él. Le escribió una nota pidiendo que fuera a verla cuanto antes.
+“El viejo excéntrico apareció inmediatamente y la encontró sumida en la desesperación. Mi abuela describió en los tonos más sombríos la barbarie de su marido y dijo por último que todas sus esperanzas estaban puestas en su amistad y amabilidad.
+“Saint Germain se quedó pensativo.
+“—Podría prestarle ese dinero —dijo—, pero sé que no estará usted tranquila hasta que me lo devuelva, y no quisiera causarle más preocupaciones. Existe otra manera: puede desquitarse.
+“—Pero, querido conde, ¿no le digo que estamos sin dinero?
+“—No necesita dinero —repuso Saint Germain—, tenga la bondad de escucharme.
+“Y acto seguido le descubrió un secreto por el que cualquiera de nosotros estaría dispuesto a pagar lo que fuera…”
+Los jóvenes jugadores redoblaron la atención. Tomsky encendió una pipa, inspiró el humo y continuó su relato.
+—Aquella misma noche mi abuela fue a Versalles, au jeu de la Reine. El duque de Orleans llevaba la banca; mi abuela hizo ademán de excusarse por no haber traído la deuda, inventó una historia para justificarse y se puso a jugar contra él. Eligió tres cartas, apostó a cada carta, una tras otra, todas ganaron a la primera y recuperó todo el dinero que había perdido.
+—Pura casualidad —dijo uno de los invitados.
+—Es un cuento —dijo Hermann.
+—¿No estarían marcadas las cartas? —intervino otro.
+—No creo —contestó Tomsky con aire suficiente.
+—¡Será posible! —exclamó Narúmov—. Tienes una abuela que adivina tres cartas seguidas y no has podido hasta ahora copiar su truco.
+—¡Qué más quisiera yo! —contestó Tomsky—. Tuvo cuatro hijos, entre ellos mi padre; los cuatro fueron jugadores empedernidos, y no quiso descubrir el secreto a ninguno de ellos, aunque a todos les habría venido muy bien, yo incluido. Por otra parte, mi tío, el conde Iván Ilyich, me contó una historia jurando por su honor que era verdad. El difunto Chaplitsky, aquel que murió en la miseria habiendo gastado millones, una vez, siendo joven, perdió, creo que con Zorich, trescientos mil rublos. Estaba desesperado. Mi abuela, que siempre vio con malos ojos las locuras de la juventud, por alguna razón se apiadó de Chaplitsky. Le reveló las tres cartas para que apostara a ellas, una tras otra, y le pidió su palabra de honor de que nunca volvería a jugar. Chaplitsky fue a casa del que le había ganado; se sentaron a jugar. Chaplitsky apostó a la primera carta cincuenta mil rublos y ganó, duplicó la apuesta y volvió a ganar, duplicó otra vez y recuperó lo perdido y ganó todavía más… Por cierto, ya es hora de irse a la cama: son las seis menos cuarto.
+Efectivamente, ya estaba amaneciendo; los jóvenes apuraron el vino y se marcharon.
+II
+—Il parait que monsieur est décidément pour les suivantes.
+—Que voulez-vous, Madame? Elles sont plus fraîches
+Conversación mundana
+[“—Parece que prefiere usted decididamente a las doncellas.
+—¿Qué quiere, señora? Son más lozanas.”]
+La vieja condesa *** estaba sentada ante el espejo de su tocador. La rodeaban tres muchachas. Una de ellas sostenía un bote de colorete, otra, una caja llena de horquillas, y la tercera, una gran cofia con cintas color fuego. La condesa no tenía la menor pretensión a la belleza, que se había marchitado hacía tiempo, pero conservaba todas las costumbres de su juventud, seguía al pie de la letra la moda de los años setenta y dedicaba las mismas horas y los mismos cuidados a la vestimenta que hacía sesenta años. Junto a la ventana, ante un bastidor, se sentaba una joven, pupila de la condesa.
+—Buenos días, grand-maman —dijo un joven oficial entrando en la habitación—. Bonjour, mademoiselle Lise. Grand-maman, quiero pedirle un favor.
+—¿De qué se trata, Paul?
+—Permítame que le presente a un compañero mío y que lo traiga al baile que va a dar el viernes.
+—Tráemelo directamente al baile y allí me lo presentarás. ¿Estuviste ayer en casa de los ***?
+—Naturalmente. Fue muy divertido, bailamos hasta las cinco de la mañana. ¡Qué hermosa estaba Yeletskaya!
+—¡Qué ocurrencia! ¿Qué le encuentras? ¿Cómo se va a comparar con su abuela, la princesa Daria Petrovna? Por cierto, ¿no estará muy aviejada la princesa?
+—¿Aviejada? —dijo Tomsky distraído—. Se murió hace siete años.
+La muchacha levantó la cabeza y le hizo una seña al joven. Éste recordó que a la vieja condesa le ocultaban la muerte de sus coetáneos, y se mordió la lengua. Pero la condesa escuchó la noticia, que oía por primera vez, con gran indiferencia.
+—¡Se ha muerto! —repitió—. No lo sabía. Nos hicieron a las dos damas de honor al mismo tiempo, y cuando nos presentamos, la emperatriz…
+Y la condesa relató por centésima vez la historia a su nieto.
+—Bueno, Paul —dijo a continuación—, ayúdame a levantarme. Lízanka, ¿dónde está mi tabaquera?
+La condesa, acompañada por las muchachas, se ocultó tras un biombo para acabar de arreglarse. Tomsky se quedó con la joven.
+—¿A quién quiere presentarle? —preguntó en voz baja Lizaveta Ivánovna.
+—A Narúmov. ¿Lo conoce?
+—No. ¿Es militar?
+—Militar.
+—¿Ingeniero?
+—No, es de caballería. ¿Por qué ha pensado que era ingeniero?
+La joven se echó a reír y no contestó ni una palabra.
+—¡Paul! —se oyó la voz de la condesa por detrás del biombo—. Mándame alguna novela nueva, pero no de las modernas.
+—¿Qué quiere decir, grand-maman?
+—Quiero decir una novela donde el héroe no estrangule a su padre ni a su madre y que no haya cuerpos de ahogados. ¡Me dan pavor los ahogados!
+—Esas novelas ya no existen. A no ser que quiera una novela rusa.
+—¿Acaso hay novelas rusas? Bueno, mándame una, haz el favor.
+—Adiós, grand-maman, tengo prisa… Adiós, Lizaveta Ivánovna. ¿Por qué pensó que Narúmov era ingeniero? —y Tomsky salió de la habitación.
+Lizaveta Ivánovna se quedó sola; abandonó la labor y miró por la ventana. Al poco tiempo al otro lado de la calle apareció doblando la esquina de la casa un joven oficial. La muchacha se ruborizó; volvió a la labor e inclinó la cabeza sobre el cañamazo. En ese momento entró la condesa, completamente vestida.
+—Lízanka, di que preparen el coche —dijo la condesa—, vamos a dar un paseo.
+Lízanka se levantó y se dispuso a guardar la labor.
+—¿Qué te pasa, hija mía? ¿Estás sorda? —gritó la condesa—. Que preparen el coche inmediatamente.
+—Ahora mismo —contestó la muchacha en voz baja y corrió al vestíbulo.
+Entró un criado y le entregó a la condesa unos libros de parte del príncipe Pavel Alexándrovich.
+—Muy bien, que le den las gracias —dijo la condesa—. ¡Liza! ¿Adónde vas?
+—A vestirme.
+—Ya tendrás tiempo, hija. Siéntate aquí. Abre el primer libro y lee en voz alta…
+La joven abrió el libro y leyó unas líneas.
+—¡Más fuerte! —dijo la condesa—. ¿Qué te ocurre, hija mía? ¿Estás afónica…? Espera, acércame ese banquito, más cerca… ¡vamos!
+Lizaveta Ivánovna leyó dos páginas más. La condesa bostezó.
+—Deja ese libro —ordenó—. ¡Qué estupidez! Devuélvelo al príncipe Pavel y dile que se lo agradezco… ¿Qué pasa con el coche?
+—Está preparado —dijo Lizaveta Ivánovna mirando por la ventana.
+—¿Cómo es que todavía no estás vestida? —dijo la condesa—. Siempre te haces esperar. ¡No hay quien lo aguante!
+Liza corrió a su habitación. No habían pasado ni dos minutos cuando la condesa tocó la campanilla con toda su alma. Tres doncellas entraron corriendo por una puerta, y el ayuda de cámara, por otra.
+—¿Dónde estáis que no hay manera de haceros venir? —les dijo la condesa—. Decidle a Lizaveta Ivánovna que la estoy esperando.
+Entró Lizaveta Ivánovna, con abrigo y sombrero.
+—¡Por fin, hija mía! —dijo la condensa—. ¿A qué viene tanta elegancia? ¿Para qué? ¿A quién piensas conquistar…? ¿Qué tiempo hace? Parece que hay viento.
+—No, señora, está muy tranquilo —contestó el ayuda de cámara.
+—¡Siempre habláis por hablar! Que abran el ventanillo. Ya decía yo, hace viento, y además, frío. No quiero el coche. Lízanka, no vamos a ninguna parte, no sé para qué te has molestado en vestirte.
+“Ésta es mi vida”, pensó Lizaveta Ivánovna.
+Efectivamente, Lizaveta Ivánovna era una criatura muy desdichada. Amargamente sabe el pan ajeno, dice Dante, y duro es subir las ajenas escaleras [Canto XVII de Paraíso] y ¿quién conocerá mejor la amargura de la dependencia que una pupila pobre de una ilustre vieja? No es que la condesa *** tuviera mal corazón, pero era caprichosa como toda mujer mimada por el gran mundo, tacaña y sumida en un frío egoísmo, como todos los viejos que han amado todo lo que tenían que amar en el pasado y son ajenos al presente. Participaba en todas las vanidades mundanas, iba a los bailes, donde se sentaba en un rincón, pintada y vestida según la moda de antaño, como una decoración monstruosa e imprescindible del salón de baile; los invitados que venían se acercaban a ella con profundas reverencias como si celebraran un rito establecido, después de lo cual nadie le hacía caso. En su casa recibía a toda la ciudad, cumpliendo estrictamente la etiqueta y sin reconocer a nadie. Sus numerosos criados, habiendo acumulado grasas y canas en su vestíbulo y en los cuartos de los sirvientes, hacían lo que querían, robando a cual con más destreza a la vieja moribunda. Lizaveta Ivánovna era la mártir de esa casa. Servía el té y recibía reprimendas porque gastaba demasiado azúcar, leía novelas en voz alta y era culpable de todos los errores del autor; acompañaba a la condesa en sus paseos y era responsable del tiempo y del estado de los caminos. Se le había asignado un sueldo que nunca recibía íntegramente; sin embargo, exigían de ella que vistiera como todo el mundo, es decir, como unos pocos. En sociedad desempeñaba un papel de lo más penoso. Todos la conocían pero nadie se fijaba en ella; la sacaban a bailar solamente cuando faltaba un vis-à-vis, y las damas la llevaban del brazo siempre que tenían que ir al tocador para arreglar algo de su atuendo. Tenía amor propio y se daba cuenta de su situación y miraba en su entorno esperando impaciente al liberador; pero los jóvenes, calculadores en su frívola ambición, no le prestaban atención, aunque Lizaveta Ivánovna era cien veces más agraciada que las insolentes y frías muchachas casaderas que éstos perseguían. ¡Cuántas veces, después de abandonar sigilosamente el aburrido y fastuoso salón, se iba a llorar a su mísera alcoba, amueblada con un biombo empapelado, una cómoda, un pequeño espejo y una cama pintada, y donde una vela de sebo en una palmatoria de cobre despedía una luz tenue!
+Una vez —dos días después de la noche descrita al principio de esta narración y una semana antes de la escena en que nos hemos detenido— Lizaveta Ivánovna, que estaba sentada junto a la ventana inclinada sobre su bastidor, echó una mirada a la calle y vio a un joven ingeniero, inmóvil y con los ojos fijos en su ventana. Lizaveta Ivánovna bajó la cabeza y se dedicó de nuevo a la labor; a los cinco minutos volvió a mirar: el joven seguía en el mismo sitio. No teniendo por costumbre coquetear con los oficiales que pasaban por la calle, Lizaveta Ivánovna dejó de mirar y siguió bordando unas dos horas sin levantar la cabeza. Sirvieron el almuerzo. Liza se levantó y al recoger su labor miró sin querer por la ventana y de nuevo vio al oficial. Todo ello le pareció bastante extraño. Después del almuerzo se acercó a la ventana algo inquieta, pero el oficial ya no estaba allí, y ella se olvidó de él…
+Pasados dos días, al salir con la condesa para subir al coche, lo volvió a ver. Estaba junto al mismo portal, la cara tapada con el cuello de castor, dejando ver unos ojos negros que brillaban bajo el sombrero. Lizaveta Ivánovna se asustó sin saber bien por qué y subió al coche inexplicablemente turbada.
+Al volver a casa corrió hacia la ventana: el oficial seguía en el mismo sitio mirándola fijamente; Liza se apartó, torturada por la curiosidad y sintiendo una emoción totalmente nueva para ella.
+A partir de entonces no había día sin que el joven apareciera a la misma hora bajo su ventana. Se creó entre ellos una tácita relación. Sentada con su labor sentía cómo el joven se acercaba, ella levantaba la cabeza y su mirada se detenía en él más y más rato. El joven parecía estarle agradecido: con la vista penetrante de la juventud ella veía cómo sus mejillas se encendían rápidamente siempre que se cruzaban sus miradas. Al cabo de una semana le sonrió…
+Cuando Tomsky pidió permiso a la condesa para presentarle a su amigo a la pobre joven le dio un vuelco el corazón. Sin embargo, al enterarse de que Narúmov no era ingeniero sino oficial de caballería, lamentó haber desvelado el secreto al frívolo Tomsky con una pregunta indiscreta.
+Hermann era hijo de un alemán afincado en Rusia, quien le había dejado un pequeño capital. Firmemente convencido de la necesidad de consolidar su independencia, Hermann ni siquiera tocaba la pequeña renta, vivía con el sueldo que ganaba y no se permitía el menor capricho. Al mismo tiempo era introvertido y ambicioso, y sus compañeros rara vez tenían ocasión de burlarse de su excesivo afán por el ahorro. Era muy apasionado y tenía una imaginación exuberante, pero la firmeza de carácter le había salvado de las equivocaciones habituales de la juventud. Por ejemplo, siendo jugador por temperamento, nunca tocaba las cartas, pues había calculado que su capital no le permitía (según decía) sacrificar lo imprescindible con la esperanza de lograr lo superfluo; al mismo tiempo pasaba noches enteras junto a la mesa de juego y seguía con un interés febril las diversas peripecias de la partida.
+La anécdota de las tres cartas conmovió profundamente su imaginación, y pasó una noche entera sin poder alejarla de su pensamiento. “¿Qué pasaría —se decía al día siguiente caminando por Petersburgo— si la vieja condesa me revelara su secreto o nombrara las tres cartas infalibles? ¿Y si probara mi suerte…? Podría presentarme, ganar su confianza… hasta podría hacerme su amante… pero todo eso requiere tiempo, y ya tiene ochenta y siete años… puede morirse dentro de una semana… ¡o incluso dos días…! ¿Y la historia misma? ¿Me puedo fiar de ella…? No, prudencia, moderación y trabajo: éstas son mis tres cartas más seguras, es lo que me va a permitir triplicar, multiplicar mi capital y conseguir la tranquilidad y la independencia”.
+Mientras razonaba de ese modo se encontró en una de las calles principales de Petersburgo, ante una casa de arquitectura antigua. La calle estaba llena de carrozas, que se acercaban una tras otra al portal iluminado. De las carrozas asomaban a cada instante ora una pierna esbelta de una bella dama, ora una bota con espuela, ora una media a rayas y un zapato de diplomático. Delante del majestuoso portero se sucedían sin parar abrigos de pieles y capas. Hermann se detuvo.
+—¿De quién es esta casa? —preguntó al guardia de la esquina.
+—De la condesa *** —contestó el guardia.
+Hermann se estremeció. La sorprendente historia volvió a su imaginación. Se puso a andar junto a la casa meditando sobre su dueña y su asombrosa capacidad. Regresó muy tarde a su humilde vivienda; tardó mucho en dormirse, y cuando lo venció el sueño soñó con cartas, un tapete verde, montañas de billetes y montones de monedas de oro. Colocaba una carta tras otra, doblaba las apuestas decididamente, ganaba sin cesar y se llevaba el oro a manos llenas, guardando los billetes en los bolsillos. Se despertó tarde, suspiró por la pérdida de su fantástica riqueza, echó a andar por las calles y se encontró de nuevo ante la casa de la condesa ***. Era como si una fuerza inexplicable lo atrajera a ese lugar. Se detuvo y miró a las ventanas. En una de ellas vio una cabecita de pelo oscuro, inclinada sobre un libro o una labor. La cabeza se alzó. Hermann vio un rostro fresco y unos ojos negros. Ese instante decidió su suerte.
+III
+Vous m’écrivez, mon ange, des lettres de quatre pages plus vite que je ne puis les lire
+Correspondencia
+[“Me escribe usted, angel mío, cartas de cuatro
+páginas más deprisa de lo que yo puedo leerlas.”]
+En cuanto Lizaveta Ivánovna se quitó el sombrero y la capa, la mandó llamar la condesa y volvió a dar la orden de que prepararan el carruaje. Las dos se dispusieron a subir al coche. En el momento en que dos lacayos levantaron a la vieja y la introdujeron en la portezuela, Lizaveta Ivánovna vio junto a la misma rueda a su ingeniero; éste la agarró de la mano; antes de que ella pudiera recuperarse del susto el joven había desaparecido dejando una carta en su mano. Ella la escondió en el guante, y durante todo el camino no fue capaz de ver ni oír nada. La condesa tenía la costumbre de hacer preguntas a cada instante cuando iba en coche: ¿quién es ése?, ¿cómo se llana ese puente?, ¿qué dice ese letrero? Esta vez Lizaveta Ivánovna contestaba al azar y a destiempo, y la condesa acabó enfadándose.
+—¿Qué te ocurre, hija mía? ¿Estás pasmada? ¿No me oyes o es que no me entiendes? ¡Gracias a Dios, ni soy tartamuda ni he perdido el juicio!
+Lizaveta Ivánovna no la escuchaba. Al volver a casa corrió a su habitación y sacó la carta: no estaba sellada. Lizaveta Ivánovna la leyó. La carta contenía una declaración de amor: era tierna y respetuosa, y estaba copiada palabra por palabra de una novela alemana. Pero Lizaveta Ivánovna no sabía alemán y se quedó muy contenta.
+No obstante, la carta que ella había aceptado la perturbó sobremanera. Por primera vez entablaba una relación secreta e íntima con un hombre joven. La osadía de éste le causaba horror. Se reprochaba la imprudencia de su conducta y no sabía qué hacer: ¿dejar de sentarse junto a la ventana y con su indiferencia enfriar el afán del joven por seguir persiguiéndola? ¿Devolverle la carta? ¿Contestarle con frialdad y firmeza? No tenía a quién pedir consejo, no tenía amigas ni mentoras. Lizaveta Ivánovna decidió contestarle.
+Sentose ante su escritorio, agarró una pluma y el papel… y se quedó pensativa. Empezó la carta varias veces, pero rompía todo lo que escribía: las expresiones le parecían demasiado condescendientes o bien excesivamente duras. Por fin consiguió escribir varias líneas que fueron de su agrado. “Estoy segura —decía— de que tiene usted intenciones honestas y de que no ha querido insultarme con un acto irreflexivo, pero nuestra amistad no debería empezar de esta manera. Le devuelvo su carta y espero que en el futuro no me dé motivos para lamentar una inmerecida falta de respeto”.
+Al día siguiente, al ver a Hermann en la calle, Lizaveta Ivánovna abandonó el bastidor, salió a la sala, abrió el ventanillo y tiró la carta, confiando en la agilidad del joven. Hermann corrió, levantó el papel y entró en una confitería. Al quitar el sello encontró su carta y la respuesta de Lizaveta Ivánovna. Era lo que esperaba, y regresó a su casa absorto en su intriga.
+Al cabo de tres días una jovencita vivaracha de una tienda de modas trajo una nota para Lizaveta Ivánovna. Abrió inquieta la nota, esperando que fuera una cuenta por pagar, pero de pronto reconoció la letra de Hermann.
+—Está usted equivocada —dijo a la muchacha—, esta carta no es para mí.
+—No, señorita, es para usted —contestó la atrevida joven sin ocultar una sonrisa pícara—. Tenga la bondad de leerla.
+Lizaveta Ivánovna recorrió la nota con la mirada. Hermann pedía una cita.
+—¡No es posible! —dijo Lizaveta Ivánovna, asustada tanto por la precipitación de la solicitud como por el método empleado por Hermann—. Creo que esta carta no está dirigida a mí —y rompió la carta en muchos pedazos.
+—Si no está dirigida a usted, ¿por qué la rompe? —preguntó la muchacha—. La habría devuelto a quien la escribió.
+—Hágame el favor —dijo Lizaveta Ivánovna enrojeciendo por la observación—, no vuelva a traerme notas. Además, diga a quien la ha enviado que debería darle vergüenza…
+Sin embargo, Hermann no se desanimaba. Lizaveta Ivánovna recibía cartas todos los días, que le llegaban de diversas maneras. Ya no estaban traducidas del alemán. Hermann escribía inspirado por la pasión y empleaba un lenguaje que le era propio: las cartas expresaban la obstinación de sus deseos y el desorden de una imaginación desbocada. Lizaveta Ivánovna ya no pensaba en devolverlas: las leía ávidamente y empezó a contestarlas, y sus respuestas se hacían cada vez más largas y más tiernas. Por fin le arrojó por la ventana la siguiente carta:
+Esta noche el embajador de *** da un baile. La condesa piensa ir. Nos quedaremos allí hasta las dos. Tiene usted la oportunidad de verme a solas. En cuanto se haya marchado la condesa, los criados se irán seguramente a sus habitaciones; en la entrada quedará el portero, que también suele marcharse a su cuarto. Venga a las once y media. Diríjase directamente a la escalera. Si se encuentra con alguien en el vestíbulo pregunte por la condesa. Le dirán que no está, entonces no habrá nada que hacer. Tendrá que marcharse. Pero lo más seguro es que no se encuentre con nadie. Las doncellas suelen recogerse, todas en la misma habitación. Desde el vestíbulo vaya a la izquierda, hasta que llegue a la alcoba de la condesa. Allá, detrás de un biombo, encontrará dos puertas: la de la derecha da al gabinete, donde nunca entra la condesa; la de la izquierda, a un pasillo, donde hay una pequeña escalera de caracol que lleva a mi habitación.
+Esperando la hora convenida Hermann temblaba como un tigre. A las diez de la noche ya estaba ante la casa de la condesa. Hacía un tiempo espantoso: aullaba el viento, caían grandes copos de nieve mojada; apenas se veía la luz de los faroles; las calles estaban desiertas. De vez en cuando pasaba un cochero arrastrado por una escuálida yegua, en busca de un viajero rezagado. Hermann no llevaba más que la levita, pero no sentía el viento ni la nieve. Al fin apareció ante la puerta el carruaje de la condesa. Hermann vio cómo los lacayos sacaban a la vieja encorvada, envuelta en un abrigo de cibelina, sosteniéndola por ambos lados, y cómo la seguía su pupila, cubierta con una fina capa y el cabello adornado con flores. Se cerraron las portezuelas. El carruaje avanzó trabajosamente por la nieve amontonada. El portero cerró las puertas. Se apagó la luz en las ventanas. Hermann se puso a andar delante de la casa vacía: se acercó a un farol y miró el reloj; eran las once y veinte. Se detuvo debajo de la farola con la mirada clavada en las agujas del reloj, esperando que pasaran los minutos. A las once y media en punto Hermann subió los peldaños de la entrada y penetró en el vestíbulo iluminado. El portero no estaba. Hermann subió las escaleras corriendo, abrió la puerta de la antecámara y vio a un criado que dormía en un sillón antiguo y manchado. Hermann pasó junto a él con paso ligero y firme. La sala y el recibidor estaban oscuros. La lámpara de la antecámara los iluminaba débilmente. Hermann entró en la alcoba. Ante una urna llena de antiguos iconos ardía una lamparilla de oro. Butacas y divanes de damasco desteñido, con almohadones de pluma y purpurina desconchada, se alineaban en triste simetría a lo largo de las paredes tapizadas de seda china. En la pared había dos retratos hechos en París por Mme Lebrun [Elizabeth Vigée-Lebrun, 1755-1842, retratista parisina que después de la caída de Luis XVI emigró a Rusia]. En uno de ellos se veía a un hombre de unos cuarenta años, sonrosado y entrado en carnes, vestido con un uniforme color verde claro; en el otro, a una hermosa joven de nariz aguileña, con una rosa en el cabello empolvado y levantado en las sienes. En todos los rincones había pastorcitas de porcelana, relojes de mesa hechos por el famoso Leroy, cajitas, ruletas, abanicos y otros juguetes de señora inventados a finales del siglo pasado junto con el globo de Montgolfier y el magnetismo de Mesmer. Hermann se asomó detrás del biombo. Allí vio una pequeña cama de hierro; a la derecha había una puerta que daba al gabinete; a la izquierda, otra, que daba al pasillo. Hermann la abrió y vio una estrecha escalera de caracol que llevaba a la habitación de la pobre pupila… Pero regresó y entró en el oscuro gabinete.
+El tiempo pasaba lentamente. Todo estaba en silencio. El reloj de la sala dio las doce; en todas las habitaciones los relojes fueron dando las doce uno tras otro, y de nuevo se hizo el silencio. Hermann estaba de pie, apoyado contra una estufa fría. Estaba tranquilo; su corazón latía regularmente, como el de alguien que está decidido a cometer un acto peligroso, pero ineludible. Los relojes dieron la una, después las dos; entonces oyó el ruido lejano de un carruaje. Una emoción involuntaria se apoderó de él. El coche se acercó y se paró. Oyó el ruido del estribo que bajaba. La casa pareció despertarse. Corrieron los criados, se oyeron voces, se encendieron las luces. Tres viejas doncellas entraron apresuradamente en la alcoba; luego entró la condesa, medio muerta de cansancio, y se sentó en una butaca Voltaire. Hermann miraba por una rendija: Lizaveta Ivánovna pasó a su lado. Hermann oyó cómo subía apresuradamente por las escaleras. Algo semejante a un remordimiento de conciencia resonó en su corazón y se desvaneció al instante. Se quedó petrificado.
+La condesa empezó a desnudarse ante el espejo. Le quitaron la cofia adornada con rosas; la despojaron de la peluca empolvada, dejando al descubierto su cabello blanco y muy corto. Los alfileres llovían a su alrededor. El vestido amarillo con bordados en plata cayó a sus pies hinchados. Hermann fue testigo de los repugnantes secretos de su vestimenta; por fin la condesa quedó vestida con un camisón y gorro de dormir: con este atuendo, más propio de la vejez, parecía menos horrible y espantosa.
+Como todos los viejos la condesa padecía de insomnio. Una vez desvestida, se sentó en un sillón junto a la ventana y despidió a las doncellas. Se llevaron las velas, y la alcoba de nuevo quedó iluminada con la lamparilla. La condesa, amarilla toda ella, movía sus flácidos labios y se mecía de un lado a otro. Su mirada turbia revelaba una falta total de pensamiento; al mirarla podía pensarse que el balanceo de la horrible vieja no era fruto de su voluntad, sino de un galvanismo oculto.
+De pronto ese rostro muerto se transformó de modo indecible. Los labios dejaron de moverse, los ojos se animaron: ante la condesa había un hombre desconocido.
+—¡No se asuste, por Dios, no se asuste! —dijo él con voz clara y queda—. No tengo la intención de hacerle daño; vengo a suplicarle un favor.
+La vieja lo miraba en silencio y parecía no oírlo. Hermann se imaginó que era sorda e, inclinándose sobre su oído, repitió las mismas palabras. La vieja seguía callada.
+—Puede usted —continuó Hermann— asegurar la felicidad de mi vida sin que le cueste nada: sé que puede nombrar tres cartas seguidas…
+Hermann se detuvo. La condesa parecía comprender de qué se trataba; daba la impresión de que buscaba las palabras para contestar.
+—Fue una broma —dijo al fin—. ¡Le juro que fue una broma!
+—No parece que fuera una broma —repuso Hermann irritado—. Acuérdese de Chaplitsky, a quien ayudó a ganar.
+La condesa pareció turbarse. Sus rasgos expresaban gran agitación interior, pero pronto volvió a sumirse en la indiferencia.
+—¿Podría usted —siguió Hermann— nombrarme las tres cartas infalibles?
+La condesa callaba; Hermann continuó:
+—¿Para quién guarda su secreto? ¿Para los nietos? Son bastante ricos sin tener que recurrir a las cartas; además, no conocen el valor del dinero. Un derrochador tampoco se beneficiaría de sus tres cartas. El que no sepa conservar la herencia de su padre morirá en la miseria, sin que pueda ayudarle ningún esfuerzo diabólico. No soy derrochador, conozco el valor del dinero. Sabré aprovechar sus cartas. ¡Hable…!
+Se detuvo, esperando la respuesta con gran agitación. La condesa callaba; Hermann se arrodilló.
+—Si alguna vez —dijo— hubo en su corazón un sentimiento de amor, si recuerda todavía sus placeres, si sonrió aunque fuera una vez al oír el llanto de un hijo recién nacido, si algo humano ha latido en su pecho, le ruego por los sentimientos de esposa, de madre, de amante, por todo lo más sagrado que hay en la vida, no rechace mi súplica, ¡descúbrame el secreto! ¿Para qué lo quiere…? Quizá esté unido a un pecado horrible, a la pérdida de la bienaventuranza eterna, a un pacto con el demonio… Piénselo: es usted vieja, le queda poco tiempo de vida, estoy dispuesto a cargar con su pecado. Sólo le pido que me revele su secreto. Piense que la felicidad de un hombre está en sus manos, que no sólo yo, sino mis hijos y mis nietos bendecirán su memoria y la venerarán como algo sagrado…
+La vieja no decía ni una palabra.
+Hermann se puso de pie.
+—¡Bruja! —dijo apretando los dientes—. ¡Te haré hablar…!
+Con estas palabras sacó del bolsillo una pistola.
+Al ver la pistola la vieja por segunda vez dio muestras de gran agitación. Asintió con la cabeza y levantó una mano, como si quisiera protegerse del disparo… Luego rodó hacia atrás… y quedó inmóvil.
+—Déjese de chiquilladas —dijo Hermann cogiéndola de la mano—. Le pregunto por última vez: ¿va a decirme las tres cartas? ¿Sí o no?
+La condesa no contestaba. Hermann vio que estaba muerta.
+IV
+7 mai 18…
+Homme sans moeurs et sans religion
+Correspondencia
+[“Hombre sin moralidad ni nada sagrado.”]
+Lizaveta Ivánovna estaba sentada en su alcoba, todavía en traje de noche, sumida en una profunda meditación. Al regresar a casa se apresuró a despedir a la doncella soñolienta, quien le ofreció sus servicios de mala gana; le dijo que se desvestiría sola y entró temblorosa en su habitación, esperando encontrar allí a Hermann y no queriendo encontrarlo. Nada más entrar se cercioró de su ausencia y dio gracias al destino por los obstáculos que habían impedido el encuentro. Se sentó sin desvestirse y trató de recordar todos los acontecimientos que en tan poco tiempo la habían llevado tan lejos. No habían pasado ni tres semanas desde el día en que viera al joven por primera vez por la ventana, y ya se escribían, ¡y Hermann había conseguido que ella le diera una cita nocturna! Conocía su nombre únicamente porque algunas de sus cartas estaban firmadas; nunca había hablado con él, ni había oído su voz, ni había oído nombrarlo… hasta aquella misma noche. ¡Qué cosa tan extraña! Aquella misma noche, en el baile, Tomsky, ofendido con la joven princesa Polina ***, quien contrariamente a su costumbre no coqueteaba con él, quiso vengarse aparentando indiferencia: llamó a Lizaveta Ivánovna y bailó con ella una mazurca interminable. Durante todo ese tiempo bromeó sobre la predilección de Lizaveta Ivánovna por los oficiales de ingeniería, asegurando que sabía mucho más de lo que ella pudiera suponer, y algunas de sus bromas fueron tan acertadas que Lizaveta Ivánovna pensó varias veces que conocía su secreto.
+—¿Quién le ha dicho todo eso? —le preguntó riendo.
+—Un amigo de cierta persona que usted conoce —contestó Tomsky—, un hombre muy notable.
+—¿Quién es ese hombre notable?
+—Se llama Hermann.
+Lizaveta Ivánovna no contestó, pero sintió que sus pies y sus manos estaban helados…
+—Ese Hermann —continuó Tomsky— es un personaje verdaderamente romántico: tiene el perfil de Napoleón y el alma de Mefistófeles. Creo que tiene sobre su conciencia por lo menos tres crímenes. ¿Por qué se ha puesto tan pálida?
+—Me duele la cabeza… ¿Qué le dijo Hermann… o como se llame?
+—Hermann está muy descontento con su amigo: dice que en su lugar habría procedido de una manera muy diferente… Tengo la impresión, incluso, de que el propio Hermann la pretende: al menos, escucha los aspavientos amorosos de su amigo con muy poca sangre fría.
+—¿Dónde ha podido verme?
+—En la iglesia, o en el paseo… ¡Dios sabe! Tal vez, en su alcoba, mientras usted dormía, ¡sería muy capaz…!
+Tres damas se acercaron con la pregunta de “oubli [olvido] ou regret[o pesar] interrumpiendo la conversación que Lizaveta Ivánovna encontraba penosamente fascinante.
+La dama que eligió Tomsky resultó ser la princesa Polina. Mientras la joven daba una vuelta de más y se detenía más de lo debido ante su silla, tuvieron una explicación. Tomsky, al volver a su asiento, ya no pensaba en Hermann ni en Lizaveta Ivánovna. Ella quiso reanudar la conversación a toda costa, pero la mazurca se acabó y poco tiempo después se marchó la vieja condesa.
+Las palabras de Tomsky no eran más que parloteo de mazurca, pero llegaron al alma de la joven soñadora. El retrato que había bosquejado de Hermann se parecía a la imagen que había creado ella misma y, gracias a las novelas más recientes, esta imagen, ya trivial, asustaba y tentaba su imaginación. Estaba sentada, con los brazos descubiertos cruzados y la cabeza, todavía adornada con flores, baja sobre su pecho escotado… De pronto se abrió la puerta y entró Hermann. La joven se puso a temblar…
+—¿Dónde ha estado? —susurró temerosa.
+—En la alcoba de la vieja condesa —contestó Hermann—, vengo de allí. La condesa ha muerto.
+—¡Dios mío! ¿Qué dice usted?
+—Además —continuó Hermann—, creo que soy el causante de su muerte.
+Lizaveta Ivánovna lo miró y las palabras de Tomsky sonaron en su cabeza: ¡tiene sobre su conciencia por lo menos tres crímenes! Hermann se sentó a su lado en la ventana y lo contó todo.
+Ella lo escuchó con horror. Entonces, las apasionadas cartas, las súplicas fogosas, esa persecución audaz e insistente, ¡todo ello no era amor! Dinero: eso es lo que ansiaba su alma. ¡No era ella quien podía satisfacer sus deseos ni hacerle dichoso! ¡La pobre pupila no era más que una ayudante ciega del criminal, del asesino de su benefactora!… Lloró amargamente en su doloroso y tardío arrepentimiento. Hermann la miraba en silencio: su corazón estaba desgarrado, pero no eran las lágrimas de la pobre muchacha ni el sorprendente encanto de su dolor lo que conmovía el alma dura de Hermann. No sentía remordimientos de conciencia al pensar en la vieja muerta. Una cosa le horrorizaba: la pérdida irreparable del secreto del que esperaba riqueza.
+—¡Es usted un monstruo! —dijo al fin Lizaveta Ivánovna.
+—No quería su muerte —contestó Hermann—, mi pistola no estaba cargada.
+Se quedaron callados.
+Amanecía. Lizaveta Ivánovna apagó la vela que se estaba consumiendo: una luz tenue iluminó su cuarto. Enjugó los ojos llorosos y los dirigió a Hermann: estaba sentado en la ventana con los brazos cruzados y el ceño fruncido hoscamente. En esa postura se parecía sorprendentemente a un retrato de Napoleón. La semejanza impresionó incluso a Lizaveta Ivánovna.
+—¿Cómo va a salir de la casa? —dijo al fin—. Pensaba hacerle salir por una escalera secreta, pero hay que pasar por la alcoba y me da miedo.
+—Explíqueme cómo se va a esa escalera, iré solo.
+Lizaveta Ivánovna se levantó, sacó de la cómoda una llave, se la entregó a Hermann y le dio detalladas instrucciones. Hermann estrechó su mano fría e inerte, la besó en la frente inclinada y salió de la habitación.
+Bajó por la escalera de caracol y entró de nuevo en la alcoba de la condesa. La muerta seguía en el mismo sitio, petrificada; tenía una expresión de profunda tranquilidad. Hermann se detuvo ante ella y la miró largo rato como si quisiera asegurarse de la terrible verdad; al fin entró en el gabinete, encontró a tientas la puerta y empezó a bajar por una escalera oscura turbado por extraños sentimientos. Por esta misma escalera, pensaba, hace sesenta años tal vez, a esta misma hora, entraría sigilosamente en esta misma alcoba un afortunado joven peinado à l’oiseau royal [pájaro real], vestido con una casaca bordada y estrechando contra su pecho un sombrero de tres picos; hace tiempo que se ha descompuesto en la tumba y el corazón de su vetusta amante ha dejado de latir hoy mismo…
+Al final de la escalera Hermann encontró una puerta; la abrió con la llave y se encontró en un pasillo que daba a la calle.
+V
+Aquella noche se me apareció la difunta baronesa von W ***. Iba vestida de blanco y me dijo: “Buenos días, señor consejero”.
+[Emanuel] Swedenborg [1688-1772]
+Tres días después de la noche fatídica, a las nueve de la mañana, Hermann se dirigió al monasterio de ***, donde se iba a celebrar el funeral por la difunta condesa. A pesar de no sentir remordimiento alguno, no pudo acallar totalmente la voz de su conciencia, que repetía sin cesar: ¡eres el asesino de la vieja! Sin ser una persona verdaderamente piadosa, tenía una multitud de supersticiones. Creía que la condesa muerta podía ejercer una influencia maléfica sobre su vida; por ello se decidió a presentarse en su entierro para obtener el perdón.
+La iglesia estaba llena. A duras penas Hermann consiguió abrirse paso entre la muchedumbre. El ataúd reposaba sobre un suntuoso catafalco, bajo un dosel de terciopelo. La difunta yacía con los brazos en cruz, vestida con un tocado de encaje y un traje de raso blanco. La rodeaban todos sus allegados: los criados, con caftanes negros, cintas con el blasón en el hombro y velas en las manos; los familiares de riguroso luto, los hijos, los nietos y los biznietos. Nadie lloraba: las lágrimas serían une affectation. La condesa era tan vieja que su muerte no podía sorprender a nadie, y hacía tiempo que sus parientes pensaban que ya había vivido lo suyo. Un joven obispo pronunció el sermón fúnebre. Con palabras sencillas y conmovedoras describió el plácido tránsito a la otra vida de la mujer justa, cuyos largos años de vida fueron una dulce y enternecedora preparación para una muerte cristiana. “El ángel de la muerte —dijo el orador— la encontró despierta, entregada a los buenos pensamientos y esperando al esposo de medianoche”. El servicio transcurrió con triste decoro. Los familiares fueron los primeros en rendir homenaje a la difunta. Luego los sucedieron los numerosos invitados, que habían acudido para despedir a aquella que desde hacía tanto tiempo había sido compañera de sus vanas diversiones. A continuación desfilaron los criados. Por último se acercó la vieja ama de llaves que tenía la misma edad que la condesa. Dos muchachas jóvenes la llevaban del brazo. No tenía fuerzas para hacer una reverencia hasta el suelo; fue la única que vertió unas lágrimas al besar la mano fría de su señora. Después de ella Hermann decidió acercarse al ataúd. Se postró ante la muerta, y permaneció varios minutos en el suelo frío cubierto de ramas de abeto. Por fin se incorporó, tan pálido como la propia difunta, subió los escalones del catafalco y se inclinó… En ese instante le pareció que la muerta lo miraba con sorna, entornando un ojo. Hermann, que retrocedió apresuradamente, tropezó y cayó hacia atrás todo lo largo que era. Lo levantaron. En ese mismo instante sacaron a la calle a Lizaveta Ivánovna, desmayada. El episodio perturbó durante unos minutos la solemnidad de la lúgubre ceremonia. Entre la concurrencia se levantó un sordo murmullo, y un chambelán enjuto, pariente cercano de la difunta, susurró al oído de un inglés que se encontraba a su lado que el joven oficial era el hijo ilegítimo de la condesa, a lo cual el inglés respondió fríamente: “¿Oh?”.
+Hermann pasó todo el día sumamente disgustado. Durante su almuerzo en una taberna solitaria bebió mucho contrariamente a su costumbre, con la esperanza de calmar la agitación interior. Pero el vino no hizo más que encender su imaginación. Al regresar a casa se echó sobre la cama sin desvestirse y se durmió profundamente.
+Era de noche cuando se despertó: la luna iluminaba la habitación. Miró el reloj: eran las tres menos cuarto. Ya no tenía sueño; se sentó en la cama y se puso a pensar en el entierro de la vieja condesa.
+En ese momento alguien que iba por la calle se asomó a su ventana y se apartó inmediatamente. Hermann no le prestó atención. Al minuto oyó que alguien abría la puerta de entrada. Hermann pensó que era su ordenanza, quien, según tenía por costumbre, volvía borracho de un paseo nocturno. Sin embargo, le pareció oír unos andares extraños; alguien se movía arrastrando los pies. Se abrió la puerta y entró una mujer vestida de blanco. Hermann la tomó por su vieja nodriza y se preguntó extrañado qué la traía por allí a esas horas. Pero la mujer vestida de blanco se deslizó hacia él, y ¡Hermann reconoció a la condesa!
+—He venido a verte en contra de mi voluntad —dijo ella con voz firme— pero me han ordenado que cumpla lo que me pides. El tres, el siete y el as seguidos te harán ganar, pero con la condición de que no juegues más que una carta al día y después de eso no vuelvas a jugar nunca más en tu vida. Te perdono mi muerte si te casas con mi pupila Lizaveta Ivánovna…
+Con estas palabras le dio la espalda, se dirigió hacia la puerta y desapareció arrastrando los pies. Hermann oyó cómo se cerraba la puerta de la calle y vio que alguien volvía a asomarse a su ventana.
+Hermann tardó mucho tiempo en recobrar sus sentidos. Salió a la otra habitación. Su ordenanza dormía en el suelo; a duras penas logró despertarlo. El ordenanza estaba borracho como de costumbre: era inútil tratar de que dijera algo coherente. La puerta de la calle estaba cerrada con llave. Hermann volvió a su cuarto, prendió una vela y apuntó su visión.
+VI
+—Attendez!
+—¿Cómo se atreve a decirme attendez?
+—Excelencia, he dicho “attendez, señor”.
+Dos ideas fijas no pueden coexistir en la esfera moral, del mismo modo que dos cuerpos no pueden ocupar el mismo lugar en el mundo físico. El tres, el siete y el as pronto eclipsaron la imagen de la vieja muerta en la mente de Hermann. El tres, el siete y el as no salían de su cabeza y los tenía en la punta de la lengua. Al ver a una muchacha, decía: “¡Qué figura…! Parece un tres de corazones”. Cuando le preguntaban la hora, contestaba: “El siete menos cuarto”. El hombre tripón le recordaba al as. El tres, el siete y el as lo perseguían en sus sueños, adoptando todas las formas imaginables: el tres florecía ante sus ojos como una exuberante magnolia, el siete se le aparecía como una puerta gótica, y el as, una gigantesca araña. Todos sus pensamientos se fundieron en una idea: utilizar el secreto que tan caro le había costado. Pensó en retirarse y en viajar. En las casas de juego de París quería arrebatarle un tesoro a la fortuna embrujada. Una casualidad le evitó las molestias.
+En Moscú se formó un grupo de jugadores adinerados, presidido por el célebre Chekalinsky, quien había pasado toda su vida en la mesa de juego y había amasado varios millones, ganando letras de cambio y perdiendo dinero en metálico. Gracias a la experiencia de muchos años había merecido la confianza de los compañeros, y su casa abierta, el buen cocinero y su trato afable y jovial le hicieron granjearse el respeto del público. Llegó a Petersburgo. Los jóvenes acudieron en tropel, olvidando los bailes gracias a las cartas y prefiriendo las tentaciones del faraón a la seducción del galanteo. Narúmov llevó a Hermann a casa de Chekalinsky.
+Atravesaron una fila de suntuosas habitaciones llenas de criados respetuosos. Varios generales y consejeros secretos jugaban al whist; los jóvenes, arrellanados en divanes tapizados de damasco, comían helado y fumaban en pipa. En la sala, en una mesa larga rodeada de una veintena de jugadores, se sentaba el anfitrión que llevaba la banca. Era un hombre de unos sesenta años, de aspecto muy respetable; tenía una cabeza cubierta de canas plateadas; su rostro lozano y rozagante tenía una expresión bondadosa; los ojos brillaban animados por una perpetua sonrisa. Narúmov le presentó a Hermann, Chekalinsky le estrechó la mano amistosamente, le rogó que no gastara cumplidos y siguió jugando.
+La talla duró largo rato. En la mesa había más de treinta cartas. Chekalinsky se detenía después de cada lance para que los jugadores tuvieran tiempo de expresar sus deseos, apuntaba las pérdidas, atendía cortésmente a las solicitudes y con más cortesía aún enderezaba la punta de una carta doblada por una mano distraída. Al fin terminó la talla. Chakalinsky barajó las cartas y se dispuso a empezar una talla nueva.
+—Permítame que ponga una carta —dijo Hermann alargando la mano por detrás de un señor corpulento que estaba apuntando. Chekalinsky sonrió e inclinó la cabeza en silencio, como muestra de dócil asentimiento. Narúmov, riendo, felicitó a Hermann por el fin de su larga abstinencia y le deseó un comienzo feliz.
+—Allá va —dijo Hermann y apuntó con tiza la puesta junto a la carta.
+—¿Cuánto dice usted? —preguntó el que llevaba la banca entornando los ojos—, usted perdone, pero no lo veo desde aquí.
+—Cuarenta y siete mil —contestó Hermann.
+Con estas palabras todas las cabezas se volvieron hacia Hermann y todos los ojos se clavaron en él.
+“Se ha vuelto loco”, pensó Narúmov.
+—Permítame que le haga una observación —dijo Chekalinsky con su sonrisa inmutable—. Juega usted muy fuerte: nadie ha apostado aquí más de doscientos setenta y cinco en un simple.
+—¿Y qué? —repuso Hermann—. ¿Acepta mi carta o no?
+Chekalinsky inclinó la cabeza con la misma expresión de humilde asentimiento.
+—Solamente quiero informarle —dijo— de que, debido a la confianza que han depositado en mí mis compañeros, no puedo aceptar más que dinero en metálico. Por mi parte, no me cabe la menor duda de que es suficiente su palabra pero, a fin de respetar el orden del juego y de las cuentas, le ruego que coloque el dinero sobre la carta.
+Hermann sacó del bolsillo un billete de banco y se lo dio a Chekalinsky, quien le echó una rápida mirada y lo puso sobre la carta de Hermann.
+Empezó la talla. A su derecha cayó un nueve, y a su izquierda, un tres.
+—Gana —dijo Hermann mostrando su carta.
+Un rumor se levantó entre los jugadores. Chekalinsky frunció el ceño, pero la sonrisa volvió inmediatamente a sus labios.
+—¿Quiere cobrarlo? —preguntó a Hermann.
+—Si me hace el favor.
+Chekalinsky sacó del bolsillo varios billetes de banco y ajustó la cuenta inmediatamente. Hermann recibió el dinero y se apartó de la mesa. Narúmov no salía de su asombro. Hermann bebió un vaso de limonada y se marchó a su casa.
+A la noche siguiente volvió a presentarse en casa de Chekalinsky. El dueño de la casa llevaba la banca. Hermann se acercó a la mesa; los jugadores le hicieron sitio inmediatamente. Chekalinsky lo saludó con aire afable.
+Hermann esperó hasta que empezara una nueva talla, sacó una carta y colocó encima sus cuarenta y siete mil rublos y las ganancias de la noche anterior. Chekalinsky empezó a tallar. A su derecha cayó un valet, y a su izquierda, un siete.
+Hermann descubrió su siete.
+Se oyó una exclamación general. Chekalinsky estaba visiblemente turbado. Contó noventa y cuatro mil rublos y se los dio a Hermann. Hermann los recibió con sangre fría y se retiró inmediatamente.
+A la noche siguiente Hermann volvió a aparecer junto a la mesa. Todos estaban esperándole. Los generales y los consejeros secretos dejaron el whist para presenciar un juego tan singular. Los oficiales jóvenes bajaron de los divanes de un salto; todos los criados se reunieron en la sala. Todos rodearon a Hermann. Los demás jugadores no hicieron apuestas, esperando impacientes cómo iba a acabar el juego de Hermann. Hermann, de pie junto a la mesa, se disponía a apuntar él solo contra Chekalinsky, quien a pesar de su palidez, seguía sonriendo. Ambos abrieron una baraja nueva. Chekalinsky barajó las cartas. Hermann sacó una carta y la colocó sobre la mesa cubriéndola con un montón de billetes de banco. Aquello parecía un duelo. Un profundo silencio reinaba en la sala.
+Chekalinsky empezó a dar cartas, le temblaban las manos. A la derecho cayó una dama, a la izquierda, un as.
+—¡Gana el as! —dijo Hermann descubriendo su carta.
+—Su dama pierde —dijo suavemente Chekalinsky.
+Hermann se estremeció: efectivamente, en lugar del as tenía en la mano una dama de pique. No daba crédito a sus ojos, sin comprender cómo pudo haberse equivocado.
+En aquel instante tuvo la impresión de que la dama de pique guiñaba un ojo y sonreía. Lo sorprendió el extraordinario parecido…
+—¡La vieja! —gritó aterrorizado.
+Chekalinsky recogió los billetes perdidos. Hermann estaba inmóvil. Cuando se apartó de la mesa, todos hablaron a la vez. “Bonito lance”, decían los jugadores. Chekalinsky volvió a barajar; el juego siguió su curso.
+CONCLUSIÓN
+Hermann perdió el juicio. Está internado en la clínica Obujovskaya, en la habitación número 17, no contesta a las preguntas y repite con asombrosa rapidez: “¡El tres, el siete, el as! ¡El tres, el siete, la dama…!”.
+Lizaveta Ivánovna se ha casado con un joven muy amable; tiene un puesto en alguna parte y posee una considerable fortuna: es hijo del antiguo administrador de la vieja condesa. Lizaveta Ivánovna tiene de pupila a una pariente pobre.
+Tomsky ha ascendido a capitán y se va a casar con la princesa Polina.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

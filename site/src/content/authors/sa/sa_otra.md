@@ -1,0 +1,154 @@
+---
+layout: story
+title: La otra mujer
+slug: sa_otra
+source: https://www.literatura.us/idiomas/sa_otra.html
+tags:
+  - sa_otra
+  - sa
+---
+Sherwood Anderson
+(Camden, Ohio, 1876 - Colón, Panamá, 1941)
+La otra mujer
+(“The Other Woman”)
+Originalmente publicado en la revista The Little Review (mayo/junio de 1920);
+The Triumph of the Egg
+(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)
+—Estoy enamorado de mi mujer, —afirmó— ese comentario no me pareció oportuno, ya que en ningún momento había cuestionado el sentimiento que le unía a la
+mujer con quien se había casado. —Seguimos caminando unos diez minutos y lo repitió. Me di la vuelta y empezó a contarme la historia que paso a contar
+a continuación.
+No podía quitarse de la cabeza algo que le había ocurrido en la que sin duda había sido la semana más importante de su vida. Iba a casarse un viernes por
+la tarde. Justo una semana antes había recibido un telegrama donde se le anunciaba que había sido designado para desempeñar un importante cargo público.
+Aunque se sentía orgulloso por tan buena noticia, tenía otras razones para estar feliz. Llevaba ya un tiempo escribiendo poemas en secreto, y el año anterior
+había logrado editar algunos en diversas revistas especializadas. Uno de esos círculos literarios que se dedica a entregar premios a los que considera
+son los mejores poemas del año le nombró candidato a uno de sus máximos galardones. Su éxito no pasó desapercibido en los periódicos; de hecho, alguno
+de ellos llegó incluso a publicar su foto.
+Como no podía ser de otro modo, aquella semana la pasó en un estado de gran alteración, al borde de un ataque de nervios. Casi cada noche iba a casa de
+su prometida, la hija de un juez. Allí se encontraba con mucha gente, y con todo tipo de cartas, telegramas y paquetes. Normalmente se mantenía un poco
+al margen y dejaba que los presentes se acercaran a hablar con él. Hombres y mujeres le dedicaban palabras de elogio y le felicitaban por haber logrado
+acceder a tan importante cargo público y por su merecido reconocimiento como poeta. Cuando se iba a dormir le era imposible conciliar el sueño. El miércoles
+por la noche salió al teatro y le pareció que la sala entera le reconocía. Los asistentes sonreían y asentían con la cabeza. Tras el primer acto, cinco
+o seis hombres y dos o tres mujeres se levantaron de sus asientos y se acercaron a hablar con él. Los demás espectadores de la fila estiraron el cuello
+para ver quién estaba ahí sentado. Nunca antes había recibido tanta atención, el éxito se le estaba subiendo a la cabeza.
+Según me contó, aquella había sido una época bastante atípica para él. Sentía como si estuviera flotando en el aire. Cuando se iba a dormir, tras haber
+conversado con tanta gente y recibido tantas palabras de elogio, la cabeza le empezaba a dar vueltas. Cuando cerraba los ojos, una gran multitud irrumpía
+en su habitación. Era como si de pronto las luces de toda una ciudad le estuvieran enfocando únicamente a él. Su mente inventaba todo tipo de fantasías.
+Una de esas noches se imaginó montando en un carruaje paseando por las calles de su ciudad. A su paso, las ventanas de la calle se iban abriendo de par
+en par. La gente salía de sus casas y se le acercaba. —Ahí está. Es él—, gritaban emocionados los vecinos. Cuando el carruaje pasaba por las calles abarrotadas
+de gente, podía sentir las miradas de admiración. —¡Qué mérito tienes! ¡Estamos orgullosos de ti!—, parecían decir los rostros de aquellas personas.
+Mi amigo no sabía explicar si el entusiasmo de la gente se debía a la publicación de algún nuevo poema o a la realización de algún acto público de gran
+notoriedad. Por aquel entonces vivía a las afueras de la ciudad, en un apartamento encaramado en lo alto de un acantilado. La ventana de su habitación
+tenía vistas al río, escondido entre los árboles y las chimeneas de las fábricas. Una noche, al no poder conciliar el sueño y viendo que las fantasías
+que seguía inventando no hacían más que aumentar su confusión, se levantó para pensar.
+Como cabría esperar dadas las circunstancias, intentó calmarse un poco, serenar sus ánimos, pero al irse a sentar junto a la ventana, totalmente despierto,
+le sucedió algo inesperado y humillante. La luna iluminaba la ciudad en aquella noche clara y agradable. Quería pensar en su futura esposa, encontrar inspiración
+para sus poemas o elaborar planes vitales para su carrera. Cuál fue su sorpresa al ver que su mente se negaba a obedecer tales dictados.
+En la esquina de la calle en la que vivía había un pequeño estanco que vendía periódicos regentado por un tipo algo gordo de unos cuarenta años y su esposa,
+una mujer menuda, pero muy activa, de brillantes ojos grises. Cada mañana, antes de emprender su camino a la ciudad, mi amigo se pasaba por allí a comprar
+el periódico. La mayoría de las veces le atendía el hombre, pero de vez en cuando este se ausentaba, y le atendía la mujer. Aquella mujer, y esto me lo
+repitió al menos veinte veces durante el transcurso de su relato, tenía un físico muy normal, por no decir vulgar. No había nada realmente llamativo en
+ella, pero, por alguna razón que no lograba explicar, ante su presencia se sentía profundamente trastornado. Aquella semana, en medio de tantas distracciones,
+aquella mujer resultó ser la única persona que su mente lograba distinguir con claridad. Cuando intentaba concentrarse para escribir sus versos, la imagen
+de aquella mujer era lo único que le venía a la cabeza. Sin tiempo para darse cuenta de lo que le estaba ocurriendo, su mente ya había vislumbrado la posibilidad
+de tener un romance con ella.
+—No lograba entender lo que me estaba pasando —me confesó—. Por la noche, cuando la ciudad descansaba y se suponía que yo también debía estar durmiendo,
+no podía dejar de pensar en ella. Tras dos o tres noches en vela, su imagen se me apareció incluso durante el día. Reconozco que estaba totalmente desconcertado.
+Curiosamente, cuando iba a visitar a mi actual esposa me aliviaba ver que mi amor por ella no se veía en absoluto afectado por mis divagaciones. Solo había
+una mujer en este mundo con quien quería pasar el resto de mis días, una sola mujer que pudiera ser mi compañera, que pudiera ayudarme a mejorar mi carácter
+y mi situación social, pero, en esos momentos, quería tener en mis brazos a aquella otra mujer. Se había apoderado de mí. Aquellos días, la gente no paraba
+de decirme lo orgullosa que estaba de mí, que tenía un gran futuro por delante, pero yo, en esos momentos, estaba en otro mundo. Aquella noche, después
+del teatro, volví caminando a casa porque sabía perfectamente que no iba a poder conciliar el sueño, y, para calmar mi desesperación, me detuve en la acera,
+frente al estanco. Era un edificio de dos plantas. Sabía que la mujer vivía en el segundo piso con su marido. Me quedé ahí un buen rato, en la oscuridad,
+apoyado contra el muro del edificio, y me los imaginé ahí arriba durmiendo en la misma cama. Ese pensamiento me enfureció.
+—En realidad me sentía furioso conmigo mismo. Me fui a casa y me metí en la cama, rojo de ira. Ciertos libros de poesía y algunos textos en prosa han dejado
+en mí una huella muy profunda; decidí entonces poner algunos de esos libros en la mesilla de noche que tengo junto a mi cama.
+—Las voces de los libros parecían voces de ultratumba. No podía escucharlas. Las palabras impresas no lograban penetrar en mi conciencia. Intentaba pensar
+en la mujer que amaba, pero su imagen también se desvanecía, en esos momentos era algo totalmente ajeno a mí. Empecé a retorcerme y a dar vueltas en la
+cama. Fue una experiencia realmente lamentable.
+—El jueves por la mañana me pasé por el estanco. La mujer estaba sola. Me dio la impresión de que sabía lo que sentía. Yo había estado pensando en ella
+y quizás ella también había estado pensando en mí. Las comisuras de sus labios esbozaron una leve y vacilante sonrisa. Llevaba puesto un vestido de tela
+de escasa calidad, desgarrado en el hombro, y debía de ser unos diez años mayor que yo. Al ir a pagar, intenté dejar las monedas sobre el mostrador, pero
+mi mano tembló de tal manera que las monedas retumbaron escandalosamente. Cuando al fin logré balbucear algo, la voz que salió de mi garganta no se pareció
+ni por asomo a algo que alguna vez me hubiera pertenecido. «La deseo —murmuré espesamente—, no se imagina usted cuánto. ¿Puede librarse de su marido esta
+noche? La espero en mi apartamento a las siete».
+—Y así fue, se presentó en mi apartamento a las siete. Aquella mañana, tras mi propuesta, la mujer permaneció en silencio. Puede que nos quedáramos mirando
+durante un minuto. En ese instante, me pareció que el mundo se detenía. Entonces asintió con la cabeza y me marché. Ahora que lo pienso, no logro recordar
+ninguna de sus palabras. Lo dicho, se presentó en mi apartamento a las siete. Ya era de noche, recuerda que todo esto ocurrió en el mes de octubre. El
+piso estaba totalmente a oscuras y le había dado la tarde libre a mi criado.
+—Aquel día no me sentí demasiado bien. Varias personas vinieron a verme a la oficina, pero ante su presencia casi no pude articular palabra. Atribuyeron
+mi escasa lucidez a mi inminente boda. Bueno, al menos se marcharon con la sonrisa en la boca.
+—Esa misma mañana, la víspera de mi boda, recibí una preciosa carta de mi prometida. La noche anterior ella tampoco había podido conciliar el sueño y durante
+esas horas de insomnio había aprovechado para escribirme. Todo lo que me decía era realmente acertado, pero en esos momentos ella también parecía haberse
+desvanecido. Mi futura esposa se había convertido en un pájaro volando en las alturas, y yo en un niño descalzo sentado al borde del camino presenciando
+perplejo el progresivo desvanecimiento de su figura. No sé si me explico.
+—Volviendo a la carta. Mi prometida, una mujer que empezaba a abrirse a la vida, dio rienda suelta a sus sentimientos. Era muy joven y tenía muy poca experiencia,
+pero era una mujer. Supongo que debía de estar en su cama tan nerviosa y ansiosa como yo. Era consciente de que su vida iba a sufrir grandes cambios y
+estaba feliz por tener que afrontar esos nuevos retos, pero, en el fondo, estaba también algo asustada. Supongo que mientras pensaba en todo esto se levantó
+de la cama, cogió un pedazo de papel y empezó a escribirme. Como digo, me contó que estaba asustada pero que a su vez era muy feliz. Como a la gran mayoría
+de las mujeres de su edad, a sus oídos debían de haber llegado rumores de todo tipo. Su carta era muy dulce. «Después de casarnos, tendremos que olvidar
+durante una temporada que somos marido y mujer. Seremos seres humanos —escribió—. No olvides que la vida aún no me ha enseñado nada y que soy muy ignorante.
+No dejes de amarme, sé paciente y amable en todo momento. A medida que vaya adquiriendo experiencia, cuando después de mucho tiempo me hayas enseñado lo
+que es la vida, intentaré devolverte todo lo que me hayas dado. Pienso amarte tierna y apasionadamente. Sé que puedo satisfacerte; de lo contrario, la
+idea de casarme ni se me pasaría por la cabeza. Tengo miedo, pero soy muy feliz. ¡Qué ganas tengo de que llegue el día de nuestra boda!».
+—Ahora ves en qué lío me había metido. En mi oficina, tras leer la carta de mi prometida, me sentí fuerte y tomé la firme resolución de terminar con esta
+situación. Recuerdo que me levanté de la silla y empecé a dar vueltas por la habitación, orgulloso de saber que me iba a casar con una mujer tan noble.
+Entonces me di cuenta de lo débil que había sido. Ya iba siendo hora de cambiar de actitud. Esa noche, a las nueve, tenía la intención de ir a visitar
+a mi prometida. «Ya estoy bien —me dije convencido—. La belleza de su carácter me ha salvado. Basta de tonterías. Es hora de irme a casa y olvidar a la
+otra mujer». Esa misma mañana le había dado la tarde libre a mi criado, así que levanté el teléfono para decirle que había cambiado de opinión.
+—Entonces me empezaron a entrar dudas. «Tampoco me conviene que el criado esté allí. ¿Qué va a pensar si ve que una desconocida viene a mi casa el día
+antes de mi boda?». Solté el teléfono y empecé a prepararme para irme a casa. «Si le doy la tarde libre a mi criado es porque no quiero que me oiga hablar
+con esta otra mujer. Sería una falta de respeto. Tendré que inventarme alguna excusa», me dije convencido.
+—La mujer llegó a las siete en punto y, como podrás imaginarte, la hice entrar y me olvidé por completo de la firme resolución que había tomado horas antes.
+En el fondo, es probable que jamás tuviera otra intención. En mi puerta había un timbre, pero no lo utilizó, prefirió llamar a la puerta con total discreción.
+Tengo la sensación de que todo lo que hizo aquella noche fue muy suave y delicado, pero a su vez muy decidido y resuelto. ¿Sabes lo que te quiero decir?
+Cuando entró yo llevaba media hora de pie, esperando junto a la puerta. Me temblaban las manos como me habían temblado esa misma mañana cuando sus ojos
+me miraron y cuando intenté dejar torpemente las monedas sobre el mostrador de la tienda. Cuando abrí la puerta, la mujer entró con gran rapidez. La cogí
+en mis brazos, y nos quedamos de pie en la oscuridad. Ya no me temblaban las manos. Me sentía contento, seguro.
+—Aunque he intentado no omitir ningún detalle veo que no he hablado demasiado sobre mi esposa. Como habrás podido comprobar, me he centrado más en la otra
+mujer. Te aseguro que amo a mi mujer, aunque para un hombre tan perspicaz como tú supongo que mis palabras no tienen ningún sentido. Para serte sincero,
+estoy empezando a arrepentirme de haber iniciado esta conversación. Está claro que doy la impresión de estar enamorado de la mujer del estanquero. Nada
+más lejos de la realidad. No puedo negar que durante la semana previa a mi boda no había manera de quitármela de la cabeza, pero después de aquel furtivo
+encuentro en mi apartamento desapareció por completo de mi mente.
+—¿Que si es cierto? A ver, estoy haciendo un gran esfuerzo por explicarte lo que me ocurrió aquella semana. Lo que intento decirte es que, desde aquella
+noche, no he vuelto a pensar en la mujer que vino a mi apartamento. Bueno, para ser sincero, esto no es totalmente cierto. Aquella noche, tal y como me
+lo había pedido en su carta, me presenté en casa de mi prometida a las nueve. En cierto sentido, y admito que esto no es fácil de explicar, la otra mujer
+vino conmigo. Lo que te quiero decir es que tenía claro que si algo pasaba entre la mujer del estanquero y yo me vería obligado a anular mi boda. «Conmigo
+no hay término medio», me dije.
+—De hecho, aquella noche fui a visitar a mi prometida con renovadas ilusiones sobre nuestra futura vida en común. Espero no estar haciéndote un lío con
+todo esto. Si recuerdo bien, hace unos instantes dije que la otra mujer, la mujer del estanquero, me había acompañado. No lo decía en sentido literal.
+Lo que estoy intentando decir es que, aquella noche, me acompañaron su fe en sus propios sentimientos y su valor ante la vida, no sé si me explico. Cuando
+llegué a la casa de mi prometida había una gran cantidad de gente. Había familiares llegados de regiones lejanas que no había visto en mi vida. Cuando
+entré en la habitación ella alzó rápidamente la mirada. Yo debía de estar radiante y reconozco que nunca antes la había visto tan emocionada. Debía de
+pensar que su carta me había conmovido profundamente, y estaba en lo cierto. Saltó de su asiento y vino corriendo hacia mí. Parecía muy feliz. Delante
+de toda esa gente que se había girado a mirarnos dijo exactamente lo que pensaba. «Qué alegría —exclamó entre sollozos—. Has entendido. Seremos dos seres
+humanos. No tendremos por qué ser marido y mujer».
+—Como podrás imaginarte, todos los presentes empezaron a reír a carcajadas, todos menos yo. A mí se me saltaron las lágrimas. Estaba tan feliz que me entraron
+ganas de gritar. A ver si me entiendes. En la oficina, tras leer la carta que me había escrito mi prometida con cierto orgullo me dije: «Voy a cuidar de
+esta mujercita tan adorable». En su casa, al verla tan emocionada, cuando todo el mundo se echó a reír, yo le dije algo así: «Vamos a cuidarnos el uno
+al otro»; creo que eso fue lo que le susurré al oído. A decir verdad, acababa de bajarme de mi nube, y eso se lo debo al espíritu de la otra mujer. Delante
+de todos los presentes, le di un abrazo a mi prometida y nos besamos, debían de estar sorprendidos de vernos tan conmovidos. ¡Vete a saber lo que habrían
+pensado si hubiesen sabido la verdad sobre mí! Eso es algo que solo Dios sabe.
+—Bueno, a ver, te lo vuelvo a repetir, desde aquella noche no he vuelto a pensar en la mujer que invité a mi apartamento. Bueno, reconozco que esto no
+es totalmente cierto; a veces, por las tardes, cuando salgo a pasear por la calle o por el parque, como ahora, cuando empieza a anochecer, como esta noche,
+su recuerdo vuelve a llamar a mi puerta. Después de ese único encuentro nunca más la volví a ver. Al día siguiente me casé y no he vuelto a poner el pie
+en esa calle. Pero es verdad que de vez en cuando salgo a pasear como ahora, y una sensación muy viva y profunda sacude mi cuerpo. Me siento como una semilla
+plantada en la tierra, alterada por la llegada de las primeras lluvias. Me siento como un árbol, no como un hombre.
+—Ahora, como bien sabes, soy un hombre casado y soy feliz. Estar casado es algo muy bonito. Si insinuaras que no soy feliz en mi matrimonio, diría que
+eres un mentiroso. Estoy intentando contarte lo que pasó con aquella otra mujer. Siento cierto alivio cuando la recuerdo. Nunca antes había hablado de
+ella, esta es la primera vez. Me pregunto por qué fui tan tonto de pensar que podría darte la impresión de que no estoy enamorado de mi mujer. Si no supiera
+que puedo confiar en ti, en tu comprensión, jamás se me habría ocurrido contarte esta historia. Lo cierto es que me he alterado un poco con todo esto.
+Creo que esta noche pensaré en la otra mujer. No será la primera vez. Lo haré antes de acostarme. Mi mujer duerme en la habitación de al lado y siempre
+deja la puerta abierta. Esta noche, un rayo de luna caerá sobre su cama. Me despertaré a medianoche. Estará acostada, durmiendo con la cabeza apoyada sobre
+sus brazos.
+—¿Cómo se me ocurre ponerme a hablar de esto ahora? A quién se le ocurre ponerse a hablar de su mujer acostada. Lo que intento decirte es que, a raíz de
+esta conversación, esta noche me pondré a pensar en esa otra mujer. Mis pensamientos no tendrán nada que ver con los que tuve la semana anterior a mi boda.
+Me preguntaré qué habrá sido de ella. Durante unos instantes sentiré que vuelve a estar en mis brazos. Pensaré que durante una hora estuve más cerca de
+ella de lo que jamás he estado de ninguna otra persona. Entonces pensaré en el día en que pueda sentirme así con mi esposa. Como sabes, mi mujer está empezando
+a abrirse a la vida. Esta noche, durante un breve instante, cerraré los ojos y sentiré cómo los ojos rápidos y decididos de aquella otra mujer me vuelven
+a mirar. Mi mente empezará a flotar y cuando vuelva a abrir los ojos volveré a ver a mi querida esposa, la persona con quien quiero pasar el resto de mis
+días. Luego me quedaré dormido y cuando me despierte volveré a sentirme como aquella noche en que salí de mi apartamento tras haber vivido la experiencia
+más importante de mi vida. A ver si me explico, lo que estoy intentando decirte es que, al amanecer, mi mente habrá borrado por completo el recuerdo de
+aquella otra mujer.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

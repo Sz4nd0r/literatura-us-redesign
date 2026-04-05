@@ -1,0 +1,311 @@
+---
+layout: story
+title: El matrimonio de Lit-Lit
+slug: lit
+source: https://www.literatura.us/idiomas/london/lit.html
+tags:
+  - lit
+  - london
+---
+Jack London
+(San Francisco, California, 1876 – Glen Ellen, California, 1916)
+El matrimonio de Lit-Lit (1903)
+(“The Marriage of Lit-Lit”)
+Originalmente publicado en Frank Leslie’s Popular Monthly (septiembre de 1903);
+The Faith of Men
+(Nueva York: The Macmillan Company, 1904, 286 págs.)
+Cuando John Fox llegó a un país en el que el whisky se congela por
+completo y puede usarse como pisapapeles durante la mayor parte
+del año, lo hizo sin los ideales e ilusiones que suelen entorpecer
+el progreso de los aventureros educados con mayor delicadeza.
+Nacido y criado en la franja fronteriza de Estados Unidos, se llevó con él a Canadá una
+mentalidad primitiva, una simplicidad primaria para captar las cosas, por decirlo de
+otra forma, que le aseguró un éxito inmediato en su nueva carrera. De simple empleado
+de la Compañía de la Bahía de Hudson, remando con los voyageurs [en francés: viajero y transportando
+bienes a la espalda en los pasos, enseguida ascendió al puesto de factor y se ocupó de
+la factoría de Fort Angelus.
+Allí, debido a su simplicidad primaria, se procuró una esposa nativa y, debido al
+éxtasis conyugal que le proporcionó, se libró del malestar y los vanos deseos que maldicen
+los días de los hombres más quisquillosos, echan a perder su trabajo y al final
+acaban por conquistarlos. Él vivía satisfecho, se centraba en el trabajo que debía hacer
+y reunió un historial magnífico al servicio de la Compañía. Por esa época falleció su
+esposa, a la que su pueblo reclamó y enterró, entre ceremonias primitivas, en un baúl
+de lata sobre la copa de un árbol.
+Le había dado dos hijos y cuando la Compañía lo ascendió se adentró con ellos en la
+inmensidad del Territorio Noroeste hasta un lugar llamado Sin Rock, donde se ocupó de
+una nueva factoría en una zona más importante, en la que se conseguían más pieles. Allí
+pasó varios meses solitarios y deprimentes, sumamente molesto con el aspecto poco atractivo
+de las doncellas indias y cada vez más preocupado por sus hijos en edad de crecer y
+necesitados de las atenciones de una madre. Entonces sus ojos se posaron en Lit-Lit.
+—Lit-Lit… bueno, es Lit-Lit —fue la forma en que, desesperado, se la describió a
+su ayudante jefe, Alexander McLean.
+McLean tenía demasiado fresca su educación escocesa —“Aún está muy verde”,
+como decía John Fox— para aceptar las costumbres matrimoniales del país. Sin embargo,
+no se mostraba reacio a que el factor pusiera en peligro su alma inmortal y, sobre
+todo porque él mismo sentía una atracción por Lit-Lit que no presagiaba nada bueno, se
+sintió sombríamente satisfecho de zanjar la seguridad de su propia alma al verla casada
+con el factor.
+No es de extrañar que la austera alma escocesa de McLean corriese peligro de
+derretirse bajo el cálido brillo de los ojos de Lit-Lit. Era guapa, delgada, esbelta, sin el
+rostro grande y la apatía temperamental de las indias. Lit-Lit recibía ese nombre por su
+forma, ya desde niña, de moverse como si revoloteara, de desplazarse de un lado a otro
+como una mariposa, de mostrarse pueril y alegre y de reírse con tanta ligereza como se
+movía y bailaba.
+Lit-Lit era hija de Snettishane, un jefe importante de la tribu, y de una mujer mestiza.
+Un día de verano el factor acudió a verlo para comenzar a negociar el matrimonio.
+Se sentó con el jefe bajo el humo de un fumigador de mosquitos, frente a su tienda, y
+charlaron sobre todos los temas imaginables, o al menos todos los temas imaginables en
+la región septentrional, a excepción del matrimonio. John Fox había ido para hablar de
+matrimonio; Snettishane lo sabía y John Fox sabía que lo sabía, por lo que evitaron el
+asunto escrupulosamente. Se dice que eso es sutileza india. En realidad se trata de una
+simplicidad transparente.
+Fueron pasando las horas y Fox y Snettishane fumaron una pipa tras otra, mirándose
+a los ojos con una ingenuidad extraordinariamente histriónica. A media tarde McLean y
+su colega ayudante, McTavish, pasaron por allí camino del río, inocentemente indiferentes.
+Cuando volvieron a pasar una hora más tarde Fox y Snettishane se encontraban
+absortos en una conversación ceremoniosa sobre el estado y la calidad de la pólvora y el
+beicon con los que comerciaba la Compañía. Mientras Lit-Lit, que había adivinado la
+misión del factor, se había colado por debajo de la pared trasera de la tienda y observaba,
+a través de la puerta delantera, a los dos inmersos en aquella logomaquia junto al
+fumigador de mosquitos. Estaba ruborizada y con los ojos alegres, orgullosa de que precisamente
+el factor (que en la jerarquía de la región septentrional ocupaba un lugar junto
+a Dios) la hubiese elegido y sentía una curiosidad muy femenina por ver de cerca qué
+clase de hombre era. El reflejo del sol en el hielo, el humo de las hogueras y el desgaste
+del clima le habían quemado el rostro hasta convertirlo en un moreno broncíneo, de
+manera que tenía el mismo color que su padre, mientras que ella era de piel más clara.
+Eso no le hizo demasiada gracia y le gustó mucho más lo grande y fuerte que aparentaba,
+a pesar de que su enorme barba negra la asustaba un poco porque le parecía extraña.
+Como era muy joven no conocía las costumbres de los hombres. Diecisiete veces
+había visto al sol viajar hacia el sur y desaparecer tras el horizonte y diecisiete veces lo
+había visto regresar para recorrer el cielo día y noche hasta que no hubiese oscuridad.
+Durante esos años Snettishane la había cuidado con el mayor de los celos, interponiéndose
+entre todos sus pretendientes, escuchando con desdén las ofertas que los jóvenes
+cazadores hacían a cambio de su mano y rechazándolos como si no hubiese nadie capaz
+de pagar su precio. Snettishane era un mercenario. Lit-Lit representaba una inversión
+para él. Constituía un capital concreto por el que esperaba recibir no un interés determinado
+y fijo, sino un interés incalculable.
+Por eso, habiendo sido criada de una forma tan parecida a la de un convento como
+permitieron las circunstancias de la tribu, la joven miraba con enorme ansiedad de
+doncella al hombre que sin duda había ido a buscarla, al marido que iba a enseñarle
+todo cuanto le faltaba por aprender de la vida, al ser poderoso cuya palabra sería ley
+para ella y que controlaría y limitaría sus actos y su comportamiento durante el resto
+de sus días.
+Pero, mientras miraba a través de la puerta delantera de la tienda, ruborizada e ilusionada
+por el extraño destino que surgía a su encuentro, fue sintiéndose decepcionada
+al ver que transcurría el día y el factor y su padre continuaban hablando ampulosamente
+de asuntos relacionados con otras cosas y que no tenían nada que ver con el matrimonio.
+A medida que el sol fue descendiendo hacia el norte y la medianoche se acercaba,
+el factor empezó a prepararse para despedirse. Al ver que se daba la vuelta con
+intención de echar a andar, Lit-Lit se desanimó, pero se recuperó cuando el hombre se
+detuvo y giró medio cuerpo.
+—Por cierto, Snettishane —dijo—, quiero una india que me arregle la ropa y se
+ocupe de fregar y limpiar.
+Snettishane gruñó y sugirió a Wanidani, que era una anciana sin dientes.
+—No, no —exclamó el factor—. Lo que quiero es una esposa. Lo he estado pensando
+y se me acaba de ocurrir que tal vez tú conozcas a alguna que me convenga.
+Snettishane se mostró interesado, por lo que el factor desanduvo sus pasos a fin de
+entretenerse, sin darle importancia, para charlar sobre aquel tema incidental que acababa
+de surgir.
+—¿Kattou? —sugirió Snettishane.
+—Solo tiene un ojo —objetó el factor.
+—¿Laska?
+—Cuando está de pie se le quedan las rodillas muy separadas. Kips, el más grande
+de tus perros, puede pasar entre sus rodillas cuando está de pie.
+—¿Senatte? —continuó Snettishane, imperturbable.
+Pero John Fox fingió enfado y gritó:
+—¿Qué tontería es esa? ¿Es que soy viejo para que intentes emparejarme con viejas?
+¿Me faltan los dientes? ¿Estoy cojo? ¿Ciego de un ojo? ¿O soy pobre para que una
+doncella de ojos brillantes no pueda mirarme bien? ¡No lo olvides! ¡Soy el factor, un
+hombre rico e importante, uno de los poderosos de esta tierra, cuyas palabras hacen
+temblar a los hombres y siempre son obedecidas!
+Snettishane se sintió satisfecho, aunque su rostro, como el de una esfinge, no se
+relajó. Provocaba al factor y le marcaba el rumbo. Al ser una criatura tan primaria como
+para atender a las ideas de una en una, Snettishane era capaz de llevar esa idea mucho
+más lejos que John Fox. Porque John Fox, primario como era, tenía complejidad suficiente
+para albergar varias ideas tenues a la vez, lo que le impedía empeñarse en una
+sola con la insistencia y firmeza del jefe.
+Snettishane continuó enumerando con calma la lista de las doncellas disponibles mientras,
+una a una, en cuanto oía su nombre, John Fox las tachaba de no aptas y añadía sus
+objeciones. Al final se cansó y emprendió el regreso al fuerte. Snettishane lo vio marchar
+sin molestarse en detenerlo, pero no hizo falta porque el factor se detuvo por su cuenta.
+—Ahora que lo pienso —comentó—, los dos nos hemos olvidado de Lit-Lit. Me pregunto
+si me convendrá.
+Snettishane recibió la sugerencia con gesto distante y frío, bajo cuya máscara su
+alma sonreía de oreja a oreja. Era una clara victoria. Si el factor hubiese dado un solo
+paso más, él mismo habría pronunciado el nombre de Lit-Lit, pero el factor se había
+detenido justo a tiempo.
+El jefe no se comprometió en lo relativo a la idoneidad de Lit-Lit hasta que obligó
+al blanco a dar el siguiente paso adelante en los trámites.
+—Pues la única forma de saberlo será haciendo la prueba —meditó el factor en voz
+alta. Luego elevó el tono y dijo—: Así que ofrezco por Lit-Lit diez mantas y kilo y medio
+de buen tabaco.
+Snettishane contestó con un gesto que parecía decir que ni todas las mantas o el
+tabaco del mundo compensarían la pérdida de Lit-Lit y sus muchas virtudes. Cuando el
+factor lo presionó para que estableciera un precio, fríamente lo estableció en quinientas
+mantas, diez armas de fuego, veinticinco kilos de tabaco, veinte paños escarlata, diez
+botellas de ron, una caja de música y por último la buena voluntad y los mejores oficios
+del factor, con un sitio junto a su hoguera.
+El factor aparentó sufrir una apoplejía con lo que logró reducir el número de mantas
+a doscientas y eliminar el sitio junto a la hoguera, una condición insólita en los
+matrimonios de los blancos con las hijas de la tierra. Al final, tras otras tres horas de
+regateos, llegaron a un acuerdo. Snettishane recibiría por Lit-Lit cien mantas, dos kilos
+y medio de tabaco, tres armas de fuego y una botella de ron, incluidos la buena voluntad y los mejores oficios, lo cual, según John Fox, suponía diez mantas y un arma de
+fuego más de lo que valía la joven. Mientras volvía a casa de madrugada, con el sol de
+las tres brillando al noreste, fue desagradablemente consciente de que Snettishane lo
+había superado negociando.
+Snettishane, cansado y victorioso, fue a acostarse y descubrió a Lit-Lit antes de que
+pudiese escapar de la tienda. Gruñó con complicidad:
+—Has visto. Has oído. Por eso conoces la gran sabiduría y comprensión de tu padre.
+Te he casado bien. Haz caso de mis palabras y síguelas, ve cuando yo diga que vayas y
+ven cuando te ordene venir, así engordaremos con la riqueza de ese gran hombre blanco,
+que es tan necio como grande.
+Al día siguiente no se comerció en la factoría. El factor abrió el whisky antes del
+desayuno, para disfrute y alegría de McLean y McTavish, ofreció doble ración de comida
+a sus perros y se calzó sus mejores mocasines. En el exterior del fuerte se ocupaban
+de los preparativos para celebrar un potlatch [fiesta ceremonial indígena durante la que se distribuyen propiedades y regalos]. Potlatch significa “dar” y John Fox tenía
+la intención de distinguir su matrimonio con Lit-Lit celebrando un potlatch tan generoso
+como hermosa era la joven. Por la tarde toda la tribu se reunió para participar de la
+fiesta. Hombres, mujeres, niños y perros se atiborraron hasta la saciedad y ni una sola
+persona, ni siquiera los visitantes casuales o los cazadores llegados de otras tribus, se
+quedó sin recibir algún obsequio indicativo de la generosidad del novio.
+Lit-Lit, asustada y tímida hasta las lágrimas, se dejó engalanar por su barbudo esposo
+con un vestido nuevo de calicó, unos mocasines espléndidamente cubiertos de abalorios,
+un magnífico pañuelo de seda sobre su cabello negro como ala de cuervo, una
+bufanda púrpura alrededor del cuello, anillos y pendientes de latón, y una buena cantidad
+de joyas de imitación, incluido un reloj Waterbury. Snettishane a duras penas logró
+contenerse ante aquel espectáculo, sin embargo, decidido a no perder su oportunidad,
+consiguió apartarla un momento de la celebración.
+—Ni esta noche ni la siguiente —le dijo despacio—, sino después, cuando te llame
+como el cuervo desde la orilla del río, deberás levantarte del lecho de tu gran esposo,
+que es un necio, y acudir a mí. No, no —añadió veloz, al ver el rostro consternado de
+su hija ante la perspectiva de renunciar a su nueva y maravillosa vida—, porque en
+cuanto eso ocurra tu marido, que es un necio, vendrá quejándose a mi tienda. Entonces
+tendrás que quejarte tú y afirmarás que tal cosa no te gusta y tal otra tampoco y que ser
+la esposa del factor es más de lo que creías, por lo que solo te contentarás con más mantas,
+más tabaco y más riquezas de varios tipos para tu pobre padre Snettishane. No lo
+olvides, cuando te llame de noche, como un cuervo, desde la orilla del río.
+Lit-Lit asintió, porque desobedecer a su padre era un riesgo que conocía bien. Además,
+lo que le pedía no era gran cosa: una breve separación del factor, que se alegraría
+mucho más cuando la recuperase. La joven volvió a la fiesta y, al llegar la medianoche,
+el factor la buscó y se la llevó al fuerte, entre las bromas y los gritos de todos, en especial
+de las otras indias.
+Lit-Lit enseguida descubrió que la vida de casada con el jefe de un fuerte era mucho
+mejor de lo que había soñado. Ya no tenía que salir a buscar leña o agua y servir en todo
+momento a los hombres de la familia, todos unos cascarrabias. Por primera vez en su
+vida podía quedarse en la cama hasta que el desayuno estaba servido. ¡Y qué cama!,
+limpia, blanda y cómoda como ninguna otra. ¡Y qué comida! Mucha harina, con la que
+hacían galletas, tortitas calientes y pan tres veces al día y todos los días ¡y en la cantidad
+que ella quisiera! Semejante prodigalidad parecía increíble.
+Para mayor satisfacción, el factor era astutamente amable. Había enterrado una
+esposa y sabía gobernar dejando las riendas flojas para tensarlas solo de vez en cuando,
+aunque cuando las tensaba lo hacía con fuerza. “Lit-Lit manda en esta casa —anunció
+en la mesa la mañana siguiente a la boda—. Se hará lo que ella diga, ¿entendido?”.
+McLean y McTavish comprendieron. Además, sabían que el factor tenía la mano muy
+firme.
+Pero Lit-Lit no se aprovechó. Imitando el comportamiento de su marido, enseguida
+se hizo cargo de los niños y les proporcionó toda clase de comodidades, además de darles
+la misma libertad que él le daba a ella. Los dos hijos colmaron a su nueva madre de
+alabanzas, a las que se unieron los elogios de McLean y McTavish, y el factor alardeó
+de la felicidad del matrimonio hasta que el relato del buen comportamiento de ella y la
+satisfacción del esposo llegó a oídos de todos los habitantes de la región de Sin Rock.
+Entonces Snettishane, al que las visiones de su interés incalculable mantenían despierto
+por las noches, pensó que había llegado el momento de poner manos a la obra. La
+décima noche de su vida de casada, a Lit-Lit la despertó el graznido de un cuervo y supo
+que Snettishane la esperaba en la orilla del río. Era tan feliz que había olvidado su pacto
+y ahora la alcanzaba envuelto en el miedo infantil que le provocaba su padre. Permaneció
+un rato acostada, temblando, sin querer ir pero temerosa de quedarse. Sin embargo,
+al final el factor salió victorioso de aquella lucha silenciosa y su amabilidad, además de
+sus enormes músculos y su mandíbula cuadrada, le dieron fuerzas para ignorar la llamada
+de Snettishane.
+Pero por la mañana se levantó muy asustada y se dedicó a sus tareas con miedo de
+que apareciera su padre. Sin embargo, a medida que iba transcurriendo el día, fue recuperando
+el ánimo. John Fox, al reconvenir prudentemente a McLean y McTavish por
+algún incumplimiento de su deber, la ayudó a reunir valor. Intentó no perderlo de vista
+en ningún momento y cuando lo siguió al interior del gigantesco almacén y lo vio manejar
+y mover de un lado a otro grandes fardos de mercancía, se sintió reforzada en su
+desobediencia al padre. Además (no había entrado nunca en el almacén y Sin Rock era
+el centro de distribución para varias series de factorías menos importantes), se quedó
+impresionada por la infinita riqueza que allí guardaban.
+Esa imagen, comparada con la de la tienda vacía de Snettishane, hizo que se desvanecieran
+sus dudas. Pero lo que acabó por convencerla del todo fue una breve conversación
+con uno de sus hijastros. “¿Es bueno tu padre blanco?”, fue lo que preguntó
+ella y el niño contestó que su padre era el mejor hombre que conocía. Esa noche el cuervo
+volvió a graznar. La noche siguiente el graznido fue aun más intenso y despertó al
+factor, quien dio vueltas en la cama, inquieto, durante un rato y luego dijo en voz alta:
+“Maldito sea ese cuervo”, lo que hizo reír a Lit-Lit bajo las mantas.
+Por la mañana, muy temprano, Snettishane hizo su siniestra aparición y fue enviado
+a desayunar a la cocina con Wanidani. Se negó a tomar “comida de mujeres” y un
+poco después se enfrentó a su yerno en la tienda, donde se comerciaba. Dijo que, tras
+saber que su hija era semejante joya, había ido a buscar más mantas, más tabaco y más
+armas de fuego, sobre todo más armas de fuego. Mantenía que lo habían engañado en
+cuanto al precio y que acudía a él en busca de justicia. Pero al factor no le sobraban ni
+las mantas ni las ganas de hacer justicia, por lo que fue informado de que Snettishane
+había hablado con el misionero de Three Forks, quien le había dicho que esos matrimonios
+no se hacían en el cielo y que el deber de un padre era recuperar a su hija.
+—Ahora soy un buen cristiano —concluyó Snettishane—. Quiero que mi Lit-Lit
+vaya al cielo.
+La respuesta del factor fue breve y directa, pues envió a su suegro a las antípodas
+del cielo y, agarrándolo del cogote y del borde de la manta, lo propulsó en esa dirección
+hasta la puerta.
+Pero Snettishane se coló dentro de nuevo por la cocina y acorraló a Lit-Lit en la
+enorme sala de estar del fuerte.
+—Puede ser que durmieras profundamente anoche cuando te llamé desde la orilla
+del río —le dijo con una mirada de cólera.
+—No. Estaba despierta y te oí. —El corazón le latía con fuerza y sintió que se ahogaba,
+pero no se detuvo—. Y la noche anterior estaba despierta y te oí, al igual que la
+anterior.
+Acto seguido, debido a su gran felicidad y al miedo de que se la arrebataran,
+emprendió un discurso original y elogioso sobre la situación y los derechos de la mujer:
+la primera conferencia sobre la nueva mujer pronunciada al norte del paralelo 53.
+Pero cayó en saco roto. Snettishane vivía en la oscuridad de la Edad Media. Cuando
+ella se detuvo para coger aire, él dijo en tono amenazador:
+—Esta noche volveré a llamar como el cuervo.
+En ese momento entró el factor y volvió a enviar a Snettishane camino de las antípodas
+celestiales.
+Esa noche el cuervo graznó con más empeño que nunca. Lit-Lit, que tenía el sueño
+ligero, lo oyó y sonrió. John Fox dio vueltas en la cama, inquieto. Luego se despertó y dio
+aún más vueltas, mucho más inquieto. Gruñó y bufó, juró en voz baja y en voz alta y al
+final se levantó. Avanzó a tientas hasta la sala de estar y cogió una escopeta cargada con
+perdigones que estaba en el perchero y que el descuidado de McTavish había dejado allí.
+El factor abandonó el fuerte sin hacer ruido y se dirigió hacia el río. Los graznidos
+habían cesado, pero se tumbó sobre la hierba alta y aguardó. El aire parecía un bálsamo
+fresco y la tierra, tras el calor del día, de vez en cuando respiraba relajada. El factor,
+inmerso en el ritmo de su entorno, apoyó la cabeza en el brazo y se quedó traspuesto.
+A cincuenta metros de distancia, con la cabeza descansando en las rodillas y de
+espaldas a John Fox, Snettishane también dormía, suavemente vencido por la quietud
+de la noche. Transcurrió una hora, se despertó y, sin levantar la cabeza, hizo vibrar las
+sombras con el ronco sonido gutural del cuervo.
+El factor se despertó, pero no con el sobresalto abrupto del hombre civilizado, sino
+con el paso silencioso, rápido y rotundo del sueño al desvelo del salvaje. A la poca luz
+nocturna distinguió un objeto oscuro en medio de la hierba, al que apuntó con la escopeta.
+Un segundo graznido empezaba a surgir cuando apretó el gatillo. Los grillos dejaron
+de cantar, las aves silvestres de pelear y el graznido del cuervo se detuvo de repente
+y se desvaneció en un silencio sorprendido.
+John Fox corrió al lugar y alargó la mano hacia lo que había matado, pero sus dedos
+agarraron una mata de pelo áspero y expusieron el rostro de Snettishane a la luz de las
+estrellas. Sabía cómo se dispersaban los perdigones a cincuenta metros de distancia y
+sabía que había acribillado a Snettishane en los hombros y en la región lumbar. Y Snettishane
+sabía que él lo sabía, pero ninguno lo comentó.
+—¿Qué haces aquí? —preguntó el factor—. A estas horas los viejos deberían estar
+en la cama.
+Pero Snettishane se mostró imponente, a pesar de que los perdigones le picaban
+bajo la piel.
+—Este viejo no duerme —afirmó solemne—. Lloro por mi hija, por mi hija Lit-Lit,
+que vivía y que ahora está muerta y que sin duda irá al infierno del hombre blanco.
+—Pues de ahora en adelante llora en la otra orilla, para que no se te oiga desde el
+fuerte —dijo John Fox, dándose la vuelta—. El ruido de tu llanto es excesivo y no nos
+deja dormir por las noches.
+—Me duele el corazón —respondió Snettishane—, y la pena vuelve negros mis días
+y mis noches.
+—Como negro es el cuervo —dijo John Fox.
+—Como negro es el cuervo —repitió Snettishane.
+Nunca más se oyó al cuervo junto a la orilla del río. Lit-Lit madura día a día y es
+muy feliz. Además, los hijos de la primera esposa de John Fox, que yace enterrada en
+un árbol, han tenido hermanas. El anciano Snettishane ya no visita el fuerte y dedica
+muchas horas a elevar su voz, vieja y apagada, contra la ingratitud filial de los hijos en
+general y de su hija Lit-Lit en particular. Sus últimos años se han visto amargados por
+la total seguridad de que fue engañado. Incluso John Fox ha dejado de afirmar que había
+pagado diez mantas y un arma de fuego de más por Lit-Lit.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

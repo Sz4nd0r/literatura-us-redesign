@@ -1,0 +1,206 @@
+---
+layout: story
+title: Los destructores
+slug: destru
+source: https://www.literatura.us/idiomas/greene/destru.html
+tags:
+  - destru
+  - greene
+---
+Graham Greene
+(Berkhamstead, Inglaterra, 1904 - Vevey, Suiza, 1991)
+Los destructores (1954)
+(“The Destructors”)
+Originalmente publicado en Picture Post, en dos entregas:
+I: 24 de julio de 1954, págs. 36-38,
+II: 31 de julio de 1954, págs. 29-30;
+21 [Twenty-One] Stories
+(Londres,
+Melbourne, Toronto: William Heinemann Ltd., 1954, 239 págs.), págs. 219-239.
+1
+Fue la víspera del Día Feriado de Agosto cuando el último recluta se convirtió en el jefe de la pandilla de Wormsley Common. A ninguno le causó sorpresa excepto a Mike; pero a Mike, a los nueve años, todo le causaba sorpresa. “Si no cierras la boca”, le dijeron un día, “se te va a meter una mosca”. Desde entonces Mike mantenía los dientes cerrados como una ostra, salvo cuando la sorpresa era demasiado grande.
+El nuevo recluta había estado con la pandilla desde el principio de las vacaciones de verano, y todos le veían posibilidades a su caviloso silencio. Nunca usaba una palabra de más, ni aun para decir su nombre, a menos que así lo exigieran las reglas. Cuando dijo: “Trevor”, señaló un hecho, no reveló vergüenza o desafío, como lo habían hecho los demás. Tampoco se rio nadie, excepto Mike quien, al no verse secundado y toparse con la oscura mirada del recién llegado, abrió la boca y en seguida guardó silencio. Había muchas razones por las que “T.”, como se le llamaría después, podía ser objeto de burla. Su nombre, por ejemplo (lo sustituyeron por una inicial porque de otro modo no había excusa para no reírse de él), o el hecho de que su padre, antes arquitecto y ahora empleado, “se había ido a pique”, y su madre se consideraba de mejor clase que sus vecinos. ¿Qué fue sino una de esas raras circunstancias asociadas con el peligro, con lo impredecible, lo que permitir su ingreso en la pandilla sin pasar por una innoble ceremonia de iniciación?
+La pandilla se reunía cada mañana en un lote baldío improvisado como estacionamiento, el sitio donde había caído la última bomba del primer ataque aéreo de la guerra. El jefe, conocido como Blackie, aseguraba que la había oído caer, y ninguno reparaba lo suficiente en las fechas para señalar que por entonces Blackie había tenido sólo un año de edad y estado profundamente dormido en el andén más bajo de la estación del metro de Wormsley Common. A un lado del baldío se inclinaba la primera de las casas aún ocupadas, el número 3 de la destrozada calle, de Northwood Terrace —literalmente se inclinaba, pues la explosión de la bomba la había dañado de tal manera que sus costados estaban apuntalados con maderos. Una bomba más pequeña y otras incendiarias habían caído un poco más allá dejándola como una enorme muela cariada. Uno de sus muros exteriores aún retenía, pegadas, reliquias de lo que había sido la casa de junto: un pedazo de friso y trozos de chimenea. T., cuyas palabras se limitaban casi a votar “sí” o “no” al plan de operaciones propuesto cada día por Blackie, una vez sorprendió a todos al observar meditativamente: “Wren construyó esa casa, dice mi padre”.
+—¿Quién es Wren?
+—El hombre que construyó la catedral de St. Paul.
+—¿Y a quién le importa? —replicó Blackie—. No es más que la casa del Viejo Miserias.
+El “Viejo Miserias” —cuyo verdadero nombre era Thomas— había sido arquitecto y decorador. Vivía solo en la maltrecha casa, haciendo de todo: cada semana se le podía ver cruzar el baldío trayendo consigo pan y verduras, y una vez, cuando los chicos se encontraban jugando, puso su cabeza sobre la derruida barda de su jardín para mirarlos.
+—Acaba de salir del “ret” —observó uno de los chicos, pues todos sabían que, desde la caída de aquellas bombas, algo andaba mal en las cañerías, y el Viejo Miserias era demasiado tacaño para meterle dinero a la propiedad. Hacía la redecoración, que le salía al costo, pero no sabía nada de plomería. El “ret”— el retrete —era un cobertizo de madera con un agujero en forma de estrella en la puerta, al fondo del estrecho jardín: había escapado de la explosión que había destruido la casa de junto y arrancado los postigos de las ventanas de la número 3.
+La otra ocasión en que la pandilla supo del señor Thomas fue más sorprendente. Blackie, Mike y un chico flaco y amarillento a quien, por alguna razón, se le llamaba por su apellido —Summers—, se lo encontraron en el baldío cuando regresaba del mercado. El señor Thomas los llamó. Malhumorado, les preguntó: “¿Son ustedes de ese grupo que juega en el estacionamiento?”.
+Mike estaba a punto de responder cuando Blackie se lo impidió. Como jefe de la pandilla, conocía sus responsabilidades: “Supongamos que sí”, dijo ambiguamente.
+—Traigo algunos chocolates —dijo entonces el señor Thomas—. A mí no me gustan. Tengan. Aunque no van a alcanzar para todos, supongo. Nunca alcanzan —agregó con sombría seguridad, a la vez que les tendía tres paquetitos de Smarties.
+Toda la pandilla se sintió sorprendida y perturbada por esa acción y trató de explicársela. “Apuesto que alguien los tiró y él los recogió”, sugirió uno.
+—Se las robó y luego no pudo aguantar el jodido miedo —pensó en voz alta otro.
+—Nos quiere sobornar —terció Summers—. Quiere que dejemos de rebotar pelotas en su pared.
+—Le demostraremos que no aceptamos sobornos —dijo Blackie, y sacrificaron la mañana entera rebotando pelotas en la pared, un juego que sólo Mike, por ser el más pequeño de todos, disfrutaba. Ni rastro del señor Thomas.
+A la mañana siguiente T. los asombró a todos. Llegó tarde a la reunión, y la votación para la hazaña del día se realizó en su ausencia. A sugerencia de Blackie, la pandilla se dispersaría en pares, tomaría autobuses al azar, a ver cuántos paseos gratis podían sacarles a conductores distraídos (la operación se llevaría a cabo en pares para evitar trampas). Estaban designando acompañantes por sorteo cuando llegó T.
+—¿Dónde andabas, T.? —preguntó Blackie—. Ya no puedes votar. Conoces las reglas.
+—Estuve allí —dijo T. Dirigió la vista al suelo, como si quisiera esconder algún pensamiento.
+—¿Dónde?
+—En la casa del Viejo Miserias —la boca de Mike se abrió, para de inmediato cerrarse con un ruidito. Recordó lo de la mosca.
+—¿La del Viejo Miserias? —repitió Blackie. No había ninguna regla que lo prohibiera, pero tenía la sensación de que T. andaba pisando terreno peligroso. Preguntó esperanzado—: ¿Forzaste las cerraduras?
+—No. Toqué la campanilla.
+—¿Y luego qué hiciste?
+—Le dije que quería ver su casa.
+—¿Y él qué hizo?
+—Me la enseñó.
+—¿Te clavaste algo?
+—No.
+—¿Para qué fuiste, entonces?
+La pandilla se había juntado alrededor: era como si un tribunal improvisado estuviera a punto de formarse para tratar un caso delictivo. T. dijo: “Es una bella casa”, y con los ojos aún fijos en el suelo, sin ver a ninguno, se pasó la lengua por los labios, primero hacia la izquierda, luego hacia la derecha.
+—¿Qué quieres decir con “una bella casa”? —preguntó Blackie con desdén.
+—Tiene una escalera de doscientos años, en forma de sacacorchos. No se sostiene en nada.
+—¿Qué quieres decir con “no se sostiene en nada”? ¿Flota?
+—Tiene que ver con el equilibrio de fuerzas, me dijo el Viejo Miserias.
+—¿Y qué más?
+—Hay entrepaños.
+—¿Como en El Jabalí Azul?
+—De doscientos años.
+—¿Tendrá el Viejo Miserias doscientos años?
+Mike rio intempestivamente pero en seguida se calló. Había una atmósfera de seriedad en la reunión. Por primera vez desde que T. había llegado al baldío aquel primer día de vacaciones, su posición estaba en peligro. Que simplemente se mencionara su nombre completo, y no se quitaría a la pandilla entera de encima.
+—¿Para qué hiciste eso? —preguntó Blackie. Estaba siendo justo, no le tenía envidia, quería conservar a T. en la pandilla si podía. Era la palabra “bella” lo que le preocupaba; pertenecía a una clase que uno aún podía ver parodiada en el Teatro Empire de Wormsley Common por un cómico que aparecía con sombrero de copa y monóculo, con un acento para doblarse de risa. Se vio tentado a decirle: “Mi querido Trevor, viejo amigo…” y soltarle la jauría—. Si te hubieras metido por la fuerza… —dijo con desconsuelo—, esa sí que hubiera sido una hazaña digna de la pandilla.
+—Esto fue mejor —dijo T.—. Averigüé cosas —continuó con la vista puesta en sus pies, sin cruzarla con los ojos de ninguno, como absorto en un sueño que no quería, o le avergonzaba, compartir.
+—¿Qué cosas?
+—El Viejo Miserias no va a estar mañana ni el Feriado de Agosto.
+Blackie preguntó, aliviado: “¿Quieres decir que podríamos metemos?”.
+—¿Y clavamos cosas? —preguntó alguien más.
+—Nadie va a clavarse nada —dijo Blackie—. Entrar es suficiente, ¿o no? No queremos líos con la justicia.
+—Yo no quiero clavarme nada —dijo T.—. Tengo una idea mejor.
+—¿Cuál es?
+T. alzó los ojos, tan grises y alterados como aquel triste día de agosto: “Tirar la casa”, respondió. “Destruirla”.
+Blackie soltó una risilla de lechuza y luego, como Mike, recobró la serenidad, intimado por la grave, implacable mirada. “Y mientras, ¿qué con la policía?”, dijo.
+—Nunca lo sabrá. Lo haremos desde dentro. Ya sé por dónde entrar. —Luego dijo con cierta intensidad—: ¿No lo ven? Seremos como gusanos en una manzana. Para cuando salgamos no quedará nada allí, ni escalera, ni entrepaños ni nada, sólo muros, y después derribaremos los muros de algún modo.
+—Iríamos a la cárcel —dijo Blackie.
+—¿Quién va a probar nada? Y además, no nos habremos llevado ni un alfiler. —Luego añadió, ya sin el menor destello de gozo—: No habrá nada que llevarnos cuando hayamos terminado.
+—Yo nunca oí que metieran a la cárcel por romper cosas —dijo Summers.
+—No tendríamos tiempo —dijo Blackie—. He visto cómo trabajan los que demuelen casas.
+—Somos doce —dijo T.—. Podemos organizarnos.
+—Ninguno de nosotros sabe cómo…
+—Yo sí sé —dijo T. Luego miró directamente a Blackie—. ¿Tienes una idea mejor?
+—Hoy —dijo Mike sin ningún tacto—, vamos a conseguirnos paseos gratis…
+—Paseos gratis —dijo T.—. Eso es para niños. No tienes que participar. Blackie, si lo que quieres…
+—La pandilla tiene que votar.
+—Que vote entonces.
+Blackie dijo con inquietud: “Se propone que mañana y el lunes destruyamos la casa del Viejo Miserias”.
+—Oigan, oigan… —dijo un chico gordo llamado Joe—. ¿Quién está a favor?
+T. dijo: “Está decidido”.
+—¿Por dónde empezamos? —preguntó Summers.
+—Que él te diga —le respondió Blackie. Era el fin de su liderazgo. Se fue al fondo del estacionamiento y se puso a patear una piedra, haciéndola rodar sin dirección fija. Solo había un viejo Morris en el lote; aparte de algunas vagonetas, pocos carros se estacionaban allí: no habiendo cuidador, no había seguridad. Blackie le largó un puntapié al Morris, raspándole algo de pintura al guardafango trasero. Más allá, no poniendo más atención en él que en un extraño, la pandilla se reunió alrededor de T. Blackie se dio cuenta vagamente de lo fácil que era caer en desgracia. Pensó en irse a casa, en nunca volver, en dejarlos descubrir la precariedad del liderazgo de T., pero supongamos, después de todo, que lo que propuso T. sea posible. Nada parecido se había hecho antes. De seguro la fama de la pandilla del estacionamiento de Wormsley Common se extendería por todo Londres. Saldrían encabezados en los periódicos. Hasta las pandillas de muchachos más grandes que manejaban las apuestas en la lucha libre, o vendían objetos desde sus carritos verían con respeto cómo había sido destruida la casa del Viejo Miserias. Impulsado por el simple, puro y altruista deseo de fama para la pandilla, Blackie regresó a donde T. se encontraba, a la sombra de uno de los muros de la casa del Viejo Miserias.
+T. daba órdenes con decisión: era como si esta idea lo hubiera acompañado toda su vida, madurando con las estaciones y cristalizando ahora, a sus quince años, con las angustias de la pubertad. “Tú”, le dijo a Mike, “consigue algunos clavos grandes —los más grandes que encuentres— y un martillo. El que pueda, mejor que traiga un martillo y un destornillador. Necesitaremos muchos. Cinceles también. Tantos como sea posible. ¿Puede alguien conseguir una sierra?”.
+—Yo puedo —dijo Mike.
+—Pero no una sierra de niños —dijo T.—. Una de verdad.
+Blackie se vio levantando la mano como cualquier otro miembro de la pandilla.
+—Bien, Blackie. Tráela tú. Pero hay un problema. Necesitamos una sierra de arco.
+—¿Qué es una sierra de arco? —preguntó alguien.
+—Las venden en Woolworth’s —indicó Summers.
+El chico gordo llamado Joe dijo con desaliento: “Ya sabía que esto iba a terminar en una colecta”.
+—Traeré la sierra yo mismo —dijo T.—. No necesito tu dinero. Pero no puedo comprar un marro.
+Blackie dijo: “Hay algunos trabajadores en el número 15. Sé dónde guardan sus triques hasta después del Feriado de Agosto”.
+—Ya está, entonces —concluyó T.—. Nos reuniremos aquí a las nueve en punto.
+—Tengo que ir a misa —dijo Mike.
+—Salta la barda y silba. Nosotros te abrimos.
+2
+El domingo por la mañana todos llegaron puntuales, excepto Blackie. Hasta Mike. Mike había tenido un golpe de suerte. Su madre no se sentía bien, su padre estaba cansado tras la desvelada del sábado, y le dijeron que fuera a misa él solo, no sin advertirle repetidamente lo que le pasaría si se iba a otra parte. Blackie tuvo dificultades para sacar la sierra a escondidas, y luego para encontrar el marro en el número 15. Llegó a la casa del Viejo Miserias por la vereda que pasaba detrás del jardín, temeroso de toparse con el policía que hacía su ronda por la calle principal. Los abatidos siempre verdes árboles de la vereda mantenían a raya un sol tormentoso: desde el Atlántico amenazaba otro Día Feriado de Agosto con lluvia, anunciado ya por las oleadas de polvo levantándose por todas partes. Blackie escaló la barda del jardín del Viejo Miserias y salió dentro.
+Ni rastro de nadie, por ningún lado. El “ret” se alzaba como una tumba en un cementerio abandonado. Las cortinas, corridas. La casa, dormida. Blackie se acercó, caminando pesadamente con la sierra y el mano. Quizá ninguno había venido, después de todo: el plan era una locura: habían recapacitado. Pero cuando se acercó más a la puerta posterior, oyó una confusión de ruidos apenas más audibles que los de un avispero agitado: un clac, clac, un pum, pum, un ruido rasposo, otro de algo cuarteándose —un súbito, doloroso crac. Pensó: era cierto. Silbó.
+Le abrieron la puerta trasera y entró. Inmediatamente tuvo la impresión de que se trabajaba con organización, algo muy diferente al “cada quien haga lo que quiera” de cuando él era jefe. Durante un rato anduvo subiendo y bajando escaleras buscando a T. Nadie le hablaba. Experimentó una sensación de urgencia: ya empezaba a ver claramente el plan. Todo en el interior estaba siendo destruido cuidadosamente, sin tocar las paredes. Summers rompía a martillo y cincel las tiras de zoclo del comedor en la planta baja: ya había despedazado los entrepaños de la puerta. Allí mismo Joc arrancaba por bloques el parquet, dejando al descubierto las duelas que techaban el sótano. Del zoclo dañado brotaban serpentinas de cables eléctricos y Mike, sentado feliz en el suelo, los cortaba en trozos.
+En la curva escalera otros dos chicos trabajaban con afán tratando de cortar el pasamanos con una inadecuada sierra de juguete. Cuando vieron que Blackie traía una sierra de arco se la pidieron con un simple ademán. La próxima vez que los vio, una cuarta parte del pasamanos yacía tirado en el vestíbulo. Por fin encontró a T. Estaba en el baño. Sentado taciturnamente en el menos cuidado cuarto de la casa, escuchaba ruido que ascendía de la planta baja.
+—De veras lo hiciste —le dijo Blackie con temor reverente—. ¿Cómo irá a terminar?
+—Apenas hemos empezado —dijo T. Luego, con una mirada al marro, dio sus instrucciones—. Tú quédate aquí y despedaza la taza y el lavabo. No te preocupes por las tuberías. Esas, después.
+Mike apareció en la puerta: “Ya acabé con los cables, T.”, dijo.
+—Muy bien. Ahora anda por ahí. La cocina está en el sótano. Quiebra toda la porcelana, las copas y las botellas que encuentres. No abras las llaves del agua: no queremos una inundación; todavía no. Luego recorre todos los cuartos de la casa y saca todos las cajones. Si están cerrados con llave, llama a alguien y que rompa las cerraduras. Rompe todos los papeles que encuentres y despedaza los adornos. Consíguete un cuchillo cebollero en la cocina, para que te ayudes. Aquí en frente está la recámara. Desbarata las almohadas y tasajea las sábanas. Eso será suficiente por el momento. Y tú, Blackie, cuando termines aquí, pulveriza en el corredor todo el yeso de las paredes con tu marro.
+—¿Y tú qué vas a hacer? —le preguntó Blackie.
+—Pensaré en algo especial —respondió T.
+Era casi hora del almuerzo cuando Blackie terminó y fue en busca de T. La destrucción iba avanzada. La cocina era un montón de porcelana y vidrios rotos. Al comedor no le quedaba una sola tira de parquet, todo el zoclo había sido arrancado, la puerta desprendida de sus bisagras, y los destructores habían pasado al piso de arriba. Rayos de luz se filtraban a través de las persianas cerradas, donde los chicos trabajaban con una seriedad de creadores. La destrucción era una forma de creación, después de todo. Alguna mente imaginativa había concebido esa casa tal como se encontraba ahora.
+Mike dijo: “Tengo que ir a casa, a comer”.
+—¿Quién más tiene que ir a comer? —preguntó entonces T., pero todos, con un pretexto u otro, habían traído su bastimento.
+Se sentaron en medio de aquella ruina de cuarto e intercambiaron los sándwiches que no querían. Media hora para el lunch, y volvieron al trabajo. Para cuando Mike regresó de comer ya estaban todos en el piso de arriba. Hacia las seis habían completado todo el daño preliminar: puertas arrancadas, zoclos despegados, muebles destrozados, rasgados y aplastados —si alguien hubiera deseado dormir allí, habría tenido que hacerlo sobre una pila de escombros—. Las instrucciones de T. fueron: a las ocho en punto de la mañana el día siguiente. Para salir inadvertidos, saltaron, uno a la vez, la barda del jardín. Solo quedaron Blackie y T. No había ya luz del día y, cuando probaron con un interruptor, ninguna luz eléctrica. Mike había hecho su trabajo concienzudamente.
+—¿Ya pensaste en algo especial? —preguntó Blackie.
+T. asintió con la cabeza. “Ven”, dijo, “Mira esto”. De ambos bolsillos se sacó montones de libras esterlinas. “Los ahorros del Viejo Miserias”, indicó. “Mike tasajeó los colchones, pero no las vio”.
+—¿Qué vas a hacer con ellas? ¿Repartirlas?
+—No somos ningunos ladrones —dijo T.—. Nadie va a robarse nada de esta casa. Las guardé para ti y para mí; para que celebremos —se arrodilló en el suelo y contó los billetes; había 70 libras en total—. Las quemaremos —dijo luego— una por una —y, por turnos, sostuvieron verticalmente un billete a la vez, le prendieron fuego por la parte de arriba y esperaron a que la llama lo consumiera lentamente hasta tocar casi sus dedos. Una nube de finas cenizas grises flotaba y caía sobre sus cabezas enrojeciéndolas—. Me gustaría ver la cara del Viejo Miserias cuando hayamos terminado —dijo T.
+—¿Lo odias mucho? —preguntó Blackie.
+—Claro que no lo odio —respondió T.—: ¿Qué chiste tendría esto si lo odiara? —La llama del último billete quemado iluminó su rostro sumido en la reflexión—. Todo esto del amor y el odio son ñoñerías, mentiras. No hay sino cosas, Blackie —y miró alrededor del cuarto apretujado con las sombras extrañas de cosas a medias, cosas aplastadas, cosas que habían sido y ya no eran—. Echemos una carrera hasta tu casa, Blackie —dijo entonces.
+3
+A la mañana siguiente comenzó la destrucción final. Dos chicos no llegaron. —Mike y otro, cuyos padres habían salido a pasear a Southend y Brighton no obstante que las primeras gotas de lluvia lenta y tibia habían empezado a caer y el eco de relámpagos río abajo a oírse como un lejano cañoneo en tiempos de guerra. “Tenemos que darnos prisa”, dijo T.
+Summers mostró inquietud. “¿No hemos hecho ya suficiente?”, preguntó. “Mis papás me dieron un chelín para jugar en las máquinas tragamonedas. Esto es como trabajar”.
+—Apenas hemos empezado —dijo T.—. Ve: nos falta todo el piso y la escalera; no hemos arrancado una sola ventana. Votaste a favor, como todos. Vamos a destruir esta casa Terminaremos cuando no quede piedra sobre piedra.
+Y la emprendieron nuevamente, arrancando las duelas del piso de la planta baja adyacente a los muros exteriores, dejando al descubierto las vigas debajo. Luego serraron las vigas y, como lo que quedaba del piso se inclinara y se hundiera, pasaron al vestíbulo. Esta vez, ya con más práctica, hicieron hundir el piso con mayor eficiencia. Hacia el final de la tarde los envolvió un extraño regocijo al mirar aquel gran agujero que era el interior de la casa. Corrían riesgos y cometían errores: cuando se acordaron de las ventanas ya era demasiado tarde. “¡Caray!”, dijo loe dejando caer una moneda de a centavo al fondo de aquel agujero lleno de escombros. Sonó y botó entre los vidrios rotos.
+—¿Cómo es que hicimos esto? —preguntó Summers asombrado.
+T., dentro del hoyo ya, apartaba escombros, haciendo espacio junto al muro exterior: —Abran todas las llaves del agua— ordenó. —Ya está lo bastante oscuro para que nadie se dé cuenta; mañana, a nadie le importará.
+El agua los rebasó escaleras abajo y empezó a inundar las habitaciones sin suelo. Fue entonces cuando oyeron el silbido de Mike desde el jardín. “Algo anda mal”, dijo Blackie. Podían escuchar el agitado resuello de Mike al abrir la puerta.
+—¿El coco? —preguntó Summers.
+—No —respondió Mike—. El Viejo Miserias. Viene para acá —puso la cabeza entre las rodillas y tuvo arcadas—. Corrí todo el tiempo —dijo con orgullo.
+—¿Pero, cómo? —dijo T.—: Me dijo… —protestó con la furia de ese niño que nunca había sido—. No es justo.
+—Andaba en Southend —dijo Mike— y estaba en el tren que venía para acá. Dijo que el clima estaba demasiado húmedo y frío —hizo una pausa y miró el agua, azorado—. Caray, les ha caído una tormenta. ¿Gotea el techo?
+—¿En cuánto tiempo estará aquí?
+—Cinco minutos. Me le escapé a mamá y vine corriendo.
+—Mejor nos largamos —dijo Summers—. De todos modas ya hemos hecho suficiente.
+—Oh, no. Nos falta. Esto, cualquiera podría hacerlo —“esto” era el cascarón de la casa, sin nada salvo los muros. Con todo, si se preservaban fachada y muros, se la podría reconstruir interiormente y dejarla incluso más bonita de lo que era. Podría volver a ser un hogar—. No —dijo T. con enojo—; tenemos que terminar. No se mueva nadie. Déjenme pensar.
+—Ya no hay tiempo —dijo un chico.
+—Tiene que haber alguna manera —dijo T.—: No hemos llegado tan lejos para…
+—Hicimos bastante —dijo Blackie.
+—No, no es bastante. A ver, que alguien vigile la entrada.
+—Ya no podemos hacer más.
+—Podría llegar por la parte de atrás.
+—Vigile alguien la entrada de atrás, también —comenzó a suplicar T.—. Denme sólo un minuto y arreglo el asunto. Juro que lo arreglo —pero su autoridad se había diluido con su ambigüedad. Era tan solo uno de la pandilla—. Por favor —agregó.
+—Por favor —lo remedó Summers y a manera de puntilla, atacó a fondo con el nombre fatal—. Anda, Trevor, vete a casa.
+T. quedó recargado contra los escombros como un boxeador aturdido contra las cuerdas. Quedó sin palabras mientras sus sueños se derrumbaban y desaparecían. Justamente entonces intervino Blackie antes de que la pandilla comenzara a reírse. “Yo vigilaré la entrada, T.”, ofreció, haciendo a Summers a un lado de un empujón. Cautelosamente entreabrió los postigos del vestíbulo. En frente se extendía el baldío mojado y gris, con la luz de los arbotantes reflejada en los charcos. “Allá viene alguien, T.”, dijo. “No, no es él. ¿Cuál es el plan, T.?”.
+—Dile a Mike que salga y se esconda a un lado del “ret”. Cuando me oiga silbar, que cuente hasta diez y empiece a gritar.
+—¿A gritar qué?
+—Oh, “auxilio”, cualquier cosa.
+—Ya lo oíste, Mike —dijo Blackie. Era el jefe otra vez. Echó un rápido vistazo entre los postigos—. Ahí viene, T.
+—Rápido, Mike. Al ret. Tú quédate aquí, Blackie, todos quédense, hasta que me oigan gritar.
+—¿Adónde vas, T.?
+—No se preocupen. Yo me encargo. Dije que lo haría ¿o no?
+El Viejo Miserias salió renqueando del baldío. Tenía lodo en los zapatos y se detuvo a desprenderlo raspando las suelas en el borde de la acera. No quería manchar su casa, que se erguía oscura entre los hoyos de bombas, salvada de la destrucción por un milagro. Aún el tragaluz en abanico de la entrada había quedado intacto. Alguien silbó por allí cerca. El Viejo Miserias miró atento en rededor. Desconfiaba de los silbidos. Un chico empezó a gritar: los gritos parecían venir de su propio jardín. Otro chico llegó corriendo del estacionamiento. “¡Señor Thomas!”, lo llamó, “¡señor Thomas!”.
+—¿Qué pasa?
+—Estoy terriblemente apenado, señorThomas. Uno de nosotros ya no aguantaba y pensamos que usted no tendría inconveniente y ahora no puede salir.
+—¿Qué estás diciendo, muchacho?
+—Que se quedó encerrado en el ret.
+—Nada se le perdió… ¿No te he visto antes?
+—
+Sí. Me mostró usted su casa.
+—Ah, sí, sí. Bueno, eso no les da el derecho de…
+—Dése prisa, señor Thomas. Se va a asfixiar allí dentro.
+—Tonterías. No puede asfixiarse. Espera a que deje mi bolsa en casa.
+—Se la llevo yo.
+—Oh, no. Yo me encargo de mis propias cosas.
+—Por aquí, señor Thomas.
+—No. No se puede llegar al jardín por allí. Hay que atravesar la casa.
+—Sí se puede, señor Thomas. Nosotros lo hemos hecho muchas veces.
+—¿Ah, sí? —entre escandalizado y fascinado siguió al chico—. ¿Cuándo? ¿Con qué derecho…?
+—¿Ve? La barda está bajita.
+—No voy a trepar bardas para entrar a mi propio jardín. Sería absurdo.
+—Así es como lo hacemos. Vea: un pie aquí, el otro acá y arriba —encaramado, el chico lo miró. Uno de sus brazos se estiró hacia abajo y cuando el señor Thomas se dio cuenta, su bolsa había sido tomada y depositada en el otro lado.
+—Devuélveme esa bolsa —ordenó el señor Thomas. En el retrete el otro chico gritaba y gritaba—. Voy a llamar a la policía.
+—Su bolsa está segura, señor Thomas. Ande. Ponga un pie allí. A su derecha. Ahora un poco más arriba, a su izquierda —el señor Thomas escaló finalmente la barda de su propio jardín—. Aquí está su bolsa, señor Thomas.
+—Haré más alta esta barda —dijo—. No quiero que entren aquí y usen mi baño.
+Se tropezó de pronto, pero el chico lo asió del codo, sosteniéndolo. “Gracias, gracias, muchacho”, murmuró automáticamente. Alguien volvió a gritar cn la oscuridad. “Ya voy, ya voy”, respondió el señor Thomas. Luego le dijo al chico que iba a su lado: “No es que me ponga irrazonable. Yo también fui niño. Pero hay mejores maneras de hacer las cosas. No tengo inconveniente en que jueguen por aquí los sábados por la mañana. A veces me gusta tener compañía. Pero hay que hacer las cosas como se debe. Que uno de ustedes me pida permiso y se lo daré. A veces diré no, si así lo decido. Pero tendrán que entrar por donde se entra. Nada de saltar bardas”.
+—Sáquelo de allí, por favor, señor Thomas.
+—No va a pasarle nada en mi baño —dijo el señor Thomas, trastabillando lentamente a través del jardín—. Estas reumas —se quejó—. Siempre me vienen en días feriados. Debo pisar con cuidado. Hay grava suelta por aquí. Dame una mano. ¿Sabes lo que decía mi horóscopo ayer? “Absténgase de hacer transacciones durante la primera mitad de la semana. Peligro de quedar en bancarrota”. Podría tener que ver con este caminito —continuó el señor Thomas—. Los de los horóscopos hablan en parábolas y en doble sentido —se detuvo frente a la puerta del retrete.
+—¿Qué es lo que está pasando allí? —preguntó. No hubo respuesta.
+—Tal vez se desmayó —le dijo el chico.
+—¿En mi baño? Nunca. A ver, tú, sal de ahí —dijo, a la vez que tiraba violentamente de la puerta. Esta se abrió tan dócilmente que el señor Thomas casi se cae de espaldas. Una mano lo sostuvo primero y luego le dio un fuerte empujón. Su cabeza golpeó la pared opuesta y el señor Thomas se deslizó hasta caer pesadamente sentado. Su bolsa le golpeó los pies. Una mano arrancó la llave de la cerradura interior y la puerta se cerró—. Déjenme salir —gritó, oyendo la llave cerrar por fuera—. Quedar en bancarrota —pensó tembloroso, confuso y sintiéndose un anciano.
+Una voz le habló suavemente a través del agujero en forma de estrella de la puerta. “No se preocupe, señor Thomas”, le dijo. “No le haremos daño, a menos que se porte mal”.
+El señor Thomas puso la cabeza entre sus manos y examinó su situación. Había notado que había sólo una vagoneta en el estacionamiento, y estaba seguro de que el chofer no vendría por ella hasta el día siguiente. Nadie podría oírlo desde la calle de enfrente y casi nadie pasaba por el callejón de atrás. Cualquiera que pasara por allí, lo haría de prisa y no se detendría ante los gritos pues, seguramente, pensaría no serían sino los de algún borracho. Y aun si gritara “¡Auxilio!”, ¿quién, en el solitario atardecer de un día feriado, se animaría a ver qué pasaba? El señor Thomas se sentó en el inodoro reconsiderando el caso con la actitud de un viejo filósofo.
+Luego de un rato le pareció escuchar ruidos en medio del silencio. Apenas se oían y parecían venir de la casa. Se puso en pie y se asomó por el agujero de ventilación. Entre las rendijas de una de las persianas alcanzó a ver una luz, no la de una lámpara, sino una parpadeante, como de vela. En seguida creyó oír golpes de martillo, cosas raspando y quebrándose. Pensó en ladrones —quizá habían empleado al chico como explorador. Pero si eran ladrones ¿por qué se aplicaban tanto a lo que parecía más bien un furtivo trabajo de carpintería? El señor Thomas dejó salir un grito a manera de experimento. No hubo respuesta. Probablemente sus enemigos ni siquiera alcanzaron a oír su voz.
+4
+Mike se había ido a casa a dormir, pero los demás se quedaron. La cuestión de quién era el jefe ya no preocupaba a la pandilla. Armados con clavos, cinceles, destornilladores y cualquier cosa punzocortante arremetían ahora contra el mortero entre los ladrillos de los muros. Trabajaban muy arriba, hasta que Blackie se dio cuenta de que, atacando las junturas justo por encima de la línea de mampostería, reducirían el trabajo a la mitad. Fue una tarea dura y nada divertida, pero al fin quedó terminada. Y allí quedó la destripada casa, apenas pegada a su base por unas cuantas pulgadas de mortero.
+Quedaba por hacer la tarea más peligrosa de todas, fuera y a la vista, junto al sitio donde habían caído las bombas. Se envió a Summers a vigilar la calle, y pronto el señor Thomas, sentado en el inodoro, empezó a oír claramente el ruido de sierras cortando madera. Ya no venía de la casa, y esto lo tranquilizó un poco. Se sintió menos preocupado. Tal vez tampoco los ruidos que había oído antes significaban nada.
+Una voz le habló a través del agujero: “señor Thomas”.
+—Déjenme salir —dijo enérgicamente.
+—Aquí tiene una manta —respondió la voz, y una gran salchicha gris metida por el hoyo le cayó desparramándosele sobre la cabeza.
+—No tenemos nada en contra suya —agregó la voz—. Queremos que pase una noche cómoda.
+—Una noche cómoda —repitió el señor Thomas incrédulo.
+—Agárrelos —dijo la voz—. Son bollos, les hemos untado mantequilla, y rollitos de salchicha. No queremos que pase hambre, señor Thomas.
+—Ya basta de bromas, muchacho —suplicó el señor Thomas desesperado—. Déjenme salir y no diré una sola palabra. Padezco de reumas. Debo dormir en una cama cálida.
+—No encontraría ninguna en su casa. No, señor Thomas. Ya no.
+—¿Qué quieres decir con eso, muchacho? —pero los pasos se alejaron. No quedó sino el silencio de la noche. Ni las sierras se oían ya. El señor Thomas probó a gritar de nuevo, pero el silencio lo intimidó y rechazó; lejos, el débil ulular de un búho que en seguida se alejó en vuelo sordo en medio del silencio universal.
+A las siete de la mañana del día siguiente vino el chofer por su camioneta. Se puso al volante y trató de poner en marcha el motor. Percibió vagamente una voz que gritaba, pero no le dio importancia. Por fin el motor respondió y él puso el carro en reversa hasta tocar el grueso borde de madera sobre el que descansaban los muros de la casa. De esa manera podía alcanzar la calle yendo hacia adelante. El carro avanzó unos metros, se detuvo momentáneamente impedido como si algo lo jalara por detrás, y avanzó de nuevo, seguido porun terrible estruendo. El hombre quedó azorado viendo volar ladrillos frente a sí y oyendo caer piedras contra el techo de su auto. Frenó de golpe. Al apearse, encontró que de pronto el paisaje se había alterado. Junto al estacionamiento no había casa ninguna, solo un montón de escombros. Al revisar la parte trasera de su carro para ver si había resultado dañado, encontró una soga atada allí, cuyo otro extremo aún se encontraba amarrado alrededor de uno de los soportes de la casa.
+Otra vez oyó el chofer los gritos de alguien. El grito provenía del cobertizo de madera, que era lo más parecido a una casa en las inmediaciones de aquel desolado montón de ladrillos. El chofer saltó la barda y abrió la puerta. El señor Thomas salió del baño, envuelto en una cobija gris pringada con migajas de pan. “Mi casa”, exclamó en medio de un sollozo, “¿dónde está mi casa?”.
+—A mí puede esculcarme —dijo el chofer. Sus ojos dieron con los restos del baño y lo que alguna vez había sido el tocador y se echó a reír. Nada quedaba en ningún sitio.
+—¿Cómo se atreve a reír? —dijo el señor Thomas—. Esa era mi casa. Mi casa.
+—Créame que lo siento —dijo el chofer, haciendo esfuerzos sobrehumanos para contenerse; pero cuando recordó el súbito tirón del carro y la subsecuente lluvia de piedras y ladrillos, no aguantó más y echó a reír otra vez. Primero estaba ahí la casa, aún erguida entre los hoyos de bomba con la dignidad de un hombre con sombrero de copa y luego, de pronto, ¡crash! Nada quedaba, absolutamente nada—. Lo siento de veras, señor Thomas. Créame que no es nada personal. Es solo que, bueno, tiene usted que admitir que no deja de ser gracioso.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

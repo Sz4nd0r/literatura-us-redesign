@@ -7,4 +7,41 @@ tags:
   - index
   - sarah
 ---
-¿Quién es Sarah Orne Jewett? ![Sarah Orne Jewett](/assets/images/sarah.jpg) Sarah Orne Jewett una narradora y poeta estadounidense. Es una de las máximas representantes de la narrativa regionalista en Estados Unidos. Nació el 3 de septiembre de 1849, en South Berwick, Maine, alrededor de pequeños puertos marítimos. Era la tercera de tres hijas de Theodore Herman Jewett, un médico rural especializado en enfermedades de mujeres y niños, y Caroline Frances Perry. En su primera infancia desarrolló artritis reumatoide, y se le recomendó hacer caminatas frecuentes; a través de las cuales desarrolló un amor por la naturaleza. Fue educada en la escuela de Miss Olive Rayne, primero, y luego en la Berwick Academy, de donde graduó en 1866. Se unió a la Iglesia Episcopal en 1871. Inicialmente, había tenido ambiciones de una carrera médica. Cuando tenía 18 años publicó su primer relato, “Jenny Garrow’s Lovers”, y a los 19 publicó su primer cuento importante en la revista Atlantic Monthly, “Mr. Bruce”. Siguió publicando cuentos en las décadas de 1870 y 1880, creando una reputación por cuidadosas y moderadas viñetas de la vida en el campo y por su realismo poético. Entre 1877 y 1879 publicó tres libros: Deephaven (1877), una colección de bocetos; Play Days (1878), una colección de cuentos infantiles; y Old Friends and New (1879), una colección de siete cuentos, tres publicados en la revista Atlantic Monthly (“A Lost Lover”, “Mr. Bruce” y “A Bit of Shore Life”), uno publicado en la revista Sunday Afternoon (“A Late Supper”) y tres cuentos inéditos (“A Sorrowful Guest”, “Miss Sydney’s Flowers) y “Lady Ferry”). Jewett, quien nunca se casaría, estableció una estrecha amistad con la escritora Annie Adams Fields (1834-1915) y su esposo, James Thomas Fields, editor del Atlantic Monthly. Después de la repentina muerte de James Fields en 1881, Jewett y Annie Fields vivieron juntas durante el resto de la vida de Jewett. Juntas viajaron cuatro veces a Europa (1882, 1892, 1898 y 1900) y en un crucero por las islas del Caribe (1896). Hay quienes especulan que los dos eran amantes. En 1884 publicó su primera novela, A Country Doctor. Dos años después publicó A White Heron and Other Stories, una colección donde se encuentran probablemente sus mejores cuentos. Fue con la publicación de la novela The Country of the Pointed Firs, en 1896, cuando Sarah Orne Jewett se consangró como una de las máximas representantes de la narrativa regionalista en Estados Unidos. Para su cumpleaños, el 3 de septiembre de 1902, resultó herida en un accidente de carruaje que prácticamente acabó con su carrera como escritora. En marzo de 1909, sufrió un derrame cerebral y quedó paralizada. El 24 de junio de 1909 sufrió otro derrame cerebral, y murió en su casa de South Berwick. Apenas tenía 59 años. ÍNDICE: Narrativa: The Mate of the Daylight, and Friends Ashore (1884): —El marido de Tom (1882) A White Heron and Other Stories (1886): —Una garza blanca (1886) Strangers and Wayfarers (1890): —Cortejo de invierno (1889) The Queen’s Twin and Other Stories (1899): —La gemela de la Reina (1899) Otros cuentos: —La Nochebuena de la señora Parkins (1891) 
+
+¿Quién es Sarah Orne Jewett? ![Sarah Orne Jewett](/assets/images/sarah.jpg) Sarah Orne Jewett una narradora y poeta estadounidense. Es una de las máximas representantes de la narrativa regionalista en Estados Unidos. Nació el 3 de septiembre de 1849, en South Berwick, Maine, alrededor de pequeños puertos marítimos. Era la tercera de tres hijas de Theodore Herman Jewett, un médico rural especializado en enfermedades de mujeres y niños, y Caroline Frances Perry. En su primera infancia desarrolló artritis reumatoide, y se le recomendó hacer caminatas frecuentes; a través de las cuales desarrolló un amor por la naturaleza.
+
+Fue educada en la escuela de Miss Olive Rayne, primero, y luego en la Berwick Academy, de donde graduó en 1866. Se unió a la Iglesia Episcopal en 1871. Inicialmente, había tenido ambiciones de una carrera médica. Cuando tenía 18 años publicó su primer relato, “Jenny Garrow’s Lovers”, y a los 19 publicó su primer cuento importante en la revista Atlantic Monthly, “Mr. Bruce”. Siguió publicando cuentos en las décadas de 1870 y 1880, creando una reputación por cuidadosas y moderadas viñetas de la vida en el campo y por su realismo poético.
+
+Entre 1877 y 1879 publicó tres libros: Deephaven (1877), una colección de bocetos; Play Days (1878), una colección de cuentos infantiles; y Old Friends and New (1879), una colección de siete cuentos, tres publicados en la revista Atlantic Monthly (“A Lost Lover”, “Mr. Bruce” y “A Bit of Shore Life”), uno publicado en la revista Sunday Afternoon (“A Late Supper”) y tres cuentos inéditos (“A Sorrowful Guest”, “Miss Sydney’s Flowers) y “Lady Ferry”). Jewett, quien nunca se casaría, estableció una estrecha amistad con la escritora Annie Adams Fields (1834-1915) y su esposo, James Thomas Fields, editor del Atlantic Monthly.
+
+Después de la repentina muerte de James Fields en 1881, Jewett y Annie Fields vivieron juntas durante el resto de la vida de Jewett. Juntas viajaron cuatro veces a Europa (1882, 1892, 1898 y 1900) y en un crucero por las islas del Caribe (1896). Hay quienes especulan que los dos eran amantes. En 1884 publicó su primera novela, A Country Doctor. Dos años después publicó A White Heron and Other Stories, una colección donde se encuentran probablemente sus mejores cuentos. Fue con la publicación de la novela The Country of the Pointed Firs, en 1896, cuando Sarah Orne Jewett se consangró como una de las máximas representantes de la narrativa regionalista en Estados Unidos.
+
+Para su cumpleaños, el 3 de septiembre de 1902, resultó herida en un accidente de carruaje que prácticamente acabó con su carrera como escritora. En marzo de 1909, sufrió un derrame cerebral y quedó paralizada. El 24 de junio de 1909 sufrió otro derrame cerebral, y murió en su casa de South Berwick. Apenas tenía 59 años.
+
+ÍndiceNarrativa
+ The Mate of the Daylight, and Friends Ashore (1884):
+—
+
+El marido de Tom (1882)
+
+A White Heron and Other Stories (1886):
+—
+
+Una garza blanca (1886)
+
+Strangers and Wayfarers (1890):
+—
+
+Cortejo de invierno (1889)
+The Queen’
+
+s Twin and Other Stories (1899):
+—
+
+La gemela de la Reina (1899)
+- Otros
+
+cuentos
+- —
+
+La Nochebuena de la señora Parkins (1891)

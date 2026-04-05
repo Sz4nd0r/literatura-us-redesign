@@ -1,0 +1,1503 @@
+---
+layout: story
+title: Las elegías de Duino
+slug: rmr_duino
+source: https://www.literatura.us/idiomas/rmr_duino.html
+tags:
+  - rmr_duino
+  - rmr
+---
+Rainer María Rilke
+(Praga,
+1875 - Suiza, 1926)
+LAS ELEGIAS DE DUINO (1922)
+Versión y notas de José Joaquín
+Blanco
+Publicado en La iguana del ojete (Invierno,
+1993)
+(Propiedad de la princesa Marie
+von
+Thurn und Taxis-Hohenlohe) [1]
+La primera elegía
+¿Quién, si yo
+gritara, me escucharía entre las órdenes
+angélicas? Y aun si de repente algún ángel [2]
+me apretara contra su corazón, me suprimiría
+su existencia más fuerte. Pues la belleza no es
+nada
+sino el principio de lo terrible, lo que somos
+apenas capaces
+de soportar, lo que sólo admiramos porque
+serenamente
+desdeña destrozarnos. Todo ángel es terrible.
+Así que me contengo, y me ahogo el clamor de la
+garganta
+tenebrosa. Ay, ¿quién de veras podría ayudarnos?
+No
+los ángeles, no los hombres, y ya saben los astutos
+animales que no nos sentimos muy seguros en casa,
+dentro del mundo interpretado. Nos queda quizás
+algún árbol en la loma, al cual mirar todos los
+días;
+nos queda la calle de ayer y la demorada lealtad
+de una costumbre, a la que le gustamos, y
+permaneció,
+y no se fue. Oh, y la noche, y la noche, cuando el
+viento
+lleno de espacio cósmico nos roe la cara:
+¿Para quién no permanecería aquélla, la
+anhelada,
+la tierna desengañadora, ahí, dolorosamente
+próxima
+al corazón solitario? ¿Es más suave con los
+amantes?
+Ay, ellos sólo se ocultan uno a otro su suerte.
+¿Todavía no lo sabes? Arroja el espacio que
+abarquen
+tus brazos hacia los espacios que respiramos; quizá
+los pájaros sientan el aire ensanchado con un vuelo
+más íntimo.
+Sí, las primaveras de veras te necesitaban. Varias
+estrellas te pedían que las rastrearas. Se alzaba
+en el pasado una ola hacia ti, o cuando pasabas
+por una ventana abierta, se te entregaba un violín.
+Todo esto era una misión, ¿pero fuiste capaz de
+cumplirla?
+¿No estabas siempre distraído por la esperanza,
+como
+si todo ello te anunciara a una amada? (¿Dónde
+intentas
+alojarla, si en ti los grandes pensamientos
+extraños
+entran y salen, y con frecuencia se quedan durante
+la noche?).
+Pero si sientes anhelos, canta pues a las amantes;
+no es,
+en absoluto, suficientemente inmortal su famoso
+sentimiento. Aquéllas que casi envidias, las
+abandonadas,
+las encuentras mucho más amantes que las saciadas.
+Empieza siempre de nuevo la alabanza siempre
+inalcanzable.
+Piensa: el héroe sigue en pie, aun el ocaso fue
+para él
+sólo un pretexto para ser: su último nacimiento.
+Pero a las amantes la exhausta naturaleza las recoge
+en su seno, como si no hubiera fuerzas para lograr
+esto
+dos veces. ¿Has pensado lo suficiente en Gaspara
+Stampa, [3]
+y lo que puede sentir cualquier chica a quien el
+amado
+abandonó, frente a tan elevado ejemplo de mujer
+amante:
+¿Llegaré a ser como ella? ¿Estos, los más
+antiguos
+dolores, no deberán, por fin, darnos fruto? ¿No es
+tiempo ya de que, al amar, nos liberemos del amado
+y,
+temblorosos, resistamos, como la flecha resiste al
+arco,
+para ser, unidos en el salto, algo más que
+la sola
+flecha? Porque el permanecer está en ninguna parte.
+Voces, voces. Corazón mío, escucha, como sólo los
+santos
+escuchaban; la enorme llamada los alzaba del suelo;
+pero ellos seguían de rodillas, de modo imposible,
+sin darse cuenta: de tal manera escuchaban.
+No
+que pudieras soportar la voz de Dios, lejos de eso,
+pero
+escucha el soplo, las noticia incesante que se forma
+del silencio. Murmura hasta ti desde aquellos que
+han
+muerto jóvenes. ¿Acaso su destino no se dirigió
+siempre
+tranquilamente a ti, en Roma y Nápoles, cuando
+entrabas
+en alguna iglesia? O una inscripción sublime se
+grababa
+para ti, como hace poco la lápida de Santa María
+Formosa? [4]
+¿Qué quieren de mí? Debo apartar en silencio
+la apariencia de injusticia que a veces estorba un
+poco
+el puro movimiento de sus espíritus.
+Realmente es extraño ya no habitar la tierra,
+ya no ejercitar las costumbres apenas aprendidas;
+a las rosas, y a otras cosas particularmente
+promisorias,
+ya no darles el significado del futuro humano; ya no
+ser
+aquél que uno fue en interminables manos
+angustiadas
+y hasta hacer a un lado el propio nombre, como un
+juguete
+roto. Extraño, ya no seguir deseando los deseos.
+Extraño,
+ver todo lo que tenía sus propias relaciones,
+aletear
+tan suelto en el espacio. Y estar muerto es
+doloroso,
+y lleno de recuperación, de modo que uno rastree
+lentamente un poco de eternidad. Pero todos los
+vivos
+cometen el mismo error de diferenciar demasiado
+tajantemente. Los ángeles (se dice) con frecuencia
+no
+sabrían si andan entre los vivos o entre los
+muertos.
+La corriente eterna arrastra siempre consigo todas
+las edades a través de las dos zonas y atruena
+sobre ambas.
+Finalmente ya no nos necesitan, los que partieron
+temprano, uno se desteta dulcemente de lo terrestre,
+como
+uno se emancipa con ternura de los senos de la
+madre.
+Pero nosotros, que necesitamos tan grandes secretos,
+nosotros que tan frecuentemente obtenemos del duelo
+progresos dichosos, ¿podríamos existir sin
+ellos?
+¿Es inútil el mito de que, en la antigüedad,
+durante
+las lamentaciones fúnebres por Linos, [5]
+una atrevida música primitiva se abrió paso en la
+árida materia
+inerte; y entonces, por primera vez, en el espacio
+sobresaltado, en el que un muchacho casi divino de
+pronto
+se perdió para siempre, el vacío produjo esa
+vibración
+que ahora nos entusiasma y nos consuela y ayuda?
+La segunda elegía
+Todo ángel es terrible. Y
+sin embargo, ay, los invoco
+a ustedes, casi mortíferos pájaros del alma, sé
+quiénes
+son ustedes. Los días de Tobías, ¿dónde
+quedaron?,
+cuando uno de los más radiantes apareció en el
+umbral
+sencillo de la casa un poco disfrazado para el
+viaje,
+ya no tremendo (muchacho para el muchacho,
+que se asomó, curioso). Si ahora avanzara el
+arcángel,
+el peligroso, desde atrás de las estrellas, un solo
+paso,
+que bajara y se acercara: el propio corazón,
+batiendo
+alto, nos mataría. ¿Quién es usted?
+Tempranos afortunados, ustedes, los mimados
+de la creación, cadena de cumbres, cordillera roja
+del amanecer de todo lo creado -polen de la
+divinidad
+floreciente, coyunturas de la luz, corredores,
+escalones, tronos, espacios del ser, escudos
+deliciosos, tumultos del sentimiento tormentosamente
+arrebatado, y de pronto, individualizados, espejos,
+ustedes, los que recogen nuevamente en sus propios
+rostros, la propia belleza que han irradiado.
+Porque nosotros, siempre que sentimos, nos
+evaporamos;
+ay, nosotros nos exhalamos a nosotros mismos,
+nos disipamos; de ascua en ascua soltamos un olor
+cada
+vez más débil. Probablemente alguien nos diga:
+Sí,
+entras en mi sangre; este cuarto, la primavera se
+llena
+de ti..., ¿de qué sirve? Él no puede retenernos,
+nos desvanecemos en él y en torno suyo.
+Y aquellos que son hermosos, oh, ¿quién los
+retiene?
+Incesantemente la apariencia llega y se va de sus
+rostros. Como rocío de la hierba matinal se esfuma
+de nosotros lo que es nuestro, como el calor
+de un plato caliente. Oh, sonrisa ¿a dónde? Oh,
+mirada a lo alto: nueva, cálida, fugitiva
+ola del corazón; sin embargo, ay, somos eso.
+¿Entonces
+el firmamento, en el que nos disolvemos, sabe
+a nosotros? ¿De veras los ángeles recapturan
+solamente
+lo suyo, lo que han irradiado, o a veces, como
+por descuido, hay algo nuestro en todo ello?
+¿Estamos
+tan entremezclados en sus facciones, como la vaga
+expresión en los rostros de las mujeres preñadas?
+Ellos no lo advierten en el torbellino de su regreso
+a sí mismos. (¿Cómo habrían de advertirlo?).
+Los amantes podrían, si lo comprendieran,
+hablar extrañamente en el aire nocturno. Pues
+parece
+que todo nos oculta. Mira, los árboles son;
+las casas
+que habitamos permanecen todavía. Sólo nosotros
+pasamos
+de largo sobre todas las cosas como un cambio
+de vientos. Y todo se une para acallarnos, mitad
+por vergüenza quizás, y mitad por esperanza
+indecible.
+Amantes, a ustedes, satisfechos el uno en el otro,
+les pregunto por nosotros. Ustedes, los que se
+aferran
+a sí mismos. ¿Tienen pruebas? Miren, me ha
+ocurrido que
+mis manos se reconozcan entre sí, o que mi rostro
+ajado
+se refugie en ellas. Eso me da cierta sensación.
+¿Pero
+quién, sólo por eso, se atrevió a creer que de
+veras
+es? Sin embargo ustedes, los que crecen el uno
+en el arrobo del otro, hasta que él suplica,
+abrumado:
+“Basta”; ustedes, los que crecen, bajo sus
+recíprocas
+manos, más exuberantes, como años de grandes uvas;
+los que mueren a veces, sólo porque el otro se ha
+expandido demasiado; a ustedes les pregunto por
+nosotros.
+Sé que se tocan tan dichosamente porque la caricia
+retiene, porque no desaparece el sitio que ustedes,
+los tiernos, ocupan; porque, debajo de todo ello,
+ustedes
+sienten la duración pura. Ustedes, de sus abrazos,
+por ello, casi se prometen eternidad. Sin embargo,
+cuando
+ya se han sostenido el sobresalto de la primera
+mirada,
+y ya ocurrieron las ansias junto a la ventana
+y del primer paseo juntos, una vez, por el
+jardín:
+Ustedes, amantes, ¿siguen todavía entonces siendo
+los mismos? Cuando el uno alza al otro hasta su boca
+y se unen —bebida con bebida—: ¡oh, de qué
+manera
+tan extraña el bebedor entonces se escapa de su
+función!
+¿No se asombraron ustedes, en las estelas áticas,
+[6]
+de la prudencia de los gestos humanos? El amor
+y la despedida, ¿no fueron puestos demasiado
+ligeramente sobre los hombros, como si se tratara
+de seres hechos de otra materia que nosotros?
+Recuerden las manos, cómo se posan sin presión,
+aunque
+hay vigor en los torsos. Estos dueños de sí mismos
+lo sabían: Hasta aquí, nosotros; esto es lo
+nuestro,
+tocarnos así; que los dioses nos aprieten
+con mayor fuerza. Pero eso es cosa de los dioses.
+Si nosotros encontráramos también una pura,
+contenida,
+estrecha, humana franja de huerto, nuestra, entre
+río y roca. Pues nuestro propio corazón nos excede
+tanto como a aquéllos. Y ya no podemos mirarlo
+a través de imágenes que lo sosieguen, ni a
+través
+de cuerpos divinos, en los que se contenga más.
+La tercera elegía
+Una cosa es cantar a la
+amada. Otra, ay, ese oculto,
+culpable, río dios de la sangre. Aquél a quien
+ella
+lejanamente conoce, su muchacho, ¿qué sabe él,
+realmente, del señor del placer, quien con
+frecuencia,
+desde su soledad, antes de que la muchacha lo
+sosegara,
+incluso como si ella no existiera, oh, chorreando
+de qué incognoscible, levantaba su cabeza de dios,
+convocando a la noche a la revuelta interminable?
+Oh, Neptuno de la sangre; oh, su terrible tridente.
+Oh, el oscuro viento de su pecho desde la retorcida
+caracola. Escucha cómo la noche se ahonda y ahueca.
+Ustedes, estrellas, ¿acaso no viene de ustedes, el
+placer
+del amante en el rostro de su amada? ¿No recibió
+el amante su íntima visión del puro rostro de la
+amada,
+del astro puro?
+NI tú, ay, ni su madre, al muchacho,
+le tendieron tan expectante arco de las cejas.
+No fue junto ti, muchacha que sientes al muchacho,
+no
+fue junto ti, que sus labios se curvaron
+en la expresión más fértil. ¿De veras crees que
+tu leve
+aparición lo sacudió, tú, la que camina como
+brisa
+matinal? Le aterraste el corazón, sí, pero
+terrores
+más antiguos se arrojaron sobre él durante el
+choque
+en que ustedes se unieron. Llámalo... tu llamado
+no lo separará del todo del compañero oscuro.
+Cierto,
+él quiere, se escapa; aliviado, se acostumbra
+a tu corazón secreto, se toma a sí mismo y
+empieza.
+¿Pero empezó él alguna vez? Madre, tú lo hiciste
+pequeño, tu fuiste quien lo empezó; para ti fue
+nuevo,
+tú doblaste sobre los ojos nuevos el mundo amistoso
+y rechazaste el extraño. ¿Dónde, ay, quedaron los
+años
+cuando tú apartabas de él, con sólo tu delgada
+figura,
+al bullente caos? Así le escondiste muchas cosas;
+el cuarto, sospechoso en las noches, se lo hiciste
+inofensivo; con tu corazón lleno de refugio
+mezclaste
+a su espacio nocturno un espacio más humano.
+No en la oscuridad, no, sino dentro de tu ser
+más cercano, pusiste la lámpara, que brillaba
+como surgida de la amistad. En ningún lugar
+ni un crujido que no explicaras sonriendo,
+como si desde mucho tiempo atrás supieras, cuándo
+las duelas se comportan así...Y él te escuchó
+y se sosegó. De tanto era capaz, tiernamente,
+cuando se alzaba, tu presencia; detrás del armario
+se levantó, en abrigo, su destino, y su intranquilo
+futuro fue semejante a los pliegues de la cortina,
+que se remueven con facilidad.
+Y El, el que ha recibido alivio, acostado, bajo
+párpados adormecidos disolviendo tu ligera dulce
+figura, mientras saborea su antesueño, parecía
+protegido... Pero, dentro: ¿quién defendía,
+quién dentro de él impedía las altas mareas del
+origen?
+Ay, ninguna medida de precaución había ahí,
+en el durmiente; durmiendo, pero soñando, pero
+enfebrecido: ¡cómo se aventuraba! El, el nuevo,
+el medroso, cómo se atascó entre las proliferantes
+lianas del acontecimiento interior, enmarañado
+hasta
+ser algo exótico, una maleza estrangulante,
+bestiales
+formas que se daban caza. Cómo se entregaba. Amaba.
+Amaba su interior, su selva interna, este bosque
+originario en él, sobre cuyo mudo ser de derrumbes,
+[7]
+de un verde luminoso, su corazón se levantaba.
+Amaba.
+Lo abandonó, siguió adelante por las propias
+raíces
+hacia el poderoso origen, donde su pequeño
+nacimiento
+ya había sobrevivido. Amando, descendió a la
+sangre
+más vieja, a los barrancos donde yace lo terrible,
+todavía ahíto de los padres. Y todos los terrores
+lo conocieron, le guiñaron, como si estuvieran
+de acuerdo. Sí, lo horrible sonrió... Rara vez
+has sonreído con tal ternura, madre. Cómo él no
+iba
+a amar lo que le sonreía. Antes que a ti lo amó a
+él,
+pues cuando lo concebías, ya estaba disuelto en el
+agua,
+que aligera el germen.
+Mira, nosotros no amamos, como las flores, gestados
+durante un solo año; nos sube, cuando amamos,
+por los brazos, una savia inmemorial. Oh, muchacha,
+esto: que nosotros no amamos dentro en nuestro
+adentro,
+lo único, ni lo venidero, sino a la fermentación
+innumerable; no al niño individual, sino a los
+padres,
+que como los escombros de la montaña fundamentan
+nuestro suelo; sino como el seco lecho del río
+de madres antiguas; sino todo el paisaje silencioso
+bajo el destino nublado o claro: esto llegó antes
+que tú, muchacha. Y tú misma, ¿qué sabes?; tú
+conjuraste lo primigenio en el amante. Qué
+sentimientos
+bulleron, emergiendo de los seres desaparecidos.
+Cuántas mujeres te odiaron en él. ¿Qué hombres
+tenebrosos excitaste en las venas del muchacho?
+Niños muertos trataron de ir hacia ti... Oh, suave,
+suavemente, muéstrale una jornada diaria, amorosa
+y segura; llévalo al jardín, dale el contrapeso
+de las noches,
+conténlo...
+La cuarta elegía
+Oh árboles de vida,
+¿cuándo el invierno?
+Nosotros no vamos al unísono. No somos sensatos
+como las aves migratorias. Retrasados y tardíos,
+nos imponemos repentina, forzadamente a los vientos,
+y nos derrumbamos sobre un estanque indiferente.
+Sabemos al mismo tiempo florecer y marchitarnos.
+Y por algún lado andan todavía los leones y no
+saben,
+mientras siguen siendo majestuosos, de impotencia
+alguna.
+Pero nosotros, cuando queremos una cosa, siempre,
+ya estamos acariciando la otra. La hostilidad
+es en nosotros lo primero. ¿Acaso los amantes
+no están siempre poniéndose límites, uno a el
+otro,
+ellos, que se prometían espacios, presa, hogar?
+Ahí, para un dibujo instantáneo, se elabora
+penosamente un fondo de contradicciones, de modo
+que lo veamos; pues somos demasiado claros,
+no conocemos por dentro el contorno del sentimiento,
+sino
+solamente lo que se forma por fuera. ¿Quién no se
+sentó
+inquieto frente al telón de su corazón? El telón
+se levantó: el escenario era de despedida. Fácil
+de entender. El jardín conocido, y oscilaba un
+poco:
+entonces apareció primero el bailarín. No éste.
+Basta.
+Y aunque sea ligero al actuar, está disfrazado
+y se convierte en un burgués, que cruza por su
+cocina,
+entra a casa. No quiero estas máscaras a medio
+llenar,
+prefiero la marioneta. Está llena. Quiero soportar
+sobre mí su cáscara, el alambre, su rostro
+meramente
+exterior. Aquí. Ya estoy adelante. Incluso si
+apagan
+las luces, si me dicen: "Ya se acabó";
+incluso si
+del escenario llega el vacío con la gris ráfaga de
+aire;
+incluso si ninguno de mis silenciosos ancestros
+continúa
+sentado junto a mí, ninguna mujer, ni siquiera
+el muchacho de los ojos bizcos, cafés8:
+me quedo,
+a pesar de todo. Siempre hay algo qué ver.
+¿No tengo razón? Tú, a quien en mí la vida
+supo tan amarga, cuando probaste la mía, padre,
+la primera infusión turbia de mi deber;
+conforme yo crecí seguiste probándola, y todavía
+ocupado en el regusto de un futuro tan extraño,
+examinabas mi mirada empañada; tú, padre mío,
+desde
+que estás muerto, dentro de mí, en mi esperanza,
+con frecuencia tienes miedo, y me envías serenidad,
+como la tienen los muertos, reinos de serenidad,
+para mi pizca de destino, ¿no tengo razón? Y
+ustedes,
+¿no tengo razón?, ustedes, las que me amaron
+por el pequeño comienzo de amor hacia ustedes,
+del que siempre me aparté, porque, para mí, el
+espacio
+dentro de vuestros rostros, aunque lo amara,
+se transformaba en un espacio cósmico
+donde ustedes ya no estaban... ¿No tengo razón
+en esperar, cuando me siento con ganas de esperar,
+frente al teatro de títeres? ¿No la tengo, en
+mirarlo
+tan intensamente, de modo que, para contrapesar
+mi espectáculo, finalmente haya de venir un ángel,
+a manera de actor, que ponga en pie los muñecos?
+Angel y marioneta: por fin hay espectáculo.
+Entonces
+se une lo que nosotros siempre desgarramos con solo
+estar aquí. Sólo entonces surge de nuestros
+propios
+cambios de estación el círculo de todo el cambio.
+Encima de nosotros y más allá entonces actúa el
+ángel.
+Mira, los moribundos, ¿no han de sospechar acaso
+cómo
+todo lo que aquí realizamos es, completamente,
+un pretexto? Ninguna cosa es ella misma. Ah, horas
+de infancia, cuando detrás de las figuras había
+algo más
+que el mero pasado, y delante de nosotros, ningún
+futuro.
+Cierto, crecíamos, y a veces nos empeñábamos en
+hacernos
+mayores demasiado rápido, en parte por amor a
+aquéllos,
+que ya no tenían otra cosa que el ser mayores.
+Y sin embargo, cuando estábamos en nuestra soledad
+nos divertíamos con la permanencia y perdurábamos
+ahí,
+en la brecha entre el mundo y el juguete, en un
+lugar
+que desde el principio se había establecido para
+un acontecimiento puro.
+¿Quién mostrará un niño, tal como existe?
+¿Quién
+lo colocará en la constelación y le dará en la
+mano
+la medida de la distancia? ¿Quién hará la muerte
+niña
+con pan gris, que se endurece? ¿O se la dejará
+ahí,
+en la boca redonda, como en el corazón de una
+hermosa
+manzana?... Los asesinos son fáciles de entender.
+Pero
+esto: la muerte, la muerte total, aun antes de
+contener
+la vida tan dulcemente, y no ser malo, es
+indescriptible.
+La quinta elegía
+Dedicada a Frau Hertha Koening
+[9]
+¿Pero quiénes son ellos,
+dime, los ambulantes, los que
+son un poco más fugaces aún que nosotros mismos,
+los urgentemente retorcidos, desde pequeños, por
+qué
+—¿por amor de quién?— voluntad nunca
+satisfecha?
+Pero ella los retuerce, los dobla, los entrelaza,
+los
+hace girar, los arroja y los vuelve a atrapar;
+como provenientes de un aire aceitado y más terso,
+bajan a la alfombra desgastada, luida por su salto
+perpetuo, a esta alfombra perdida en el universo.
+Colocada como un parche, como si ahí el cielo
+de los suburbios hubiese herido la tierra.
+Y apenas ahí,
+derecha, presente y revelada: la gran inicial
+del Estar-Ahí [10]..., pues incluso a los hombres
+más fuertes los aplasta nuevamente, por broma, la
+mano
+crispada siempre próxima, como a un plato de
+estaño
+Augusto el Fuerte en la mesa. [11]
+Ay, y alrededor de este
+centro, la rosa del espectáculo: [12]
+florece y se deshoja. Alrededor de este pisón,
+este pistilo, reencontrado por su propio polvo
+florido,
+para volver a fecundar el fruto aparente del tedio,
+su tedio nunca consciente —reluciendo con la más
+delgada superficie de ligera, aparente sonrisa.
+Ahí, el marchito, arrugado levantador de pesos,
+[13]
+el viejo, el que ya nada más toca el tambor,
+contraído dentro de su piel poderosa, como si antes
+hubiera contenido dos hombres, y ya uno
+yaciera ahora en el panteón, y él sobreviviera al
+otro,
+sordo y a veces un poco
+confundido en la piel viuda.
+Pero el joven, el hombre, como si fuera el hijo
+de un pescuezo y de una monja: tirante, relleno,
+tenso
+de músculos y de simpleza.
+Oh, ustedes,
+a los que en otro tiempo, una pena, que era pequeña
+todavía, los recibió, como juguete, en una
+de sus largas convalecencias...
+Tú, que caes con el golpe
+que sólo las frutas conocen, verde todavía,
+diariamente cientos de veces del árbol del
+movimiento
+construido en común [14] que, más rápido que el
+agua,
+en escasos minutos tiene primavera, verano y
+otoño),
+cae y golpea sobre la tumba;
+algunas veces, a media pausa, quiere asomar en ti
+un amable rostro para tu madre, rara vez tierna,
+pero se pierde sobre tu cuerpo, que lo consume
+en su superficie, el tímido gesto apenas
+intentado...
+Y nuevamente el hombre da una palmada anunciando
+el salto a tierra, y antes de que, en las cercanías
+del corazón siempre encarrerado, se distinga en ti
+claramente un dolor, le llega el ardor
+de las plantas de los pies a él, su salto
+originario:
+primero en ti, en los ojos, con un par de lágrimas
+fugitivas, físicas. Y sin embargo, a ciegas,
+la sonrisa...
+¡Angel! Oh, tómala, arráncala, la hierba
+curativa,
+florida y pequeña. Haz una vasija, ¡guárdala!
+Colócala
+entre esos goces que todavía no están abiertos
+para nosotros; en una urna hermosa alábala
+con una inscripción elocuente y florida:
+“Subrisio Saltat” [15]
+Entonces tú, preciosa,
+tú, de los goces más excitantes
+muda omisión. Quizás son
+tus rizos dichosos para ti;
+o sobre los jóvenes
+pechos tensos, la seda verde, metálica,
+se sienta interminablemente mimada y no le falta
+nada.
+Tú,
+colocada una y otra vez de modo diferente, sobre
+todos los oscilantes platillos de la balanza,
+fruta de la serenidad, llevada al mercado,
+públicamente, entre los hombros.
+¿Dónde, oh dónde está el lugar —lo llevo
+en el corazón— donde ellos, ni de lejos, podían
+desprenderse unos de otros, como encabalgándose,
+no exactamente como animales apareados; donde los
+pesos
+de la balanza todavía tienen gravidez, donde
+todavía,
+de sus varas inútilmente oscilantes, los platillos
+se tambalean...
+Y de pronto, en este penoso ningún lado, de pronto,
+el inefable sitio donde el puro demasiado-poco
+incomprensiblemente se transforma, trocándose
+en ese vacío demasiado-mucho.
+Donde la cifra de muchos números
+se queda sin ninguno.
+Plazas, oh plaza en París, teatro interminable,
+donde la modista, Madame Lamort,
+enlaza, teje los incansables caminos del mundo,
+cintas
+infinitas, y encuentra nuevas formas de enlazarlas:
+volantes, flores, escarapelas, frutas artificiales,
+todas falsamente coloreadas, para los baratos
+sombreros de invierno del destino.
+* * * *
+Angel: si hubiera una plaza que no conociéramos, y
+ahí,
+sobre una alfombra inefable, los amantes mostraran
+aquéllas, las que aquí nunca lograron hacer
+posibles:
+las audaces, altas figuras de los impulsos del
+corazón:
+sus torres de placer, levantadas desde hace mucho,
+donde nunca hubo suelo, solamente escalones
+que se apoyan uno en otro, temblorosos —si
+pudieran
+hacerlo, ante los espectadores en corro, entonces,
+¿los innumerables muertos silenciosos, arrojarían
+sus últimas, siempre ahorradas, siempre secretas,
+desconocidas para nosotros, eternas monedas vigentes
+de la felicidad, ante la pareja, por fin
+verdaderamente
+sonriente, sobre la apaciguada
+alfombra?
+La sexta elegía
+Higuera: desde hace cuánto
+tiene sentido para mí
+cómo omites las flores casi por completo,
+y dentro del fruto tempranamente resuelto,
+sin pompa alguna, encajas tu secreto puro.
+Como el tubo de la fuente, tu curva rama impulsa
+la savia hacia arriba y hacia abajo: y brota del
+sueño,
+casi sin despertarse, a la dicha de su más dulce
+resultado. Mira: como el dios en el cisne.
+... Pero nosotros nos demoramos
+ay, celebrándonos en el florecer, y ya delatados,
+entramos en el meollo retrasado de nuestro fruto
+perecedero. En algunos el impulso de la acción
+afluye
+con tal fuerza, que ya se aprestan y arden
+en la abundancia del corazón, cuando la seducción
+de florecer, como suave viento nocturno, les roza
+la juventud de la boca, los párpados:
+son quizás los héroes y los destinados pronto para
+el otro lado, aquéllos a quienes la muerte
+jardinera
+les tuerce las venas de manera diferente.
+Estos se arrojan hacia adelante: a su propia sonrisa
+preceden, como el grupo de caballos en la imagen
+suavemente moldeada en Karnak del rey victorioso.
+Pues extrañamente cercano es el héroe a los
+jóvenes
+muertos. La duración no lo estrecha. Su camino
+ascendente es la existencia. Continuamente se
+remonta
+y entra en la cambiada constelación de su constante
+peligro. Ahí lo encontrarían unos cuantos. Pero
+el destino, que nos oculta tenebrosamente,
+súbitamente
+exaltado, lo canta, introduciéndolo en la tormenta
+de su mundo rugiente. A nadie escucho como a él.
+De un golpe me traspasa, con el aire en ráfagas, su
+tonada sombría.
+Entonces, con qué gusto me escondería de la
+nostalgia:
+Oh, si yo fuera, si fuera un muchacho, y pudiera
+todavía llegar a serlo, y sentarme, apoyado
+en brazos futuros, leyendo sobre Sansón,
+cómo su madre parió primero nada, y luego todo.
+¿No era ya héroe en ti, oh madre, no empezó
+ya ahí, en ti, su elección soberana?
+Miles fermentaban en el vientre y querían ser él,
+pero mira: él cogió y escogió, eligió y pudo.
+Y si derribó las columnas, ello ocurrió cuando
+irrumpió
+fuera del mundo de tu cuerpo, en el mundo más
+estrecho,
+donde siguió eligiendo y pudiendo. ¡Oh madres
+de héroes! ¡Oh veneros de torrentes impetuosos!
+Vuestros barrancos, en los que, desde lo alto del
+borde
+del corazón, lamentándose, ya las muchachas
+precipitadas, víctimas futuras para el hijo.
+Pues cuando el héroe llegó atronando, a través
+de las estaciones del amor, todo corazón que por
+él
+latía lo alzó y lo alejó más de sí: ya
+apartado,
+él permanecía de pie al final de las sonrisas,
+vuelto
+otro.
+La séptima elegía
+Ya no cortejar, no hacer la
+corte; voz emancipada
+sea la naturaleza de tu grito; aunque gritaste
+con la pureza del ave, cuando la nueva estación lo
+alza,
+casi olvidando que es un inquieto animal y no
+solamente
+un corazón único lo que ella lanza a las alturas,
+a los cielos íntimos. Como él, así, nada menos,
+seguramente también cortejarías una amiga,
+todavía invisible, la silenciosa, que supiera de
+ti;
+en la que lentamente una respuesta despierta,
+se calienta al ser escuchada: para tu osado
+sentimiento, la que siente, encendida.
+Oh y la primavera comprendería, no hay lugar donde
+no se oyera la tonada de la anunciación. Primero
+esa pequeña algarabía interrogativa,
+a la que con creciente calma rodea, desde la
+lejanía,
+con su silencio, un día afirmativo, puro.
+Luego los escalones ascendentes, escalones sonoros,
+hacia el soñado templo del futuro; luego el gorjeo,
+el surtidor, que en su chorro impetuoso ya anticipa
+la caída en juego promisorio... Y delante, el
+verano.
+No solamente todas las mañanas del verano, no
+solamente
+cómo ellas se transforman en día e irradian
+comienzo. No solamente los días que son suaves,
+alrededor
+de flores, y arriba, de árboles bien conformados,
+fuertes y poderosos. No sólo el fervor de estas
+fuerzas
+desplegadas, no sólo los caminos, no sólo los
+prados
+en la tarde, no sólo, después de la tormenta
+tardía,
+la claridad respirada. No sólo el sueño próximo y
+un
+presentimiento, al atardecer... ¡Sino las noches!,
+sino las noches altas, las noches de verano.
+Sino las estrellas, las estrellas de la tierra.
+¡Oh, ya estar muerto, y conocerlas
+interminablemente,
+todas las estrellas: pues cómo, cómo, cómo
+olvidarlas!
+Mira, he llamado a la amante. Pero no vendría sólo
+ella... De tumbas endebles saldrían
+muchachas
+y estarían aquí... ¿Pues cómo restringiría,
+cómo, la llamada de mi llamado? Los hundidos
+siempre
+buscan aún la tierra. Ustedes, niños: una cosa
+aquí aprendida de una buena vez valdría por
+muchas.
+No crean ustedes que el destino es más de lo que
+cupo
+en la infancia; con qué frecuencia ustedes
+rebasarían
+al amado, jadeando, jadeando por la carrera bendita,
+en pos de nada, en campo abierto. Estar aquí
+es magnífico. Ustedes lo sabían, chicas, también
+ustedes, las al parecer incapaces de hundirse,
+ustedes,
+en las callejuelas más odiosas de las ciudades,
+supurantes, o abiertas a la inmundicia. Pues para
+cada
+una de ustedes hubo una hora, quizás ni una hora
+completa, apenas medible en medidas de tiempo, entre
+dos momentos, donde tuvieran realmente existencia.
+Toda. Las venas llenas de existencia.
+Sólo que olvidamos tan fácilmente lo que el
+vecino,
+riendo, ni nos confirma ni nos envidia. Visiblemente
+queremos alzarlo, mientras que la dicha más
+visible,
+en realidad, sólo se nos da a conocer cuando
+la transformamos interiormente.
+En ningún lugar, amada, existirá el mundo sino
+adentro.
+Nuestra vida avanza transformando. Y decrece cada
+vez
+más lo de afuera, hasta la insignificancia. Donde
+hubo
+una casa permanente, se nos propone ahora, de
+través,
+una figura mental, completamente perteneciente
+a la imaginación, como si estuviera del todo aún
+en el cerebro. Amplios graneros de fuerza se crea
+el espíritu del tiempo, amorfos como el tenso
+impulso
+que obtiene de todo. Ya no conoce templos. Este
+derroche
+del corazón lo ahorramos en secreto. Sí, donde
+sobrevive
+todavía una cosa, una sola cosa a la que en otro
+tiempo
+se rezaba, se veneraba, o frente a la cual
+arrodillarse,
+ya se remonta, tal como es, a lo invisible. Muchos
+ya no la advierten; carecen de la ventaja de
+construirla
+ahora, internamente, con columnas y estatuas,
+¡más grande!
+Cada sorda vuelta del mundo tiene tales
+desheredados,
+a quienes no pertenece ni lo anterior ni, todavía,
+lo venidero. Pues aun lo venidero más cercano está
+lejos
+de los hombres. Y esto no debe desconcertarnos, sino
+fortalecernos en la conservación de la forma aun
+reconocida. Esto estuvo en pie alguna vez
+entre
+los hombres, estuvo en mitad del destino; estuvo
+en el aniquilador desconocido, en mitad del hacia
+dónde,
+como si existiera; y dobló hacia sí las estrellas
+de los cielos garantizados. Angel, a ti
+también
+te lo muestro, ¡ahí! Que en tu mirada se
+ponga en pie,
+finalmente salvado, ahora finalmente erguido.
+Columnas,
+pilonos, [16] la esfinge, la ambiciosa resistencia
+gris,
+en la ciudad que se desvanece, o en la extranjera,
+de la catedral.
+¿No fue esto un milagro? ¡Maravíllate, oh Angel,
+pues eso
+somos nosotros, nosotros! ¡Oh tú, el
+grande, cuéntalo!:
+que nosotros fuimos capaces de algo así, mi aliento
+no alcanza para celebrarlo. De modo que, a pesar de
+todo,
+no hemos desperdiciado los espacios, estos generosos
+espacios nuestros. (Qué terriblemente
+grandes deben ser,
+para que en milenios nuestro sentimiento no los
+colmara.)
+Pero una torre fue grande, ¿no es cierto? Oh
+ángel,
+lo fue. ¿Fue grande, aun junto a ti? Chartres fue
+grande, y la música llegó más lejos aun y nos
+sobrepasó.
+Sin embargo, incluso solamente una amante, oh, sola
+en la ventana nocturna... ¿te llegaba siquiera
+a la rodilla? No creas que estoy cortejando,
+ángel,
+¡y aun si te cortejara! No vienes. De modo que mi
+llamada es siempre totalmente de ida; contra
+corriente
+tan vigorosa no puedes andar. Como un brazo
+extendido
+es mi llamada. Y su mano, abierta hacia arriba
+para alcanzar, permanece ante ti, abierta,
+como defensa y como advertencia,
+inasible, lejos allá arriba.
+La octava elegía
+Dedicada a Rudolf Kassner
+Con todos los ojos ve la
+criatura
+lo abierto. Pero nuestros ojos están
+como al revés, y completamente en torno suyo,
+la cercan como trampas, alrededor de su libre
+salida.
+Sólo sabemos lo que hay afuera por la cara
+del animal,
+pues ya desde el principio volteamos al niño
+y lo forzamos a que vea de espaldas la creación,
+no lo abierto, que en la mirada animal es tan
+profundo.
+Libre de la muerte. Sólo nosotros la vemos;
+el libre animal tiene su final siempre detrás
+y delante de sí a Dios, y cuando anda, anda
+en la eternidad, como andan las fuentes.
+Nunca tenemos, ni siquiera un solo día, el espacio
+puro
+delante de nosotros, donde las flores se abren
+interminablemente. Siempre está el mundo,
+y nunca ninguna parte sin no: la pura, la no
+vigilada,
+la que uno respira e interminablemente conoce
+y no
+anhela. De niño se pierde uno tranquilamente en
+ella
+y nos despiertan a sacudidas. O alguien muere y
+ya.
+Porque cerca de la muerte uno ya no ve a la muerte,
+y mira fijamente hacia afuera, quizás con gran
+mirada
+animal. Los amantes —si no estuviera el otro,
+que obstruye la vista— se acercan y se asombran...
+Como por equivocación, está abierto para ellos
+detrás
+del otro... Pero ninguno avanza y el mundo se queda
+de nuevo para él. Siempre vueltos hacia la
+creación,
+vemos solamente sobre ella el reflejo de lo libre,
+oscurecido por nosotros. O que un animal, mudo, alza
+los ojos tranquilamente y ve a través y a través
+de nosotros.
+Esto se llama destino. Estar en frente y nada más
+que eso,
+y siempre en frente.
+Si existiera una conciencia como la nuestra en el
+seguro
+animal que viene hacia nosotros en otra dirección,
+nos volcaría con su paso. Pero su ser es para él
+infinito, inasible, no tiene vista hacia su
+condición; es
+puro, tal como su mirada abierta hacia delante. Y
+donde
+nosotros vemos el futuro, ahí él ve el todo, y a
+sí mismo
+en el todo, y salvado para siempre.
+Y sin embargo hay en el vigilante, cálido animal
+el peso y la inquietud de una gran melancolía.
+Pues él también siempre lleva consigo lo que a
+nosotros
+con frecuencia nos abruma, el recuerdo,
+como si el sitio hacia donde corremos como
+impelidos,
+alguna vez hubiera estado más cerca, hubiese sido
+más
+leal, su contacto infinitamente tierno. Aquí todo
+es distancia, allá todo era aliento. Después
+de su primer hogar el segundo es para él híbrido
+y mudable. Oh, santidad de la criatura pequeña,
+que permanece siempre en el vientre que la
+parió.
+Oh, suerte del mosquito, que aun adentro
+retoza,
+incluso en sus bodas: pues el vientre es todo.
+Y mira, la media seguridad del pájaro que, desde
+su origen, casi conoce ambas cosas, como si fuera un
+alma
+de los etruscos, [17] salida de un muerto, a quien
+un espacio acogió, pero con la figura yacente como
+tapa.
+Y qué perplejo está quien debe volar, y proviene
+de un vientre. Como espantado de sí mismo,
+zigzaguea
+en el aire, como cuando una grieta se abre en una
+taza.
+Así cruza el rastro del murciélago la porcelana
+del anochecer.
+Y nosotros: siempre espectadores, en todas partes,
+¡vueltos hacia el todo, nunca hacia afuera! El todo
+nos colma. Lo ordenamos. Se desintegra. Lo volvemos
+a ordenar y nos desintegramos nosotros mismos.
+¿Quién nos ha volteado así, que hagamos lo que
+hagamos,
+mantenemos la actitud de alguien que se va? Como
+quien,
+desde la última colina, que le muestra una vez más
+todo
+su valle, voltea, se detiene, permanece un momento,
+así vivimos nosotros, y siempre nos estamos
+despidiendo.
+La novena elegía
+¿Por qué, si es posible
+llevar el plazo de la existencia
+como un laurel, [18] un poco más verde que todo
+lo otro verde, con pequeñas ondulaciones en la
+orilla
+de cada hoja (como una sonrisa del viento): por
+qué,
+entonces, tener que ser humanos -y, evitando el
+destino, anhelar destino?...
+Oh, no porque haya felicidad,
+esa prematura ganancia de una pérdida cercana...
+No por curiosidad, ni como ejercicio del corazón,
+que también pudiera estar en el laurel...
+Sino porque es mucho estar aquí, y porque al
+parecer nos
+necesita todo lo de aquí, lo fugaz, de manera
+extraña
+nos concierne. A nosotros, los más fugaces. Todo una
+vez, sólo una. Una vez y nada más. Y
+nosotros también
+una vez. Nunca otra. Pero este
+haber sido una vez, aunque sea una sola:
+haber sido terrenal, no parece revocable.
+Y así nos urgimos y queremos llevarlo a cabo,
+queremos contenerlo en nuestras simples manos,
+en nuestra mirada cada vez más colmada y en el
+corazón
+atónito. Queremos llegar a serlo. ¿Dárselo a
+quién? Mejor
+consérvalo todo para siempre... Ah, por el otro
+lado,
+ay, ¿qué se lleva uno más allá? No la mirada, la
+aquí
+lentamente aprendida, ni nada de lo que ocurrió
+aquí.
+Ninguna cosa. Entonces, los dolores. Entonces sobre
+todo
+la pesadumbre, entonces la larga experiencia del
+amor;
+entonces lo puramente indecible. Pero luego, bajo
+las estrellas, ¿qué ha de ser de eso? Ellas
+son mejores
+inefables. Pues bajando por la falda de la montaña,
+el caminante tampoco trae al valle un puñado de
+tierra,
+la inefable para todos, sino una palabra ganada,
+pura,
+la genciana [19] amarilla y azul. ¿Acaso estamos aquí
+para decir: casa, puente, fuente, puerta, jarra,
+árbol
+frutal, ventana; a lo más: columna, torre?... Sino
+para decir, compréndelo, oh para decirlo así,
+como
+íntimamente las cosas mismas nunca creyeron serlo.
+¿No es
+la secreta astucia de esta callada tierra, cuando
+impulsa a los amantes, que en su sentimiento, todas
+y cada una de las cosas se arroben?
+Umbral: ¿qué es para dos
+amantes, gastar su propio, viejo umbral de la puerta
+un poco, también ellos, después de los muchos
+que los precedieron y antes de los venideros...?
+Poca cosa.
+Aquí está el tiempo de lo decible, aquí
+su patria.
+Habla y confiesa. Más que nunca
+van cayéndose las cosas, las que podemos vivir,
+pues
+lo que las sustituye, desplazándolas, es un hacer
+sin imagen.
+Actuar bajo costras, que por sí mismas revientan,
+tan pronto por dentro la actividad las rebasa y se
+limita
+de otra manera. Entre los martillos persiste
+nuestro corazón, como entre los dientes
+la lengua, que sin embargo
+continúa alabando.
+Alabe el mundo al ángel. No el mundo inefable. Ante
+el ángel no puedes jactarte de tu sentir
+esplendoroso;
+en el universo, donde él, más sensible, siente,
+eres
+un novato. Por esto, muéstrale lo sencillo,
+lo configurado de generación en generación, lo que
+como cosa nuestra vive junto a la mano y en la
+mirada.
+Dile las cosas. Se quedará más asombrado, como
+lo estuviste tú junto al cordelero en Roma o al
+alfarero
+en el Nilo. Muéstrale qué feliz puede ser una
+cosa, qué
+libre de culpa y qué nuestra; cómo el propio dolor
+que se queja se encamina, puro, hacia la forma,
+sirve
+como una cosa, o muere en una cosa —y felizmente
+escapa
+del violín, rumbo al otro lado. Y estas cosas, que
+viven
+en el camino de salida, entienden que las alabas;
+pasajeras, nos creen algo que salva, a nosotros, los
+más
+pasajeros. Quieren que las transformemos por
+completo,
+dentro del corazón invisible, ¡en —oh,
+infinitamente—
+nosotros!, quienesquiera que finalmente seamos.
+Tierra, ¿no es esto lo que quieres: invisible
+resurgir en nosotros? ¿No es tu sueño
+ser alguna vez invisible? ¡Tierra! ¡Invisible!
+¿Cuál, si no la transformación, es tu misión
+urgente?
+Tierra, tú, amada, yo quiero. Oh, créeme: no
+necesitas
+más de tus primaveras para ganarme para ti, una,
+ay, una sola es ya demasiado para la sangre.
+Sin palabras estoy por ti decidido, desde hace
+mucho.
+Siempre tuviste razón, y tu idea santa
+es la muerte íntima.
+Mira, yo vivo. ¿De dónde? Ni la infancia ni el
+futuro
+son menos... Existencia de sobra
+me mana en el corazón.
+La décima elegía
+Que un día, a la salida de
+esta visión feroz, eleve yo
+mi canto de júbilo y gloria hasta los ángeles, que
+asentirán.
+Que de los claros martillazos [20] del corazón,
+ninguno
+golpee mal en cuerdas flojas, dudosas o que se
+rompan.
+Que mi rostro fluido me haga más resplandeciente:
+que el llanto imperceptible florezca. Oh, entonces,
+cómo
+me serán queridas ustedes, noches de aflicción.
+Cómo no me arrodillé más ante ustedes, hermanas
+inconsolables, para recibirlas; cómo no me
+abandoné
+a mí mismo, más suelto todavía, en su suelto
+cabello.
+Nosotros, derrochadores de dolores. Cómo por
+anticipado
+los divisamos en la triste duración: por si tal vez
+tienen final. Pero ellos son, desde luego, nuestro
+follaje de invierno, nuestro oscuro verde perenne,
+—uno de los tiempos del año secreto, no
+sólo tiempo—;
+son lugar, asentamiento, lecho, suelo, domicilio.
+Por cierto, ay, qué extrañas son las callejuelas
+de la Ciudad del Dolor, donde en el falso silencio,
+fuerte, hecho de gritería, lo que ha sido vertido
+del molde del vacío alardea: el dorado estrépito,
+el monumento estallante. Oh, cómo un ángel
+les aniquilaría, sin dejar rastro, el mercado
+de consuelos, al que la iglesia rodea, la que
+compraron
+prefabricada: limpia, cerrada y desengañada como
+una oficina de correos en domingo. Fuera, en cambio,
+cómo
+se encrespan las orillas de la feria. ¡Columpios
+de la libertad! ¡Buzos y malabaristas del afán!
+Y el tiro al blanco de la felicidad acicalada,
+con figuritas, donde los blancos se tambalean
+como de hojalata cuando son alcanzados por un
+tirador
+más atinado. Del aplauso hacia el azar, sigue él,
+a traspiés; pues se anuncian puestos de todo tipo
+de curiosidades, tocan al tambor y chillan. Pero hay
+para los adultos algo más especial que ver: cómo
+se multiplica el dinero, anatómicamente, no sólo
+por diversión: el órgano genital del dinero, todo,
+el conjunto, el procedimiento, esto instruye y hace
+fértil...
+...Oh, pero ahí junto, afuera, detrás de
+las últimas palizadas, tapizadas de anuncios
+de "Sin Muerte", de esa amarga cerveza,
+que parece dulce
+a sus bebedores, siempre y cuando mastiquen con ella
+diversiones frescas..., exactamente a espaldas
+de las palizadas, exactamente detrás, está lo
+real.
+Los niños juegan, los amantes se toman uno al otro,
+apartados, con seriedad, en la pobre hierba, y los
+perros
+tienen la naturaleza. El muchacho es atraído más
+allá;
+quizás ama a una joven Lamentación... Tras ella va
+por praderas. Ella dice: —Lejos. Vivimos allá
+afuera.
+—¿Dónde? Y el muchacho sigue. Ella lo conmueve
+con su
+actitud. El hombro, el cuello... quizás ella es de
+noble
+origen. Pero la deja, se da la vuelta, mira en
+torno,
+hace una seña... ¿Qué se ha de hacer? Ella es una
+Lamentación.
+Sólo los muertos jóvenes, en la primera condición
+de serenidad atemporal, la deshabituación, la
+siguen
+con amor. Ella aguarda a las chicas y se hace amiga
+de ellas. Silenciosamente les muestra lo que lleva
+consigo. Perlas de dolor y los finos velos
+de la tolerancia. Con los muchachos camina
+en silencio.
+Pero ahí, donde viven, en el valle, una
+Lamentación,
+una de las más ancianas, se encarga del muchacho,
+cuando
+él pregunta: —Nosotras éramos, dice ella, una
+gran familia, nosotras, las lamentaciones. Los
+padres
+trabajaban en la minería, ahí en la gran montaña:
+entre los hombres, a veces encuentras un pedazo
+de dolor original, pulimentado, o lascas de ira
+petrificada del viejo volcán. Sí, esto venía de
+ahí.
+Alguna vez fuimos ricas.
+Y ella lo conduce ligeramente a través del amplio
+paisaje
+de las lamentaciones, le muestra las columnas
+de los templos y las ruinas de los castillos, desde
+donde
+antiguamente, los príncipes de las lamentaciones
+con sabiduría gobernaban el país. Le muestra los
+altos
+árboles de las lágrimas y los campos de la florida
+melancolía. (Los vivos sólo la conocen como
+follaje
+tierno.) Le muestra los animales del duelo,
+paciendo,
+y a veces, un pájaro se espanta, y traza en el
+espacio,
+volando bajo, frente a ellos, de través, al ras
+de su mirada, la imagen escrita de su grito
+solitario.
+Al atardecer lo lleva a las tumbas de los ancianos
+de la familia de las lamentaciones, las sibilas
+y los señores del consejo. Pero se acerca la noche,
+así que caminan más quedo, y pronto se levanta,
+lleno
+de luna, el monumento funerario, que vela sobre
+todas
+las cosas. Es hermano de aquélla del Nilo, la
+sublime
+esfinge: rostro de la cámara callada. Y se asombran
+ante
+la cabeza coronada, que para siempre,
+silenciosamente,
+ha puesto el rostro de los hombres sobre la balanza
+de las estrellas.
+Los ojos del muchacho no la aprehenden, todavía
+en el vértigo de la muerte temprana. Pero la mirada
+de la esfinge, desde detrás del borde del pschent,
+[21]
+espanta al búho. [22] Y rozándola en lento
+frotamiento
+a lo largo de la mejilla, la de redondez más
+madura,
+el búho dibuja suavemente en su nuevo oído de
+muerto,
+sobre una hoja doble, abierta, el contorno
+indescriptible.
+Y más arriba, las estrellas. Nuevas. Las estrellas
+del país del dolor. Lentamente las nombra la
+Lamentación:
+"Mira, aquí: el Jinete, el Bastón,
+y a la constelación
+más llena la llaman: Corona de Frutos.
+Luego, más allá,
+hacia el polo: Cuna, Camino, el Libro Ardiente,
+Títere,
+Ventana. Pero en el cielo del sur, pura como en
+la palma
+de una mano bendita, la clara M
+resplandeciente,
+que significa las Madres...
+Pero el muerto debe avanzar, y en silencio la
+anciana
+Lamentación lo lleva hasta el barranco
+donde resplandece la luna:
+la Fuente de la Alegría. Con veneración
+ella la nombra, dice: "Entre los hombres
+es una corriente que arrastra".
+Están al pie de la montaña
+y ahí ella lo abraza, llorando.
+Sube él, solitario, hacia los montes del dolor
+original.
+Y ni siquiera una vez su paso resuena desde el
+destino mudo.
+Pero si despertaran en nosotros un símbolo, ellos,
+los interminablemente muertos, mira, señalarían
+quizás
+los amentos [23] de los avellanos vacíos,
+colgantes,
+o pensarían en la lluvia, que cae sobre el suelo
+oscuro en primavera.
+Y nosotros, que pensamos en la dicha creciente,
+sentiríamos la emoción
+que casi nos consterna
+cuando algo dichoso cae.
+Notas
+[1]
+Propietaria del castillo de Duino, sobre un
+acantilado del mar Adriático, cercano a Trieste (en
+esa época, parte del imperio austriaco), donde el
+poeta austriaco Rainer María Rilke (n. Praga, 1875,
+y m. Valmont, Suiza, 1926) empezó sus elegías en
+1912.
+Las elegías
+de Duino tardaron diez años en escribirse, en
+diversos sitios, y se publicaron en 1923. El
+castillo de Duino fue destruido en la primera guerra
+mundial. Cf. Hans Egon Holthusen, Rainer María
+Rilke, Madrid, Alianza Editorial, 1968.
+Aunque
+difíciles de conseguir en el mercado, hay varias
+traducciones castellanas de la poesía de Rilke;
+entre otras, las de Gerardo Diego, Gabriel Celaya,
+Carlos Barral, José María Valverde, Luis Felipe
+Vivanco y Gonzalo Torrente Ballester; aparecieron en
+México las de Eduardo García Máynez, Juan José
+Domenchina, Horacio Quiñones y Juan Carvajal. La
+más asequible, la de Eustaquio Barjau (Madrid,
+Cátedra, 1990).
+Entre los
+estudiosos de Rilke en lengua española, están Luis
+Cernuda, José Bergamín, Antonio Marichalar,
+Guillermo de Torre y Jaime Ferreiro Alemparte.
+Aprovecho la
+traducción, la introducción y los comentarios de
+J. B. Leishmann a la versión inglesa que hizo
+conjuntamente con Stephen Spender: The Duino
+Elegies, Londres, The Hogarth Press, 1939 y
+1948, y las notas y comentarios de Barjau a su
+versión castellana (1993).
+[2] “El ‘ángel’
+de las Elegías, escribió el propio Rilke en
+carta a Witold Hulewicz en 1925, no tiene nada que
+ver con el ángel del cielo cristiano (antes más
+bien con las representaciones angélicas del Islam)”.
+Tampoco es una
+figura meramente estética o erótica, a la manera
+de muchos motivos angélicos-efébicos del arte
+moderno, como los de Cocteau. Rilke se imagina
+ángeles viriles y con barba, no púberes ni
+andróginos; dice en Los cuadernos de Malte
+Laurids Brigge: “Si es cierto que los ángeles
+son machos, se puede decir que tenía un acento
+macho en la voz: una virilidad resplandeciente”.
+[3] Amante
+veneciana del Renacimiento, poetisa del amor
+trágico (1523-1554); una de esas "amantes
+inauditas", como la Monja Portuguesa, que
+"crecían y se elevaban en su amor... hasta que
+su tortura se había cambiado en un esplendor
+amargo, helado, que ya nadie podía detener",
+de las que se habla detenidamente en Los cuadernos
+de Malte Laurids Brigge.
+[4] En 1911
+Rilke vio en esa iglesia de Venecia un altivo
+epitafio desengañado de un tal Hermann Wilhelm o
+Hermanus Gulielmus, de 1593: entre otras cosas dice:
+“En vida viví para los demás; ahora, después de
+la muerte, no he perecido, sino que vivo en mármol
+frío para mí mismo”.
+[5] Mito griego
+semejante en unos aspectos al de Adonis, y en otros
+al de Orfeo, pero relativo a la música fúnebre.
+Linos es el semidiós de la lamentación, la música
+y la elegía fúnebres. Murió de muerte terrible
+—asesinado por Apolo o por Hércules, o destrozado
+por perros, según varias leyendas—; al morir, su
+terrible lamentación dio nacimiento a la música; o
+bien, la naturaleza entera, al llorar su muerte,
+creó la música (Iliada, XVIII, 570).
+[6] Una estela
+funeraria en la que Eurídice se despide de Orfeo:
+ella apenas le roza el hombro, él apenas le toca la
+mano con la punta de los dedos; las expresiones de
+ambos, a pesar de la tragedia, son contenidas y
+serenas. Rilke la vio en Nápoles.
+[7] Las
+innumerables capas de árboles caídos y
+desintegrados que cubren el suelo originario de la
+selva primitiva.
+[8] Este chico
+tiene algún sentido autobiográfico, pero sobre
+todo refiere al personaje Erik Brahe, de Los
+cuadernos de Malte Laurids Brigge.
+[9] Propietaria
+(en 1915) del cuadro de Picasso Les Saltinbanques
+(pintado en 1905) al que Rilke alude varias veces en
+esta elegía. Ver notas 10, 12, 13 y 14.
+[10] La gran
+inicial es la letra D de “Dastehen” y de “Dasein”,
+existir (muchas metáforas e ideas poéticas de
+Rilke fueron retomadas por la filosofía de
+Heidegger); según Eudo C. Mason, las figuras de los
+saltimbanquis en el cuadro de Picasso conforman una
+especie de letra D, de la que el arlequín
+constituiría la línea vertical y el niño más
+chico el final de la curva. (La mujer del extremo
+está fuera del grupo de los saltimbanquis, y más
+bien representa al espectador).
+[11] Príncipe
+elector de Sajonia, se divertía deformando platos
+de estaño con la mano (Barjau).
+[12] Glosa de
+toda la estrofa —resumida del comentario de
+Leishmann: los saltimbanquis configuran la flor del
+espectáculo, su centro, su pistilo; con sus saltos
+sobre la tierra, como manos de mortero o triturador,
+o pisones (“Stampfer”), levantan polvo florido,
+que a manera de polen los refertiliza. Así surge la
+rosa del espectáculo, aparente o falsa flor del
+tedio, que provoca la sonrisa igualmente
+superficial, ligera y luminosa, del tedio de los
+propios saltimbanquis.
+[13] En el
+cuadro de Picasso, el ex-hombre fuerte, el
+saltimbanqui gordo, con gorro. Se describen luego
+otras figuras: el "Hijo de un pescuezo y de una
+monja" es el arlequín; quien cae "con el
+golpe que sólo las frutas conocen", el niño
+más pequeño; la mujer del extremo es acaso su
+madre "rara vez tierna"; del adolescente
+del tambor no se hace mayor mención; la muchacha es
+la “fruta de la serenidad, llevada al mercado”.
+[14] El árbol
+humano —en gimnasia, pirámide— que construyen,
+montados unos sobre otros, los saltimbanquis.
+[15]
+Abreviación de una frase latina: “Subrisio
+Saltatoris”, la sonrisa de los saltimbanquis.
+Inscripción a manera de los membretes de los
+herbolarios y las farmacopeas medievales para las
+sustancias curativas y mágicas.
+[16] Las
+fachadas de los templos egipcios.
+[17] El etrusco
+muerto tiene doble morada: el cadáver dentro, y su
+representación gráfica sobre la tapa del
+sarcófago (Leishmann).
+[18] El castillo
+de Duino tenía laureles. Dafne se convirtió en
+laurel para escapar de Apolo: símbolo de la fuga
+del destino humano, rumbo a la serenidad vegetal.
+[19] En algunas
+regiones de Europa se atribuye propiedades mágicas,
+contra la muerte, a la genciana, que tiene
+variedades azules y amarillas (Barjau).
+[20] En el
+piano, el sonido se produce por mazos que golpean en
+cuerdas.
+[21] La doble
+corona de los faraones, que representaba la unión
+del sur y del norte, del alto y del bajo Egipto; la
+llevó también la esfinge de Gizeh (actualmente,
+sólo conserva un fragmento).
+[22] Anécdota
+autobiográfica, recogida en una carta a Magda
+Hattinberg (1 de febrero de 1914), sobre el viaje de
+Rilke a Egipto a finales de 1910, en el cual creyó escuchar
+cómo un búho, con el sonido de su vuelo, dibujaba
+la mejilla de la esfinge:
+“Detrás del
+saliente del gorro real que lleva la esfinge en la
+cabeza, salió volando un búho, y lentamente, con
+un sonido que se oía de modo indescriptible en la
+limpia profundidad de la noche, con su suave vuelo
+fue rozando su rostro: y en aquel momento, en mi
+oído, que por el hecho de haber estado horas y
+horas en el silencio de la noche había adquirido
+una agudeza muy especial, surgió el dibujo del
+perfil de aquella mejilla, como por un milagro.”
+Sin embargo,
+Rilke escribió a Muzot sobre la imaginería egipcia
+de esta elegía, que “el país de las
+lamentaciones, por el que la anciana Lamentación
+guía al joven muerto, no debe identificarse con
+Egipto, sino verse como sólo una especie de reflejo
+del país del Nilo en la claridad de desierto de la
+conciencia del muerto.”
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

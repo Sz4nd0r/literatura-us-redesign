@@ -7,4 +7,141 @@ tags:
   - index
   - ac
 ---
-¿Quién es Antón Chéjov? ![Antón Chéjov](/assets/images/ac1.jpg) Antón Pávlovich Chéjov (Антон Павлович Чехов), narrador, dramaturgo y médico, es considerado como unos de los maestros del cuento. Chéjov, el tercero de seis hermanos, nació en Taganrog, el puerto principal del mar de Azov, en el sur de Rusia, el 17 (en el calendario juliano) o 29 de enero (calendario gregoriano) de 1860. Su padre, Pável Yegórovich Chéjov, tenía un tienda de comestibles, era director del coro de la parroquia y devoto cristiano ortodoxo, y su madre, Yevguéniya Yákovlevna, de Ucrania, una excelente narradora de cuentos, que entretenía a sus hijos con historias de sus viajes junto a su padre, un comerciante de telas, por toda Rusia. Chéjov asistió a la Escuela Griega en Taganrog y al Gimnasio de Taganrog. En 1876, cuando Chéjov tenía quince años, el padre de Chéjov se declaró en bancarrota. Para evitar la prisión, el padre de Chéjov huyó a Moscú, donde sus dos hijos mayores, Alexander y Nikolay, asistían a la universidad. Chéjov se quedó atrás para vender las posesiones de la familia y terminar su educación. Chéjov permaneció en Taganrog por tres años más. Tuvo que pagar su propia educación, que administró mediante tutorías privadas y vendiendo, a los periódicos, relatos humorísticos cortos y caricaturas de la vida en Rusia, muchas de ellas con el seudónimo de “Antosha Chekhonte” (Антоша Чехонте). Envió todo el dinero que podía ahorrar a su familia en Moscú. Durante ese tiempo, leyó, de manera amplia, las obras de Cervantes, de Turgenev, de Goncharov y Schopenhauer, y hasta escribió una comedia. En 1879, Chéjov completó su educación y se unió a su familia en Moscú, después de haber ingresado en la facultad de medicina de la Universidad Estatal de Medicina de Moscú (Первый Московский государственный медицинский университет имени И. М. Сеченова). En 1882, cuando tenía 22 años, Chéjov ya estaba escribiendo para la revista Fragmentos (Осколки), propiedad de Nikolai Leykin, uno de los principales editores rusos. Chéjov se hizo médico en 1884 y ejerció sucesivamente en los pueblos de Voskresensk, Zvenigorod y Bákino, ganando poco dinero y tratando a los pobres de forma gratuita. Pero siguió escribiendo para diferentes semanarios. Entre 1884 y 1885, Chéjov se encontró tosiendo sangre, y en 1886 los ataques empeoraron; pero no admitió su tuberculosis a su familia ni a sus amigos. A principios de 1886, Chéjov fue invitado a escribir para uno de los periódicos más populares en San Petersburgo, Nuevos Tiempos (Но́вое вре́мя), propiedad del magnate millonario Alexey Suvorin, quien pagó una tarifa por línea doble de Leykin y permitió a Chéjov tres veces el espacio. En 1887, agotado por el exceso de trabajo y la mala salud, Chéjov hizo un viaje a Ucrania. A su regreso, comenzó la novela corta “La estepa: La historia de un viaje”, que se publicó en el Mensajero Norteño (Се́верный ве́стник), una revista literaria editada por Anna Yevreinova, en 1888. En otoño de 1887, un director de teatro llamado Korsh le encargó a Chéjov que escribiera una obra de teatro, cuyo resultado fue Ivanov, escrita en quince días y producida en noviembre. La obra fue un éxito. De este período viene una observación de Chéjov que se conoce como el arma de Chéjov, un principio dramático que requiere que cada elemento de una narración sea necesario e insustituible, y que todo lo demás sea eliminado. En 1888, con un pequeño tirón de cuerdas de Dmitry Grigorovich, un célebre escritor ruso de la época, la colección de cuentos En el crepúsculo (В сумерках, otro título en español: Al atardecer) le ganó a Chéjov el codiciado Premio Pushkin. La muerte del hermano de Chéjov, Nikolay, de tuberculosis, en 1889, le causó una gran depresión. En 1890, Chéjov emprendió un arduo viaje en tren, en un carro tirado por caballos y en un barco de vapor hacia el Lejano Oriente de Rusia y la Katorga, o colonia penal, en la isla de Sajalín, al norte de Japón, donde pasó tres meses entrevistando a miles de convictos y colonos para un censo. Chéjov fue testigo de muchas cosas en Sajalín que lo conmocionaron y lo enojaron, incluidos los azotes, la malversación de suministros y la prostitución forzada de mujeres. Fue particularmente conmovido por la difícil situación de los niños que vivían en la colonia penal con sus padres. Sus hallazgos fueron publicados en 1893 y 1894 como La isla de Sajalín (Остров Сахалин), un trabajo de sociología, no de literatura. En 1892, Chéjov compró la pequeña finca rural de Melikhovo, a cuarenta millas al sur de Moscú, donde vivió con su familia hasta 1899. En 1894, Chéjov comenzó a escribir su obra La gaviota, en una casa de campo que había construido en el huerto de Melikhovo. La primera noche de La gaviota, en el Teatro Alexandrinsky de San Petersburgo, el 17 de octubre de 1896, fue un fiasco, y la obra fue abucheada por el público, lo que hizo que Chéjov renunciara al teatro. Pero la obra impresionó al director de teatro Vladimir Nemirovich-Danchenko y éste convenció a su colega Konstantin Stanislavski para que dirigiera una nueva producción para el innovador Teatro de Arte de Moscú, en 1898. Stanislavski restauró el interés de Chéjov en el drama. El Teatro de Arte encargó más obras de Chéjov y al año siguiente representó Tío Vanya (1897), que Chéjov había completado en 1896. Ya para esa fecha, Chéjov se había convertido en ateo. En marzo de 1897, Chéjov sufrió una gran hemorragia pulmonar durante una visita a Moscú. Los médicos le diagnosticaron tuberculosis en la parte superior de los pulmones. Después de la muerte de su padre en 1898, Chéjov compró un terreno en las afueras de Yalta y construyó una villa, a la que se mudó con su madre y su hermana al año siguiente. En Yalta completó dos obras más para el Teatro de Arte de Moscú. Se tomó un año para escribir Las tres hermanas (1901) y otro año para escribir El jardín de los cerezos (1904). El 25 de mayo de 1901, Chéjov se casó con Olga Knipper. Era una antigua protegida y, en algún momento, amante de Nemirovich-Danchenko, a quien había conocido por primera vez en los ensayos de La gaviota. En Yalta, Chéjov escribió uno de sus cuentos más famosos, “La dama del perrito” (1899). El 3 de junio de 1904, partió con Olga hacia la ciudad balnearia alemana de Badenweiler, en la Selva Negra. Allí murió, el 15 de julio de 1904. Apenas tenía 44 años. ÍNDICE: Cuentos: —Mercancía viva (1882) —Flores tardías (1882) —En la barbería (1883) —Buena colección [La colección] (1883) —La colección [Buena colección] (1883) (otra traducción) —Poquita cosa [Blandura] (1883) —El trágico [El actor trágico] (1883) —Se fue [Se marchó] (1883) —Muerte de un funcionario (1883) —La hija de Albión (1883) —El gordo y el flaco (1883) —La cerilla sueca (1884) —Una condecoración (1884) —El álbum (1884) —Cirugía (1884) —El camaleón (1884) —De mal en peor (1884) —La máscara (1884) —Ostras (1884) —De mal humor (1884) —La cronología viviente (1885) —Los nervios (1885) —Los simuladores (1885) —Apellido de caballo (1885 —El malhechor [El delincuente] (1885) —El cazador (1885) —El suboficial Prishibéiev (1885) —Una perra cara (1885) —Exageró la nota (1885) —¡Qué público! (1885) —El marido de su mujer [Mari d’elle] (1885) —Fracaso [El fracaso, Fiasco] (1886) —Los niños (1886) —La tristeza (1886) —Un escándalo [La joya robada] (1986) —Aniuta (1886) —Iván Matveich [El amanuense] (1886) —La bruja (1886) —Agafia (1886) —Pesadilla (1886) —La noche de Pascua (1886) —Historia del contrabajo (1886) —Un huésped inquietante [El invitado inquieto] (1886) —La mujer del boticario [La boticaria] (1886) —La corista (1886) —Una desgracia [La desgracia] (1886) —Los mártires [Mártires] (1886) —El talento (1886) —En la oscuridad (1886) —Por casualidad (1886) —Una pequeñez [Pequeñeces de la vida] (1886) —Gente difícil (1886) —¡Chist! [Chisss…, ¡Tssss!] (1886) —La obra de arte (1886) —Vanka (1886) —Champagne (Relato de un granuja) (1887) —La helada (1887) —Enemigos (1887) —Vérochka (1887) —En casa (1887) —El billete de la lotería (1887) —Tifus (1887) —El juez de instrucción (1887) — Volodia (1887) —Un drama (1887) —Un trotamundos (Bosquejo de un viaje) (1887) —Memorias de un hombre colérico [Un hombre irascible] (1887) —El caramillo (1887) —El vengador (1887) —El beso (1887) —Los muchachos (1887) —Kashtanka (1887) —Relato de la señorita N. N. (1887) —Un asesinato [Ganas de dormir] (1888) —Luces (1888) —Las bellas (1888) —El zapatero y el diablo [El zapatero y la fuerza maléfica] (1888) —La apuesta [Una apuesta] (1889) —La princesa (1889) —Gúsiev (1890) —Campesinas (1891) —La cigarra (1892) —En deportación (1892) —Vecinos (1892) —La sala número seis [El pabellón n.º 6] (1892) —Terror (Relato de un amigo) (1892) —Relato de un desconocido [Una historia anónima] (1893) —El monje negro (1894) —El violín de Rothschild (1894) —El estudiante (1894) —Ana al cuello [Una Anna colgada del cuello] (1895) —Ariadna (1895) —Casa con mezzanina (Historia de un artista) [Casa con desván (Relato de un pintor)] (1896) —Campesinos [Los muzhiks, Los mujiks] (1897) —Un pechenego (1897) —Camino de la escuela [En el carro](1897) —Un hombre en un estuche [El hombre enfundado] (1898) —Las grosellas [La grosella] (1898) —Del amor (1898) [Sobre el amor, Acerca del amor] —Iónich (1898) —Incidente ocurrido a un médico [Una visita médica] (1898) —Cosas del servicio [Por asuntos del servicio] (1899) —Un ángel [Duschechka, Primor, Amorcito, Almita] (1899) —En el campo [La nueva dacha] (1899) —La dama del perrito (1899) —La dama del perrito (otra traducción) —En fiestas (1900) —El obispo (1902) 
+
+## ¿Quién es Antón Chéjov?
+
+![Antón Chéjov](/assets/images/ac1.jpg)
+
+Antón Pávlovich Chéjov (Антон Павлович Чехов), narrador, dramaturgo y médico, es considerado como unos de los maestros del cuento. Chéjov, el tercero de seis hermanos, nació en Taganrog, el puerto principal del mar de Azov, en el sur de Rusia, el 17 (en el calendario juliano) o 29 de enero (calendario gregoriano) de 1860. Su padre, Pável Yegórovich Chéjov, tenía un tienda de comestibles, era director del coro de la parroquia y devoto cristiano ortodoxo, y su madre, Yevguéniya Yákovlevna, de Ucrania, una excelente narradora de cuentos, que entretenía a sus hijos con historias de sus viajes junto a su padre, un comerciante de telas, por toda Rusia.
+
+Chéjov asistió a la Escuela Griega en Taganrog y al Gimnasio de Taganrog. En 1876, cuando Chéjov tenía quince años, el padre de Chéjov se declaró en bancarrota. Para evitar la prisión, el padre de Chéjov huyó a Moscú, donde sus dos hijos mayores, Alexander y Nikolay, asistían a la universidad. Chéjov se quedó atrás para vender las posesiones de la familia y terminar su educación. Chéjov permaneció en Taganrog por tres años más. Tuvo que pagar su propia educación, que administró mediante tutorías privadas y vendiendo, a los periódicos, relatos humorísticos cortos y caricaturas de la vida en Rusia, muchas de ellas con el seudónimo de “Antosha Chekhonte” (Антоша Чехонте).
+
+Envió todo el dinero que podía ahorrar a su familia en Moscú. Durante ese tiempo, leyó, de manera amplia, las obras de Cervantes, de Turgenev, de Goncharov y Schopenhauer, y hasta escribió una comedia. En 1879, Chéjov completó su educación y se unió a su familia en Moscú, después de haber ingresado en la facultad de medicina de la Universidad Estatal de Medicina de Moscú (Первый Московский государственный медицинский universidad имени И. М. Сеченова). En 1882, cuando tenía 22 años, Chéjov ya estaba escribiendo para la revista *Fragmentos* (Осколки), propiedad de Nikolai Leykin, uno de los principales editores rusos.
+
+Chéjov se hizo médico en 1884 y ejerció sucesivamente en los pueblos de Voskresensk, Zvenigorod y Bákino, ganando poco dinero y tratando a los pobres de forma gratuita. Pero siguió escribiendo para diferentes semanarios. Entre 1884 y 1885, Chéjov se encontró tosiendo sangre, y en 1886 los ataques empeoraron; pero no admitió su tuberculosis a su familia ni a sus amigos. A principios de 1886, Chéjov fue invitado a escribir para uno de los periódicos más populares en San Petersburgo, *Nuevos Tiempos* (Но́вое вре́мя), propiedad del magnate millonario Alexey Suvorin, quien pagó una tarifa por línea doble de Leykin y permitió a Chéjov tres veces el espacio.
+
+En 1887, agotado por el exceso de trabajo y la mala salud, Chéjov hizo un viaje a Ucrania. A su regreso, comenzó la novela corta *“La estepa: La historia de un viaje”*, que se publicó en el *Mensajero Norteño* (Се́верный ве́стник), una revista literaria editada por Anna Yevreinova, en 1888. En otoño de 1887, un director de teatro llamado Korsh le encargó a Chéjov que escribiera una obra de teatro, cuyo resultado fue *Ivanov*, escrita en quince días y producida en noviembre. La obra fue un éxito. De este período viene una observación de Chéjov que se conoce como el "arma de Chéjov", un principio dramático que requiere que cada elemento de una narración sea necesario e insustituible, y que todo lo demás sea eliminado.
+
+En 1888, con un pequeño tirón de cuerdas de Dmitry Grigorovich, un célebre escritor ruso de la época, la colección de cuentos *En el crepúsculo* (В сумерках, otro título en español: *Al atardecer*) le ganó a Chéjov el codiciado Premio Pushkin. La muerte del hermano de Chéjov, Nikolay, de tuberculosis, en 1889, le causó una gran depresión. En 1890, Chéjov emprendió un arduo viaje en tren, en un carro tirado por caballos y en un barco de vapor hacia el Lejano Oriente de Rusia y la Katorga, o colonia penal, en la isla de Sajalín, al norte de Japón, donde pasó tres meses entrevistando a miles de convictos y colonos para un censo.
+
+Chéjov fue testigo de muchas cosas en Sajalín que lo conmocionaron y lo enojaron, incluidos los azotes, la malversación de suministros y la prostitución forzada de mujeres. Fue particularmente conmovedido por la difícil situación de los niños que vivían en la colonia penal con sus padres. Sus hallazgos fueron publicados en 1893 y 1894 como *La isla de Sajalín* (Остров Сахалин), un trabajo de sociología, no de literatura. En 1892, Chéjov compró la pequeña finca rural de Melikhovo, a cuarenta millas al sur de Moscú, donde vivió con su familia hasta 1899.
+
+En 1894, Chéjov comenzó a escribir su obra *La gaviota*, en una casa de campo que había construido en el huerto de Melikhovo. La primera noche de *La gaviota*, en el Teatro Alexandrinsky de San Petersburgo, el 17 de octubre de 1896, fue un fiasco, y la obra fue abucheada por el público, lo que hizo que Chéjov renunciara al teatro. Pero la obra impresionó al director de teatro Vladimir Nemirovich-Danchenko y éste convenció a su colega Konstantin Stanislavski para que dirigiera una nueva producción para el innovador Teatro de Arte de Moscú, en 1898.
+
+Stanislavski restauró el interés de Chéjov en el drama. El Teatro de Arte encargó más obras de Chéjov y al año siguiente representó *Tío Vanya* (1897), que Chéjov había completado en 1896. Ya para esa fecha, Chéjov se había convertido en ateo. En marzo de 1897, Chéjov sufrió una gran hemorragia pulmonar durante una visita a Moscú. Los médicos le diagnosticaron tuberculosis en la parte superior de los pulmones. Después de la muerte de su padre in 1898, Chéjov compró un terreno in las afueras de Yalta y construyó una villa, a la que se mudó con su madre y su hermana al año siguiente.
+
+En Yalta completó dos obras más para el Teatro de Arte de Moscú. Se tomó un año para escribir *Las tres hermanas* (1901) y otro año para escribir *El jardín de los cerezos* (1904). El 25 de mayo de 1901, Chéjov se casó con Olga Knipper. Era una antigua protegida y, in algún momento, amante de Nemirovich-Danchenko, a quien había conocido por primera vez in los ensayos de *La gaviota*. En Yalta, Chéjov escribió uno de sus cuentos más famosos, *“La dama del perrito”* (1899). El 3 de junio de 1904, partió con Olga hacia la ciudad balnearia alemana de Badenweiler, in la Selva Negra.
+
+Allí murió, el 15 de julio de 1904. Apenas tenía 44 años.
+
+ÍNDICE
+
+Cuentos
+- — Mercancía viva (1882)
+- — Flores tardías (1882)
+- — En la barbería (1883)
+- — Buena colección [La colección] (1883)
+- — La colección [Buena colección] (1883) (otra traducción)
+- — Poquita cosa [Blandura] (1883)
+- — El trágico [El actor trágico] (1883)
+- — Se fue [Se marchó] (1883)
+- — Muerte de un funcionario (1883)
+- — La hija de Albión (1883)
+- — El gordo y el flaco (1883)
+- — La cerilla sueca (1884)
+- — Una condecoración (1884)
+- — El álbum (1884)
+- — Cirugía (1884)
+- — El camaleón (1884)
+- — De mal en peor (1884)
+- — La máscara (1884)
+- — Ostras (1884)
+- — De mal humor (1884)
+- — La mujer viviente (1885)
+- — Los nervios (1885)
+- — Los simuladores (1885)
+- — Apellido de caballo (1885)
+- — El malhechor [El delincuente] (1885)
+- — El cazador (1885)
+- — El suboficial Prishibéiev (1885)
+- — Una perra cara (1885)
+- — Exageró la nota (1885)
+- — ¡Qué público! (1885)
+- — El marido de su mujer [Mari d’elle] (1885)
+- — Fracaso [El fracaso, Fiasco] (1886)
+- — Los niños (1886)
+- — La tristeza (1886)
+- — Un escándalo [La joya robada] (1986)
+- — Aniuta (1886)
+- — Iván Matveich [El amanuense] (1886)
+- — La bruja (1886)
+- — Agafia (1886)
+- — Pesadilla (1886)
+- — La noche de Pascua (1886)
+- — Historia del contrabajo (1886)
+- — Un huésped inquietante [El invitado inquieto] (1886)
+- — La mujer del boticario [La boticaria] (1886)
+- — La corista (1886)
+- — Una desgracia [La desgracia] (1886)
+- — Los mártires [Mártires] (1886)
+- — El talento (1886)
+- — En la oscuridad (1886)
+- — Por casualidad (1886)
+- — Una pequeñez [Pequeñeces de la vida] (1886)
+- — Gente difícil (1886)
+- — ¡Chist! [Chisss…, ¡Tssss!] (1886)
+- — La obra de arte (1886)
+- — Vanka (1886)
+- — Champagne (Relato de un granuja) (1887)
+- — La helada (1887)
+- — Enemigos (1887)
+- — Vérochka (1887)
+- — En casa (1887)
+- — El billete de la lotería (1887)
+- — Tifus (1887)
+- — El juez de instrucción (1887)
+- — Volodia (1887)
+- — Un drama (1887)
+- — Un trotamundos (Bosquejo de un viaje) (1887)
+- — Memorias de un hombre colérico [Un hombre irascible] (1887)
+- — El caramillo (1887)
+- — El vengador (1887)
+- — El beso (1887)
+- — Los muchachos (1887)
+- — Kashtanka (1887)
+- — Relato de la señorita N. N. (1887)
+- — Un asesinato [Ganas de dormir] (1888)
+- — Luces (1888)
+- — Las bellas (1888)
+- — El zapatero y el diablo [El zapatero y la fuerza maléfica] (1888)
+- — La apuesta [Una apuesta] (1889)
+- — La princesa (1889)
+- — Gúsiev (1890)
+- — Campesinas (1891)
+- — La cigarra (1892)
+- — En deportación (1892)
+- — Vecinos (1892)
+- — La sala número seis [El pabellón n.º 6] (1892)
+- — Terror (Relato de un amigo) (1892)
+- — Relato de un desconocido [Una historia anónima] (1893)
+- — El monje negro (1894)
+- — El violín de Rothschild (1894)
+- — El estudiante (1894)
+- — Ana al cuello [Una Anna colgada del cuello] (1895)
+- — Ariadna (1895)
+- — Casa con mezzanina (Historia de un artista) [Casa con desván (Relato de un pintor)] (1896)
+- — Campesinos [Los muzhiks, Los mujiks] (1897)
+- — Un pechenego (1897)
+- — Camino de la escuela [En el carro](1897)
+- — Un hombre en un estuche [El hombre enfundado] (1898)
+- — Las grosellas [La grosella] (1898)
+- — Del amor (1898) [Sobre el amor, Acerca del amor]
+- — Iónich (1898)
+- — Incidente ocurrido a un médico [Una visita médica] (1898)
+- — Cosas del servicio [Por asuntos del servicio] (1899)
+- — Un ángel [Duschechka, Primor, Amorcito, Almita] (1899)
+- — En el campo [La nueva dacha] (1899)
+- — La dama del perrito (1899)
+- — La dama del perrito (otra traducción)
+- — En fiestas (1900)
+- — El obispo (1902)

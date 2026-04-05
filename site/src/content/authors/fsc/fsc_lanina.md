@@ -1,0 +1,251 @@
+---
+layout: story
+title: La niña del hotel
+slug: fsc_lanina
+source: https://www.literatura.us/idiomas/fsc_lanina.html
+tags:
+  - fsc_lanina
+  - fsc
+---
+F. Scott Fitzgerald
+(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
+La niña del hotel
+(“The Hotel Child”)
+Originalmente publicado en The Saturday Evening Post, 203 (31 de enero de 1931);
+Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald
+(selección de Matthew J. Bruccoli)
+(Nueva York: Charles Scribner’s Sons, 1973, 385 págs.)
+I
+Es un lugar en el que instintivamente explicas por qué estás allí—“Ah, sí, estoy aquí porque...”— y, si no surte efecto, resultas ligeramente sospechoso, porque este rincón de Europa no atrae a nadie; suele aceptarte sin demasiadas preguntas inconvenientes: vive y deja vivir. Es un cruce de caminos: gente que busca clínicas privadas o sanatorios antituberculosos en las montañas, gente que dejó de ser hace mucho persona grata en Italia o Francia. Y si eso fuera todo...
+Pero una noche de fiesta en el Hotel des Trois Mondes un recién llegado apenas percibiría lo que se mueve bajo la superficie. Habría, observando a los bailarines, una galería de señoras inglesas de cierta edad, con cintas en el cuello, pelo teñido y caras empolvadas de un gris rosáceo; una galería de señoras americanas de cierta edad, con el pelo de un color falso, blanco de nieve, vestidos negros y labios rojo cereza. Y casi todas mirarían a derecha e izquierda incansablemente y, de vez en cuando, posarían la mirada en la omnipresente Fifi. Todo el hotel se había podido enterar de que Fifi cumplía dieciocho años aquella noche.
+Fifi Schwartz. Una judía de belleza radiante y exquisita, con una frente despejada que ascendía elegantemente hasta donde el pelo, rodeándola como un escudo, estallaba en bucles, ondas y tirabuzones de un delicado rojo oscuro. Sus ojos eran grandes, vivos, transparentes, húmedos y brillantes; el color de sus mejillas y de sus labios era auténtico, y afloraba a la superficie desde el latir joven y fuerte de su corazón. Su cuerpo estaba tan estrictamente proporcionado que un cínico había difundido el comentario de que Fifi siempre aparentaba no llevar nada bajo el vestido; pero probablemente se equivocaba, pues Fifi había sido dotada de belleza con el mismo mimo por Dios y por los hombres. Qué vestidos... el cereza de Chanel, el malva de Molyneux, el rosa de Patou; docenas de vestidos, ceñidos a las caderas, cimbreantes, cayendo a diez milímetros justos de la pista de baile. Aquella noche era una mujer de treinta años, vestida de negro deslumbrante, con largos guantes blancos que le cubrían los antebrazos. “Qué mal gusto”, cuchicheaban. “Es como un escenario, un escaparate, un desfile de modelos. ¿En qué estará pensando su madre? Pero, claro, fíjate en cómo va la madre.”
+La madre estaba sentada con un amigo y pensaba en Fifi y en el hermano de Fifi, y en sus otras hijas ya casadas, de quienes pensaba que habían sido incluso más guapas que Fifi. La señora Schwartz era una mujer sencilla; era judía desde hacía mucho tiempo y oía con franca indiferencia lo que comentaban los grupos del salón. Otro tipo de personas, muy abundante, al que no importaban las habladurías eran los jóvenes, docenas de jóvenes. Seguían a Fifi de la mañana a la noche dentro y fuera de las lanchas, los clubes nocturnos, los lagos interiores, los automóviles, los salones de té y los funiculares, y decían:
+—¡Eh, mira, es Fifi!
+Y se pavoneaban ante ella, o decían:
+—¡Dame un beso, Fifi!
+O incluso:
+—¡Dame otro beso, Fifi!
+Y hablaban mal de ella e intentaban que fuera su novia.
+Pero la mayoría era demasiado joven, pues aquella pequeña ciudad, por algún ilógico razonamiento, se suponía que gozaba de un excelente clima para ser un centro educativo.
+Fifi no criticaba a nadie, ni era consciente de que la criticaran. Aquella noche la galería de mirones en el gran salón de cristal en forma de herradura hacía comentarios sobre su fiesta de cumpleaños y se quejaba sobre todo de cómo había entrado Fifi. Habían servido la mesa en el último de una serie de comedores, a los que se accedía desde el salón central. Pero Fifi, con su vestido negro, llamando a gritos la atención, apareció en el primer comedor, seguida por un verdadero pelotón de jóvenes de todas las nacionalidades y razas posibles, y, a la carrera, moviendo sus preciosas caderas y agitando su preciosa cabeza, los guió entre vaivenes por todo el recinto, mientras los ancianos se atragantaban con espinas de pescado, y se aflojaban los músculos faciales de las ancianas, y las protestas se convertían en un rugido al paso del cortejo.
+No deberían haberse ofendido tanto. Fue una fiesta espantosa porque Fifi pensaba que tenía que ser amable con todo el mundo y multiplicarse y ser una docena de personas, así que habló con toda la mesa e interrumpió todas las conversaciones, sin importarle a qué distancia se iniciaban. De modo que nadie se lo pasó bien, y la gente del hotel no debería haberse molestado tanto porque Fifi fuera joven y terriblemente feliz.
+Más tarde, en el salón, muchos de los hombres que habían sido los comparsas de la fiesta merodeaban entre las mesas como si aquello no tuviera nada que ver con ellos. Entre ellos estaba el joven conde Stanislas Borowki con sus atractivos y brillantes ojos oscuros de ciervo disecado, y su pelo negro, marcado ya por distinguidas vetas que recordaban el teclado de un piano. Se acercó a la mesa de una familia de buena posición apellidada Taylor y se sentó con apenas un débil suspiro, que les hizo sonreír.
+—¿No ha sido horrible? —le preguntaron.
+La rubia señorita Howard, que viajaba con los Taylor, era casi tan guapa como Fifi y se vestía con mayor consideración hacia el prójimo. Había hecho lo posible para no conocer a la señorita Schwartz, aunque compartía con ella a algunos jóvenes. Los Taylor eran diplomáticos de carrera y se dirigían a Londres tras la conferencia de la Liga de las Naciones en Ginebra. Iban a presentar en la Corte aquella temporada a la señorita Howard. Eran americanos muy europeizados; de hecho, habían alcanzado una posición en la que era difícil decir que pertenecieran a ninguna nación; nunca desde luego a una gran potencia, si acaso a una especie de país que se pareciera a un Estado balcánico, compuesto por ciudadanos como ellos. Consideraban que Fifí era una vergüenza tan innecesaria como un nuevo color en la bandera.
+La señora inglesa alta que fumaba en una larga boquilla e iba acompañada por un pequinés medio paralítico se levantó en aquel instante y les anunció a los Taylor que tenía una cita en el bar, y se fue, llevando en brazos a su pequinés paralítico y provocando, por donde pasaba, un silencio sobrecogido en el hervidero de voces y bromas infantiles que reinaba en la mesa de Fifi.
+A eso de la medianoche, el señor Weicker, director del hotel, se asomó al bar, donde el gramófono de Fifi bramaba nuevos tangos alemanes entre el humo y el ruido. Tenía una cara pequeña que inmediatamente percibía el fondo de las cosas, y últimamente echaba un rápido vistazo al bar cada noche. Pero no había ido a admirar a Fifi; quería investigar por qué no iban bien las cosas en el Hotel des Trois Mondes aquel verano.
+Se trataba, por supuesto, de la constante caída de la Bolsa en Estados Unidos. Con tantos hoteles mendigando clientela, los clientes se habían vuelto melindrosos, exigentes, quejumbrosos, y el señor Weicker había tenido que tomar últimamente demasiadas decisiones delicadas. Una familia numerosa había abandonado el hotel porque el gramófono de lady Capps-Karr estuvo sonando toda la noche. También se sospechaba que había un ladrón en el hotel; habían recibido quejas por el robo de carteras, pitilleras, relojes y anillos. Algunas veces los clientes hablaban con el señor Weicker como si desearan registrarle los bolsillos. Había habitaciones vacías que no tenían por qué haber estado vacías aquel verano.
+Su mirada cayó severa, de paso, sobre el conde Borowki, que estaba jugando al billar con Fifi. El conde Borowki llevaba tres semanas sin pagar la cuenta. Le había dicho al señor Weicker que estaba esperado a su madre, que lo arreglaría todo. Y estaba Fifi, que atraía a una pandilla de indeseables: jóvenes estudiantes que vivían del dinero que les mandaban sus padres y pedían a cuenta bebidas que nunca pagaban. Lady Capps-Karr, por el contrario, era una grande cliente; se podía contar con tres botellas de whisky al día para ella y su círculo, y su padre, desde Londres, pagaba hasta la última gota. El señor Weicker decidió darle un ultimátum al señor Borowki aquella noche, y se retiró. Su visita había durado unos diez segundos.
+El conde Borowki dejó el taco de billar y se acercó a Fifi murmurando algo. Ella le cogió la mano y lo llevó a un rincón a oscuras cerca del gramófono.
+—Mi sueño, mi chica americana —dijo él—: vamos a encargar que te pinten en Budapest como estás esta noche. Figurarás entre los retratos de mis antepasados en las paredes de mi castillo de Transilvania.
+Podría pensarse que una chica americana normal, que hubiera visto un número normal de películas, habría detectado cierto tono conocido en el galanteo persistente del conde Borowki. Pero el Hotel des Trois Mondes estaba lleno de personas que eran verdaderamente ricas y nobles, gente que hacía delicados bordados o tomaba cocaína en apartamentos cerrados mientras aspiraban a tronos europeos y a media docena de principados alemanes, y Fifi prefería no dudar de quien rendía pleitesía a su belleza. Aquella noche nada la sorprendía: ni siquiera la precipitada proposición del conde de que se casaran aquella misma semana.
+—Mamá no quiere que me case hasta el año que viene. Sólo le he dicho que nos íbamos a prometer.
+—Pero mi madre quiere que me case. Tiene mucho carácter, como decís los americanos; está empeñada en que me case con la princesa tal o la condesa cual.
+Mientras, lady Capps-Karr celebraba una reunión en el otro extremo de la sala. Un inglés alto y encorvado, manchado por el polvo del camino, acababa de abrir la puerta del bar, y lady Capps-Karr, al grito de “¡Bopes!”, se había lanzado sobre él:
+—¡Bopes! ¡Eh, Bopes!
+;—Capps, tesoro. ¿Qué tal, Rafe? —saludó al acompañante de lady Capps-Karr—... Qué casualidad, Capps.
+—¡Bopes! ¡Bopes!
+Sus exclamaciones y risas llenaron el salón, y el barman murmuró a un americano curioso que el recién llegado era el marqués Kinkallow.
+Bopes se tendió en varias sillas y un sofá y llamó al camarero. Anunció que venía conduciendo desde París sin parar y que saldría a la mañana siguiente para reunirse en Milán con la única mujer a quien había querido. No parecía en condiciones de reunirse con nadie.
+—Ay, Bopes, he estado tan ciega —dijo lady Capps-Karr lastimosamente—. Un día y otro día, siempre. Llegué en avión desde Cannes, con la idea de quedarme sólo un día, y me encontré aquí con Rafe y con otros americanos que conocía, y ya llevo aquí dos semanas, y mis billetes para Malta han caducado. ¡Quédate y sálvame! ¡Ay, Bopes! ¡Bopes!
+El marqués Kinkallow miró hacia el bar con ojos cansados.
+—¿Y ésa quién es? —preguntó—. La hermosa judía... ¿Y quién es ese individuo que está con ella?
+—Es americana —dijo la hija de un centenar de condes—. El tipo es un sinvergüenza, pero por lo visto tiene pedigrí. Es camarada de Schenzi, el de Viena. La otra noche estuve jugando con él al chemin defer hasta las cinco aquí en el bar y me debe mil francos suizos.
+—Tengo que hablar unas palabras con esa putilla —dijo Bopes veinte minutos más tarde—. Prepáramelo, Rafe; anda, pórtate bien.
+Ralph Berry conocía a la señorita Schwartz, y, en cuanto se le presentó la ocasión de hacer las presentaciones, se levantó amablemente. La ocasión llegó cuando un cbasseur le rogó al conde Borowki que se presentara en recepción. Rafe se las arregló para eludir a los dos o tres jóvenes que acompañaban a Fifi.
+—El marqués Kinkallow desea conocerla. ¿Puede venir a nuestra mesa?
+Fifi miró al otro extremo de la sala, frunciendo un poco las cejas finísimas. Algo le advertía que su noche ya estaba bastante completa. Lady Capps-Karr jamás le había dirigido la palabra; Fifi pensaba que tenía envidia de sus vestidos.
+—¿No puedes traerlo aquí?
+Un instante después Bopes se sentaba al lado de Fifi con una sombra de condescendencia en la cara. No podía evitarlo; de hecho, luchaba contra ello sin cesar, pero le pasaba siempre que estaba con americanos. “Es demasiado para mí”, parecía decir. “Basta que comparéis mi seguridad con vuestra indecisión, mi sofisticación con vuestra ingenuidad, aunque el mundo entero haya caído en vuestro poder.” En los últimos años había descubierto que su tono, a no ser que lo vigilara, ocultaba un resentimiento latente.
+Fifi lo miró radiante y le habló de su esplendoroso futuro.
+—Dentro de poco me voy a París —dijo como si anunciara la caída del Imperio Romano—; quizá estudie en la Sorbona, y luego tal vez me case; nunca se sabe. Sólo tengo dieciocho años. Había dieciocho velas en mi pastel de cumpleaños esta noche. Me habría gustado que hubieras estado aquí... He recibido maravillosas ofertas para debutar en el teatro, pero, claro, una chica que se dedica al teatro da mucho que hablar.
+—¿Qué vas a hacer esta noche? —preguntó Bopes. —Ah, van a venir muchos más chicos, más tarde. Quédate por aquí: estás invitado a la fiesta.
+—Estaba pensando que tú y yo podríamos hacer otra cosa. Me voy a Milán mañana.
+En el otro extremo del salón, lady Capps-Karr estaba violenta, disgustada por la deserción.
+—Después de todo, un amigacho es un amigacho y un íntimo es un íntimo —protestó—, pero hay cosas que no se hacen. Nunca he visto a Bopes en un estado tan lamentable.
+No le quitaba ojo a la conversación que tenía lugar en el otro extremo de la sala.
+—Ven a Milán conmigo —decía el marqués—. Ven al Tíbet o al Indostán. Asistiremos a la coronación del rey de Etiopía. Bueno, vamonos a dar un paseo en coche ahora mismo.
+—Todavía quedan demasiados invitados. Además, no me monto en el coche del primero que llega. Se supone que estoy prometida. Con un conde húngaro. Se pondría furioso y probablemente te desafiaría a un duelo.
+La señora Schwartz, con cara de pedir perdón, atravesó la sala y se acercó a Fifi.
+—John se ha ido —anunció—. Se ha vuelto a marchar. Fifi dio un grito de disgusto. —Me dio su palabra de honor de que no se iría. —Pero se ha ido. He mirado en su habitación y no estaba su sombrero. Ha sido el champán de la cena —miró al marqués—. No es que John sea un chico con vicios, pero es débil, muy débil.
+—Me figuro que tendré que ir a buscarlo —dijo Fifi, resignada. —Me sabe fatal estropearte la noche, pero no sé qué otra cosa podríamos hacer. Quizá este caballero pueda acompañarte. Ya ve, Fifi es la única que puede manejarlo. Su padre murió y la verdad es que para manejar a un chico hace falta un hombre. —Así es —dijo Bopes.
+—¿Me puedes llevar? —preguntó Fifi—. Sólo es a un café de la ciudad.
+Bopes aceptó con la mayor prontitud. Fuera, bajo la noche de septiembre, la fragancia de Fifi se filtraba a través de la capa de armiño, mientras su dueña añadía algunas explicaciones:
+—Una rusa lo tiene dominado; dice que es condesa, pero su única propiedad consiste en un abrigo de piel de zorro que se pone con todo. Mi hermano sólo tiene diecinueve años, así que en cuanto se bebe un par de copas de champán, dice que se va a casar con ella, y mamá sufre.
+Bopes le echó con impaciencia el brazo por los hombros en cuanto empezaron a subir la colina que llevaba a la ciudad.
+Quince minutos después el coche se detuvo varias manzanas más allá del café y Fifi se apeó. Un arazaño largo e irregular adornaba ahora la cara del marqués: le atravesaba en diagonal la mejilla, cruzaba la nariz con unas cuantas líneas superficiales e imprecisas, y acababa en una especie de terminal de ferrocarriles en la mandíbula inferior.
+—No me gusta estar con alguien que se pone tan tonto —explicó Fifi—. No hace falta que esperes, podemos tomar un taxi.
+—¿Que espere? —exclamó el marqués, furioso—. ¿A alguien tan insignificante y vulgar como tú? Ya me habían dicho que eras el hazmerreír del hotel, y ahora sé de sobra por qué.
+Fifi atravesó deprisa la calle y entró en el café, deteniéndose en la puerta hasta que vio a su hermano. Era una reproducción de Fifi sin su extraordinario entusiasmo; en aquel instante compartía mesa con un frágil exiliado del Cáucaso y dos serbios tuberculosos. Fifi esperó a reunir el valor suficiente para enfrentarse al asunto; entonces cruzó la pista de baile: llamaba la atención como una nube que presagia tormenta, vestida de negro brillante.
+—Mamá me ha mandado a buscarte, John; coge tu abrigo.
+—¿Sí? ¿Qué bicho le ha picado? —preguntó, con la mirada perdida.
+—Mamá dice que tienes que ir.
+Se levantó de mala gana. Los dos serbios también se levantaron; la condesa no había movido un músculo; sus ojos, profundamente hundidos en los pómulos mongoles, no se apartaron ni un momento de la cara de Fifi; la cabeza se agazapaba en el abrigo de piel de zorro plateado que, como Fifi sabía, representaba la última asignación mensual que había recibido su hermano. Mientras John Schwartz, poco seguro sobre sus pies, se tambaleaba ligeramente, la orquesta acometía Ich bin von Kopf bis Fuss. Tras sumergirse en la confusión de aquella mesa, Fifi emergió agarrada del brazo de su hermano, lo empujó hacia el guardarropa y, ya en la calle, hacia la parada de taxis.
+Era tarde; la noche de fiesta y su cumpleaños habían terminado y, mientras volvía en taxi al hotel, con John desplomado sobre su hombro, Fifi sintió de repente una pena profunda. Gracias a su excelente salud nunca había sido aprensiva, y era verdad que la familia Schwartz llevaba viviendo tanto tiempo en aquel ambiente que Fifi no se sentía insatisfecha entre el torbellino y la sociedad del Hotel des Trois Mondes, y, sin embargo, de repente la noche se había estropeado. ¿Por qué algunas veces terminan las noches en una nota aguda, y no se desvanecen suavemente como una música? Todas las noches, cuando daban las diez, tenía la sensación de que era el único ser real en una colonia de fantasmas, de que estaba rodeada por figuras absolutamente intangibles que retrocederían en cuanto ella alargara la mano.
+El portero ayudó a su hermano a llegar al ascensor. Al entrar, Fifi vio demasiado tarde que había dos personas dentro. Antes de que pudiera sacar a John, las dos se apartaron de Fifi como si temieran contagiarse. Fifi oyó a la señora Taylor decir: “¡Dios nos asista!”, y a la señorita Howard: “¡Qué asco!”. El ascensor se puso en marcha. Fifi aguantó la respiración hasta que se detuvo en su planta.
+Fue quizá el impacto de este último encuentro lo que provocó que se quedara muy quieta, junto a la puerta del apartamento, a oscuras. Entonces tuvo la sensación de que había alguien más en la oscuridad, frente a ella, y, una vez que su hermano, dando traspiés, se derrumbó en el sofá, siguió a la espera.
+—Mamá —llamó, pero no hubo respuesta, apenas un ruido más débil que un susurro, como un zapato que rozara el suelo.
+Pocos minutos después, cuando su madre subió, llamaron al valet de chambre y recorrieron juntos las habitaciones, pero no había nadie. Luego madre e hija se quedaron ante el balcón abierto, mirando el lago, y el racimo de las luces de Évian en la costa francesa, y la cofia de nieve en las montañas.
+—Creo que llevamos aquí demasiado tiempo —dijo súbitamente la señora Schwartz—. Creo que me llevaré a John a Estados Unidos este otoño.
+Fifi se quedó pasmada.
+—Pero yo creía que John y yo íbamos a ir a París, a la Sorbona.
+—¿Y cómo voy a fiarme de él, en París? ¿Y te voy a dejar sola?
+—Es que ya nos hemos acostumbrado a vivir en Europa. ¿Para qué he aprendido a hablar francés? Mamá, ni siquiera conocemos a nadie en Estados Unidos.
+—Siempre conoceremos a alguien. Siempre lo hemos hecho.
+—Pero tú sabes que es distinto. Allí la gente es tan intolerante... En Estados Unidos una chica no tiene ocasión de conocer a hombres como los de aquí, si es que los hay. Y todo el mundo está pendiente de lo que hacen los demás.
+—Igual que aquí —dijo la madre—. Ese señor Weicker acaba de pararme en el vestíbulo; te vio entrar con John, y me estuvo diciendo que sois demasiado jóvenes para ir al bar. Le dije que tú sólo bebes limonada, y me respondió que eso no importa; escenas como la de esta noche hacen que la gente se vaya del hotel.
+—¡Qué miserable!
+—Así que pienso que lo mejor es que volvamos a América.
+Aquella frase vacía resonó desoladoramente en los oídos de Fifi. Se abrazó a la cintura de su madre dándose cuenta de que era ella y no su madre, pues su madre tenía un firme asidero en el pasado, quien estaba completamente perdida en el universo. En el sofá su hermano roncaba, parte del mundo de los débiles, de los que se apoyan unos en otros, satisfechos de su fétida y voluble calidez. Pero Fifi seguía mirando el cielo extranjero, segura de que podría abrir sus puertas y encontrar su propio camino a través de la envidia y la corrupción. Por primera vez pensó en serio casarse con Borowki inmediatamente.
+—¿No quieres bajar a decirles buenas noches a tus amigos? —sugirió su madre—. Hay todavía muchos que siguen preguntando por ti.
+Pero las Furias amenazaban a Fifi: amenazaban su falsa seguridad de niña y su inocencia, incluso su belleza, para derrumbarlo todo y arrastrarlo por el barro. Cuando negó con la cabeza y se fue de mal humor a su dormitorio, ya le habían arrebatado algo para siempre.
+II
+A la mañana siguiente la señora Schwartz fue al despacho del señor Weicker para denunciar la pérdida de doscientos dólares en moneda estadounidense. Había dejado el dinero encima de la cómoda antes de acostarse; cuando se despertó, ya no estaba. Había echado el cerrojo en la puerta del apartamento, pero por la mañana el cerrojo había sido corrido, aunque ninguno de sus hijos se había despertado todavía. Por fortuna se había llevado las joyas a la cama en una bolsa de gamuza.
+El señor Weicker decidió que la situación debía ser tratada con delicadeza. No pocos huéspedes del hotel se encontraban pasando apuros económicos y eran partidarios de soluciones extremas, pero el señor Weicker debía proceder con pies de plomo. En América, o se tiene dinero o no se tiene; en Europa el heredero de una fortuna puede no tener ni para pelarse hasta la muerte de un primo lejano, y ser considerado públicamente un sablista sin ofenderse lo más mínimo. El señor Weicker abrió el ejemplar del almanaque de Gotha que tenía en el despacho, y comprobó que Stanislas Karl Joseph Borowki estaba entroncado con la última rama de un linaje más antiguo que la corona de San Esteban. Aquella mañana, con un traje de montar tan elegante como el uniforme de un húsar, había salido a caballo con la impoluta y correcta señorita Howard. Y, por otra parte, no cabía la menor duda sobre quién era la víctima del robo, y la indignación del señor Weicker empezó a concentrarse en Fifi y su familia, que podían haberle ahorrado este problema si se hubieran ido del hotel hacía mucho tiempo. Incluso era concebible que el hijo disoluto de la familia, John, hubiera sisado el dinero.
+En cualquier caso, los Schwartz iban a volver a América. Llevaban tres años viviendo en hoteles, en París, Florencia, Saint Raphael, Como, Vichy, La Baule, Lucerna, Baden-Baden y Biarritz. En todas estas ciudades los niños habían ido al colegio —siempre a colegios nuevos— y ahora hablaban perfectamente francés y un poco, muy poco, de italiano. Fifi había dejado de ser una niña de catorce años demasiado desarrollada para convertirse en una belleza; John se había convertido en un lamentable caso perdido. Los dos sabían jugar al bridge, y en algún sitio Fifi había aprendido a bailar claque. La señora Schwartz tenía la impresión de que todo aquello era poco satisfactorio, pero no sabía por qué. Así que, dos días después del cumpleaños de Fifi anunció que harían las maletas, irían a París para comprar ropa de otoño y volverían a América.
+Aquella misma tarde Fifi fue al bar a recoger su gramófono, que llevaba allí desde la noche de la fiesta. Se sentó en un alto taburete y estuvo charlando con el camarero mientras se bebía un ginger-ale.
+—Mi madre quiere que vuelva con ella a América, pero yo no pienso ir.
+—¿Y qué piensa hacer?
+—Tengo un poco de dinero y a lo mejor me caso —tomó unos sorbos de ginger-ale con cara de mal humor.
+—He oído que les han robado algún dinero —señaló el camarero—. ¿Cómo ha sido?
+—Pues el conde Borowki cree que el ladrón entró en el apartamento antes de que llegáramos y se escondió entre las dos puertas que separan nuestro apartamento del apartamento de al lado. Y, mientras dormíamos, cogió el dinero y se fue.
+—¡Vaya!
+Fifi suspiró.
+—Bueno, a lo mejor es la última vez que vengo al bar.
+—La echaremos de menos, señorita Schwartz.
+El señor Weicker asomó la cabeza por la puerta, la retiró y se acercó despacio.
+—Hola —dijo Fifi con frialdad.
+—A usted quería yo verla, señorita —movía el dedo ante la cara de Fifi con burlón amaneramiento—. ¿No sabe que he hablado con su madre sobre sus visitas al bar? Sólo es por su bien.
+—Me estoy tomando un ginger-ale —dijo Fifi, indignada.
+—Pero nadie sabe lo que usted está tomando. Podría ser whisky o cualquier cosa. Y se quejan los clientes.
+Fifi clavó los ojos en el director, indignada. Aquella visión del mundo era completamente distinta de la suya: Fifi, centro vital del hotel; Fifi, envuelta en los vestidos más seductores y elevándose espléndida e inalcanzable sobre sus adoradores. Y de repente la cara servil, pero hostil, del señor Weicker la enfureció.
+—¡Nos vamos a ir de este hotel! —estalló—. Nunca había visto una pandilla de gente tan estrecha de miras; siempre están criticando a todo el mundo, inventándose las peores cosas de los demás, no importa lo que ellos hagan. Creo que sería estupendo que se prendiera fuego al hotel y ardiera hasta los cimientos con toda esa gentuza dentro.
+Dejó el vaso ruidosamente sobre la barra, cogió la maleta del fonógrafo y salió del bar con paso airado.
+En el vestíbulo un botones se apresuró a ayudarla, pero Fifi hizo un gesto de negación con la cabeza y atravesó corriendo el salón, donde se encontró con el conde Borowki.
+—¡Estoy que me subo por las paredes! —gritó—. ¡Nunca había visto a tantas alimañas juntas! ¡Acabo de decirle al señor Weicker lo que pienso de ellos!
+—¿Se ha atrevido alguien a faltarte al respeto?
+—Me da lo mismo. Volvemos a América.
+—¡Os vais! —el conde se había sobresaltado—. ¿Cuándo?
+—Ya. Yo no quiero, pero mamá dice que tenemos que irnos.
+—Tengo que hablar contigo muy en serio —dijo el conde—. Acabo de llamar por teléfono a tu habitación. Te he traído un pequeño regalo de compromiso.
+Cuando Fifi cogió la preciosa pitillera de oro y marfil, con sus iniciales grabadas, recuperó la alegría.
+—¡Es maravillosa!
+—Óyeme un momento; lo que me has dicho hace más importante lo que voy a decirte. Acabo de recibir carta de mi madre. Me han buscado una novia en Budapest: una chica maravillosa, guapa, rica y de mi misma clase social, que sería inmensamente feliz si nos casáramos, pero yo estoy enamorado de ti. Jamás lo hubiera creído posible, pero he perdido la cabeza por una americana.
+—¿Y por qué no? —dijo Fifi, indignada—. Aquí, para que digan que una chica es guapa, basta con que tenga algo que no esté mal. Y luego, aunque tenga el pelo o los ojos bonitos, tiene las piernas o los dientes torcidos.
+—Tú eres perfecta.
+—Ah, sí —dijo Fifi modestamente—. Tengo la nariz un poco grande. ¿No sabías que soy judía?
+Un poco impaciente, Borowki volvió a lo suyo:
+—Me están presionando para que me case. Es por cuestiones de herencia.
+—Además, tengo la frente demasiado grande —observó Fifi, ensimismada—. Es tan ancha que me hace una especie de arruga. Conocí a un chico muy gracioso que me decía que yo sí que tenía cinco dedos de frente.
+—Así que lo más sensato —prosiguió Borowki— es que nos casemos inmediatamente. Quiero decirte con toda franqueza que hay otras chicas americanas, no muy lejos de aquí, que no dudarían un momento.
+—Mamá se volvería loca —dijo Fifi.
+—También he pensado en eso —contestó el conde con vehemencia—. No le digas nada. Si cruzamos la frontera esta noche podríamos casarnos mañana por la mañana, luego volveríamos y le enseñarías a tu madre el escudo de armas, las coronas doradas pintadas en tus maletas. Mi opinión personal es que estaría encantada. Y tu disfrutarías, libre de ella, de una posición social sin igual en Europa. En mi opinión, probablemente tu madre ya lo haya pensado, y quizá se haya dicho: “¿Por qué estos dos no resuelven el asunto por su cuenta y me ahorran los trámites y el gasto de una boda?”. Yo creo que le gustaría que tuviéramos carácter.
+Dejó de hablar, impaciente, cuando lady Capps-Karr, saliendo del comedor con su pequinés, se detuvo por sorpresa junto a ellos. El conde Borowki se vio obligado a presentarlas. Como no se había enterado del desaire que el marqués Kinkallow le había hecho a lady Capps-Karr, ni de que Su Señoría se había ido a Milán aquella mañana con el corazón herido, no sospechaba lo que se avecinaba.
+—Ya me había fijado en la señorita Schwartz —dijo la inglesa con una voz clara, seca—. Y por supuesto me había fijado en los vestidos de la señorita Schwartz.
+—¿No se sienta? —dijo Fifi.
+—No, gracias —se dirigió a Borowki—: Los vestidos de la señorita Schwartz nos hacen parecer a todas un poco anodinas. A mí no me gusta vestirme con demasiado detalle cuando estoy en un hotel. Me parece de pésimo gusto. ¿No lo ve usted así?
+—Yo creo que la gente siempre debe ir bien vestida —dijo Fifi, ruborizándose.
+—Por supuesto. Lo único que digo es que me parece de pésimo gusto vestir con demasiado detalle, si no es en casa de los amigos.
+Lady Capps-Karr dedicó un sinuoso adiós a Borowki y siguió su camino, dejando a su paso una nube de humo de cigarrillo y una débil fragancia de whisky.
+El insulto había sido tan mordaz como el chasquido de un látigo, y, a la vez que el orgullo que Fifi sentía por su guardarropa se derrumbaba de repente, Fifi oyó todos los comentarios que no había oído antes, en un murmullo redivivo e inmenso. Así que habían dicho que se ponía aquellos trajes porque no tenía otro sitio donde ponérselos. Este era el motivo por el que la hija de los Howard la consideraba vulgar y no tenía ningún interés en conocerla.
+Por un instante su ira estalló, tomando como blanco a su madre, que no le había dicho nada, pero comprendió que su madre tampoco se había dado cuenta.
+—Me parece que no es nada elegante —se obligó a decir en voz en alta, pero por dentro estaba temblando—. ¿Y quién es ésa? Quiero decir: ¿tiene un título muy importante?
+—Es la viuda de un barón.
+—¿Y eso es importante? —Fifi permanecía impasible—. ¿Más importante que una condesa?
+—No. Una condesa es de mayor rangos infinitamente mayor —el conde Borowki acercó su silla hacia Fifi y empezó a hablarle con mucha atención.
+Media hora después Fifi se levantó con la indecisión reflejada en la cara.
+—A las siete espero una respuesta definitiva —dijo Borowki—, y a las diez tendré el coche listo.
+Fifi asintió con un gesto. El conde la acompañó hasta la puerta del salón y vio cómo desaparecía en el espejo en sombras del vestíbulo, camino del ascensor.
+Cuando volvió, lady Capps-Karr, sola en una mesa tomando café, le dijo:
+—Me gustaría hablar un momento con usted. ¿Le ha dicho usted a Weicker, por equivocación, que si hubiera algún problema yo avalaría su cuenta?
+Borowki se puso rojo.
+—Quizá le haya dicho algo parecido, pero...
+—Vale, yo le he dicho la verdad: que a usted no lo había visto en mi vida hasta hace quince días.
+—Yo, como es natural, he recurrido a una persona de igual rango...
+—¡Igual rango! ¡Qué caradura! Los únicos títulos que quedan son los ingleses. Debo rogarle que no vuelva a utilizar mi nombre.
+Borowki hizo una reverencia.
+—Semejantes inconvenientes pronto serán para mí agua pasada.
+—¿Se va a fugar usted con esa niña americana y ordinaria?
+—Le ruego que me perdone —dijo fríamente el conde.
+—No se enfade. Tómese un whisky con soda. Me estoy preparando para recibir a Bopes Kinkallow, que acaba de llamar por teléfono para decir que vuelve tambaleándose.
+Mientras, en el piso de arriba, la señora Schwartz le decía a Fifi:
+—Me hace ilusión volver a casa. Será estupendo volver a ver a los Hirst y a la señora Bell, a Amy y a Marjorie, y a Gladys, y a su nuevo hermanito. Y tú también te pondrás contenta; se te ha olvidado cómo son. Gladys y tú erais grandes amigas. Y Marjorie...
+—¡Ay, mamá, no me hables de eso! —exclamó Fifi, muy triste—. No quiero volver.
+—No hay ningún motivo para que nos quedemos. Si John va a la universidad como quería su padre, nosotras podríamos irnos a California.
+Pero para Fifi todas las aventuras de la vida se concentraban en los tres inolvidables años que había pasado en Europa. Recordaba a los altos guardias de Roma y al anciano español que por primera vez la había hecho consciente de su belleza en Como, en Villa d'Este, y al aviador de la armada francesa que en Saint Raphael le había lanzado una carta al jardín desde su areoplano, y la emoción que había sentido alguna vez bailando con Borowki, ataviado con botas relucientes y un dolmán de piel blanca.
+Había visto muchas películas americanas y sabía que las chicas de allí siempre se casaban con un chico fiel de su ciudad y que después acababa la película.
+—No pienso ir —dijo en voz alta.
+Su madre se volvió con un montón de ropa en los brazos.
+—¿Cómo se te ocurre hablar así, Fifi? ¿Crees que voy a dejarte aquí sola? —y, como Fifi no respondió, continuó en un tono terminante—: No me gusta oírte hablar así. Y ahora deja de quejarte y de decir tonterías, y ve a comprar a la ciudad. Aquí tienes la lista.
+Pero Fifi había tomado una decisión. Estaba Borowki, la oportunidad de vivir de verdad, a la aventura. El conde podría ingresar en el servicio diplomático, y, cuando un día encontraran a lady Capps-Karr y a la señorita Howard en un baile en la embajada, podría hacer en voz alta el comentario que en aquel momento le parecía apropiado: “No soporto a la gente que siempre parece que va o viene de un funeral”.
+—Venga, corre —continuó su madre—. Y mira si está tu hermano en el café, y te lo traes a tomar el té.
+Fifi cogió la lista de la compra con un gesto mecánico. Luego entró en su habitación y escribió una nota para Borowki, que le dejaría al conserje cuando saliera.
+Cuando ya se iba, vio a su madre que luchaba con un baúl, y le dio una pena infinita. Pero en América estaban Amy y Gladys, y Fifi se sintió más fuerte.
+Bajaba las escaleras cuando recordó que, distraída, había olvidado mirarse, como era obligatorio, al espejo; pero, precisamente a la entrada del gran salón, había un gran espejo en la pared, y frente a él se detuvo.
+Era preciosa: volvía a comprobarlo, aunque ahora se pusiera triste. Se preguntó si el vestido que llevaba aquella tarde era de mal gusto, si alimentaría la sensación de superioridad de la señorita Howard y lady Capps-Karr. A ella le parecía un traje maravilloso, de corte elegante, sencillo, pero el color era un azul metálico claro, demasiado vivo.
+Entonces, de repente, un ruido rompió la tranquilidad del vestíbulo en penumbra y Fifi se quedó sin respiración y paralizada.
+III
+A las once el señor Weicker estaba cansado, pero en el bar reinaba uno de sus habituales tumultos y el director estaba esperando a que la situación se tranquilizara. No había nada que hacer en su mohoso despacho ni en el vestíbulo vacío; y el salón, donde durante todo el día mantenía largas conversaciones con inglesas y americanas solitarias, estaba desierto, así que salió por la puerta principal y empezó a dar su acostumbrada vuelta alrededor del hotel. Ya fuera por su ronda, o por las miradas frecuentes a las luces titilantes de los dormitorios y a través de las humildes ventanas enrejadas de la planta de las cocinas, el paseo le dio la impresión de que el hotel estaba bajo su control, que él era el responsable idóneo, como si el hotel fuera un barco y lo contemplara desde el puente de mando.
+Atravesó un torrente de ruido y música que llegaba del bar, dejó atrás una ventana en la que dos chicos sentados en una cama jugaban a las cartas junto a una botella de vino español. En el piso de arriba, en alguna parte, sonaba un gramófono, y una figura de mujer tapaba una ventana; luego recorrió el ala silenciosa del edificio y, al doblar la esquina, volvió al punto de partida y, frente al hotel, a la débil luz de la puerta del garaje, vio al conde Borowki.
+Algo le hizo detenerse —algo que no parecía lógico— y vigilar a Borowki, que no podía pagar la cuenta, pero tenía un coche con chófer. Borowki le estaba dando al chófer órdenes precisas, y entonces el señor Weicker se dio cuenta de que llevaba una bolsa en el asiento delantero, y dio un paso hacia la luz.
+—¿Nos deja usted, conde Borowki?
+La voz sobresaltó a Borowki.
+—Sólo por esta noche —contestó—. Voy a ver a mi madre.
+—Ya.
+Borowki lo miró con aire de reproche.
+—Mi baúl y mi caja de sombreros están en mi habitación, puede comprobarlo. ¿Acaso cree que me doy a la fuga sin pagar la cuenta?
+—Desde luego que no. Espero que tenga un buen viaje y que su madre esté bien.
+Pero una vez dentro del hotel, tomó la precaución de enviar a un valet de chambre para ver si era verdad que el equipaje seguía en la habitación, e incluso le ordenó que comprobara el peso para evitar sorpresas.
+Dio una cabezada. Cuando se despertó, más o menos una hora después, el conserje nocturno le tiraba del brazo y había un fuerte olor a quemado en el vestíbulo. Pasaron unos minutos antes de que entendiera que un ala del hotel estaba en llamas.
+Mandó al conserje dar la alarma y bajó corriendo al vestíbulo del bar, y, a través del humo que salía por la puerta, vislumbró la mesa de billar envuelta en llamas, y las llamas que lamían el suelo y crecían en un éxtasis alcohólico cada vez que el calor hacía estallar una botella de las estanterías. Cuando retrocedía a toda prisa tropezó con una fila de chasseurs a medio vestir y mozos que desde las profundidades del hotel luchaban contra el fuego con cubos de agua. El conserje gritaba que los bomberos estaban en camino. El señor Weicker puso a dos hombres al teléfono para que despertaran a los huéspedes, y cuando corría para formar una cadena de cubos de agua en el lugar del peligro, se acordó de Fifi.
+Estaba ciego de rabia: con crueldad precoz, propia de una piel roja, había cumplido su amenaza. Ah, ya arreglaría este asunto más tarde; aún había leyes. Y, mientras, un estruendo en el exterior anunció que los bomberos habían llegado, y Weicker volvió a recorrer el vestíbulo, lleno ahora de hombres en pijama con maletines en la mano, y mujeres en camisón con joyeros y perritos en los brazos; el número crecía incesantemente y la conversación transformaba su ritmo soñoliento en el zumbido irregular de una reunión a media tarde.
+Un chasseur llamó al señor Weicker al teléfono, pero el director se lo quitó de encima con impaciencia.
+—Es el comisario de policía —insistió el chico—. Dice que tiene que hablar con usted.
+Con una exclamación el señor Weicker entró corriendo en su despacho.
+—¡Diga!
+—Llamo desde comisaría. ¿Hablo con el director?
+—Sí, pero tenemos un incendio en el hotel.
+—¿Hay entre sus clientes un individuo que dice llamarse conde Borowki?
+—¿Cómo? Sí, sí...
+—Vamos a llevarlo al hotel para que lo identifique. Lo hemos detenido en la carretera por cierta información que habíamos recibido.
+—Pero...
+—Hemos detenido con él a una chica. Vamos a llevarlos a los dos al hotel inmediatamente.
+—Quería decirle que...
+A través del auricular el señor Weicker percibió un brusco clip y volvió corriendo al vestíbulo, donde el humo empezaba a disiparse. Las mangueras habían funcionado cinco minutos y el bar era un montón de ruinas mojadas y carbonizadas. El señor Weicker empezó a pasear arriba y abajo, entre los huéspedes, tranquilizándolos; las telefonistas volvieron a llamar a las habitaciones, para advertir a los huéspedes que no habían bajado al vestíbulo que podían volver a la cama; y entonces, mientras le pedían una y otra vez que explicara el suceso, el señor Weicker volvió a acordarse de Fifi, y esta vez, por propia decisión, se dirigió al teléfono.
+La voz angustiada de la señora Schwartz respondió: Fifi no estaba. Era lo que quería saber el señor Weicker. Colgó bruscamente. La historia estaba clara, y no se le hubiera podido ocurrir nada más sórdido: un incendio provocado y un intento de fuga con un individuo buscado por la policía. Había llegado la hora de pagar, y no serviría para nada todo el dinero de América. Si la temporada estaba perdida, por lo menos a Fifi se le habían acabado todas las temporadas. Iría a una institución para chicas donde el uniforme reglamentario sería mucho más sencillo que todos los vestidos que se había puesto en su vida.
+Mientras el último de los huéspedes entraba en el ascensor, dejando sólo unos pocos curiosos entre los escombros empapados, otra procesión entraba por la puerta principal. Eran un hombre de paisano y una muralla de policías que rodeaba a dos detenidos. El comisario dio una orden y los policías se retiraron.
+—Quiero que identifique a estos dos. ¿Ha estado este individuo hospedado aquí bajo el nombre de Borowki?
+El señor Weicker lo miró.
+—Sí.
+—Desde hace un año estaba bajo orden de búsqueda y captura en Italia, Francia y España. ¿Y esta chica?
+Estaba medio escondida tras Borowki, con la cabeza baja, y la cara entre sombras. El señor Weicker se inclinó y estiró el cuello con un gesto de impaciencia. A quien tenía delante era a la señorita Howard. Una oleada de horror se apoderó del señor Weicker. Volvió a estirar el cuello como si la intensidad de su asombro pudiera convertir a la señorita Howard en Fifi, como si, mirando a través de ella, pudiera encontrar a Fifi. Pero resultaba difícil, pues Fifi se encontraba muy lejos. Estaba a las puertas del café, ayudando a un tambaleante y poco dispuesto John Schwartz a subir a un taxi.
+—Ya te he dicho que no puedes volver al café, mamá dice que tienes que ir al hotel inmediatamente.
+IV
+El conde Borowki se tomó su encarcelamiento con cierta elegancia, como si, después de vivir tanto tiempo de su ingenio y artimañas, le causara cierto alivio que un organismo ajeno planeara sus días. Pero echaba de menos la falta de contactos con el mundo exterior, y se alegró muchísimo cuando, cuatro días después de su detención, recibió la visita de lady Capps-Karr.
+—Después de todo —dijo la dama—, un amigacho es un amigacho y un íntimo es un íntimo, pase lo que pase. Afortunadamente, el cónsul es amigo de mi padre, si no, no me hubieran permitido verte; incluso he intentado pagar una fianza, porque les he dicho que estuviste en Oxford un año y hablas inglés perfectamente, pero estos salvajes no me hacen caso.
+—Me temo que sea inútil —dijo el conde Borowki con pesimismo—. Cuando terminen de juzgarme, habré viajado gratis por toda Europa.
+—Pero no es lo único indignante —continuó lady Capps-Karr—. Estos idiotas nos han echado a Bopes y a mí del Hotel des Trois Mondes, y las autoridades están intentando obligarnos a dejar la ciudad.
+—¿Porqué?
+—Quieren echarnos la culpa de ese latazo de incendio.
+—¿Fuisteis vosotros?
+—Prendimos fuego a una copa de coñac porque queríamos freír patatas en alcohol, y el camarero había ido a acostarse y nos había dejado solos. Pero, por las cosas que dice el muy canalla, se diría que habíamos ido allí con la única intención de quemar a todo el mundo mientras dormía. Es una barbaridad, y Bopes está furioso. Dice que no volverá aquí en su vida. He ido al consulado y están de acuerdo en que todo el asunto es una absoluta vergüenza, y han enviado un telegrama al Ministerio de Asuntos Exteriores.
+Borowki se quedó pensativo unos segundos.
+—Si volviera a nacer —dijo muy despacio—, creo, sin ningún género de dudas, que elegiría ser inglés.
+—¡Yo elegiría ser cualquier cosa menos americana! A propósito, los Taylor ya no van a presentar a la señorita Howard en la Corte por el modo escandaloso con que los periódicos se han ocupado del asunto.
+—Lo que no llego a entender es por qué sospechó Fifi —dijo Borowki.
+—Entonces, ¿fue la señorita Schwartz la que dio el soplo a la policía?
+—Sí. Yo creía que la había convencido para que se fugara conmigo, y sabía que si no lo hacía me bastaría chasquear los dedos para que la otra chica... Aquella misma tarde Fifi fue a la joyería y descubrió que yo había pagado la pitillera con uno de los billetes de cien dólares que había cogido de la cómoda de su madre. Y fue directamente a la policía.
+—¡Sin hablar antes contigo! Después de todo, un amigacho es un amigacho...
+—Pero lo que me gustaría saber es qué la hizo sospechar e investigar, qué la volvió contra mí.
+Fifi, en aquel mismo momento, sentada en un alto taburete del bar de un hotel de París, bebía limonada a sorbos y respondía aquella misma pregunta a un camarero que demostraba auténtico interés.
+—Yo estaba en el vestíbulo mirándome al espejo —decía—, y le oí hablar con la señora inglesa, la que prendió fuego al hotel. Y le oí decir: “Después de todo, mi única pesadilla es que acabe pareciéndose a su madre” —Fifi echaba chispas de indignación—. Usted ha visto a mi madre, ¿no?
+—Sí, y es una señora muy guapa.
+—Desde aquel momento pensé que había algo raro, y me preguntaba cuánto le habría costado la pitillera. Y fui a enterarme. Y en la joyería me enseñaron el billete con que había pagado.
+—¿Y ahora vuelven ustedes a América? —preguntó el camarero.
+Fifi acabó de beberse su limonada; la pajita hizo un gorgoteo con el azúcar del fondo.
+—Tenemos que volver para testificar en el juicio, y nos quedaremos unos meses más —se levantó—. Adiós, tengo que probarme un vestido.
+No la habían atrapado, todavía no. Las Furias se habían apartado un poco y esperaban al fondo del escenario con cierto rechinar de dientes. Tenían tiempo de sobra.
+Pero, mientras Fifi atravesaba el vestíbulo contoneándose, con la cara radiante de nuevas esperanzas, y salía a buscar su destino aunque pareciera que iba al couturier, la Furia de más edad y mayor experiencia tuvo ciertas dudas de que, después de todo, consiguieran atrapar a Fifi algún día.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

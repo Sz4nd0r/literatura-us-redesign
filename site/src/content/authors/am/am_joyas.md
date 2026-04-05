@@ -1,0 +1,71 @@
+---
+layout: story
+title: Las joyas
+slug: am_joyas
+source: https://www.literatura.us/idiomas/am/am_joyas.html
+tags:
+  - am_joyas
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+Las joyas (1950)
+(“I gioielli”)
+Originalmente publicado en el periódico Il Corriere della Sera (23 de julio de 1950);
+Racconti romani
+(Milán: Bompiani, 1954, 439 págs.)
+Cuando una mujer entra en un grupo de amigos, puede decirse, sin lugar a dudas, que el grupo está a punto de disolverse y que cada uno se irá por su lado. Aquel año formábamos un grupo de jóvenes muy bien avenidos, siempre unidos, siempre de acuerdo, siempre juntos. Todos ganábamos bastante, Tore con el garaje, los dos hermanos Modesti con su comercio de intermediarios de carnes del matadero, Pipo Morganti con su salchichería, Rinaldo con el bar y yo con las cosas más diversas: en aquel momento me ocupaba de resinas y productos afines. Aunque todos fuéramos menores de treinta años, ninguno de nosotros pesaba menos de ochenta o noventa kilos; teníamos buenas tragaderas, como suele decirse. De día, trabajábamos; pero, a partir de las siete de la tarde, estábamos siempre juntos, primero en el bar de Rinaldo, en el corso Vittorio y luego en una trattoria con jardín, hacia la Chiesa Nuova. Los domingos los pasábamos juntos, naturalmente: o en el estadio a ver el partido, o en una excursión a los Castelli, o, en el verano, en Ostia o en Ladispoli. Eramos seis, pero puede decirse que sólo éramos uno. Así, cuando uno de nosotros tenía un capricho, supongamos, inmediatamente lo tenían los otros cinco.
+Tore empezó con lo de las joyas; una noche se presentó en la trattoria llevando en la muñeca un cronómetro de oro macizo, con una pulsera de mallas, también de oro, de tres dedos de ancha. Le preguntamos quién se lo había regalado.
+—El director del Banco de Italia —dijo, dando a entender que se lo había comprado con su dinero.
+Luego se lo quitó y nos lo enseñó: era un reloj de marca, con doble caja, marcaba los segundos y pesaba no sé cuanto, con aquella pulsera tan gruesa. Causó sensación. Alguien dijo:
+—Una inversión.
+—De inversión, nada... —respondió Tore—. Me gusta llevarlo en la muñeca, eso es todo.
+Al día siguiente, en la trattoria de costumbre, también Morganti apareció con su reloj, de pulsera de oro. por supuesto, aunque no tan pesado. Después le tocó el turno a los hermanos Modesti, que se compraron uno cada uno, más grande que el de Tore pero con las mallas de la pulsera menos tupidas. En cuanto a Rinaldo y a mí, como nos gustaba el de Tore, le preguntamos dónde lo había comprado y fuimos juntos a buscarlo en un buen comercio del Corso.
+Estábamos en mayo y con frecuencia, por la noche, íbamos a Monte Mario, a la hostería, a beber vino y a comer habas frescas y queso de oveja. Una de aquellas tardes Tore alargó una mano para coger una haba y todos vimos en su dedo un anillo macizo, con un brillante no muy grande, pero sí hermoso.
+—¡Cáspita! —exclamamos.
+—Pero no me imitéis esta vez —dijo, brutalmente—, monos, que sois unos monos de imitación... Este me lo he comprado para distinguirme.
+Sin embargo, se lo qouitó y nos lo fuimos pasando: era un brillante bellísimo, límpido, perfecto. Pero Tore es un hombretón un poco blanco, con una cara chata y temblorosa, dos ojillos de cerdo, una nariz como de mantequilla y una boca que parece un bolso desquiciado. Con aquel anillo en el dedo gordo y pequeño y aquel reloj en la muñeca rechoncha, casi parecía una mujer. El anillo con el brillante no fue imitado, como él quería. Pero todos nos compramos nuestro buen anillo. Los Modesti se encargaron dos anillos iguales, de oro rojo, pero con piedras duras diferentes, una verde y otra azul; Rinaldo se compró un anillo de forma antigua, calado y cincelado, con un camafeo marrón en el que se veía la figurita blanca de una mujer desnuda; Morganti, pretencioso como siempre, se compró un anillo de platino, con una piedra negra; yo, más normal, me contenté con un anillo de engarce cuadrado, con una piedra amarilla, plana, en la que hice grabar mis iniciales para que me sirviera como sello en el lacre de los paquetes. Después de los anillos llegó la vez de las pitilleras. Comenzó, como de costumbre, Tore, abriéndonos en las narices un estuche largo y aplastado, naturalmente de oro, con rayas entrecruzadas, y luego todos lo imitaron, de un modo u otro. Después de las pitilleras echamos a volar la imaginación: uno se compró un brazalete con un colgante para llevar en la otra muñeca; otro, una pluma estilográfica aerodinámica; otro, una cadenita con una cruz y una medalla de la Virgen para colgársela del cuello; otro, un encendedor. Tore, más presumido que los demás, se encargó otros tres anillos, y ahora parecía más que nunca una mujer, sobre todo cuando se quitaba la chaqueta y se quedaba en camisa de mangas cortas, enseñando sus gruesos y blandos brazos que terminaban en las manos llenas de anillos.
+Estábamos cargados de joyas; y no sé por qué, precisamente entonces empezaron a estropearse las cosas. Nada importante: alguna broma, alguna frase punzante, alguna respuesta seca. Hasta que, una de esas tardes, Rinaldo, el propietario del bar, se presentó con una muchacha, su nueva cajera, en la trattoria de costumbre. Se llamaba Lucrezia, quizás no tenía aún veinte años, pero estaba tan bien formada como una mujer de treinta. Tenía unas carnes blancas como la leche, ojos negros, grandes, parados y sin expresión, boca roja, cabellos negros. Parecía una estatua, y además estaba siempre muy comedida e inmóvil, casi sin hablar. Rinaldo nos confió que la había encontrado por medio de un anuncio por palabras y dijo que no sabía nada de ella, ni siquiera si tenía familia o con quién vivía. Era lo que necesitaba para la caja, dijo: una muchacha así hacía afluir clientes con su belleza y luego, con su seriedad, los mantenía a distancia; una fea no atrae, y una guapa, pero fácil, no trabaja y provoca desorden. Aquella noche la presencia de Lucrezia nos cohibió; estuvimos todo el tiempo envarados, con las chaquetas puestas, hablando con comedimiento, sin bromas ni palabrotas, comiendo muy educadamente, y hasta Tore intentó comer la fruta con cuchillo y tenedor, aunque sin gran éxito. Al día siguiente nos precipitamos todos al bar para verla en funciones. Estaba sentada en un minúsculo taburete, del que se desbordaban sus nalgas, demasiado anchas para su edad; su exuberante pecho casi apretaba las teclas de la máquina registradora. Todos nos quedamos con la boca abierta al verla, tranquila, precisa, sin prisas, distribuyendo los tickets con el precio, apretando una tras otra las teclas de la máquina, sin mirarlas siquiera, con los ojos fijos en el aire ante sí, hacia el mostrador del bar. Cada vez advertía al barman con una voz tranquila, impersonal:
+—Dos cafés... Un bitter... Una naranjada... Una cerveza.
+No sonreía nunca, no miraba nunca al cliente, y eso que había algunos que se le metían debajo de la nariz para que los mirase. Estaba vestida bien, pero como la muchacha pobre que era: un traje blanco, sin mangas, sencillo. Pero limpio, fresco, bien planchado. No tenía joyas, ni siquiera pendientes, aunque sus orejas estaban agujereadas en los lóbulos. Nosotros, se comprende, al verla tan hermosa, comenzamos a bromear, animados por Rinaldo, orgulloso de ella. Pero, tras las primeras bromas, nos dijo:
+—Nos veremos esta noche en la trattoria, ¿no?... Mientras tanto, dejadme en paz... Cuando trabajo no me gusta que me molesten.
+Tore, a quien se dirigían estas palabras, porque era el más descarado e insistente, dijo, con fingido asombro:
+—Perdone, sabe... Somos pobre gente... No sabíamos que teníamos que vérnoslas con una princesa... Perdone... no queríamos ofenderla.
+—No soy una princesa —replicó, secamente—, sino una pobre chica que trabaja para vivir... Y no me habéis ofendido... Un café y un bitter.
+En resumen, nos marchamos casi mortificados.
+Por la noche nos encontramos, como de costumbre, en la trattoria. Rinaldo llegó el último, con Lucrezia, e inmediatamente encargamos la cena. Durante un rato, mientras esperábamos los platos, volvimos a encontrarnos cohibidos; luego, el dueño trajo una gran bandeja con el pollo a la romana, en trozos, con salsa de tomate y pimientos. Entonces nos miramos a las caras y Tore, interpretando el sentir general, exclamó:
+—¿Sabéis lo que os digo? En la mesa me gusta estar con toda libertad... Haced lo que yo y os encontraréis a gusto.
+Y al hablar así aferró un muslo y, con las dos manos llenas de anillos, se lo llevó a la boca y comenzó a devorarlo. Fue la señal; tras un momento de vacilación, todos comíamos con las manos. Todos, salvo Rinaldo y, naturalmente, Lucrezia, que apenas si pellizcó un trocito de pechuga. Después de aquel primer momento, tranquilizados, volvimos en todo y por todo a la antigua algazara: comíamos hablando y hablábamos comiendo; entre un bocado y otro nos echábamos al coleto vasos llenos de vino; nos arrellanábamos en las sillas, contábamos los consabidos chistes atrevidos. Más aún, quizás en son de desafío, empezamos a comportarnos peor que de costumbre; y no recuerdo haber comido nunca tanto ni tan a gusto como aquella noche. Cuando acabó la cena, Tore se aflojó la hebilla de los pantalones y lanzó un profundo eructo, capaz de hacer temblar el techo de no haber estado al aire libre, bajo un emparrado.
+—¡Uf! Me encuentro mucho mejor —declaró.
+Tomó un palillo y empezó a hurgarse los dientes, uno por uno, para después recomenzar; y, por último, con el palillo clavado en una comisura, nos contó no sé qué historia verdaderamente licenciosa. Lucrezia, entonces, se levantó y dijo:
+—Rinaldo, estoy cansada... Si no te molesta, acompáñame a casa.
+Todos nos lanzamos una ojeada significativa; hacía apenas dos días que estaba de cajera y ya lo tuteaba y lo llamaba por su nombre. ¡Para un anuncio por palabras, no estaba nada mal! Se fueron, y tan pronto como se alejaron Tore soltó otro eructo y dijo:
+—¡Ya era horal... No aguantaba más... ¿Habéis visto qué soberbia?... Y él, que se iba detrás, tan buenecito... un cordero... Pero lo que es el anuncio por palabras..., digamos, más bien que era un anuncio matrimonial...
+Durante dos o tres días se repitieron las mismas escenas: Lucrezia, comiendo silenciosa y circunspecta; nosotros, fingiendo que no advertíamos su presencia, y Rinaldo, que no sabía cómo comportarse entre Lucrezia y nosotros. Pero algo se preparaba, todos lo notábamos: la muchacha, agua mansa, no lo demostraba, pero todo el tiempo quería que Rinaldo eligiera entre ella y nosotros. Por fin, una noche, sin ninguna razón precisa, quizás porque hacía calor y ya se sabe que el calor ataca a los nervios, Rinaldo, mediada la comida, nos agredió de este modo:
+—Es la última vez que vengo a comer con vosotros.
+Nos quedamos estupefactos, y Tore preguntó:
+—¿De verdad? ¿Puede saberse por qué?
+—Porque me desagradáis.
+—¿Te desagradamos? Lo lamentamos, lo lamentamos muchísimo.
+—Sois una piara de cerdos, eso es lo que sois.
+—Ojo con lo que dices... ¿Estás loco?
+—Sí, sois una piara de cerdos, lo digo y lo repito... Comiendo con vosotros me dan ganas de vomitar.
+Todos estábamos rojos de ira, alguno se había levantado.
+—Por de pronto —dijo Tore—, tú eres el primer cerdo... ¿Quién te autoriza a juzgarnos? ¿No estábamos siempre juntos? ¿No hacíamos siempre las mismas cosas?
+—Cállate, tú —le dijo Rinaldo—, que con todas esas joyas encima pareces una de esas... Sólo te falta el perfume. Dime, ¿no has pensado nunca en perfumarte?
+El golpe estaba dirigido contra todos nosotros; comprendiendo de dónde venía, miramos a Lucrezia. Pero ella, hipócrita, no hacía más que tironear a Rinaldo de la manga, recomendándole que se callase y se fuera. Tore dijo, entonces:
+—También tú tienes joyas... También tú tienes tu anillo, tu reloj, tu brazalete... igual que los demás.
+Y Rinaldo, fuera de sí:
+—Pues yo, ¿sabéis lo que hago? Me los quito y se los doy a ella... Ten, Lucrezia, te los regalo.
+Y diciendo así se quitó el anillo, el brazalete, el reloj, se sacó del bolsillo la pitillera y se lo echó todo en el regazo de la muchacha.
+—Vosotros —dijo, insultante— no lo haréis... No podéis hacerlo.
+—¡Vete al infierno! —dijo Tore; pero era evidente que ahora se avergonzaba de tener todos aquellos anillos en los dedos.
+—Rinaldo, coge tus cosas y vayámonos —dijo Lucrezia, muy tranquila.
+Recogió en un montón todas las alhajas que Rinaldo le había dado y se las metió a él en un bolsillo. Pero Rinaldo, no sé por qué rencor que tenía hacia nosotros, siguió insultándonos mientras se dejaba arrastrar por Lucrezia:
+—Sois una piara de cerdos, os lo aseguro... Aprended a comer, aprended a vivir... ¡Cerdos!
+—¡Cretino! —le gritó Tore, furioso—. ¡Ignorante!... Te has dejado embaucar por esa otra cretina que va a tu lado.
+Hubieran tenido que ver ustedes a Rinaldo. Saltó a través de la mesa, aferró a Tore por las solapas de la camisa. En resumidas cuentas, tuvimos que separarlos.
+Aquella noche, cuando se hubieron ido, no resollamos y nos fuimos también nosotros pocos minutos después. A la noche siguiente nos volvimos a encontrar, pero ya se había acabado la antigua alegría. Además, observamos que muchos de los anillos habían desaparecido, y también algún reloj. Dos noches después estábamos todos sin joyas pero más mohinos que nunca. Pasó una semana y, luego, unos con una excusa y los demás con otra, dejamos de reunirnos. Se había acabado, estaba claro, y las cosas, cuando se acaban, no vuelven a empezar. A nadie le gusta la sopa recalentada. Después he sabido que Rinaldo se ha casado un día de estos con Lucrezia; me dijeron que, en la iglesia, ella estaba más cubierta de joyas que una estatua de la Virgen. ¿Y Tore? Hace tiempo lo he visto en su garaje. Tenía un anillo en el dedo, pero no era de oro, y sin brillante: uno de esos anillos de plata que suelen llevar los mecánicos.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

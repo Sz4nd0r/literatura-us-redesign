@@ -1,0 +1,113 @@
+---
+layout: story
+title: Dinamarquero
+slug: quero
+source: https://www.literatura.us/donoso/quero.html
+tags:
+  - quero
+  - donoso
+---
+José Donoso
+(Santiago, Chile, 1924 - Santiago, Chile, 1996)
+Dinamarquero
+(1955)
+Veraneo y otros cuentos
+(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs.)
+págs. 101-114;
+Los mejores cuentos de José Donoso
+(selección de Luis Domínguez)
+(Santiago: Zig-Zag, 1966)
+Esa tarde, después del trabajo, don Gaspar, el conta-
+dor, dijo que tenía sed. Yo me dejé convencer fácilmente, porque en el aislamiento de una estancia magallánica cualquier pretexto para romper la monotonía es una bendición, aunque el pretexto mismo haya llegado a ser habitual. Don Gaspar y yo acostumbrábamos ir al Puesto Dinamarquero los sábados y domingos, pero entonces la sed era tan rutinaria, que ni necesitábamos esa excusa para ir. Esos días solía haber treinta o cuarenta caballos atados a la vara del Puesto, y en la penumbra del interior, llena de humo y bullanga y peleas, doña Concepción y la Licha cambiaban en silencio las botellas vacías y las velas gastadas en las mesas. Pero además de los sábados y domingos, resultaba que clon Gaspar sentía sed de cuando en cuando en día de trabajo, y a esto sí se le podía atribuir carácter excepcional. En esta ocasión, además de sed, yo alegué mi necesidad de despedirme —debía partir dentro de la semana y para siempre—, y don Gaspar, su deseo de felicitar a la Licha por su próximo matrimonio.
+Eran las cinco. Ensillamos y partimos al galope por la huella que conduce a Dinamarquero. Tendríamos luz hasta llegar, porque en, verano el crepúsculo no se insinúa hasta cerca de las diez. Reflexioné que, siendo ésta la última vez que hacía el camino, era necesario que mirara todo muy bien, con el fin de recordarlo más tarde en días y lugares distantes. Pero no había qué mirar. Parecíamos no avanzar, tan monótono era el paisaje, si puede dársele ese nombre a la nada lisa de la pampa, a aquella circunferencia en cuyo centro frío y ventoso permanecíamos a pesar del galope de nuestros caballos. Sólo el cielo cambiaba. Pasaban nubes echando charcas de sombras que flotaban o retrocedían llevadas por el viento, mientras el sol seguía su camino sin prisa por la inmensa comba del cielo.
+De pronto una mancha obscura en el horizonte. Divisarla a lo lejos como si
+estuviera cayéndose al borde del planeta, y luego agrandarse, nos volvía a colocar dentro del tiempo y de las distancias mensurables. Luego, al verla acusarse como el pequeño cubo de fierro acanalado del Puesto, abrupto en medio de la pampa calva, algo se agitaba dentro de nosotros, contentamiento, paz, porque teníamos la certeza de que allí nos aguardaba por fin tibieza y vino, y gente distinta a aquella con que trabajábamos todos los días. Ademas, había dos mujeres: doña Concepción, gruesa y sonriente, dueña del Puesto, y su hija, la Licha, flaca como una sombra.
+Como era día de la semana, no encontramos más de media docena de caballos en la vara. Atamos los nuestros junto a los otros y mientras miré el tizne rojizo que ceñía el horizonte por el oeste —para calcular así cuánto tiempo nos sería posible permanecer en el Puesto— me calenté las manos ateridas en el hocico humeante de mi yegua.
+Doña Concepción salió a recibirnos dando muestras de gran sorpresa y alegría. Siempre se podía contar con su palabra amable y su buen humor. Claro, tenía su hija, y tenía su puesto propio, que buen dinero debía darle: cobraba precios tan exorbitantes por todo, que no era raro pasar años tratando de deshacerse de las deudas contraídas allí. Sin embargo, creó que íbamos a Dinamarquero, más que nada, por estar cerca de ella. Era poco menos que la única mujer de la comarca —la Licha no contaba—, y a pesar de sus años y de su grasa nos recordaba todo un mundo de agrado. Vestía siempre de negro porque era viuda. Su rostro fofo y encalado solía desordenarse con carcajadas tan violentas, que todo el exceso de carnes blandas tardaba unos minutos en recobrar equilibrio en torno a los ojos espesos de maquillaje, a los labios carnudos y pálidos, a la diminuta nariz. Nos condujo a una mesa junto a la estufa, llamando a la Licha para que nos atendiera. La muchacha lo hizo sin calor ni entusiasmo.
+Doña Concepción se mostró desolada al oir que venía a despedirme.
+—¡Qué solita voy a quedar! —exclamó, sonriendo.
+Su mano tuvo un temblor insólito al colocar los vasos en la mesa, y observé que su pelo retinto estaba en desorden, lo que en ella no era habitual. Miré a don Gaspar, por si él hubiera visto lo mismo que yo, pero el pequeño anciano desvió los ojos como si tuviera vergüenza. Al apurar el primer trago produjo ruido en su gaznate nervudo, curtido por el vino y el viento.
+—¡Qué solita voy a quedar! —repitió más bajo doña Concepción.
+Pensé que también se refería al matrimonio de su hija, quien, según se dijo, debía partir a la mañana siguiente para casarse en Punta Arenas. Luego se puso de pie y su masa enorme desapareció por la puerta de la cocina con paso inseguro.
+—Parece que doña Concepción está un poco rara hoy... —aventuré.
+Don Gaspar no respondió. Tenía una manera curiosa de beber. Mantenía su cuerpo muy tieso en la silla, empuñando sus manos velludas y pesadas en el borde de la mesa, sin volver a sacarlas de allí más que para llenar el vaso y llevárselo a la boca. Pero ahora estaba derrumbado en el asiento, sin que sus dedos se decidieran por una posición estable. Después de un rato, masculló:
+—Es que la Licha se va, y es muy solo por aquí...
+En realidad, había poca gente en el Puesto esa noche. En una mesa, tres hombres silenciosos jugaban al naipe en torno de una vela. En otra, un hombre solo inclinaba su silla hacia atrás hasta topar el muro, bebía un poco, canturreaba apenas, y de vez en cuando miraba el cadáver de luz plana que quedaba en los vidrios, o parecía prestar oído al viento que, después de arrastrarse por la pampa, venía a cortarse, silbando, en los ángulos de la casa.
+—Debíamos felicitar al gringo Darling —insinué—. Mire, ahí anda...
+Don Gaspar miró para ese lado, encogiéndose de hombros al ver que la larga figura encorvada del escocés rondaba entre las mesas, siguiendo a la Licha. Estaba llorosa cuando trajo la botella que pidiéramos. Don Gaspar le preguntó:
+—¿Qué te pasa, chiquilla?
+—Nada... Otro de esos orzuelos no más —fue su respuesta.
+Apenas tenía rostro. Chato y pálido, todo era mezquino en él: los ojos, la nariz, la boca delgada. Pelo no tenía sino unas cuantas hilachas lacias.
+En el momento en que la Licha iba a retirarse, don Gaspar le tomó la muñeca. Quedó helada, mirándolo. Después rompió a llorar. El gringo Darling se acercó renqueando y la tomó de los hombros.
+—¡Le contó de pura envidiosa! —exclamó la muchacha—. Nada más que para que no me casara. ¡Pero me voy a casar de todas maneras! Apuesto que hasta usted se habrá acostado con la vieja cochina...
+—Pero, Licha, qué importa —dijo el gringo con su media lengua—, yo sabía todo eso antes que tú nacieras...
+La Licha se secó los ojos con la punta del delantal, y sorbiendo todavía, se fue a servir a otra mesa, seguida a cierta distancia por el gringo.
+—Pasa lo que tenía que pasar —murmuró el contador.
+—Pero ¿por qué tanto lloro y tanto insulto? Ni que se fueran a morir.
+—Es que la Concepción no se conforma. Uno se pone feroz aquí cuando se va a quedar solo.
+—Pero ¿qué pasa? Nunca había visto así a la Licha, y menos a doña Concepción. Debían estar contentas de pescarse al gringo, que para más remate va a ser administrador. No entiendo...
+—¡Claro que no entiende! Yo, que he estado tantos años aquí, no entiendo, y va a entender usted... A la Concepción, por ejemplo, no la conozco. ¡Y la conocí dos años después de que llegué del norte a esta estancia, hace más de treinta!
+“Era hombre hecho y derecho cuando llegué de Chiloé a tentar suerte, a trabajar un par de años para después volverme a mi tierra con los bolsillos repletos. Pero, como tantos otros, me fui quedando y quedando, y aquí estoy todavía.
+”Muchísimo me costó ambientarme al principio, aceptar tanta soledad, tanto frío, tanto trabajo para ganar unos cuantos pesos que no había en qué gastar... y que tampoco lograban juntarse unos con otros. Además, y esto era lo más grave, un contador no tiene derecho a alternar de igual a igual con el dueño ni el administrador, como tampoco puede hacerlo con los ovejeros. Estaba desesperado, quería volverme al norte, quería estar en cualquier parte que no fuera aquí.
+”Pero un buen domingo me dejé arrastrar hasta este Puesto para tomar unos tragos y olvidar las penas. En ese tiempo el dueño era un dinamarquero, hombre más o menos de mi edad y condición, que conocía todo el mundo porque había sido marino. Vivía solo. Como yo, era duro para la conversa y para el trago, y conversando y conversando, y tomando y tomando, nos hicimos muy amigos. Desde entonces mi vida cambió porque pasaba aquí todo mi tiempo libre. Además, abrí cuenta, y creo que una de las razones porque jamás he vuelto al norte es que nunca he podido terminar de pagarla.
+”Daba risa vernos juntos al Dinamarquero y a mí, porque yo, como buen chilote, he sido siempre mampatito y negrazo. ¡Pero había que ver el pedazo de hombre que era él! Inmenso y rubio, parado en la pampa pelada, en la tarde echaba una sombra que no se terminaba nunca. Tenía una fuerza descomunal —que demostró de una vez por todas recién llegado reventándole la cara a un borracho— y una voz que parecía que iba a hacer estallar esta cajita de lata. Todos le tenían miedo, especialmente cuando se enojaba, lo que sucedía rara vez. Entonces daba órdenes en un idioma raro que nadie comprendía, y como nadie lo comprendía, no se sabía qué hacer, y el gringo se enojaba más y más, hasta que terminaba sacando la pistola. Pero era un dinamarquero risueño y sin malicia como un chiquillo, y así, a pesar de respetarlo, todos lo querían. Servía bien. Nunca faltaba nada en el Puesto. Además sabía hacer unos guisos raros muy sabrosos. Como era un poco agarrado, nunca iba al pueblo, que entonces quedaba a un día de viaje por lo malo de los caminos.
+”Resulta que una tarde de verano, cuando nuestra amistad databa de dos años, lo noté algo raro. Era domingo, así es que había muchísima gente en el Puesto. Pero él no estaba atendiendo: le había pagado a tres chiquillos para que hicieran el trabajo que de costumbre hacía él solo. Estaba peinado y se había puesto cuello duro y corbata. Caminaba de una pieza a otra, inquieto, sin hacer nada, mirando, hablando un momento con uno, después con otro. Ya avanzada la tarde miró su reloj de bolsillo y me propuso que fuéramos a sentarnos en la vara para fumar un rato. Todo esto era insólito, lo mismo que el orden extremado en los cuartuchos del Puesto —que era como un hotelito—; pero nada pregunté. En cambio, hablé de otras cosas mientras el gringo silencioso mantenía la mirada azul alerta sobre la pampa.
+”—Ahí vienen... —exclamó por fin, con el rostro iluminado.
+”—¿Quiénes? —pregunté.
+”Señaló un punto en el horizonte. Poco a poco, al acercarse, resultó ser un automóvil. Insistí en mi pregunta, pero no quiso satisfacerla hasta que el vehículo hizo alto frente al Puesto y bajaron cinco mujeres.
+“En aquella época en que el pueblo quedaba tan retirado solían viajar por las estancias, alojándose en los puestos independientes, estas caravanas de prostitutas. La mayor parte de las mujeres eran feas y viejas, pero para nosotros, que muchas veces no teníamos hembra por años, todo en ellas era maravilloso. Teníamos sed y aquí estaba el oasis: aunque barroso, era por lo menos agua de verdad. Solían quedarse dos o tres días en que pasaban ‘ocupadas’ las veinticuatro horas. Luego se volvían al pueblo con todo nuestro dinero, pero bastante más ajadas de lo que llegaran.
+”Al oir voces de mujeres, todos los ovejeros que estaban en el Puesto salieron a recibirlas. Ellas no se inmutaron al ver los treinta o cuarenta hombres hediondos de vino, sin afeitar, dispuestos a apoderarse de sus cuerpos instantáneamente. De las que venían, cuatro eran la mercancía corriente en este tipo de negocio. Sin embargo, la quinta era una morena grande y todavía fresca, de rostro amplio y caderas movibles y abultadas. Nos pareció el colmo de lo deseable.
+”El Dinamarquero las instaló en los cuartuchos, encerrándose inmediatamente con la morena, mientras los ovejeros ‘ocupaban’ a las demás. Estas se pasaban veinte minutos o media hora con un hombre, y después entraba otro de los que aguardaban. Todos queríamos a la morena, pero el gringo se pasó cuatro horas encerrado con ella. Impacientes, golpeábamos la puerta de su cuarto gritándole que se apurara, que ya estaba bueno, que era un gringo sinvergüenza. Por fin salió muy serio y peinado, cerrando la pieza con llave. Dijo que sólo él iba a ocupar a la morena. Los que esperábamos turno para ella nos enfurecimos, pero nos tuvimos que conformalacon las otras.
+”Los días que las mujeres pasaron en el Puesto hubo un desorden espantoso. Como la noticia había cundido como fuego por la comarca, la gente
+llegaba y llegaba a esperar turno. Los ovejeros discutían acerca de ellas,
+cuál era la mejor, dando datos y recomendaciones a los que todavía no las habían visto. A veces era preciso sacar a la fuerza a un hombre de la pieza
+de la mujer con que estaba. Había cincuenta, cien ovejeros en el Puesto, riñendo por entrar primero, embriagándose, robando vino, quebrando ventanas y vasos. Pero una gran serenidad sonriente había caído sobre el Dinamarquero. Nada de lo qué pasaba alrededor suyo lo tocaba. Unos cuantos gritos restablecían un orden momentáneo.
+”Siguió sucediendo lo mismo por espacio de dos días, sin que el Dinamarquero abriera la puerta del cuarto de la morena y sin que ella saliera. De
+vez en cuando le llevaba comida. Si veía que los ánimos estaban más o menos apacibles se pasaba una hora encerrado, para volver más tarde, muy peinado, a atender a sus parroquianos. No sé en qué momento dormía, porque la agitación continuaba día y noche. Había olor a mujer en el Puesto. El resto de la gente que, como yo, se negaba a irse a pesar de que con eso hacía peligrar el trabajo, dormía en cualquier parte, a cualquiera hora, debajo de las mesas, en la cocina, junto a los caballos o simplemente a campo raso.
+”Según iban pasando los días yo me iba embriagando más y más, hasta que la tercera noche estuve completamente embrutecido. Los demás parecían
+haber olvidado la existencia de la morena, pero yo no. Estaba con una rabia salvaje contra el Dinamarquero, pero a cada insulto mío no hacía otra cosa que sonreírse para luego ir a atender a alguien que lo llamaba.
+”Convencí a uno de los ovejeros, que estaba tan borracho como yo, de que la situación era insostenible. Salimos del Puesto, llevamos un caballo hasta la ventana alta del cuarto donde la morena se alojaba, y en la obscuridad logré trepar hasta el alféizar. Con los puños rompí los vidrios, dejándome caer sobre la cama donde la mujer dormitaba. Mi amigo se dejó caer tras de mí. Volcamos la lámpara de parafina, que hizo arder las sábanas y las ropas, mientras pugnábamos por poseer a la mujer que aullaba. Afuera se armó gran batahola y gritería. El Dinamarquero acudió rápidamente, seguido
+de varios ovejeros que inundaron el cuarto iluminado sólo por el incendio de la cama donde todavía luchábamos con la pobre mujer. Trajeron baldes de agua para apagar las llamas, con los que también lograron separarnos a nosotros, como se separa a perros que riñen.
+”Como estaba borracho me deben haber botado a dormir en algún rincón por ahí. Al otro día desperté temprano. Los ovejeros habían partido o se disponían a hacerlo. Las mujeres estaban ya en el automóvil. El Dinamarquero se emperifolló, hizo su maleta, cerró el Puesto y partió en el automóvil, con las mujeres.
+”Regresó a la semana siguiente acompañado de la morena. Se habían casado en Punta Arenas. Ella, doña Concepción, como se la llamó desde entonces, se hizo cargo del Puesto junto a su marido. Al principio apostábamos cuál sería el primero en acostarse con ella, pero una amenaza suya de llamar a su marido bastaba para echar por tierra cualquier pretensión.
+”Yo estaba enamorado, enamorado. La acosaba todo el tiempo, sin recato, pero era como si no me viera. Me peleaba todos los días con el puestero, que ya me había amenazado con no dejarme entrar y con cobrarme judicialmente el año de consumo que le debía.
+”Una noche encontré a la Concepción sola al lado afuera del Puesto. Me acerqué dispuesto a tomarla por la fuerza y allí mismo, pero me rechazó.
+”—Para qué te haces la santa cuando eres una puta... —le dije.
+”Me gritó que si la tocaba llamaría a su marido para que me deshiciera a patadas. Humillado volví la espalda para regresar al Puesto. Pero en la obscuridad su voz me detuvo.
+”—Gaspar, no sea así conmigo.
+”Era la noche más grande que he visto. Sus ojos pesados de rimmel brillaban fijos en la obscuridad. En ese momento, algo de la verdad de todas nuestras vidas vino a romper en mi conciencia, y se quebró algo, no sé qué, dentro de mí.
+”Corrí hasta el Puesto y entré vociferando:
+”—Dinamarquero, Dinamarquero, ven a tomarte un trago conmigo, gringo asqueroso...
+”Debe haber sido cómico ver el abrazo que le di, él tan enorme, yo tan chico. En todo caso creo que comprendió algo de lo que se trataba, porque nunca lo vi sonreir como esa vez. Le juro que nunca en toda mi vida he sentido un lazo más estrecho con un ser humano como el que sentí esa noche con el Dinamarquero.
+”Poco a como se fue olvidando en la comarca el origen de la Concepción. Nunca fue tan agradable el Puesto coma entonces. Siempre limpio, jamás faltaba algo bueno para comer, ni camas ordenadas donde pasar la noche si la borrachera y la nieve nos impedían regresar. El gringo ya no tomaba tanto como antes, porque su mujer le decía:
+”—El olor a borracho en mi pieza me trae malos recuerdos...
+”Y ante su amenaza de no dejarlo entrar, se abstenía.
+”La Concepción fue un modelo de mujer, y para mí una verdadera amiga. Años después me casé. Mi señora, que era muy seria y católica, hizo gran amistad con ]a puestera. Yo nunca le conté cómo llegó aquí la esposa del Dinamarquero, lo que ésta me agradece hasta hoy, porque como mi mujer era educada y de buena familia, su amistad era un gran orgullo para la Concepción. A los cinco años nació la Licha y a los diez murió el gringo, qué sé yo de qué peste”.
+Nos quedamos un rato sin hablar. Todo el silencio de la pampa parecía haberse trasladado al interior del Puesto. Los tres hombres seguían jugando al naipe y el que bebía solo se había dormido en su rincón. Sólo la Licha iba y venía entre las mesas retirando una botella, limpiando una mancha de barro en el suelo, trayendo platos de sopa de coliflor. Luego, doña Concepción se acercó a nosotros tambaleándose un poco. Don Gaspar la ayudó a sentarse.
+—Tan solita que voy a quedarme... —suspiró.
+No respondimos.
+—Se va usted —dijo, mirándome con los mismos ojos brillantes, pesados de rimmel, que viera don Gaspar aquella noche—, y la Licha se me va mañana a Punta Arenas a casarse con el gringo Darling...
+—¿No decían que andaba con otros amores? —pregunté por hacer conversación.
+—¡Ah! Eso se acabó. A esta chiquilla no sé lo que le pasa, no le interesa el amor. Es rara. Lo que quiere es irse de aquí, nada más. El gringo se va de administrador de los Suárez, a una estancia chica, al lado de Punta Arenas. Dicen que tiene unas casas preciosas...
+Bebió un sorbo y nos preguntó:
+—¿Ustedes conocen al gringo Darling, no?
+—Poco —respondí.
+—Es ese flacuchento que andaba aquí hace un rato, ese que no se ríe ni cuando está borracho. Lo único que le gusta es llevarse pescando por ahí en los esteros. Hacía tiempo que estaba viniendo, pero como es tan feo y tan viejo, cómo iba a creer yo gue le andaba haciendo la corte a la chiquilla. Pero estos gringos son muy sapos. ¡Qué sabe una lo que piensan mientras se lo llevan horas y horas solos pescando!
+Bebió otro sorbo. Don Gaspar hizo un gestó para impedírselo, pero ella le cortó el movimiento.
+—No niego que sea bueno que se casen —continuó—. El gringo tiene plata y la Licha llegará a ser señora de administrador, que es lo que quiere. Pero, ¿sabe, Gaspar? Me da asco ese gringo. Esas manos flacas, frías todo el tiempo, ese renqueo y renqueo. Ella también me da asco. Usted me va a creer tonta, pero hubiera preferido que se casara con ese loco de Marín cuando andaba detrás de ella, con lo borracho y pendenciero que era. Pero ella, la tonta, no quiso nada con él y después el huaso se fue para el norte. ¿Qué será de él ahora? Tan animado que era. ¿Se acuerda de la voz que tenía? ¡Señor, si parecía trueno! Llegaba a dar susto aquí en el estómago, como la voz del pobre Dinamarquero, que en paz descanse...
+Siguió hablando mucho rato, quejándose de su hija, del gringo, haciendo recuerdos, hasta que su voz se fue haciendo borrosa y sus palabras más y más incoherentes. Después cruzó los brazos en la mesa y se quedó dormida con la cara entre ellos.
+El gringo Darling se acercó. Apoyando apenas una mano en la cabeza de doña Concepción, dijo muy despacio, como si temiera despertarla:
+—Pobre, está curada... Voy a llamar a la Licha.
+La Licha despertó a su madre y dijo al gringo que la llevara a la pieza, que ella iría dentro de un momento. Mientras limpiaba la mesa, dijo sin levantar la vista:
+—Me voy a casar de todas maneras, para que vea y para que se quede sola, nada más...
+—Pero si el gringo sabía —exclamó don Gaspar con voz desalentada.
+Ella levantó los ojos irritados y, clavando al anciano con ellos, dijo:
+—¡Qué va a entender usted! ¿No ve que las cosas ahora no pueden ser nunca lo mismo?
+Era hora de partir. Deseamos felicidades a la Licha, que no pareció conmoverse. Montamos y no nos dimos vuelta para despedirnos de la muchacha, que nos acompañó hasta la puerta.
+Era una noche muy abierta. El viento azotaba, buscando en la nada de la pampa algo en qué enredarse mientras barría el cielo estrellado. Al poco rato desapareció el bulto, y después las luces del Puesto Dinamarquero. Como el viento era fuerte y había hielo, preferimos no galopar. Marchamos largas horas en silencio, sabiendo que no llegaríamos a la estancia hasta que el día clareara.
+En un sitio cualquiera del camino oí a don Gaspar que se decía en la obscuridad:
+—Si nunca la había visto borracha...
+Era como si todo, hasta lo más digno y lo más bello, se hubiera terminado para siempre.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

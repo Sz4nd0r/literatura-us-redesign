@@ -7,4 +7,158 @@ tags:
   - index
   - mujica
 ---
-¿Quién es Manuel Mujica Lainez? ![Manuel Mujica Lainez](/assets/images/mujica.jpg) Manuel Mujica Lainez es un narrador, poeta, ensayista, crítico de arte y periodista argentino, reconocido por su ciclo de novelas históricas (Los ídolos, 1953; La casa, 1954; Los viajeros, 1955; e Invitados en El Paraíso 1957), su ciclo de novelas históricas-fantásticas (Bomarzo, 1962; El unicornio, 1965; y El laberinto, 1974), y por sus dos primeros libros de cuentos (Aquí vivieron, 1949 y Misteriosa Buenos Aires, 1950). Nació en Buenos Aires, Argentina, el 11 de septiembre de 1910, en una familia de orígenes aristocráticos. Muy niño cayó sobre una cacerola con agua hirviendo, por lo cual se quemó gran parte de su cuerpo. Cuando tenía trece años, en 1923, su familia se trasladó a Europa, residiendo primero en París, donde estudió en la École Descartes,​ y posteriormente en Londres. No regresó a Argentina hasta que tenía dieciocho años, en 1928. Terminó sus estudios en el Colegio Nacional de San Isidro y comenzó la carrera de derecho, la cual abandonaría el primer año. En 1932 empezó a trabajar, como redactor, en el periódico La Nación, escribiendo para la sección de noticias de sociedad. Poco después, escribe como crítico de arte para el periódico, y también colabora para la revista El Hogar, escribiendo crónica de viajes. En 1936 se casó con Ana de Alvear Ortiz Basualdo, con quien tendría tres hijos. Ese mismo año publicó su primer libro, Glosas castellanas, una serie de ensayos centrados principalmente en el Quijote. Tres años después, en 1939, publicó su primera novela, Don Galaz de Buenos Aires. Continuó con las biografías de Miguel Cané (1942) y de los poetas gauchescos Hilario Ascasubi (Vida de Aniceto el Gallo, 1943) y Estanislao del Campo (Vida de Anastasio el Pollo, 1947). En 1949 y en 1950 publicó dos libros de cuentos que marcaron el comienzo de su madurez literaria: Aquí vivieron y Misteriosa Buenos Aires. En los años siguientes publicó su saga de novelas porteñas: Los ídolos (1953), La casa (1954), Los viajeros (1955), y finalmente Invitados en El Paraíso (1957). Este ciclo es considerado por algunos críticos como sus mejores novelas.​ Después de un silencio creativo de cinco años, Mujica Lainez se embarcó en su ciclo de novelas históricas-fantásticas, ambientadas en Europa entre la Edad Media y el Renacimiento: Bomarzo (1962) —probablemente su mejor novela, ganadora del Premio Nacional de Literatura en 1963—, El unicornio (1965) y El laberinto (1974). Para la crítica extranjera, estas son sus mejores novelas. En 1967 publicó Crónicas reales, una colección de cuentos; al año siguiente publicó De milagros y melancolías, una novela.​ El año siguiente se jubiló de su empleo en el periódico La Nación​ y se trasladó con su familia a La Cumbre, en la provincia de Córdoba. Allí escribió las novelas Cecil (1972), un relato autobiográfico; El viaje de los siete demonios (1974), de tema esotérico; y Sergio (1976), Los cisnes (1977) y El Gran Teatro (1982), novelas donde retoma el ambiente aristocrático porteño de sus primeras obras. Con su última novela, El escarabajo (1982), cierra el ciclo de novelas históricas. Y con su último libro de cuentos, Un novelista en el Museo del Prado (1984), vuelve a retomar los tópicos fantásticos de sus primeros cuentos. El 21 de abril de 1984 murió en su casa de La Cumbre, a causa de un edema pulmonar. Tenía 73. ÍNDICE: Cuentos: Aquí vivieron. Historias de una quinta de San Isidro, 1583-1924 (1949): I. Lumbi (1583) II. El lobisón (1633) III. El cofre (1648) IV. Los toros (1702) V. Los amores de Leonor Montalvo (1748) VI. El camino desandado (1755) VII. La máscara sin rostro (1779) VIII. Los reconquistadores (1806) IX. Prisión de sangre (1810) X. El poeta perdido (1835) XI. La viajera (1840) XII. Tormenta en el río (1847) XIII. El pintor de San Isidro (1867) XIV. El testamento (1872) XV. El coleccionista (1891) XVI. Rival (1895) XVII. La mujer de Pablo (1897) XVIII. El dominó amarillo (1900) XIX. El grito (1913) XX. El atorrante (1915) XXI. Regreso (1918) XXII. La que recordaba (1919) XXIII. Muerte de la quinta (1924) Misteriosa Buenos Aires (1950): I. El hambre (1536) II. El primer poeta (1538) III. La sirena (1541) IV. La fundadora (1580) V. La enamorada del pequeño dragón (1584) VI. El libro (1605) VII. Las ropas del maestro (1608) VIII. Milagro (1610) IX. Los pelícanos de plata (1615) X. El espejo desordenado (1643) XI. Crepúsculo (1644) XII. Las reverencias (1648) XIII. Toinette (1658) XIV. El imaginero (1679) XV. El arzobispo de Samos (1694) XVI. El embrujo del Rey (1699) XVII. La ciudad encantada (1709) XVIII. La pulsera de cascabeles (1720) XIX. El patio iluminado (1725) XX. La mojiganga (1753) XXI. Le royal Cacambo (1761) XXII. La jaula (1776) XXIII. La vívora (1780) XXIV. El sucesor (1785) XXV. El pastor del río (1792) XXVI. El ilustre amor (1797) XXVII. La princesa de Hungría (1802) XXVIII. La galera (1803) XXIX. La casa cerrada (1807) XXX. El amigo (1808) XXXI. Memorias de Pablo y Virginia (1816-1852) XXXII. La hechizada (1817) XXXIII. El cazador de fantasmas (1821) XXXIV. La adoración de los Reyes Magos (1822) XXXV. El ángel y el payador (1825) XXXVI. El tapir (1835) XXXVII. El vagamundo (1839) XXXVIII. Un granadero (1850) XXXIX. La escalinata de mármol (1852) XL. Una aventura del Pollo (1866) XLI. El hombrecito del azulejo (1875) XLII. El salón dorado (1904) 
+
+¿Quién es Manuel Mujica Lainez? ![Manuel Mujica Lainez](/assets/images/mujica.jpg) Manuel Mujica Lainez es un narrador, poeta, ensayista, crítico de arte y periodista argentino, reconocido por su ciclo de novelas históricas (Los ídolos, 1953; La casa, 1954; Los viajeros, 1955; e Invitados en El Paraíso 1957), su ciclo de novelas históricas-fantásticas (Bomarzo, 1962; El unicornio, 1965; y El laberinto, 1974), y por sus dos primeros libros de cuentos (Aquí vivieron, 1949 y Misteriosa Buenos Aires, 1950).
+
+Nació en Buenos Aires, Argentina, el 11 de septiembre de 1910, en una familia de orígenes aristocráticos. Muy niño cayó sobre una cacerola con agua hirviendo, por lo cual se quemó gran parte de su cuerpo. Cuando tenía trece años, en 1923, su familia se trasladó a Europa, residiendo primero en París, donde estudió en la École Descartes,​ y posteriormente en Londres. No regresó a Argentina hasta que tenía dieciocho años, en 1928. Terminó sus estudios en el Colegio Nacional de San Isidro y comenzó la carrera de derecho, la cual abandonaría el primer año.
+
+En 1932 empezó a trabajar, como redactor, en el periódico La Nación, escribiendo para la sección de noticias de sociedad. Poco después, escribe como crítico de arte para el periódico, y también colabora para la revista El Hogar, escribiendo crónica de viajes. En 1936 se casó con Ana de Alvear Ortiz Basualdo, con quien tendría tres hijos. Ese mismo año publicó su primer libro, Glosas castellanas, una serie de ensayos centrados principalmente en el Quijote. Tres años después, en 1939, publicó su primera novela, Don Galaz de Buenos Aires.
+
+Continuó con las biografías de Miguel Cané (1942) y de los poetas gauchescos Hilario Ascasubi (Vida de Aniceto el Gallo, 1943) y Estanislao del Campo (Vida de Anastasio el Pollo, 1947). En 1949 y en 1950 publicó dos libros de cuentos que marcaron el comienzo de su madurez literaria: Aquí vivieron y Misteriosa Buenos Aires. En los años siguientes publicó su saga de novelas porteñas: Los ídolos (1953), La casa (1954), Los viajeros (1955), y finalmente Invitados en El Paraíso (1957). Este ciclo es considerado por algunos críticos como sus mejores novelas.​ Después de un silencio creativo de cinco años, Mujica Lainez se embarcó en su ciclo de novelas históricas-fantásticas, ambientadas en Europa entre la Edad Media y el Renacimiento: Bomarzo (1962) —probablemente su mejor novela, ganadora del Premio Nacional de Literatura en 1963—, El unicornio (1965) y El laberinto (1974).
+
+Para la crítica extranjera, estas son sus mejores novelas. En 1967 publicó Crónicas reales, una colección de cuentos; al año siguiente publicó De milagros y melancolías, una novela.​ El año siguiente se jubiló de su empleo en el periódico La Nación​ y se trasladó con su familia a La Cumbre, en la provincia de Córdoba. Allí escribió las novelas Cecil (1972), un relato autobiográfico; El viaje de los siete demonios (1974), de tema esotérico; y Sergio (1976), Los cisnes (1977) y El Gran Teatro (1982), novelas donde retoma el ambiente aristocrático porteño de sus primeras obras.
+
+Con su última novela, El escarabajo (1982), cierra el ciclo de novelas históricas. Y con su último libro de cuentos, Un novelista en el Museo del Prado (1984), vuelve a retomar los tópicos fantásticos de sus primeros cuentos. El 21 de abril de 1984 murió en su casa de La Cumbre, a causa de un edema pulmonar. Tenía 73.
+
+ÍndiceCuentos
+ Aquí vivieron. Historias de una quinta de San Isidro, 1583-1924 (1949)
+
+I. Lumbi (1583)
+
+II. El lobisón (1633)
+
+III. El cofre (1648)
+
+IV. Los toros (1702)
+
+V. Los amores de Leonor Montalvo (1748)
+
+VI.
+
+El camino desandado (1755)
+
+VII. La máscara sin rostro (1779)
+
+VIII. Los reconquistadores (1806)
+
+IX. Prisión de sangre (1810)
+
+X. El poeta perdido (1835)
+
+XI. La viajera (1840)
+
+XII. Tormenta en el río (1847)
+
+XIII. El pintor de San Isidro (1867)
+
+XIV. El testamento (1872)
+
+XV. El coleccionista (1891)
+
+XVI. Rival (1895)
+
+XVII. La mujer de Pablo (1897)
+
+XVIII. El dominó amarillo (1900)
+
+XIX. El grito (1913)
+
+XX. El atorrante (1915)
+
+XXI. Regreso (1918)
+
+XXII. La que recordaba (1919)
+
+XXIII. Muerte de la quinta (1924)
+
+Misteriosa Buenos Aires (1950):
+
+I.
+
+El hambre (1536)
+
+II. El primer poeta (1538)
+
+III. La sirena (1541)
+
+IV. La fundadora (1580)
+
+V. La enamorada del pequeño dragón (1584)
+
+VI. El libro (1605)
+
+VII. Las ropas del maestro (1608)
+
+VIII. Milagro (1610)
+
+IX. Los pelícanos de plata (1615)
+
+X. El espejo desordenado (1643)
+
+XI. Crepúsculo (1644)
+
+XII. Las reverencias (1648)
+
+XIII. Toinette (1658)
+
+XIV. El imaginero (1679)
+
+XV. El arzobispo de Samos (1694)
+
+XVI. El embrujo del Rey (1699)
+
+XVII. La ciudad encantada (1709)
+
+XVIII. La pulsera de cascabeles (1720)
+
+XIX.
+
+El patio iluminado (1725)
+
+XX. La mojiganga (1753)
+
+XXI. Le royal Cacambo (1761)
+
+XXII. La jaula (1776)
+
+XXIII. La vívora (1780)
+
+XXIV. El sucesor (1785)
+
+XXV. El pastor del río (1792)
+
+XXVI. El ilustre amor (1797)
+
+XXVII. La princesa de Hungría (1802)
+
+XXVIII. La galera (1803)
+
+XXIX. La casa cerrada (1807)
+
+XXX. El amigo (1808)
+
+XXXI. Memorias de Pablo y Virginia (1816-1852)
+
+XXXII. La hechizada (1817)
+
+XXXIII. El cazador de fantasmas (1821)
+
+XXXIV. La adoración de los Reyes Magos (1822)
+
+XXXV. El ángel y el payador (1825)
+
+XXXVI.
+
+El tapir (1835)
+
+XXXVII. El vagamundo (1839)
+
+XXXVIII. Un granadero (1850)
+
+XXXIX. La escalinata de mármol (1852)
+
+XL. Una aventura del Pollo (1866)
+
+XLI. El hombrecito del azulejo (1875)
+
+XLII. El salón dorado (1904)

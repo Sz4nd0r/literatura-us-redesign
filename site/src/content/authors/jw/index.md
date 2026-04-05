@@ -7,4 +7,21 @@ tags:
   - index
   - jw
 ---
-¿Quién es Joy Williams? ![Joy Williams](/assets/images/jw.jpg) Joy Williams es una narradora y ensayista estadounidense. Sus cuentos, frecuentemente publicados en antologías, retratan la vida como una espiral descendente, y detallan el fracaso de la vida en Estados Unidos, desde una perspectiva tanto espiritual como económica. Es autora de cuatro novelas y cinco colecciones de cuentos. También es reconocida por sus escritos sobre el medio ambiente. Joy Williams nació el 11 de febrero de 1944, en Chelmsford, Massachusetts. Recibió una licenciatura de Marietta College y una maestría de la Universidad de Iowa. Williams estuvo casada, durante 34 años, con L. Rust Hills, editor de ficción de la revista Esquire, hasta su muerte, el 12 de agosto de 2008. Su primera novela, State of Grace (1973), fue nominada para el Premio Nacional del Libro de Ficción (National Book Award for Fiction). The Quick and the Dead, publicada en 2000, fue finalista del Premio Pulitzer de Ficción. Su primera colección de cuentos fue Taking Care, publicada en 1982. Una segunda colección, Escapes, siguió en 1990. Ill Nature: Rants and Reflections on Humanity and Other Animals, una colección de ensayos publicada en 2001, fue finalista del National Book Critics Circle. Ha enseñado escritura creativa en la Universidad de Houston, la Universidad de Florida, la Universidad de Iowa y la Universidad de Arizona. Para el año académico 2008-2009, Williams fue la escritora en residencia en la Universidad de Wyoming; luego continuó enseñando como miembro de la facultad afiliada del departamento de inglés. Vive en Key West, Florida, y Tucson, Arizona. ÍNDICE: Cuentos: Taking Care (1982): —4. La boda —7. Tren —14. La granja Escapes (1990): —9. Centro de belleza The Visiting Privilege. New and Collected Stories (2015): [New] —11. El campo 
+
+¿Quién es Joy Williams? ![Joy Williams](/assets/images/jw.jpg) Joy Williams es una narradora y ensayista estadounidense. Sus cuentos, frecuentemente publicados en antologías, retratan la vida como una espiral descendente, y detallan el fracaso de la vida en Estados Unidos, desde una perspectiva tanto espiritual como económica. Es autora de cuatro novelas y cinco colecciones de cuentos. También es reconocida por sus escritos sobre el medio ambiente. Joy Williams nació el 11 de febrero de 1944, en Chelmsford, Massachusetts.
+
+Recibió una licenciatura de Marietta College y una maestría de la Universidad de Iowa. Williams estuvo casada, durante 34 años, con L. Rust Hills, editor de ficción de la revista Esquire, hasta su muerte, el 12 de agosto de 2008. Su primera novela, State of Grace (1973), fue nominada para el Premio Nacional del Libro de Ficción (National Book Award for Fiction). The Quick and the Dead, publicada en 2000, fue finalista del Premio Pulitzer de Ficción. Su primera colección de cuentos fue Taking Care, publicada en 1982.
+
+Una segunda colección, Escapes, siguió en 1990. Ill Nature: Rants and Reflections on Humanity and Other Animals, una colección de ensayos publicada en 2001, fue finalista del National Book Critics Circle. Ha enseñado escritura creativa en la Universidad de Houston, la Universidad de Florida, la Universidad de Iowa y la Universidad de Arizona. Para el año académico 2008-2009, Williams fue la escritora en residencia en la Universidad de Wyoming; luego continuó enseñando como miembro de la facultad afiliada del departamento de inglés.
+
+Vive en Key West, Florida, y Tucson, Arizona.
+
+ÍndiceCuentos
+ Taking Care (1982):
+—4. La boda —7. Tren —14
+
+La granja Escapes (1990):
+—9
+
+Centro de belleza The Visiting Privilege. New and Collected Stories (2015):
+[New] —11. El campo

@@ -1,0 +1,174 @@
+---
+layout: story
+title: Boletos, por favor
+slug: ticket
+source: https://www.literatura.us/idiomas/dhl/ticket.html
+tags:
+  - ticket
+  - dhl
+---
+D. H. Lawrence
+(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
+Boletos, por favor (1918)
+(“Ticket, Please”)
+Originalmente publicado en la revista Strand (abril de 1919), págs. 287-293;
+reimpreso, como “The Eleventh Commandment”, en la revista
+norteamericana Metropolitan (agosto de 1919);
+England My England and Other Stories
+(Nueva York: Thomas Seltzer, 1922, 273 págs.), págs. 51-68.
+Hay en los Midlands un tranvía de vía única que sale intrépidamente de la ciudad y se zambulle en un paisaje negro y fabril, sube la colina y baja al valle, atravesando puebluchos extensos y feos de casas obreras y humildes, sobre canales y vías, pasa frente a iglesias que parecen colgadas, altas y nobles, sobre las sombras y el humo, por oscuros, fríos y desolados mercados, tambaleándose frente a cines y tiendas, baja al agujero donde están los mineros y sube de nuevo bajo los fresnos, y pasa frente a una iglesia rural, precipitándose hacia el final del trayecto, en el último lugar industrial pequeño y feo, la fría ciudad que se agita al borde del campo oscuro y salvaje. Allí, el tranvía verde y crema parece hacer una pausa y ronronear con extraña satisfacción. Pero a los pocos minutos el reloj de la torre de la cooperativa Wholesale Society’s Shops marca la hora y comienza una vez más la aventura. De nuevo están allí los peligrosos y súbitos descensos; de nuevo, rebotando sobre las curvas, la helada espera en el mercado, el deslizarse sin respiración por la escarpada pendiente frente a la iglesia; de nuevo las pacientes paradas en las curvas, esperando que pasen otros tranvías, y así durante dos largas horas, hasta que por fin aparece la ciudad, más allá de la grasienta fábrica de gas; las angostas fábricas se aproximan: estamos en las sórdidas calles de la gran ciudad, avanzamos de nuevo, furtivos, a un atasco en nuestra terminal, desconcertados por el color cremoso y carmesí de los tranvías urbanos, pero con garbo y frescura, algo atrevidos, tranvías verdes como ramas de perejil salidas de un negro jardín minero.
+Viajar en estos tranvías es siempre una aventura. Por estar en época de guerra, los conductores son hombres no aptos para el servicio activo: mutilados y jorobados. Tienen en su interior el espíritu del diablo.
+El trayecto se convierte en una carrera de obstáculos. ¡Hurra! En un santiamén estamos sobre los puentes del canal y ya vamos por la curva de los cuatro caminos, de nuevo libres, tras un chillido agudo y una estela de chispas. A decir verdad, a menudo los tranvías descarrilan, pero ¡qué importa! Esperan en una cuneta hasta que otros tranvías llegan a sacarlos de allí. Es bastante común que uno de estos tranvías, repleto de una sólida masa humana, llegue a un punto muerto en medio de una oscuridad absoluta, el corazón de ninguna parte en una noche oscura, y oír al conductor y a la cobradora decir: “Todo el mundo abajo, el tranvía está ardiendo”. En lugar de salir corriendo asustados, los pasajeros contestan impasibles: “Venga, vamos. Ahora no salimos. Nos quedamos donde estamos. Empuja, George”. Y así hasta que comienza a arder.
+La razón de esta desgana para apearse es que las noches son terriblemente oscuras, frías y ventosas, y el tranvía es un buen refugio.
+Los mineros viajan de pueblo en pueblo para cambiar de cine, de chica o de pub. Los tranvías van desesperadamente llenos. ¿Quién va a arriesgarse a esperar, quizá durante una hora, a otro tranvía en el negro abismo exterior, para ver ese desamparado cartel de “Solamente hasta el depósito” porque haya algo averiado, o dar la bienvenida a una rutilante unidad de tres vagones que pasa con un aullido de burla atestada de gente? Tranvías que pasan en la noche…
+En este servicio de tranvías, el más peligroso de Inglaterra, tal como las autoridades declaran con orgullo, cobran chicas y conducen jóvenes imprudentes, algo tullidos o casi jorobados. Las chicas son jóvenes pícaras. Dentro de un feo uniforme azul, con las faldas más arriba de las rodillas y con unas gorras de visera deformadas, tienen toda la sang-froid de un oficial fuera de servicio. En el tranvía, lleno hasta los topes de mineros que gritan y cantan a voces abajo y arriba una antífona de obscenidades, las chicas se encuentran a gusto. Se precipitan sobre los jóvenes que intentan evadir la máquina de los billetes. Apartan a los hombres a empujones al final de sus trayectos. Nadie va a desafiarlas. Ellas no temen a nadie y todo el mundo las teme.
+—Hola, Annie.
+—Hola, Ted.
+—¡Eh! Hágame caso, señorita Mármol. Tiene usted el corazón de piedra y está hiriendo mis sentimientos.
+—Debería guardárselos usted en el bolsillo —replica la señorita Mármol, y se dirige con decisión hacia la parte superior del tranvía.
+—Billetes, por favor.
+Es autoritaria, recelosa y está dispuesta a golpear primero. Sabe defenderse contra diez mil. La entrada de este tranvía es su Termópilas.
+Sin embargo, hay ciertos romances a bordo de estos tranvías, incluso en el robusto seno de Annie. El tiempo de este tierno romance es la mañana, entre las diez y la una, cuando las cosas están más tranquilas; por supuesto, excepto los días de mercado y los sábados. Entonces Annie tiene tiempo de dedicarse a ella misma. Entonces se baja del tranvía y va a alguna tienda donde ha curioseado cualquier cosa, mientras que el conductor charla en la calle principal. Entre las chicas y los conductores existen buenas relaciones. ¿No son acaso compañeros de peligros, embarcados en ese buque que corre a toda velocidad balanceándose siempre sobre las olas de una tierra tormentosa? Después, durante las horas tranquilas, los inspectores, o la mayoría de ellos, se dejan ver. Por alguna razón, todos los empleados de este servicio son jóvenes; no hay cabezas canosas. ¡Sería imposible! Sin embargo, los inspectores tienen la edad apropiada, y uno de ellos, el jefe, es incluso guapo. Miradle allí de pie en una mañana oscura y lluviosa con su largo impermeable, su gorra de visera bien calada hasta los ojos, esperando para subir al tranvía. Su cara es rojiza, tiene un bigotito marrón descolorido y una ligera sonrisa atrevida. Bastante alto y ágil a pesar de su impermeable, sube de un salto a uno de los tranvías y saluda a Annie.
+—Hola, Annie, ¿qué, resguardándose de la lluvia?
+—Más bien… intentándolo.
+Solamente hay dos personas en el tranvía; se acaba pronto la inspección. Después, una larga y aventurada charla en el estribo, una gratificante y fácil charla de doce millas. El nombre del revisor es John Thomas Raynor —llamado siempre John Thomas, excepto algunas veces, con malicia, “Coddy”—. Se le enfurece el rostro cuando le llaman así desde lejos. A John Thomas le rodea un considerable escándalo en media docena de pueblos. Corteja a las chicas que cobran por la mañana y sale con ellas por la noche cuando dejan el servicio. Entonces coquetea y sale con las nuevas siempre que sean lo suficientemente atractivas y lo consientan. Es notorio, sin embargo, que la mayoría de las chicas son bonitas, todas jóvenes, y la vida errante de los tranvías les da un cierto aire de temeridad propio de los marineros. Lo que importa es cómo se comportan cuando están en el puerto. Mañana estarán a bordo de nuevo.
+Annie, sin embargo, tenía algo de tártara, y su lengua afilada había mantenido a John Thomas a distancia durante meses. Pero quizá le gustaba porque siempre subía sonriendo con atrevimiento. Lo observaba y veía cómo conquistaba una chica tras otra. Cuando coqueteaba con ella por las mañanas, podía decir por el movimiento de su boca y de sus ojos si había estado paseando con esta o con aquella la noche anterior: Annie lo sabía con bastante exactitud.
+Con ese sutil antagonismo, los dos se conocían mutuamente como viejos amigos. Eran tan sagaces el uno para con el otro como marido y mujer. Pero Annie le había mantenido siempre a una distancia considerable. Además, ella ya tenía chico.
+Pero la feria de Statutes llegó a Bestwood en noviembre, y Annie tenía la noche del lunes libre. Era una noche fea y lluviosa, pero se arregló y se fue al ferial. Estaba sola, aunque esperaba encontrar pronto algún acompañante. Los tiovivos giraban y rechinaban, las casetas hacían tanto ruido como podían. En las de tiro al coco no había coco, sino sustitutivos artificiales de época de guerra, por lo que los chavales bromeaban diciendo que los premios habían sido atados a los hierros.
+Se notaba un triste declive tanto del brillo como del lujo. A pesar de eso, con el ferial lleno de barro como siempre, allí había el mismo apiñamiento de rostros, la misma aglomeración, las gentes iluminadas por los brillos y las luces eléctricas, y el mismo olor a nafta, a patatas fritas y a electricidad.
+¿Quién iba a ser el primero en saludar a la señorita Annie en el ferial sino John Thomas? Llevaba un abrigo abrochado hasta la barbilla y una gorra de lana calada hasta las cejas; su rostro rojizo sonreía tan sagaz como siempre. ¡Qué bien conocía ella el modo en que él movía la boca!
+Se puso muy contenta de tener ese “acompañante”. Estar en Statutes sin un hombre no era divertido. Inmediatamente después, como buen galán que era, la llevó a los dragones de dientes encarnizados, al tiovivo y a la montaña rusa. No era tan emocionante como el tranvía. Pero sentarse en un fiero dragón verde, elevarse sobre un mar de rostros burbujeantes, correr con imprecisión por los infiernos mientras John Thomas se apoyaba en ella con el cigarrillo en la boca, todo aquello era agradable. Ella era una rolliza criatura, feliz y ágil. Estaba feliz y emocionada. John Thomas la retuvo para dar otra vuelta. Y apenas pudo rechazarlo, vergonzosa, cuando la rodeó con el brazo y la acercó hacia él de una forma cálida y mimosa. Además era discreto, mantenía sus gestos tan escondidos como podía. Bajó los ojos y vio que su mano, roja y limpia, estaba fuera de la vista de la gente. ¡Y se conocían tan bien mutuamente! Se animaron al calor de la feria. Después de los dragones fueron a los caballitos. John Thomas pagó todas las vueltas, complaciéndola. Por supuesto, él se sentó a horcajadas en el caballo de fuera —llamado Negra Isabelita— y ella en el de dentro —llamado Fuego Salvaje—. No iba a sentarse John Thomas discretamente en Negra Isabelita, agarrándose a la barra de hierro. Giraban y giraban a la luz. Él se balanceaba sobre su corcel de madera, lanzando una pierna por encima de la montura de ella, arrojándose arriba y abajo por el espacio con medio cuerpo hacia atrás, riéndose de ella. Él era feliz, ella tenía miedo de que el sombrero se le cayese, pero estaba emocionada.
+John jugó a los aros y ganó para ella dos grandes alfileres de sombrero de color azul pálido. Después, al oír el ruido de los grandes cines anunciando otra sesión, atravesaron las casetas y se fueron. Durante la película, de vez en cuando, se producía una intensa oscuridad. Entonces había un griterío de salvaje alegría y un gran ruido de besos simulados. En uno de esos momentos John Thomas atrajo a Annie hacia él. Después de todo, tenía una maravillosa forma, cálida y tierna, de agarrar a una chica con el brazo, como si realizase un suave ataque. Además, era agradable ser cogida así, tan confortable y acogedoramente. Se inclinó sobre ella y Annie sintió su respiración en el pelo; sabía que quería besarla en los labios. ¡Después de todo era tan cálido y ella se adaptaba a él tan suavemente! Deseaba que rozase sus labios.
+Pero la luz se encendió; ella se irguió eléctricamente y se puso derecho el sombrero. Él dejó caer su brazo con indiferencia detrás de ella. Era divertido, emocionante, estar en Statutes con John Thomas.
+Cuando el cine se acabó se fueron a pasear por el campo empantanado y umbrío. Él poseía todas las artes del cortejo. Era especialmente experto en atraer a una chica hacia sí cuando se sentaba con ella en la escalera de una cerca, en la oscuridad y lloviznando. Parecía estar sujetándola en el vacío, impregnándola de su propio calor y satisfacción. Y sus besos eran suaves, lentos e indagadores.
+De este modo comenzó a salir con John Thomas, aunque mantuvo a su chico suspendido en la distancia. Algunas de las chicas del tranvía se ofendieron. Pero en esta vida se deben aceptar las cosas como vienen.
+No había ninguna duda. A Annie le gustaba mucho John Thomas. ¡Se sentía tan llena y cálida siempre que él estaba cerca! Y a John Thomas le gustaba Annie más de lo normal. La manera suave y dulce con que ella podía fluir en uno, como si se fundiese en sus mismos huesos, era algo extraño y reconfortante. Él se daba cuenta.
+Pero con la familiaridad de la relación comenzó la intimidad. Annie quería considerarle como una persona, como un hombre; quería interesarse por él y obtener una respuesta inteligente. No quería una mera presencia nocturna, y hasta el momento él era solo eso. Ella se enorgullecía de que no podría dejarla.
+He aquí su error. John Thomas pretendía seguir siendo solamente una presencia nocturna. No tenía la idea de convertirse en alguien exclusivo para ella. Cuando comenzó a interesarse de una forma inteligente por su vida y su carácter, él se marchó. John odiaba ese interés y sabía que el único medio para pararlo era evitarlo. La “hembra posesiva” estaba apareciendo en Annie. Por eso la dejó.
+No hace falta decir que ella no se sorprendió. Al principio estaba sobrecogida, fuera de sus casillas porque había estado demasiado segura de él. Durante un tiempo estuvo como aturdida y todo se volvió incierto para ella. Después lloró con rabia, indignación, desolación y tristeza. Luego tuvo una crisis de desesperación. Y por último, cuando él volvió, insolente, a su tranvía, todavía con ese gesto familiar, pero dejándole ver con el movimiento de su cabeza que había estado saliendo con alguien durante ese tiempo y que estaba saboreando nuevos pastos, entonces decidió volver a ser ella misma.
+Intuía las chicas con las que John Thomas había estado saliendo. Se dirigió a Nora Purdy. Nora era alta, bastante pálida, pero una chica con buen tipo, con un maravilloso pelo rubio. Era bastante reservada.
+—¡Eh! —dijo Annie abordándola, y luego suavemente—: ¿con quién está saliendo ahora John Thomas?
+—No sé —dijo Nora.
+—¿Por qué dices eso? —dijo Annie hablando en dialecto, irónicamente—. ¡Claro que sí! Lo sabes tan bien como yo.
+—Bien, entonces lo sé —dijo Nora—. No soy yo, por lo tanto no te preocupes.
+—Es Cissy Meakin, ¿no?
+—Sí, que yo sepa.
+—¡Menuda cara! ¡No me gusta ni un pelo! —dijo Annie—. Cuando viene rondando me gustaría darle un puntapié.
+—Un día de estos se le echarán encima —dijo Nora.
+—Ay, sí, cuando alguien decida hacerlo. ¡Me gustaría verle con los humos bajados! ¿A ti no?
+—No me importaría —dijo Nora.
+—Tienes tanto derecho como yo —dijo Annie—, pero caeremos sobre él, chica. ¿Qué? ¿No quieres?
+—Me da igual —dijo Nora.
+De hecho Nora era más vengativa que Annie.
+Annie fue hurgando chica tras chica en las viejas llamas del amor. Y sucedió que Cissy Meakin dejó el servicio del tranvía al poco tiempo. Su madre la obligó a dejarlo. Entonces John Thomas volvió a ser aquel de qui vivre [en alerta]. Volvió los ojos al antiguo rebaño y su mirada se encendió por Annie. Pensó que ella estaría fuera de peligro. Además le gustaba.
+Quedaron el domingo por la noche para volver paseando a casa. Daba la casualidad de que su tranvía estaría en el depósito a las nueve y media; el último tranvía llegaría a las diez y cuarto. John Thomas fue a esperarla allí.
+En el depósito las chicas tenían una pequeña sala de espera. Era bastante fea pero confortable, con fuego, una cocina, un espejo, una mesa y sillas de madera. La media docena de chicas que conocían a John Thomas bastante bien, habían decidido hacer el servicio ese domingo por la tarde. Así que, según comenzaron a llegar los tranvías, las chicas se dejaron caer por la salita. Y en lugar de darse prisa por volver a casa, se sentaron alrededor del fuego y se tomaron una taza de té. Fuera, la oscuridad y la aspereza de un tiempo de guerra.
+John Thomas llegó en el tranvía después de Annie, alrededor de las diez menos cuarto. Asomó la cabeza en la sala de las chicas.
+—¿Reunión para rezar? —preguntó.
+—¡Eh! —dijo Laura Sharp—. ¡Solamente señoritas!
+—¡Soy yo! —dijo John Thomas. Esa era una de sus exclamaciones favoritas.
+—Cierra esa puerta, muchacho —dijo Muriel Baggaley.
+—¿Hacia qué lado? ¿Hacia mí? —dijo John Thomas.
+—Hacia el que te plazca —dijo Polly Birkin.
+Había entrado y cerrado la puerta tras él. Las chicas ampliaron el círculo para hacerle un sitio junto al fuego. Él se quitó el abrigo y se apartó el sombrero de la frente.
+—¿Quién tiene la tetera?
+Nora Purdy le sirvió una taza de té.
+—¿Quieres un poco de pan para mojar? —dijo Muriel Baggaley.
+—Sí, dame un poco.
+Y comenzó a comerse el trozo de pan.
+—No hay lugar mejor que la casa, chicas.
+Todas le miraron cuando comentó tal imprudencia. Parecía estar pavoneándose en presencia de tanta damisela.
+—Especialmente si no se tiene miedo de volver a casa en la oscuridad —dijo Laura Sharp.
+—Yo, no.
+Se sentaron hasta que oyeron llegar el último tranvía. Al poco tiempo entró Emma Houselay.
+—Vamos, patito viejo —dijo Polly Birkin.
+—Está helando —dijo Emma extendiendo sus dedos cerca del fuego.
+—Pero tengo miedo, de ir a casa, en la oscuridad —cantó Laura Sharp, la canción le había venido a la mente.
+—¿Con quién sales esta noche, John Thomas? —preguntó Muriel Baggaley fríamente.
+—¿Esta noche? Oh, me voy solo, totalmente solo.
+—¡Soy yo! —dijo Nora Purdy imitando sus articulaciones de voz.
+Las chicas se echaron a reír a carcajadas.
+—Yo también, Nora —dijo John Thomas.
+—No sabemos qué quieres decir —dijo Laura.
+—Sí, que me voy —dijo levantándose y alcanzando su abrigo.
+—No —dijo Polly—. Estamos todas aquí esperándote.
+—Tenemos que levantarnos pronto mañana —dijo de una forma educada y benevolente…
+Todas se echaron a reír.
+—No —dijo Muriel—. No nos dejes solas, John Thomas. Elige a una.
+—Os elijo a todas, si queréis —respondió galantemente.
+—Tú no deseas eso —dijo Muriel—. Dos son compañía, siete son demasiadas.
+—No, toma a una —dijo Laura—. Justo y equitativo, todo sobre el tapete, di a cuál.
+—¡Ah! —gritó Annie hablando por primera vez—. Elige, John Thomas, déjanos oírlo.
+—No. Me voy a casa tranquilo esta noche, sintiéndome bien por una vez.
+—¿Adónde? —dijo Annie—. Elige, pues, una compañía. ¡Pero tienes que elegir entre nosotras!
+—No. ¿Cómo puedo elegir a una? —dijo sintiéndose inquieto—. No quiero tener enemigos.
+—Solo tendrás un enemigo —dijo Annie.
+—La elegida —añadió Laura.
+—¡Oh! ¡Dios mío! Pero ¿que decís, chicas? —exclamó volviéndose como para salir—. En fin… Buenas noches.
+—¡No! Tienes que hacer tu elección —dijo Muriel—. Vuelve la cara hacia la pared y di quién te toca. Vamos, te tocará la espalda una de nosotras. Vamos, vuelve la cara hacia la pared y di quién te está tocando.
+Estaba intranquilo, desconfiaba de ellas. Sin embargo, no tenía coraje para salir. Le empujaron hacia la pared y le mantuvieron allí de pie. A su espalda, ellas le hacían burla, riéndose. ¡Tenía un aspecto tan cómico…! Él miraba hacia los lados intranquilo.
+—¡Vamos! —gritaba.
+—¡Estás mirando! ¡Estás mirando! —gritaban.
+Volvió la cabeza. De repente, con el movimiento de un gato veloz, Annie se adelantó y le arrojó una caja por un lateral, que le hizo volar la gorra y tambalearse. Él se volvió de espaldas de nuevo.
+Pero a la señal de Annie todas se precipitaron sobre él, abofeteándole, pellizcándole, tirándole del pelo, aunque más con burla que con rabia. No obstante, estaba enrojecido. Sus ojos azules se habían encendido con un extraño miedo, como con furia y daba cabezadas entre las chicas dirigiéndose a la puerta. Estaba cerrada con cerrojo. Tiró violentamente de ella. Se levantó, las chicas estaban de pie a su alrededor y le miraban. Él las miraba de frente, acorralado. En aquel momento le parecieron horribles, con aquellos uniformes cortos. Tenía miedo.
+—¡Vamos! ¡Vamos, John Thomas! ¡Elige! —dijo Annie.
+—¿Qué pretendes? Abre la puerta —dijo él.
+—No. No la abriremos hasta que hayas elegido —dijo Muriel.
+—¿Elegido qué?
+—Elegido a aquella con quien vas a casarte —contestó.
+Dudó por un momento.
+—¡Abrid la maldita puerta! Y reportaos —dijo con autoridad oficial.
+—¡Tienes que elegir! —gritaron las chicas.
+—¡Vamos! —gritó Annie mirándole a los ojos—. ¡Vamos, vamos!
+Se adelantó vagamente. Ella se había quitado el cinturón y blandiéndolo le lanzó un agudo golpe por encima de la cabeza con la hebilla. Él saltó y la agarró. Pero inmediatamente las demás chicas se abalanzaron sobre él, golpeándole, tirando de él y arañándole. Se les había subido la sangre a la cabeza. John se convirtió en su deporte. Iban a tomarse la revancha.
+Extrañas y salvajes criaturas se agarraban a él y se precipitaban amenazantes. Tenía la ropa de la espalda rota. Nora le había cogido por el cuello y estaba estrangulándole. Por suerte el botón saltó. Luchaban con un delirio salvaje de furia y terror; casi de terror loco. Tenía el traje roto, las mangas de la camisa destrozadas y los brazos desnudos. Las chicas se precipitaron sobre él, hincándole las uñas y empujándole; se abalanzaban sobre él golpeándole o dándole cabezazos con todas sus fuerzas. John tenía la cabeza agachada y estaba encogido, balanceándose de un sitio a otro. Ellas estaban enardecidas.
+Finalmente cayó. Se lanzaron sobre él clavándole las rodillas. No tenía aliento ni fuerza para moverse. Su rostro estaba sangrando por un gran arañazo; tenía la ceja magullada. Annie se arrodilló sobre él; las otras, ya arrodilladas, le sujetaban. Su rostro estaba encendido, el pelo desordenado y le brillaban los ojos extrañamente. Yacía bastante quieto, con el rostro ladeado, como yace un animal cuando está derrotado y a merced del cazador. Algunas veces sus ojos miraban los rostros salvajes de las chicas. Su pecho jadeaba y tenía las muñecas destrozadas.
+—Ahora, pues, señor… —murmuró Annie con fuerza—. Ahora, pues…
+Al sonido de aquel triunfo frío y terrorífico, comenzó a pelear como solo un animal puede hacerlo, pero las chicas se lanzaron de nuevo sobre él con más fuerza y con un poder sobrenatural, forzándole de nuevo a agacharse.
+—¡Sí! ¡Y ahora, pues…! —añadió con fuerza.
+Y hubo un silencio de muerte, en el que se oía el golpe sordo del latir del corazón. Era un lapso de silencio puro en cada espíritu.
+—Ahora ya sabes dónde estás —dijo Annie.
+La visión del brazo desnudo y blanco enloqueció a las chicas; él yacía en una especie de trance de temor y lucha. Ellas se sentían llenas de una fuerza sobrenatural. De pronto Polly se echó a reír desesperadamente, con carcajadas sofocadas; Emma y Muriel la acompañaban. Pero Annie, Nora y Laura permanecían tensas, con la mirada fija y los ojos brillantes. Él se estremeció ante aquellos ojos.
+—Sí —dijo Annie en un tono bajo, curioso, secreto, mortecino—. Sí, ya lo tienes. ¿Sabes lo que has hecho? ¿No sabes lo que has hecho?
+John no pronunció sonido alguno, ni hizo ningún gesto; antes bien yacía con los ojos idos y brillantes, con el rostro ensangrentado.
+—Deberíamos matarte, eso es lo que deberíamos hacer —dijo Annie—. Deberías ser asesinado —había un aterrador deseo en su voz.
+Polly estaba dejando de reír y lanzó un largo “¡Oooh!”. Y suspiros, como si volviese en sí.
+—Tienes que elegir —dijo.
+—¡Oh, sí! ¡Sí! —dijo Laura con decisión vengativa.
+—¿Me oyes? ¿Me oyes? —dijo Annie. Y con un rápido movimiento que le hizo asustarse, volvió su rostro hacia el de él.
+—¿Me oyes? —repitió sacudiéndole.
+Pero él estaba sordo. Le dio una aguda bofetada. Él volvió en sí, y sus ojos se abrieron, desmesurados. Su rostro se ensombreció, desafiante.
+—¿Me oyes? —repitió ella.
+Él la miró con ojos hostiles.
+—¡Habla! —dijo ella, acercando su rostro al de él.
+—¿Qué? —dijo casi vencido.
+—¡Tienes que elegir! —gritó como si fuese una terrible amenaza y como si le doliese no poder precisar más.
+—¡Elige a tu chica, Coddy! ¡Tienes que elegirla ahora! Y te romperemos el cuello si vuelves a usar cualquiera de tus trucos, chico. Ahora estás acabado.
+Hubo una pausa. De nuevo apartó su rostro: era astuto en su derrota. No cedería ante ellas aunque le hicieran pedazos.
+—De acuerdo entonces —dijo—. Elijo a Annie. —Su voz era extraña y estaba llena de malicia. Annie se apartó de él como si fuese un ascua al rojo vivo.
+—¡Ha elegido a Annie! —dijeron las muchachas a coro.
+—¿A mí? —gritó Annie. Estaba todavía arrodillado, boca abajo. Las chicas se agruparon inquietas alrededor de él—. ¡A mí! —repitió Annie con un tono terriblemente amargo.
+Entonces se levantó, apartándose de él aún más, con una amargura y un disgusto extraños.
+—No me atrevería a tocarle —dijo ella.
+Pero su rostro temblaba con un gesto de agonía, parecía como si se fuese a caer. Las otras chicas se apartaron hacia un lado, John permanecía tumbado en el suelo, con las ropas destrozadas y sangrando, con el rostro vuelto hacia abajo.
+—¡Oh! ¡Si te ha escogido! —dijo Polly.
+—No le quiero. Puede elegir de nuevo —dijo Annie con la misma desesperanza amarga.
+—Levántate —dijo Polly cogiéndole del hombro—. ¡Levántate!
+Se levantó despacio, era una extraña, desharrapada y aturdida criatura. Las chicas le miraron desde lejos, curiosas, furtivas y amenazadoras.
+—¿Quién le quiere? —gritó Laura con dureza.
+—¡Nadie! —contestaron con desprecio. Sin embargo, cada una de ellas esperaba que él la mirase. Todas excepto Annie, porque algo se había roto en ella.
+Él, sin embargo, mantenía el rostro apartado de todas. Hubo un silencio. John recogió algunos trozos de su ropa rota, sin saber qué hacer con ellos. Las chicas estaban de pie, inquietas, sonrojadas, jadeantes, arreglándose el pelo y el vestido de una manera inconsciente y mirándole. Él no miró a ninguna de ellas.
+Divisó su gorra en una esquina de la habitación y se dirigió hacia allí para recogerla. Se la puso y una de las chicas estalló en una risa histérica ante el aspecto que tenía. John no solo no prestó atención, sino que se dirigió hacia donde estaba colgando su abrigo. Las chicas se apartaron de él como si fuese un cable eléctrico. Se puso el abrigo y se lo abrochó. Entonces enrolló los trozos rotos de su chaqueta en un hato y se quedó de pie, mudo, frente a la puerta cerrada con cerrojo.
+—¡Que alguien abra la puerta! —dijo Laura.
+—Annie tiene la llave —dijo alguien.
+Annie dio la llave silenciosamente a las chicas. Nora descorrió el cerrojo de la puerta.
+—Donde las dan las toman, viejo —dijo—. Demuestra que eres un hombre y no guardes rencor.
+Pero sin una sola palabra o gesto, John había abierto la puerta y se había alejado, con el rostro intimidado y la cabeza baja.
+—Eso le enseñará —dijo Laura.
+—¡Coddy! —dijo Nora.
+—¡Cállate ya, por el amor de Dios! —gritó Annie como torturada.
+—¡Bien! Ya estoy preparada para marcharnos. Vamos, Polly —dijo Muriel.
+Todas estaban deseando marcharse. Se arreglaron deprisa con los rostros estupefactos y silenciosos.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

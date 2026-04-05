@@ -1,0 +1,80 @@
+---
+layout: story
+title: A la otra orilla del río y a través del bosque
+slug: otra
+source: https://www.literatura.us/idiomas/ohara/otra.html
+tags:
+  - otra
+  - ohara
+---
+John O’Hara
+(Pottsville, Pensilvania, 1905 - Princeton, Nueva Jersey, 1970)
+A la otra orilla del río y a través del bosque (1934)
+(“Over the River and Through the Wood”)
+Originalmente publicado en la revista The New Yorker (15 de diciembre de 1934);
+Doctor’s Son and Other Stories
+(Nueva York: Harcourt, Brace and Co., 1935, 294 págs.)
+El sombrero, el abrigo y la maleta del señor Winfield estaban en el vestíbulo de su piso y, cuando le telefonearon desde abajo para decirle que el coche lo esperaba, ya estaba listo. Bajó las escaleras, saludó a Roberto, el gigantesco chofer negro, le entregó la maleta y lo siguió al coche. Fue entonces cuando se enteró de que no iba a hacer el viaje solo con su nieta, porque había otras dos jóvenes con Sheila, quien procedió a presentárselas:
+—Abuelo, quiero que conozcas a mis amigas. Esta es Elena Wales y esta otra, Kay Farnsworth. Mi abuelo, el señor Winfield.
+Aquellos nombres no le dijeron nada al señor Winfield. Lo que sí le decía era que iba a tener que sentarse en el asiento supletorio, o si no, afuera con Roberto, lo cual no le convenía. No es que Roberto fuese mala compañía como chofer, peco él llevaba un gabán de mapache y el señor Winfield no tenía gabán de mapache. Así que, o se helaba en el asiento delantero, o tenía que ocupar el pequeño asiento supletorio de dentro.
+Aparentemente a Sheila le tenía sin cuidado. Él se metió en el interior, y oyó decir a su nieta cuando cerró la puerta:
+—¿Qué estará deteniendo a Roberto?
+—Atando mi maleta en ese trasto de atrás —le contestó el señor Winfield.
+Aparentemente, a Sheila no le hacía mucha gracia aquel retraso, pero, en uno o dos minutos, se pusieron en marcha. El señor Winfield admiró la manera en que Sheila llevaba la conversación con sus dos amigas, mientras, al mismo tiempo, iba indicando a Roberto todos los vericuetos por donde tenía que meterse; de manera que estuvieron fuera de la ciudad en poco tiempo. Para el señor Winfield, resultaba grato y era un poco como en los viejos tiempos, el que alguien se encargase de la dirección de la ruta y de la conducción del vehículo. No es que él condujera todavía; pero, cuando alquilaba un automóvil, siempre tenía que ir indicando al chofer dónde tenía que dar vuelta y por dónde tenía que seguir derecho. Sheila lo sabía.
+Las muchachas eran de la misma edad. Referíanse a los nombres: Ted, Bob, Gwen, Jean, Mary, Liz. Prestó un poco de atención a lo que decían y se enteró de que en cambio, mencionaban los apellidos de los conocidos y amigos del colegio con quienes tenían menos relaciones.
+Desde donde estaba sentado, no podía ver los rostros de las jóvenes, pero fue formando su juicio sobre las señoritas Wales y Farnsworth. La primera pronunciaba cualquier otra palabra a cada dos palabras que pronunciaba Sheila. Era la más pequeña de las tres y pertenecía al tipo alegre. La señorita Farnsworth se pasaba casi todo el tiempo mirando por la ventanilla, y apenas abría la boca. El señor Winfield podía verle mejor la cara que a las otras, y se encontró de pronto pensando:
+“Yo creo que esa joven no quiere a nadie”. Bueno, es una manera de ser. Obligar al mundo a que le ande buscando la cara. Y, por cierto, puede dar buenos resultados esa táctica, seguía pensando, siendo tan bonita como la señorita Farnsworth. Fueron pasando los kilómetros y el tiempo se enfrió. El señor Winfield siguió escuchando, y no tardó en comprender que con él no se contaba para la conversación.
+—Aquí pararemos —dijo Sheila. Estaban en Danbury, y se habían detenido a la puerta del viejo hotel—. ¿No quieres que paremos aquí, abuelo?
+Estaba bien claro que su hija había encargado a Sheila que se detuviesen allí; así que, dócilmente y sin dignidad, salió del vehículo. Cuando volvió, las tres muchachas estaban terminando sus cigarrillos. Al subir otra vez al automóvil observó que la señorita Farnsworth había estado mirándolo y continuaba haciéndolo, casi para subrayar deliberadamente que no quería ayudarlo... aunque él no necesitaba ayuda. No era lo que se llamaba, un hombre viejo, un viejo. Sólo tenía sesenta y cinco años de edad.
+El vehículo estaba lleno de humo de cigarrillos, y la señorita Farnsworth preguntó al señor Winfield si no tenía inconveniente en abrir la ventanilla. La abrió. Entonces Sheila dijo que una sola ventanilla no lo arreglaba, que convenía abrir las dos, aunque sólo fuese el tiempo suficiente para que saliese el humo.
+—¡Qué gusto! Este aire es delicioso —exclamó la señorita Wales, añadiendo—: ¿Pero, y usted, señor Winfield? Está ahí en medio de una corriente terrible.
+Él contestó, usando su voz por primera vez, que no le parecía mal. En ese momento, las muchachas creyeron ver el automóvil de un joven a quien conocían, y, antes de que la señorita Farnsworth se diera cuenta de que las ventanillas seguían abiertas y que había una corriente terrible, ya estaban en Shefield, al otro lado de la frontera de Massachusetts. Lo advirtió cuando se le resbaló por la pierna la manta de viaje. Entonces le preguntó al señor Winfield si no tenía inconveniente en cerrarlas. Pero él no pudo menear la manivela; porque le habían quedado tan ateridas las manos que no tenía fuerza.
+—Bueno, ya no tardaremos en llegar —dijo Sheila.
+Sin embargo, subió los cristales de ambas ventanillas, sin hacer el más mínimo caso de las disculpas avergonzadas del señor Winfield.
+Fue el primero que tuvo que apearse cuando llegaron a la casa de Lenox. Entonces fue cuando se arrepintió de haber optado por el asiento supletorio. Empezó a salir del vehículo; pero, cuando tocó con los pies la tierra, se le vino a la cara la helada grava de la pista. No tuvo fuerza en las rodillas y se cayó; quedó por unos segundos en el duro suelo, tratando de disimular con una sonrisa. El servicial Roberto —casi demasiado servicial, porque el señor Winfield no era tan viejo— saltó del automóvil y le metió las manos por debajo de los sobacos. Las muchachas se asustaron, y le pareció al señor Winfield que se concentraron en la ventana de la biblioteca, como si tuviesen miedo de que ahí estuviera la madre de Sheila y les culpara de la caída de él. Si ellas supieran que...
+—Entra, abuelo, si no te has hecho daño —le indicó Sheila—. Yo tengo que dar órdenes a Roberto sobre el equipaje.
+—No me ha pasado nada —dijo el señor Winfield.
+Entró en la casa y colgó su abrigo y su sombrero en el ropero que había bajo las escaleras... Allí estaba el teléfono y, delante de él, una tarjeta amarilla con los números que se marcaban más frecuentemente. Él no recordó más que unos cuantos de aquellos nombres, pero supuso que la gente que iba a casa en esos días era completamente nueva. Quince años hacían cambiar mucho las cosas, aun en un lugar como Lenox. Sí, ya habían pasado quince años desde que vino aquí a pasar el verano. Estos viajes, estos viajes anuales para pasar el día de Acción de Gracias no servían para percibir el carácter de aquel lugar. Nunca se encontraba uno más que con los miembros de su familia y, en todo caso, como ocurría hoy, con sus invitados.
+Salió al sombrío vestíbulo. Ula, la sirvienta, pegó un brinco, sobresaltada.
+—¡Ay! Oh. Es usted, señor Winfield, cómo le gusta asustarme.
+—Hola, Ula. Me alegro mucho de verla defender todavía el fuerte. ¿Dónde está la señora Day?
+—Arriba, creo... Acá viene.
+La hija de] señor Winfield iba bajando la escalera; lo único que al principio distinguió era la mano de ella sobre el balaustre.
+—¿Eres tú, padre? Me pareció oír el automóvil.
+—Hoja, María —la saludó él.
+Cuando llegó ella al pie de las escaleras, pasaron por el ceremonial del beso que ambos se sabían de memoria. Él se inclinó sobre su hija de manera tal que su cabeza quedó por encima del hombro de ella. A Ula, acendrada católica, debió parecerle como el ósculo litúrgico de paz. Winfield tuvo ganas de decir: “Pax tibi”. Pero preguntó:
+—¿Dónde has...?
+—¡Padre! ¡Estás helado!
+La señora Day hizo lo posible por quitar de su voz todo eco de exasperación.
+—Ha sido un viaje frío —le explicó él—. Ya sabes lo que pasa en esta época del año. Tuvimos neviscas entre Danbury y Shefield; pero las muchachas encantadas.
+—Sube ahora mismo y tómate un baño. Te mandaré... ¿qué te gustaría? ¿Té? ¿Chocolate? ¿Café?
+Estaba divertido. Lo natural era ofrecerle licor, era tan obvio que ella, precisamente, hablaba muy aprisa para evitar tocar el punto.
+—Creo que me sentaría muy bien un cacao, pero será mejor que prepares un trago en toda regla para Sheila y sus amigas.
+—¿Por qué hablas en ese tono, padre? Podrías tomarte un trago si quisieras, pero has dejado de beber, ¿no?
+—Exacto, no necesitas recordármelo.
+—Bueno, y además, el licor no te da tanto calor como algo humeante. Te mandaré una taza de chocolate. Te he preparado tu habitación de siempre, claro está. Tendrás que compartir el cuarto de baño con una de las amigas de Sheila, pero no he podido arreglarlo de otro modo. Ni siquiera Sheila sabía si iba a venir hasta el último momento.
+—Por mí no te preocupes. Según parece... es que no he traído ningún traje de etiqueta.
+—No vamos a vestirnos de etiqueta.
+Subió las escaleras. Su habitación, lo que se dice la habitación en sí, era poco más o menos la misma; pero el mobiliario había cambiado de sitio y su sillón favorito no estaba donde a él le gustaba; pero era una buena casa. Se veía en seguida que podía ser habitada, este año, hoy, mañana. Ligeros detalles, ceniceros, flores. Parecía joven y blanco, fresco aunque con cierto ambiente cálido, confortable... y absolutamente extraño para él y, sobre todo él para la casa. Cuanto tenía la casa de recuerdos, había desaparecido. Se sentó en el sillón y encendió un cigarrillo. Los viejos pensamientos se agolparon en su mente como una ola, como un tropel, como una ráfaga. La mayor parte del año, estaban en receso en su cerebro; pero aquí, el señor Winfield pasaba una especie de revista anual a los lejanos pero nunca olvidados remordimientos.
+La casa fue suya hasta que la compró el marido de María. A buen precio, y conste que, en 1921, le hacía falta aquel dinero. Le hacía falta todo, y hoy percibía las rentas del dinero que recibió por la casa, y eso era casi todo con lo que contaba.
+Recordaba el día en que el marido de María se acercó a él y le dijo:
+—Señor Winfield, detesto tener que ser el que haga esto... pero María, María no cree... bueno, piensa que usted no se portó muy bien con la señora Winfield. Yo, claro está, no sé nada del caso, pero así es como piensa María. Yo esperaba, naturalmente, que usted viniera con nosotros, ahora que la señora Winfield ha muerto; pero... bueno, el caso es que sé que usted ha perdido una buena porción de dinero, y da la casualidad de que también conozco el testamento de la señora Winfield. Por esa, estoy dispuesto a hacerle una oferta bastante buena y rigurosamente legal, de conformidad con los valores actuales, por la casa de Lenox. Pagaré los impuestos pendientes y le daré ciento cincuenta mil dólares por el edificio y sus terrenos. Con eso tendrá suficiente para pagar sus deudas y quedarse con una renta bastante buena. Y ah, por cierto, tengo un amigo que conoce muy bien al señor Harding. De hecho, se ve informalmente con el Presidente una noche a la semana, y estoy seguro de que tendrá sumo gusto, si a usted le interesara...
+Recordaba cómo le había tentado aquello. Harding podría haber arreglado las cosas para que él fuese a Londres, donde estaba Enid Walter. Pero, aun entonces, ya era demasiado tarde. Enid se había vuelto a Londres, porque él no tuvo valor para divorciarse de su mujer; y la razón por la cual no se divorciaba era que quería “proteger” a María, y la posición de María y la posición del marido de María, y la posición de la pequeña hija de María, y ahora estaba “protegiéndolos” a todos otra vez, al vender su casa para no convertirse en una carga familiar... protegiéndolos al mismo tiempo del estorbo de un pariente pobre.
+—Puedes quedarte con la casa —contestó a Day—. Vale eso, pero no más, y te agradezco que no me ofrezcas más. En cuanto a un puesto político, creo que podría irme a California este invierno; me gustaría. Tengo allí amigos a quienes no veo desde hace años.
+Se enteró de que aquello era exactamente lo que estaban deseando María y su esposo, y se fue. Sonó un toque en la puerta. Era Ula que traía una bandeja.
+—¿Por qué dos tazas, Ula? —le preguntó.
+—Oh ... ¿puse dos tazas? Es verdad. Estoy tan acostumbrada a poner siempre dos tazas. ..
+Había dejado ella la puerta abierta y, mientras preparaba las cosas sobre la mesa de mármol, vio él a Sheila y a las otras dos muchachas de pie y moviéndose por el pasillo.
+—Esta es tu habitación, Farnie —decía Sheila—. La tuya está por aquí, Elena. Recuerda lo que te advertí Farnie. Vámonos, Elena.
+—Gracias, Ula —dijo el señor Winfield.
+Ella salió y cerró la puerta. Él se quedó un momento, contemplando el chocolate. Luego llenó una taza y se la tomó. Le dio un poco de sed, pero le supo bien y lo hizo entrar en calor. Tenía razón María: era mejor que licor. Se sirvió otra taza y mordisqueó un bizcocho. Se le ocurrió una idea: quizás le gustase también a la señorita Farnsworth. Admiraba a aquella muchacha. Tenía fibra. Estaba seguro de que sabía lo que quería, o parecía saberlo, y, por insignificantes que fuesen las cosas que deseaba, eran las que deseaba, y no le importaban los demás. Tenía motivos de sobra, además, para dar gracias a Dios porque era lo suficientemente joven para intentar lo que se le antojaba, sin tener que esperar como él. Esa joven se iba a decidir sobre un hombre, una fortuna o una carrera y con seguridad conseguiría lo que quisiera. Si se encontraba, como seguramente se encontraría, con que nada era suficiente, por lo menos lo averiguaría a tiempo, y un desengaño temprano producía siempre, como compensación, una actitud filosófica, la cual no arrebataría nada de su encanto a una mujer dura como aquella. El señor Winfield había sentido su encanto, y empezó a considerarla como la persona más interesante que había conocido en muchos años aburridos. Sería interesante hablar con ella, sondearla y ver cuán lejos había penetrado en el campo, digamos, de la ambición o de la desilusión. Le resultaría divertido hacerlo; por otra parte, sería una amabi-lidad suya, como antiguo jefe de esta casa, invitarla a saborear una taza de cacao con él. Buen cacao.
+Estuvo pensando si debería salir al pasillo y llamar a su puerta, o llamarla por la que iba a dar al cuarto de baño. Se decidió por lo último, porque no quería que nadie lo viese tocando a su puerta. Entró en el cuarto de baño y golpeó con los nudillos la alcoba de ella.
+—Un momento —creyó haberle oído contestar. Pero estaba seguro de que se había equivocado. Tenía que haberse equivocado. Sonó más bien como:
+—Pase.
+Aborrecía a la gente que llamaba a las puertas y necesitaba que se le repitiese dos o tres veces que podían entrar; produciría mala impresión a la joven empezar de aquella manera su amistad.
+Abrió la puerta e inmediatamente comprendió cuánta razón tuvo al creer que había dicho: “Un momento”. Porque la señorita Farnswort estaba de pie, en medio de la habitación, casi desnuda. El señor Winfield comprendió inmediatamente que aquello era el mentís de toda la vida digna que había llevado. En los ojos de la muchacha había una fría chispa asesina, y una expresión de repugnancia, desprecio y anticipo de la idea que para siempre iba a evocar en ella su nombre. Esto fue lo que le dijo:
+—¡Salga de aquí, viejo asqueroso!
+El hombre volvió a su cuarto y a su sillón. Lentamente sacó un cigarrillo de su petaca, pero no lo encendió. Todo lo hizo despacio. Le sobraba tiempo, demasiado ya para él. Sabía que habían de pasar horas antes de empezar a detestarse a sí mismo. Lo mejor que podía hacer durante un rato era seguir sentado y proyectar sus propios terrores.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

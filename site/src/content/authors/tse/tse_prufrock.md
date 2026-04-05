@@ -1,0 +1,610 @@
+---
+layout: story
+title: Prufrock y otras observaciones
+slug: tse_prufrock
+source: https://www.literatura.us/idiomas/tse_prufrock.html
+tags:
+  - tse_prufrock
+  - tse
+---
+T.S. Eliot
+(Missouri,
+USA, 1888-Londes, 1965)
+PRUFROCK Y OTRAS OBSERVACIONES
+(1917)
+Para Jean Verdenal, 1889-1915,
+mort aux Dardanelles[1]
+Or puoi la quantitate
+comprender dell’amor ch’a te mi scalda,
+quando dismento nostra vanitate,
+tratando l’ombra come cosa salda.
+LA
+CANCIÓN DE AMOR DE J. ALFRED PRUFROCK[2]
+S’i credesse che mia risposta fosse
+a persona che mai tornase al mondo,
+questa fiamma staria senza più scosse;
+ma però che già mai di questo fondo
+non tornò vivo alcun, s’i’odo il vero,
+senza tema d’infamia ti rispondo[3]
+Vamos pues tú y yo,
+ahora que se echa la tarde en el cielo
+como un paciente anestesiado sobre una mesa;
+vayamos por ciertas calles medio muertas,
+las rumorosas madrigueras
+de inquietas noches en hoteles cutres de una sola noche
+y restaurantes con serrín y ostras vacías:
+calles que se prolongan como una tediosa discusión
+con la insidiosa intención
+de proponerte una cuestión comprometida…
+Ah, no preguntes: «¿De qué se trata?».
+Vámonos de visita.
+En la sala las mujeres van y vienen
+hablando de Miguel Ángel.
+La bruma amarilla que se frota la espalda contra los ventanales,
+la niebla amarilla que se frota el hocico contra los ventanales
+metía la lengua en las esquinas de la tarde,
+se demoraba en las charcas de los desagües,
+dejaba caer sobre su espalda el hollín que cae de las chimeneas;
+se escurrió en la terraza, dio un salto repentino
+y viendo que era una suave noche de octubre
+se ovilló de golpe en la casa y cayó rendida.
+Y claro que habrá tiempo
+para la niebla amarilla que se desliza por la calle,
+frotándose la espalda contra los ventanales;
+habrá tiempo, habrá tiempo
+de disponer una cara para ver las caras que te encuentras;
+habrá tiempo de asesinar y crear,
+y tiempo para todas las obras y días de manos
+que levantan y sueltan una cuestión en tu plato;
+tiempo para ti y tiempo para mí,
+y tiempo para cien indecisiones
+y para cientos de visiones y revisiones,
+antes de la tostada y el té.
+En la sala las mujeres van y vienen
+hablando de Miguel Ángel.
+Y claro que habrá tiempo
+para pensar, «¿debería?» y «¿debería?»,
+tiempo para volverse y bajar la escalera
+con una clapa en mitad del cabello…
+(Dirán: «¡Cuánto pelo está perdiendo!»).
+Mi abrigo de mañana, el cuello prieto hasta la barbilla,
+la corbata cara y discreta, pero fijada con una aguja sencilla…
+(Dirán: «¡Qué flacos los brazos y las piernas!»).
+¿Debería
+perturbar el universo?
+En un minuto hay tiempo
+para decisiones y revisiones que un minuto revoca luego.
+Porque ya lo conozco todo, todo lo conozco…
+He conocido los crepúsculos, las tardes y las mañanas,
+mi vida la he medido con cucharillas de café;
+conozco las voces agónicas en su agónica caída
+más allá de la música que llega de un salón a lo lejos.
+¿Así que cómo puedo yo suponer?
+Y he conocido los ojos también, todos los he conocido…
+Los ojos que te paralizan con una frase formular,
+y estando yo mismo formulado, despatarrado en una aguja,
+estando yo mismo clavado y retorciéndome en la pared,
+¿cómo debería empezar
+a escupir todas las colillas de mis días con sus pasos?
+¿Y cómo puedo yo suponer?
+Y he conocido también los brazos, los conozco todos…
+Brazos con pulseras, blancos y desnudos
+(pero a la luz de la lámpara con suave y castaña pelusa).
+¿Es el perfume de un vestido
+lo que me hace divagar tanto?
+Brazos apoyados en una mesa o envueltos en un chal.
+¿Y tengo pues que suponer?
+¿Y cómo debería empezar?
+¿Debo decir, he ido al caer el día por calles estrechas
+y he visto el humo que asciende de las pipas
+de hombres solitarios en mangas de camisa, asomándose a las ventanas…?
+Tendría que haber sido un par de pinzas dentadas[4]
+escabulléndome en los fondos de mares silenciosos.
+¡Y la tarde que anochece duerme con tanta paz!
+Acariciado por largos dedos,
+medio dormido… cansado… o finge estar enfermo,
+tumbado en el suelo, aquí a nuestro lado.
+¿Debería, tras el té y el pastel y los helados,
+tener la fuerza para forzar el momento de la crisis?
+Pero aunque haya llorado y ayunado, llorado y rezado,
+aunque haya visto mi cabeza (un poco calva ya) presentada sobre una bandeja,
+no soy ningún profeta; y no es que importe mucho.
+He visto titilar el momento de mi grandeza
+y he visto al eterno criado tener mi abrigo, aguantándose la risa,
+y en fin, me entró miedo.
+Y habría valido la pena, después de todo,
+después de las tazas, la confitura, el té,
+entre la porcelana, en alguna de nuestras charlas,
+habría valido la pena,
+haber encarado el tema con una sonrisa,
+haber metido el universo en una bola
+y lanzarla hacia una cuestión comprometida,
+decir: «Soy Lázaro, he vuelto de entre los muertos,
+he vuelto para deciros a todos, os voy a decir a todos…».
+Si alguien, colocándose un cojín en la cabeza,
+dijera: «No es lo que quería decir,
+no es esto en absoluto».
+¿Y habría valido la pena, después de todo,
+habría valido la pena,
+después de los crepúsculos y los patios y las calles mojadas,
+después de las novelas, las tazas de té, después de las faldas que rozan el suelo,
+y esto y tanto más?
+¡Es imposible expresar lo que quiero decir!
+Pero como si una linterna mágica proyectara los nervios con dibujos en una pantalla:
+habría valido la pena
+si alguien, colocándose un cojín o quitándose un chal,
+y volviéndose hacia la ventana, dijera:
+«No es esto en absoluto,
+no es lo que quería decir, para nada».
+¡No! No soy el príncipe Hamlet ni pretendía serlo;
+soy un consejero real, uno que servirá
+para hacer avanzar la trama, iniciar una o dos escenas,
+advertir al príncipe; sin duda un peón fácil,
+deferente, contento de ser útil,
+político, cauto, minucioso;
+muy sentencioso, pero un poco obtuso,
+a ratos, de hecho, casi ridículo…
+casi, a ratos, el bufón.
+Estoy viejo… estoy viejo…
+Llevaré doblados los bajos del pantalón.
+¿Tendría que peinarme hacia atrás? ¿Debería comerme un melocotón?
+Llevaré pantalones de franela blanca y caminaré por la playa.
+He oído a las sirenas cantándose, cara a cara.
+No creo que canten para mí.
+Las he visto cabalgar hacia el mar sobre las olas
+peinando el cabello blanco de las olas sopladas
+cuando el viento sopla el agua negra y blanca.
+Nos hemos demorado en las estancias del mar
+con chicas marinas coronadas de algas rojas y pardas
+hasta que voces humanas nos despiertan y nos hundimos en el agua.
+RETRATO DE UNA DAMA[5]
+Has cometido…
+fornicación: pero fue en otro país,
+y además, la zorra está muerta.[6]
+El judío de Malta
+I
+Envuelta en la niebla y la bruma de una tarde de diciembre
+dejas que la escena —como debería ser— se componga sola
+con un «Guardaba esta tarde para ti»;
+y cuatro velas de cera en la sala oscurecida,
+cuatro anillos de luz arriba en el techo,
+una atmósfera a lo sepulcro de Julieta
+dispuesta para que todo se diga o quede sin decir.
+Estuvimos, digamos, escuchando al ultimísimo polaco
+transmitir los Preludios con el cabello y los dedos.
+«Es tan íntimo, este Chopin, que creo que su alma
+debería resucitar sólo entre amigos,
+unos dos o tres, que no osarían tocar la floración
+que se manosea y cuestiona en la sala de conciertos».
+Y así fluye la conversación,
+entre veleidades y cuidadosamente tomados pesares,
+a través de atenuados tonos de violines
+entreverados con lejanas cornetas;
+y empieza:
+«No sabe hasta qué punto son importantes para mí, mis amigos,
+y qué raro, qué raro y extraño resulta encontrar,
+en una vida hecha de tantos, tantos retales
+(por supuesto que no me gusta… ¿lo sabía? ¡No está usted ciego!
+¡Qué agudo es usted!),
+encontrar un amigo que tenga estas cualidades,
+que tenga y ofrezca
+esas cualidades de las que se nutre una amistad.
+Qué importante es que le diga esto…
+Sin estas amistades… la vida, ¡qué cauchemar!».
+Entre las sinuosidades de los violines
+y las arietas
+de cascadas cornetas,
+en mi cabeza un pesado tambor empieza
+aporreando absurdamente un preludio de su cosecha,
+caprichosamente monótono
+y que es, al menos, una nítida «nota falsa».
+—Vayamos a tomar el aire, en trance de tabaco,
+admiremos los monumentos,
+discutamos los últimos acontecimientos,
+sincronicemos nuestros relojes con la hora oficial
+y sentémonos luego media hora a tomar cerveza.
+II
+Ahora que las lilas están en flor
+tiene un cuenco con lilas en su habitación
+y mientras habla aprieta una con los dedos.
+«Ay, amigo mío, no sabe usted, no sabe usted
+lo que es la vida, usted que la tiene en las manos»
+(retuerce lenta el tallo de la lila),
+«una deja que fluya, deja que fluya
+y la juventud es cruel y no se arrepiente
+y sonríe en situaciones que no puede ver».
+Yo sonrío, por supuesto,
+y sigo tomando té.
+«Pero con estas puestas de sol de abril, que recuerdan,
+de algún modo, mi sepultada vida y la primavera parisina,
+me siento enormemente en paz y el mundo me parece
+maravilloso y lleno de juventud, después de todo».
+La voz vuelve como la insistente disonancia
+de un roto violín una tarde de agosto:
+«Siempre estoy segura de que usted entiende
+mis sentimientos, siempre segura de que usted siente,
+de que a través del abismo tiende usted la mano.
+Es usted invulnerable, no tiene talón de Aquiles.
+No se detendrá, y cuando haya ganado,
+podrá decir: en este punto más de uno ha fracasado.
+Pero ¿qué tengo yo, qué tengo yo, amigo mío,
+para darle, qué puede usted esperar de mí?
+Sólo la amistad y la simpatía
+de alguien a punto de llegar al fin.
+Me quedaré aquí sentada, sirviendo té a los amigos…».
+Recojo mi sombrero: ¿cómo podría enmendar cobardemente
+lo que me ha dicho ella?
+Me veréis cualquier mañana en el parque,
+leyendo las viñetas y la sección de deportes.
+Me detengo sobre todo
+en una condesa inglesa es actriz de teatro,
+un griego fue asesinado en un baile polaco,
+otro moroso bancario ha confesado.
+Mantengo el semblante,
+sigo sereno
+excepto cuando una pianola, mecánica y fatigada,
+reitera una vieja y popular canción
+llena de aroma de jacintos traspasando el jardín
+con recuerdos de aquello que otros han deseado.
+¿Estarán bien o mal estas ideas?
+III
+Cae la noche de octubre; regreso como siempre
+excepto por una leve sensación de incomodidad,
+subo las escaleras y giro el pomo de la puerta
+y me siento como si hubiera subido a gatas.
+«Así que se va usted al extranjero, ¿y cuándo regresa?
+Pero qué pregunta tan tonta.
+No tiene usted idea de cuándo va a volver,
+descubrirá tanto que aprender».
+Se apaga mi sonrisa entre las cajitas.
+«Quizá pueda usted escribirme».
+Mi aplomo se reaviva por un momento;
+esto es lo que esperaba.
+«Últimamente me he preguntado con frecuencia
+(sabemos cómo empieza todo pero no cómo acaba)
+por qué no nos hemos hecho más amigos».
+Me siento como alguien que sonríe y volviéndose
+descubre de pronto su expresión en un espejo.
+Mi aplomo se diluye; estamos en la oscuridad.
+«Todo el mundo lo decía, todos nuestros amigos,
+¡todos estaban seguros de que nuestros sentimientos
+se acercarían tanto! Ni yo misma lo entiendo.
+Debemos dejarlo al destino.
+Me escribirá, en cualquier caso.
+Quizá no sea demasiado tarde.
+Estaré aquí sentada, sirviendo té a los amigos».
+Y me veo obligado a adoptar toda forma cambiante
+para hallar expresión… danzar, danzar,
+como un oso que baila,
+gritar como un loro, charlotear como un mono.
+Vayamos a tomar el aire, en trance de tabaco.
+¡Bien! Y si ella muriera una tarde de estas,
+una tarde gris y brumosa, ocaso amarillo y rosa;
+muriera y me dejara sentado pluma en mano
+con la niebla que desciende sobre los tejados,
+dudoso, por un rato,
+sin saber qué sentir o qué pensar,
+o si sabio o necio, tarde o temprano…
+¿No llevaría ella la ventaja, después de todo?
+Esta música triunfa con una «agónica caída»
+(ahora que hablamos de agonías).
+¿Y tendría yo derecho a sonreír?
+PRELUDIOS[7]
+I
+Cae la tarde de invierno
+en callejones que huelen a cocina.
+Las seis en punto.
+Quemados restos de días con niebla.
+Y ya una ráfaga de lluvia enreda
+los mugrientos retales
+de hojarasca entre tus piernas
+y revuelan periódicos en descampados;
+las ráfagas golpean
+contra rotas persianas y chimeneas
+y en la esquina de la calle
+retumba el vaho de un coche de caballos.
+Y el súbito encendido de las lámparas.
+II
+Despierta la mañana a la conciencia
+de espectrales olores a cerveza rancia
+de la calle con serrín hollada
+por enlodados pies que atraviesan
+hacia cafeterías de madrugada.
+Con las restantes mascaradas
+que el tiempo reanuda,
+uno piensa en las miles de manos
+que ya descorren lúgubres cortinas
+en infinitos cuartos amueblados.
+III
+Arrancaste una manta de la cama,
+te tumbaste de espaldas y aguardaste.
+Dormitabas y viste cómo la noche proyectaba
+la secuencia de sórdidas imágenes
+de la que está compuesta tu alma
+—temblaban contra el cielo raso.
+Y cuando regresó el mundo entero
+y trepaba la luz por las persianas
+y oías los gorriones en los sumideros,
+tuviste una visión de la calle
+como la calle apenas puede saberlo.
+Sentada al borde la cama, donde
+te rizabas con rulos de papel el pelo
+o te amasabas los pies amarillentos
+con las ennegrecidas palmas de las manos.
+IV
+Se tensa su alma elástica en los cielos
+detrás de la manzana esfumados,
+o es pisada por pies apresurados
+hacia las cuatro, las cinco o las seis en punto.
+Y cortos dedos gordos cargan pipas,
+y diarios vespertinos, y miradas
+convencidas de ciertas certezas,
+conciencia de una calle oscurecida
+deseando asumir el mundo.
+Conmovido por tantas ilusiones
+ovilladas en esas imágenes, sostengo
+la noción de una cosa infinita y suave,
+algo infinitamente sufriendo.
+Pásate la mano por la boca y ríe;
+los mundos giran como antiguas mujeres
+buscando combustible en descampados.
+Se tensa su alma elástica en los cielos
+detrás de la manzana esfumados,
+o es pisada por pies apresurados
+hacia las cuatro, las cinco o las seis en punto.
+Y cortos dedos gordos cargan pipas,
+y diarios vespertinos, y miradas
+convencidas de ciertas certezas,
+conciencia de una calle oscurecida
+deseando asumir el mundo.
+Conmovido por tantas ilusiones
+ovilladas en esas imágenes, sostengo
+la noción de una cosa infinita y suave,
+algo infinitamente sufriendo.
+Pásate la mano por la boca y ríe;
+los mundos giran como antiguas mujeres
+buscando combustible en descampados.
+RAPSODIA DE UNA NOCHE DE VIENTO[8]
+Las doce en punto.
+A lo largo de cada extremo de la calle
+sujeta en lunar síntesis,
+murmurando conjuros lunares,
+se diluyen los fondos de la memoria
+con sus asociaciones limpias
+y sus precisas divisiones.
+Cada farola que paso
+resuena cual tambor ominoso
+y a través de los blancos de la negra
+medianoche se agita la memoria
+como agita un demente un geranio muerto.
+La una y media,
+la farola chispeaba,
+la farola musitaba,
+la farola decía: «Mira esa mujer
+que vacila ante ti a la luz de la puerta
+que se abre en ella como una sonrisa.
+Fíjate, el dobladillo de su vestido
+está deshecho y sucio de arena
+y fíjate que el rabillo del ojo
+se le retuerce como un alfiler caído».
+La memoria vomita con seca violencia
+un montón de cosas retorcidas;
+una rama torcida en la playa,
+bien pelada y pulida
+como si el mundo mostrara
+el secreto de su esqueleto,
+rígido y blanco.
+Un muelle roto en un patio de fábrica,
+óxido que se aferra a la forma que la fuerza ha dejado
+dura y rizada y a punto de botar.
+Las dos y media,
+la farola decía:
+«Fíjate en el gato que se escurre en la alcantarilla,
+saca toda la lengua
+y se zampa un bocado de manteca rancia».
+Así la mano del niño, automática,
+se le salió para llevarse al bolsillo un juguete que corría por el muelle.
+Nada pude ver tras la mirada del niño.
+He visto ojos en la calle
+tratando de escudriñar en persianas con luz,
+y un cangrejo una tarde en una poza,
+un viejo cangrejo con lapas en la concha
+que se cogió al palo que le tendía.
+Las tres y media,
+la farola chispeaba,
+la farola musitaba en la noche.
+La farola tarareaba:
+«Mira la luna,
+la lune ne garde aucune rancune,
+guiña un ojo malo,
+sonríe en las esquinas.
+Acaricia el cabello de la hierba.
+La luna ha perdido la memoria,
+tiene picada la cara de pulida viruela,
+estruja una rosa de papel con la mano
+que huele a polvo y agua de colonia,
+está sola
+con todos los viejos y nocturnos aromas
+que cruzan y vuelven a cruzar su cabeza».
+Llega la reminiscencia
+de secos geranios sin sol
+y polvo en las grietas,
+olores de castaña en las calles
+y olores de hembra en cuartos cerrados
+y cigarrillos en corredores
+y bares con olor a cóctel.
+La farola dijo:
+«Las cuatro en punto,
+aquí está el número en la puerta.
+¡Memoria!
+Tienes la llave.
+La pequeña farola dibuja un anillo en la escalera.
+Sube.
+La cama está abierta; el cepillo de dientes cuelga en la pared,
+pon los zapatos en la puerta, duerme, disponte para la vida».
+La torsión última del cuchillo.
+MAÑANA EN LA VENTANA[9]
+Repiquetean platos de desayuno en cocinas de sótano
+y a lo largo de la calle rumorosa de pasos
+reconozco las húmedas almas de las criadas
+brotando abatidas tras los grandes portales.
+Las pardas olas de niebla me lanzan
+retorcidas caras desde el fondo de la calle
+y arrancan de una transeúnte con faldas sucias
+una sonrisa sin destino que planea en el aire
+y se disuelve a la altura de los tejados.
+EL BOSTON EVENING TRANSCRIPT[10]
+Los lectores del Boston Evening Transcript
+oscilan en el viento como un campo de trigo maduro.
+Cuando la tarde se desvanece rápida en la calle,
+despertando apetitos de vida en algunos
+y trayéndoles a otros el Boston Evening Transcript,
+subo las escaleras y toco el timbre, volviéndome
+cansado, como se volvería uno para dedicar una cabezada a La Rochefoucauld
+si la calle fuera el tiempo y él estuviera al cabo de la calle,
+y digo: «Prima Harriet, aquí tienes el Boston Evening Transcript».
+LA TÍA HELEN[11]
+Miss Helen Slingsby era una tía mía soltera
+y vivía en una pequeña casa cerca de una elegante plaza
+cuidada por un servicio de cuatro personas.
+Cuando ella murió, se hizo silencio en el cielo
+y silencio al final de su calle.
+Se echaron las persianas y el enterrador se lustró los pies,
+sabiendo que esas cosas pasaban.
+Los perros fueron atendidos con mimo
+pero poco después el loro también murió.
+El reloj de Dresde siguió sonando en la repisa
+y el criado se sentó encima de la mesa del comedor
+con la segunda doncella en las rodillas,
+tan prudente siempre mientras su señora vivió.
+LA PRIMA NANCY[[12]
+Miss Nancy Ellicott
+daba zancadas por las colinas y las rompía,
+cabalgaba por las colinas y las rompía
+—las desnudas colinas de Nueva Inglaterra.
+Cabalgando con perros de caza
+por los pastos de vacuno.
+Miss Nancy Ellicott fumaba
+y bailaba todos los bailes modernos;
+y sus tías no sabían muy bien qué pensar
+pero sabían que era moderno.
+Sobre las estanterías de cristal vigilaban
+Matthew y Waldo, guardianes de la fe,
+el ejército de inalterable ley.
+MR. APOLLINAX[[[13]
+[en griego]Oh, qué novedad. Por Heracles, qué paradoja.
+Hombre ingenioso.[14]
+Luciano
+Cuando Mr. Apollinax visitó Estados Unidos
+su risa tintineaba entre las tazas de té.
+Me acordé de Fragilion, esa tímida figura entre abedules,
+y de Príapo en los matorrales
+boquiabierto con la dama en el columpio.
+En el palacio de Mrs. Phlaccus, en casa del profesor Channing-Cheetah,
+se reía como un feto irresponsable.
+Su risa era submarina y profunda
+como la del viejo del mar
+oculto bajo islas de coral
+donde tristes cuerpos de ahogados van a la deriva en el silencio verde,
+escurriéndose entre los dedos del oleaje.
+Busqué la cabeza de Mr. Apollinax rodando bajo una silla
+o sonriendo sobre una pantalla
+con algas en el pelo.
+Oí el tambor de las patas de centauro sobre el duro pasto
+mientras su sobria y apasionada charla devoraba la tarde.
+«Es un hombre encantador»… «Pero ¿qué quería decir en realidad?»
+«Esas orejas en punta… Debe de estar desequilibrado».
+«Hubo algo que dijo que debería haberle rebatido».
+De la señora viuda Mrs. Phlaccus y del profesor y de Mrs. Cheetah
+recuerdo una rodaja de limón y una galleta mordida.
+HISTERIA[15]
+Cuando ella reía me veía de pronto envuelto en su risa y formaba parte de ella, hasta
+que sus dientes no eran más que fortuitas estrellas con talento para la instrucción de
+ejércitos. Fui arrastrado por breves jadeos, inhalados en cada recuperación
+instantánea, perdido finalmente en las oscuras cavernas de su garganta, golpeado por
+las ondas de invisibles músculos. Un camarero mayor con manos temblorosas estaba
+poniendo deprisa un mantel a cuadros blancos y rosas sobre una oxidada mesa de
+hierro verde, diciendo: «Si la señora y el caballero desean tomar el té en el jardín, si
+la señora y el caballero desean tomar el té en el jardín…». Decidí que si la agitación
+de sus pechos podía pararse, se podrían recoger algunos de los añicos de la tarde, y
+con cuidadosa sutileza puse toda mi atención a tal fin.
+CONVERSATION GALANTE[16]
+Observo: «¡Nuestra sentimental amiga la luna!
+o posiblemente (fantástico, debo confesar)
+sea el balón del Preste Juan
+o un viejo y maltrecho farol colgado en lo alto
+para alumbrar a los pobres viajeros hacia su angustia».
+Ella tercia: «¡Venga divagar!».
+Y luego yo: «Alguien compone sobre las teclas
+ese exquisito nocturno con el que explicamos
+la noche y la luz de luna; música que adoptamos
+para dar cuerpo a nuestro propio vacío».
+Ella tercia: «¿Se refiere a mí?».
+«Oh no, soy yo el vacuo».
+«¡Usted, señora, es la eterna cómica,
+la eterna enemiga de lo absoluto,
+dando a nuestros ánimos errantes la más delicada vuelta!
+Con su aire indiferente e imperioso
+de un golpe nuestra loca poética refuta…»
+Entonces «¿Lo decimos en serio?».
+LA FIGLIA CHE PIANGE[17]
+O quam te memorem, virgo.[18]
+Ponte en lo más alto de la escalera,
+inclínate ante una urna de jardín
+—hila, hila la luz del sol en tu cabello.
+Abraza tus flores con dolorosa sorpresa,
+tíralas al suelo y vuélvete
+con fugitivo resentimiento en los ojos:
+—pero hila, hila la luz del sol en tu cabello.
+Así lo habría dejado ir,
+así la habría obligado a levantarse y llorar,
+así se habría ido
+como se va el alma del cuerpo roto y golpeado,
+como la mente abandona el cuerpo usado.
+Debería encontrar
+alguna manera tan ligera y hábil,
+una que los dos pudiéramos entender,
+simple e infiel como una sonrisa y un apretón de manos.
+Ella se dio la vuelta, pero con el tiempo de otoño
+forzó mi imaginación durante muchos días,
+muchos días y muchas horas:
+el pelo sobre los hombros y los brazos con flores.
+¡Y cómo pudieron estar juntos, me pregunto yo!
+Habría perdido un gesto y una pose.
+A veces estas meditaciones turban aún
+el reposo de la siesta y la convulsa medianoche.
+N. del T.:
+[1] Jean-Jules Verdenal fue un médico a quien Eliot conoció como estudiante en La Sorbona cuando vivió en París en 1910. Eliot y Verdenal vivían en la misma pensión de la calle Saint-Jacques, en la orilla izquierda, y compartían aficiones poéticas, especialmente el gusto por la poesía de Jules Laforgue (1860-1887). Verdenal murió en la primera guerra mundial, en los Dardanelos, en 1915, mientras atendía a un soldado herido. La crítica biográfica, siempre tan audaz, ha tratado, a lo largo del siglo XX, de ver en esa amistad algún componente sexual o amoroso, con resultados ciertamente embarazosos que incluso han sido utilizados para intentar esclarecer aspectos de La tierra baldía.
+En la edición de 1925, Eliot le añadió a la dedicatoria los versos de Dante, pertenecientes al canto XXI del Purgatorio (vv. 133-136), en concreto a la escena en que Estacio se encuentra con Virgilio y, olvidando que ambos no son ya más que sombras, se lanza a abrazarlo como si pudiera sentir su cuerpo. Cuando se da cuenta de su error, Estacio se levanta y pronuncia los versos con que Eliot recuerda a su difunto amigo:
+Comprenderás ahora
+cuánto amor por ti me quema,
+cuando olvido nuestra vanidad
+y trato la sombra como cosa sólida.
+[2] El poema, inaugural de la obra de Eliot y cuyo título inicial fue «Prufrock Among the Women» («Prufrock entre las mujeres»), se publicó por primera vez en junio de 1915 en la revista Poetry, a instancias de Ezra Pound, que había animado al poeta a establecerse en Londres y dedicarse a la poesía, como finalmente hizo, al tiempo que se casaba con Vivien Haigh-Wood, su primera esposa. Eliot empezó a componerlo en 1910 y lo terminó durante un viaje a Munich en el verano de 1911. Fue recogido en el volumen Prufrock y otras observaciones que publicó The Egoist Press en 1917. «Observaciones» fue el título que Harriet Monroe, editora de la revista Poetry, había puesto a algunos de los poemas del libro que habían sido previamente publicados en la revista.
+[3] El epígrafe es de Dante y pertenece al canto XXVII del Infierno (vv. 61-66), en concreto al parlamento de Guido de Montefeltro, hombre de guerra y luego franciscano, que se dispone a contar libremente su historia pues supone que Dante es también una sombra y que no podrá volver al mundo para revelarla. Guido pena en el infierno en forma de llama:
+Si creyese que mi respuesta fuera
+para alguien que pudiera volver al mundo,
+esta llama estaría sin más quieta,
+pero puesto que nunca de este fondo
+no ha vuelto, según dicen, vivo alguno
+sin temor de infamia te respondo.
+[4] En el v. 73, traduzco ragged claws, que hace referencia a las pinzas o quelas de un cangrejo, por «pinzas dentadas», que, aunque no sea exacto, remite más fácilmente a la imagen de cangrejo que en inglés suscita naturalmente la sinécdoque y que resultaría más ambiguo si se tradujera por «pinzas desiguales» o «pinzas punzantes».
+[5] El poema, cuyo título evoca irónicamente la novela de Henry James, se publicó por primera vez en septiembre de 1915 en la revista neoyorquina Others: A Magazine of the New Verse, muy importante en la difusión de la obra de muchos poetas de la generación de Eliot. En 1917 se incluyó en Prufrock y otras observaciones. La dama del título parece que fue una señora de Boston, Adeleine Moffatt, que recibía a estudiantes de Harvard en su casa repleta de bibelots y cajitas y que también está presente, de algún modo, en «Prufrock» y «Conversation galante».
+[6] El epígrafe es de El judío de Malta, una obra de Christopher Marlowe (1564-1593) escrita en 1590.
+[7] Antes de ser recogidos en Prufrock y otras observaciones (1917), esta suite de poemas, escrita hacia 1911, fue publicada en 1915 en la efímera pero notoria revista Blast, creada por el escritor y pintor Wyndham Lewis para fomentar el vorticismo, el fugaz ramalazo de vanguardia que unos pocos jóvenes ingleses sintieron en los años anteriores a la primera guerra mundial y del que Eliot, sin plegarse a ninguno de sus dogmas, imbuidos al principio por el futurismo de Marinetti, se hizo eco. En aquella época, Eliot compartía con los vorticistas la admiración por las ideas estéticas de T. E. Hulme (1883-1917), el poeta y ensayista que murió en la primera guerra mundial.
+[8] Como los «Preludios», este poema, antes de ser recopilado en Prufrock, apareció en el segundo y último número de Blast, publicado en 1915. El verso en francés, «La lune ne garde aucune rancune» («No guarda la luna ningún rencor»), es un trasunto de unos versos de Jules Laforgue en su poema «Complainte de cette bonne Lune»: «La, voyons mam’zell la Lune / Ne gardons pas ainsi rancune» («Vemos ahí a la señorita Luna, no guardemos pues rencor»).
+[9] Se publicó por primera vez en la revista Poetry, en septiembre de 1916, antes de ser recopilado en Prufrock.
+[10] Se publicó por primera vez en octubre de 1915 en la revista Poetry y fue luego recopilado en Prufrock. El periódico del título fue un rotativo vespertino que se publicó en Boston desde 1830 hasta 1941.
+[11] Publicado por primera vez en octubre de 1915 en la revista Poetry y recopilado luego en Prufrock.
+[12] Publicado por primera vez en octubre de 1915 en la revista Poetry y recopilado luego en Prufrock. Los Matthew y Waldo del penúltimo verso son, respectivamente, Matthew Arnold, el crítico y poeta Victoriano, y Ralph Waldo Emerson, el poeta y filósofo trascendentalista norteamericano.
+[13]
+Publicado por primera vez en Poetry en septiembre de 1916 y recopilado luego en Prufrock. El poema trata en realidad de la estancia de Bertrand Russell como profesor invitado en Harvard, en marzo y abril de 1914, siendo Eliot aún estudiante. Al parecer, a Russell le irritaron las maneras y el esnobismo de muchos profesores y anfitriones de la alta sociedad bostoniana, siempre intentando parecer inglesa.
+[14] El epígrafe en griego es del Zeuxis o Antíoco de Luciano de Samósata y puede traducirse así: «Oh, qué novedad. Por Heracles, qué paradoja. / Hombre ingenioso».
+[15] Antes de ser recopilado en Prufrock, este poema se había publicado en 1915 en una antología hecha por Ezra Pound con la intención de promocionar la obra de Eliot en Inglaterra. La antología se tituló Catholic Anthology y fue publicada por Elkin Mathews. De Eliot, además de «Histeria», se publicaron «Prufrock», «Retrato de una dama», «El Boston Evening Transcript» y «La tía Helen», además de poemas del propio Pound, W. B. Yeats, Carl Sandburg o William Carlos Williams.
+[16]
+Publicado en Poetry en septiembre de 1916 y recopilado luego en Prufrock. El Preste Juan es un legendario gobernante cristiano de Oriente.
+[17] Se publicó por primera vez en el número de septiembre de la revista Poetry, antes de ser recopilado en Prufrock. Durante su estancia en París, en 1911, Eliot decidió hacer un viaje por el norte de Italia y un amigo le conminó a ver, en un determinado museo, un bajorrelieve llamado La figlia che piange, que representaba a una joven con un ramo de flores llorando una muerte. Al parecer, Eliot fue incapaz de encontrar el bajorrelieve y la figura imaginada constituyó el estímulo del poema, que es en realidad una écfrasis de una imagen soñada.
+[18] El epígrafe es del primer libro de la Eneida de Virgilio, en concreto del episodio en que Eneas se encuentra con su madre, Venus, disfrazada de cazadora. Cuando Eneas oye su voz, le dice: «O quam te memorem, virgo? Namque haud tibi voltus / mortalis nec vox hominem sonat. O dea certe», que puede traducirse como «Oh, ¿cómo te llamas, joven? Ni tienes cara / de mortal ni suena tu voz humana. Oh, ciertamente eres una diosa».
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

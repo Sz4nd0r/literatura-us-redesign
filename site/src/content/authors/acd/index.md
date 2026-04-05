@@ -7,4 +7,94 @@ tags:
   - index
   - acd
 ---
-¿Quién es Arthur Conan Doyle? ![Arthur Conan Doyle](/assets/images/acd.jpg) Arthur Conan Doyle, el segundo de siete hijos, nació el 22 de mayo de 1859, en Picardy Place, Edimburgo, Escocia. Estudió en el colegio jesuita Hodder en Lancashire, primero, y después en Stonyhurst College, donde fundó la revista The Stonyhurst Figaro. En 1876, comenzó a estudiar medicina en la Universidad de Edimburgo. Tres años después, en 1879, publicó, de forma anónima, dos cuentos: “El misterio de Sasassa Valley” y “The American’s Tale”. En 1880, empezó a trabajar como asistente médico en Sheffield, Birmingham y Shropshire. Se graduó el 22 de octubre de 1881 e immediatamente se alistó como médico a bordo de un barco a vapor (SS Mayumba) en África Occidental. En 1882, con un colega, abrió una práctica de oftalmología en Southsea, cerca de Portsmouth; pero la afluencia de pacientes eraescasa así que empezó a emplear el tiempo libre del que disponía en escribir y publicar relatos, sin tener grandes éxitos. Se casó con Louisa Hawkins en agosto de 1885, y al año siguiente terminó su primera novela, The Firm of Girdlestone, aunque no pudo encontrar un editor. La novela fue serializado tres años después (1889-1890), en la revista People. Escribió su primera aventura de Sherlock Holmes, A Study in Scarlet, en 1887. El manuscrito fue rechazado por varias editoriales antes de que Ward, Lock & Co. lo comprara por £25. Lo publicaron en Beeton’s Christmas Annual, en noviembre de 1887. La novela pasó totalmente desapercibida. Se dedica, entonces, a escribir novelas históricas, como Micah Clarke (1889), la cual tiene un poco de éxito, y The White Company (1891). Durante una cena organizada por JM Stoddart, un agente estadounidense de la revista Lippincott, en agosto de 1889, Conan Doyle y Oscar Wilde fueron contratados para escribir dos novelas. Wilde escribió The Picture of Dorian Gray (publicada en 1890) y Conan Doyle, The Sign of Four, la segunda aventura de Sherlock Holmes. Vivió en Viena unos meses, y de regreso en Inglaterra, se muda a Londres y, como médico, abre una oficina. Otra vez no tiene éxito como médico. Descubre el primer número de The Strand Magazine, en enero de 1891, y le propone al editor las nuevas aventuras de de Sherlock Holmes como relatos cortos, incluyendo “A Scandal in Bohemia” y “The Red-Headed League”. Luego le proporcionó otras cinco relatos y renovó su contrato por seis relatos adicionales a razón de una por mes. El éxito fue deslumbrante, Conan Doyle abandonó la medicina y se dedicó por completo a la escritura. En diciembre de 1892 se trasladó a Davos, Suiza, donde el aire era más saludable para su esposa que padecía tuberculosis. Allí estaban las Reichenbach Falls lugar donde muere su detective famoso, cuando cae al abismo con el Profesor Moriarty (“The Adventure of the Final Problem”). En 1894, dio una serie de conferencias en los Estados Unidos, y visitó a Rudyard Kipling en Vermont. También se comunicó con Robert Louis Stevenson. Ese mismo año, su obra A Story of Waterloo se representa en Londres. Durante el otoño de 1895, con el fin de mejorar la salud de su esposa, Conan Doyle se quedó en Egipto durante varios meses. Cuando estalla el conflicto entre los británicos y los derviches, se convirtió en corresponsal de guerra de la Westminster Gazette. En octubre de 1899, estalló la guerra entre Inglaterra y África, en la que Conan Doyle se involucra en diciembre. De marzo a agosto de 1900, dirigió el hospital en Bloemfontein. En octubre de 1900, se presentó a las elecciones en Edimburgo para diputado, pero es derrotado. Después de su regreso a Inglaterra, escribió The Great Boer War (1901) y The War in South Africa: Its Cause and Conduct (1902). Entre agosto de 1901 y mayo de 1902, The Hound of the Baskervilles aparece en The Strand Magazine, reapareciendo Sherlock Holmes, aunque la aventura tiene lugar poco antes de la muerte del detective. No fue hasta 1903 que un editor estadounidense convenció a Conan Doyle para resucitar al detective. Entonces se publicarán treinta y tres nuevas historias entre septiembre de 1903 (“The Adventure of the Empty House”) y marzo de 1927 (“The Adventure of Shoscombe Old Place”). En enero de 1906, el autor se presentó a las elecciones y sufrió otra derrota. El 4 de julio de 1906, muere su esposa Louisa, acontecimiento que lo sume en un estado de postración cerca de la depresión. En 1912, Conan Doyle creó un nuevo personaje, el Profesor Challenger, en la novela The Lost World. En octubre de 1916, Conan Doyle anunció en el diario Light su conversión al espiritismo. Entre 1920 y 1923, dio una serie de conferencias sobre espiritualismo en Australia, en Estados Unidos y en Canadá. Publicó su autobiografía, Memories and Adventures, en 1924, y abrió una librería dedicada al espiritismo, The Psychic Bookshop en Londres. Publicó The History of Spiritualism en dos volúmenes y The Land of Mist, la última aventura del profesor Challenger sobre un tema de espiritualismo. En 1929, sufrió un ataque al corazón, se recuperó lentamente; pero, el 7 de julio de 1930, al amanecer, murió de un ataque cardíaco final, en Windlesham Manor, su casa en Crowborough, East Sussex. ÍNDICE: Los relatos: The Adventures of Sherlock Holmes (1892): Escándalo en Bohemia (1891) La liga de los pelirrojos (1891) Un caso de identidad (1891) El misterio de Boscombe Valley (1879) Las cinco pepitas de naranja (1891) El hombre del labio torcido (1891) La aventura del carbunclo azul (1892) La aventura de la banda de lunares (1892) La aventura del pulgar del ingeniero (1892) La aventura del aristócrata solterón (1892) La aventura de la diadema de Berilos (1892) La aventura de Copper Beeches (1892) The Memoirs of Sherlock Holmes (1894): Silver Blaze (1892) La caja de cartón (1893) La cara amarilla (1893) El oficinista del corredor de bolsa (1893) La corbeta Gloria Scott (1893) El ritual de los Musgrave (1893) El hombre contrahecho (1893) El paciente interno (1893) El intérprete griego (1893) El tratado naval (1893) El problema final (1893) The Return of Sherlock Holmes (1905): La aventura de la casa deshabitada (1903) La aventura del constructor de Norwood (1903) La aventura de los bailarines (1903) La aventura de la ciclista solitaria (1903) La aventura del colegio Priory (1904) La aventura de Peter el Negro (1904) La aventura de Charles Augustus Milverton (1904) La aventura de los seis Napoleones (1904) La aventura de los tres estudiantes (1904) La aventura de los Quevedos de oro (1904) La aventura del tres cuartos desaparecido (1904) La aventura de Abbey Grande (1904) La aventura de la segunda mancha (1904) His Last Bow: Some Reminiscences of Sherlock Holmes (1917) La aventura de Wisteria Lodge (1908) La aventura de los planos de Bruce-Partington (1908) La aventura del pie del diablo (1910) La aventura del círculo rojo (1911) La desaparición de lady Frances Carfax (1911) La aventura del detective moribundo (1913) Su último saludo (1917) The Case-Book of Sherlock Holmes (1927) La aventura de la piedra de Mazarino (1921) El problema del puente Thor (1922) La aventura del hombre que caminaba a cuatro patas (1923) La aventura del vampiro de Sussex (1924) La aventura de los tres Garrider (1924) La aventura del cliente distinguido (1924) La aventura de los tres tejados (1926) La aventura del soldado pálido (1926) La aventura de la melena de león (1926) La aventura del fabricante de colores retirado (1926) La aventura de la inquilina del velo (1927) La aventura de Shoscombe Old Place (1927) 
+
+## ¿Quién es Arthur Conan Doyle?
+
+![Arthur Conan Doyle](/assets/images/acd.jpg)
+
+Arthur Conan Doyle, el segundo de siete hijos, nació el 22 de mayo de 1859, en Picardy Place, Edimburgo, Escocia. Estudió en el colegio jesuita Hodder en Lancashire, primero, y después en Stonyhurst College, donde fundó la revista *The Stonyhurst Figaro*. En 1876, comenzó a estudiar medicina en la Universidad de Edimburgo. Tres años después, en 1879, publicó, de forma anónima, dos cuentos: “El misterio de Sasassa Valley” y “The American’s Tale”.
+
+En 1880, empezó a trabajar como asistente médico en Sheffield, Birmingham y Shropshire. Se graduó el 22 de octubre de 1881 e inmediatamente se alistó como médico a bordo de un barco a vapor (SS Mayumba) en África Occidental. En 1882, con un colega, abrió una práctica de oftalmología en Southsea, cerca de Portsmouth; pero la afluencia de pacientes era escasa así que empezó a emplear el tiempo libre del que disponía en escribir y publicar relatos, sin tener grandes éxitos. Se casó con Louisa Hawkins en agosto de 1885, y al año siguiente terminó su primera novela, *The Firm of Girdlestone*, aunque no pudo encontrar un editor.
+
+La novela fue serializada tres años después (1889-1890), en la revista *People*. Escribió su primera aventura de Sherlock Holmes, *A Study in Scarlet*, en 1887. El manuscrito fue rechazado por varias editoriales antes de que Ward, Lock & Co. lo comprara por £25. Lo publicaron en *Beeton’s Christmas Annual*, en noviembre de 1887. La novela pasó totalmente desapercibida. Se dedica, entonces, a escribir novelas históricas, como *Micah Clarke* (1889), la cual tiene un poco de éxito, y *The White Company* (1891).
+
+Durante una cena organizada por JM Stoddart, un agente estadounidense de la revista *Lippincott*, en agosto de 1889, Conan Doyle y Oscar Wilde fueron contratados para escribir dos novelas. Wilde escribió *The Picture of Dorian Gray* (publicada en 1890) y Conan Doyle, *The Sign of Four*, la segunda aventura de Sherlock Holmes. Vivió en Viena unos meses, y de regreso en Inglaterra, se muda a Londres y, como médico, abre una oficina. Otra vez no tiene éxito como médico. Descubre el primer número de *The Strand Magazine*, en enero de 1891, y le propone al editor las nuevas aventuras de Sherlock Holmes como relatos cortos, incluyendo “A Scandal in Bohemia” y “The Red-Headed League”.
+
+Luego le proporcionó otras cinco relatos y renovó su contrato por seis relatos adicionales a razón de una por mes. El éxito fue deslumbrante, Conan Doyle abandonó la medicina y se dedicó por completo a la escritura. En diciembre de 1892 se trasladó a Davos, Suiza, donde el aire era más saludable para su esposa que padecía tuberculosis. Allí estaban las Reichenbach Falls lugar donde muere su detective famoso, cuando cae al abismo con el Profesor Moriarty (“The Adventure of the Final Problem”). En 1894, dio una serie de conferencias en los Estados Unidos, y visitó a Rudyard Kipling en Vermont.
+
+También se comunicó con Robert Louis Stevenson. Ese mismo año, su obra *A Story of Waterloo* se representa en Londres. Durante el otoño de 1895, con el fin de mejorar la salud de su esposa, Conan Doyle se quedó en Egipto durante varios meses. Cuando estalla el conflicto entre los británicos y los derviches, se convirtió en corresponsal de guerra de la *Westminster Gazette*. En octubre de 1899, estalló la guerra entre Inglaterra y África, en la que Conan Doyle se involucra en diciembre. De marzo a agosto de 1900, dirigió el hospital en Bloemfontein.
+
+En octubre de 1900, se presentó a las elecciones en Edimburgo para diputado, pero es derrotado. Después de su regreso a Inglaterra, escribió *The Great Boer War* (1901) y *The War in South Africa: Its Cause and Conduct* (1902). Entre agosto de 1901 y mayo de 1902, *The Hound of the Baskervilles* aparece en *The Strand Magazine*, reapareciendo Sherlock Holmes, aunque la aventura tiene lugar poco antes de la muerte del detective. No fue hasta 1903 que un editor estadounidense convenció a Conan Doyle para resucitar al detective.
+
+Entonces se publicarán treinta y tres nuevas historias entre septiembre de 1903 (“The Adventure of the Empty House”) y marzo de 1927 (“The Adventure of Shoscombe Old Place”). En enero de 1906, el autor se presentó a las elecciones y sufrió otra derrota. El 4 de julio de 1906, muere su esposa Louisa, acontecimiento que lo sume en un estado de postración cerca de la depresión. En 1912, Conan Doyle creó un nuevo personaje, el Profesor Challenger, en la novela *The Lost World*. En octubre de 1916, Conan Doyle anunció en el diario *Light* su conversión al espiritismo.
+
+Entre 1920 y 1923, dio una serie de conferencias sobre espiritualismo en Australia, en Estados Unidos y en Canadá. Publicó su autobiografía, *Memories and Adventures*, en 1924, y abrió una librería dedicada al espiritismo, *The Psychic Bookshop* en Londres. Publicó *The History of Spiritualism* en dos volúmenes y *The Land of Mist*, la última aventura del profesor Challenger sobre un tema de espiritualismo. En 1929, sufrió un ataque al corazón, se recuperó lentamente; pero, el 7 de julio de 1930, al amanecer, murió de un ataque cardíaco final, en Windlesham Manor, su casa en Crowborough, East Sussex.
+
+## Índice
+
+#### Los relatos
+
+### *The Adventures of Sherlock Holmes* (1892)
+- Escándalo en Bohemia (1891)
+- La liga de los pelirrojos (1891)
+- Un caso de identidad (1891)
+- El misterio de Boscombe Valley (1879)
+- Las cinco pepitas de naranja (1891)
+- El hombre del labio torcido (1891)
+- La aventura del carbunclo azul (1892)
+- La aventura de la banda de lunares (1892)
+- La aventura del pulgar del ingeniero (1892)
+- La aventura del aristócrata solterón (1892)
+- La aventura de la diadema de Berilos (1892)
+- La aventura de Copper Beeches (1892)
+
+### *The Memoirs of Sherlock Holmes* (1894)
+- Silver Blaze (1892)
+- La caja de cartón (1893)
+- La cara amarilla (1893)
+- El oficinista del corredor de bolsa (1893)
+- La corbeta Gloria Scott (1893)
+- El ritual de los Musgrave (1893)
+- El hombre contrahecho (1893)
+- El paciente interno (1893)
+- El intérprete griego (1893)
+- El tratado naval (1893)
+- El problema final (1893)
+
+### *The Return of Sherlock Holmes* (1905)
+- La aventura de la casa deshabitada (1903)
+- La aventura del constructor de Norwood (1903)
+- La aventura de los bailarines (1903)
+- La aventura de la ciclista solitaria (1903)
+- La aventura del colegio Priory (1904)
+- La aventura de Peter el Negro (1904)
+- La aventura de Charles Augustus Milverton (1904)
+- La aventura de los seis Napoleones (1904)
+- La aventura de los tres estudiantes (1904)
+- La aventura de los Quevedos de oro (1904)
+- La aventura del tres cuartos desaparecido (1904)
+- La aventura de Abbey Grande (1904)
+- La aventura de la segunda mancha (1904)
+
+### *His Last Bow: Some Reminiscences of Sherlock Holmes* (1917)
+- La aventura de Wisteria Lodge (1908)
+- La aventura de los planos de Bruce-Partington (1908)
+- La aventura del pie del diablo (1910)
+- La aventura del círculo rojo (1911)
+- La desaparición de lady Frances Carfax (1911)
+- La aventura del detective moribundo (1913)
+- Su último saludo (1917)
+
+### *The Case-Book of Sherlock Holmes* (1927)
+- La aventura de la piedra de Mazarino (1921)
+- El problema del puente Thor (1922)
+- La aventura del hombre que caminaba a cuatro patas (1923)
+- La aventura del vampiro de Sussex (1924)
+- La aventura de los tres Garrider (1924)
+- La aventura del cliente distinguido (1924)
+- La aventura de los tres tejados (1926)
+- La aventura del soldado pálido (1926)
+- La aventura de la melena de león (1926)
+- La aventura del fabricante de colores retirado (1926)
+- La aventura de la inquilina del velo (1927)
+- La aventura de Shoscombe Old Place (1927)

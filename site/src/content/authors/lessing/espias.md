@@ -1,0 +1,656 @@
+---
+layout: story
+title: Espías a los que he conocido
+slug: espias
+source: https://www.literatura.us/idiomas/lessing/espias.html
+tags:
+  - espias
+  - lessing
+---
+Doris Lessing
+(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
+Espías a los que he conocido (1971)
+(“Spies I Have Known”)
+Originalmente pubicado en la revista Partisan Review, 38 (invierno de 1971);
+The Story of a Non-Marrying Man and Other Stories
+(Londres: Jonathan Cape, 1972, 318 págs.);
+The Temptation of Jack Orkney and Other Stories
+(Nueva York: Knopf, 1972, 308 págs.)
+No quiero que imaginen que establezco ninguna
+clase de comparación entre Salisbury, Rodhesia, hace treinta años, cuando era
+un pueblucho, o incluso ahora, y otros lugares más augustos. No lo quiera Dios.
+Pero no hace ningún daño a nadie servirse de algo minúsculo para entrar en un
+asunto importante.
+Era a mitad de la segunda guerra mundial. Un
+par de docenas de personas dirigían una docena de organizaciones, todas izquierdistas
+en mayor o menor medida. La ciudad, aunque era una capital, conservaba aún esa
+condición en la que “todo el mundo conoce a todo el mundo”. La población blanca
+sería de unas diez mil personas; la cantidad de negros, entonces como ahora,
+sólo podía suponerse. Había una oficina central de correos, un edificio
+bastante bonito, y uno de los carteros acudía a las reuniones del Club de la
+Izquierda. Él fue quien nos contó el sistema de censura que utilizaba la
+policía política. Todo el correo que recibían esa docena de organizaciones iba
+a una caja central rotulada con el cartel de “CENSOR” para ser leído, sin
+prisas, por ciertos ciudadanos de confianza. Por supuesto todo eso entraba
+dentro de lo esperado y ya dábamos por hecho que ocurría. Pero había otras
+organizaciones proscritas, como Watchtower, una secta religiosa perseguida por
+alguna razón por gobiernos de toda África (¿tal vez porque profetizaban el fin
+del mundo?) y algunas organizaciones fascistas, lo cual parece razonable en una
+guerra contra el fascismo. Había organizaciones con propósitos oscuros y acaso
+unos cinco miembros y un capital de cinco libras, además de algunos individuos
+cuyo correo debía seguir también el proceso de descontaminación, o de
+desactivación. Esa lista, que incluía más o menos a un centenar de personas,
+era la más sorprendente. ¿Qué tenían en común aquellos seres siniestros cuyas
+opiniones representaban semejante amenaza al floreciente estado de Rodhesia del
+Sur, estado que, por cierto, aún se hallaba en la fase Lord Malvern dentro de
+la cadena Huggins/Lord Malvern/Welenski/Garfield Todd/Winston Field/Smith?
+Tras meses, o de hecho años enteros, de
+intentar comprender qué los unía, nos tuvimos que rendir. Claro, la mitad de
+ellos eran de izquierdas, amantes de los nativos y etcétera, pero ¿qué pasaba
+con los demás? Entonces un hombre escribió una carta al
+Rodhesian Herald, una solemne parodia del estilo
+soviético oficial, tan pesado entonces como ahora, en la que exigía la
+exterminación inmediata del gobierno ante el paredón, a favor de un equipo de
+la oposición laborista, y gracias a nuestro contacto en la central de Correos
+supimos que su nombre quedaba incluido en la lista negra. Entonces empezamos a
+sospechar la verdad.
+Ese arreglo de conveniencia continuó durante
+toda la guerra. Nuestro hombre de Correos —que para entonces ya eran varios
+hombres, lo que pasa es que suena peor—, nos mantenía informado acerca de qué y
+quién figuraba en la lista negra. Y si nos parecía que retenían nuestro correo
+más tiempo del razonable porque los censores estaban de vacaciones, o se
+volvían perezosos, molestábamos amablemente a las autoridades para que
+acelerasen un poco el proceso.
+Ésa fue mi primera experiencia del espionaje.
+La siguiente fue cuando conocí a alguien que
+conocía a alguien que le había contado algo de cierto secretario del Partido
+Comunista, quien había sido abordado por alguien que se dedicaba a intervenir
+los teléfonos de los comunistas... Esto ya era en Europa. Por supuesto, la
+tecnología para intervenir teléfonos era entonces mucho más primitiva. Es
+probable que hoy en día ya prescindan de la intervención humana y alguna
+máquina mida el grado de desafección de un sospechoso por el tono de su voz.
+Entonces, en aquel país se dedicaban simplemente a escuchar conversaciones
+grabadas. Aquel profesional había tenido contacto íntimo con durante muchos
+años con comunistas, y con el comunismo, se había visto involucrado en
+expediciones de compras, maridos que llegaban tarde del trabajo, asuntos
+amorosos, algún divorcio, excursiones infantiles. De tanto mirar por la
+cerradura, terminó metido en la política activa revolucionaria.
+“Creo que no deberías dejar salir a Jackie.
+Se acostará muy tarde y ya sabes el malhumor que le entra cuando duerme poco.”
+“Ella me dijo que no, eso dijo. Y punto. Si
+quieres hacer algo así, tendrás que hacerlo tú. No esperes que los demás te
+saquen las castañas del fuego, me dijo. Si ha sido desagradable contigo,
+entonces eres tú quien tiene que decírselo.”
+Se frustró, como si fuera un amigo íntimo, o
+un amante, con la lengua paralizada. Y aún era peor porque siempre estaba
+involucrado desde lejos. Oía sucesos, emociones que habían ocurrido horas
+antes. A veces semanas antes, como cuando, por ejemplo, se iba de permiso y
+luego tenía que repasar todo el peligroso material de un mes en veinticuatro
+agotadoras horas. Se dio cuenta de que se estaba volviendo posesivo al respecto
+de aquellos a quienes vigilaba y le molestaba que otros colegas escucharan a
+“sus” sospechosos. En una ocasión tuvo que resistirse a la tentación porque le
+entraron ganas de contactar con cierta mujer que estaba a punto de dejar a su
+marido por otro hombre. Gracias a su situación ventajosa, él sabía que aquel
+otro hombre no era lo que ella creía. Imaginó cómo la seguiría hasta un café que
+solía visitar, se sentaría cerca de ella, se inclinaría y le preguntaría: “¿Le
+importa que me siente con usted? Tengo una información importante”. Sabía que
+ella se lo permitiría; conocía su carácter a la perfección. Era una mujer poco
+convencional, acaso menos responsable de lo debido, descuidada, por ejemplo,
+con la regularidad de las comidas, aunque en lo fundamental estaba seguro de
+que se trataba de una buena chica y, potencialmente, una buena esposa. Le
+diría: “No lo haga, querida. No, no me pregunte cómo lo sé. Pero si deja a su
+marido por ese hombre se arrepentirá”. Tomaría sus manos, la miraría
+profundamente a los ojos —estaba seguro de que eran marrones, pues aquella voz
+correspondía sin duda a una mujer rubia de ojos marrones— y luego desaparecería
+de su vida para siempre. Más adelante comprobaría el éxito de su intervención
+por medio de las cintas grabadas.
+Para acortar un proceso que duró varios años,
+al final fue en secreto a una librería comunista, compró algunos panfletos,
+asistió a una o dos reuniones y descubrió que podría convertirse perfectamente
+en miembro del Partido, si no fuera porque su trabajo, un trabajo bien pagado y
+con buenas perspectivas, consistía precisamente en espiar al Partido Comunista.
+Se sentía en una posición falsa. ¿Qué hacer? Se presentó en las oficinas del
+Partido Comunista, pidió ver al Secretario y confesó su dilema. Carcajadas de
+risa del Secretario.
+Las carcajadas eran absolutamente
+obligatorias dentro de la convención que exige un grado de comprensión más
+sofisticada entre los profesionales, así pertenezcan a bandos contrarios,
+incluso en tiempos de guerra —mandos del Partido, oficiales del gobierno,
+soldados de grado y etcétera— que entre los súbditos, una pandilla de gente
+alocada, confiada y sentimental.
+Así que, primero, carcajadas. Luego, una
+pizca de misterio: qué lastima de mundo mal organizado, en el que hombres tan
+predispuestos a la amistad tuvieran que ser enemigos. Al fin, la dura oferta.
+A nuestro amigo, el grabador de
+conversaciones telefónicas, le ofrecieron un sueldo fijo del Partido Comunista
+y su confianza provisional, con la condición de que permaneciera en su sitio y
+trabajara para el otro lado. Claro, ¿qué podía esperar? No debía ofenderse,
+pues así nacen los agentes dobles, esos raros hombres que ocupan una jerarquía
+del espionaje superior a la que él podía aspirar. Pero la oferta de dinero
+hería sus sentimientos, y la rechazó. Se fue y pasó una semana sufriendo,
+decidiendo que en realidad lo que tenía que hacer era abandonar su trabajo en
+la Policía Secreta —el nombre más adecuado para la fuerza en que trabajaba,
+aunque se la conociera en verdad por otro mucho menos directo—. Volvió a
+visitar al Secretario para pedirle por segunda vez que le permitiera
+convertirse en miembro de base del Partido Comunista. Esta vez no hubo
+carcajadas, ni siquiera una risilla, sino un franco (además de obligatorio)
+reconocimiento de su posición en un tono de “no le estoy escondiendo nada”. Le
+dijeron que sin duda debía entender su punto de vista, el del Partido Comunista.
+Teniendo un pie en el campo del enemigo (delicada manera de describir su
+salario y su forma de vida) podía resultarles muy útil. Permanecer en su sitio
+se interpretaría como expresión de su deseo real de servir a la Causa del
+Pueblo. Abandonarlo y convertirse en un honesto Don Nadie podía satisfacer su
+conciencia (órgano subjetivo y condicionado, como sin duda sabría ya si había
+leído debidamente los panfletos), pero le aportaría una imagen de caprichoso, o
+incluso de poco fiar. ¿Qué pensaba decir a sus jefes? “Estoy harto de
+intervenir teléfonos. Me ofende.” O bien: “Lo considero una dedicación
+inmoral”. ¡Si llevaba años sin hacer otra cosa! Bueno, bueno, no lo había
+pensado bien. Seguro que sus jefes lo tendrían bajo sospecha durante años. Y
+desde luego no podía ser tan inocente, después de haber pasado tanto tiempo en
+aquella atmósfera de vigilancia y cautela, como para no dar por sentado que los
+propios comunistas lo iban a vigilar también. No, su mejor opción era
+permanecer exactamente donde estaba, esforzándose aun más en su trabajo de
+intervención telefónica. Si no, el único consejo sincero (del Secretario) sería
+que se convirtiera en un ciudadano ordinario, tan alejado de la vida política
+como fuera posible, por su propio bien, por el bien del Servicio que se
+disponía a abandonar y por el bien del Partido Comunista, donde, por supuesto,
+le creían a pies juntillas cuando afirmaba haber encontrado su morada
+espiritual.
+Pero el problema era que él quería afiliarse
+de verdad. Nada deseaba tanto como formar parte de aquel mundo de severas
+necesidades que había perseguido durante tanto tiempo, aunque siempre como si
+se mantuviera detrás de un cristal velado. La integridad lo había marginado.
+Desde aquel momento, sólo podía aspirar a servir a la humanidad por medio del
+ejercicio del derecho a votar.
+Su vida estaba vacía. La renuncia al trabajo
+había cortado su implicación con el drama real e infinito de las cintas
+grabadas, como quien apaga la televisión en medio de un serial.
+Se sentía inútil. Dio vueltas a la idea del
+suicidio, pero se lo pensó mejor. Luego, tras superar una crisis nerviosa
+anodina y más bien rutinaria, se convirtió en monje contemplativo de la Iglesia
+Anglicana.
+En un cóctel conocí a otro espía que, en una
+conversación casual —Londres, a finales de los cincuenta— mencionó que en los
+inicios de la segunda guerra mundial había estado en Grecia, o tal vez fuera
+Turquía, donde en otro cóctel, entre canapés, un oficial de la embajada
+británica le había propuesto que espiara para su país.
+—Es que no puedo —contestó aquel hombre—.
+Debe de saberlo perfectamente.
+—¿Y por qué no? —contestó el oficial.
+Creo que era un Subsecretario.
+—Porque, como sin duda sabe usted, soy
+miembro del Partido Comunista.
+—Ah, ¿sí? ¡Qué interesante! Sin duda eso no
+se interpondrá en su deseo de servir a su nación —dijo el oficial, mezclando
+una sinceridad brutal con el mero interés.
+Por resumir la anécdota —pues al fin y al
+cabo tiene que ver con un nivel bastante nimio de los asuntos humanos—, aquel
+hombre se fue a su casa y se pasó la noche entera sin dormir, midiendo sus
+lealtades, y al día siguiente decidió que, por supuesto, el Subsecretario tenía
+razón. Quería servir a su país, que no en vano estaba en plena guerra contra el
+fascismo. Explicó su decisión a sus superiores dentro del Partido Comunista,
+quienes estuvieron de acuerdo con él, así como a su esposa y a sus camaradas.
+Luego, se reunió con el Subsecretario en otro cóctel y le informó de la
+decisión que había tomado. Lo invitaron a unirse a no sé qué Unidad del
+Ejército, en alguna función relacionada con el Ministerio de información. Debía
+esperar ordenes. Llegaron a su debido tiempo y el hombre descubrió que su
+misión consistía en espiar a la Marina o, más bien, a la porción de ésta que
+operaba cerca de él. Nuestra Marina, por supuesto. Nunca consiguió entender la
+estrategia que justificaba esa decisión. Que no usaran a un comunista para
+espiar, digamos, a Rusia, parecía justo y razonable, pero ¿por qué lo
+consideraban digno de espiar a los propios? Le provocaba desconcierto y, desde
+luego, se sentía menospreciado. Después, en un cóctel, conoció por casualidad a
+un oficial de la Marina con el que procedió a emborracharse y de pronto los dos
+comprendieron, por pura intuición, que cada uno tenía la misión de espiar al
+otro; uno para el ejército de Tierra, el otro para la Marina. Ninguno de los
+dos encontraba muy estimulante el trabajo y no conseguían dedicarse en cuerpo y
+alma, aparte de que habían ido al mismo colegio y tenían otros muchos vínculos
+sociales. Ni siquiera les ayudaba a sentirse mejor el hecho de no cobrar por su
+trabajo, ya que sus superiores daban por hecho —con gran acierto, por supuesto—
+que tenían bastante con servir a sus países sin recibir nada a cambio.
+Establecieron la costumbre de reunirse con frecuencia en una cafetería, en la
+que tomaban vino y café y jugaban al ajedrez en un cenador emparrado que
+disfrutaba de una vista del Mediterráneo especialmente hermosa; allí, sin pasar
+por los tediosos esfuerzos del espionaje, se limitaban a intercambiar
+información relevante. Los descubrieron. Se consideró inadecuada la excusa de
+que pertenecían al mismo bando de la guerra. Los dos fueron despedidos como
+espías y trasladados a trabajos menos exigentes. Pero hasta el Día D, e incluso
+después, el ejército de Tierra espió a la Marina, y viceversa. Es probable que
+aún lo hagan.
+El hecho de que los seres humanos, en cuanto
+tienen la mínima oportunidad, empiecen a adoptar el punto de vista del otro, me
+parece el único rayo de esperanza para la humanidad, aunque es obvio que esa
+tendencia debe de causar cierta angustia a los oficiales del cuerpo diplomático
+y a los captadores del espía común; no el de altos vuelos, sino el
+circunstancial. Los diplomáticos se quejan de que, en cuanto entienden de
+verdad un país y su idioma, visto y no visto, los envían a otro. Hasta que se
+dan cuenta de por qué ocurre eso. Es que la diplomacia no subsistiría si los
+factótums perdieran la noción de la hostilidad nacional. Algunos cuerpos
+diplomáticos insisten en que sus empleados sólo deben relacionarse entre ellos,
+sin duda convencidos de que una especie de osmosis inocula la comprensión del
+contrario. Y, por supuesto, cualquier diplomático que dé muestras de volverse
+nativo, es decir, de disfrutar de verdad con las costumbres y la moral del
+lugar, debe ser retirado de inmediato.
+No ocurre lo mismo con los espías maestros:
+alguien que se concentre sólo en los más profundos intereses de su país debe de
+ser menos que inútil. Los más extraños espíritus han de ser aquellos capaces de
+mantener dos o tres lealtades a la vez. Eso no se tiene por nacimiento. No
+puede ser que a los trece años se despierten una mañana y griten: “¡Eureka! ¡Lo
+tengo! ¡Quiero ser agente doble! ¡Nací para eso!”. Tampoco puede haber una
+escuela de formación de espías múltiples, una especie de clase superior en la
+que se gradúan los alumnos más prometedores. Y sin embargo, esa capacidad que
+podría retardar la carrera de un diplomático, o que puede significar la muerte
+entre los espías de escasa entidad, debe de ser precisamente la que buscan los
+maestros de espías para vigilar y manipular en los niveles más altos de los
+florecientes sistemas de espionaje. Probablemente lo que ocurre es que un
+hombre va derivando, tal vez incluso en contra de su voluntad, hacia el momento
+en que se convertirá en espía de su país, como le ocurrió a ese que me encontré
+en un cóctel y que terminó espiando a los oficiales de su propio ejército.
+Luego, tanto si ha llegado allí por vocación como si no tiene el menor
+entusiasmo, empezará a cometer errores; puede que eso le guste, o puede que no.
+Pasa una fase en la que se pregunta si no habría hecho mejor dedicándose a la
+Bolsa, o a cualquier otra alternativa; luego, de pronto llega un momento —fatal
+para los enclenques, aunque señal de la grandeza de su futuro— en el que le
+invade la simpatía por el enemigo. Dedicar mucho tiempo a pensar en lo que está
+haciendo X, o en lo que podría hacer, o pensar, o planificar, convierte los
+pensamientos de X en algo tan familiar y agradable como los de uno mismo. Los
+puntos de vista de la nación contra la que el espía dedica todo su tiempo
+encuentran un buen acomodo en la mente que antes sólo tenía espacio para los de
+la Madre Patria. Se dedica a pensar en las ideas de quienes solían ser sus
+enemigos antes de entender que en términos psicológicos ya es un agente doble,
+y sin darse cuenta todavía de que esos hombres a quienes debe vigilar por el
+valor del material que proporcionan tal vez ya han diagnosticado dicha
+condición.
+Qué grandes logros de entendimiento global,
+qué alturas metafísicas de hermandad internacional deben producirse en ese
+nivel en el que actúan los auténticos grandes espías, cuyos nombres nunca
+conocemos, pero cuya existencia hemos de dar por hecha.
+Por supuesto, no podemos sino recurrir al más
+humilde vuelo de la especulación, al tiempo que nos conformamos con esos
+frecuentes y tan promocionados dramas sobre espías, que abandonan la oscuridad
+para reclamar nuestra atención.
+Es imposible que las altas instancias del
+espionaje tengan nada que ver, por ejemplo, con el siguiente caso menor.
+Un comunista que vivía en un pueblo pequeño
+de Inglaterra, cuya adscripción al comunismo era conocida y aceptada sin el
+menor drama desde hacía años, y para quien la circunstancia de ser comunista se
+había convertido en algo parecido a la práctica de una religión poco
+exigente... Este hombre miró por su ventana una agradable tarde de verano y vio
+aparcado en la calle, delante de su casa, un coche tan extraño y opulento que
+le dio vergüenza y se puso de inmediato a pensar qué excusas podría ofrecer a
+sus vecinos proletarios, cuyos coches de ningún modo podían compararse con
+aquél, suponiendo que los tuvieran. De aquella monstruosidad salieron dos rusos
+sonrientes con un osito de peluche del tamaño de un sofá, una botella de vodka,
+un cilindro largo y pesado que luego resultó ser una enorme alfombra con una
+pintura del Kremlin, y una caja de chocolatinas inglesas con una hermosa dama y
+un hermoso perro.
+En todas las ventanas de la calle, detrás de
+las cortinas, se asomaba alguna cabeza.
+—Pasen —dijo—, aunque creo que no tengo el
+placer de...
+La alfombra enrollada quedó en el recibidor,
+enviaron a sus tres hijos a jugar con el oso de peluche en la cocina y dejaron
+a un lado de caja de chocolatinas para la señora de la casa, que había salido
+de compras por High Street. El vodka lo abrieron en seguida.
+Resulta que a quien buscaban era a su mujer;
+a él sólo lo querían como intermediario. Querían pedir a su esposa, empleada
+del ayuntamiento, que consiguiera las actas de las reuniones del consejo y se
+las pasara. No, no era en Londres, ni siquiera en Edimburgo. Era un pueblo
+pequeño y nada importante del norte de Inglaterra, en el que cuesta imaginar
+que ocurriera nada de interés para cualquier foráneo, y mucho menos para un
+Poder Extranjero. El hombre les explicó que aquellas actas eran públicas y
+cualquiera —incluso ellos mismos— podía conseguir copias.
+—Camaradas, yo mismo les llevaré encantado al
+Ayuntamiento.
+No, ellos habían recibido instrucciones de
+conseguir que su mujer les pasara los detalles y las actas, y no se
+conformarían con otra cosa.
+Siguió una larga discusión. No sirvió de
+nada. No hubo manera de convencer a los rusos de que lo que pedían era
+innecesario. Tampoco eran capaces de entender que llegar a una calle suburbial de un pueblito de
+Inglaterra con un coche más largo que un buque de guerra era una forma de
+llamar la atención.
+—¿Eso por qué? —preguntaban—. Los
+representantes de un país en el que los proletarios detentan el poder tienen
+que llevar un buen coche. Por supuesto, camarada. No lo ha pensado en función
+del concepto de clase.
+El clímax llegó cuando, despreciando el
+efecto de la argumentación racional, le dijeron:
+—Además, camarada, estos regalos, el oso, la
+alfombra, el chocolate, el vodka, son apenas una pequeña muestra de cómo
+apreciaríamos su colaboración con la causa común. Por supuesto, sería
+debidamente recompensado.
+En ese momento, lo invadió, o incluso diremos
+que se apoderó de él, una serie de sentimientos atávicos de cuya existencia ni
+siquiera era consciente hasta entonces. Se levantó y señaló la puerta con un
+dedo tembloroso de ira:
+—¿Cómo se atreven a imaginar —gritó— que mi
+esposa y yo aceptaríamos dinero? Si fuéramos a ser espías lo haríamos por amor
+a la humanidad y por el socialismo internacional. Llévense de aquí sus malditas
+cosas, esperen, voy a buscar el osito de los niños. Y de paso, saquen de ahí su
+maldito coche.
+Cuando volvió su esposa del supermercado y
+oyó la historia se ofendió aun más que él.
+Sin embargo, esas emociones sólo pueden darse
+en el nivel más bajo del material de espionaje; en ese caso, tan bajo que ni
+siquiera estaban cualificados para el primer paso, para entrar a formar parte
+de la hermandad.
+Cerremos el círculo para regresar a nuestro
+hombre de Correos o, mejor dicho, al primero de nuestros tres hombres.
+Tras asistir con diligencia a muchas
+reuniones de izquierda, tanto públicas como privadas —pues Tom era, por encima
+de todo, un hombre metódico que, si se implicaba en algo, lo hacía siempre por
+completo— alzó la mano una noche en medio de una discusión sobre la Reforma
+Agraria de Venezuela y dijo:
+—Quiero pedir permiso para preguntar algo.
+Siempre que hacía eso nos reíamos de él,
+porque solía levantar la mano para pedir permiso para hablar, o para irse, o
+para tener una opinión sobre algo. No nos dábamos cuenta de aquello no
+respondía a una formalidad superficial, o a un hábito, sino a su característica
+más representativa.
+La reunión ya llevaba mucho rato y estaba en
+esa fase en que el suelo queda lleno de tazas vacías de café, vasos de cerveza
+y ceniceros llenos. Algunos se habían ido ya.
+Quería saber qué debía hacer.
+—Quiero gozar del beneficio de vuestros
+expertos consejos.
+En realidad, ya había tomado la decisión que
+nos quería consultar.
+Tras unos dos años de vida más dual que doble
+—pues la doblez implica la existencia de un secreto—, su jefe en la Central de
+Correos lo había llamado para preguntarle cómo le iba su vida con la Izquierda.
+Tom era tan obstinadamente informativo con él como con nosotros y le había
+dicho que éramos gente interesante, bien informada y llena de un idealismo de
+primera magnitud que él consideraba inspirador.
+—Siempre me siento bien después de asistir a
+sus reuniones —nos contó que le había dicho—. Me hacen salir de mí mismo y me
+obligan a pensar.
+Su jefe contestó que, por su parte,
+disfrutaba siempre que oía hablar de idealismo y de pensamiento progresista, e
+invitó a Tom a entregar informes sobre nuestras actividades, nuestras
+conversaciones y, muy particularmente, sobre nuestros planes para el futuro,
+con la mayor anticipación posible.
+Tom nos dijo que había contestado a su jefe
+que “no le gustaba la idea de hacer algo así sin nuestro conocimiento porque,
+se diga lo que se diga de los rojos, son gente muy hospitalaria”.
+El jefe le había respondido que se lo pedía
+por el bien de su país.
+Tom venía a decirnos que había aceptado el
+encargo de su jefe porque quería colaborar con los esfuerzos de guerra de la
+nación.
+A todo el mundo le pareció claro que, tras
+contarnos que había aceptado espiarnos, sin duda —pues formaba parte de su
+naturaleza— iría luego a su jefe para contarle que nos había contado que había
+aceptado espiarnos. Después volvería a nosotros para contarnos que le había
+contado a su jefe que..., etcétera. Y así indefinidamente, salvo que su jefe se
+hartara. Tom no se daba cuenta de que al poco tiempo su jefe lo consideraría
+incapacitado para el espionaje y tal vez incluso lo despidiera de su trabajo de
+cartero, cosa que nos hubiera creado un problema. Después de eso, su jefe
+encontraría probablemente otra persona para que le pasara información.
+Fue Harry, uno de los otros dos carteros que
+acudían a las reuniones del Club de la Izquierda, quien sugirió que
+probablemente sería a él a quien propondrían espiarnos ahora que Tom se había
+delatado. Tom se enfadó cuando todo el mundo empezó a especular sobre si lo más
+probable era que lo sustituyera Harry o Dick. Desde su punto de vista, su
+franqueza absoluta, tanto con nosotros como con su jefe, era merecedora de
+recompensa. Creía que debía conservar su puesto de trabajo. Dios sabe cómo
+concebía el futuro. Probablemente creía que tanto su jefe como nosotros
+seguiríamos empleándolo. Nosotros para averiguar cómo se movía nuestro correo
+entre las barreras de la censura y para acelerarlo en la medida de lo posible;
+su jefe para espiarnos. Cuando hablo de emplear no quiero que nadie imagine que
+eso implicaba pago alguno. Al menos, no por nuestra parte, sin duda, su acicate
+debía ser la ideología; su recompensa, la sinceridad.
+A estas alturas se habrá notado ya que
+nuestro Tom no era lo que se dice brillante. Sin embargo, era un joven bastante
+agradable. Tenía buen aspecto, unos veintidós años. La limpieza era su
+principal característica física. Limpias eran sus ropas; llevaba un bigotillo
+oscuro y despierto; una melena morena, lustrosa y bien peinada. Sus manos, más
+bien pequeñas, llevaban siempre las uñas muy cuidadas; rasgo que podía resultar
+ofensivo para los buenos habitantes de las colonias, con buen ojo para detectar
+esa clase de pruebas de escasa masculinidad. Sin embargo, Tom había emigrado
+poco antes, apenas antes de la guerra, y aún no había absorbido nuestras
+costumbres. Tal vez no se hubiera dado cuenta todavía de que a los auténticos
+Rodhesianos, al menos en esa época, no les gustaban los hombres de aspecto
+cuidado.
+Pese a nuestra cómica predicción de que Tom
+se vería obligado a contarle a su jefe lo que nos había contado, y pese a su
+rígida aseveración de que tal supuesto era imposible, se vio obligado a
+hacerlo. Luego nos informó de que su jefe se había “cabreado con él”.
+Pero el asunto no terminó ahí. Le ofrecieron
+enseñarle a censurar el correo. Contestó a su jefe que el honor le obligaba a
+contárnoslo y el jefe dijo:
+—Por el amor de Dios. Dígales lo que le dé la
+gana. No será usted quien escoja lo que debe censurarse.
+Ya he dicho que en esa época no era una
+ciudad muy sofisticada y aquella situación en la que “todo el mundo conoce a
+todo el mundo” provocaba sin remedio esa clase de situaciones humanas tan
+cálidas.
+Aceptó la oferta por la siguiente razón: “Mi
+madre siempre me decía que quería que me fuera bien, y si acepto la propuesta
+de convertirme en censor pasaré al Grado Tres, lo cual representa un aumento
+anual de 50 libras”.
+Lo felicitamos e insistimos en que nos mantuviera
+informados acerca de cómo se preparaba a los censores, propuesta que aceptó.
+Poco después terminó la guerra y toda la camaradería de entonces desapareció en
+cuanto empezó la Guerra Fría. El fermento de la actividad de izquierdas también
+se acabó.
+No volvimos a ver a Tom, pero supimos de sus
+progresos, lentos pero seguros, en el Servicio Civil. Lo último que supe fue
+que dirigía un departamento entre cuyas actividades se incluía la censura. Me
+lo imagino, un hombre de unos cincuenta años, casado y sin duda padre, pensando
+en el baúl de los recuerdos, en los tiempos en que perteneció a una peligrosa
+organización revolucionaria. “Sí —dirá a menudo—, no hay nada de ellos que no
+sepa. Son idealistas, eso lo puedo garantizar, pero son muy peligrosos. ¡Peligrosos
+y equivocados! ¡Los dejé en cuanto supe qué representaban de verdad!”
+Sin embargo, de nuestros tres espías de
+Correos, Harry fue el que tuvo, al menos durante un tiempo, una carrera más
+compensatoria para los humanistas idealistas.
+Era un escolar silencioso y desesperadamente
+tímido que vino a una reunión pública y se enamoró perdidamente durante una
+semana, más o menos, de la oradora, una muchacha que hablaba en público por
+primera vez y tan tímida como él. Su padre había muerto y su madre, como dirían
+los psiquiatras y las trabajadoras de Bienestar Social, era “inadecuada”. O
+sea: no se le daba bien lo de ser viuda y tenía la salud frágil. Sus escasas
+energías se concentraban en ganar el dinero suficiente para mantener a sus dos
+hijos. Regañaba a Harry por su falta de ambición, por no preparar los exámenes
+que habían de permitirle el ascenso en el escalafón de Correos... y por perder
+el tiempo con los rojos. Durante tres años, dedicó todo su tiempo libre a la
+organización de la izquierda: preparaba exhibiciones, alquilaba salas y
+salones, decoraba bailes para obtener fondos, conseguía publicidad para nuestra
+revista socialista (dos mil ejemplares), la diseñaba y la vendía. Discutía
+cuestiones de principios con los consejeros del ayuntamiento: “No es justo
+negarnos el uso de la sala, estamos en un país democrático, ¿no?”. Y pasaba al
+menos tres noches por semana discutiendo las cosas del mundo en habitaciones
+llenas de humo.
+En aquella época hubiéramos considerado
+irredimible a cualquiera que lo sugiriese, pero ahora me atrevería a decir que
+la principal función de aquellas reuniones era de orden social. Rodhesia del
+sur nunca fue exactamente un país hospitalario con quien tuviera algún interés
+ajeno al deporte y las copas, y la cincuentena de personas que acudían a las
+reuniones eran —ya pertenecieran a las fuerzas armadas, ya fueran refugiados
+europeos, o incluso nativos— almas necesitadas de buena compañía. Las reuniones
+eran amistosas y a veces duraban hasta el amanecer.
+Una chica a la que nunca habíamos visto
+acudió a una reunión. Vio a Harry, un joven guapo, seguro de sí mismo, locuaz,
+enérgico y eficaz. Todos nos fiábamos de él.
+Se enamoró, se lo llevó a su casa y su padre,
+reconociéndolo como un organizador nato, lo nombró director de su ferretería.
+Eso nos lleva al tercer hombre, Dick. Bueno,
+hay cierta gente a la que no se debería permitir la asistencia a reuniones,
+debates, o situaciones similares para el fermento del intelecto. Vino a dos
+reuniones. Lo trajo Harry y lo describió como “entusiasta”. El entusiasta era
+él. Dick se sentó en el suelo, sobre un cojín. Eran modos muy bohemios para un
+joven de buena educación. Arrugaba la frente como un cachorro mientras
+intentaba seguir aquellos pensamientos tan complejos, tan poco rodhesianos.
+Era, como Tom, un limpio y bien dispuesto joven. Quizás la Oficina de Correos,
+al menos en Rodhesia, sea una institución que atrae a la gente de orden.
+Recuerdo que me hacía pensar en uno
+de esos caramelos sencillos, simple azúcar con aromas químicos. O también parecía
+un bulldog, con su ferocidad acicalada en estado latente, sus ojillos saltones
+y su gruñidito. Le gustaba, como a Tom, la información concreta: “¿Debo
+deducir, entonces, que creéis que se puede cambiar la naturaleza humana?”.
+En la segunda reunión a que asistía se sentó
+y escuchó como en la primera. Al final preguntó si creíamos que el socialismo
+era bueno para un país que debía resolver la carga del asunto de los blancos.
+No vino a ninguna reunión más. Harry dijo que
+nos había encontrado sediciosos y antirodhesianos. Falsos, también. Le dijimos
+a Harry que fuera a preguntarle por qué nos encontraba falsos y volviera para
+contárnoslo. Resultó que Dick quería saber por qué el Club de la Izquierda, ya
+que tenía tan mala opinión de la dirección del país, no asumía el gobierno. De
+todos modos, pronto nos olvidamos de Dick, sobre todo porque Harry, en el cenit
+de su eficacia y utilidad general, ya derivaba con su futura esposa hacia la
+dirección de ferreterías. En esa época perdimos a Tom.
+De pronto nos enteramos de que el Partido
+para la Democracia y la Libertad estaba a punto de celebrar una reunión de
+masas preliminar. Delegaron a uno de nosotros para que asistiera y descubriera
+qué estaba pasando. Me tocó a mí.
+La reunión tuvo lugar en el salón lateral de
+la sala de baile de uno de los tres hoteles de la ciudad. Habían instalado un
+aparador para disponer las provisiones extraordinarias de cerveza y salchichas
+y cacahuetes que con tanta fruición se consumían durante los bailes semanales,
+una palmera en una maceta, tan alta que las hojas superiores quedaban
+aplastadas contra el techo, y una docena de sillas rígidas de comedor pegadas
+en fila a la pared. Había once personas en la sala, entre hombres y mujeres,
+incluido Dick. Al principio no fui capaz de entender por qué esa reunión me
+parecía tan distinta de aquellas en las que tanto tiempo había pasado, hasta
+que me di cuenta de la avanzada edad de los asistentes. A las nuestras sólo
+venían los jóvenes.
+Dick llevaba su mejor traje, de franela gris
+oscura. Era una tarde muy calurosa. Tenía la cara morada por el esfuerzo y
+cubierta de sudor, que retiraba de la frente cada dos por tres con dedos
+impacientes. Leyó un apasionado documento con tono parecido a los manifiestos
+comunistas, que empezaba así: “¡Camaradas ciudadanos de Rodhesia! ¡Ha llegado
+la hora de la acción! ¡Alzaos, mirad alrededor y tomad vuestra herencia!
+¡Pongamos en fuga a las fuerzas del Capital Internacional!”.
+Estaba de pie delante de las sillas, con su
+cabecita bien peinada inclinada sobre sus notas, escritas a mano y de difícil
+lectura en algún momento, de modo que sus inflamatorias imprecaciones se
+producían entre titubeos y tartamudeos, al tiempo que se corregía cada dos por
+tres, se secaba el sudor y luego se detenía para lanzar una mirada circular a
+los demás por toda la sala. Diez rostros atentos lo miraban como si fuera un
+salvador, o el líder de un partido.
+El programa de aquel partido naciente era
+sencillo. Consistía en “apoderarse por medios democráticos pero con la mayor
+celeridad posible” de las tierras y la industria del país “con la intención de
+causar la menor inconveniencia posible” e instituir “en cuanto se pudiera” un
+régimen de auténtica igualdad y justicia en aquella “tierra de Cecil Rhodes”.
+Estaba intoxicado por las emanaciones de la
+admiración de la audiencia. Ya no se veían rostros tan ardientes y apasionados
+como aquellos (por desgracia, me di cuenta de cuánto fervor habíamos perdido)
+en nuestras reuniones del Club de la Izquierda, que derivaban desde hacía mucho
+tiempo por las agradables mareas del debate y la especulación intelectual.
+Los rostros pertenecían a un hombre de unos
+cincuenta años, más bien gris y maltratado, quien se presentó como un profesor
+que “aspiraba a la reforma absoluta de todo el sistema educativo”; una mujer de
+mediana edad, viuda, mal vestida y fumando sin parar, que parecía haber
+superado mucho tiempo antes la barrera de lo soportable; un anciano con rostro
+angelical y sonrosado, enmarcado por mechones blancos, que dijo haber sido
+bautizado en honor a Keir Hardie; tres colegiales, el hijo de la viuda y sus
+dos amigos; la mujer que atendía el guardarropas, quien había abierto aquella
+sala para instalar las sillas y luego se había quedado por puro interés, pues
+era su tarde libre; dos miembros de la RAE; Dick, el sindicalista; y una
+hermosa joven a quien nadie había visto antes y quien, en cuanto Dick terminó
+su manifiesto, se levantó para soltar un sermón vegetariano. Lo consideraron
+ajeno al orden del día. “Primero hemos de conseguir el poder y luego nos
+limitaremos a hacer lo que desee la mayoría.” En cuanto a mí concierne, me
+separaba de ellos mi falta de fervor y la hostilidad de Dick.
+Esto sucedía mediada la segunda guerra
+mundial, cuyo objetivo era derrotar a las hordas del Nacional Socialismo. La Unión
+de Repúblicas Socialistas Soviéticas tenía treinta años. Habían pasado más de
+ciento cincuenta desde la Revolución Francesa y todavía más desde la Revolución
+Americana que liquidó las tiranías británicas. Estaba a punto de celebrarse la
+independencia de la India. Habían pasado veinte años de la muerte de Lenin.
+Trostsky seguía vivo.
+Uno de los escolares, amigo del hijo de la
+viuda, alzó la mano para decir con timidez, y callarse de inmediato, que “le
+parecía que debía de haber algún libro que pudieran leer sobre el socialismo y
+esas cosas”.
+—Claro que los hay —contestó el tal Keir
+Hardie, agitando sus mechones blancos al asentir—, pero no tenemos por qué
+seguir las normas escritas por países antiguos, cuando aquí tenemos uno
+totalmente nuevo.
+(Conviene explicar que los blancos de
+Rodhesia, entonces igual que ahora, siempre se referían a “este país nuevo”.)
+—Por lo que se refiere a los libros... —dijo
+Dick, mirándome con todo el burlón control de sí mismo que había adquirido
+desde que, apenas una semanas antes, abandonara su cojín en el suelo de nuestra
+sala de reuniones—, parece que a mucha gente no les sirven de nada. Así que,
+¿para qué los queremos? Es todo absolutamente simple. No está bien que unos
+pocos sean dueños de toda la riqueza de un país. No es justo. Debería
+compartirse entre todos, a partes iguales, y entonces podríamos hablar de
+democracia.
+—Claro, obviamente —dijo la chica guapa.
+—Ah, sí —suspiró la pobre mujer cansada, al
+tiempo que apagaba con gesto enfático un cigarrillo y encendía otro.
+—Quizá sería mejor que moviéramos un poco esa
+palmera —propuso la chica de guardarropía—. Parece que se interpone un poco.
+Pero Dick no le permitió mostrar su
+concordancia de esa manera.
+—Qué más da la palmera —dijo—. No es
+importante.
+Fue en ese momento cuando alguien preguntó:
+—Perdón, pero ¿cuándo intervienen los
+Nativos? —(En esos tiempos, a los habitantes negros de Rodhesia se los llamaba
+Nativos.)
+Se consideró de un extremado mal gusto.
+—La verdad, no creo que eso sea aplicable
+—contestó Dick, acalorado—. Sencillamente, no veo qué sentido tiene mencionar
+eso, salvo que sea para crear algún problema.
+—Es que viven aquí —dijo uno de los miembros
+de las RAF.
+—Bueno, si cabe la menor posibilidad de que
+nos mezclemos con los problemas de los negros, yo me retiro —dijo la viuda.
+—Puede estar segura de que eso no ocurrirá
+—contestó Dick.
+Mantenía el control con firmeza, bien asido a
+la silla de montar, líder de todos tras haberse mantenido apenas media hora al
+frente de su reunión de masas.
+—No lo entiendo —dijo la chica guapa—.
+Simplemente no lo entiendo. Hemos de tener una política para los Nativos.
+Incluso doce personas en una sala pequeña,
+estuvieran allí para fundar un partido masivo o no, implicaban doce puntos de
+vista distintos, claros y defendidos con pasión. Al final hubo que posponer la
+reunión una semana para que quienes no habían podido expresar sus divergencias
+tuvieran ocasión de hacerlo. Asistí a la segunda reunión. Había quince
+personas. Los dos miembros de las RAF no estaban, pero había seis sindicalistas
+blancos del sector ferroviario que, tras enterarse de la fundación del partido,
+pretendían que se aprobara una resolución: “En opinión de los reunidos, se está
+forzando un avance demasiado rápido de los Nativos hacia la civilización y ese
+proceso debería frenarse por su propio bien”.
+En esos tiempos siempre se aprobaba esta
+resolución cada vez que se presentaba la oportunidad. Es probable que se siga
+haciendo.
+Sin embargo, los nueve asistentes de la
+semana anterior consiguieron formar un sólido bloque de oposición ante aquel
+influjo externo de pensamiento; por supuesto, no se resistieron en defensa de
+los nativos, sino porque les parecía necesario resolver antes otros asuntos.
+“Primero hemos de tomar el país por medios democráticos. Eso no llevará mucho
+tiempo porque es obvio que nuestro programa es de pura justicia; luego ya
+decidiremos qué hacer con los Nativos.” Entonces se fueron los seis
+trabajadores ferroviarios y dejaron solos a los nueve de la semana anterior,
+quienes procedieron a fundar el Partido para la Democracia y la Libertad. Se
+nombró un comité director de tres personas para que redactaran una
+constitución.
+Eso fue lo último que se supo de ellos, salvo
+por un panfleto ciclostilado bajo el título: “¡El capitalismo es injusto!
+¡Unámonos para abolirlo! ¡Nos referimos a ti!”.
+Se acabó la guerra. Esa clase de fermento
+intelectual no se dio más. Los empleados de Correos, todos ellos de nuevo
+ciudadanos ejemplares que se entretenían debidamente con el deporte y otros
+desempeños similares, ya no contaban a los ciudadanos cómo y cuándo los
+censuraban.
+Dick no siguió en Correos. El virus de la
+política había entrado en sus venas para siempre. De mero portavoz del
+socialismo de los blancos, tras las pullas que lo acusaban aspirar a un
+socialismo que excluía a la mayoría de la población, se convirtió en exponente
+de la opinión de que el desarrollo de los Nativos debía frenarse por su propio
+bien, y de allí pasó a consejero del Ayuntamiento, más adelante Miembro del
+Parlamento. Y eso sigue siendo hoy, un caballero distinguido de mediana edad,
+servidor infatigable de comités y comisiones parlamentarias, sobre todo de
+aquellos relacionados con los Nativos, materia en la que se lo considera toda
+una autoridad.
+Un viejo bulldog de pura raza, eso es lo que
+es de la cabeza a los pies.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

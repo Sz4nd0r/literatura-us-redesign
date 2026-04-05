@@ -1,0 +1,102 @@
+---
+layout: story
+title: Las fiestas
+slug: cp_fiestas
+source: https://www.literatura.us/idiomas/cp_fiestas.html
+tags:
+  - cp_fiestas
+  - cp
+---
+Cesare Pavese
+(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
+Las fiestas
+(“Le feste”, 1943)
+Originalmente publicado en Feria d’agosto (1946)
+Tutti i racconti (2002)
+Pino nunca se había quitado de la cabeza el caballo de Ganola y a veces me hablaba de eso. Una tarde que volvíamos de Pozzengo hizo ademán de coger el caminito y a mí, que lo miraba, me dijo:
+—Vuelvo esta noche.
+De hecho regresó al día siguiente con las primeras luces y pasó por el henil. Aquel día en el campo le dije:
+—Vete a dormir a las cañas.
+Él estaba sentado y se reía.
+—Trabaja, por lo menos.
+Pero Pino miraba la colina y dijo:
+—Si ese caballo fuese mío, andaría por ahí todo el día.
+Pensé que un caballo no era una viña, pero no se puede razonar con un hermano que en vez de con las chicas habla con los caballos. Dije en cambio:
+—¿Los caballos no duermen de noche?
+Y Pino, siempre con aquel aire fascinado:
+—He dado vueltas, he ido hasta las Rocas.
+Por el valle de Ganola me tocaba pasar de vez en cuando, para evitar un rodeo de media colina. A la granja de encima del bosque, ceñida por cañas vivas, hacía tiempo que no subía, desde que la última hija de Ganola se había ido a recorrer mundo. Ahora uno pasaba por allá abajo, y nunca se oía una voz ni se movía nadie. Los cultivos estaban medio asilvestrados; el viejo Ganola había abandonado la viña y decían que todo el resto era de prado. Con lo buena que era la tierra, se esperaba solo a que Ganola muriese. Pero los viejos no mueren. Cuando Pino era pequeño, íbamos allí a la esfoyaza; entonces estaban las chicas, estaba Bruno, nos divertíamos durante días enteros. La granja era de los jóvenes; Ganola, ya viejo, se iba de caza y lo oíamos disparar al otro lado de los cultivos, en los bosques que daban a las Rocas. Entonces juntábamos las cabras y subíamos a los prados de la punta; cuando atardecía aún no teníamos bastante y regresábamos revolcándonos y gritando hasta la carretera. Ya entonces Ganola metía miedo y mandaba a todos con la mirada, pero si había matado bastante se echaba a reír y nos dejaba tocar los pájaros ensangrentados que llevaba en bandolera. Para dárselos a las mujeres los soltaba y los tiraba al suelo, y había que ver al perro, que entre dos no conseguían contenerlo. Yo en casa decía que me gustaría ir de caza, pero más entusiasta que yo era Pino, que no se apartaba de aquel corral si yo no echaba a andar amenazando con dejarlo volver solo. Luego llegó la edad en que ya no teníamos miedo a andar de noche, y entonces me iba a bailar con Bruno sin acordarme de la caza; aunque a Bruno había que oírlo cuando les decía chorradas a los forasteros para buscar camorra. En eso había salido a su padre, y durante el verano que anduvimos juntos por las fiestas, me enteré de que Ganola de joven era peor que nosotros porque entonces nadie los sujetaba y llevaban la navaja en el bolsillo. Muy pronto dejé que Bruno fuera solo, porque le gustaba pasar de una fiesta a otra atravesando día y noche para llegar a tiempo, y buscar comida entre las casas como un ladrón. Al salir con él nunca se sabía adónde se llegaría.
+Bruno montaba ya aquel año. En la fiesta de Popolo la yegua se había dejado preñar por algún demonio del circo mientras, desenganchada del birlocho, comía hierba tras el barracón, y había parido un rubicán del que Ganola dijo enseguida:
+—A este lo haremos correr.
+Bruno practicó con la madre de arriba abajo por el prado de la cresta, y cuando llegó el momento montó el caballito. Hará ya cinco años. Nosotros, en especial Pino, estábamos delirantes, todo el día en la carretera para verlo pasar, aunque andaba por medio Ganola, que acompañaba a Bruno al prado y nos decía que no quería espías. Algunos días, en cambio, cuando Bruno llegaba a la carretera inclinado sobre las crines, Ganola me gritaba que mirase, que agarrase aquel ciclón. Pino era en aquella época un muchacho al que nadie hacía caso. También estaban los días en que el caballo no quería saber nada y entonces en el corral se trataban a patadas y empujones y no bastaba la fuerza de Bruno para domarlo. Las chicas escapaban. Ganola se enfurecía y echaba mano al bocado, y el caballo saltaba y meneaba la cola, y ni siquiera Pino se quedaba por allí. Nuestro padre decía que más le hubiera valido engancharlo al arado y que al no trabajar también los animales se estropean.
+En aquella casa las únicas sensatas eran las mujeres; parecía que supieran cómo iba a terminar todo. Pino ahora no quiere acordarse, pero de niños él y Carmina se hablaban. Y Carmina murió precisamente aquel otoño después de que Bruno hiciera la carrera. Estaba ya en cama por la Virgen de septiembre y su hermana, por quedarse velándola, no vino a la fiesta; cuando los suyos regresaron cantando y gritando, dicen que por el cansancio ella se volvió de cara a la pared y lloraba, pobre chica.
+Vino también Pino, claro. Era la primera fiesta fuera del pueblo que nuestro padre nos dejaba ver, y en todo el día no se apartó ni de Bruno ni de la cuadra del párroco donde habían encerrado a los caballos; bailar aún no bailaba. Yo los fui a buscar al anochecer. Bruno llevaba ya en el prado dos días y adiestraba al caballo, vestido con botas y un pañuelo al cuello, y Ganola lo vigilaba. Ya habían hecho por la mañana una carrera de prueba que había salido mal, y entonces se encerraron juntos en el establo y Ganola tenía una cara maligna. Quería que saliéramos todos, yo me quedé junto a una escalera. Pino también miraba. Entonces Ganola descorchó una botella de buen vino, llenó un cuenco y se lo metió bajo la lengua al caballo, que se sacudía. El caballo se lo bebió todo. Después retrocedieron, y Ganola, echando mano al látigo, le asestó en los jarretes y en el hueso del culo tres o cuatro golpes con el mango, que lo hicieron saltar como a una culebra. El caballo adoptó al punto un aire audaz, de gato: se veía que el vino le había llegado a todas partes. Ganola reía burlón.
+—No lo necesitarías —le dijo.
+Y entonces el caballo se enderezó bufando. Daba miedo.
+La carrera la ganaron ellos. Recuerdo la tarde en aquel prado, después de que la gente se dispersara. Llegaba el fresco de la luna, los barracones del fondo encendían el acetileno y en el baile habían dejado de tocar. Encontré a Pino detrás de un árbol, solo, llorando, y no quería que se dieran cuenta.
+—Vamos —le dije—, busca a alguien, habla con las chicas.
+Entonces creía que pensaba en Carmina. ¡Qué va!, lloraba de rabia por no ser un caballo también él.
+—Quedémonos con Bruno —decía.
+Ya le había entrado la fiebre de andar por ahí de noche, y no por bailar o divertirse, sino para pasar la noche en blanco él solo y encontrarse al día siguiente quién sabe dónde. Esa noche cenamos con el párroco y un montón de gente. Ganola se burlaba de los dueños de otros caballos y todos lo alababan, y alababan a Bruno, que comía inclinado sobre el plato como si estuviera aún en la carrera, y yo pensaba que tenía la misma edad que Pino. Por las ventanas de la sala entraba la música y el jaleo de la gente. Nosotros hablábamos de las carreras de años anteriores y de las que había que hacer aún. Fue una hermosa noche. La luna duró hasta que llegamos a casa.
+Esa noche Ganola no sabía su destino. Carmina murió hacia los Santos, y en invierno su madre fue detrás de ella, por la desesperación. No comía ya hacía tiempo.
+—Mujeres —dijo Ganola al volver del entierro.
+La otra hija, Linda, que había sido siempre más orgullosa y se ponía de parte de la vieja, empezó a chocar con los dos hombres todas las veces que podía. Daban unas voces que se oían desde la carretera. No sé Pino, pero a partir de entonces yo fui por allí cada vez menos. Aquel otoño Ganola no labró ni siquiera la mitad de las tierras. Iba de caza con Bruno y pensaban solo en el caballo. De vez en cuando cogían el tren para ir a comprarle algo. Después compraron las espuelas.
+Dicen que aquel día Bruno no quería ponérselas, porque el caballo estaba tranquilo. Pero Ganola se rió:
+—Más vale que aprenda y lo sepa enseguida.
+Lo sujetó por el bocado hasta que Bruno subió, después le dio el arranque. Se vio una reparada y el caballo respingó como una culebra, después saltaron por el aire y Bruno voló por el patio. Se quedó allí como un saco. Si el caballo no se hubiera metido como un loco por el porche que tenía delante, Ganola no lo habría agarrado nunca más.
+Así que Bruno había muerto, y Linda entonces quería matar al caballo. Por esos días, dicen que Ganola se olvidaba de vez en cuando de encender el fuego o hablar con el cura o cerrar el establo para golpearla como se golpea el trigo. Se había puesto estrábico, con una barba como el rastrojo, llevaba los calzones desabrochados, y a partir de ese día no volvió a pensar ni en la barba ni en los calzones. Hasta que Linda se escapó de casa.
+Viejas historias. Desde entonces yo, cuando podía, pasaba lejos de allí. También Pino, al faltarle Bruno, empezó a andar por otras colinas. Al año siguiente decían que hablaba con una chica del Ponte. En verano, fue por su cuenta a las fiestas y algunas veces volvíamos juntos, pero más a menudo él desaparecía, cogía la carretera y regresaba al día siguiente. Ni siquiera parecíamos hermanos. De Ganola me había olvidado. Nuestro padre hablaba de él a veces. Contó que uno de Odalengo había ido en invierno para comprar la franja de bosque que tenía sobre el valle, y ni siquiera había logrado entrar en materia. Ganola lo había dejado en la puerta como a un vagabundo y lo había despedido con dos palabras, sin dejar un cubo que llevaba a la cuadra. Desde que Linda se había marchado casi no se movía de casa, por miedo a que le robaran el caballo, parece; pero, la gente decía que era porque sabía que iba a morir. Sé que Pino ese año y el siguiente lo ayudó a vender y comprar cosas y algunas veces le cortaba el heno. Pino decía, por ejemplo, que en los días buenos Ganola desataba al caballo, lo montaba como podía y andaba arriba y abajo por la colina. Después, hacia el mediodía, cuando el sol quemaba y todos comían, se iba de cresta en cresta hasta muy lejos. Tanto que, en el trabajo, si era la hora de la siesta, Pino miraba a la colina y decía:
+—El caballo pasea.
+Un día tuve que ir a casa de Ganola a buscar un tonel que le habíamos prestado en otros tiempos. No sé por qué no fue Pino, pero, en resumen, enganché la vaca y fui yo. Era una tarde de niebla, y al subir por aquel camino me acordaba de cuando íbamos con las cabras y estaba Bruno, estaba Carmina, y Ganola volvía con los pájaros, nosotros con las castañas, y Linda, sin hablar, nos traía un haz de leña y poníamos la sartén al fuego. Precisamente a esa hora, porque luego la niebla cubría caminos y bosques y había que estar en casa. Me paré en el corral y busqué en la gran habitación ya oscura. No había nadie, tampoco en el establo. En vez de llamar, me senté a la puerta, mirando la niebla.
+Ganola llegó al poco rato, tirando del caballo. Despuntó entre la niebla primero el cuello y la cabeza de aquel demonio, que no iba enjaezado y levantaba la mano de Ganola, apretada al bocado. En cuatro años había crecido como un plátano; su pelaje era como las hojas de los plátanos que caen rojas. Cuando estuvo en el corral se vio que Ganola se había vuelto más bajo, encorvado, y el animal le sacaba la cabeza. Con Ganola hablé como si nos hubiéramos visto el día anterior. En el establo adonde condujo al caballo estaba todo vacío, ni una cabra. Lo ató a su vara, le echó heno y, antes de salir, le palmeó en el cuello. Mientras llevábamos el tonel al carro no dijo tres palabras. Escupía solo, en la barba.
+Cuando se lo conté, Pino me dijo que por aquellos días Ganola labraba la tierra que había junto al pozo, pues ese año quería sembrar.
+—Si no fuera porque es viejo, debería casarse otra vez —comenté—, ¿qué hace solo día y noche?
+—No echa en falta la compañía —dijo Pino.
+—Y tú, ¿tienes compañía? —pregunté riendo.
+Pino negó con la cabeza.
+Pino ahora trabajaba conmigo, y nuestro padre estaba contento. Pero había días en que regresaba por la carretera, y entonces me tocaba abrir los ojos y esperarme de un momento a otro cualquier novedad. La sentía venir. Hasta que una noche, en la mesa, Pino dijo que estaba harto de cavar la tierra y que quería ir a trabajar a las minas; también eso es un trabajo y en este mundo hay que cambiar. Nuestro padre lo miró. Yo me callé porque sabía que cuando a Pino se le mete una cosa en la cabeza, no hay quien se la quite. Pero Pino decía las minas por decir; a nadie le gusta encerrarse bajo tierra por el gusto de estar allí. Lo que quería era andar por ahí, ver algo.
+—Irás este invierno —respondió mi padre—, y sabrás lo que es eso.
+Pino dejó las minas en primavera: estaba hasta las narices. Regresó, flaco como un alfiler, con un vagabundo de Pozzengo, un cojo de cazadora andrajosa que había conocido en las minas, y durmieron juntos alguna noche en nuestro henil. Hablaban poco y andaban juntos por la carretera. No me gustaba aquel tipo, pero mi padre se lo tomó a broma y él se marchó. Pino se quedó tranquilo.
+Ahora ya nadie hablaba de aquella chica del Ponte; creo que nunca había existido. La gente encontraba a Pino en la carretera de la estación, donde tenía compadres de las minas y los domingos se encerraban en la taberna. Después miraban llegar el tren y conocían a los ferroviarios y sabían lo que había ocurrido hasta en Génova. Ni una sola vez armaban camorra en un baile por las chicas de aquí o probaban el vino nuevo en un patio. Eran de otra pasta. Se reían de la gente como nosotros.
+Llegó así el verano pasado, y al comenzar las fiestas a Pino ya no hubo quien lo sujetase. Esta vez se había juntado con un tipo flacucho, que recorría las ferias haciendo apuestas. Pero Pino no tenía mucho dinero; solo un poco para fumar y pagarse las fiestas. Este tipo era más astuto que el otro de Pozzengo; de no saber el oficio que tenía, hubiera habido que darle crédito, tanto fascinaba con sus palabras. Había recorrido mundo, pero sabía también hacer un papel en el campo. Era bajito, de piernas torcidas, con el pelo perfumado. Se llamaba Roia.
+Hablaba de todo y decía que Pino no sabía la suerte que tenía al haber nacido agricultor. Decía que mejor que nosotros no vive nadie.
+—Pero tú el campo lo trabajas en la plaza —decía Pino.
+Con Roia bromeaba.
+—Claro —replicaba—. Hace falta lo uno y lo otro.
+Era despierto, aunque a mí no me gustaba.
+Estoy seguro de que Pino le habló de Ganola desde la primera vez, porque aquel día en el patio Roia miraba la colina de las cañas y me preguntó quién vivía allí arriba.
+—Viven un hombre y un animal —dije, y él rió quedo, como quien ya lo sabe todo.
+Lo vimos alguna vez en la fiesta de Odalengo, y Pino lo invitó en mi presencia a venir a nuestro pueblo por la Virgen de agosto. Me llevé a Pino aparte y le pregunté si estaba loco al meternos en casa a aquel tipo.
+—¿Qué le pasa? —preguntó él, medio riendo.
+—¿Has probado a decírselo a padre? —le solté—. Díselo a padre y ya te darás cuenta.
+Pino me miró mal y se quedó fuera una noche más.
+Apenas habíamos trillado el trigo cuando vino un temporal del demonio: medio arrasó la viña y se llevó algunos árboles como si fueran haces. Pino salió del porche y dijo:
+—Voy hasta la estación.
+—¿Cómo? —dijo nuestro padre, encabronado—, ¿y la viña?
+—La viña se ha ido a freír espárragos —replicó Pino—, estoy harto de trabajar para nada.
+Yo dije que era de noche y que más valía esperar al día siguiente; nuestro padre entró en casa para secarse los zapatos, pero ya habíamos comprendido que a Pino le había vuelto a dar la idea de las minas. Solo que esta vez ya no hablaba de minas.
+Llegó agosto, y entre el sofoco del día y la luna de noche, nadie pensaba ya en trabajar. Ese año el ayuntamiento nos había prometido fuegos, y hasta los viejos parecían críos. Decían que los fuegos traían el buen tiempo. Yo no sé, pero si fuera cierto los tendrían preparados todas las veces que truena.
+—Estaréis contentos —dije en casa—, ¿qué pueblo tiene fuegos este año?
+—Lo único que falta es la carrera de Ganola —rezongó nuestro padre—. Locos.
+Pino estaba callado; terminó su plato y se fue al campo.
+Llegó esa noche y la pasé en la plaza mirando la fiesta. Nunca se había visto tanta gente. Habían bajado de todas las colinas, de las Rocas, del otro lado de los bosques; no faltaban ni los perros. Estaban todos los barracones. Vi también a Roia, que tenía un puestecito de dados. Lo dejé con sus trucos y me fui al baile.
+Cuando se hizo de noche, prendieron los fuegos. En lo mejor vi entre un resplandor las caras de tres o cuatro de la estación que miraban hacia arriba, pero de Pino, nada. ¿Dónde estará?, pensé, pero después volví a mirar y a oír los estallidos.
+Duraron como media hora, y en cuanto acabaron se reanudó el baile. Volví a casa ensordecido, silbando como un gorrioncillo, y no se podía dormir porque por la carretera había un tránsito continuo de borrachos, de carros, de gente que cantaba. Pino no estaba aún, como de costumbre.
+Entonces me senté en el peldaño a fumar, y miré las estrellas, que parecían una era de trigo. Clavé la vista en la colina de Ganola y vi luz en la ventana. Toma, también él lo celebra, pensé riendo. Pero después la luz vaciló, era roja. Entonces comprendí que ardía y me puse en pie de un salto.
+Era ya casi de mañana, y el paso por la carretera había cesado. Fui a la carrera hasta el recodo, sin pensar que estaba yo solo, porque creía que muchos habían visto las llamas y corrían hacia allá. Pero a medida que subía por el valle, me entraba miedo. En las cañas me detuve y encendí de nuevo la colilla. Oí entonces la voz de Pino, que me llamaba por mi nombre. Me cogió del brazo y dijo:
+—No vayas, no vayas.
+Hablaba temblando, como un crío.
+—¿Qué pasa?
+—Roia ha matado a Ganola y el caballo se ha escapado.
+Dijo que habían ido a comprar el caballo. El día antes, claro. Roia había ido con él para ver el caballo y comprarlo. Pensaban vivir juntos y recorrer los pueblos. Ganola los había llevado al establo, pero decía testarudo que antes de venderlo lo mataría. Al regresar a casa, Roia había dicho que todos los viejos son así, pero que nunca había visto un rubicán tan bonito. Y luego habían vuelto esa noche porque Roia decía que hacía falta constancia. Y antes de despertar al viejo había entrado en el establo. Mientras el caballo resoplaba, Ganola había llegado en camisa, Roia le había dicho algo riendo y después, echándosele encima, lo había matado.
+Degollado. Luego desató el caballo, y le gritó a Pino que le ayudase. Él solo decía: «Queríamos comprarlo, ¿por qué lo has matado?», y escapó; entonces el caballo había empezado a encabritarse, a gruñir, a romper las varas, y no lo habían vuelto a ver.
+Le pregunté a Pino si se había creído de veras que Roia compraría el animal. Le dije que Roia quería utilizarlo para entrar en la casa, sin más, y que el caballo quería venderlo luego, no recorrer los pueblos.
+—Y ahora Roia, ¿dónde está?
+Corrimos hacia la granja. El fuego había prendido en todo el establo y no se podía entrar.
+—Fue Roia el que lo encendió.
+—Vámonos —dijo Pino—; vámonos.
+Esta vez no se equivocaba. No teníamos que ser los primeros allí arriba. Y además temblaba como una hoja. Estaba todo arañado. Lo agarré y, pasando por los bosques, fuimos a encerrarnos en casa.
+El fuego lo apagaron los demás. Se ve que Roia conocía su oficio, porque de Ganola no encontraron gran cosa. Pero del caballo menos aún y se explicaban el incendio diciendo que había matado a Ganola de una patada y tirado la linterna. Estuvieron buscándolo mucho rato por estos montes, pero estoy convencido de que Roia lo ha cogido y se lo ha llevado. La gente, en cambio, y Pino también, dicen que el caballo anda por los bosques, y algunos días pueden oírlo pasar por las cimas.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

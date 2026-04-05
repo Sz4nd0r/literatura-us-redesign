@@ -7,4 +7,101 @@ tags:
   - index
   - jose
 ---
-¿Quién es José Alcántara Almánzar? ![José Alcántara Almánzar](/assets/images/jaa.jpg) José Alcántara Almánzar nació el 2 de mayo de 1946, en Santo Domingo. Sociólogo, narrador, profesor y uno de los principales críticos de la literatura dominicana, es quizás uno de los mejores cuentistas dominicanos contemporáneos. Fue profesor en en el Colegio Loyola, Santo Domingo (1969-1973); el Instituto Cultural Domínico Americano (1972-1974); la Universidad Autónoma de Santo Domingo (UASD, 1973); la Universidad Nacional Pedro Henríquez Ureña (UNPHU, 1974-1984), y el Instituto Tecnológico de Santo Domingo (INTEC, 1981-2001), de donde se retiró en enero de 2001. También fue profesor Fulbright (1987-1988) en Stillman College, Alabama, Estados Unidos. Ha sido asesor de la Fundación Corripio. En 1995 ingresó al Banco Central de la República Dominicana como subdirector de la biblioteca “Juan Pablo Duarte”. El siguiente año, fue nombrado director del departamento cultural del Banco Central. En el año 2009 recibió el Premio Nacional de Literatura, otorgado por la Fundación Corripio y la Secretaría de Cultura. Obras: Narrativa: Viaje al otro mundo (1973) Callejón sin salida (1975) Testimonios y profanaciones (1978) Las máscaras de la seducción (1983) La carne estremecida (1989) El sabor de lo prohibido. Antología personal de cuentos (1993) Presagios de la noche (antología de cuentos, 2005) Estudios, antologías: Antología de la literatura dominicana (1972) Estudios de poesía dominicana (1979) Imágenes de Héctor Incháustegui Cabral (antología, 1980) Hombre y sociedad. Lecturas escogidas (antología, 1983, 1986 y 1991) Narrativa y sociedad en Hispanoamérica (1984) Los escritores dominicanos y la cultura (1990) Poesía y prosa, en colaboración con Manuel Rueda (1996) Panorama sociocultural de la República Dominicana (1996) Antología mayor de la literatura dominicana. (Siglos XIX y XX) El lector apasionado. Ensayos sobre literatura (2010) Palabras andariegas: Escritos sobre literatura y arte (2011) Índice Relatos: Viaje al otro mundo (1973): 1. La muchacha que conocí en Guadeloupe 2. Rumbo al mar 3. La prueba 4. La última visita 5. Un domingo en la playa 6. Remordimiento 7. Confidencias de una amiga 8. Con todas las de ganar 9. La decisión 10. El ataque (Sólo para niños) 11. Antes y después del silencio 12. Viaje al otro mundo Callejón sin salida (1975): 1. El regreso 2. Enigma 3. Obituario 4. La mañana del viernes 5. Historia a manera de Pastiche 6. Intramuros 7. Noche de luna gris 8. La insólita Irene 9. Experimento sin título 10. La sorpresa 11. El fracaso 12. Callejon sin salida Testimonios y profanaciones (1978): 1. Crónica trivial de una fiesta íntima 2. Los demonios que habitan nuestros días 3. El laberinto revisitado 4. Con Papá en casa de Madame Sophie 5. La forza del destino 6. La noche inconclusa Las máscaras de la seducción (1983): 1. La reina y su secreto 2. Lulú o la metamorfosis 3. La humillación 4. Desarmar un rostro 5. La boda 6. Viajeros 7. La oficiante 8. El muertico 9. El día del concierto 10. Ruidos 11. Él y ella al final de una tarde 12. Deborah en el recuerdo La carne estremecida (1989): 1. El zurdo 2. La búsqueda 3. La obsesión de Eva 4. Rivales 5. En carne viva 6. Destruir un recuerdo 7. Tentaciones 8. El alta mar 9. Inventando que mueres 10. Presagios 11. Visiones al amanecer 12. Como una noche con las piernas abiertas Estudios, ensayos, teorías: Introducción a la obra poética de Héctor Incháustegui Cabral, I (1978) (pdf) Introducción a la obra poética de Héctor Incháustegui Cabral, II (1979) (pdf) La sociedad dominicana en su novela (1982) (pdf) Hostos, el escritor necesario (1989) (pdf) De autores y personajes desquiciados en la literatura (1999) (pdf) La aventura del cuento Manuel Rueda y la música (2001) (pdf) Imágenes de Héctor Incháustegui Cabral (2012) (pdf) Panorámica de la luteratura dominicana actual (2019) (pdf) Entrevistas: Entrevista con la revista Letra Grande (1980) Estudios: Efraín Barradas: La seducción de las mascaras: José Alcantara Almánzar, Juan Bosch y la joven narrative dominicana (1988) (PDF) Nívea de Lourdes Torres Hernández: Fantasía y compromiso sociopolítico en la cuentística de José Alcantara Almánzar (1998) (PDF) Ramón Luis Acevedo Marrero: Reseña de Presagios de la noche (2006) Danny Méndez: De travestismos sospechosos y seduciones peligrosas: La identidad sexual en dos cuentos de José Alcántara Almánzar (2013) Myra M. Medina: Reflejos de la idiosincrasia dominicana en los cuentos de José Alcántara Almánzar (2024) 
+
+¿Quién es José Alcántara Almánzar? ![José Alcántara Almánzar](/assets/images/jaa.jpg) José Alcántara Almánzar nació el 2 de mayo de 1946, en Santo Domingo. Sociólogo, narrador, profesor y uno de los principales críticos de la literatura dominicana, es quizás uno de los mejores cuentistas dominicanos contemporáneos. Fue profesor en en el Colegio Loyola, Santo Domingo (1969-1973); el Instituto Cultural Domínico Americano (1972-1974); la Universidad Autónoma de Santo Domingo (UASD, 1973); la Universidad Nacional Pedro Henríquez Ureña (UNPHU, 1974-1984), y el Instituto Tecnológico de Santo Domingo (INTEC, 1981-2001), de donde se retiró en enero de 2001.
+
+También fue profesor Fulbright (1987-1988) en Stillman College, Alabama, Estados Unidos. Ha sido asesor de la Fundación Corripio. En 1995 ingresó al Banco Central de la República Dominicana como subdirector de la biblioteca “Juan Pablo Duarte”. El siguiente año, fue nombrado director del departamento cultural del Banco Central. En el año 2009 recibió el Premio Nacional de Literatura, otorgado por la Fundación Corripio y la Secretaría de Cultura. ObrasNarrativa
+ Viaje al otro mundo (1973)
+
+Callejón sin salida (1975)
+
+Testimonios y profanaciones (1978)
+
+Las máscaras de la seducción (1983)
+
+La carne estremecida (1989)
+
+El sabor de lo prohibido.
+
+Antología personal de cuentos (1993)
+Presagios de la noche (antología de cuentos, 2005)
+
+Estudios, antologías: Antología de la literatura dominicana (1972)
+
+Estudios de poesía dominicana (1979)
+Imágenes de Héctor Incháustegui Cabral (antología, 1980) Hombre y sociedad. Lecturas escogidas (antología, 1983, 1986 y 1991)
+
+Narrativa y sociedad en Hispanoamérica (1984)
+
+Los escritores dominicanos y la cultura (1990)
+
+Poesía y prosa, en colaboración con Manuel Rueda (1996)
+
+Panorama sociocultural de la República Dominicana (1996)
+Antología mayor de la literatura dominicana. (Siglos XIX y XX)
+
+El lector apasionado.
+
+Ensayos sobre literatura (2010)
+
+Palabras andariegas: Escritos sobre literatura y arte (2011)
+Í
+
+ndice Relatos: Viaje al otro mundo (1973):
+1. La muchacha que conocí en Guadeloupe 2. Rumbo al mar 3. La prueba 4. La última visita 5. Un domingo en la playa 6. Remordimiento 7. Confidencias de una amiga 8. Con todas las de ganar 9. La decisión 10. El ataque (Sólo para niños) 11. Antes y después del silencio 12
+
+Viaje al otro mundo Callejón sin salida (1975):
+1. El regreso 2. Enigma 3. Obituario 4. La mañana del viernes 5.
+
+Historia a manera de Pastiche 6. Intramuros 7. Noche de luna gris 8. La insólita Irene 9. Experimento sin título 10. La sorpresa 11. El fracaso 12
+
+Callejon sin salida Testimonios y profanaciones (1978):
+1. Crónica trivial de una fiesta íntima 2. Los demonios que habitan nuestros días 3. El laberinto revisitado 4. Con Papá en casa de Madame Sophie 5. La forza del destino 6
+
+La noche inconclusa Las máscaras de la seducción (1983):
+1. La reina y su secreto 2. Lulú o la metamorfosis 3. La humillación 4. Desarmar un rostro 5.
+
+La boda 6. Viajeros 7. La oficiante 8. El muertico 9. El día del concierto 10. Ruidos 11. Él y ella al final de una tarde 12
+
+Deborah en el recuerdo La carne estremecida (1989):
+1. El zurdo 2. La búsqueda 3. La obsesión de Eva 4. Rivales 5. En carne viva 6. Destruir un recuerdo 7. Tentaciones 8. El alta mar 9. Inventando que mueres 10. Presagios 11. Visiones al amanecer 12
+
+Como una noche con las piernas abiertas Estudios, ensayos, teorías: Introducción a la obra poética de Héctor Incháustegui Cabral, I (1978)
+(pdf)
+
+Introducción a la obra poética de Héctor Incháustegui Cabral, II (1979)
+(pdf)
+
+La sociedad dominicana en su novela (1982)
+(pdf)
+
+Hostos, el escritor necesario (1989)
+(pdf)
+
+De autores y personajes desquiciados en la literatura (1999)
+(pdf)
+
+La aventura del cuento Manuel Rueda y la música (2001)
+(pdf)
+
+Imágenes de Héctor Incháustegui Cabral (2012)
+(pdf)
+
+Panorámica de la luteratura dominicana actual (2019)
+(pdf)
+
+## EntrevistasEntrevista con la revista Letra Grande (1980)
+
+Estudios: Efraín Barradas: La seducción de las mascaras: José Alcantara Almánzar, Juan Bosch y la joven narrative dominicana (1988)
+(PDF)
+
+Nívea de Lourdes Torres Hernández: Fantasía y compromiso sociopolítico en la cuentística de José Alcantara Almánzar (1998)
+(PDF)
+
+Ramón Luis Acevedo Marrero: Reseña de Presagios de la noche (2006)
+
+Danny Méndez: De travestismos sospechosos y seduciones peligrosas: La identidad sexual en dos cuentos de José Alcántara Almánzar (2013)
+
+Myra M.
+
+Medina: Reflejos de la idiosincrasia dominicana en los cuentos de José Alcántara Almánzar (2024)

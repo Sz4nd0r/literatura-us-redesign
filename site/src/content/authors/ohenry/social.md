@@ -1,0 +1,79 @@
+---
+layout: story
+title: El triángulo social
+slug: social
+source: https://www.literatura.us/idiomas/ohenry/social.html
+tags:
+  - social
+  - ohenry
+---
+O.
+Henry
+(William Sydney Porter)
+(North Carolina, 1862 -
+New York, 1910)
+El triángulo social (1903)
+(“The Social Triangle”)
+Originalmente publicado en The World (13 de diciembre de 1903);
+The Trimmed Lamp
+(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+A las seis en punto de la tarde Ikey Snigglefritz dejó su plancha. Ikey trabajaba como aprendiz en una sastrería. ¿Por qué ahora serán aprendices todos los sastres?
+En cualquier caso el hecho era que Ikey trabajaba cosiendo, zurciendo, remendando y planchando entre el fétido vapor de un taller de sastre. Pero, conclusa la jornada de trabajo, Ikey uncía su carro a cualesquiera estrella de las que su firmamento le consentía.
+Era noche de sábado y el patrón depositó en la mano de Ikey doce mugrientos y bien sudados dólares en papel. Ikey se dio un discreto lavado, púsose cuello, corbata —no poco raída—, gabán y sombrero, y salió a la calle, presto a la persecución de sus ideales.
+Porque todos, cuando terminamos el trabajo del día, nos aplicamos a nuestro ideal, que puede ser el amor, la partida de billar, la langosta a la Newburg o el plácido silencio de los polvorientos anaqueles de libros.
+Ikey ambuló por las calles, bajo la línea del elevado, entre hileras de apestosos tenderetes. Pálido, encorvado, insignificante, escuálido, condenado a subsistir eternamente en penuria corporal y mental, hacía girar airosamente su bastón barato y, mientras inhalaba el humo de su cigarrillo, se podía percibir que en su angosto tórax anidaba el bacilo de la convivencia social.
+Las piernas de Ikey le condujeron al interior del famoso centro de entretenimiento conocido por el nombre de Café Maginnis. Y era famoso porque allí tenía su tertulia Billy McMahan, el hombre más grande del mundo, a juicio de Ikey.
+Billy McMahan era el jefe político del distrito. Sobre él ronroneaba el Tigre sumo del partido, y así Bill disponía siempre de maná que diseminar.
+Al entrar Ikey, Billy permanecía, ufano, arrogante y enrojecido, en el centro de un grupo compuesto por varios de sus lugartenientes y electores. Al parecer se habían celebrado unas elecciones en las que se obtuvo la victoria. Y la ciudad se había visto arrollada por una irresistible marea de votos.
+Ikey se acercó al mostrador y, conteniendo la respiración, miró a su ídolo.
+McMahan resultaba magnífico. Tenía el rostro terso, ancho y riente; los ojos grises y penetrantes como los de una cría de ave de presa; un anillo de diamantes ; una voz que sonaba como un toque de clarín; un grueso y activo fajo de billetes y un modo especial de dirigirse, como con el bronce de una corneta, a sus camaradas y amigos, mientras enterraba las manos en los profundos bolsillos de su gabán corto. Porque Billy...
+¡De qué poco valen las palabras para pintar su gloria tal como se presentaba a los ojos de Ikey Snigglefritz!
+Resonaba en todo el Café Maginnis la nota del triunfo. Los camareros, con sus chaquetillas blancas, manejaban activamente botellas, corchos y vasos. Una veintena de puros habanos ponían en el ambiente la teoría de sus nubes. Gentes leales y esperanzadas estrechaban la mano de McMahan. Y nació repentinamente en el alma de Ikey Snigglefritz un estremecedor y audaz impulso. Adelantóse hacia el espacio en que se movía la majestad de Billy y le tendió la mano.
+McMahan se la estrechó sin vacilar, sonriendo.
+Enloquecido por los dioses que se aprestaban a destruirle, Ikey tiró de la espada y arremetió al Olimpo.
+—Beba unas copas conmigo, Billy —dijo familiarmente—. Y sus amigos también.
+—Claro que beberemos —repuso el gran jefe—. Por lo menos conservaremos la animación.
+El último destello de la razón de Ikey se apagó.
+Se dirigió al tendero con un movimiento de su mano temblorosa.
+—Ponga vino —pidió.
+Saltaron los corchos de tres botellas y el champaña hirvió en una larga fila de copas colocadas en el mostrador. Billy McMahan empuñó la suya e hizo signo de gracias a Ikey. Los lugartenientes y satélites rezongaron:
+—A su salud.
+Ikey absorbió delirantemente el néctar. Todos bebieron.
+El sastrecillo entregó al mozo su jornal de la semana.
+—Justo —dijo el hombre, alisando los arrugados billetes.
+La multitud volvió a congregarse en torno a Billy. Alguien hablaba de los resultados obtenidos por Brannigan en la Undécima. Ikey pasó un rato acodado en el mostrador y después se fue.
+Avanzó por Hester Street, subió Chrystie y bajó hasta Delancey, donde vivía. Allí las mujeres de su familia —una madre llena de granos y tres hermanas desaliñadas— se precipitaron hacia él, en demanda de su salario. Y, cuando hubieron oído su confesión, prorrumpieron en chillidos y vituperios, usando la lamentable retórica del barrio.
+Pero, incluso cuando se lanzaron sobre él y le golpearon, Ikey no salió de su trance de extática alegría. Su cabeza se movía en las nubes y su carro estaba uncido a la máxima estrella. Comparado con lo que había conseguido, el derroche de su salario y los improperios de las mujeres se le antojaban escasísima cosa.
+Había estrechado la mano de Billy McMahan.
+Billy McMahan tenía una esposa que en sus tarjetas de visita acreditaba orgullosamente tal calidad. Pero aquellas tarjetas implicaban cierta vejación porque, aunque pequeñas, no tenían acceso a determinadas casas. Billy McMahan era un dictador de la política, una torre amurallada en los negocios, un Gran Mogol temido, obedecido y adorado por sus secuaces. Se enriquecía paulatinamente, los periódicos diarios dedicaban una docena de reporteros a seguirle y recoger sus sabias palabras, y hasta se le había honrado con una caricatura en la que se le mostraba conduciendo al Tigre atraillado.
+Pero el corazón de Billy sangraba a veces dentro de su pecho. Existía cierta raza de hombres a los que miraba con ojos cual los de Moisés ante la Tierra Prometida. También él, como Ikey Snigglefritz, tenía ideales, y, a veces, sintiéndose incapaz de satisfacerlos, los bocados de su éxito le dejaban en la boca un feo regusto a polvo y a cenizas. Y la esposa de Guillermo McMahan tenía una expresión de perenne disgusto en su rostro llenito, aunque lindo, y hasta el mismo frufrú de la seda de su falda sonaba como un suspiro.
+Había una distinguida concurrencia en el salón comedor de una afamada hostelería en la que había entrado el matrimonio, y donde la elegancia social acostumbraba a desplegar sus encantos.
+Billy y su mujer casi no hablaban, pero los accesorios de su ornato podían prescindir del aderezo de la palabra. Pocos brillantes superaban en esplendor a los de la mujer de McMahan. El camarero llevaba a su mesa los más costosos vinos. Difícilmente se hubiera encontrado una figura más impresionante que la de Billy, vestido de etiqueta y con el rostro recio y cuidado.
+Cuatro mesas más allá de la suya se sentaba, solo, un hombre alto, esbelto, de unos treinta años, con los ojos melancólicos y pensativos, una barba a lo Van Dyke y unas manos singularmente blancas y delgadas. Sobre su mantel tenía un plato de filet mignon, tostada seca y una botella de Apollinaris. Aquel hombre era Cortland Van Duyckink, que poseía unos ochenta millones y un puesto sobresaliente en los más exclusivistas círculos de la alta sociedad.
+Billy McMahan no hablaba a nadie, porque a nadie conocía. Y Van Duyckink clavaba los ojos en el plato, porque sabía que todos ansiaban cambiar un saludo con él. Una sencilla sonrisa suya confería el espaldarazo y el prestigio de caballero, y él no deseaba crear una nobleza demasiado extensa.
+Y entonces Billy McMahan concibió y ejecutó el más sobrecogiente y arrojado acto de su vida. Se levantó pausadamente, acercóse a la mesa de Van Duyckink y le tendió la mano.
+—Buenas noches, señor Van Duyckink —dijo—. He oído hablar de que se propone usted realizar algunas obras de asistencia social en pro de la gente pobre de mi distrito. Yo soy McMahan. Si los rumores que he oído tienen algun fundamento, me complacerá poder ofrecerle mi ayuda. Porque lo que yo aconsejo en aquel lugar es casi un decreto. ¿No le parece?
+Los ojos, un tanto entristecidos, de Van Duyckink se animaron. Levantóse también y estrechó la mano que se le ofrecía.
+—Muchas gracias por su oferta, señor McMahan —dijo con tono serio y profundo—. Me proponía, en efecto, hacer algo de lo que usted menciona y tendré sumo gusto en contar con su ayuda. Me complace mucho haberle conocido.
+Billy volvió a su mesa. Temblábale el hombro. La realeza le había dado la acolada. Un centenar de ojos se fijaban en él con envidia e inédita admiración. La esposa de Billy estaba trémula y sus joyas se agitaban hasta casi hacer daño a los ojos. Y en muchas mesas se notaba que de pronto habían recordado a McMahan y deseaban su trato. Desde todas partes se le dirigían sonrisas e inclinaciones de cabeza. Le envolvía una aura de ofuscante grandeza. Su frialdad compañera le abandonó.
+Llamó al camarero y señaló con el dedo a los concurrentes.
+—Sirva vino a todos —ordenó—. ¡Vino para todos! Primero a aquellos tres que comen a la sombra de esas plantas. Dígales que es de parte mía. ¡Vino para todos, maldita sea!
+El camarero, en un cuchicheo, aventuró la opinión de que acaso no conviniese cumplir el encargo, en atención a la dignidad de la casa y costumbres imperantes en ella.
+—Entonces nada —concordó Billy—. No sé si procedería enviar una botella a mi amigo Van Duyckink.
+—Pudiera no parecer correcto.
+—¿No? Pues entonces haré que se sirva vino a cántaros en el café esta noche. Habrá toneles enteros para todo el que llegue allí antes de las dos de la madrugada.
+Billy McMahan era feliz.
+Había estrechado la mano de Cortland Van Duyckink.
+El amplio automóvil pintado de color gris claro, con relucientes metales, resultaba fuera de tono al moverse lentamente entre carros de mano y camiones de caballos, en la parte baja de los barrios del este. Y también fuera de lugar parecía allí Cortland Van Duyckink, con su rostro aristocrático y sus manos finas y blancas, mientras conducía cuidadosamente el coche entre las turbas de mal vestidos arrapiezos. Le acompañaban, no menos fuera de ambiente, la joven Constancia Schuyler, de fina y ascética belleza.
+—Cortland —suspiró—, es triste que haya seres humanos viviendo en semejante miseria y desidia. Es muy noble en ti dedicar tu tiempo y tu dinero a mejorar la condición de esta pobre gente.
+Van Duyckink dirigió a la joven la mirada de sus ojos solemnes.
+—Poco puedo hacer yo —repuso con tristeza—. El problema es vasto y sólo puede resolverlo la sociedad. Pero ni siquiera un esfuerzo individual debe considerarse inútil. En esta calle, Constancia, he establecido unos comedores gratuitos donde puede comer todo el que tenga hambre. Y en esa otra vía está un grupo de edificios que voy a comprar y derribar, sustituyéndolos por otros que no sean focos infectivos y hasta trampas mortales en caso de incendio.
+El automóvil avanzaba por la calle Delancey. Niños descalzos, despeinados y sin lavar se apartaban al paso del vehículo. Duyckink frenó ante una horrible construcción de ladrillos, fétida y sucia.
+Van Duyckink dirigió una mirada a las inclinadas paredes. Por la escalera del edificio descendía un joven pálido, de pecho angosto, que parecía epitomizar toda la degradación de la calle.
+Con repentino impulso Van Duyckink tendió la mano a lo que podría, con toda razón, considerarse un reproche viviente dirigido a la riqueza.
+—Quiero conocerles de cerca —dijo con sinceridad—. Voy a ayudarles en todo lo que pueda. Hemos de ser amigos.
+Cuando el automóvil tornó a ponerse en despaciosa marcha Van Duyckink sentía cierta calidez en el corazón. Se notaba casi dichoso.
+Había estrechado la mano de Ikey Snigglefritz.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

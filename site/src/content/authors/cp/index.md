@@ -7,4 +7,89 @@ tags:
   - index
   - cp
 ---
-¿Quién es Cesare Pavese? ![Cesare Pavese](/assets/images/cp.jpg) Cesare Pavese, considerado uno de los principales autores del siglo siglo XX, es un narrador, poeta, crítico literario y traductor italiano. Pevese centró grandes esfuerzos en editar y traducir al italiano a grandes autores norteamericanos e británicos, que entonces eran nuevos para el público italiano, como Defoe, Dickens, Melville, Sherwood Anderson, Steinbeck, Hemingway, Faulkner y Joyce. Pavese nació en Santo Stefano Belbo (un pueblo donde había nacido su padre y donde la familia regresaba cada año para las vacaciones de verano), en la provincia de Cuneo, Italia, el 9 de septiembre de 1908. Su padre era procurador de tribunal en Turín. Cuando Pavese tenía seis años, en 1914, murió su padre, y su muerte le afectó considerablemente. Pavese asistió al Liceo Classico Massimo d’Azeglio, en Turín, para su educación intermedia y secundaria. Desde su adolescencia, Pavese estaba particularmente interesado en la literatura de lengua inglesa, así que cuando asiste la Universidad de Turín, estudia filología inglesa, graduándose con una tesis sobre la poesía de Walt Whitman. Tras su licenciatura, Pavese se dedica por completo a traducir a numerosos escritores norteamericanos y británicos, así como a escribir crítica literaria. Pavese se movía en círculos antifascistas, así que en 1935 fue arrestado y condenado por haber conservado unas cartas comprometedoras de una activista comunista de la que se había enamorado. Después de unos meses en prisión fue enviado al “confino”, exilio interno en el sur de Italia, la sentencia comúnmente utilizada para los culpables de delitos políticos menores. Después del exilio, Pavese publica Lavorare stanca (1936), un importante libro de versos que había empezado en 1928: los poemas eran innovadores y, junto a sus obras narrativas, empiezan a atraen a un público muy amplio. Un año después, Pavese regresa a Turín, donde empieza a trabajar para el editor izquierdista Giulio Einaudi, como editor y traductor. Pavese vivía en Roma cuando fue llamado al ejército fascista, pero debido a su asma pasó seis meses en un hospital militar. Desde el 8 de septiembre de 1943 hasta la liberación de Italia, Pavese se refugia, primero en casa de su hermana, y luego en un colegio de Somascos en Casale Monferrato, sin contacto con los acontecimientos que sacuden Italia, mientras muchos de sus amigos entran en la Resistencia. Narra estas experiencias en La casa in collina, 1949 (que escribe entre 1947 y 1948). En esta novela se explora el conflicto entre su elección y la de sus amigos, muchos de los cuales murieron. Al terminar la guerra, sin embargo, quizá para compensar su anterior elección, Pavese entra en el Partido Comunista Italiano y trabaja en el periódico del partido, L’Unità. Hacia el final de su vida, solía visitar Le Langhe, el área donde nació, donde encontraba un gran consuelo. En 1950, ganó el Premio Strega por La Bella Estate, que comprendía tres novelas: La tenda, escrita en 1940; Il diavolo sulle colline (1948) y Tra donne sole (1949). Un desengaño amoroso que sufre tras la ruptura de una relación sentimental, el trauma generado por el temprano fallecimiento de su padre, la muerte de varios de sus amigos durante la Segunda Guerra Mundial y su malestar existencial lo llevan al suicidio el 27 de agosto de 1950, en la habitación de un hotel en Turín (imitando la última escena de Tra Donne Sole, su penúltimo libro), con una sobredosis de barbitúricos. Tenía 41 años. ÍNDICE: Narrativa: Tutti i racconti (2002) —Tierra de exilio —Gafe —Viaje de bodas —Misoginia —El intruso —Las tres muchachas —Noche de fiesta —Amigos —Tormenta de verano —Granujas —El ídolo —Primer amor —Suicidios —El chalet en la colina —El campo de trigo —Fidelidad —Casa en el mar —Los mendigos —Vocación —El Capitán —La familia —El nombre —La libertad —Final de agosto —Piscina en día laborable —La aventura —El prado de los muertos —La chaqueta de cuero —Wanda —Sueños en el campo —El maizal —La Langa —Una certeza —El ermitaño —En el café de la estación —El grupo —Viejo oficio —La gitana —Insomnio —Despertar —Don Pietro —El tiempo —La ciudad —Vespa —El verano —La sangre —El Castello —El mar —Las casas —Las fiestas —Historia secreta —La viña —El coloquio del río —Nudismo —El fugitivo —Años —Trabajar es un placer Novelas: —El diablo sobre las colinas (1948) —Entre mujeres solas (1949) —La playa (1958) 
+
+## ¿Quién es Cesare Pavese?
+
+![Cesare Pavese](/assets/images/cp.jpg)
+
+Cesare Pavese, considerado uno de los principales autores del siglo XX, es un narrador, poeta, crítico literario y traductor italiano. Pavese centró grandes esfuerzos en editar y traducir al italiano a grandes autores norteamericanos e británicos, que entonces eran nuevos para el público italiano, como Defoe, Dickens, Melville, Sherwood Anderson, Steinbeck, Hemingway, Faulkner y Joyce.
+
+Pavese nació en Santo Stefano Belbo (un pueblo donde había nacido su padre y donde la familia regresaba cada año para las vacaciones de verano), en la provincia de Cuneo, Italia, el 9 de septiembre de 1908. Su padre era procurador de tribunal en Turín. Cuando Pavese tenía seis años, en 1914, murió su padre, y su muerte le afectó considerablemente. Pavese asistió al Liceo Classico Massimo d’Azeglio, en Turín, para su educación intermedia y secundaria.
+
+Desde su adolescencia, Pavese estaba particularmente interesado en la literatura de lengua inglesa, así que cuando asiste la Universidad de Turín, estudia filología inglesa, graduándose con una tesis sobre la poesía de Walt Whitman. Tras su licenciatura, Pavese se dedica por completo a traducir a numerosos escritores norteamericanos y británicos, así como a escribir crítica literaria.
+
+Pavese se movía en círculos antifascistas, así que en 1935 fue arrestado y condenado por haber conservado unas cartas comprometedoras de una activista comunista de la que se había enamorado. Después de unos meses en prisión fue enviado al “confino”, exilio interno en el sur de Italia, la sentencia comúnmente utilizada para los culpables de delitos políticos menores. Después del exilio, Pavese publica *Lavorare stanca* (1936), un importante libro de versos que había empezado en 1928: los poemas eran innovadores y, junto a sus obras narrativas, empiezan a atraen a un público muy amplio.
+
+Un año después, Pavese regresa a Turín, donde empieza a trabajar para el editor izquierdista Giulio Einaudi, como editor y traductor. Pavese vivía en Roma cuando fue llamado al ejército fascista, pero debido a su asma pasó seis meses en un hospital militar. Desde el 8 de septiembre de 1943 hasta la liberación de Italia, Pavese se refugia, primero en casa de su hermana, y luego en un colegio de Somascos en Casale Monferrato, sin contacto con los acontecimientos que sacuden Italia, mientras muchos de sus amigos entran en la Resistencia.
+
+Narra estas experiencias en *La casa in collina*, 1949 (que escribe entre 1947 y 1948). En esta novela se explora el conflicto entre su elección y la de sus amigos, muchos de los cuales murieron. Al terminar la guerra, sin embargo, quizá para compensar su anterior elección, Pavese entra en el Partido Comunista Italiano y trabaja en el periódico del partido, *L’Unità*. Hacia el final de su vida, solía visitar Le Langhe, el área donde nació, donde encontraba un gran consuelo.
+
+En 1950, ganó el Premio Strega por *La Bella Estate*, que comprendía tres novelas: *La tenda*, escrita en 1940; *Il diavolo sulle colline* (1948) y *Tra donne sole* (1949). Un desengaño amoroso que sufre tras la ruptura de una relación sentimental, el trauma generado por el temprano fallecimiento de su padre, la muerte de varios de sus amigos durante la Segunda Guerra Mundial y su malestar existencial lo llevan al suicidio el 27 de agosto de 1950, en la habitación de un hotel en Turín (imitando la última escena de *Tra Donne Sole*, su penúltimo libro), con una sobredosis de barbitúricos. Tenía 41 años.
+
+## Índice
+
+#### Narrativa
+
+### *Tutti i racconti* (2002)
+- Tierra de exilio
+- Gafe
+- Viaje de bodas
+- Misoginia
+- El intruso
+- Las tres muchachas
+- Noche de fiesta
+- Amigos
+- Tormenta de verano
+- Granujas
+- El ídolo
+- Primer amor
+- Suicidios
+- El chalet en la colina
+- El campo de trigo
+- Fidelidad
+- Casa en el mar
+- Los mendigos
+- Vocación
+- El Capitán
+- La familia
+- El nombre
+- La libertad
+- Final de agosto
+- Piscina en día laborable
+- La aventura
+- El prado de los muertos
+- La chaqueta de cuero
+- Wanda
+- Sueños en el campo
+- El maizal
+- La Langa
+- Una certeza
+- El ermitaño
+- En el café de la estación
+- El grupo
+- Viejo oficio
+- La gitana
+- Insomnio
+- Despertar
+- Don Pietro
+- El tiempo
+- La ciudad
+- Vespa
+- El verano
+- La sangre
+- El Castello
+- El mar
+- Las casas
+- Las fiestas
+- Historia secreta
+- La viña
+- El coloquio del río
+- Nudismo
+- El fugitivo
+- Años
+- Trabajar es un placer
+
+#### Novelas
+- *El diablo sobre las colinas* (1948)
+- *Entre mujeres solas* (1949)
+- *La playa* (1958)

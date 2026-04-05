@@ -1,0 +1,121 @@
+---
+layout: story
+title: El obstáculo
+slug: elobsta
+source: https://www.literatura.us/onetti/elobsta.html
+tags:
+  - elobsta
+  - onetti
+---
+Juan
+Carlos Onetti
+(Montevideo, 1909 - Madrid,
+1994)
+El obstáculo
+Originalmente publicado en La Nación (Buenos Aires), 1935
+Se fue deteniendo con lentitud, temeroso de que la cesación brusca de los pasos desequilibrara violentamente el conjunto de ruidos mezclados en el silencio. Silencio y sombras en una franja que corría desde el rugido sordo de la usina iluminada hasta las cuatro ventanas del club, mal cerradas para las risas y el choque de los vasos. También, a veces, los tacazos en la mesa de billar. Silencio y sombras acribillados por el temblor de los grillos en la tierra y el de las estrellas en el cielo alto y negro.
+Ya debían ser las diez, no había peligro. Dobló a la derecha y entró en el monte, caminando con cuidado sobre el crujir de las hojas, mientras sostenía el saco contra la espalda, los brazos cruzados en el pecho. Oscuro y frío; pero sabía el camino de memoria y la boca entreabierta le iba calentando el pecho, deslizando largas pinceladas tibias bajo la listada camisa gris.
+Al lado de la tranquera, pintada de cal, se detuvo nuevamente. Allí empezaba la vereda de ladrillos cuadriculada en blanco que iba hasta la Dirección bajo una peligrosa luz de faroles. Si me ven, digo que no podía dormir. No me van a decir nada. Que salí a tomar aire. Boleó una pierna sobre el tejido, pero un pensamiento lo aquietó, montado en el alambre. ¡Qué cambiado todo! Hace diez años… No pensó más; pero vinieron rápidos los recuerdos, nítidos y familiares a fuerza de ser siempre los mismos… La mañana de verano en que lo trajeron a la escuela… El despacho del director, el hombre gordo que lo mira con cariño atrás de los lentes y lo palmea.
+—Tenés cara de bueno, negrito —y riendo porque él era tan pequeño y débil—. Vos no te vas a escapar, ¿verdad?
+Giró la otra pierna y quedó sentado. Y no me escapé, nomás. Pero cuando lo jubilaron y vino el alemán. Sonrió… Cuando trajeron al alemán… Se balanceó en el alambre, mirando la huida en el atardecer, el refugio de los cañaverales, los hombres inclinados encima suyo, turnándose para golpearlo.
+Hijos de…
+Tembló al ruido de la voz y siguió caminando rápidamente entre los árboles. Hijos de perra. Y todos eran iguales. Tropezó en un tronco y miró alrededor, abriendo los ojos. La zanja, el tronco de eucalipto, la lanza del viejo portón… No, más adelante. Siguió. El caso era recordar cuándo pusieron la vereda de ladrillos y los faroles y el alambrado. Estaba seguro de que habían hecho todo junto con el nuevo edificio de la Dirección: pero ahora le parecía ver al profesor de gimnasia mirando trabajar en la vereda. Y como el profesor había venido mucho después de inaugurado el nuevo edificio… Olió el tabaco y se paró, abrazado de espaldas a un árbol… Sí, allí estaban. Veía enrojecerse suavemente las caras junto a los cigarrillos. Silbó despacio, dos cortos y uno largo. Le contestaron y cruzó en línea recta hasta unirse con los otros que esperaban en el suelo.
+—Hola, Negro.
+—Salú.
+—¿Recién llegas?
+Barreiro estaba sentado, agarradas las manos sobre las rodillas. El Flaco fumaba estirado en el pasto, cara al cielo, plantado el cigarrillo entre los labios. Los miró distraído y después hacia las ventanas del club. Vaya a saber a qué horas se cansarán de jugar. Ya en el suelo siguió pensando con agrado en el salón del club donde se elevaban las voces entre el flotante humo azulado, en los blancos sillones de cuero y el enorme retrato encima de la chimenea. Y la vereda de ladrillos y la fila de luces colgando sobre la calle no estaban cuando hicieron la casa del director. Seguro; pero, sin embargo, seguía viendo al profesor de gimnasia, con el sombrero de paño blanco y las manos en los bolsillos, diciendo alguna cosa a los hombres que construían la vereda. Encogió los hombros y echó la gorra sobre los ojos.
+—Dame un cigarrillo.
+Trabajosamente, el Flaco introdujo una mano en el bolsillo del pantalón, le alargó el paquete y volvió a quedarse como antes, el pucho en un lado de la boca, los ojos entrecerrados mirando para arriba. Barreiro le alcanzó fuego:
+—¿Y? ¿Esta noche, nomás?
+Encendió y tragó con fuerza, calentándose a la humada áspera.
+—Sí; en cuanto apaguen las luces del club salimos.
+—¿Y no sería mejor cruzar la granja derecho hasta la vía?
+—No, vamos por el arroyo.
+El otro cruzó nuevamente las manos sobre las piernas… Cuidadosamente, el Flaco tomó el cigarrillo y lo tiró lejos. Dobló la cabeza para mirar extinguirse la brasa. Después escupió, cruzó las manos bajo la nuca y rió suavemente…
+—Mirá, Negro… Si al director se le ocurriera esta noche hacerte capataz de la usina. Y vos pasando hambre por ahí…
+Volvió a reírse mientras cruzaba las piernas.
+—No hay cuidado… Lo van a hacer capataz al adulón de Fernández. Se lo oí al ingeniero esta tarde.
+Barreiro lo miró con una sonrisa de simpatía:
+—Entonces… ¿te venís con nosotros?
+—Y claro… Ya me engañaron bastante.
+El Flaco volvió a reírse y, sin saber por qué, el Negro tuvo ganas de pisarle la cara; pero no dijo nada y siguió fumando, observando entre la niebla del humo los cuadriláteros amarillos en la fachada del club. Sería lindo estar adentro, sentarse en un sillón con los pies sobre la mesa y pedir algo fuerte para tomar. Hacer carambolas y carambolas, sin fallar nunca, hasta cansarse. Jugar a los naipes, él y el director contra el médico y el ingeniero. Una partida de truco en que las manos se le llenarían de flores de treinta y ocho. Pero más lindo que todo eso sería empezar a golpes con los empleados, las luces y las botellas. Hijos de perra…
+Entrando en su odio repentino, la risa previa del Flaco tenía algo de insulto personal. Esperó, apretando los dientes.
+—¿Sabes que Forchela está mal? Dio vuelta la cabeza rápido, mirando la cara pálida y maligna del otro.
+—¡Que reviente!
+El flaco volvió a reírse, ahora largamente, temblándole el pecho en sacudidas. Murmuró:
+—Qué modo tenés de tratar a tu…
+El Negro se incorporó de un salto, fija la mirada en la cara que iba a aplastar bajo el botín.
+—¿A mí qué, dijiste?
+No le importaba que lo dijeran; no le importaba decirlo él mismo. Pero sabía que el Flaco se burlaba a sus espaldas y lo sentía movido por un despecho amargo.
+—Vamos, vamos… No se van a pelear ahora —intervino Barreiro, temeroso de que la disputa hiciera fracasar la fuga—. Yo estuve de tarde en el hospital. Forchela está en un delirio.
+Mordió el cigarrillo con rabia y clavó los ojos en las ventanas. Hasta las doce no se irían. Si el enfermero lo dejara entrar…
+Barreiro estiró los brazos, bostezando. Luego se acostó.
+—¿Por qué no te das una vuelta por el hospital?
+El otro subrayó roncamente:
+—Claro. Hay que despedirse de los amigos.
+El Negro caminó unos pasos, vacilando, tratando de adivinar el pensamiento de los otros. Dijo con fuerza:
+—¿Yo? Y a mí qué me importa… —Se puso el saco, agregando entre dientes—: Lo que si voy a dar una vuelta. Total, hasta las doce…
+Todavía esperó algo; un movimiento, una frase de protesta y desconfianza que le sirviera para afirmarse en sí mismo. Comprender por qué estaba ahora débil e inquieto. Pero no lo ayudaron o tuvo que irse otra vez entre los árboles, mirando con el ceño apretado las quietas hojas que de trecho en trecho lustraba suavemente algún farol colado entre las ramas.
+Hacía diez años. Todo estaba cambiado y el profesor de gimnasia gastaba plácidamente la mañana luminosa charlando con los albañiles. Detrás de los vidrios brillaban simpáticos, los ojos del director, mientras le golpea un hombro. «No te vas a escapar…».
+Sacudió la cabeza para sumergirla en otros pensamientos. Dentro de dos horas andarían corriendo por la tierra húmeda, resbalando entre los tubos forrados de las cañas. Buenos Aires. Pensó en la ciudad y quedó desconcertado, rascando la superficie áspera de la tranquera.
+Porque detrás del nombre estaban el bajo de Floret, los diarios vendidos en la plaza, la esquina del Banco Español, el primer cigarrillo y el primer hurto en el almacén. Estaba la infancia, ni triste ni alegre, pero con una fisonomía inconfundible de vida distinta, extraña, que no podía entenderse del todo ahora. Pero también estaba el Buenos Aires que habían hecho los relatos de los muchachos y los empleados, las fotografías de los pesados diarios de los domingos. Las canchas de fútbol, la música de los salones de tiro al blanco en Leandro Alem.
+Pensativo, pedaleaba en el alambre y una vibración se corría rápida en las sombras. No podía juntar las imágenes, comprender que la ciudad contenía ambas cosas. A veces, Buenos Aires era la gente rodeando el toldo rojo que ponían los sábados de tarde en San José de Flores; otras, una calle flanqueada de carteles a todo color y luces movedizas por donde pasaba la gente riendo y charlando en voz alta. Y siempre había, junto a la puerta cordial de la casa de tiro al blanco, un marinero rubio y borracho, con una rosa prisionera entre los dientes.
+Lo sacudió un ruido de pasos, y Barreiro, ya junto a él, no le dio tiempo para asustarse.
+—Mirá, Negro.
+Hablaba rápido, el cigarrillo en la boca, los puños clavados en la cintura, traduciendo oscuramente algo de resolución y desafío.
+—Te aviso que si vos te quedas, nosotros nos vamos a ir, igual.
+—Claro que nos vamos. Los tres. ¿A qué viene eso?
+Barreiro balanceó la cabeza y dejó de mirarlo.
+—No, por nada. Te decía, no más. Que igual nos vamos.
+El Negro encogió los hombros. Se atragantó con un montón de palabras y un odio feroz —incomprensible. Mientras Barreiro se asomaba por encima de la tranquera para mirar al club, él respiró con ansia, entornando los ojos.
+—Cuándo se irán esos…
+Barreiro se ajustó el cinto y se alejó sin ruido metiéndose lento en la oscuridad.
+El Negro miró hasta el fin la raya blanca del cuello que se iba deslizando bajo los árboles. Pasó las piernas por encima del alambre y siguió andando en la noche.
+Se detuvo, indeciso, aspirando el vago olor a desinfectante. Como un esqueleto de museo, la pérgola del pabellón A. Pensó que tendría que cruzar la gran sala y que los muchachos aún no dormidos lo verían pasar. Vergüenza de que supieran que había venido a esas horas a preguntar por Forchela. Las miradas de burla y los chistes groseros iban a enlazarle las piernas. Se apoyó en las maderas donde se enredaban los rosales. Una flor, la última, escondía los pétalos amarillentos contra el blanco listón. Ya que iban a reírse, que fuera él el primero. Cruzaría la sala con una sonrisa cínica, alta la rosa en la mano.
+La arrancó y subió los tres escalones. En el «hall», el enfermero leía sentado en un banco, mientras chupaba el mate con un ronquido.
+—Hola, Negro. ¿Qué hacés a estas horas?
+—Nada… Me mandaron a ver si estaban guardadas las herramientas y se me ocurrió…
+El enfermero se sacó los lentes y lo miró un rato, deteniéndose en la mano que apretaba la gorra y la flor. Pero, a pesar de la invitación abierta que había en la cara del muchacho, no se rió. Tal vez no supiera. Dejó el diario y se levantó con aire cansado.
+—¿Te dijeron de Forchela? Si querés verlo… Dificulto que pase la noche.
+Lo siguió entre las filas de camas, sin ver nada, colgando ahora la cara en una expresión idiota y escondiendo maquinalmente la rosa en el bolsillo del pantalón. De entre las mantas grises de las camas saltaron palabras hacia él; pero todas caían sin tocarlo, como vencidas en el aire por falta de peso.
+Solo en la salita, al pie de la cama, trató de luchar contra el sopor que lo envolvía. Se apoyó en los barrotes y sonrió a la cabeza de la almohada. El otro arregló las cobijas, tomó el pulso al enfermo y se incorporó diciendo:
+—Si no tenés qué hacer, quédate un rato. Yo estoy preparando un remedio en la farmacia.
+El Negro movió la cabeza asintiendo; pero no entendía nada, mirando aterrorizado la cara flaca y enrojecida que Forchela movía acompasadamente, ayudándose a respirar. Quedaba algo del muchacho en el pelo claro, en los dientes donde hacía una raya la luz, acaso en la frente redonda. Pero el resto era de la cara de un hombre viejo, de un hombre repugnantemente avejentado por el vicio.
+Miraba fijamente, hipnotizado por un extraño miedo, temeroso de hablar y de moverse, espantado ante la idea de que el otro fuera a despertar, a sonreírle con la boca encendida y marchita, a mirarlo también con sus ojos de vidrio.
+Hizo un esfuerzo y logró apartarse de la cama, dando unos silenciosos pasos por el suelo embaldosado. Inútilmente buscó algo en qué detenerse en la limpia pared de azulejos. Junto a la ventana entreabierta, el aire de la noche le sirvió para aferrarse a la idea de la fuga. Antes de la mañana estarían cruzando frente a las caballerizas, a dos cuadras del camino. Al amanecer, en la esquina del almacén… Pero en seguida se dio vuelta, temeroso de ofrecer la espalda, seguro de que si llegaba a descuidarse el moribundo iba a sonreírse, a levantar la cabeza, los párpados, las flacas manos crispadas. Cosas frías y terribles porque la muerte había entrado ya en su cuerpo y cualquier movimiento podría derramarla en el cuarto.
+Se acercó a la cama y descolgó el cartón. Nombre: Pedro Panon. Argentino. Diagnóstico. No entendía las extrañas palabras trazadas en letra redonda ni la zigzagueante línea negra que mostraba la fiebre. Entonces suspiró, juntando las cejas, tranquilizado en la cobardía de poder jugar a que estaba absorto en la indecisa línea quebrada, analizando cuidadosamente el estado del enfermo. Nada más que un momento; porque en seguida intuyó un significado nuevo y angustioso en el nombre escrito en el cartón. El nombre que designaba al cuerpo inmóvil en la cama y que, sin embargo, ya no era Pedro Panon ni nadie. Volvió a colgar el cuadro, lleno el pecho de una inquietud implacable, moviendo los ojos como un animal en peligro. Suspiró y se fue acercando a la cabeza.
+Sí; era necesario tener el valor de caminar hasta que la cabeza quedara debajo de sus ojos y mirarla atentamente, con fría curiosidad. Así, fuerte en su misterio, la cara le estaba haciendo una invisible mueca de llamado en la pieza silenciosa. Había que ir y ver.
+Tomó confianza al reconocerlo con mayor nitidez; la frente y también los ojos. Hasta llegó a sonreírle e insinuar una caricia con la mano. Pero de pronto sintió que era preferible no ver nada de la cara del muchacho en aquella a la que la sábana cercenaba el mentón. Era monstruoso comprobar que los rasgos que aún resistían a la enfermedad, los que seguían siendo de su amigo, estaban unidos en este rostro a rasgos extraños y repugnantes. Y ya nunca podrían separarse, fundidos para siempre unos con otros en el calor de la fiebre. Reculó para irse; entonces la cara de viejo de la almohada se movió apenas hacía los lados, paralizándolo. Lo oía respirar más ligero por la nariz temblorosa, mientras que dos líneas de saliva se estiraban en las esquinas de la boca. Ahora ya no podía irse. Encogió el cuerpo hasta sentarse en la silla de hierro, juntas las manos sobre el vientre, y quedó mirando quietamente el flaco perfil, echada hacia adelante la rapada cabeza.
+—¿Qué tal? ¿Sigue tranquilo? Vengo en seguida.
+Se borró de la puerta la túnica blanca del enfermero. Acomodó el cuerpo en la silla, otra vez solo con la cara angulosa en la almohada, comprendiendo de golpe que era inútil seguir luchando, que estaba preso en la salita del moribundo, que no se iría aquella noche ni nunca. Barreiro y el Flaco resbalarían en la noche hacia los pajonales del río, alcanzarían los potreros antes del amanecer y el sol los iba a encontrar lejos, caminando velozmente por la carretera. Y a la noche entrarían en la ciudad del marinero borracho, pasearían por la calle de luces saltarinas. Él no podía irse; tenía que asistir hasta el final el rito misterioso de la muerte.
+Se irguió, mirando siempre la roja nariz del enfermo, la baba de la boca torcida. Mordió lentamente el insulto más sucio y un pensamiento le barrió la cara como una sombra de sonrisa. La imagen de los otros, libres, corriendo encorvados por el campo anochecido, le quemaba tenaz en el pecho.
+—A mí no me van…
+En el «hall» se cruzó con el enfermero. Murmuró algo y saltó los escalones. Empezó a trotar por el camino de tierra, mirando fijo las ventanas del club todavía amarillas de luz.
+Seguía mirando la cabeza cuando ya la luz de la mañana extendía en los vidrios azulosos paños. Estaba más pálida y el aire salía y entraba pausadamente, sin molestarla, con un tenue silbido. También se había hecho más pesada y ahora se hundía hasta las orejas en el hueco de la tela, como si la nuca hubiera empleado la noche en un tenaz trabajo de excavación. Y la enfermedad en retirada le iba mostrando nuevamente la cara familiar del muchacho, a la que la luz intensa de la mañana concluía de limpiar las manchas de la fiebre.
+—Buenos días. ¿Cómo sigue el enfermo?
+El traje gris y los lentes de oro del director. Era extraño que no hubiera oído el automóvil. Atrás, un montón de caras de empleados. Alguien apagó la luz ya inútil. El enfermero, un momento en la puerta. Entre las nubes del sueño, ya casi insoportable, los vio rodear la cama e inclinarse, mientras hablaban en voz baja. Por la ventana entraba una línea de aire que hacía estremecer el cartón de la quebrada línea negra y un ruido de pasos veloces. Entró el médico, abrochándose la túnica, orillándole en el pelo gruesas gotas de agua. Tomó un rato entre los dedos la flaca muñeca caída sobre la colcha. Luego levantó un párpado de la cabeza, que seguía emblanqueciendo. No recordaba si el médico había dicho «es triste» o «está listo» al director, que se acariciaba la boca con dos dedos, inclinada la cabeza sobre el pecho. La levantó y se dirigió a él, poniéndole una mano en el hombro.
+—Quiero darte las gracias; te has portado como un hombre. Hace una hora los encontramos, entre las cañas del río.
+Hizo una pausa. El Negro aprovechó para gozar con la idea de la paliza que se habrían llevado los otros y las que los esperaban, durante unas cuantas noches, en la celda del pabellón correccional.
+—Además, ha sido muy noble tu actitud al no querer acostarte para cuidar a tu pobre compañero. Yo he impuesto aquí una disciplina de hierro porque era necesario. Pero también sé premiar a los que se lo merecen. Acabo de hablar con el ingeniero. El puesto de capataz en la usina es tuyo. Empezarás a trabajar el lunes. Y ahora es necesario que te vayas a dormir, que buena falta te hace.
+El Negro dijo «gracias» y sonrió confuso. Los empleados no sabían si destinar sus caras endurecidas de importancia al cuerpo de la cama, a la fuga que habían impedido o a la generosidad del director. Se fue pensando que éste hablaba como el cura, y, ya en la puerta, saludó al día con un rabioso:
+—¡Qué hijo de perra!
+¡Qué hijo de perra!, murmuró sin saber por quién, mientras se levantaba apretándose los riñones doloridos. Los otros iban más adelante mezclándose por momentos con la noche que caía rápida. Sobre el cielo ennegrecido, los cuerpos, prolongados en las herramientas de trabajo, hacían extraños dibujos retintos. El guardián vigilaba la fila en regreso, recorriéndola a caballo, alzando el grueso rebenque que colgaba de la muñeca.
+El Negro volvió a agacharse entre las ruedas buscando el por qué del tractor descompuesto. Las manos engrasadas tanteaban el frío del hierro. Me parece… Ya es de noche y no tenemos farol. Volvió a verse, camino del cementerio, medio cuerpo endurecido por el peso del ataúd. Ni que estuviera relleno de plomo. Todo el día sin dormir. Al recuerdo, volvió a clavársele la punzada en los riñones. Movió las caderas y, trabajosamente, aflojó una tuerca con la pinza. Y después los discursos, de pie en el frío, muerto de cansancio, idiotizado de sueño. El brazo se alargó, regresando con el cortafrío. Hizo palanca, empujando con todas las fuerzas. Inútil. Entonces cerró los ojos, desolado, inmóvil en cuatro patas junto a la cuchilla de acero de la máquina. Y lo peor no era el cansancio ni el sueño, sino aquella sorda angustia que se revolvía lenta en su pecho desde ayer. Aquello que lo ahogaba sin un momento de tregua y que le era imposible conocer.
+El aliento cálido del caballo le acarició la nuca y la voz recia cayó como un chorro.
+—¿Y a vos qué te pasa? ¿Todavía no pudiste arreglar eso?
+Contestó sin moverse:
+—No sé. Sin luz…
+Oyó que el otro desmontaba. Sólo entonces abrió los ojos y se incorporó.
+—Me parece que no es la tuerca. Habrá que sacar la cuchilla.
+El otro se acuclilló, doblando la cabeza para ver mejor. El Negro lanzó los ojos soñolientos hacia el fondo del paisaje, donde los camaradas no eran ya más que una nube negra y larga. Luego miró hacia abajo. Fue entonces que se aquietó la terca angustia en el pecho y una paz enorme entró violentamente en su alma. Ahora todo estaba claro y sencillo; y aunque ni a sí mismo hubiera podido explicar la causa de su repentina dicha, sabía por fin qué era necesario hacer. Como si alguien, invisible en el quieto anochecer helado, le derramara la verdad en los oídos.
+El hombre rezongó entre los negros radios de las ruedas. Le acercó la mano en que se balanceaba como una muestra el rebenque coronado en plata.
+—¿Tenés un fósforo?
+Fue una simple alegría la que lo afirmó en las piernas, apelotonándole los músculos del brazo.
+—Si. Tome.
+El cortafrío brilló en un rápido viaje circular y golpeó en la cabeza doblada del hombre, junto a la curva oscura de la patilla. No hubo necesidad de más porque el cuerpo se aquietó bajo la máquina, ovillado como para que el calor se le fuera despacio, avaramente. Abrió la mano y la herramienta desapareció en el suelo. Se restregó lentamente contra la tela del pantalón el dorso de la mano que algo acababa de salpicar. Levantó la cabeza al cielo dilatado y entonces la noche se precipitó incontenible en el paisaje, vibrando misteriosa en los astros, en los perros lejanos y en el ruido de clavijas de los charcos.
+Venía la noche. Rápidamente se apartó del tractor y fue a su encuentro. Corrió en línea recta, ágil y alegre, seguro de que la angustia quedaba allí, enfriándose sobre la negra tierra roturada. La gran noche incomprensible y secreta venía veloz en su busca y se deslizaba bajo su cuerpo incansable. Zambulló entre los hilos del alambrado y siguió corriendo. Saltó la zanja con un fragmentado espejo en el fondo y continuó su carrera. Ahora los pies golpeaban locamente en el pasto humedecido, atrayendo vertiginosamente el ombú junto al pozo. Corrió unos metros en arco y tomó a la derecha, arrastrando la larga sombra de luna que acababa de nacerle. El cansancio le sacudía feroz el pecho, abriéndole los labios entre los dientes apretados; pero siguió corriendo, corriendo, apilando minutos y metros, como si aquella felicidad salvaje que se le había aparecido bruscamente lo llevara veloz de la mano, hendiendo la noche de hielo. Entró en el maizal a la carrera: tropezó en seguida, perdiéndose, boca abajo en la sombra.
+Giró con los brazos en cruz. Un ardiente dolor en la mejilla lo hizo despertar y abrió los ojos a una pequeña luna redonda, alta ya en el cielo. Se incorporó con cuidado y escuchó. Nada. De rodillas, sacó la cabeza y miró alrededor. Nadie. Se puso de pie y continuó caminando, un poco rengo, temblando a sus espaldas la pequeña sombra circular. Entre los alambres que bordeaban el camino lo fijó un canto de gallo, trepando entrecortado en la noche. Luego, jovialmente, tomó impulso en el alambrado y pasó la zanja. Como una pálida lengua bajo la luna, el camino se iba en la noche. Sacó la mano del bolsillo con la rosa seca y áspera; la tiró a un costado, lejos, restregándose luego los dedos entre sí para separar los restos de la flor. Después apresuró el paso y se fue por el camino, en busca de la noche próxima, que le aguardaba una espera de diez años en la calle enjoyada de luces, con el reguero de detonaciones del salón de tiro al blanco, las grandes risas de sus mujeres, el marinero rubio y tambaleante.
+1935
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,386 @@
+---
+layout: story
+title: Luna de miel, sol de hiel
+slug: am_miel
+source: https://www.literatura.us/idiomas/am/am_miel.html
+tags:
+  - am_miel
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+Luna de miel, sol de hiel (1951)
+(“Luna di miele, sole di fiele”)
+Originalmente publicado en la revista Paragone [Firenze: Sansoni Editores],
+Mensile di Arte Figurativa e Letteratura, Núm. 24 (diciembre de 1951);
+Racconti (1927-1951)
+(Milán: Bompiani, 1952, 697 págs.)
+Habían elegido Anacapri para la luna de miel porque Giacomo había estado allí unos meses antes y deseaba regresar con su mujer. Giacomo había estado en primavera y recordaba el aire fresco y puro y el sol dorado sobre miríadas de flores que rondaban los insectos, ante el mar violeta. Pero cuando llegaron a la isla todo resultó muy distinto. Estaban a mediados de agosto, en un verano bochornoso, con el cielo nublado por los lívidos vapores de la canícula; y en Anacapri no encontraron flores, ni aire puro, ni el mar violeta alabado por Giacomo. Los senderos serpenteantes de la campiña estaban cubiertos por una harina amarilla y áspera, el polvo de cuatro meses de sequía, sobre la que incluso los lagartos —que se deslizan tan levemente— dejaban un rastro profundo. Al mirar al campo se veían —sorprendentes en esa época del año— aquí y allá, frondas rojas y marrones o incluso árboles enteramente muertos por falta de agua. El aire, nutrido por el polvo de la tierra quemada, estaba inmóvil, tan seco que resultaba doloroso en la nariz, sin aromas marinos o florales, cargado del olor acre de los excrementos secos y las piedras caldeadas. En el mar, el hermoso color violado que hacía pensar en bancos de violetas flotantes a ras de agua, se había mudado en un gris espejeante donde el cielo del siroco reflejaba fastidiosamente su triste luz deslumbradora.
+—No me parece nada hermoso —dijo Simona, cuando se dirigieron, al día siguiente de su llegada, por el sendero que llevaba al faro—. No me gusta un pelo... En absoluto.
+Giacomo no contestó nada mientras la seguía a unos pasos de distancia. Ella había adoptado este tono descontento y quejumbroso desde el momento en que habían salido de la alcaldía romana donde se había celebrado la boda. Y Giacomo sospechaba que este tenaz mal humor, mezclado, según creía, con repugnancia física, no se refería tanto al lugar como a él mismo y a sus relaciones. Ella se quejaba de Anacapri, pensó, porque aún no se daba cuenta de que habría querido quejarse de él. Su matrimonio había sido una boda de amor, sí; pero de un amor consistente más en una voluntad de amar que en un verdadero sentimiento. Y, en efecto, lo que él había temido oscuramente desde el momento en que le puso el anillo en el dedo y le vio hacer una mueca de turbación y de arrepentimiento, había ocurrido: ella se había negado a entregarse a él la primera noche que durmieron en Anacapri, aduciendo el cansancio del viaje y el mareo de la travesía en barco. Así, hoy, segundo día después de la boda, ella seguía siendo tan virgen como la víspera.
+Mientras ella caminaba cansadamente, con la bolsa al hombro, entre los setos blancos de polvo, arrastrando los pies en el polvo del sendero, Giacomo la miró con intensidad casi dolorosa, esperando apoderarse de ella con una sola mirada amorosa, como recordaba haber hecho en el pasado con las mujeres a las que había amado. Pero pronto se dio cuenta de que esta mirada le fallaba; y de que, invenciblemente, al posarse sobre ella, sus ojos caían en una observación analítica, afectuosa y amable, sí, pero privada de la cualidad transfiguradora del sentimiento de amor. Ella no era alta, pero tenía piernas largas, de adolescente, y delgadas, sobre todo en los muslos, que con los shorts mostraban bajo la ingle casi una hendidura. Eran blancas estas piernas, de una blancura fría, casta, brillante. Ella tenía caderas estrechas, cintura esbelta y, como único rasgo mujeril, cuando se volvía para hablarle, bajo la camiseta se perfilaba un pecho lleno y bajo, parecido, sobre el frágil busto, a un peso añadido y extraño, difícil de llevar. También la cabellera pesaba, corta y compacta, sobre el fino cuello, cortada en torno a la nuca y las mejillas, de un rubio pesado y opaco. Como si hubiera advertido que la miraban, ella se detuvo de repente, preguntando:
+—¿Por qué me haces caminar delante?
+Y Giacomo vio los grandes ojos azules, de expresión inocente e infantil, la nariz pequeña, de aletas abiertas, y la boca también infantil, con el labio superior levantado. También el rostro, pensó, le resultaba en cierto modo ajeno, no transfigurado por el amor.
+—Iré delante yo —dijo resignado.
+Y pasó ante ella, rozándole adrede el pecho con el codo, para ver sí, por lo menos, experimentaba deseo. Luego continuaron caminando, él delante y ella detrás.
+El sendero corría pegado al monte Solaro, a lo largo de una albarrada de viejas piedras musgosas, tras la que se alineaban las hileras de las viñas. Hacia el otro lado, la mirada descendía por la pendiente del monte, hasta el mar, sobre una soledad campestre de viñedos y olivos, sin casas. Muy a lo lejos se veía el mar, ofuscado por los vapores del bochorno, gris y desierto. Sólo un gran pino, en la mitad del declive, con el verde sombrero entregado al aire, evocaba en parte la pureza idílica del paisaje en sus días mejores. Simona, detrás de Giacomo, caminaba lentamente, disminuyendo un poco la marcha a cada paso. Por último se paró y preguntó:
+—¿Falta mucho para llegar?
+Giacomo contestó ligeramente:
+—Pero si aún estamos al principio... Faltará una hora larga.
+—No puedo más —dijo ella enfurruñada, mirándolo casi con la esperanza de que él le propusiera renunciar a la excursión.
+Giacomo se le acercó y le pasó un brazo en torno a la cintura:
+—¿No puedes más de andar o no puedes más de mí?
+Ella contestó de inmediato, con un afecto resentido que lo asombró porque no se lo esperaba:
+—Pero ¿qué dices, bobo?... No puedo más de andar.
+—Dame un beso.
+Simona le soltó en la mejilla un rápido y pequeño beso, similar al picotazo de un pájaro, y dijo:
+—¡Hace tanto calor!... De buena gana volvería a casa.
+—Vamos al faro —contestó Giacomo—. ¿Qué quieres hacer en casa?... En cuanto lleguemos nos bañamos... es un sitio hermosísimo... Hay un gran faro blanco y rosa... ¿No quieres ver el faro?
+—Sí, pero quisiera llegar volando... sin caminar.
+—Hablemos —propuso él—. Digámonos cosas... De este modo no te fijarás en el camino.
+—No tengo nada que decir —contestó ella con tono doloroso, casi de llanto.
+Giacomo vaciló y después dijo:
+—Sabes muchas poesías de memoria... Recítame una poesía y yo te escucharé y así llegaremos sin darnos cuenta.
+La vio mirarlo con aire de vanidad halagada; en efecto, ella tenía una extraordinaria memoria para los versos. Preguntó, poco después, con tono infantil:
+—¿Qué quieres que te recite?
+—Un canto de Dante.
+—¿Cuál?
+Giacomo dijo, al azar:
+—El tercer canto del Infierno.
+Y Simona, consolada en parte, reanudó la marcha, esta vez delante de él, comenzando:
+Per me si va nella città dolente,
+Per me si va nell’eterno dolore,
+Per me si va tra la perduta gente.
+Tenía una voz de escolar pedante, que recita sin expresión, mecánicamente, con entonación afanosa y sollozante. Pero andaba y mientras andaba continuaba recitando los tercetos, parándose en las rimas, sin la menor referencia sintáctica o de significado, como suelen hacer los alumnos más celosos que inteligentes. De vez en cuando se volvía para mirarlo de pasada, graciosa, parecida en todo a una colegiala, con su gorrito blanco y azul colocado sobre los rubios cabellos. Recorrieron así un buen trecho del sendero y llegaron ante la tapia de un gran chalet. El muro, viejo y cubierto de hiedra, se veía desbordado por arriba por las frondosas ramas de un bosque de encinas. Simona concluyó:
+E caddi come l’uom cui sonno piglia.
+Y después, volviéndose, le preguntó:
+—¿Quién vive en este chalet?
+—Vivía Axel Munthe... Ha muerto ya.
+—¿Qué tipo era Axel Munthe?
+—Un perillán —dijo Giacomo. Y, para divertirla, añadió—: Fue el médico de la sociedad elegante romana a fines del siglo pasado... Para darte una idea de qué clase de hombre era podría contarte una anécdota que me aseguraron que era real... ¿Quieres oírla?
+—Oigámosla.
+—Un día —empezó Giacomo— fue a ver a Munthe una dama joven y bella, muy mundana y casquivana, que se lamentaba de mil males, todos imaginarios... Munthe la escuchó con deferencia, la examinó minuciosamente y comprendió que la dama no sufría de ninguna enfermedad... Entonces le dijo: “Tengo un remedio infalible, pero usted debe hacer todo lo que le ordene... Vaya a asomarse a esa ventana, con los codos fuera, en el antepecho”. La dama obedeció y Munthe, tomando carrerilla, le asestó una formidable patada en el trasero... Después la acompañó a la puerta, diciéndole: “Tres veces a la semana... Ya verá cómo dentro de un par de meses estará curada”.
+Simona no se rió, sino que observó con amargura, un instante después, mirando hacia la tapia:
+—Esa es la cura que yo necesitaría.
+Giacomo, sorprendido por el tono doloroso, se acercó a ella y le preguntó:
+—¿Por qué dices eso? ¿Qué se te ha metido en la cabeza?
+—Porque es cierto... Yo estoy un poco loca y tendrías que hacer conmigo lo mismo que Munthe con esa señora.
+—Pero ¿de qué estás hablando?
+—De lo que ha ocurrido ayer noche —contestó ella, con una franqueza que lo asombró.
+—Pero ayer por la noche estabas cansada y te habías mareado.
+—No era cierto —dijo ella, reanudando la marcha—. No estaba cansada y nunca me mareo... Sólo que tenía miedo..., eso es todo.
+—¿Miedo de mí?
+—No, de la cosa.
+Prosiguieron en silencio esta vez. La tapia se curvaba siguiendo las sinuosidades del sendero, levemente sesgada e inclinada hacia afuera como si apenas pudiera contener el tupido bosque que encerraba. Después la tapia se interrumpió y tuvieron ante los ojos un breve rellano herboso bajo el que la colina descendía de terraza en terraza hasta los promontorios áridos y solitarios de Río. En el rellano crecían, sutiles y trémulos, asfodelos de flores piramidales, de un rosa pálido, casi ceniciento. Giacomo cogió un par de flores y se las tendió a su mujer, diciéndole:
+—¡Mira qué bonitos!
+Ella los cogió, y el gesto que tuvo al llevárselos a la nariz le dio un aire virginal, como de comulgante que aspira el aroma de un lirio. Quizá se dio cuenta de este aspecto suyo porque súbitamente se apretó contra él, casi abrazándole, y le susurró en el oído:
+—No creas lo que te dije antes..., no tenía miedo... Debo habituarme, eso es todo... Pero esta noche...
+—¿Esta noche? —repitió él.
+—¡Te quiero tanto! —murmuró ella. Y luego añadió con esfuerzo, empleando una frase que no era suya, como una fórmula aprendida—. Esta noche seré tuya.
+Dijo estas palabras de prisa, como si se avergonzara más de la manera convencional de expresarla que de la cosa en sí, y le rozó la mejilla con un rápido beso. Pero cuando Giacomo, alentado por el tono y las palabras insólitas (era la primera vez que ella le decía que lo quería), hizo un ademán de abrazarla, ella añadió en voz alta:
+—Mira, ¿qué es aquello, allá en el mar? —apartándose al mismo tiempo con un vivo movimiento.
+Giacomo miró. Era una vela, perdida entre los vapores del siroco, en el mar desierto.
+—Una barca —dijo, descontento.
+La vio reanudar la marcha, casi de prisa, como si temiera que él intentara abrazarla de nuevo. Y de nuevo, al verla huir, sintió la punzada de aquella sensación de amor impotente, incapaz de apoderarse de una sola vez del objeto amado.
+—Pero esta noche no te portarás así —dijo, con los dientes apretados, alcanzándola.
+—Esta noche será distinto... —contestó ella con la cabeza gacha, sin mirarlo.
+Hacía realmente calor, pensó Giacomo; y en el cielo nublado, en el aire muerto, le parecía que estaba suspendida y amenazante la misma imposibilidad que oprimía sus relaciones con su mujer. Imposibilidad de la lluvia que habría traído la frescura, imposibilidad del amor. Lo asaltó casi una sensación de pánico, creyendo advertir, al mirarla una vez más, que su voluntad de amarla era enteramente mental, sin participación de los sentidos. Ella estaba delante de él, todo era claro y preciso, pero carente de la luz casi sagrada con que el amor rodea a la persona amada. Dijo repentinamente, sin reflexionar:
+—Quizás has hecho mal al casarte conmigo.
+Simona pareció aceptar de inmediato la discusión, como si también ella pensara lo mismo y no se hubiera atrevido hasta entonces a aludir a ello:
+—¿Por qué?
+Giacomo habría querido contestar: “Porque no nos amamos”; pero, en cambio, en el momento en que formulaba este pensamiento la frase se tradujo de modo muy distinto. Simona era comunista y trabajaba en las oficinas del Partido. Giacomo no lo era y aunque pretendía no atribuir la menor importancia a las ideas de su mujer, sin embargo no podía dejar de considerarlas, en las ocasiones más imprevistas, como un motivo de discordia, oscuro y siempre presente. De modo que se asombró a sí mismo oyéndose responder:
+—Porque entre nosotros hay demasiada diferencia de ideas.
+—¿De qué ideas?
+—Ideas políticas.
+Comprendió de pronto por qué había aludido a la política en ese momento, tras la repulsa de ella; para reanimarla, para reclamar un interés verdadero. En efecto, ella contestó de inmediato:
+—No estás en lo cierto... La verdad es que yo tengo ideas y tú no las tienes.
+Tan pronto como se hablaba de política ella asumía un tono pedante, lleno de tranquila suficiencia, nada infantil, que tenía la virtud de enfurecerlo. Él se preguntó con escrúpulo si, acaso, la irritación que le inspiraba este tono tenía también orígenes políticos, en un posible anticomunismo; pero se tranquilizó en seguida: él no se ocupaba de política; en realidad, le desagradaba que su mujer se ocupase de ella. Dijo secamente:
+—En resumidas cuentas, ideas o no, hay algo que nos separa.
+—¿Qué?
+—No lo sé, sólo lo siento.
+Ella dijo, tras un instante, siempre con idéntica entonación irritante:
+—En cambio, yo sí lo sé, y son precisamente mis ideas... Pero espero que un día tú pienses como yo.
+—Jamás.
+—¿Por qué jamás?
+—Te lo he dicho mil veces... Ante todo, porque no quiero ocuparme de política; y, además, porque soy demasiado individualista.
+Simona no dijo nada pero su silencio, en estos casos, era casi peor que una abierta desaprobación. Giacomo, invadido por una rabia repentina, la alcanzó y la agarró con fuerza por un brazo:
+—Yo sé que todo esto acabará trayendo consecuencias muy graves... Por ejemplo, si en Italia mandase el comunismo... y yo... y yo hablase mal del partido... tú me denunciarías.
+Ella contestó en seguida, despechada:
+—¿Y por qué ibas a hablar mal? Desde el momento en que tú mismo dices que no quieres ocuparte de política...
+—Todo puede ocurrir.
+—Y, además, ahora no manda el comunismo... ¿Por qué pensar en cosas que no existen?
+De modo que era cierto, pensó, ella no lo negaba, habría podido denunciarlo. Dijo, apretándole el brazo con más fuerza, casi con el deseo de hacerle daño:
+—La verdad es que no me amas.
+—Si no te amara, no me habría casado contigo —contestó ella con voz clara, temblándole el labio, mirándolo.
+Ante esta voz Giacomo sintió que le invadía la ternura y atrajo a Simona hacia sí, abrazándola. Se besaron. Simona, en el beso, se turbaba visiblemente; una respiración afanosa se desprendía de su nariz fruncida; su cuerpo se apretaba contra el cuerpo de él mientras dejaba colgar, inertes, los brazos.
+—Mi espía —dijo él, separándose y acariciándole el rostro—, mi pequeña espía.
+Ella se ofuscó y preguntó, enfurruñada:
+—¿Por qué me llamas espía?
+—Era una broma.
+Continuaron andando. Mientras seguía a su mujer, Giacomo se preguntaba ahora si realmente había bromeado. ¿Y aquel acceso de ira era también una broma? No podía explicarse cómo se había dejado arrastrar a aquella cólera absurda y a aquellas acusaciones aún más absurdas, se avergonzaba de ellas y, sin embargo, comprendía que, en cierta manera, las acusaciones y la cólera estaban justificadas por la actitud de Simona. Mientras tanto ya habían rodeado la colina; y ahora, en la cima del sendero, se divisaba un aire libre y vacío, como de un abismo. Siguieron caminando unos cinco minutos y después, de repente, apareció ante sus ojos todo un lado de la isla: un largo y verde declive sembrado de olivos y de chumberas; y al fondo, adentrándose en el mar, el promontorio calcinado sobre el que se alzaba el faro. El abismo era inmenso; y el faro rosa con recuadros blancos allá, sobre la roca, entre el mar y el cielo, parecía pequeño y remoto, no mayor de un palmo. Si-mona, extasiada, juntó las manos:
+—¡Qué hermoso!... ¡Qué hermoso es!
+—Ya te dije que era hermoso y tú no querías creerlo.
+—Perdóname —dijo ella, haciéndole una caricia en la cara—, tú tienes siempre razón... Yo soy una estúpida.
+Sin poder contenerse, Giacomo preguntó:
+—¿También en política?
+—En política, no... Pero no hablemos más de eso, ¿quieres?
+Él se irritó por haber caído de nuevo en la polémica, y al mismo tiempo experimentó la sensación de exclusión y de celos que lo asaltaba cada vez que ella, con entonación absoluta y casi religiosa, aludía a sus ideas. Dijo, lo más dulcemente que pudo:
+—¿Por qué no vamos a hablar?... Quizá, hablando, podamos entendernos mejor.
+Simona no contestó nada y Giacomo la siguió, bastante a disgusto. Ahora era él quien sentía el calor y el	peso del día bochornoso. Simona, en cambio, como embriagada por la vista del mar lejano, gritó:
+—Bajemos corriendo... Estoy deseando bañarme.
+Empezó a correr, con la bolsa al hombro, saltando por los escalones del sendero, gritando de alegría. Giacomo la miró y observó que echaba las piernas a un lado y a otro, como un potrillo aún no acostumbrado a andar bien. De pronto la idea “esta noche será mía” lo calmó. ¿Qué podía significar, pensó, la pertenencia a un partido político en comparación con la posesión amorosa, tan inmemorial y tan humana? Los hombres poseían a las mujeres desde siempre, desde antes que existieran las religiones y los partidos. Le pareció que en el momento en que la poseyera expulsaría de ella, para siempre, toda fidelidad a cualquier cosa que no fuera el amor hacia él. Tranquilizado por este pensamiento se lanzó detrás de su mujer, gritando:
+—Espérame, Simona.
+Ella se detuvo a esperarlo, animada y temblorosa, mirándolo con ojos llenos de gozo. Giacomo la alcanzó a la carrera y le dijo jadeante:
+—De repente me he sentido feliz y he sabido que nos amaremos.
+Ella contestó, mirándolo con sus inocentes ojos azules:
+—También yo estoy convencida.
+Giacomo le ciñó la cintura con un brazo, agarrándole al mismo tiempo la mano y obligándola a hacer lo mismo con él. Continuaron bajando, enlazados. Simona abrazaba a su marido, pero sus ojos no cesaban un solo momento de mirar hacia el mar lejano. Giacomo, en cambio, sólo podía pensar en aquel cuerpo que estrechaba contra el suyo. Simona llevaba una ajustada camiseta de muchacho, con un remiendo en el pecho. También su cabeza era de muchacho, con el pelo cortado muy corto y desigual, enmarañado, que bajaba hasta sus mejillas en gran des mechones. Y, sin embargo, la cintura esbelta se abandonaba en su brazo con una blandura mujeril que parecía anticipar el abandono completo prometido para la noche. Él dijo de pronto, en un soplo:
+—Siempre serás mi camarada.
+Simona se había distraído mirando el faro y la palabra “camarada” debió de llegarle aislada, despojada del tono sentimental que le daba su significado. Contestó, sonriendo levemente:
+—Nunca podremos ser camaradas... Por lo menos hasta que no pienses como yo... Pero seré tu mujer.
+De manera que ella seguía pensando en el partido, pensó Giacomo, con un despecho lleno de celos que esta vez no le pareció injustificado. Y la palabra “camarada” no despertaba en ella ninguna sensación de ternura conyugal, sino el de la comunión de propósitos políticos. Así, antes que a él, ella pertenecía al partido. Dijo, contrariado:
+—Pero no quería decir camarada en ese sentido.
+Simona comprendió y se apresuró a corregir:
+—Perdóname, pero ya sabes, entre nosotros, en el partido, nos llamamos camaradas.
+—Quería decir que de ahora en adelante tú serás la persona que me acompañará toda la vida.
+—Eso, sí —concedió ella, inclinando la cabeza, casi cohibida, como si no hubiese podido aceptar para esa palabra otro sentido que el político.
+Separados ahora, bajaron un largo trecho del sendero. A medida que bajaban el faro se acercaba, revelando su tamaño de pequeña torre. Detrás del faro centelleaba el mar, gris y metálico, en un rayo de sol. Entre tanto, a sus espaldas, la montaña se agigantaba, alzándose sobre el declive con una recta pared de roca roja. En la cumbre de la pared, contra el cielo, se divisaba un mirador con una grácil balaustrada a la que en ese momento se asomaban, pequeñas y negras, dos personas. Bajo el mirador se abría una vasta gruta, de un amarillo leonado, con estalactitas colgando, inaccesible, que daba a todo el paisaje un aspecto solitario y salvaje, confirmado por la absoluta falta de casas y el profundo silencio.
+—Es el Mirador de la Migliara —explicó Giacomo—. No hace muchos años que una muchacha de Anacapri se tiró desde allá arriba... Antes de tirarse, para no ver nada, se ató las trenzas sobre los ojos.
+Simona dijo, lanzando una ojeada por encima del hombro al mirador:
+—No hay que matarse.
+Giacomo se alarmó, asaltado por los consabidos celos.
+—¿Por qué? ¿Quizá lo prohíbe el partido?
+—No haces más que pensar en el partido... Déjalo de una vez... No hay que matarse —explicó, mirando al mar y echando hacia delante el rostro y el pecho, como para aspirar mejor la brisa que ahora soplaba—, porque la vida es hermosa y es hermoso vivir.
+Como siempre, a Giacomo le repugnaba la polémica con su mujer sobre la política; habría querido mostrarse sereno y distante, como estaba convencido de ser. Pero, como siempre, una misteriosa ira lo arrastraba.
+—Y, sin embargo, T. —y dio el nombre de un común amigo, comunista también, que se había matado hacía algún tiempo— se suicidó.
+Ella dijo brevemente:
+—Hizo mal.
+—¿Por qué?... Tendría sus razones... ¿Cómo sabes que hizo mal?
+—Lo sé —dijo ella, con obstinación—. Hizo mal..., todos tenemos el deber de vivir.
+—¿El deber?
+—Sí, el deber.
+—Pero ¿quién lo ha dicho?
+—No lo ha dicho nadie; es así.
+—Entonces yo podría contestarte también: todos tenemos el derecho de quitarnos la vida cuando nos parece que no vale la pena de vivirla... ¿Quién lo ha dicho? Nadie; es así.
+—No es cierto —contestó ella, inflexible—, estamos hechos para vivir y no para morir... Sólo un enfermo o una persona que ha caído en una condición morbosa puede pensar que la vida no vale la pena de vivirse.
+—De manera que, según tú, T. era un enfermo, una persona morbosa.
+—En el momento en que se mató, sí.
+Giacomo estuvo tentado de preguntarle si también ésta era la línea del partido, como le pareció entender por el consabido tono testarudo que tanto odiaba; pero esta vez consiguió contenerse. Ahora habían llegado al final del declive, a una altiplanicie árida, pululante de chumberas y de euforbios. Después, incluso, estos arbustos desérticos ralearon, la roca sustituyó a la tierra y estuvieron ante el faro, al final del sendero que parecía también el final de la tierra habitada, en un suelo calcinado y descolorido, en medio de una atmósfera vacía y solitaria. El faro estaba sobre ellos mientras bajaban rápidamente, entre rocas aisladas, hacia el mar. De repente, en un recodo, apareció una pequeña cala de agua densa y verde, rodeada por todas partes por rocas negras abundantemente perforadas y corroídas por la sal. Simona bajó a la carrera hacia el embarcadero de cemento. Exclamó, gozosa:
+—¡Qué hermosura!... Es precisamente lo que quería... Ahora nos bañamos..., y estamos solos..., completamente solos.
+Apenas había pronunciado estas palabras cuando una voz masculina se alzó de las rocas:
+—¡Simona!... ¡Qué grata sorpresa!
+Se volvieron. De las rocas emergió un rostro. Simona lanzó un grito:
+—Oh, Livio... ¿También tú por aquí?... ¿Qué haces aquí?
+Livio salió de las rocas. Era un joven de pequeña estatura, con hombros muy anchos y cuerpo musculoso. Pero la cabeza, en contraste con aquel cuerpo de luchador, era completamente calva, con unos pocos cabellos pegados a la nuca y un rostro aplastado de expresión doctoral. Un rostro, como pensó Giacomo con antipatía, de garduña, no precisamente inteligente, aunque sagaz y desconfiado. Giacomo conocía de vista a Livio y sabía que trabajaba en la oficina de Simona. Livio dijo, saliendo de las rocas y estirándose en la ingle el slip de algodón rojo descolorido.
+—Lo mismo que tú, supongo.
+Simona tuvo una respuesta que agradó a Giacomo:
+—Será difícil... A menos que también tú te hayas casado estos días... Estoy de viaje de bodas... ¿Conoces a mi marido?
+—Sí, nos conocemos —dijo Livio con gran seguridad, saltando a pies juntillas sobre una piedra cuadrada para estrechar la mano de Giacomo. Se dieron la mano y Livio trituró la de Giacomo en la suya, mientras este último respondía, con una mueca de dolor:
+—Sí, nos hemos visto en Roma.
+Livio se volvió hacia Simona y añadió:
+—Me llegaron vagamente los rumores de que ibas a casarte... Pero has hecho mal al no decírselo a los camaradas... Hay que hacer participar a los camaradas de nuestras alegrías.
+Todo ello con un tono perfectamente descolorido y burocrático, pero que no excluía quizá un sentimiento afectuoso. Giacomo notó que Simona sonreía y estaba inmóvil de pie ante Livio, como esperando que éste continuara hablando. Y, en efecto, Livio, tieso como una estatua de bronce sobre el pedestal de la piedra cuadrada, el slip tenso sobre el bulto voluminoso del pubis, el cuerpo estremecido por sus músculos atléticos, continuó charlando. Giacomo tuvo la impresión de que lo excluían en cierto modo de su conversación y se apartó a un lado, aunque aguzando el oído. Livio, más abajo sobre la piedra, y Simona, arriba en el sendero, hablaron quizá unos minutos. Giacomo oyó que charlaban sobre los camaradas del partido, preguntándose alternativamente dónde habían pasado las vacaciones.
+Pero lo que más le sorprendía no eran las palabras ni el tema, sino el tono. ¿Cómo era este tono —se preguntó, vagamente irritado— y por qué le desagradaba? Era un tono, pensó, cómplice, cargado de alusiones a un lazo secreto, distinto del de la amistad y del de las relaciones familiares. Durante un momento se preguntó si podía compararlo con el de las conversaciones entre colegas en un banco o en cualquier ministerio. Pero después de reflexionar comprendió que esta comparación no servía. Si acaso, se trataba..., buscó mucho rato y después, tras grandes vacilaciones, decidió que sólo dos frailes o dos monjas podían tener, al encontrarse y charlar, ese tono. ¿Por qué le desagradaba? No, desde luego, pensó, porque le disgustaran las ideas de Simona y de Livio; incluso podía considerarlas correctas, así, discutiéndolas racionalmente. Su hostilidad, en realidad, no tenía nada de racional, resultaba oscura para él mismo y en determinados momentos le parecía que formaba un todo con los celos, como si temiera que Simona se le escapase a través de sus relaciones con el partido. Mientras pensaba estas cosas su rostro se iba oscureciendo en una expresión descontenta, hasta el punto de que Simona, al reunirse por fin con él, sonriente y satisfecha, exclamó con sorpresa:
+—¿Qué te sucede?... ¿Por qué estas de mal humor?
+—Nada..., el calor.
+—Ahora mismo nos bañamos... ¿Dónde podríamos desnudarnos?
+—Sígueme... Por aquí.
+Conocía bien el sitio. Precediendo a Simona entró en las rocas por un pasaje muy estrecho. Tras aquellas rocas había que salvar otras rocas más bajas y después, rodeando un gran peñasco que escondía el acceso, se llegaba a una minúscula playa de grava fina y negra entre rocas, también negras y lustrosas de humedad, frente a una pequeña ensenada donde el agua, baja y llena de algas, era negra y brillante como la grava y las rocas. Era como una habitación natural, con un techo de cielo y un suelo de agua, encerrada por todas partes por las rocas.
+—Esto es mejor que cualquier caseta —observó él, mirando a su alrededor.
+—Ahora me desnudo..., ,por fin —suspiró ella con alivio.
+Giacomo la vio dejar en el suelo la bolsa e inclinarse para sacar el bañador. Él se apoyó, de pie, en una de aquellas peñas y se quitó en un momento la camiseta y los pantalones. Ella lo miró y, al verlo desnudo, rió temblorosamente, observando:
+—¿No crees que en estos sitios uno se debería bañar desnudo?
+—Desgraciadamente, nunca se consigue estar solos —contestó Giacomo, pensando en Livio.
+Desnudo como estaba se acercó a ella, caminando descalzo sobre la grava fría. Ella no lo vio llegar porque entre tanto se había levantado la camiseta sobre la cabeza. El pecho, desnudo, parecía realmente virginal, pensó él: las dos tetas, llenas y bajas, acababan en un pezón muy ancho, rosado, y daban una sensación de pureza intacta, como de niña que jamás hubiera ofrecido su pecho a una caricia masculina. Este aspecto virginal era tan fuerte que Giacomo no se atrevió, como hubiera querido, a abrazarla, apretando aquel pecho contra el suyo, y se limitó a quedarse a su lado, de pie, mientras ella sacaba la cabeza de la camiseta. Cuando asomó la cabeza, sacudiendo el pelo enmarañado, dijo, sorprendida:
+—¿Qué haces? ¿Por qué no te pones el bañador?
+—Quisiera hacer el amor contigo, aquí, ahora —dijo Giacomo.
+—¿Aquí, sobre estas piedras? Estás loco.
+—No, no estoy loco.
+Ahora estaban uno frente al otro, él enteramente desnudo y ella con el torso desnudo. Ella suplicó, abrazándose vergonzosamente el pecho, como para cubrirlo y sostenerlo:
+—Esperemos a la noche... Ahora nos bañamos..., por favor...
+—Esta noche dirás lo mismo.
+—No, esta noche será distinto.
+Giacomo se alejó en silencio y fue a ponerse el bañador en un rincón de la playa. Aliviada, a toda prisa, Simona se puso también su bañador de dos piezas. Luego gritó, alegremente:
+—Me voy a bañar... Quien me quiera, que me siga.
+—Bañémonos aquí —propuso Giacomo.
+Simona se detuvo y metió el pie blanco entre las algas verdes y marrones, en el agua negra, diciendo:
+—Esta agua es tan oscura..., parece una charca... Vámonos allá.
+—No estaremos solos.
+—Ya tendremos tiempo de estar solos.
+Volvieron a la cala. Livio estaba tendido boca arriba en el embarcadero de cemento, quieto como un muerto, al sol. También esto, sin saber muy bien por qué, avivó la antipatía de Giacomo. Era, pensó, uno de esos que se broncean adrede y luego van por ahí desnudos como gusanos, ostentando bajo un slip demasiado corto su maciza virilidad. Cuando los oyó volver, Livio se puso en pie y le dijo a Simona:
+—Vamos, Simona, tirémonos al agua y veamos quién llega antes a aquella roca.
+—Pero tienes que darme un cuerpo de ventaja —contestó ella, muy contenta, olvidándose de su marido.
+—Te daré hasta tres.
+Continuaba, no pudo dejar de pensar Giacomo, el tono íntimo, cómplice, exclusivo, el tono del partido. Ese tono, pensó celoso, que a pesar del matrimonio ella no había tenido con él y quizá no tendría nunca. Sentado en una roca plana, un poco más allá del embarcadero, miró a su mujer lanzarse con una larga y desmañada zambullida, sumergirse, nadar bajo el agua, una sombra oscura envuelta en una verde claridad, emerger a lo lejos con la rubia cabeza empapada.
+—Has dado una panzada —gritó Livio; y después se tiró también él, con impecable parábola.
+Giacomo lo vio nadar bajo el agua, pero más tiempo que Simona, y después emerger a su vez, ya delante de ella. Se preguntó si todo aquel asunto del tono del partido no era imaginación suya y en realidad había habido en el pasado relaciones más íntimas, amorosas, entre ellos. Advirtió, mientras pensaba esto, que quizá habría preferido esta hipótesis, que en el fondo le resultaba menos desagradable. Pero se dijo también que si le hablaba a Simona de ello se indignaría, tachándola de inmediato de “burguesa” y de “sucia”. Y, tras un momento de reflexión, la descartó como absolutamente improbable. No, eran camaradas, como ella decía, y eso era todo. Quedaba comprender por qué para él eso era peor que si hubieran sido amantes. Era absurdo, pensó con una especie de buena voluntad insegura, y él tenía que desprenderse a toda costa de estos extraños celos... Con estas ideas seguía la competición de Livio y su mujer en la pequeña cala llena de agua verde y centelleante. Ambos se dirigían hacia una roca redonda que sobresalía en la entrada de la cala. El primero en llegar fue Livio, que se agarró a un saliente de la roca, gritando:
+—¡Victoria!... ¿Sabes que eres una chapucera?
+—Chapucero serás tú.
+Estos insultos bromistas, pensó Giacomo, habrían tenido que dedicárselos ellos; si no se los decían durante la luna de miel, ¿cuándo iban a hacerlo? Se levantó con decisión, dio a la carrera dos o tres pasos por el embarcadero y se tiró también al agua.
+Cayó de barriga, sintiendo un dolor que lo enfureció. Nadó bajo el agua, salió a flote, se dirigió hacia la roca a la que se habían encaramado Simona y Livio. Los veía conversar tranquilamente, muy cerca uno del otro, con las piernas colgando. Esta imagen le estropeó todo el placer de estar por fin metido en el agua viva y fresca, después de tanto sudor, tanto calor y tanto polvo. Empezó a nadar con rabia hacia la roca, llegó sin resuello y se agarró a un saliente, diciendo:
+—¿Sabéis que está muy fría el agua?
+Simona, que charlaba con Livio, lo miró al sesgo, apenas, y contestó:
+—A mí me pareció caliente.
+Livio remachó:
+—Me he bañado en este sitio en abril... Entonces sí que estaba fría.
+Simona preguntó con una curiosidad que a Giacomo le pareció llena de coquetería:
+—¿Siempre igual de solo?
+—No, entonces vine con Nella.
+Entre tanto Giacomo trataba de trepar a la roca. Pero el único punto adonde se podía subir cómodamente era el ocupado por Livio y Simona. Estos no parecían advertir sus dificultades y prefirió no pedirles que se apartasen. Se aferró a un saliente erizado de puntas, se izó clavando una rodilla y, al echarse hacia arriba, experimentó un agudo dolor en la palma, como si una de aquellas puntas hubiera entrado en su carne. En aquel mismo instante, precisamente cuando estaba acomodándose lo mejor posible en la roca, al grito de “veamos quién llega primera a la orilla”, los dos se tiraron juntos al agua, cubriéndolo de salpicaduras. Se quedó solo en la roca, furioso, mirándolos mientras se dirigían nadando hacia el embarcadero. Se quedó inmóvil todo el tiempo que necesitó para dominar su furor, y después, tan pronto como le pareció que se había calmado, se tiró al agua también y llegó a la orilla con pocas brazadas. Simona y Livio se habían sentado al abrigo de una gran peña. Simona había abierto la bolsa y sacaba el paquete del almuerzo. Le dijo a Giacomo cuando se acercó:
+—Ahora comemos... Vamos a compartirlo con Livio... Quería volver, con este calor... Es absurdo.
+Giacomo, sin decir palabra, se sentó en los guijarros, a su lado. Cuando abrieron el paquete el almuerzo resultó muy modesto. Había numerosas y finas tajadas de pan rellenas de finísimas lonchas de carne asada. Había una botella de vino. Había dos huevos duros. Y esto era todo. Giacomo dijo, descontento:
+—Livio tendrá que contentarse con poco.
+Livio contestó alegremente:
+—No te preocupes..., soy muy frugal.
+De modo que Livio le tuteaba, pensó Giacomo con irritación. Dijo:
+—Nosotros nos tratábamos de usted, ¿verdad?
+—Entre hombres siempre se usa el tú.
+Simona, muy alegre, se sentó a la turca, repartiendo el almuerzo. Distribuyó un sandwich por cabeza, mordió el suyo y preguntó a Livio:
+—¿Dónde te has puesto tan negro, Livio?
+—En el Tíber —contestó Livio.
+—A toda la sección le gusta el río, ¿verdad, Livio? —preguntó ella sin dejar de comer.
+—A todos, salvo a Regina... Esa desdeña el río..., no es bastante aristocrático para ella.
+Hablaban de cosas tontas, como muchachos, pensó Giacomo. Pero entre ellos había más intimidad que entre él y su mujer. Simona observó:
+—Regina, por mucho que se esfuerce, no logrará jamás deshacerse de sus orígenes.
+—¿Quién es Regina? —preguntó Giacomo.
+—Una chica que trabaja con nosotros..., hija de un terrateniente..., pero estupenda —contestó Livio. Y luego añadió—. No es fácil borrar la marca de fábrica.
+—¿Qué marca de fábrica?
+—La burguesa.
+Giacomo dijo, sin reflexionar:
+—Vosotros, si llegáis al poder, tendríais que borrar esa marca de fábrica en millones de personas.
+—Es lo que haremos —dijo Livio con seguridad—. Estamos para eso, ¿verdad, Simona?
+Simona aprobó con la cabeza mientras comía. Livio continuó:
+—La burguesía italiana es un hueso duro..., pero la domaremos..., aunque tengamos que matar a la mitad.
+Giacomo dijo:
+—Podríais correr el riesgo de que os mataran a vosotros.
+—Son gajes del oficio —contestó Livio.
+Giacomo notó que la ferocidad de su camarada parecía desagradar a Simona, que había fruncido el ceño, sin aprobar esta vez. Livio, quizá advirtiendo esa desaprobación, cambió de tema:
+—Pero Simona, realmente has hecho muy mal al no decir a los camaradas que te casabas... Ciertas cosas no hay que ocultárselas a los camaradas.
+Simona respondió, con una pizca de ternura hacia Giacomo:
+—Lo decidimos de un día para otro... Nos casamos sólo con los testigos... Ni siguieran estaban nuestros padres.
+—¿No habéis querido que fueran?
+—No hemos querido y, además, quién sabe si habrían ido..., al menos los suyos: no querían que Giacomo se casase conmigo.
+—Estás demasiado a la izquierda, ¿eh?
+Giacomo dijo:
+—No, la razón es que mi madre habría querido casarme con una chica que ella prefería... Mi familia no se ocupa de política...
+—No se ocupan, está bien... Pero siempre hay un sobrentendido político —dijo Livio, comiendo—. ¿Cómo podría ser de otro modo? Todo es política.
+En efecto, pensó Giacomo. Hasta la luna de miel. Hasta el primer abrazo conyugal. Despechado ante sus propios pensamientos se calló y tendió los huevos, uno a Simona y otro a Livio, diciendo:
+—No tengo más hambre... Coméroslos vosotros.
+—No hagas cumplidos, ¡eh! —dijo Livio, mirándolo sorprendido.
+—No es ningún cumplido.
+—¿Por qué? —preguntó Simona—. ¿No tienes hambre?
+—Creo que es este terrible siroco.
+Livio alzó los ojos al cielo anubarrado:
+—Antes de la noche va a desencadenarse una tormenta, os lo garantizo.
+Livio hablaba con lugares comunes, con frases hechas, pensó Giacomo. Pero Simona demostraba apreciar esos lugares comunes, esas frases hechas, mucho más que sus palabras cargadas de sentimiento inexpresado e inexpresable. Simona, ahora, había acabado de comer y dijo:
+—Ahora nos tumbamos sobre las piedras y tomamos el sol.
+Livio dijo, riendo:
+—Sírveme de almohada, Simona —y empezó a arrastrarse hacia Simona con la evidente intención de ponerle la cabeza en el regazo.
+Por primera vez Simona demostró que se acordaba de su marido, y contestó:
+—No, con este calor..., eres demasiado pesado —pero mirando hacia Giacomo, como dándole a entender: “eso es algo que sólo te dejaré hacer a ti”.
+Giacomo se sintió reanimado por esta mirada y esperó de nuevo amarla y ser amado. Se puso en pie y le propuso:
+—¿Vamos a dar una vuelta por las rocas?
+—Vamos —dijo ella, solícita, levantándose también. Y añadió prontamente, dirigiéndose a Livio—: Livio, hasta luego..., vamos de exploración.
+—¡Buen paseo!
+Simona precedió a Giacomo por el estrecho pasaje entre las rocas. Fue en derechura hacia la playita negra y húmeda, se sentó en la grava, al abrigo de una peña, y dijo:
+—Ahora, túmbate y pon la cabeza en mis piernas... Así estarás más cómodo.
+Giacomo, en el colmo de la alegría, agarró a Simona por la cintura y la atrajo hacia sí. Se besaron y Simona le devolvió el beso resoplando duramente por las narices, se habría dicho que sufriendo. Luego, cuando se separaron, repitió:
+—Ahora, túmbate y durmamos un rato juntos.
+Ella apoyó la espalda en la roca y Giacomo, lleno de amor, se tumbó de través, con la cabeza en el pequeño regazo de ella. Cerró los ojos y en seguida Simona empezó a acariciarle la cara. La mano, algo tímida y vacilante, rodeaba las mejillas de Giacomo, pasaba bajo la barbilla, subía hacia el pelo, empezaba a alisarlo y a peinarlo con los dedos abiertos. Mientras acariciaba a su marido, Simona lo contemplaba con pupilas atentas, llenas de una curiosidad infantil, como advirtió de pronto al abrir los ojos. Ella se inclinó entonces, depositó dos rápidos besos, uno en cada ojo, y lo invitó de nuevo a dormir. Giacomo cerró los ojos y saboreó durante un buen rato la caricia leve, infatigable, de la pequeña mano. Por fin lo venció el sueño y se adormeció.
+Durmió un tiempo que no podía precisar. Cuando se despertó experimentó una sensación de frío. Simona estaba apoyada como antes en la roca, con su cabeza en el regazo. Él alzó los ojos y comprendió de dónde venía aquella sensación de frío: el cielo estaba negro, henchido de oscuras nubes de tormenta. Preguntó:
+—¿Cuánto he dormido?
+—Quizá una hora.
+—¿Y tú?
+—Yo no he dormido; te miraba.
+—Ya no hay sol.
+—No.
+—Ya verás como se pone a llover.
+—Livio ya se ha ido —dijo ella, a modo de respuesta.
+Giacomo preguntó, sin moverse:
+—Pero ¿quién es ese Livio?
+—Un camarada.
+—No me es simpático.
+—Ya me di cuenta —dijo ella, sonriendo—, no te has molestado en ocultarlo... Él, al irse, te ha señalado a ti, que dormías, y me ha preguntado: “¿Qué pasa, la tomó conmigo?”
+—No la he tomado con él..., pero es un mal educado... Estoy de luna de miel y él se comportaba como si fuera el novio.
+—Es un buen chico.
+—Lo has querido en el pasado, dime la verdad.
+Ella estalló en una risa argentina, perfectamente inocente:
+—Estás loco..., no lo querría ni por todo el oro del mundo... No me gusta nada.
+—Sin embargo, vuestro tono mientras hablabais...
+—Es un camarada —repitió ella—, es el tono que empleamos entre camaradas —calló un momento y después añadió con repentino rencor—: No me gusta porque no es inteligente.
+—No me parece más estúpido que otros muchos.
+—Ha dicho un montón de tonterías —prosiguió ella, resentida—, que mataremos a la gente... Sabe muy bien que no es cierto, pero lo ha dicho únicamente para hacerse el valiente... Pero con eso perjudica al partido...
+—Ahora eres tú la que la ha tomado con él.
+—No, no la he tomado con él, pero no tendría que hablar de ese modo... Por lo demás —añadió, volviendo a su objetividad—, hay que reconocer que es un buen elemento..., aunque no muy inteligente... De confianza, seguro, podría pedírsele cualquier cosa.
+—Y yo —preguntó Giacomo tranquilizado, bromeando—, ¿qué clase de elemento soy?
+—No eres ningún elemento porque no eres camarada.
+Giacomo se ensombreció de nuevo ante esta respuesta y se puso de pie, mirando al cielo amenazador:
+—Volvamos pronto a casa, antes de que llueva, ¿quieres?
+—Sí, será mejor.
+Giacomo vaciló y después, cogiéndola por la cintura, le preguntó en voz baja:
+—¿En casa serás mía... por fin?
+Esta vez ella hizo un gesto de que sí, aunque volviendo la cara para no mirarlo. Giacomo, sereno, se vistió a toda prisa. También Simona, en un rincón de la playa, se puso de nuevo los shorts y la camiseta. Recogió la bolsa, iniciando el gesto de echársela al hombro. Pero Giacomo le dijo:
+—Deja que la lleve yo —con una ternura protectora que no había tenido esa mañana al bajar al faro.
+Iniciaron el camino de regreso. Primero recorrieron el sendero por la altiplanicie: contra el fondo del cielo oscuro, las palas carnosas de las chumberas desentonaban, verde claras, casi lactescentes. Después, cuando llegaron al pie de la subida, se volvieron a mirar hacia atrás. Ahora el faro, rosa y blanco, se alzaba sobre el fondo de una erupción majestuosa de negras nubes de tormenta que subían desde el centelleante horizonte al asalto de la parte del cielo todavía libre. Parecidas por su forma a grandes animales trepadores, estas nubes perdían de sus ahumados vientres muchas tiras sutiles, bajo las cuales el mar, gris e inmóvil, iba oscureciéndose aquí y allá, mientras que en otras zonas centelleaba aún el sol como plomo raspado. Era la lluvia, que empezaba a recorrer con sus tupidos peines la superficie del agua. Mientras tanto se había levantado un viento impetuoso que envolvía a las chumberas en un polvo amarillento; de repente un relámpago asaeteó con luz enceguecedora los nubarrones, partiendo de un alejado rincón del cielo, bajando en diagonal y yendo a dar en el mar, en el rincón opuesto. Siguió un silencio muy largo y después tronó, sin estruendo, dentro de las nubes, pero bastante sombríamente. Giacomo vio que su mujer hacía un movimiento hacia él, como de miedo, palideciendo.
+—¡Me dan tanto miedo los rayos! —dijo ella, mirándolo.
+Giacomo dirigió la vista al cielo, mitad tormentoso y mitad sereno, y contestó:
+—La tormenta no está aún sobre nosotros... Por ahora está sobre el mar... Si caminamos de prisa llegaremos a casa sin mojarnos.
+—Vamos, sí, vamos a casa —dijo ella, reanudando la subida.
+Ahora las nubes, empujadas, al parecer, por un viento muy fuerte, se propagaban por el cielo con una rapidez desconcertante, subiendo por él y extendiéndose a simple vista. Simona casi corría por la áspera subida; y Giacomo no pudo dejar de observar, bromeando:
+—Te dan miedo los rayos... ¿Qué dirían tus camaradas? Los rayos no deberían de darle miedo a una marxista como tú.
+—Es más fuerte que yo —contestó ella sin volverse, con voz infantil.
+Después de los peldaños vinieron las gradas, y después de las gradas el sendero empezó a subir con revueltas largas, casi planas, entre los olivos. Simona precedía ahora con mucho a Giacomo, él la veía caminar de prisa, a grandes pasos, veinte o treinta metros más arriba que él. Llegados a la cima de la subida se pararon un momento para tomar aliento. A sus espaldas, tranquiliza-dora, entre una atmósfera oriental de ciudad árabe, Anacapri se asomaba tras una barrera de verdor con sus terrazas blancas, su campanario, la cúpula gris de su iglesia. Giacomo dijo, indicando en el abismo el faro, ya minúsculo, sobre el promontorio, contra el amenazador fondo del temporal:
+—Imagínate, estábamos allí.
+—Ya quisiera estar en casa —dijo ella, pensando quizá en los rayos. Pero se encontró con los ojos de Giacomo y añadió, con insegura coquetería—: ¿Y tú?
+Giacomo se turbó y contestó en voz baja:
+—Yo también.
+Ya había acabado la subida y sólo tenían que seguir el sendero llano hasta la casa, situada bastante antes de Anacapri. Recorrieron de prisa el camino que quedaba: apareció la tapia del chalet de Munthe, después una planicie herbosa con grandes encinas y, por fin, en un recodo, la pared blanca de su chalet, la verja herrumbrosa en la tupida sombra de un gran algarrobo cargado de vainas colgantes. Ya las nubes estaban sobre ellos y la oscuridad era como la de la noche. Simona, agitada, empujó la verja y desapareció sin preocuparse de si su marido la seguía. Giacomo, más lentamente, empezó a descender la escalera de peldaños de mármol, entre plantas carnosas y acantos. Mientras bajaba tronó de nuevo, esta vez con fragor, como un carro cargado de piedras que se precipita por una pendiente y al final vuelca. Simona, que ya había entrado en la casa, gritó:
+—¡Cierra bien la puerta!
+El chalet se componía de tres habitaciones amuebladas a la buena de Dios y estaba construido al abrigo del flanco de la montaña, entre los árboles. Giacomo entró en el vestíbulo, casi a oscuras. No había luz eléctrica en el chalet: en una mesa estaban alineadas lámparas de petróleo de todas las formas y colores. Giacomo quitó el tubo de vidrio de una de las lámparas, encendió una cerilla, la acercó a la mecha, puso en su sitio el tubo y pasó al comedor. Estaba desierto; en la habitación contigua se oía moverse y andar a Simona. El no quería reunirse con ella en seguida y, como tenía sed, se entretuvo un momento sirviéndose un vaso de vino blanco. Por último, cogió la lámpara y se asomó al dormitorio.
+Este estaba también casi a oscuras. La puerta-ventana que daba al jardín estaba abierta de par en par y se entreveía, en la claridad que aún perduraba, a la sombra de los árboles, la terraza rodeada por macetas de limoneros. Simona, en bata de casa, arreglaba la cama aún deshecha de la noche. Giacomo posó la lámpara en la mesilla y preguntó:
+—¿Sigues teniendo miedo de los rayos?
+Ella se inclinaba sobre la cama, desplegando la sábana, con una pierna en el aire. Contestó, levantándose:
+—No, ahora estoy en casa y me siento más protegida.
+—Y de mí, ¿tienes miedo?
+—Nunca he tenido miedo de ti.
+Giacomo dio la vuelta a la cama y la cogió en sus brazos. Se besaron de pie, junto a la cabecera. Giacomo soltó el nudo del cordón que ataba a la cintura la bata de Simona, la bata se deslizó hasta el suelo, primero de los hombros y después de las caderas, pero Simona no interrumpió el beso, prolongándolo incluso, con una avidez desmañada que se expresaba en su brusco resoplar por la nariz. Giacomo, con repentina decisión, la dejó, diciéndole:
+—Acuéstate, ¿quieres?
+Y, a toda prisa, empezó a quitarse ropa de encima. Simona vaciló, desconcertada, y luego se tumbó en la cama. Ahora Giacomo experimentaba una sensación casi feroz, como si no hubiera estado en una casa, sino en una oscura gruta, hombre de edades remotas, animado sólo por apetitos carnales. Sin embargo, se tendió con ternura al lado de su mujer. Ella yacía junto a la pared y en seguida se volvió y se apretó contra él, acurrucándose en sus brazos. Durante un rato estuvieron inmóviles, abrazados, y después Giacomo empezó a acariciarla dulce y castamente. Quería poseerla a la manera de ella, virginal y pura, sin contar para nada con su experiencia de hombre hecho y derecho. Las ligeras caricias, las dulces palabras susurradas al oído de ella, entre los cabellos que lo velaban, habrían debido calmar, en la intención de Giacomo, todos su temores y llevarla casi insensiblemente a entregarse a él. No tenía prisa y le parecía que con su nueva paciencia, mezclada con reflexión y respeto, obtendría fácilmente lo que la noche antes, con una actitud opuesta, se le había negado. Poco a poco le pareció que ella se ablandaba ante sus palabras y sus caricias, no sólo con el cuerpo, sino también con aquella fibra interior que hasta ahora se había mostrado tan reacia. Simona, al contrario que él, no hablaba, pero su respiración parecía hacerse más jadeante a cada momento. De improviso, casi sin quererlo, cediendo a un impulso enteramente natural, trató de tomarla. Simona pareció primero abandonarse ante el impulso del cuerpo de él, pero después, de pronto, se rebeló y luchó por liberarse. Y al mismo tiempo repetía:
+—No puedo, no puedo —en voz baja y airada.
+Giacomo no quiso tener en cuenta la repulsa y trató de forzarla. Simona se defendía con las rodillas, con manos y pies, y él trataba de reducirla y dominarla. Lucharon un buen rato, sus cuerpos desnudos estaban empapados de sudor y se pegaban de modo fastidioso. De pronto toda la paciencia de Giacomo se desvaneció, saltó de la cama, diciendo:
+—Un momento, ahora vengo — y corrió al cuarto de baño.
+Lo guiaba una especie de furiosa inspiración. Fue hasta el lavabo, cogió la cuchilla de afeitar que había utilizado esa mañana y, sin vacilar, la hundió en la carne del dedo índice. Sintió el frío de la cuchilla en la carne y después ya no sintió ningún dolor. Dejó la cuchilla en el estante y apretó la herida entre dos dedos; inmediatamente brotó la sangre, abundante. Volvió al dormitorio y se arrojó con furor sobre su mujer; mientras tanto, pasaba el dedo ensangrentado por las sábanas, entre las piernas de ella. Después, con voz rabiosa, anunció:
+—No te has dado cuenta, pero ya no eres virgen.
+Ella preguntó, con voz temblorosa:
+—¿Cómo lo sabes?
+—Lo sé, mira.
+Él cogió la lámpara de la mesilla e iluminó la cama. Simona estaba acurrucada en la cabecera, con las rodillas pegadas al mentón, los brazos cruzados para taparse el pecho. Miró hacia abajo, al punto que Giacomo iluminaba con la lámpara; en efecto, en la sábana se veía la sangre que Giacomo había hecho brotar de su dedo, en una larga mancha roja. Ella observó con asco, parpadeando, la mancha, y después preguntó:
+—¿Estás seguro?
+—Segurísimo.
+Pero en ese momento los ojos de ella se dirigieron a la mano con que Giacomo sostenía la lámpara. Estaba listada de sangre, con finos regueros que bajaban desde el dedo cortado a la muñeca. Dijo, con voz quejumbrosa:
+—La sangre no es mía, es tuya... Te has herido adrede...
+Giacomo dejó la lámpara en la mesilla y gritó con furor:
+—¡Es la única sangre que veré esta noche y siempre! ... ¡Eres virgen y siempre serás virgen!
+—¿Por qué dices eso?... ¿Por qué eres tan malo?
+—Así es —contestó él, enfurecido—. Nunca serás mía... En ti hay una parte que me es hostil y que siempre me será hostil.
+—Pero ¿qué parte?
+—Tienes más intimidad con ese imbécil de Livio que conmigo —gritó, expresando por fin sus celos—. Y esa parte de ti que tiene intimidad con Livio me es hostil.
+—No es cierto.
+—Sí que es cierto... Y también es cierto que si tus camaradas estuvieran en el poder y yo hablara mal del partido tú me denunciarías...
+—¿Quién lo ha dicho?
+—Lo has dicho tú esta mañana... cuando íbamos al faro.
+—Yo sólo me callé...
+—Pero bueno, ¿puede saberse qué harías?
+Ella vaciló un momento y después preguntó:
+—¿Por qué me hablas de estas cosas en este momento?
+—Porque sí... Porque ésas son las cosas que te impiden amarme y convertirte en mi mujer.
+—No te denunciaría —dijo ella, por fin—, me separaría de ti.
+—Pero vosotros tenéis el deber de denunciar a vuestros enemigos —gritó él, en el colmo del furor—. ¡Es un deber concreto!
+Ella se echó de repente a llorar en la cama donde se acurrucaba:
+—Giacomo..., ¿por qué eres tan malo?... Yo me mataría..., eso haría...
+Esta vez Giacomo no se atrevió a recordarle que esa misma mañana, al bajar al faro, ella había condenado el suicidio como un acto inadmisible y morboso. Después de todo, esta contradicción era halagüeña para él, mucho más que una abierta declaración de amor.
+Mientras tanto, sin dejar de llorar, ella había bajado de la cama y se había dirigido a la puerta-ventana, asomándose al jardín. Giacomo se quedó tendido en la cama, mirándola. Ella estaba inmóvil, de pie, con el brazo levantado para apoyarse en la jamba. Después, de golpe, la habitación se iluminó vívidamente, con todos sus objetos y sus colores, con el cuerpo de ella, blanco y desnudo, y los árboles verdes del jardín y los limones amarillos en las macetas de barro. Al mismo tiempo hubo un seco chisporroteo metálico, seguido de inmediato por un violento estruendo que hizo temblar las paredes y los cristales de las ventanas. Ante este estallido, Simona lanzó un grito de terror, se apartó corriendo de la ventana y fue a arrojarse en brazos de su marido, sollozando. Giacomo la estrechó contra sí, y casi en seguida, mientras ella buscaba, sin dejar de llorar, su abrazo, penetró en ella, fácil y cómodamente. Tuvo la sensación de una flor secreta, formada por dos únicos pétalos, que se abría, aunque permaneciendo sepultada e invisible, ante algo que era el sol en la oscura noche carnal. Nada se había resuelto, pensó después, pero por ahora le bastaba con saber que ella se habría matado por él.
+(1951)
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

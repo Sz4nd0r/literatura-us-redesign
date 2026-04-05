@@ -1,0 +1,80 @@
+---
+layout: story
+title: Tabú
+slug: am_tabu
+source: https://www.literatura.us/idiomas/am/am_tabu.html
+tags:
+  - am_tabu
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+Tabú (1951)
+(“Tabù”)
+Originalmente publicado en el periódico Il Corriere della Sera (15 de julio de 1951);
+Racconti romani
+(Milán: Bompiani, 1954, 439 págs.)
+Alessandro me había hecho una escena asquerosa en el restaurante; dos semanas después, corriendo en motocicleta por la via Cassia, chocó con un camión y se mató en el acto. Giulio me había abofeteado a la salida del cine y tres días después cogió en los baños del Tíber esa terrible enfermedad que viene de las cloacas y se fue de este mundo en pocas horas. Remo me había dicho: “Imbécil, bobo e ignorante” en via Ripetta, y poco después, al doblar la esquina de via dell’Oca, resbaló en una cáscara y se rompió el fémur. Mario me había hecho un gesto obsceno en el partido de fútbol y casi inmediatamente se dio cuenta de que le habían birlado la cartera del bolsillo. Estos cuatro casos, y otros muchos más que no digo para no ser monótono, me habían convencido aquel año de que estaba protegido por una fuerza misteriosa que causaba la muerte, o, por lo menos, castigaba a quien se ponía en contra mía. Adviertan que no se trataba de jettatura [mala suerte]. El jettatore perjudica sin motivo, al azar, rociando desgracias como una manguera rocía el agua: al que le toca, le tocó. No, yo sentía que, aunque soy un hombre corriente, ni guapo, ni fuerte, ni rico (soy dependiente en un comercio de tejidos), ni, en suma, especialmente dotado en ningún aspecto, estaba protegido por una fuerza sobrenatural, por la cual nadie podía hacerme daño impunemente. Ustedes dirán: presunción. Entonces, por favor, explíquenme la combinación de esas muertes y de esas desgracias caidas sobre todos los que se habían querido hacer los valientes conmigo. Explíquenme por qué, cuando me encontraba en un aprieto e invocaba esa fuerza, acudía en seguida, como un perrito, y castigaba al imprudente que se había atrevido a hacerme frente. Y, por último, explíquenme... Pero, más vale que lo dejemos. Básteles con saber que, en aquella época, se me había metido en la cabeza que estaba embrujado, que sobre mí pesaba un encantamiento.
+Uno de esos días de verano decidimos, Grazia y yo, ir a pasar el domingo a Ostia. En el comercio de tejidos éramos tres dependientes: Grazia, yo y uno nuevo que se llamaba Ugo. A decir verdad, este último era un tipo que no me gustaba un pelo: alto, atlético, seguro de sí mismo, con un rostro de pugilista, de nariz aplastada y mandíbula prominente. Ugo tenía una manera de echar la pieza sobre el mostrador, desenvolver la tela y hacerla crujir entre sus dedos, sin mirar al cliente, sino a los transeúntes, en la calle, a través de los cristales de la puerta del comercio, que me ponía verdaderamente nervioso. Y cuando un comprador expresaba alguna duda, en vez de intentar convencerlo empleaba la manera enérgica: se encerraba en un silencio desdeñoso y desaprobador, e incluso llegaba a decir, secamente:
+—Lo que la señora necesita es un artículo más ordinario —e iba a colocar la pieza en su sitio.
+En resumidas cuentas, procuraba intimidar al comprador; y, en efecto, casi siempre éste lo volvía a llamar, arrepentido, examinaba de nuevo la tela y efectuaba la compra. Pero a mí, cada vez que quería imitarlo, quizás porque no tenía la presencia física y la desfachatez de Ugo, me decían que era un mal educado, que la dirección haría muy bien en despedirme, y cosas por el estilo. Por eso, tras algunas tentativas infructuosas, volví a mis viejos modales, que son resbaladizos, melosos, insinuantes, llenos de cumplidos y de complacencia.
+A Grazia no le gustaba Ugo; por lo menos eso me había asegurado varias veces:
+—Ese... por favor... ¡qué horror! Parece un negro.
+Pero cuando, tras habernos puesto de acuerdo para ir a Ostia, Ugo se nos acercó, preguntando con su voz arrogante: —“¿Qué? ¿Tienen algún buen plan para el domingo?” —ella respondió en seguida, contoneándose, sonriendo, hinchándose de coquetería:
+—¿Por qué no viene usted también, Ugo?
+Figúrense, Ugo. Aceptó de inmediato e incluso dijo con aire protector que se ocuparía de llevar a una chica para que cada cual tuviera la suya. Pero lo dijo de una forma especial, que me desconcertó; como si él pretendiera decir que su chica era Grazia y que traería a la otra para mí.
+El domingo nos encontramos a la hora fijada en la estación de San Paolo, entre una muchedumbre increíble. Grazia, que estrenaba un vestido nuevo, celeste, a tono con sus cabellos rubios; yo, cargado de paquetes, porque había hecho las compras para la comida; Ugo, vestido como un lechuguino, de color penicilina, y la chica de Ugo, una tal Clementina. La sospecha que me había asaltado en el comercio se confirmó muy pronto, cuando Ugo, con autoridad, tomó de un brazo a Grazia y nos dijo a mí y a Clementina:
+—Eh, vosotros dos, no os escabulláis... Arreglaos para no perdernos de vista hasta el momento de la salida.
+Grazia reía y se apretaba contra él, feliz. Miré a Clementina: era justo lo que hacía falta para mí, por supuesto según la idea que Ugo se hacía de mi persona: una buena muchacha, blanca y gruesa, con caderas y pecho de vaca y un rostro estúpido, también bovino; sólo le faltaba la campana al cuello. Me dijo con una sonrisa, mirando a Ugo y a Grazia:
+—Se ve que esos dos están enamorados..., ¿verdad?
+Quizás era una invitación para que nosotros hiciéramos lo mismo. En cambio respondí, ácido, manteniéndome a distancia:
+—Ah, ¿de verdad?... Vaya, mira..., y yo que no me había dado cuenta...
+Llegó el tren y Ugo, naturalmente, fue el primero en subir, quién sabe cómo, entre la muchedumbre que chillaba y se empujaba, y también el primero en asomar su antipática cara por la ventanilla, gritando:
+—Tengo cuatro sitios..., podéis venir con toda tranquilidad.
+Subimos y nos sentamos, una pareja frente a la otra, y el tren partió. Durante todo el trayecto puede decirse que no aparté ni un solo momento los ojos de aquellos dos: era más fuerte que yo. Ugo se había apoderado completamente de Grazia y ora le hablaba en voz baja, haciéndola reir y ruborizarse, ora, como por broma, la abrazaba, ora, como si nada, le hacía alguna caricia. Grazia, como una desvergonzada, se lo permitía, y no hacía más que menearse como una anguila y restregarse contra él. Pero lo que más me ofendía era que se comportasen de ese modo, como si yo no hubiese estado, ignorando mi presencia. Si al menos hubiera podido hacer yo lo mismo con Clementina, para contrapesar la conducta de Ugo; pero Clementina, además de no gustarme nada, no parecía desear que le hiciera la corte: dormía, con el cuello echado hacia atrás, la boca abierta, las manos en el regazo.
+En Ostia fuimos al establecimiento de baños y nos desnudamos, por turno, en la caseta. Una vez que los cuatro estuvimos en traje de baño se revelaron más aún las diferencias. Grazia tenía un hermoso cuerpo espigado, con piernas largas y fuertes, un busto floreciente; pero Clementina, en cambio, parecía un almohadón atado por la mitad, toda caderas y pecho, sin cuello ni cintura. Y entre Ugo y yo eran mucho más visibles las diferencias; él tenía un cuerpo de luchador, musculoso, fuerte, moreno, ancho de espaldas y estrecho de caderas, con el slip pegado a las nalgas y los muslos velludos estremecidos; yo, en cambio, era bajo, con piernas delgadas, el cuerpo sin músculos, los brazos débiles: una araña. Ugo, naturalmente, cogió en seguida a Grazia por la mano y, a la carrera, a través de la arena hirviente, llegaron al mar, donde se lanzaron juntos de cabeza.
+—¡Qué hermosa pareja! —dijo Clementina, que parecía hacerlo a propósito para envenenarme.
+Aquellos dos, ahora, en el mar, se salpicaban con agua, se daban empujones y luego Ugo tomaba a Grazia en brazos, ella se colgaba de su cuello y reía. Pregunté a Clementina si quería tomar un baño y respondió que le gustaría mucho, pero que tenía que quedarse cerca de la orilla porque no sabía nadar. En suma, nos bañamos en medio metro de agua sucia y caliente, entre los niños que lloraban y gritaban y se tiraban balones, y las ayas y las madres que los llamaban por su nombre, con la radio del establecimiento de baños que gritaba sin tregua una vieja cancioncilla: “Il mare è sempre blu, come guando c’eri tu”... Entre tanto, Ugo y Grazia nadaban allá a lo lejos, como verdaderos deportistas, y casi no se les veía.
+En aquel momento, sin quererlo, con toda naturalidad, acudió a mi mente la idea de que Hugo se ahogaría ese día. Lo pensé sin esfuerzo, como una cosa inevitable y justa: me había agraviado y, por lo tanto, debía morir. Este pensamiento me devolvió de pronto la tranquilidad. Me acerqué a Clementina, que estaba de pie en el agua, agarrándose con ambas manos a la cuerda de salvamento, y le dije:
+—Ugo es de esos valentones que, al final, les da un calambre y se ahogan... Y luego los traen desmayados a la playa y les hacen la respiración artificial.
+Ella me miró, sin comprender, y me dijo:
+—Pero si nada muy bien.
+—Nada muy bien, no lo discuto —respondí sacudiendo la cabeza—. Pero es de ese tipo de hombres que acaban el domingo tendidos en la arena mientras les hacen la respiración artificial... Permíteme que te lo diga.
+Después de un rato, Grazia y Ugo volvieron a la orilla y comenzaron a correr por la playa para secarse, según decían. Se perseguían, se agarraban con ambas manos, se tiraban bolas de arena, caían juntos al suelo. Yo los miraba fijamente, al lado de Clementina, que se agarraba a la cuerda, y me parecía ver a Ugo que se lanzaba al mar y le daba un calambre, comenzaba a gesticular, se ahogaba, y luego lo traían a la orilla y le hacían la respiración artificial. No estaba seguro de que debiera morir; pero no me desagradaba pensar en que durante una hora, por lo menos, estuviera entre la vida y la muerte, como suele decirse. Mientras tanto, Ugo y Grazia habían acabado de secarse y Ugo vino a proponernos un paseo en barca. Clementina declaró inmediatamente que ella no montaba en barca porque no sabía nadar; de forma que subimos a la barca nosotros tres, yo a los remos y Ugo y Grazia sentados uno al lado del otro, en la popa.
+Empecé a remar con calma, en aquel mar tranquilo y aburrido, bajo un sol que quemaba, mirándolos fijamente, casi esperando que todo el veneno que había en mis miradas los avergonzase y los hiciera más discretos. Trabajo perdido: igual que poco antes en el tren, continuaban restregándose y bromeando, como si yo hubiera sido el barquero. Incluso Ugo quiso subrayar la cosa diciéndome en son de burla:
+—Si no le molesta, buen hombre, reme con la izquierda, porque si no iremos a chocar contra ese patín.
+Esta vez perdí la cabeza y respondí:
+—Dime, Ugo..., ¿nadie te ha dicho que eres un mal educado de tomo y lomo?
+Se incorporó, preguntándome:
+—¿Quéeee? —alargando la e, como queriendo decir: —“¿Qué es lo que oigo? ¿Oigo bien?”.
+Repliqué, sin dejar de remar:
+—Sí, un mal educado y un ignorante... ¿Nadie te lo ha dicho nunca?
+—Pero, ¿qué te pasa? —preguntó, alzando la voz.
+—Me pasa —dije fríamente— que eres un palurdo de primera.
+—¡Cuidado con lo que dices!
+—Digo lo que me parece, que eres un palurdo y también un bellaco.
+—Eh, con calma... ¡No aguanto esas bromas!
+Y diciendo así se puso de pie y me dio un golpe muy fuerte en lo alto del pecho. Dejé los remos, me levanté yo también e intenté devolverle el golpe; pero él, más rápido, me apretó la muñeca con dos dedos que parecían de hierro. Ahora luchábamos, en pie los dos, mientras Grazia, sentada, chillaba y nos pedía que lo dejáramos. Ante un movimiento más violento, la barca, que era estrecha y plana, se volcó y todos caímos al agua.
+No estábamos muy lejos de la orilla, y juro que, mientras caía al agua, pensé, contento: “Ahora le da un calambre y se ahoga... y muere, como Alessandro, como Giulio”. Mientras tanto la barca se alejaba, boca abajo y con los remos flotando en el agua, y nosotros tres emergíamos a la superficie, nadando.
+—¡Imbécil! —me gritó Ugo.
+Grazia, como sí nada hubiera ocurrido, se dirigía nadando hacia la playa.
+—¡Imbécil serás tú...! ¡Y también un canalla! —respondí, y al hablar me entró el agua en la boca.
+Pero ya Ugo no se ocupaba de mí, nadaba para alcanzar a Grazia. También yo empecé a nadar hacia la orilla, pensando siempre en el calambre que dentro de nada iba a hacerlo hundirse a plomo, cuando, de repente, sentí un agudo dolor en todo el costado izquierdo, desde el hombro hasta el pie, y comprendí que el calambre, en vez de a él me había dado a mí. Fue sólo un instante, pero en aquel instante perdí la cabeza: el dolor no cesaba, comencé a manotear, me faltaba la respiración, experimentaba un miedo terrible, lancé un grito y el agua se me metió en la boca. Grité: “¡Socorro!”, y de nuevo tragué agua. El calambre continuaba y yo me sumergí y volví a salir, grité de nuevo “¡Socorro!” y me sumergí de nuevo, siempre tragando agua. En suma, me habría ahogado si, por último, una mano no me hubiera aferrado el brazo, mientras una voz, la de Ugo, me decía:
+—Estáte quieto..., te llevaré hasta la orilla.
+Entonces cerré los ojos y creo que me desmayé.
+Volví en mí no sé cuánto tiempo después, y sentí bajo mi espalda la arena hirviente de la playa. Alguien, apretándome por las muñecas, me alzaba y me bajaba los brazos; algún otro, acuclillado, me daba masaje con las manos en el pecho y la barriga. El aire estaba lleno de una espesa polvareda, el sol cegaba, y a mi alrededor había todo un bosque de piernas bronceadas y velludas: gente que me miraba morir. Oí que alguien decía:
+—Para mí que se ha muerto.
+—Se hacen los valientes y, claro, luego se ahogan —observó algún otro.
+Me sentía hinchado de agua y la cabeza me pesaba, y entre tanto mis dos brazos subían y bajaban como los mangos de un fuelle; me acometió una gran furia y dije, tratando de liberarme:
+—Déjenme... Váyanse al infierno —y luego me desmayé otra vez.
+No quiero decir nada más de aquel día maldito. Pero una semana después, en el comercio, Grazia me dijo en voz baja, en un momento en que Ugo estaba lejos:
+—¿Sabes por qué, en Ostia, el domingo, estuviste a punto de ahogarte?
+—No, ¿por qué?
+—Me lo ha explicado Ugo... Dice que hay una fuerza misteriosa que lo protege; a quien se enfrenta con él puede ocurrirle incluso que se muera... En suma, dice que es tabú... ¿Se puede saber qué quiere decir tabú?
+—Tabú —respondí tras un momento de incertidumbre— quiere decir cuando una cosa o una persona es sagrada.
+Ella no dijo nada porque en aquel momento se acercaba Ugo, llevando en los brazos una pieza de algodón, y desplegándola con el habitual chasquido decía:
+—Esto es lo que usted necesita, señora.
+Pero por las miradas de Grazia comprendí que estaba muy enamorada. ¡Qué diablos!: un hombre guapo, fuerte, joven y, por añadidura, también tabú.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

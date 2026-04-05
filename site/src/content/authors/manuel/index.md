@@ -7,4 +7,84 @@ tags:
   - index
   - manuel
 ---
-¿Quién es Manuel Rojas? ![Manuel Rojas S.](/assets/images/rojas.jpg) Manuel Rojas Sepúlveda es un narrador, poeta y periodista chileno. Es uno de los primeros exponentes del superrealismo en Chile y uno de los máximos representantes de la así llamada generación de 1927. Nació en Buenos Aires, Argentina, de padres chilenos, el 8 de enero de 1896, y se crió en Buenos Aires, Rosario y Mendoza. En 1899, la familia regresó a Santiago de Chile; pero, en 1903, después de la muerte del padre, regresó con su madre a Buenos Aires, donde asistió a la escuela hasta la edad de once años. En 1912, a la edad de dieciséis años, regresó solo a Chile. En Chile, Rojas se involucró con intelectuales y grupos anarquistas, mientras trabajaba, desempeñando múltiples oficios: pintor, electricista, vendimiador, peón del Ferrocarril Trasandino, estibador, aprendiz de sastre, talabartero, cuidador de faluchos en Valparaíso, consueta y actor en compañías teatrales que recorren el país. Regresó a Argentina en 1921, donde publicó su primer libro de poemas (Poéticas) y sus primeros cuentos. En 1922, obtuvo el segundo premio en el concurso del diario La Montaña de Buenos Aires, con su relato “Laguna”. Poco después su relato “El hombre de los ojos azules” obtuvo el segundo premio en el concurso de la revista Caras y caretas. Dos años después, en 1924, regresó a Chile, donde empieza a escribir narrativa intensamente. Entonces empieza a colaborar con distintos diarios: El Diario Ilustrado, La Nación, El Mercurio y Federación Obrera. También ingresa a la Biblioteca Nacional con el grado de bibliotecario tercero. En 1929 recibió el premio Marcial Martínez y el de Atenea por el cuento “El delincuente”, y dos años después, gana el concurso literario del diario La Nación con su novela Lanchas en la bahía. La Universidad de Chile crea las Prensas y lo designan director de la Editorial Universitaria, entregándole luego la publicación de los Anales de la Universidad. Aunque siguió publicando colecciones de cuentos, ensayos e incluso una novela (La ciudad de los Césares, 1936), su consagración y reconocimiento literario llegó con su novela Hijo de ladrón, en 1951. Si bien la novela es una de las últimas grandes expresiones del viejo realismo que entonces empezaba a ser abandonado en América Latina, ésta revolucionó la forma narrativa en Chile, usando el monólogo interior (o corriente de la conciencia), la primera vez que en la narrativa chilena aparecen en forma consciente uno los procedimientos que estaban siendo utilizados frecuentemente en la novela anglosajona. Manuel Rojas murió en Santiago de Chile, el 11 de marzo de 1973. Tenía 77 años. Obra narrativa Hombres del sur. Santiago: Nascimento, 1926, 219 págs. El delincuente. Santiago: Imp. Universitaria, 1929, 215 págs. Lanchas en la bahía, pról. Hernán Díaz Arrieta (“Alone”), Santiago: Empresa Letras, 1932, 101 págs. Travesía: novelas breves. Santiago: Nascimento, 1934, 191 págs. La ciudad de los Césares. Santiago: Ercilla, 1936, 189 págs. Hijo de ladrón. Santiago: Nascimento, 1951, 366 págs. Antología de cuentos. Prólogo de Enrique Espinoza. Santiago: Zig-Zag, 1957, 148 págs. Mejor que el vino. Santiago: Zig-Zag, 1958, 264 págs. Punta de rieles. Santiago: Zig-Zag, 1960, 255 págs. Obras completas. Santiago: Zig-Zag, 1961, 898 págs. Cuentos del sur y Diario de México. México: Era, 1963, 155 págs. Sombras contra el muro. Santiago: Zig-Zag, 1964, 232 págs. El bonete maulino y otros cuentos. Con estudio prelimar de Leónidas Morales. Santiago: Editorial Universitaria, 1968, 151 págs. Cuentos. Con prólogo de M. R. Buenos Aires: Sudamericana, 1970, 364 págs. La oscura vida radiante. Buenos Aires: Sudamericana, 1971, 445 págs. Obras. Con prólogo de Jorge Campos. Madrid: Aguilar, 1973, 1017 págs. Obras escogidas, 2 vols. Santiago: Zig-Zag, 1989 ÍNDICE: Cuentos: Hombres del sur: cuentos (1926): Laguna (1922) Un espíritu inquieto (1925) El cachorro (1926) El bonete maulino (1926) Leyendas de la Patagonia (también: “El hombre de los ojos azules”) El delincuente (1929): El delincuente (1927) El vaso de leche (1927) Un mendigo (1926) El trampolín (1929) El colo colo (1926) La aventura de Mr. Jaiva (1928) Pedro el pequenero (1929) Un ladrón y su mujer (1928) La compañera de viaje (1927) Travesía. Novelas breves (1934): Bandidos en los caminos (1927) El hombre de la rosa (1928) La suerte de Cucho Vial (1928) Canto y baile (1929) El león y el hombre (1929) El fantasma del patio (1929) Historia de hospital (1928) Poco sueldo (1929) El rancho en la montaña (1927) Antología de cuentos (1957): Una carabina y una cotorra (1951) Oro en el sur (1957) Pancho Rojas (1951) Mares libres (1951) Novela: Hijo de ladrón (1951) (Primera parte) 
+
+¿Quién es Manuel Rojas? ![Manuel Rojas S.](/assets/images/rojas.jpg) Manuel Rojas Sepúlveda es un narrador, poeta y periodista chileno. Es uno de los primeros exponentes del superrealismo en Chile y uno de los máximos representantes de la así llamada generación de 1927. Nació en Buenos Aires, Argentina, de padres chilenos, el 8 de enero de 1896, y se crió en Buenos Aires, Rosario y Mendoza. En 1899, la familia regresó a Santiago de Chile; pero, en 1903, después de la muerte del padre, regresó con su madre a Buenos Aires, donde asistió a la escuela hasta la edad de once años.
+
+En 1912, a la edad de dieciséis años, regresó solo a Chile. En Chile, Rojas se involucró con intelectuales y grupos anarquistas, mientras trabajaba, desempeñando múltiples oficios: pintor, electricista, vendimiador, peón del Ferrocarril Trasandino, estibador, aprendiz de sastre, talabartero, cuidador de faluchos en Valparaíso, consueta y actor en compañías teatrales que recorren el país. Regresó a Argentina en 1921, donde publicó su primer libro de poemas (Poéticas) y sus primeros cuentos. En 1922, obtuvo el segundo premio en el concurso del diario La Montaña de Buenos Aires, con su relato “Laguna”.
+
+Poco después su relato “El hombre de los ojos azules” obtuvo el segundo premio en el concurso de la revista Caras y caretas. Dos años después, en 1924, regresó a Chile, donde empieza a escribir narrativa intensamente. Entonces empieza a colaborar con distintos diarios: El Diario Ilustrado, La Nación, El Mercurio y Federación Obrera. También ingresa a la Biblioteca Nacional con el grado de bibliotecario tercero. En 1929 recibió el premio Marcial Martínez y el de Atenea por el cuento “El delincuente”, y dos años después, gana el concurso literario del diario La Nación con su novela Lanchas en la bahía.
+
+La Universidad de Chile crea las Prensas y lo designan director de la Editorial Universitaria, entregándole luego la publicación de los Anales de la Universidad. Aunque siguió publicando colecciones de cuentos, ensayos e incluso una novela (La ciudad de los Césares, 1936), su consagración y reconocimiento literario llegó con su novela Hijo de ladrón, en 1951. Si bien la novela es una de las últimas grandes expresiones del viejo realismo que entonces empezaba a ser abandonado en América Latina, ésta revolucionó la forma narrativa en Chile, usando el monólogo interior (o corriente de la conciencia), la primera vez que en la narrativa chilena aparecen en forma consciente uno los procedimientos que estaban siendo utilizados frecuentemente en la novela anglosajona.
+
+Manuel Rojas murió en Santiago de Chile, el 11 de marzo de 1973. Tenía 77 años. Obra narrativa Hombres del sur. Santiago: Nascimento, 1926, 219 págs. El delincuente. Santiago: Imp. Universitaria, 1929, 215 págs. Lanchas en la bahía, pról. Hernán Díaz Arrieta (“Alone”), Santiago: Empresa Letras, 1932, 101 págs. Travesía: novelas breves. Santiago: Nascimento, 1934, 191 págs. La ciudad de los Césares. Santiago: Ercilla, 1936, 189 págs. Hijo de ladrón. Santiago: Nascimento, 1951, 366 págs. Antología de cuentos. Prólogo de Enrique Espinoza.
+
+Santiago: Zig-Zag, 1957, 148 págs. Mejor que el vino. Santiago: Zig-Zag, 1958, 264 págs. Punta de rieles. Santiago: Zig-Zag, 1960, 255 págs. Obras completas. Santiago: Zig-Zag, 1961, 898 págs. Cuentos del sur y Diario de México. México: Era, 1963, 155 págs. Sombras contra el muro. Santiago: Zig-Zag, 1964, 232 págs. El bonete maulino y otros cuentos. Con estudio prelimar de Leónidas Morales. Santiago: Editorial Universitaria, 1968, 151 págs. Cuentos. Con prólogo de M. R. Buenos Aires: Sudamericana, 1970, 364 págs.
+
+La oscura vida radiante. Buenos Aires: Sudamericana, 1971, 445 págs. Obras. Con prólogo de Jorge Campos. Madrid: Aguilar, 1973, 1017 págs. Obras escogidas, 2 vols. Santiago: Zig-Zag, 1989
+
+ÍndiceCuentos
+ Hombres del sur: cuentos (1926):
+
+Laguna (1922)
+
+Un espíritu inquieto (1925)
+
+El cachorro (1926)
+
+El bonete maulino (1926)
+Leyendas de la Patagonia (también: “El hombre de los ojos azules”)
+
+El delincuente (1929):
+
+El delincuente (1927)
+
+El vaso de leche (1927)
+
+Un mendigo (1926)
+
+El trampolín (1929)
+
+El colo colo (1926)
+
+La aventura de Mr.
+
+Jaiva (1928)
+
+Pedro el pequenero (1929)
+
+Un ladrón y su mujer (1928)
+
+La compañera de viaje (1927)
+
+Travesía. Novelas breves (1934):
+
+Bandidos en los caminos (1927)
+
+El hombre de la rosa (1928)
+
+La suerte de Cucho Vial (1928)
+
+Canto y baile (1929)
+
+El león y el hombre (1929)
+
+El fantasma del patio (1929)
+
+Historia de hospital (1928)
+
+Poco sueldo (1929)
+
+El rancho en la montaña (1927)
+
+Antología de cuentos (1957):
+
+Una carabina y una cotorra (1951)
+
+Oro en el sur (1957)
+
+Pancho Rojas (1951)
+
+Mares libres (1951)
+Novela
+ Hijo de ladrón (1951)
+(Primera parte)

@@ -1,0 +1,211 @@
+---
+layout: story
+title: El geranio
+slug: foc_geranio
+source: https://www.literatura.us/idiomas/foc_geranio.html
+tags:
+  - foc_geranio
+  - foc
+---
+Flannery O’Connor
+(Savannah, Georgia, 1925-1964)
+El geranio
+(“The Geranium”)
+(originalmente publicado en Accent, vol. VI, Summer 1946)
+Es el primer cuento (pp. 1-21) de la tesis de posgrado (junio de 1947)
+The Complete Stories, 1971
+El viejo Dudley se dobló en la silla que poco a poco iba amoldando a su cuerpo, miró por la ventana y, unos cuantos metros más allá, vio otra ventana enmarcada en ladrillos rojos manchados de tizne. Esperaba el geranio. Lo sacaban todas las mañanas, a eso de las diez, y lo entraban a las cinco y media. En el pueblo, la señora Carson tenía un geranio en la ventana. Allá en casa había muchos geranios, geranios más bonitos. «Los nuestros sí que son geranios pensó el viejo Dudley, no como esta cosa rosa y verde con lazos de papel.» El geranio que ponían en la ventana le recordaba a Grisby, el chico del pueblo que tenía la polio, al que había que sacar todas las mañanas en la silla de ruedas y dejarlo pestañeando al sol. Si Lutisha llegaba a echarle mano a ese geranio y a plantarlo en la tierra, a las pocas semanas seguro que conseguía algo digno de verse. Esos que vivían al otro lado del callejón no tenían ni idea de cómo se cuidan los geranios. A este lo sacaban para que se cocinara todo el día bajo un sol de justicia, y lo ponían tan cerca del borde que, a la que soplara un poco de viento, acababa en el suelo. No tenían ni idea, ni idea de geranios. Esa maceta no tenía que haber estado donde estaba. Al viejo Dudley se le hizo un nudo en la garganta. Lutish era capaz de conseguir que arraigara lo que le echasen. Y Rabie también. Notó una opresión en la garganta. Echó la cabeza hacia atrás y trató de aclararse las ideas. No se le ocurrían muchas cosas en las que pensar que no le hicieran sentir el nudo en la garganta. Entró su hija y le preguntó:
+—No quieres salir a dar un paseo? —Se la veía molesta.
+No le contestó.
+—Sales o no sales?
+—No salgo.
+Se preguntó cuánto tiempo iba a seguir su hija allí de pie. Hacía que los ojos se le pusieran como la garganta. Se le iban a nublar y entonces ella se daría cuenta. Se había dado cuenta otras veces y había sentido pena por su padre. También había sentido pena por sí misma. «Se lo podría haber ahorrao pensó el viejo Dudley, si lo hubiese dejao en paz, si hubiese dejao que se quedara allá en el pueblo y no se hubiese empeñao en cumplir con su maldito deber.» Ella salió de la habitación lanzando un fuerte suspiro, y ese suspiro le fue subiendo por el cuerpo y le recordó otra vez el momento aquel de eso ella no tenía la culpa en que, de repente, le habían entrado ganas de ir a Nueva York a vivir con su hija.
+Podía haberse librado de ir. Podía haberse puesto firme, haberle dicho que viviría su vida donde había vivido siempre, le enviara o no dinero todos los meses, se las arreglaría con la jubilación y lo que sacara haciendo chapuzas. Que se quedara con el maldito dinero, lo necesitaba más que él. Se hubiera alegrado de que liquidaran su deber de hija de aquella manera. Entonces, si él se moría solo, lejos de sus hijos, ella podía decir que la culpa la tenía su padre; y si llegaba a ponerse enfermo y no tenía quién lo cuidara, ella podía haber dicho que se lo había buscado él solito Pero, claro, llevaba dentro aquella cosa y le habían entrado ganas de conocer Nueva York. Cuando era niño había estado en Atlanta una vez, y había visto Nueva York en una película. Big Town Rhythm se llamaba. Las grandes ciudades eran lugares importantes. Aquella cosa que llevaba dentro le salió de repente, lo agarró por sorpresa. El lugar igualito al que había visto en el cine tenía un sitio para él! Un lugar importante y tenía sitio para él! Y había dicho que sí, que iría.
+Enfermo debía estar cuando aceptó. Porque, sano, seguro que no decía que sí. El estaba enfermo y ella tan empeñada en cumplir con su maldito deber que al final consiguió convencerlo. Vamos a ver, por qué tuvo su hija que ir al pueblo a darle la tabarra? Con lo bien que se arreglaba él. La jubilación le alcanzaba para comer, y con las chapuzas que iba haciendo se pagaba el cuarto de la pensión.
+Por la ventana de aquel cuarto veía pasar el río, denso y rojo, lo veía superar con esfuerzo las piedras y las curvas. Trató de pensar cómo era, además de rojo y lento. Añadió las manchas verdes de los árboles en las dos orillas, y en algún punto, río arriba, una mancha marrón para indicar la basura. Él y Rabie iban hasta ahí todos los miércoles a pescar en una barca. Rabie se conocía el río de arriba abajo en un tramo de treinta kilómetros. En todo el condado de Coa no había ni un solo negro que lo conociese como él. A Rabie le encantaba el río, pero al viejo Dudley no le decía nada. A él lo que le interesaban eran los peces. Le gustaba volver por la noche con una larga ristra de pescados y echarlos en el fregadero. «Traigo unos cuantos qu'he pescao», decía. «Hacía falta un hombre para pescar unos pescaos así», comentaban siempre las viejecitas de la pensión. El y Rabie salían los miércoles bien temprano y pescaban todo el día. Rabie se encargaba de encontrar los sitios buenos y de remar; el viejo Dudley se encargaba de pescarlos. A Rabie no le interesaba demasiado pescar, a él lo que le gustaba era el río.
+—¿Pa qué le vale echar el sedal ahí, jefe? —decía—. Si ahí no queda ni un pescao. Este viejo río no esconde nada por aquí, no señor.
+Reía como un tonto y llevaba la barca río abajo. Así era Rabie. Para robar tenía más arte que las comadrejas, pero sabía dónde había buena pesca. El viejo Dudley siempre le regalaba los pescados chicos.
+El viejo Dudley había vivido en la planta de arriba de la pensión, en el cuarto de la esquina, desde la muerte de su esposa en el año 1922. Protegía a las ancianitas. Era el hombre de la casa y hacía las cosas que se supone que debe hacer el hombre de la casa. La tarea era aburrida por las noches, cuando las viejecitas se sentaban en la sala a rezongar y a hacer ganchillo y el hombre de la casa estaba obligado a escuchar y a hacer de juez en las guerras de cotorreos y chillidos crispantes. Pero durante el día estaba Rabie. Rabie y Lutisha vivían en el sótano. Lutish cocinaba y Rabie se ocupaba de la limpieza y del huerto, pero menudo era para escaquearse con la faena a medio hacer e irse a echarle una mano al viejo Dudley en alguna de sus empresas: construir un gallinero, pintar una puerta. Le gustaba escuchar, que le contaran cosas de Atlanta, de cuando el viejo Dudley estuvo allí, y de cómo se montaban los fusiles y un montón de cosas más que el viejo sabía.
+A veces, por las noches, iban a cazar zarigüeyas. Nunca cogían ni una zarigüeya, pero, de vez en cuando, al viejo Dudley le gustaba librarse de las señoras y la caza era una buena excusa. A Rabie no le gustaba ir a cazar zarigüeyas. Nunca cazaban ni una zarigüeya, ni siquiera conseguían hacer que alguna se subiera a un árbol; además, Rabie era más bien un negro de río.
+—Esta noche no vamo a cazar zarigüeyas, ¿eh, jefe? Tengo algo que hacer —decía cuando el viejo Dudley se ponía a hablar de sabuesos y escopetas.
+—¿A quién le vas a robar las gallinas esta noche? —preguntaba Dudley sonriendo.
+—Me parece qu'esta noche toca cazar zarigüeyas —suspiraba Rabie.
+El viejo Dudley sacaba la escopeta, la desmontaba y, mientras Rabie limpiaba las piezas, le explicaba el mecanismo. Después volvía a montarla. A Rabie le maravillaba la forma en que conseguía volver a montarla. Al viejo Dudley le hubiera gustado explicarle a Rabie cosas de Nueva York. Si hubiera podido enseñársela a Rabie, la ciudad no habría sido tan grande y él no habría notado aquella presión cada vez que salía, «Tan grande no es le habría dicho—. No te dejes agobiar, Rabie. Es una ciudad com'otra cualquiera, y a la final las ciudades tampoco no son tan complicadas».
+Lo eran. De pronto Nueva York era todo bullicio y actividad y al cabo de nada lo veías sucio y sin vida. Su hija ni siquiera vivía en una casa. Vivía en un edificio, en medio de una hilera de edificios todos iguales, grises y rojos, manchados de tizne, con gentes de boca agria asomadas a las ventanas para ver otras ventanas y otras gentes que las miraban a su vez. Y dentro, subías y bajabas, y solo veías corredores, como cintas de medir donde las puertas indicaban los centímetros. Recordó que la primera semana aquel edificio lo había dejado aturdido. Se despertaba con la esperanza de que durante la noche los corredores hubiesen cambiado, se asomaba a la puerta y ahí estaban, alargados como pistas para pasear perros. Y las calles, tres cuartos de lo mismo. Se preguntaba adonde llegaría si caminaba hasta el final de alguna de ellas. Una noche soñó que lo hacía y que acababa al final del edificio: en ninguna parte.
+A la semana siguiente tomó algo más de conciencia de su hija, su yerno y su nieto: se pusiera donde se pusiera, siempre estaba en medio. Su yerno sí que era curioso. Era camionero y solo estaba en casa los fines de semana. Decía «naa» en lugar de «no» y en la vida había oído hablar de zarigüeyas. El viejo Dudley dormía en el cuarto con su nieto de dieciséis años, con el que no se podía hablar. Algunas veces, cuando el viejo Dudley y su hija se quedaban solos en el apartamento, ella se sentaba y hablaba con él. Primero tenía que pensar en qué iba a decirle a su padre. Normalmente la conversación se terminaba antes de que ella considerase llegado el momento de levantarse y ponerse a hacer otra cosa, y entonces él se veía obligado a decir algo. Siempre trataba de pensar en algo que no le hubiese dicho ya. Ella nunca lo escuchaba la segunda vez. Lo que ella veía era que su padre pasaba sus últimos años con su familia y no en una pensión de mala muerte, llena de viejas a las que les temblaba la cabeza. Ella cumplía con su deber. No como sus hermanos.
+Una vez lo llevó de compras, pero él estuvo de lo más torpe. Fueron en el «metro», un ferrocarril que iba por debajo de la tierra, por una especie de cueva inmensa. La gente salía de los trenes como hormigas, subían las escaleras y llegaban a las calles. Y dejaban las calles, bajaban las escaleras y se metían en los trenes: blancos, negros, amarillos, mezclados como verduras en la sopa. Aquello era un hormiguero. Los trenes entraban como flechas en los túneles, iban por canales y de repente se detenían. Los que bajaban se abrían paso a empujones entre los que subían y el tren salía otra vez disparado. El viejo Dudley y la hija tuvieron que tomar tres distintos antes de llegar a donde iban. El se preguntó para qué salía la gente de su casa. Notaba como si se hubiese tragado la lengua. Ella lo sujetaba de la manga y tiraba de él entre el gentío.
+También viajaron en un tren que iba por encima del suelo. Ella lo llamaba «elevado». Para tomarlo tuvieron que subir a un andén muy alto. El viejo Dudley se asomó por encima de la barandilla y, allá abajo, vio a la gente y los coches pasar muy, muy rápido. Le entraron ganas de vomitar. Se agarró de la barandilla y se dejó caer sobre el suelo de madera del andén. La hija lanzó un grito y lo apartó del borde.
+—Pero qué haces, ¿quieres caerte y matarte? —le gritó.
+Por una rendija en las tablas entrevió el fluir de coches en la calle.
+—No m'importa —murmuró—. No m'importa si vivo o si muero.
+—Anda, vamos —le dijo ella—, te sentirás mejor cuando lleguemos a casa.
+—¿A casa? —repitió.
+Allá abajo, los coches avanzaban a su ritmo.
+—Anda, vamos —repitió ella—, que ya viene; estamos justo a tiempo de pillarlo.
+Les hubiera dado tiempo de pillarlos todos.
+Consiguieron subirse a ese. Volvieron al edificio y al apartamento. En el apartamento estaban demasiado apretados. Te pusieras donde te pusieras, siempre había alguien. La cocina daba al lavabo y el lavabo daba a todo lo demás, así que siempre estabas en el lugar de partida. Allá en el pueblo tenías la planta de arriba, el sótano, el río y el centro, delante de Fraziers... y dale, otra vez la garganta.
+Hoy el geranio se retrasaba. Eran las diez y media. Normalmente, a eso de las diez y cuarto ya lo habían sacado.
+En alguna parte del corredor una mujer chilló algo ininteligible a la calle; una radio gemía con la música cansina de una radionovela; un cubo de basura cayó con estrépito por la escalera de incendios. Se oyó un portazo en el apartamento de al lado y unos pasos decididos se alejaron por el corredor.
+—Será el negro —masculló el viejo Dudley—. El negro de los zapatos relucientes.
+Llevaba allí una semana cuando el negro se mudó. Ese jueves, cuando se asomó a la puerta para mirar por los corredores largos como pistas para pasear perros, vio al negro entrar en el apartamento de al lado. Llevaba un traje gris mil rayas, y una corbata color habano. El cuello duro y blanco le dibujaba una línea bien definida en la piel. Los zapatos relucientes también eran color habano a juego con la corbata y la piel. El viejo Dudley se rascó la cabeza. No sabía que la gente que vivía apretada en un edificio pudiera pagarse un sirviente. Rió entre dientes. Para lo que les iba a servir un negro endomingado. A lo mejor este negro conocía el campo de los alrededores... o a lo mejor sabía cómo se llegaba al campo. En una de esas podían ir de caza. Podían buscar un arroyo en alguna parte. Cerró la puerta y fue al cuarto de la hija.
+—Oye! —le gritó—, los d'aquí al lao tienen un negro. Será pa que limpie. Tú ¿crees que lo van a hacer venir to los días?
+Sin dejar de hacer la cama, su hija levantó la cabeza y le preguntó:
+—¿Se puede saber de qué me estás hablando?
+—Digo que los d'aquí al lao tienen un criado, un negro, va to endomingao.
+La hija se fue al otro lado de la cama y le dijo:
+—A ti te falta un tornillo. El apartamento de al lado está vacío, además, en este edificio nadie puede pagarse un criado.
+—Te digo que lo vi —insistió el viejo Dudley riendo burlón. Entró derechito en l'apartamento y llevaba corbata, cuello blanco y zapatos con punta.
+—Si entró en el apartamento de al lado, seguro que se lo limpia él —masculló.
+Se fue hasta el tocador y empezó a revolver las cosas. El viejo Dudley lanzó una carcajada. Cuando quería, la hija resultaba bien cómica. Y le dijo:
+—Bueno, me parece que voy ir a ver cuándo le dan el día libre. En una d'esas lo convenzo que le gusta la pesca. —Y se dio una palmada en el bolsillo haciendo tintinear las dos monedas de veinticinco centavos.
+Antes de que consiguiera salir del todo al corredor, ella salió corriendo a buscarlo y tiró de él para hacerlo entrar.
+—¿Es que no me oyes? —le gritó—. Te hablo en serio. Si entró en el apartamento es que lo tiene alquilado para él. Ni se te ocurra preguntarle nada ni hablar con él. No quiero líos con estos negros.
+—¿Quieres decir que va vivir aquí al lao? —murmuró el viejo Dudley.
+—Supongo —contestó ella encogiéndose de hombros—. Y tú no te metas en lo que no te importa —agregó—. Tú con ese no tienes nada que ver.
+Se lo dijo tal cual. Como si él no tuviera sentido común. Pero ahí mismito le echó la bronca. Se las cantó bien claritas y bien que lo entendió.
+—No es así como t'han educao! —le dijo con voz atronadora—. No t'han educao pa vivir apretujada con estos negros del norte que se creen que valen lo mismo que tú, y encima te piensas que yo tendría tratos con un tipo así! Si te piensas que me quiero mezclar con ellos, estás loca.
+Tuvo que calmarse un poco porque se le hacía un nudo en la garganta. Ella se puso tiesa y le dijo que vivían donde podían permitírselo y que hacían lo que podían. Con sermones a él! Después salió toda tiesa sin decir una palabra más. Así era ella. Trataba de mostrarse solemne echando los hombros hacia atrás estirando el cuello. Ni que él fuera un tonto. Ya sabía que los yanquis dejaban entrar a los negros por la puerta principal y sentarse en sus sillones, pero lo que no sabía era que su propia hija educada como estaba mandado, se iría a vivir justo al lado de ellos, y que después pensaría que él tenía tan poco sentido común para mezclarse con esa gentuza. Justo él!
+Se levantó y cogió un diario que había en otra silla. Ya puesto cuando ella volviera a entrar, haría como que estaba leyendo. No tenía sentido que se estuviera ahí parada, mirándolo fijamente, convencida de que debía buscarle alguna ocupación. Miró por encima del periódico la ventana al otro lado del callejón. Todavía no estaba el geranio. Nunca había tardado tanto. El primer día que lo había visto estaba sentado ahí mismo, asomado a la ventana, mirando la otra ventana, y entonces le había echado un vistazo al reloj para calcular cuánto tiempo había pasado desde el desayuno. Al levantar la vista, lo vio. Dio un respingo. No le gustaban las flores, pero el geranio no parecía una flor. Se parecía a Grisby, el chico enfermo del pueblo, y era del mismo color que las cortinas que las ancianas tenían en la sala, y el lazo de papel de la maceta se parecía al que Lutish llevaba en la espalda del uniforme de los domingos. Lutish era aficionada a los lazos. «Como la mayoría de las negras», pensó el viejo Dudley.
+La hija volvió a pasar. Él se había propuesto que cuando pasara lo viera leyendo el diario.
+—Hazme un favor, ¿quieres? —le dijo ella como si acabara de inventarse un favor para que él tuviera que hacérselo.
+Ojalá no lo mandara otra vez a la tienda de comestibles. La última vez se había perdido. Esos malditos edificios eran todos iguales. Asintió con la cabeza.
+—Baja al tercer piso y pídele a la señora Schmitt que me preste el patrón de la camisa que usa para Jake.
+¿Por qué no lo dejaba quedarse ahí sentado? No necesitaba el patrón de la camisa.
+—De acuerdo —le dijo—. ¿Qué apartamento es?
+—El diez... y está en el mismo sitio que este. Justo aquí debajo, bajando tres pisos.
+El viejo Dudley siempre temía que al salir a aquellas pistas para pasear perros se abriera de repente una puerta y uno de los hombres de morro fino que se sentaban en camiseta en los alféizares de las ventanas le gruñeran: «Y tú qu'haces aquí?». La puerta del apartamento del negro estaba abierta y vio a una mujer sentada en una silla, al lado de la ventana. «Negros yanquis», masculló. La mujer llevaba unas gafas sin montura y sobre el regazo tenía un libro. «Las negras no se sienten elegantes hasta que no llevan gafas», pensó el viejo Dudley. Se acordó de Lutish y de sus gafas. Había ahorrado trece dólares para comprárselas. Y entonces fue al médico, le pidió que le revisara la vista y le dijera cómo de gruesas tenían que ser las gafas. El hombre la mandó mirar unos dibujos de animales a través de un espejo, le puso una luz muy cerca de los ojos y le observó la cabeza por dentro.
+Y después le dijo que no necesitaba gafas. Lutish se enojó tanto que durante tres días seguidos se le quemó el pan de maíz, y después de todos modos se compró unas gafas en la tienda de baratillo. No le costaron más que un dólar con noventa y ocho centavos y se las ponía todos los sábados. «Así eran las negras», rió entre dientes el viejo Dudley. Se dio cuenta de que había hecho ruido y se tapó la boca con la mano. A ver si lo oía alguno de los que vivían en los apartamentos.
+Bajó el primer tramo de escaleras. En el segundo, oyó unos pasos que subían. Se inclinó por encima del pasamanos y vio que era una mujer, una gorda con el delantal puesto. Desde arriba se parecía un poco a la señora Benson, la del pueblo. Se preguntó si la mujer iba a hablarle. Cuando los separaban apenas cuatro escalones, él la miró de reojo, pero ella no lo estaba mirando. Cuando se cruzaron en el mismo escalón, le echó un vistazo rápido y comprobó que lo miraba a la cara, como si nada. Entonces lo adelantó. No le había dicho una sola palabra. El viejo Dudley sintió un peso en el estómago.
+Bajó cuatro pisos en vez de tres. Volvió a subir uno y encontró el número 10. La señora Schmitt dijo que bueno, que esperara un momento, que iría a por el patrón. Mandó a uno de los niños a que se lo llevara a la puerta. El chico ni abrió la boca.
+El viejo Dudley empezó a subir las escaleras. Tenía que ir más despacio. Se cansaba al
+subir. Se cansaba con todo, o eso parecía. Claro que cuando Rabie corría por él la cosa
+era distinta. Rabie era un negro ágil de pies. Capaz de meterse en un gallinero sin que
+ni siquiera las gallinas se enteraran y de sacar el pollo más gordo de todos sin darle
+tiempo a pipiar. Rápido, además. Dudley siempre había sido pesado de pies. En los
+gordos era natural. Se acordó de una vez, cuando él y Rabie estaban cazando
+codornices cerca de Molton. Llevaban entonces un sabueso que te encontraba los nidos
+más rápido que el más lindo de los pointers. Eso sí, no servía para traértelas de vuelta,
+pero las encontraba siempre, y después se quedaba más tieso que un palo mientras tú
+apuntabas a los pájaros. Aquella vez el perro se paró en seco.
+—Va ser grand’el nido ese —susurró Rabie—. Lo noto.
+El viejo Dudley levantó la escopeta despacio a medida que caminaban. Tuvo que poner
+cuidado al andar sobre la pinaza. Con tanta pinaza, el suelo se volvía resbaladizo.
+Rabie pasaba el peso de una pierna a la otra, levantaba y apoyaba los pies sobre la
+pinaza blanda como la cera con un cuidado instintivo. Miraba al frente y avanzaba
+deprisa. El viejo Dudley miraba con un ojo hacia delante y con el otro el suelo, que
+empezaría a bajar y él resbalaría peligrosamente hacia delante, o, cuando quisiera
+subir con esfuerzo una pendiente, resbalaría hacia atrás.
+——Jefe, ¿no vale más qu'esta vuelta coja yo los pájaros? —sugirió Rabie—. Los lunes no
+anda usté muy ligero de pies. Si se cae en una d'esas pendientes, los pájaros se
+desparramarán antes que pueda usté apuntar con l’escopeta.
+El viejo Dudley quería coger toda la nidada. Habría podido darle a cuatro sin problema.
+—Los cogeré yo —masculló.
+Levantó la escopeta para apuntar y se inclinó hacia delante. Patinó con algo y se
+deslizó con los pies por delante. La escopeta se disparó y toda la nidada salió volando.
+—Aah, dejamos escapar unos pájaros maníficos —suspiró Rabie.
+—Encontraremos otra nidada —dijo el viejo Dudley—. Y ahora sácame de este maldito
+agujero.
+Podría haber cazado cinco de esos pájaros si no se hubiera caído. Podría haberlos
+volteado como latas en una verja. Acercó una mano a la oreja y extendió la otra hacia
+delante. Podría haberlos volteado como en el tiro al plato. ¡Pum! Un crujido en la
+escalera lo obligó a volverse, mientras con los brazos seguía sosteniendo una escopeta
+invisible. El negro subía las escaleras que parecía que se comía los escalones, iba hacia
+él, una sonrisa divertida le estiraba el bigote cuidado. El viejo Dudley se quedó
+boquiabierto. El negro hacía muecas, como aguantando la risa. El viejo Dudley fue
+incapaz de moverse. Tenía la vista clavada en la línea bien definida que el cuello de la
+camisa marcaba sobre la piel del negro.
+—¿Qué está cazando, veterano? —le preguntó el hombre con una voz que recordaba la
+risa de un negro y la sorna de un blanco.
+El viejo Dudley se sintió como un crío con una pistola de aire comprimido. Se había
+quedado con la boca abierta y la lengua inmóvil en el centro. Notó una flojera justo
+debajo de las rodillas. Perdió pie, resbaló tres escalones y cayó sentado.
+—Será mejor que tenga cuidado —le dijo el hombre—. Podría lastimarse en estas
+escaleras.
+Le tendió la mano para que pudiera agarrarse y levantarse. Era una mano larga y
+estrecha, de uñas limpias y cortadas rectas. Daban la impresión de estar limadas. Las
+manos del viejo Dudley colgaban inertes entre sus rodillas. El negro lo agarró del brazo
+y tiró de él.
+—¡Uff! —soltó—, ¡cómo pesa! Venga, colabore un poquito.
+Al viejo Dudley se le destrabaron las rodillas y se levantó con dificultad. El negro lo
+tenía agarrado del brazo.
+—De todas maneras voy para arriba —le dijo—. Lo ayudo.
+El viejo Dudley echó una ojeada desesperada a su alrededor. A sus espaldas, las
+escaleras parecían echársele encima. Subía las escaleras con el negro. El negro lo
+esperaba en cada escalón.
+—¿Así que caza? —le preguntó el negro—. Déjeme pensar. Una vez fui a cazar ciervos. Me parece que usamos una Dodson calibre treinta y ocho para coger esos ciervos. ¿Usted qué usa?
+El viejo Dudley miraba sin ver los relucientes zapatos color habano.
+—Escopeta —farfulló.
+—Me gustan las armas, más que ir de caza —le decía el negro—. Nunca se me dio bien
+matar nada. Da pena acabar con la reserva de caza. Eso sí, si tuviera tiempo y dinero,
+coleccionaría armas.
+En cada escalón esperaba a que el viejo Dudley lo subiera. Mientras, le iba hablando de
+armas y marcas. Llevaba unos calcetines grises con motas negras. Terminaron de subir
+las escaleras. El negro lo acompañó por el corredor, agarrándolo del brazo. Seguro que
+daba la impresión de que iba enlazado al brazo de aquel negro.
+Fueron derechitos a la puerta del viejo Dudley. Y ahí el negro le preguntó:
+—¿Es de por aquí?
+El viejo Dudley negó con la cabeza, la vista clavada en la puerta. Todavía no había
+mirado al negro. Mientras subían las escaleras, no había mirado al negro.
+—Ya verá —le dijo el negro—, es un sitio estupendo... cuando se acostumbre.
+Le dio una palmada en la espalda al viejo Dudley y entró en su apartamento. El viejo
+Dudley entró en el suyo. El dolor de la garganta se le extendió por toda la cara y le
+empañó los ojos.
+Se acercó arrastrando los pies a la silla junto a la ventana y se dejó caer en ella. La
+garganta estaba a punto de estallarle. La garganta estaba a punto de estallarle por
+culpa de un negro yanqui, un negro condenado que le daba palmadas en la espalda y
+lo llamaba «veterano». A él que sabía que eso no podía ser. A él que había venido de
+un lugar decente. Un lugar decente. Un lugar donde eso no podía ser. Notó algo raro
+en los ojos. Le estaban creciendo dentro de las órbitas y de un momento a otro se iban
+a quedar sin sitio. Estaba atrapado en ese lugar donde los negros te llamaban «veterano». No se dejaría atrapar. No se dejaría. Movió la cabeza contra el respaldo de
+la silla para estirar el cuello, lo notaba agarrotado.
+Un hombre lo miraba. Desde la ventana, al otro lado del callejón, un hombre lo miraba
+fijamente. El hombre estaba viendo cómo lloraba. En ese lugar era donde tendría que
+haber estado el geranio, pero no, allí había un hombre en camiseta, que lo veía llorar y
+esperaba a que se le reventara la garganta. El viejo Dudley le sostuvo la mirada a
+aquel hombre. En ese lugar tendría que haber estado el geranio. Ese era el sitio del
+geranio y no del hombre.
+—¿Y el geranio, dónde está? —le gritó pese a que se le cerraba la garganta.
+—¿Pa qué llora? —le preguntó el hombre—. En mi vida no había visto a un hombre
+llorar así.
+—¿Y el geranio, dónde está? —preguntó el viejo Dudley, tembloroso—. Ahí tendría que
+estar el geranio y no usté.
+—Esta ventana es mía —le aclaró el hombre—. Tengo derecho a sentarme aquí, si me
+da la gana.
+—¿Dónde está? —chilló el viejo Dudley. La garganta se le había abierto un poco.
+—Se cayó pa abajo, si tanto l’interesa —le contestó el hombre.
+El viejo Dudley se levantó y se asomó por encima del alféizar de la ventana. Seis pisos
+más abajo, en el callejón, alcanzó a ver una maceta hecha añicos sobre un montón de
+tierra desparramada y algo de color rosa que asomaba en medio de un lazo verde de
+papel. Seis pisos más abajo, destrozado.
+El viejo Dudley miró al hombre que mascaba chicle y esperaba a ver cómo se le
+reventaba la garganta.
+—No tenía qu’haberlo puesto tan cerca del borde —murmuró—. ¿Por qué no lo recoge?
+—¿Por qué no lo recoge usté, agüelo?
+El viejo Dudley se quedó con la vista clavada en el hombre que ocupaba el sitio donde
+debería haber estado el geranio.
+Eso haría. Bajaría y lo recogería. Lo pondría en su ventana, y, si le daba la gana, se
+quedaría todo el día mirándolo. Se alejó de la ventana y salió del cuarto. Caminó
+despacio por la pista para pasear perros y llegó a las escaleras. Las escaleras se abrían
+hacia abajo como una herida en el suelo. Penetraban por un agujero como una caverna
+y bajaban, bajaban en picado. Y él había subido un tramo de esas escaleras un poco
+por detrás del negro. Y el negro lo había ayudado a levantarse y lo había llevado
+agarrado del brazo y había subido con él las escaleras y le había contado que cazaba
+ciervos, «veterano», y lo había visto empuñar una escopeta que no existía y lo había
+visto sentado en la escalera como un niño. Llevaba zapatos relucientes, color habano, y
+hacía muecas para no reírse y todo aquello era de risa. A lo mejor, en cada escalón
+había un negro con motas negras en los calcetines, haciendo muecas para no reírse.
+Las escaleras bajaban y bajaban en picado. No podía bajar y arriesgarse a que los
+negros le dieran palmadas en la espalda. Volvió al cuarto y a la ventana, se asomó y,
+allá abajo, vio el geranio.
+El hombre seguía sentado donde debería haber estado la planta.
+—Oiga usté, que no l’he visto recogerlo —le dijo.
+El viejo Dudley lo miró fijamente.
+—A usté lo tengo visto de otras veces —le dijo el hombre—. Lo veo ahí sentao, to los
+días en esa silla vieja, mirando por la ventana, mirando lo qu’hacemos en mi
+apartamento. Lo que yo hago en mi apartamento es asunto mío, ¿s’entera? No me
+gusta que la gente mire lo que yo hago.
+Estaba tirado allá abajo, en el callejón, con las raíces al aire.
+—Y mucho cuidao, yo aviso una sola vez —dijo el hombre, y se apartó de la ventana.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

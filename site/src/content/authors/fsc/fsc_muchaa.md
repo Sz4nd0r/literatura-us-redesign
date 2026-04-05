@@ -1,0 +1,119 @@
+---
+layout: story
+title: Pongan agua a hervir, mucha, mucha
+slug: fsc_muchaa
+source: https://www.literatura.us/idiomas/fsc_muchaa.html
+tags:
+  - fsc_muchaa
+  - fsc
+---
+F. Scott Fitzgerald
+F. Scott Fitzgerald
+(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)
+Pongan agua a hervir, mucha, mucha
+(“‘Boil Some Water—Lots of It,’ ”)
+Originalmente publicado en Esquire, 13 (marzo de 1940);
+Afternoon of an Author: A Selection of Uncollected Stories and Essays
+(a cargo y con introducción de Arthur Mizener)
+(Nueva York: Charles Scribner’s Sons, 1957, 226 págs.);
+The Pat Hobby Stories
+(Nueva York: Charles Scribner & Sons, 1962, 159 págs.)
+Pat Hobby estaba sentado en su despacho en el edificio de los escritores y repasaba el trabajo de la mañana, que acababa de devolverle el departamento de guiones. Se dedicaba a corregir el trabajo ajeno, prácticamente lo único que le confiaban por aquel entonces. Tenía que corregir a toda prisa secuencias mal resueltas, pero la palabra prisa ni le daba miedo ni le decía nada en absoluto, pues Hobby llevaba en Hollywood desde que tenía treinta años, y ya tenía cuarenta y nueve. Todo el trabajo que había hecho aquella mañana (excepto algún cambio aquí y allá para poder atribuirse unas cuantas líneas), todo lo que se le había ocurrido era una sola frase imperativa, pronunciada por un médico:
+—Pongan agua a hervir, mucha, mucha.
+Era una buena frase. Le había venido a la imaginación de golpe en cuanto leyó el guión. En los días lejanos del cine mudo le hubiera servido para un rótulo y se hubieran acabado momentáneamente sus preocupaciones, pero ahora necesitaba algunas palabras más para los otros personajes de la escena. No se le ocurría nada.
+“Pongan agua a hervir”, se repetía a sí mismo, “mucha, mucha.”
+El verbo hervir le recordó inmediata y felizmente la cafetería. Eran recuerdos llenos de respeto, pues, para un veterano como Pat, la gente con quien compartías mesa en el almuerzo era más importante para hacer carrera que lo que escribías en tu despacho. Aquello no era un arte, como Pat repetía con frecuencia; aquello era una industria.
+—Esto no es un arte —le comentó a Max Leam, que bebía tranquilamente un vaso de agua junto a la nevera del pasillo—. Esto es una industria.
+Max le había echado aquel oportuno hueso de tres semanas a trescientos cincuenta dólares.
+—Hombre, Pat, ¿has escrito algo?
+—Mira, tengo algo que va a hacer que se... —mencionó una función biológica muy corriente con una certeza más bien pasmosa de que se llevaría a cabo en los cines.
+Max intentó calibrar su sinceridad.
+—¿Me lo puedes leer ahora? —preguntó.
+—No, todavía no. Pero tiene eso que se llamaba fuerza, si sabes a lo que me refiero.
+Max era un mar de dudas.
+—Muy bien, adelante. Y si tropiezas con algún problema médico, ve al botiquín y consúltalo con el médico. No puede haber fallos. El espíritu de Pasteur iluminó la mirada de Pat. —Lo haré.
+Se sentía perfectamente mientras cruzaba el edificio con Max. Se sentía tan bien que decidió pegarse al productor y comer con él en la mesa principal. Pero Max frustró sus intenciones con un cariñoso y cantarín “Hasta luego” antes de desaparecer en la barbería.
+En otro tiempo Max había sido una figura familiar en la mesa principal; y a menudo, en aquella época dorada, había cenado en los comedores privados de los ejecutivos. Como pertenecía al Hollywood de los viejos tiempos, entendía sus chistes, sus vanidades, su sistema social con sus vertiginosas fluctuaciones. Pero ahora en la mesa principal había demasiadas caras nuevas, caras que lo miraban con ese recelo que en Hollywood es universal. Y en las otras mesas se sentaban los guionistas jóvenes, que parecían tomarse el trabajo demasiado en serio. Y, antes que sentarse en cualquier sitio, incluso entre las secretarias y los extras, prefería comerse un bocadillo en un rincón.
+Dio una vuelta por la enfermería y preguntó por el médico. Una chica, una enfermera, le contestó desde un espejo ante el que se estaba pintando apresuradamente los labios.
+Ha salido. ¿Qué pasa?
+—Ah, volveré más tarde.
+Había terminado de pintarse, y se volvió, joven y vivaracha, con una sonrisa luminosa y reconfortante.
+—La señorita Stacey lo atenderá. Estaba a punto de irme a comer.
+Pat se dio cuenta de que volvía a sentir una emoción antigua, muy antigua, vestigio de los tiempos de casado: la impresión de que si invitaba a comer a aquella belleza podía complicarse la vida. Pero inmediatamente recordó que ya no estaba casado, que sus mujeres ni siquiera le reclamaban ya la pensión alimenticia.
+—Estoy trabajando en una película de tema médico —dijo—. Necesito que me echen una mano.
+—¿Tema médico?
+—Estoy escribiendo... algo sobre un médico, un guión. Oye, te invito a comer. Me gustaría plantearte algunas cuestiones médicas.
+La enfermera titubeó.
+—No sé. Es el primer día que trabajo aquí.
+—No hay ningún problema —le aseguró Pat—; los estudios son democráticos. Aquí todo el mundo se tutea: sólo eres Joe, o Mary... Desde los peces gordos a los claquetistas.
+Y, camino del almuerzo, demostró rotundamente que lo que decía era verdad: saludó a una estrella masculina que, a cambio, lo llamó por su nombre de pila. En la cafetería, donde se sentaron muy cerca de la mesa principal, su productor, Max Leam, levantó la vista y lo saludó con un guiño cómplice.
+La enfermera —se llamaba Helen Earle— miraba con curiosidad e ilusión a todas partes.
+—No veo a nadie conocido —dijo—. Ay, sí, ahí está Ronald Colman. No me lo imaginaba así.
+Súbitamente Pat señaló al suelo.
+—¡Y ahí tienes al ratón Mickey!
+La chica dio un brinco y Pat se rió de su propia broma, pero Helen Earle no podía apartar los ojos, entusiasmada, de unos extras en traje de época que acababan de llenar el local con los fastos del Primer Imperio. A Pat le molestó que malgastara su interés en aquellas nulidades.
+—Los peces gordos se sientan en esa mesa —dijo solemnemente, meditabundo—, los directores y la gente por el estilo, menos los grandes ejecutivos. Si quisieran, Ronald Colman les plancharía los pantalones. Yo me suelo sentar con ellos, pero no admiten damas. Me refiero a los almuerzos: no admiten damas.
+—Ah —dijo Helen Earle, con mucha educación, pero poco convencida—. Debe ser maravilloso ser guionista. Me parece muy interesante.
+—Tiene su encanto, sí —dijo Pat, que pensaba desde hacía años que era una vida de perros.
+;—¿Qué quieres preguntarme sobre los médicos?
+Volvió el agobio. Algo se rompía en la mente de Pat cada vez que pensaba en aquel guión.
+—Bueno, Max Leam, que es ése de ahí enfrente, y yo estamos trabajando en un guión sobre un médico. Una película de hospitales. ¿Me entiendes?
+—Sí, sí —y añadió al cabo de un momento—: Gracias a esas películas estudié para enfermera.
+—Y, claro, no podemos cometer fallos, porque la película la verán cien millones de personas. Así que en el guión un médico ordena que pongan agua a hervir. Dice: “Pongan agua a hervir, mucha, mucha”. Y nos estamos preguntando qué hará la gente a continuación.
+—Pues... Probablemente pondrán a hervir agua —dijo Helen, e inmediatamente, algo confundida por la pregunta, añadió—: ¿De qué gente se trata?
+—Bueno... La hija de no sé quién y el hombre que vive en la casa, y un abogado, y el herido.
+Helen trató de digerir aquella información antes de responder,
+—Y hay otro tipo, pero lo voy a suprimir —concluyó Pat.
+Hubo una pausa. La camarera les trajo los bocadillos de atún.
+—Cuando un médico da una orden la da de verdad —decidió Helen.
+—Hmmm —el interés de Pat se había concentrado en una escena insólita que se desarrollaba en la mesa principal, pero le preguntó distraídamente—: ¿Estás casada?
+—No.
+—Yo tampoco.
+Ante la mesa principal se había parado un extra: un cosaco ruso con un bigote feroz. Se apoyaba en el respaldo de una silla vacía, entre Paterson, el director, y Leam, el productor.
+—¿Está ocupada? —preguntó con fuerte acento centroeuropeo.
+Las miradas de todos los que se sentaban a aquella mesa se clavaron en él de repente. Habían creído que se trataba de un actor conocido. Pero no lo era: vestía uno de los abigarrados uniformes que salpicaban la sala.
+Uno de los de la mesa dijo:
+—Está ocupada.
+Pero aquel individuo separó la silla de la mesa y se sentó.
+—Para comer cualquier sitio es bueno —comentó con una mueca que podía ser una sonrisa.
+Un estremecimiento recorrió las mesas más próximas. Pat Hobby, boquiabierto, no podía apartar la vista. Era como si alguien hubiera pintado al Pato Donald en La última cena.
+—Fíjate, fíjate —advirtió a Helen—. Ya se puede ir preparando. ¡Qué barbaridad!
+Ned Harman, el productor ejecutivo, rompió el silencio atónito de la mesa principal.
+—Esta mesa está reservada —dijo.
+El extra lo miró por encima de la carta.
+—Me dijeron que me sentara en cualquier sitio.
+Llamó con una seña a la camarera, que titubeó mientras buscaba una respuesta en las caras de sus superiores.
+—Los extras no comen aquí —dijo Max Leam, sin perder todavía la compostura—. Ésta es la...
+—Yo voy a comer —dijo el cosaco tenazmente—. He aguantado casi seis horas mientras rodaban esa basura repugnante y ahora voy a comer.
+El silencio se había extendido: desde el ángulo de visión de Pat todos parecían flotar inmóviles en el aire.
+El extra negó con la cabeza cansinamente.
+—No sé a quién se le habrá ocurrido —dijo, y Max Leam se echó hacia delante sin levantarse de la silla—, pero es la estupidez más asquerosa que he visto rodar en Hollywood.
+Pat meditaba en su mesa: ¿Por qué no hacían algo? Echarlo a puñetazos, sacarlo a rastras. Si eran unos cobardes, por lo menos podían llamar a los guardas de seguridad.
+—¿Quién es? —Helen Earle miraba inocentemente a donde miraba Pat—. ¿Debería conocerlo?
+Pat prestaba atención a Max Leam, que daba voces, furioso.
+—Levántese, hijo, levántese. ¡Fuera de aquí! ¡Fuera de aquí ahora mismo!
+El extra frunció el entrecejo.
+—¿Quién es usted para hablarme así? —preguntó.
+—Se va a enterar enseguida —Max se dirió a la mesa—. ¿Dónde está Cushman? ¿Donde está el encargado de Personal?
+—Intente moverme —dijo el extra, desenvainando la espada hasta que el puño asomó por encima de la mesa— y le cuelgo el sable en la oreja. Conozco mis derechos.
+Los doce hombres de la mesa, con salarios que sumaban más de mil dólares a la hora, permanecían sentados, estupefactos. Al fondo, cerca de la puerta, un guarda de seguridad se olió lo que estaba sucediendo y se abrió paso a codazos a través del local atestado. Y Big Jack Wilson, otro director, se levantó de repente y se acercó rodeando la mesa.
+Pero llegaron demasiado tarde. Pat Hobby se había cansado de aguantar: saltó de la silla, agarró una bandeja inmensa de la mesa de servicio que tenía más a mano, irrumpió de un brinco en escena y descargó la bandeja sobre la cabeza del extra con toda la fuerza de sus cuarenta y nueve años. El extra, que había empezado a levantarse para hacer frente a la amenazadora embestida de Wilson, recibió de lleno el golpe en la cara y en la sien, y, mientras se desplomaba, el maquillaje se le llenó de rayas rojas. Se derrumbó entre las sillas.
+Pat se mantenía en guardia, jadeando, con la bandeja en la mano.
+—¡Rata asquerosa! —gritó—. ¿Dónde se habrá creído que...?
+El guarda de seguridad se abrió paso a empujones, y también Wilson se abrió paso a empujones, y dos hombres aterrorizados se acercaron corriendo desde otra mesa para estudiar la situación.
+—¡Era una broma! —gritó uno de ellos—. Es Walter Herrick, el guionista de la película.
+—¡Dios mío!
+—Le estaba gastando una broma a Max Leam. ¡Era una broma!
+—¡Recogedlo! ¡Que venga un médico! ¡Rápido!
+Helen Earle se acercó corriendo; arrastraron a Walter Herrick e hicieron un hueco para dejarlo en el suelo mientras gritaban:
+—¿Quién ha sido? ¿Quién le ha roto la cabeza.?
+Pat dejó caer con disimulo la bandeja en una silla, y el ruido se perdió en la confusión.
+Vio cómo Helen Earle aplicaba deprisa y corriendo servilleta tras servilleta a la cabeza de aquel hombre.
+—¿Cómo han podido hacerle una cosa así? —gritó alguien.
+La mirada de Pat coincidió con la de Max, que miró hacia otra parte inmediatamente: una sensación de injusticia se apoderó de Pat Hobby. En aquel momento crítico, real o imaginario, era el único que se había atrevido a actuar. Sólo él le había plantado cara a aquel individuo, mientras que todos aquellos estirados se dejaban insultar y avasallar. Y ahora tendría que cargar con las consecuencias, porque Walter Herrick era poderoso y tenía éxito: era de los que ganaban tres mil dólares a la semana y había estrenado comedias de éxito en Nueva York. ¿Quién podía figurarse que aquello era una broma?
+Llegó el médico. Pat vio que le decía algo a la encargada de la cafetería y oyó cómo la voz chillona de la encargada mandaba a la cocina a las camareras, que volaban como hojarasca.
+—¡Pongan agua a hervir, mucha, mucha!
+Aquellas palabras, descabelladas e irreales, hicieron mella en el alma abrumada de Pat Hobby. Y, aunque se daba cuenta de que pronto sabría de primera mano lo que sucedía a continuación, era incapaz de imaginar cómo salir del paso después.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

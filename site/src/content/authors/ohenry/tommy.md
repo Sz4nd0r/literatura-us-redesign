@@ -1,0 +1,225 @@
+---
+layout: story
+title: El ladrón de Tommy
+slug: tommy
+source: https://www.literatura.us/idiomas/ohenry/tommy.html
+tags:
+  - tommy
+  - ohenry
+---
+O.
+Henry
+(William Sydney Porter)
+(North Carolina, 1862 -
+New York, 1910)
+El ladrón de Tommy (1905)
+(“Tommy’s Burglar”)
+Originalmente publicado en el periódico New York World, Vo. 45, Núm. 15972 (24 de abril de 1905;
+Whirligigs
+(Nueva York: Doubleday, Page & Company, 1910, 314 págs.)
+A las diez de la noche, Felicia, la doncella, salió por la
+puerta de servicio para tomar un refresco de frambuesa en el bar de la esquina,
+acompañada del policía. Felicia detestaba al representante de la autoridad y muy
+formalmente se opuso en principio a acompañarle. Dijo, y por cierto no sin
+lógica, que hubiese preferido quedar instalada en
+el tercer piso leyendo una novela de St. George Rathbone hasta dormirse, pero
+nada consiguió. Las frambuesas y los policías han sido creados para algo.
+El ladrón
+entró en la casa sin dificultad, porque... éste es un cuento de dos mil
+palabras, lo cual nos ciñe a pocas descripciones y mucha acción.
+Al llegar al
+comedor encendió su oscura linterna. Con un berbiquí y una barrena pequeña
+comenzó a hurgar en la cerradura del armario donde se guardaba la plata.
+De pronto se
+escuchó un ruidillo y la habitación se inundó de luz. Los cortinajes de
+terciopelo oscuro se abrieron para dar paso a un chiquillo rubio de ocho años
+de edad que vestía pijama rosa y llevaba en la mano una botella de aceite.
+—¿Es usted
+un ladrón? —preguntó su dulce vocecilla infantil.
+—¡Vaya una
+pregunta! —dijo el individuo con voz ronca—. Si soy un ladrón... Pero ¿a santo
+de qué llevaría yo gorra y una barba de tres días si no lo fuese? Vamos. Dame
+ya ese aceite y engrasaré la cerradura. De esa manera no despertaré a tu madre,
+que seguramente está en la cama, con jaqueca, y que te dejó al cuidado de
+Felicia, la doncella, que traicionó vuestra confianza y...
+—¡Qué barbaridad! —dijo Tommy, suspirando—. No le
+creía tan pasado de moda. El aceite es para el aliño de la ensalada que le voy
+a servir con el resto de la cena que iré a buscar a la despensa especialmente
+para usted. Papá y mamá han ido a la Ópera para oír a De Rezske. Claro que la
+culpa no es mía. La situación sólo demuestra que el cuento ha pasado mucho
+tiempo dando vueltas de editor en editor. Si el autor hubiese sido inteligente
+hubiera puesto Caruso al corregir la pruebas.
+—¡A callar! —dijo el ladrón en tono apenas
+perceptible—. Si decides armar ruido te retorceré el pescuezo como a un conejo.
+—Como a un pollo —corrigió Tommy—. No meta la pata.
+A los conejos no se les retuerce el pescuezo.
+—Pero, bueno, ¿es que no te doy miedo? —preguntó el
+ladrón.
+—Usted sabe que no —respondió Tommy—. ¿Cree que no
+sé distinguir lo que es... ficción? ¿Cree que puedo confundirla con la
+realidad? Si esto no fuese un cuento yo habría gritado como un indio al verle
+entrar y usted seguramente habría huido a saltos por la escalera y habría sido
+pescado en la misma acera.
+—Comprendo. Estás representando tu papel —dijo el
+ladrón—. Muy bien. Continúa.
+Tommy se sentó en un sillón sobre sus pies
+cruzados.
+—¿Por qué se dedica a robar a personas extrañas,
+señor Ladrón? ¿No tiene amigos?
+—Entiendo adónde quieres ir a parar —manifestó el
+ladrón, frunciendo el ceño—. Será la vieja historia de siempre. Tu inocente e
+infantil inconsciencia inclinándome a la vida honrada. Siempre que doy con una
+casa en la que hay niños me pasa lo mismo.
+—¿Le importaría mirar con ojos de lobo la fuente de
+carne fría que el mayordomo ha dejado sobre la mesa? —preguntó Tommy—. Temo que
+se está haciendo tarde.
+El ladrón obedeció la indicación.
+—¡Pobre hombre! —murmuró Tommy—. Debe de estar
+hambriento. Si adopta una actitud indiferente le traeré algo que comer.
+El muchacho desapareció para reaparecer al cabo de
+poco con un pollo asado, un tarro de mermelada y una botella de vino cogidos en
+la despensa. Con hosco ademán, el ladrón agarró un cuchillo y un tenedor.
+—Hace sólo una hora me estaba comiendo una langosta
+y un vaso de cerveza en Broadway —gruñó—. Quisiera que los escritores que se
+dedican a escribir cuentos permitiesen a un pobre hombre... tomar bicarbonato
+entre las comidas.
+—Mi papá es escritor —aseguró Tommy.
+El ladrón se levantó de un salto.
+—Me has dicho que estaba en la Ópera —clamó con su
+voz ronca y sibilante, poniéndose en guardia.
+—Hubiese tenido que añadir... que fue con pase
+—dijo Tommy—.
+El ladrón se sentó de nuevo y empezó a jugar con un
+hueso de pollo.
+—¿Por qué se dedica a robar en las casas?
+—preguntó, extrañado, el chiquillo.
+—Pues porque... —comenzó a decir el ladrón. Pero se
+interrumpió para añadir, deshecho en llanto—: porque tengo una criatura de
+cabello castaño que se llama Bessie.
+—¡Vaya! —dijo Tommy, arrugando la nariz. No
+equivoque el orden del relato. Antes de salir con o de la criatura tiene que
+contar su triste historia personal.
+—¡Ah, sí, sí, lo olvidaba! Verás... Yo vivía en
+Milwaukee, y...
+—Coja la plata —gritó Tommy, levantándose de su
+asiento.
+—Espera un poco —repuso el ladrón—. Tuve que
+cambiar la residencia y me quedé sin empleo. Por un tiempo mantuve a mi mujer y
+a mi hijo traficando con dinero de la confederación, pero me obligaron a
+cambiar de trabajo porque el dinero... no pertenecía a los Estados Unidos.
+Completamente desesperado, decidí entonces hacerme ladrón.
+—¿Le cogió alguna vez la policía? —preguntó Tommy.
+—He dicho que me hice ladrón, no mendigo —respondió
+el bandido.
+—Cuando acabe de cenar y sufra el cambio de humor
+consiguiente ¿qué vamos a hacer con el cuento? —preguntó Tommy.
+—Supongamos —manifestó el ladrón, pensativo— que
+Tony Pastor termina hoy antes de lo habitual y que tu padre vuelve del Parsifal
+a las diez y media. Como quiera que yo estoy triste porque me has hecho pensar
+en mi Bessie...
+—Escuche —observó Tommy—: ¿está seguro de no
+equivocarse?
+—Por todos los demonios que tú tienes, ¡no y mil
+veces no! —gritó el ladrón—. La criatura que tengo en casa se llamará siempre
+Bessie. Y siempre estará allí, charlando con la desgraciada esposa del ladrón.
+Como iba diciendo... Tu padre abre la puerta principal en el instante en que yo
+me dispongo a marchar saturado de bocadillos y consejos, todo lo cual me has
+proporcionado tú. Pues bien, tu padre me reconoce como un antiguo compañero de
+Harvard y retrocede un poco.
+—¿Sorprendido? — preguntó Tommy con los ojos muy
+abiertos.
+—Da un paso atrás —prosiguió diciendo el ladrón.
+Tras lo cual, incorporándose, comenzó a gritar: ¡Rah! ¡Rah! ¡Rah! ¡Rah! ¡Rah!
+—¡Vaya! —dijo Tommy asombrado—. Es la primera vez
+que tropiezo con un ladrón que roba al son de un himno universitario. Esto no
+es corriente. Ni siquiera en los cuentos.
+—Eres listo, muchacho —admitió el ladrón, riendo—.
+Estaba haciendo prácticas de dramatización. Suponiendo que este cuento sea,
+algún día, llevado a la escena, el detalle del himno universitario puede
+salvarlo del fracaso.
+Tommy le miró sin ocultar su admiración.
+—Tiene usted razón —dijo.
+—Además, has cometido otro error —prosiguió el
+ladrón—. Hace rato debiste marchar en busca de “la moneda de nueve dólares
+que te regaló tu madre el día de tu santo” para regalármela con destino a
+Bessie.
+—Mi madre no me la dio para eso —murmuró Tommy,
+casi haciendo puecheros.
+—¡Vamos, vamos! —dijo con cierta severidad el
+ladrón—. No me parece bien que te aproveches de un significado ambiguo... Tú ya
+me entiendes. Siempre es muy poco lo que yo saco de estas creaciones de la
+ficción. No sólo pierdo el botín, si no que además tengo que arrepentirme y
+volverme honrado. Con lo único que puedo quedarme es con el condenado regalo,
+amuletos o lo que sea, que algún chiquillo como tú quiera entregarme. Lo mismo
+en cada ocasión. Te diré que una vez en un determinado cuento tuve que quedarme
+con el beso de una niñita que me sorprendió abriendo una caja de caudales. Por
+si fuera poco, el beso sabía a dulce de melaza. Me están dando ganas de liarte
+un mantel a la cabeza y dedicarme a la vitrina de la plata.
+—¡Oh, no, no, nada de eso! —dijo Tommy, cruzando las
+manos sobre sus rodillas—. Si lo hace así... ningún editor publicaría el
+cuento. Ya sabe... hay que guardar las formas.
+—Aplícate el sermón —advirtió el ladrón en tono
+casi desagradable—. Y en vez de estar sentado ahí diciendo tonterías, robándole
+a un pobre hombre el pan, ¿por qué no haces lo más lógico? ¿Por qué no te
+escondes debajo de la cama y chillas con todas tus fuerzas?
+—Tiene usted razón, amigo —admitió Tommy
+entusiasmado—. Me pregunto por qué nos obligan a actuar de ese modo. La
+Protección de menores debería intervenir en el asunto. Estoy seguro que no es
+corriente ni casi agradable que un muchacho de mis años entre en el recinto
+donde está robando un ladrón y le ofrezca... un tintero rojo y unos patines,
+para no despertar a su madre enferma. En cuanto al ladrón... ¡Hay que ver en qué
+situación le han dejado! ¿Cree usted que los editores sabían...? En fin, qué
+más da.
+El ladrón se secó las manos en le mantel y se puso
+de pie, bostezando.
+—Bueno, acabemos de una vez —dijo—. Que Dios te
+bendiga, muchacho. Has evitado que un hombre cometiese un crimen esta noche. En
+cuanto llegue a casa y cuente lo sucedido, Bessie rezará por ti. Nunca más
+volveré a robar..., por lo menos hasta que publiquen las ediciones de junio.
+Para entonces tendrá que actuar tu hermanita. Haremos que me sorprenda ella en
+pleno trabajo y que compre mi arrepentimiento con un collar de corales y un
+estudiado beso.
+—No es usted el único perjudicado —suspiró Tommy,
+levantándose de su asiento—, piense en el sueño que he perdido. los dos tuvimos
+mala suerte, amigo. Ojalá pudiera salirse del cuento y robar verdaderamente a
+alguien. Puede que tenga una oportunidad si deciden... llevarnos a la escena.
+—¡Ni hablar! —dijo el ladrón en tono sombrío—.
+Entre la taquilla, los buenos impulsos que al parecer ha de despertar en
+nosotros la infancia, y las revistas que sólo pagan al contado sobre la
+publicación, creo que estaré siempre en la ruina.
+—Lo siento —dijo Tommy, demostrando simpatía—, pero
+yo, al igual que usted, tampoco puedo evitarlo. Uno de los inconmovibles
+cánones de esta clase de historietas del hogar, es, precisamente..., que el
+ladrón ha de fracasar, que ha de vencerle un chiquillo como yo, o una joven
+heroína o, en el último instante, “su viejo compañero Red Miker, que identifica
+la casa como una en donde trabajó como cochero”. No importa cuál sea la
+historia, su papel es siempre el peor.
+—Bien. Creo que he de irme —dijo el ladrón,
+recogiendo la linterna y el berbiquí.
+—Tiene que llevarse el pollo y el vino para Bessie
+y su mamá —dijo tranquilamente Tommy.
+—¡Por todos lo diablos! —gritó el ladrón,
+evidentemente contrariado—. ¿Para qué he de hacerlo si ellas no lo necesitan?
+Tengo cinco cajas de “Chateau de Beychsvelle” embotellado en 1853, en
+casa. Este clarete vuestro... lo encuentro algo picado. Y por otra parte...,
+ellas no se dignarían ni a mirar ese pollo. Sólo les gusta “la champagna”. Verás... El caso es que cuando dejo de ser un personaje de
+cuento, no tengo tantas limitaciones y claro... De vez en cuando se me ofrece
+una buena oportunidad.
+—Sin embargo, ha de cargar con esto —aseguró Timmy
+entregándole los paquetes.
+—¡Que Dios bendiga la bondad de tu alma! —recitó,
+obediente, el ladrón—. Saúl, en el cuento, jamás te olvidará. Y ahora
+apresúrate. deja que me vaya, hijo. Seguramente estamos dando fin a nuestras
+dos mil palabras.
+Tommy le siguió por el pasillo hasta la puerta
+principal. De pronto el ladrón se detuvo para preguntar con voz tenue:
+—¿Crees que habrá un guarda por ahí afuera
+haciéndole carantoñas a la doncella?
+—Sí —afirmó Tommy—, pero...
+—Temo que pueda echarme el guante —dijo el ladrón—.
+No olvides que vivimos... una ficción.
+—¡Caramba! —dijo Tommy, cambiando de dirección—.
+Sígame. Iremos por la puerta de servicio.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

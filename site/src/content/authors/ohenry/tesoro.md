@@ -1,0 +1,144 @@
+---
+layout: story
+title: Tesoro enterrado
+slug: tesoro
+source: https://www.literatura.us/idiomas/ohenry/tesoro.html
+tags:
+  - tesoro
+  - ohenry
+---
+O. Henry
+(William Sydney Porter)
+(North Carolina, 1862 -
+New York, 1910)
+El tesoro enterrado (1908)
+(“Buried Treasure”)
+Originalmente publicado en Ainslee’s Magazine
+Vol. 21, Núm. 6 (julio de 1908), págs. 68-73;
+Options
+(New York: Harper & Brothers, 1909, 324 págs.)
+Hay muchas clases de tontos. ¿Me harán el favor todos los presentes de permanecer sentados hasta que se les llame por su nombre?
+Yo he pertenecido a todas las clases de tontos, excepto a una. He gastado mi patrimonio, intentado casarme, jugado al póquer y al tenis y perdido mi dinero de cualquiera de los modos imaginables. Pero hay una calidad de payasada en la que no quisiera participar nunca. Quiero decir que no me gustaría nunca ser buscador de tesoros escondidos. Claro está que a muy pocos les acomete tan deleitoso furor. Mas ha de reconocerse que entre todos los seguidores de las pisadas del rey Midas nadie ha encontrado empresa tan rica en prometedores placeres.
+Y, volviendo a mi tema —que así deben hacer las plumas experimentadas—, he de confesar que he sido un tonto del género sentimental. Un día vi a May Marta Mangum y quedé hechizado por ella. Tenía dieciocho años, el color de las teclas marfilinas de un piano nuevo, era bella y poseía la exquisita solemnidad y el patético encanto de un ángel inexperto condenado a vivir en una pequeña y monótona población de la pradera tejana. Tenía, repito, un hechizo y un atractivo capaces de hacerla arrancar de una corona —la de Bélgica, por ejemplo— rubíes como quien desgrana zarzamoras, pero no lo sabía y no seré yo quien lo haga por ella.
+Yo quería a May Marta Mangum para tenerla siempre a mi lado. Deseaba que viviese conmigo a fin de que pusiera cada mañana mi pipa y mis zapatillas en ese femenino lugar donde nunca se encuentran por las noches.
+El padre de May Marta era un hombre que vivía arrebujado y escondido entre sus barbas y sus lentes. No tenía más que una pasión, y era la de las cochinillas, mariposas y demás insectos que uno suele encontrar frecuentemente en la propia espalda o en el tarro de la manteca. O sea que era un entomólogo, o palabra que valga por lo mismo. Pasaba Ia vida acribillando el aire en busca de los últimos insectos de junio y luego los clavaba con alfileres y les ponía un rótulo.
+No tenía más familia que May Marta. La estimaba tanto como a un preclaro ejemplar del racibus humanus, porque ella se preocupaba de que tuviese la comida a sus horas, y le colocaba las ropas en el lugar idóneo, y le llenaba sus frascos de alcohol. Ya se sabe que los sabios suelen ser muy distraídos.
+Había otro ser que juzgaba deseable a May Marta. Y era Goodloe Banks, un muchacho que acababa de salir del colegio universitario. Tenía todos los méritos que suelen encontrarse en los libros. Sabía griego, latín, filosofía y, sobre todo, matemáticas superiores y lógica.
+Si no hubiese tenido la manía de hacer conocer a todos las cosas de que estaba enterado, creo que yo le hubiese apreciado mucho. Pero, a pesar de todo, cualquiera hubiera creído que él y yo éramos amigos muy buenos.
+Andábamos juntos siempre que podíamos, porque deseábamos ver a qué viento iba la parva de los sentimientos de May Marta Mangum, aunque aquí empleo una metáfora un poco rebuscada, porque Goodloe Banks no hubiera sido nunca capaz de hacer nada parecido a localizar el viento en una era.
+Podía decirse que Goodloe no pensaba más que en libros, cultura, intelecto y buena ropa. En cambio yo no tenía otros alegatos culturales que los obtenidos en mi equipo de béisbol y en nuestras reuniones amistosas de los viernes, si no entiende por cultura la de montar bien a caballo.
+Pero en nuestras charlas entre los dos, ni tampoco en las que manteníamos con May Marta Mangum, podíamos sacar en limpio cuál de los dos podía considerarse el preferido. May Marta era reservada por naturaleza y creo que sabía desde la cuna el modo de mantener perpleja a la gente.
+También indiqué que el viejo Mangum era muy distraído. Al cabo de mucho tiempo logró descubrir (sin duda se lo confió alguna mariposa) que dos jóvenes intentaban echar la red a una muchacha que por casualidad era su hija, o algún otro (técnicamente hablando) apéndice suyo que se encargaba de atender a sus comodidades.
+Yo no sabia que los sabios sabían ponerse a la altura de las circunstancias. Pero la verdad fue que el viejo Mangum habló y nos clasificó a Goodloe Banks y a mí en el más ínfimo orden de los vertebrados, sin entrar en latinajos más que con simples referencias al Orgetorix, Rex Hervetii, que es a lo más que yo he llegado en mis estudios. Y además nos dijo que si alguna vez nos cogía en las proximidades de su casa pensaba añadirnos a su colección de insectos.
+Goodloe Banks y yo permanecimos alejados durante cinco días, esperando que amainase la tormenta. Y cuando nos atrevimos a volver a la casa de May Marta Mangum, resultó que ella y su padre habían partido.
+¡Partido! La casa que tenían en alquiler estaba cerrada. Y cuanto guardaban en ella había desaparecido también.
+Durante dos meses Goodloe Banks y yo procuramos, cada uno por nuestro lado, adivinar el paradero de la pareja. Pero ni una señal con tiza en el portillo de la entrada ni una postal nos indicaron lo que había sido de ellos.
+No, nada decía May Marta. Y fueron inútiles nuestras gestiones. Utilizamos nuestras amistades y empleamos nuestras influencias con el expendedor de billetes de la taquilla de la estación, con la casa de transportes, con los interventores del tren y con el único guardia del pueblo, pero sin resultado.
+Goodloe y yo nos hicimos más amigos —y a la vez más enemigos— que nunca. Solíamos encontrarnos en el salón trasero de la taberna de Synder todas las tardes, después de terminado el trabajo, y allí jugábamos al dominó y empleábamos toda clase de argucias verbales para ver mutuamente lo que cada uno de nosotros habíamos descubierto. Los rivales amorosos siempre suelen hacer igual.
+Goodloe Banks tenía una manera sarcástica de hacerme comprender la superioridad de sus conocimientos, de modo que yo me sintiera siempre como en la clase primaria. Era cual si me hiciese leer:
+¡Pobre Jane Ray!
+Su pájaro ha muerto;
+no puede jugar.
+Yo apreciaba bastante a Goodloe y sentía el natural desprecio por su formación universitaria y, como siempre me han considerado hombre de buen carácter, procuraba reprimir mi temperamento. Y, además, como quería saber lo que él había averiguado sobre May Marta, soportaba lo mejor posible el trato de aquel muchacho.
+Una tarde, hablando, me dijo:
+—Imagina que yo hubiese averiguado su paradero. ¿Qué ganarías con ello, Ed? May Marta es mujer inteligente. Quizá tenga todavía poca cultura, pero en todo caso está destinada a más altos destinos que los que tú pudieras ofrecerle. No he hablado con nadie que parezca apreciar mejor el encanto de los antiguos poetas y escritores, ni de los modernos cultos intelectuales que han ensanchado, asimilándolos, los conceptos que ellos tenían de la vida. ¿No crees que pierdes el tiempo pensando en ella?
+—Mi idea de un hogar feliz —repuse— es una casa de ocho habitaciones en medio de un bosque de encinas, junto a una laguna de la pradera de Texas. Y en la casa un piano, y una gramola automática en el gabinete, y tres mil cabezas de ganado en los corrales para empezar, y los suficientes potros siempre dispuestos a que los monte la dueña de la casa. Y luego que May Marta Mangum gastase las ganancias del rancho como le pareciera, y que viviera conmigo, y que colocara cada mañana mi pipa y mis zapatillas en sitios donde yo me volviese loco para encontrarlas por las noches. Y eso es lo que ha de ser, y se me da una higa seca (y de procedencia turca, además) de todos tus conocimientos, cultos y filosofías.
+Goodloe Banks repitió:
+—Esa chica puede aspirar a más.
+—Aspire a lo que aspire —contesté—, por el momento ninguno la tenemos metida en el bolsillo. Y yo la encontraré tan pronto como pueda sin ayuda de las universidades.
+—Cerrado —dijo Goodloe, colocando una ficha del dominó.
+Y bebimos la cerveza que nos jugábamos.
+A poco un campesino joven al que yo conocía vino de la ciudad y me trajo un pliego de papel azul, cerrado. Me aseguró que su abuelo había muerto. Enjugué una lágrima y él me afirmó que su ascendiente había guardado celosamente aquel papel durante veinte años. Luego lo legó a su familia como parte de sus bienes, el resto de los cuales consistía en una pareja de mulas y una gran extensión de tierra no cultivable.
+La hoja de papel era de aquel género y color azul que se usaban durante la rebelión de los abolicionistas contra los secesionistas. Tenía la fecha del catorce de junio de 1863 y describía el escondrijo de una cantidad de oro y plata que requerirían diez cargas de burro para sacarla y que estaba valorada en trescientos mil dólares. El anciano Rundle —abuelo del joven Lee— había recibido la informamación a través de un sacerdote español que había intervenido en el enterramiento del tesoro y muerto años antes —no después— en la casa del viejo Rundle. Éste había escrito al dictado del cura.
+Pregunté al joven Rundle:
+—¿Y cómo su padre no entró en averiguaciones de esto?
+—Perdió la vista antes de poder hacerlo.
+—¿Y por qué no busca usted personalmente el tesoro? —insistí.
+—Porque —dijo— en primer lugar sólo hace diez años que tengo este papel. Y cuando lo leí había que hacer la sementera. Luego había que efectuar la escarda y más tarde la recolección, y el invierno se nos echó encima en seguida. Y así vino ocurriendo año tras año.
+Ello me pareció perfectamente razonable, y, por lo tanto, me puse en marcha con el joven Lee Rundle sin pérdida de momento.
+Las instrucciones del papel eran muy sencillas. La recua de burros con el tesoro había partido de una antigua misión española en el distrito de Dolores. Viajó hacia el sur hasta llegar al río Alamito. Los custodios del tesoro vadearon la corriente y enterraron las riquezas en la cumbre de un montículo, que tenía la forma de una silla arzonera entre dos alturas mayores. Un montón de piedras marcaba el escondrijo del tesoro. Y todos los de la caravana, excepto el sacerdote español, murieron a manos de los indios pocos días después. De modo que aquel secreto era una especie de monopolio.
+A mí me pareció muy bien.
+Lee Rundle sugirió la conveniencia de proveemos de equipos adecuados, alquilar los servicios de un sobrestante que trazase bien el lugar en que terminaba la ruta seguida desde la misión española, y después gastar los trescientos mil dólares viendo todo lo que hubiera digno de verse en Forth Worth. Pero yo, sin necesidad de tener una gran instrucción, di en seguida con un modo de ahorrar tiempo y dinero.
+Fuimos a las oficinas agrícolas del Estado y obtuvimos un gráfico de las concesiones de tierra que había desde la antigua misión hasta el río Alamito. Y sobre aquel mapa yo tracé una línea que apuntaba al sur. La longitud de los linderos de cada concesión figuraban con toda exactitud en el gráfico. Gracias a ello encontramos el punto más inmediato al río y lo relacionamos con una importante concesión de tierra, en un paraje de Los Ánimos, concesión hecha en otros tiempos por el rey Felipe de España.
+Así no necesitábamos sobrestante alguno y ahorrábamos muchos gastos y tiempo.
+Lee Rundle y yo preparamos un carro tirado por dos caballos, con todos los necesarios accesorios, y caminamos durante ciento cuarenta y nueve millas hasta Chico, la población más cercana al punto que deseábamos alcanzar. Y allí encontramos un ayudante de sobrestante, con cargo en el distrito. Localizó el punto de Los Ánimos que nos convenía explorar, rectificó un error de cinco mil setecientas varas en nuestro mapa, señaló el lugar con una piedra, tomó café y tocino frito y se volvió a Chico en la diligencia.
+Yo tenía la certeza de conseguir aquellos trescientos mil dólares. Lee Rundle iba a la tercera parte de ganancias, porque yo pagaba los gastos. Con los doscientos mil dólares restantes me sentía seguro de encontrar a May Marta Mangum si residía en algún lugar de la tierra. Y de paso localizaría también las mariposas de su padre. ¡Si yo pudiera dar con aquel tesoro!
+Lee y yo montamos nuestro campamento. Más allá del río había una docena de montículos densamente cubiertos por cedros y malezas. Ninguna zona de aquel lugar tenía, entre las alturas, la forma de una silla de arzón.
+No nos desanimamos por eso. Las apariencias son engañosas. Como la belleza, la forma de una silla arzonera puede existir sólo en los ojos del que la mire.
+Yo y el nieto del conocedor del tesoro examinamos aquellas alturas cubiertas de cedros, con el cuidado de una dama en busca de una pulga. Exploramos todas las laderas, cumbres, periferias, elevaciones, ángulos, vertientes y concavidades que se encontraban dos millas abajo y arriba del río.
+Cuatro días invertimos en semejante faena. Luego ensillamos nuestro par de acémilas y, con los restos de nuestro café y nuestro tocino, emprendimos la caminata de ciento cuarenta y nueve millas hasta la ciudad de Concho.
+Lee Rundle no hizo más que mascar tabaco en el viaje de regreso. Y yo no hacía más que azuzar a las caballerías, porque tenía mucha prisa.
+Tan pronto como volví, fracasado, de mi viaje, Goodloe Banks y yo nos avistamos en el cuarto interior de la taberna de Synder. Allí jugamos al dominó y procuramos sacarnos informes uno a otro. Conté a Goodloe mi expedición en busca del tesoro enterrado.
+—De haber encontrado esos trescientos mil dólares —le dije—, hubiera recorrido toda la superficie de la Tierra hasta encontrar a May Marta Mangum.
+Goodloe repuso:
+—Está llamada a cosas más elevadas. Seré yo quien la encuentre. Pero explícame cómo descubriste el lugar en que ese tesoro fue imprudentemente enterrado.
+Se lo conté todo hasta en los menores detalles. Y le enseñé el plano del perito en mapas, con los datos meticulosamente registrados.
+Goodloe lo miró con aire de superioridad y luego, recostándose en su asiento, me miró con una explosión de sardónica, superior y universitaria risa.
+—Eres un tonto, Jim —dijo.
+—Tú juegas —repuse pacientemente, mientras daba vueltas al seis doble entre los dedos.
+—Llevo veinte —dijo Goodloe, haciendo dos cruces en la mesa con un trozo de tiza.
+—¿Quieres explicarme por qué soy un tonto? —pregunté—. Se han encontrado en muchos sitios tesoros enterrados.
+—Eres tonto —repuso— porque, al calcular el lugar del río donde debía terminar tu línea de exploración, olvidaste las variaciones que hay en esta clase de cosas. Y, según esas variaciones, debías haber buscado nueve grados más al oeste. Dame el lápiz.
+Goodloe Banks trazó rápidas cifras en la parte posterior de un sobre.
+—La distancia de norte a sur, a contar de la misión española —dijo— cubre exactamente veintidós millas. Según tú, se comprobó de acuerdo con una brújula. Pero, de acuerdo con lo que te he dicho, el punto del río Alamito donde debiste ejecutar tus investigaciones, está exactamente seis millas y novecientas cuarenta y cinco varas más al oeste de donde efectuaste tus trabajos. Has sido un idiota, Jim.
+—¿A qué variaciones te refieres? —pregunté—. Creí que las cifras no mentían nunca.
+—Se trata —explicó Goodloe— de la variación entre lo que señala la aguja magnética y el verdadero meridiano.
+Sonrió con su superioridad habitual y un momento después leí en su rostro la singular y ávida expresión del hombre dispuesto a perseguir tesoros escondidos.
+—A veces —dijo con talante de oráculo— estas tradiciones locales referentes a dineros enterrados no carecen de alguna base de verdad. Déjame ver ese papel que describe la situación del tesoro. Acaso entre los dos podamos...
+Y el resultado fue que Goodloe Banks y yo, rivales en amor, nos trocamos en compañeros de la aventura. Fuimos a Chico en diligencia desde Huntesburg, la estación de ferrocarril más cercana a la comarca del tesoro. En Chico alquilamos un carro con su tiro y los elementos necesarios para acampar. Hicimos que el mismo sobrestante de la otra vez marcase nuestras distancias, una vez pasadas por la revisión de Goodloe y sus variaciones, y luego le despedimos y le dejarnos emprendiendo el regreso a su casa.
+Llegamos de noche al lugar designado. Di pienso a los caballos, encendí fuego a orillas del río y preparé la cena. Goodloe podía haberme ayudado, pero su instrucción superior no le hacía apto para las cosas prácticas.
+Mientras yo trabajaba, empero, me animó expresando muchos grandes pensamientos de las gentes de antaño. Citó con gran extensión algunos pasajes traducidos con gran primor del griego.
+—Lo que ahora te he mencionado —dijo en un determinado momento— es una cosa de Anacreonte. A May Marta Mangum le parecía una cosa dilecta.
+—¡Como que se ha hecho para cosas muy elevadas! —dije yo, con sus propias frases.
+—Sí, y no puede haber nada más alto que eso —respondióme él—. ¿Hay cosa superior a vivir en la sociedad con los clásicos y con su sabiduría y su cultura?
+—Yo...
+—Tú tienes la frecuente costumbre de negar los beneficios de la educación. Pero ¿qué me dices del tiempo y esfuerzos que has perdido por tu desconocimiento de las más elementales matemáticas? ¿Cómo se hubiese hallado el tesoro si mis conocimientos no te hubieran sacado de tus errores?
+—Empecemos por explorar esas colinas de ahí cerca —dije— y veremos lo que encontramos. Sigo dudando de eso de las variaciones. Siempre me han enseñado que la brújula apunta al polo.
+La siguiente mañana era espléndida y de junio. Nos levantamos temprano y desayunamos. Goodloe estaba encantado. Mientras yo preparaba el tocino él recitó creo que a Keats, a Shelley y a Kelly. Y tras todo esto, nos dispusimos a cruzar el río, que era poco más que una angosta barrancada, y a recorrer las alturas cubiertas de cedros que se alzaban en la otra orilla.
+En tanto que yo lavaba los platos de lata del desayuno, Goodle me dio una palmada en el hombro y me dijo:
+—Mi buen Ulises, déjame ver una vez más ese bendito documento. Probablemente se contendrán en él instrucciones sobre el modo de subir al célebre monte en forma de silla arzonera.
+Tras breve reflexión, agregó:
+—Nunca he visto ninguna. ¿Cómo son, Jim?
+—¿De qué te vale la cultura? —repliqué—. Yo, en cuanto la vea, la sabré conocer.
+Goodloe, que miraba con atención el viejo documento de Rundle, soltó de improviso una palabrota muy poco intelectual.
+—Ven —mandó.
+Puso el papel de modo que la luz del sol atravesara sus dos caras y señaló con el dedo.
+—Mira.
+Entonces en el papel azul vi —no había notado antes que hubiese tal cosa en su trama— estas letras y cifras:
+Malvern, 1898.
+—¿Qué es eso? —pregunté.
+—Lo que se llaman las aguas del papel, o marca del fabricante —repuso Goodloe—. Este papel fue manufacturado en 1898. Y la fecha supuesta del documento es la de 1863. Estamos ante un fraude como una casa.
+—No sé —dije—. Los Rundle son gente campesina, sencilla, inculta y digna de confianza. Acaso los fabricantes de papel perpetraron un engaño.
+Goodloe Banks se enfureció hasta el extremo que su educación se lo permitía. Se quitó los lentes de encima de la nariz y me contempló.
+—A menudo te he dicho que eres un tonto —exclamó—. Te has dejado burlar por un rústico. Y me has hecho ser víctima de la burla.
+—¿Cómo? —pregunté.
+—Con tu ignorancia. Dos veces he descubierto en tus planes graves fallas que una adecuada instrucción hubiese evitado. Y en esta malhadada búsqueda he gastado dineros que no sé cómo voy a reponer. Por mí, queda todo cancelado.
+Me levanté y con una larga cuchara que acababa de lavar le apunté a la cara.
+—Goodloe Banks —dije—, toda tu instrucción no me importa un maldito rábano. Apenas he tolerado nunca la cultura de nadie, y en cuanto a la tuya has de saber que me causa risa. ¿De qué te vale tu instrucción? Para ti es una maldición y para tus amigos una endiablada molestia. De modo que puedes irte, con tus aguas y tus marcas y tus variaciones. Yo seguiré la busca solo.
+Y con la cuchara señalé, más allá del río, unas elevaciones conformadas como una silla de arzón.
+—Voy a buscar el tesoro en esa montaña —anuncié—. Tú decidirás si me ayudas o no. Si permites que las aguas de un papel o una variación de la brújula influyan en ti, no eres un verdadero aventurero. Decídete.
+Una blanca nube de polvo apareció en el camino. Era el coche correo de Hesperus a Chico.
+Goodloe hizo al cochero con suma distinción y elegancia un signo con la mano.
+—He dejado de ser burlado —manifestó torvamente—. Sólo un necio puede ahora dar valor a ese papel. Pero como siempre has sido un idiota, Jim, te abandono a tu destino.
+Recogió sus efectos personales, subió al coche correo, ajusteóse las gafas nerviosamente y desapareció entre una gran polvareda.
+Después de lavar los platos y conducir los caballos a un cercano pastizal, crucé el riachuelo y avancé lentamente por las laderas pobladas de cedros, hasta la cumbre del monte en forma de silla arzonera.
+Hacía un maravilloso día de junio. En mi vida había visto yo tantos pájaros, tantas mariposas, tantos saltamontes, tantos caballitos del diablo y tantas otras aladas bestias del campo y de los aires.
+Escudriñé la colina mencionada desde la base a la cúspide. Y no encontré el menor signo o indicio del paradero del tesoro.
+No existía pila alguna de piedras, ni árboles calcinados, ni ninguna de las indicaciones contenidas en el documento del viejo Rundle acerca del emplazamiento de los trescientos mil dólares.
+Caía la fresca tarde cuando empecé a bajar la colina. Y, de pronto, salí del bosque de cedros para encontrarme en el verde vallecillo de un arroyo que desembocaba en el río Alamito.
+Y me asombró ver lo que me pareció un salvaje, con la barba y los cabellos revueltos, persiguiendo una gigantesca mariposa de brillantes alas.
+Pensé: “Debe ser algún loco”.
+Y me pregunté cómo se habría descarriado de las sendas de la educación y la cultura.
+Adelantéme unos pasos y distinguí una casita cubierta de trepadoras a la vera del río. Y en una herbosa hondonada divisé a May Marta Mangum haciendo un ramo de flores silvestres.
+Se enderezó y me miró. Por primera vez desde que la conociera, su rostro —del color de las teclas de un piano nuevo— se tornó color de púrpura.
+Me acerqué a ella sin pronunciar palabra. Y su mano, lentamente, se abrió, dejando caer las flores en un herbazal. Habló con voz clara.
+—Sabía que vendrías, Jim. Papá no me dejó escribirte, pero yo sabía que vendrías.
+Pueden adivinar lo que siguió. Mi carro y mi tiro de caballos esperaban al otro lado del río.
+* * *
+Muchas veces me he preguntado de qué le sirve la cultura a quien no sabe usarla. Si los beneficios de ella son para los demás, ¿de qué vale la instrucción?
+May Marta Mangum vive conmigo. Tenemos una casa de ocho habitaciones en un bosque de encinas, y un piano con un tocadiscos, y ya cerca de tres mil reses en los corrales.
+Y cuando llego a casa por la noche, mi pipa y mis zapatillas están en sitios donde nadie puede encontrarlas.
+Pero ¿a quién le importa? ¿A quién, a quién?
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

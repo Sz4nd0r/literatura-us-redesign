@@ -1,0 +1,56 @@
+---
+layout: story
+title: La toma del reducto
+slug: toma
+source: https://www.literatura.us/idiomas/merimee/toma.html
+tags:
+  - toma
+  - merimee
+---
+Prosper Merimée
+(París, Francia, 1803 - Cannes, Francia, 1870)
+La toma del reducto (1829)
+(“L’Enlèvement de la redoute”)
+Originalmente publicado en La Revue française (septiembre de 1829);
+Mosaïque
+(París: H. Fournier Jeune, Libraire, 1833, 440 págs.), págs. 53-65.
+Un militar amigo mío, que murió de fiebres en Grecia hace unos años, me contó un día el primer combate en el que participó. Su relato me impactó tanto que lo escribí de memoria tan pronto como tuve algo de tiempo. Es éste:
+“Me uní al regimiento el 4 de septiembre por la tarde. Encontré al general en el retén. Me recibió en un primer momento con bastante brusquedad, pero después de haber leído la carta de recomendación del general B*** cambió de actitud y me dirigió algunas palabras amables. Fui presentado por él a mi capitán, que en aquel momento volvía de un reconocimiento. Este capitán, que no tuve tiempo de conocer, era un hombretón moreno de fisonomía dura y repulsiva. Había sido soldado raso y había ganado sus entorchados y su cruz en los campos de batalla. Su voz, ronca y débil, contrastaba visiblemente con su estatura casi gigantesca. Me dijeron que tenía aquella extraña voz porque una bala lo había atravesado de un lado a otro en la batalla de Jena. Al tener conocimiento de que yo acababa de salir de la escuela militar de Fontainebleau, hizo una mueca y dijo:
+—Mi teniente murió ayer…
+Comprendí que lo que quería decir era: “Es usted quien debe sustituirlo, pero usted no es capaz”. Una expresión mordaz se me vino a los labios, pero me contuve.
+La luna se levantó tras el reducto de Cheverino, situado a dos tiros de cañón de nuestro campamento. Era ancha y roja como es habitual cuando sale. Pero aquella noche me pareció de un tamaño extraordinario. Durante un instante el reducto se destacó en negro sobre el disco brillante de la luna. Parecía el cono de un volcán en el momento de la erupción. Un soldado veterano junto al que me encontraba, observó el color de la luna.
+—Está muy roja —dijo—, es señal de que costará mucho conquistar este dichoso reducto.
+Yo había sido siempre supersticioso y ese augurio, sobre todo en aquel momento, me afectó. Me acosté, pero no pude dormir. Me levanté, estuve andando un rato, mirando la inmensa línea de fuego que cubría las alturas al otro lado del pueblo de Cheverino. Cuando pensé que el aire fresco y excitante de la noche había refrescado suficientemente mi sangre, regresé junto al fuego; me envolví con cuidado en mi capa y cerré los ojos, esperando no abrirlos antes del amanecer. Pero el sueño fue inflexible. Insensiblemente, mis pensamientos adquirían un tinte lúgubre. Me decía que no tenía ni un solo amigo entre los cien mil hombres que cubrían aquella llanura. Si me herían, estaría en un hospital, tratado sin miramientos por cirujanos ignorantes. Todo lo que había oído decir acerca de las operaciones quirúrgicas se me vino a la memoria. Mi corazón latía con violencia y automáticamente coloqué, como si fueran una especie de coraza, el pañuelo y la cartera que tenía sobre el pecho. Estaba agotado de fatiga, me adormecía a cada instante, y a cada instante algún pensamiento siniestro se repetía con más fuerza y me despertaba sobresaltado. No obstante, pudo más la fatiga y cuando tocaron diana me encontraba completamente dormido. Nos preparamos para la batalla, se pasó lista, luego volvimos a colocar en haces las armas y todo anunciaba que íbamos a pasar una jornada tranquila.
+Hacia las tres un ayudante de campo llegó trayendo una orden. Se nos ordenó volver a tomar las armas; nuestros tiradores se distribuyeron por la llanura; nosotros los seguíamos lentamente y, al cabo de veinte minutos, vimos replegarse todas las avanzadillas de los rusos y regresar al reducto.
+Una batería de artillería vino a colocarse a nuestra derecha, otra a nuestra izquierda, aunque las dos bastante por delante de nosotros. Iniciaron un fuego vivo sobre el enemigo, que respondió enérgicamente, y pronto el reducto de Cheverino desapareció bajo espesas nubes de humo.
+Nuestro regimiento estaba casi a cubierto del fuego de los rusos por un repliegue del terreno. Sus balas de cañón, escasas para nosotros pues disparaban preferentemente sobre nuestros cañoneros, pasaban por encima de nuestras cabezas o, a lo sumo, nos lanzaban tierra y algunas piedrecillas.
+Tan pronto como se nos dio la orden de avanzar, mi capitán me miró con una intensidad que me obligó a pasar dos o tres veces la mano sobre mi incipiente bigote con una actitud lo más desenvuelta que me fue posible. Por lo demás, yo no sentía miedo y el único temor que experimentaba era que imaginaran que lo tenía. Aquellas inofensivas balas de cañón contribuyeron además a mantenerme en una calma heroica. Mi instinto de conservación me decía que corría un peligro real, puesto que, en definitiva, me encontraba bajo el fuego de una batería. Estaba encantado de encontrarme tan tranquilo, y pensé en el placer de narrar la toma del reducto de Cheverino en el salón de la señora de B***, en la calle de Provenza.
+El coronel pasó por delante de nuestra compañía; me dirigió la palabra diciendo:
+—¡Vaya!, va a tener una mala partida para su debut.
+Sonreí con aire marcial cepillando la manga de mi uniforme, sobre la que una bala de cañón, caída a treinta pasos de mí, había enviado algo de polvo.
+Parece que los rusos se percataron del escaso éxito de sus balas, pues las sustituyeron por obuses que podían alcanzarnos con más facilidad en el hueco en el que nos encontrábamos apostados. Una gran explosión me levantó el chacó y mató a un hombre cerca de mí.
+—Le felicito, —me dijo el capitán cuando acabé de recoger mi chacó—; ya está libre para toda la jornada.
+Yo conocía esa superstición militar que cree que el axioma Non bis in idem puede aplicarse tanto en el campo de batalla como en un tribunal de justicia. Volví a colocarme orgullosamente mi chacó.
+—Esto es hacer saludar a la gente sin ceremonia, —dije tan alegremente como pude. Aquella broma de mal gusto, dadas las circunstancias, pareció excelente.
+—Le felicito, —me dijo el capitán—, ya no recibirá nada más, y mandará una compañía esta misma tarde, pues percibo claramente que el horno se prepara para mí. Todas las veces que he sido herido, el oficial que se encontraba junto a mí recibió alguna bala muerta, y, —añadió con un tono más bajo y casi avergonzado— sus nombres empezaban siempre por P.
+Me hice el fuerte; muchas personas habrían hecho como yo; muchas personas se habrían sentido impresionadas como yo por aquellas palabras proféticas. Inexperto como era, sentía que no podía confiar mis sentimientos a nadie, y que debía parecer siempre fríamente intrépido.Al cabo de una media hora, el fuego de los rusos disminuyó de forma sensible; entonces salimos de nuestro refugio para avanzar hacia el reducto.
+Nuestro regimiento estaba compuesto por tres batallones. El segundo fue el encargado de rodear el reducto por el lado de la trinchera; los otros dos debían dar el asalto. Yo estaba en el tercer batallón. Al salir de detrás de la especie de espolón que nos había protegido, fuimos recibidos por numerosas descargas de fusil, que sólo causaron escasos daños en nuestras filas. El silbido de las balas me sorprendió: con frecuencia volvía la cabeza, y eso me hizo recibir algunas bromas por parte de mis compañeros más familiarizados con aquel ruido.
+—Después de todo —me dije— una bala no es una cosa tan terrible.
+Avanzábamos a paso de carrera, precedidos por los tiradores: de pronto los rusos lanzaron tres hurras, tres hurras claros, luego permanecieron silenciosos y sin disparar.
+—No me gusta este silencio, —dijo mi capitán— no presagia nada bueno.
+Me parecía que nuestros soldados eran demasiado ruidosos, y no pude impedir establecer interiormente la comparación entre su clamor tumultuoso y el silencio imponente del enemigo. Llegamos rápidamente al pie del reducto, las empalizadas habían sino destrozadas y la tierra revuelta por nuestras balas de cañón. Los soldados se lanzaron sobre aquellas recientes ruinas con gritos de ¡Viva el Emperador! más fuertes de lo habría cabido esperar de personas que ya habían gritado tanto. Levanté los ojos y jamás olvidaré el espectáculo que vi. La mayoría de la humareda se había elevado y permanecía suspendida como un palio a veinte pies por encima del reducto. A través de un vapor azulado, podía verse detrás de su parapeto medio destruido a los granaderos rusos, con el arma levantada, inmóviles como estatuas. Aún me parece estar viendo a cada soldado con el ojo izquierdo clavado en nosotros y el derecho oculto tras su fusil levantado. En una tronera, a algunos pies de nosotros, un hombre con una antorcha se encontraba junto a un cañón. Me estremecí y creí que había llegado mi última hora.
+—La danza va a comenzar —exclamó mi capitán—. Buenas noches.
+Ésas fueron las últimas palabras que le escuché pronunciar.
+Un redoble de tambores resonó en el reducto. Vi bajar todos los fusiles. Cerré los ojos y escuché un ruido horroroso, seguido de gritos y gemidos. Abrí los ojos, sorprendido de encontrarme aún en este mundo. El reducto estaba de nuevo envuelto en humo. Yo estaba rodeado de heridos y de muertos. Mi capitán estaba tendido a mis pies: su cabeza había sido pulverizada por una bala de cañón, y yo había sido salpicado por sus sesos y su sangre. De toda mi compañía sólo seguíamos en pie seis hombres y yo. A aquella carnicería le sucedió un momento de estupor. El coronel, colocando su sombrero en la punta de su espada, escaló el primero el parapeto gritando: ¡Viva el Emperador! y fue seguido inmediatamente por todos los supervivientes. No conservo un recuerdo nítido de lo que siguió. Entramos en el reducto, no sé cómo. Combatimos cuerpo a cuerpo en medio de una humareda tan espesa que no podíamos vernos. Creo que ataqué porque mi sable estaba completamente ensangrentado. Por fin, escuché gritar victoria y cuando la humareda disminuyó, pude ver sangre y muertos bajo los cuales desaparecía la tierra del reducto. Los cañones, sobre todo, se encontraban enterrados bajo montones de cadáveres. Unos doscientos hombres de pie, con uniforme francés, se habían agrupado sin orden, los unos cargando sus fusiles, los otros limpiando sus bayonetas. Había con ellos once prisioneros rusos.
+El coronel estaba boca arriba completamente ensangrentado sobre un arcón roto, cerca de la trinchera. Algunos soldados se afanaban a su alrededor; me acerqué.
+—¿Dónde está el capitán más antiguo? —preguntó a su sargento.
+El sargento se encogió de hombros de manera muy expresiva.
+—¿Y el teniente más antiguo?
+—Señor, llegó ayer, —dijo el sargento con un tono completamente tranquilo.
+El coronel sonrió amargamente.
+—Vamos, señor —me dijo—, usted tiene el mando; haga fortalecer inmediatamente la trinchera del reducto con esos carros, pues el enemigo es superior; pero el general C*** va a mandarle refuerzos.
+—Coronel —le pregunté— ¿está usted gravemente herido?
+—Me importa un bledo, querido, lo importante es que el reducto ha sido tomado.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

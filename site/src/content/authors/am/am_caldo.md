@@ -1,0 +1,81 @@
+---
+layout: story
+title: ¡Tómate un caldo!
+slug: am_caldo
+source: https://www.literatura.us/idiomas/am/am_caldo.html
+tags:
+  - am_caldo
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+¡Tómate un caldo! (1952)
+(“Pigliati un brodo”)
+Originalmente publicado en el periódico Il Corriere della Sera (27 de enero de 1952);
+Racconti romani
+(Milán: Bompiani, 1954, 439 págs.)
+El de tapicero es un oficio difícil. No hablo del ojo que es preciso tener para clavar y extender sin arrugas ni defectos las telas en los muebles; ni de la paciencia para coser a mano, supongamos, cuatro o cinco paños de chinz; ni de la limpieza, cuando se trata de tejidos delicados. Hablo del sitio que hace falta. Supongamos que el tapicero tenga que revestir un par de divanes y cinco o seis entre butacas, sillas y sillones, que es un trabajo normal, y se encuentra con todo el sitio ocupado aunque tenga un taller muy grande. Por eso los talleres de tapicero se encuentran con dificultad y yo, aunque soy tapicero desde hace más de cuarenta años (comencé trabajando a los dieciséis años con mi padre, que era también tapicero), yo, digo, he trabajado siempre en casa. Vivo en la Lungara, no muy lejos de Regina Coeli, en una habitación muy larga, ancha y de techo alto que da al Tíber con cuatro ventanas. En esta habitación, mientras vivió mi primera mujer, no sólo trabajaba sino que dormía con toda mi familia: en un rincón había una camita para mi hijo Ferdinando; en el rincón opuesto, tras un biombo, una gran cama para mi mujer y para mí. Tal distribución era obligada en vista de que, además de esa habitación, en el apartamento no había más que dos cuartitos para la cocina y el retrete. Luego murió mi mujer, con sólo cincuenta años, y yo, que tenía casi sesenta, tras haber intentado estar sin mujer me dí cuenta de que no podía arreglármelas y me volví a casar y todo cambió. Giuditta, mi segunda mujer, tenía treinta años menos que yo y podía decirse incluso que era guapa, aunque muchos hombres afirmaban que había en ella algo que echaba hacia atrás: pálida como una muerta, con unos ojos negros saltones como los de los corderos degollados que se ven en las carnicerías, cabellos negros, carnes blancas y duras, pero frías. Antes de casarse, Giuditta había sido una pobre obrera; después de casada quería hacerse la señora. Antes de casarse había sido un ángel, después de casada se convirtió en un diablo. Antes de casarse se contentaba conmigo, con la casa, con todo; después de casada no le gustó nada: ni yo, ni la casa, ni todo lo demás. Claro, son las sorpresas del matrimonio. Empezó diciendo que no podía ser eso de dormir en la misma habitación que Ferdinando y me hizo construir un tabique de ladrillos para formar otro cuartito en el que poner nuestra cama. Luego quiso que le arreglase la cocina con unos hornillos nuevos. Luego, que pusiera una bañera en el retrete. Por último, encontró la manera de pelearse con nuestros vecinos, donde, durante veinte años, había ido a telefonear y recibía las llamadas. De modo que me tocó instalar un teléfono.
+Vinieron a ponerme el teléfono, supongamos, un lunes. La tarde del miércoles, mientras estaba clavando el raso de una butaquita imperio y suspiraba para mí pensando en mis asuntos, el teléfono sonó. Fui, descolgué el aparato y dije:
+—Habla Pericoli. ¿Quién es?
+Al otro extremo del hilo, un vozarrón fuerte, descarado, con acento romano, preguntó:
+—¿Pericoli, el tapicero?
+—Sí, señor, para servirle —contesté, pensando que era un cliente.
+—Bueno —dijo el vozarrón—. ¿Se puede saber por qué te has casado, Pericoli?... ¿No sabías que, a tu edad, no se casa uno? Y, además, ¿qué te crees? ¿Que tu mujer te quiere? Pobre tonto...
+Inmediatamente se me subió la sangre a la cabeza porque aquel vozarrón, pese a su descaro, expresaba la duda que me atormentaba en ese momento. Contesté enérgicamente:
+—¿Quién eres?
+Y él, con tono arrastrado:
+—No te imaginas quién soy ni aunque volvieras a nacer... Oyeme bien: quiero darte un consejo.
+—Pero, ¿qué quieres? ¿Quién eres?
+—Un consejo de amigo: ¡tómate un caldo!
+Consideré que este telefonazo era una broma de cualquier ocioso que nos conocía. Pero me llenó de veneno igual, porque, como ya dije, también yo había empezado a pensar que mi matrimonio había sido un error. Naturalmente, no le dije nada a Giuditta, la cual, dicho sea entre paréntesis, hacía unos días que estaba imposible y me trataba peor que si yo fuera una basura. Pasó quizás una semana y luego, hacia la misma hora de la primera vez, sonó el teléfono y el vozarrón me preguntó:
+—Buenos días, Pericoli, ¿qué estás haciendo?
+—Lo que me da la gana —contesté.
+—Te voy a decir lo que estás haciendo: estás rellenando las sillas que te han llevado ayer por la tarde... Muy bien, trabaja, hombre.. Pero también puedo decirte lo que está haciendo tu mujer.
+—¿Quién eres, puede saberse quién eres?
+—Tu mujer se está haciendo la coqueta con el barman de Porta Settimiana..., eso es lo que está haciendo.
+—¿Quién te lo ha dicho?
+—Te lo digo yo... Y si no lo crees, vete y lo verás... Hazme caso, Pericoli: eres un vejestorio, las mujeres no quieren estar con los viejos verdes.
+—¿Quién eres? ¡Canalla!
+—En vez de enfadarte, hazme caso: ¡tómate un caldo!
+Esta vez no pude contenerme y cuando Giuditta volvió a casa, ante una de sus habituales respuestas de pescadora, se lo dije:
+—¡Yo trabajo y tú, mientras tanto, coqueteas con el barman de Porta Settimiana!
+¡Ojalá me hubiera callado! Primero me cubrió de insultos, luego quiso saber quién me lo había dicho, y cuando se lo dije, volvió a insultarme:
+—¡Ah! ¡Haces caso a cualquier sinvergüenza que te telefoneal... ¿Lo crees a él más que a mí?... ¿Sabes lo que eres? Un viejo chocho... Merecerías que te pusiera de verdad los cuernos... Y tan grandes que no pudieras pasar por la puerta.
+Etcétera, etcétera. Acabó que me puse a llorar y me arrastré de rodillas a sus pies, pidiéndole perdón, con todos mis cabellos blancos y mi barriga. Y que, para ablandarla, tuve que darle dinero para comprarse unas medias de seda; y Dios es testigo de que no tenía casi dinero, con todos los gastos que me había obligado a hacer.
+Pero después me sentí triste y disgustado; me avergonzaba y, al mismo tiempo, estaba ya seguro de que ella no me quería. Pasaron aún unos días y luego el teléfono sonó y el consabido vozarrón preguntó:
+—Pericoli, ¿cómo estás?
+Respondí, fingiendo desenvoltura:
+—Yo bien, ¿y tú?
+—Tirando... En cambio, quien no está bien es tu mujer.
+—¿Por qué?
+—Porque eres viejo, Pericoli, y no le bastas.
+Ya ven cómo somos. Había jurado conservar la calma. Pero al oír hablar de la vejez, salté:
+—¡Mira, canalla, desde ahora en adelante, cuando te sienta, tiraré el teléfono!
+—¡Uf, qué fanático eres!... No te impresiones, Pericoli... Tu mujer pronto estará bien.
+—¡Cállate, canalla!
+—Pericoli, ¿por qué pierdes el tino?... Haz lo que te digo, en cambio: ¡tómate un caldo!
+Esta vez no le dije nada a Giuditta. Pero me roía por dentro y mucho más me roí en los días siguientes, porque los telefonazos continuaron. El vozarrón repetía siempre las mismas cosas: que Giuditta era joven y yo era viejo, que me traicionaba con éste o con aquél, que todos lo sabían, y así sucesivamente. O bien, sin grandes cumplidos, me decía:
+—Pericoli, tu mujer es una... —y soltaba una palabra de carretero.
+Era alguien que nos conocía bien, hasta el punto de aconsejarme que me afeitara todos los días para no aparecer ante Giuditta con los pelos blancos. Y, además, estaba la cuestión del caldo. ¿Qué quería decir con esta frase? Comprendía que era una alusión maligna, porque a los convalecientes o a los viejos se les dice: ¡tómate un caldo! Pero, ¿por qué siempre la misma frase? Algo me decía que esas palabras ya las había oído, pero no lograba acordarme de dónde ni cuándo. Mientras tanto, las cosas con Giuditta iban de mal en peor. Puede decirse que ahora ya casi no me hablaba, a no ser en un tono intolerante, irascible, como una bruja. Yo, por mor de la paz, me lo tragaba; pero, a fuerza de tragármelo, me envenenaba y comprendía cada vez mejor que mi vida ya no era vida.
+Bueno, una de esas noches, de repente, Giuditta se mostró amable conmigo, por primera vez después de tanto tiempo; y propuso incluso que fuéramos los tres a comer en cierta hostería de Trastevere. Era la hostería donde habíamos celebrado la comida de boda, y cuando llegamos, de pronto, me acordé de un hecho de aquella comida: ya fuera por la emoción, ya por el vino que había bebido antes, aquella tarde tenía el estómago un poco revuelto. Entonces, mientras todos encargaban spaghetti, Giuditta, al verme dudoso, había insistido, como una buena esposa que quiere a su marido:
+—Tómate un caldo... Hazme caso, Meo..., tómate un caldo.
+Comprendí así que ése había sido el origen de la frase que el vozarrón me repetía por teléfono; pero no pude imaginar a quién pertenecía el vozarrón, porque aquella tarde, además, naturalmente, de los camareros y de otros clientes, seríamos unos veinte a la mesa. Bien entendido, no dije nada de este descubrimiento y las cosas marcharon bastante bien. Incluso Giuditta, al final, quiso beber a mi salud y me dio un beso. Bebí mucho aquella noche, quizás porque me sentía feliz, y luego volví a casa con Giuditta y Ferdinando, lleno de esperanzas. Dormí como un tronco; cuando me desperté, Giuditta había salido a hacer la compra. Me levanté y, siempre con aquella impresión de que Giuditta se había decidido por fin a quererme, comencé a trabajar. Era un hermoso día, por las ventanas entraba el sol, el canario cantaba a voz en grito en su jaula, y yo, tan contento estaba, cantaba también mientras trabajaba, como el canario, aunque en sordina. Y de pronto sonó el teléfono; voy, lo descuelgo, y el vozarrón me dice:
+—Pericoli, es la última vez que te telefoneo.
+—Eso está muy bien —contesto, muy alegre—... Ya has comprendido por fin que, total, era inútil... Adiós, y que sigas bien.
+—Espera, Pericoli, ¿sabes por qué es la última vez que te telefoneo?
+—¿Por qué?
+—Porque tu mujer te ha dejado plantado... Se ha ido esta mañana con Gigi, el que alquila coches... Pasó a buscarla a las siete con el 1100 verde.
+Efectivamente, fue la última vez que me telefoneó. De Giuditta no quiero ni hablar; sólo yo sé lo que sufrí antes de que el asunto me fuera indiferente, y hablando de ello tendría miedo de sufrir de nuevo. Sin embargo, sentía curiosidad por saber de quién era aquel vozarrón tan bien informado, que me había advertido de mi error, puede decirse, desde el primer día. Verdaderamente, curiosidad es decir poco: no hacía más que pensar en ello y al final se había convertido en una verdadera obsesión.
+Lo descubrí por azar y, todavía ahora, cuanto más lo pienso, menos lo entiendo. Ferdinando tenía ya casi quince años y hacía tiempo que no iba a buscarlo al colegio. Pero una mañana se me ocurrió la idea de pasar por el instituto técnico, así, sin más, para volver a casa con él. Lo encontré cuando ya había salido y jugaba a la pelota con sus compañeros, en la explanada frontera a la escuela. Era un día soleado y durante un momento estuve mirándolos mientras jugaban. No sé por qué, comparé a mi hijo con los demás y me dije que tampoco en esto había tenido suerte. Quizás porque había nacido de padres bastante mayores, Ferdinando no era guapo: bajo, con manos y pies enormes, de cara amarilla, con una narizota que le llegaba hasta la boca y dos ojos con un defecto que llamaba la atención: estrábicos. Observé que era robusto, lanzaba la pelota al aire con unas patadas resonantes, pero tampoco esta robustez era normal, resultaba excesiva para su estatura, algo así como la de los enanos y los jorobados. Mientras hacía estas reflexiones, apoyado en un murete, al sol, lo oí chillar, furioso:
+—¡No vale!... ¡Has tocado la pelota con la mano!
+Y entonces, como un relámpago, reconocí la voz. Era el mismo vozarrón que me telefoneaba, el vozarrón, en suma, del muchacho que está a punto de convertirse en hombre, sin gracia, descarado, desentonado como su edad. Y luego, alzando el pie hacia la pelota, añadió:
+—¡Toma! —y reconocí también la palabra.
+De momento me dieron ganas de llamarlo, agarrarlo de un brazo y hacerle recorrer todo el camino hasta casa a fuerza de bofetadas. ¡Mira que llamarle “viejo bobo y chocho” a su padre, y todos esos nombres que no digo dedicados a su madrastra!; quizás era verdad, pero un hijo que lo es de veras debe de respetar a sus progenitores. Luego él me vio, dejó la pelota y vino a mi encuentro, jadeante, gritando con su vozarrón:
+—¡Ah, papá!... ¿Qué haces aquí?... No te había visto.
+Y yo, de pronto, me sentí desarmado. ¡Era tan feo, con su abrigo demasiado largo y la narizota y los ojos estrábicos! Y, al mismo tiempo, se comprendía que estaba muy contento de verme. Balbucí:
+—Ferdinando, si quieres continuar el partido, hazlo... Yo me voy a casa.
+—Ya he acabado —dijo— ... Vamos.
+Y, muy contento, me cogió del brazo, dirigiéndose conmigo hacia el Lungotevere. Caminamos despacio, al sol, en silencio. Y ahora pensaba que, después de todo, aunque fuera por teléfono, él me había dicho la verdad y advertido de mi error. ¿Y si un hijo no le dice la verdad a su padre, quién se la va a decir?
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

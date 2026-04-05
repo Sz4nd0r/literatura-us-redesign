@@ -7,4 +7,192 @@ tags:
   - ciudad
   - arturo
 ---
-Arturo Uslar Pietri (Caracas, 1906 - Caracas, 2001) La ciudad Los ganadores (Barcelona: Seix Barral, 1980, 190 págs.) Había llegado al extremo del barrio pobre. Las calles iban siendo más estrechas, más bajas las casas, más llenas de puertas, ventanas y gentes. Gentes en las puertas, en las aceras, en grupos en las esquinas, junto a los postes del alumbrado que todavía no se habían encendido. Angostos ventorros, olorosos a fritanga, tiendas de un zaguán desbordantes de colgajos de ropa, de juguetes, de jofainas y jarras. Caminando sin rumbo, lentamente, había llegado hasta allí. No conocía a nadie. Pero las miradas de los que encontraba sí lo conocían. Sabían que no era de allí. Era un extraño, metido en el barrio. Miradas de curiosidad y de desconfianza caían sobre él. Podía ser peligroso. Sería mejor regresar, volver al centro, reintegrarse a los sitios y las gentes habituales. En el momento en que iba a dar vuelta sobre la acera quebrada y estrecha sintió el empellón. Dos hombres lo habían tropezado y corrían huyendo. Se palpó los bolsillos. Algo debían haberle arrebatado. Uno de los hombres volvió la cara hacia él. Había gritado algo. Había ensañado con la mano hacia él. Se puso a correr como para alcanzarlo. Corría y se palpaba los bolsillos. Nada parecía faltar. ¿Qué decía aquel hombre que volvía la cabeza y gritaba palabras indistintas? Tal vez no era a él a quien se dirigía. Volvió la cabeza. Por la esquina próxima desembocaban y corrían, detrás de él o detrás de ellos, numerosas personas que a su vez gritaban. Se mezclaban sus voces y era imposible entender. Pero gritaban y venían hacia él o hacia los que habían pasado. Corrió con fuerza. Por las puertas fueron asomando otros hombres y mujeres. El griterío iba de los unos a los otros. Enseñaban con las manos hacia adelante. Los que estaban en grupos en las aceras empezaban a correr también. Toda la gente que estaba en la calle corría entre gritos. Y todos volvían a cada instante la cabeza hacia atrás para mirar otros grupos numerosos que surgían por las bocacalles y las puertas. Caras angustiadas de mujeres y niños asomaban a su paso. Parecían gritarle algo que él no alcanzaba a oír entre la carrera y el jadeo. Parecían preguntarle o anunciarle algo. Luego al volver la cabeza los veía corriendo detrás. Algunos perros se habían incorporado al gentío que corría y ladraban sin rumbo hacia los que estaban más cerca. Detrás y delante de él la calle corría, en millares de cabezas, como un torrente. Corría jadeante, con la respiración corta y la garganta seca. Algunas voces decían: “Allí vienen”. Había que mirar hacia atrás. Pero los que venían detrás miraban a su vez hacia atrás. “Vienen. Ya llegan”. Saltando a ratos podía ver más lejos. Tres o cuatro cuadras hacia atrás el gentío parecía cambiar de aspecto. Más unido, más compacto. Debían ser aquellos últimos que desembocaban de los más lejanos cruces. Tal vez traían armas. Tal vez traían muerte. Recordaba cómo había corrido y corrido de niño, junto a otros, perseguidos por un perro que decían que estaba rabioso. Un perro grande y rápido que a cada instante parecía alcanzarlos. Ya nada estaba quieto a lo largo de la calle. Por todas partes se divisaban grupos que huían, en la misma dirección. El clamor de las cornetas de los automóviles ensordecía. Estaban como atascados entre la masa humana y aullaban con su grito metálico. Había quienes, en la angustia de no poder avanzar, los abandonaban y quedaban en medio de la calle con su masa oscura como una roca en mitad de la corriente. Había pasado por las calles de la infancia. Por la fachada sucia de la escuela. Se veía vacía la casa. Se veían vacías las tiendas y las paradas de autobuses. Todo parecía concentrado en aquella calzada por donde todos huían. “Vienen”, aquellos ojos de pavorosa blancura que se volvían hacia él y más allá de él hacia el fondo de la calle, acaso miraban lo que él no podía mirar. Tal vez se habían soltado los leprosos del lazareto. Era una de sus angustias de niño. Cuando pasaba por ante el liso muro de aquel asilo. Dentro estaban aquellos seres contrahechos por la enfermedad. Verlos daba miedo. A veces rozaba la pared y sentía el temor de haber adquirido el contagio. Iban a empezar a crecerle las orejas y los labios y a caérsele los dedos de las manos, como frutas podridas. O eran los locos los que se habían escapado. Aquellos furiosos que gritaban sin término, atados en sus camisas de fuerza, detrás de rejas de casa de fieras. O era una tropa de enemigos. Había oído a su madre contar las viejas historias de las invasiones de antaño. Cómo llegaban las partidas de hombres armados a robar y matar. Cómo la gente se ponía a toda prisa a esconder y enterrar sus cosas de valor. Cómo se ocultaban y se disfrazaban. Hombres vestidos de mujeres o de frailes. Cómo huían hacia los campos y los montes. O cuando el terremoto. El último terremoto que destruyó media ciudad. Los que no quedaron debajo de los techos y las paredes caídos escapaban sin rumbo buscando las plazas y los espacios abiertos. Pero no era eso ahora. No sentía moverse el suelo, ni se desgajaban las casas. Pero era parecido. La fluida creciente se enredaba en sí misma. Pasaban las calles, los parques, las grandes bocas vacías de las puertas de los cines, con sus inmensos carteles de hombres feroces disparando enormes pistolas y de mujeres desnudas. Caras de furia en rojo y negro y senos y caderas en avalancha. Todos pasaban de largo. Nadie entraba ni salía de los vacíos vestíbulos. ¿Por dónde vendrían? Hasta dónde penetraban en la larga corriente oscura que llenaba la vía a pérdida de vista. Se formaban cortos diálogos con los que iban más cerca. Con los que lo alcanzaban, con los que se retrasaban y llegaban a su nivel para quedarse atrás. Con los que daban traspiés ya para caer. Con los que trataban de gritar desde el suelo con los brazos levantados en protección contra las pateaduras de los que llegaban sobre ellos. “Ya empezaron a quemar”. “Yo sabía que iban a quemar”. Hacia el fondo lejano la calle se confundía con aquel nubarrón de humo negro que crecía. Por instantes pasaban caras conocidas. “¿Qué te parece esto?”. “Un horror”. “Un espanto”. “¿Quién lo iba a decir?”. “Yo sabía que esto iba a pasar”. “No se quede atrás, compañero”. Todos estaban distorsionados y cambiados por el temor y el cansancio. Era lo mismo que alguna vez le había pasado a alguno. Pero no a todos. Nunca en aquella forma. ¿Dónde empezaba y dónde terminaba? Era como una creciente que los arrastraba a todos, pero la creciente eran ellos mismos. Había visto crecer ríos y quebradas barriendo las casas de la orilla. Mesas, botellas verdes, perros, gentes y cochinos en ahogo. Iban llevados. Buscaban cómo llegar a la orilla. La orilla ahora eran aquellas casas a lo largo de la calle de las que seguían saliendo gentes en fuga. “Vienen”. “Llegan”. “Nos van a alcanzar”. Había mujeres que corrían con un niño a cuestas. Un niño que lloraba y hacía gestos desesperados con los brazos. “Esto no se había visto nunca”. Un hombre que corría a su lado parecía más gordo y más viejo que él. Una cara roja y una respiración de fuelle. El vientre grueso le saltaba lentamente. La boca abierta. Palabras ahogadas, escupidas, cortadas. “¿Qué es lo que pasa?”. No le oyó bien. Después le entendió. “¿Lo que pasa?”. “Allá atrás”. Movía la cabeza para indicar la dirección. “Allá vienen”. Después dijo, en dos o tres veces, completando las frases entrecortadas por el ahogo. “Yo sabía que esto iba a pasar”. Esto. Todo aquel gentío en fuga. “El año pasado…”. No le oyó el resto. El año pasado él venía con frecuencia a aquella calle por donde huía ahora. A la hora en que el marido de Ana estaba en el trabajo. A las mujeres les costaba más trabajo correr. Arrancaban con más velocidad pero a poco iban disminuyendo. Cerca trotaban algunas jóvenes. Mujeres más viejas iban de prisa pero al paso. Ana debía haber escapado de su casa. Ella por su lado y el marido por el suyo. A Ana le gustaba el sobresalto de aquellas citas en que todo toque en la puerta, toda llamada de teléfono podía ser de su marido. Él hubiera preferido otra cosa. Era aquella casa con la puerta abierta. Se subía la escalera. La primera puerta a la izquierda. “¿Usted no supo lo que pasó ayer en el fútbol?”. “¿En el fútbol?”. “El fútbol”. El hombre atragantado de cansancio soltaba palabras en el aire. Muchas se perdían. “La gente salió corriendo. Todo el mundo se fue. De repente”. Había sido un anuncio. Hay animales que sienten las catástrofes. Como los gatos sienten los terremotos. Se ponen grifos y se salen de la casa. “Natividad Díaz me lo había dicho”. “¿Natividad Díaz?”. El confidente se iba poniendo más lento. “Usted ni lo conoce”. No. No lo conocía. Él también iba avanzando con menos velocidad. Tal vez para no separarse del otro. “Yo esperaba esto desde hace tiempo”. Él, en cambio, no. Iba a decirle que no había pensado que aquello podía ocurrir pero sentía la garganta seca y no le salían las palabras. Tenía en la boca una saliva grumosa. Había gente caída en el pavimento. Algunos tropezaban y se derrumbaban sobre ellos. Había que esquivar los montones humanos. “Esos se fregaron”, balbuceaba el compañero. “Todos estamos fregados”. Ya era un pequeño trote lo que llevaban. Pasaban ahora junto a la plaza vacía, con algunos tranvías detenidos desamparados. Se veían saqueadores que salían de algunas tiendas cargados de mercancías. Un joven llevaba sobre la cabeza bamboleando un voluminoso aparato de televisión. “Mire eso”. Había dado un traspiés y el aparato cayó. Lo vio desintegrarse sobre el suelo. Los que venían detrás acabaron de aplastarlo. “¿Qué pensaría que podía hacer con eso?”. “Yo estoy muy cansado”. “Yo también”. “Ya no aguanto más”. Voces cercanas y más frescas gritaban cerca. “Allá vienen”. Él repetía sin pronunciar y adivinaba que el otro también repetía. “Allá vienen”. Ahora todos volvían las cabezas sin detenerse. Lejos, en la larga calle, se veía humo. Humo de incendios. Sobre techos lejanos crecían las llamas. “Están quemando la ciudad”. “Esta es mi casa”. “¿Su casa?”. El asfixiado compañero asintió con la cabeza. Él se volvió hacia aquel amasijo de edificios parejos. Debía ser aquélla. La señaló con una mano temblorosa. Aquella más estrecha, más vieja. Casa de angostos pisos, ventanas delgadas, y escaleras empinadas. Escaleras de pararse a cada vuelta a tomar aliento. Las ventanas estaban abiertas. La puerta abierta. No asomaba nadie. No se sabía si era una sonrisa o una mueca. “Mi casa”. Tampoco debió haber sido suya. Tampoco la casa entera. Algún cuarto en lo de más arriba. Con una sola ventana, con un ahogado pasadizo. Con aquel alquiler en billetes viejos y arrugados que dejaba de pagar a veces. Con pleitos y recriminaciones del casero. Ahora ninguna era de nadie. Todas vacías. Todas abandonadas. “Ahora se podría uno meter en cualquiera”. Nadie se iba a meter. Quién se iba a meter. De lo que se trataba era de irse. Irse lejos. Lo más lejos posible. Para no ser alcanzado, para no ser atrapado. ¿Qué casa? Había pasado del trote cansino a un paso corto. A un paso que se iba haciendo más lento y arrastrado por momentos. Fue derivando, entre empellones y tropiezos, hacia una de las aceras. No era menor el apretujamiento y los empujones. Había entrado en medio de un matrimonio que desde una ancha puerta comenzaba a disolverse entre el gentío. La novia llena de tules blancos, con unos grandes ojos de terror. El novio con el cuello deshecho y la corbata bamboleante. Los testigos, los padrinos, los invitados, toda aquella gente vestida de oscuro que se iba desvaneciendo y perdiendo entre la turba de la calzada. No era el primer matrimonio que había encontrado en la escapada. Había tropezado con otros. Alguno no parecía de aquel tiempo. Más bien parecía salido de aquella vieja fotografía que colgaba en su casa, con la estampa de su padre y de su madre el día en que se casaron. Tiesas vestiduras anticuadas. Un hombre de bigotes de largas puntas con un cuello muy alto, muy blanco, muy brillante y unos grandes faldones como de levita y una novia de mucho pecho alto y cintura de avispa. Había pasado en medio de bautizos. El padrino todavía lanzaba al aire pequeñas monedas, pero nadie se detenía a recogerlas. Y entre los matrimonios y los bautizos, salían entierros atropellados. Los llorosos deudos volvían la cabeza con susto y empezaban a huir con la muchedumbre. Los cargadores depositaban la urna sobre el suelo y desaparecían. Sobre el cajón pulido resonaban los golpes sordos y profundos de los que tropezaban. Era necesario que hubiera pasado aquello para que todo apareciera mezclado y simultáneo. El entierro con el bautizo y el matrimonio. Nunca ocurrían en el mismo día, en la misma calle, con la misma gente. Era necesario que hubiera pasado aquello. Era necesario aquel pavoroso acontecimiento para que él, jadeante, ahogándose, agotado de fatiga, estuviera presente en todas aquellas ceremonias interrumpidas y rotas. Para que aquello que era la largura de un año o de una vida se convirtiera en tumulto y mezcla y pareciera pasar al mismo tiempo. El padrino de bautizo con la viuda, el muerto en su caja y el recién nacido lleno de adornos de muñeco. Él había tenido un bautizo, pero no un matrimonio. No todavía. “¿Es usted casado?”, le preguntó a un hombre lento que avanzaba a su lado. “Qué le importa a usted”. Todo el mundo estaba de mal humor. Cada vez había que cuidarse más de la gente caída. Eran muchos los que estaban tumbados o encogidos sobre el suelo. Los que miraban hacia arriba con unas caras de abandono y resignación, con los brazos cruzados protegiendo las cabezas. Así iría a caer él también. Quedaban muchas calles todavía por recorrer. Si no los alcanzaban antes. Muchas calles largas y cortas, anchas y angostas, antes de poder salir de nuevo al descampado. Antes de que los alcanzara el incendio. Pero no era sólo el incendio. Eran también ellos. Los que venían. Policías sin gorra huían también. Saltaban por sobre los caídos y desaparecían hacia adelante. “¿Ve los policías?”. Un vecino asintió con un gesto mortecino. “Esos son los primeros”. Unos hombres de dolmanes rojos y unos kepis emplumados manchaban una bocacalle como un lampo de sangre. No sabía lo que eran. Nunca había visto esos uniformes. “Son los del circo”. Irían también a soltar las fieras. Los osos, las cebras, los elefantes y los leones. Tropezó con un pequeño bulto. Era un niño de bautizo abandonado. Tenía el faldellín blanco marcado de pisotones. Se detuvo un instante. Se inclinó con esfuerzo y lo recogió. Le pareció que pesaba mucho. El niño lloraba débilmente sobre su hombro. Tenía los ojos entrecerrados. Empezaba a vomitar. Con gorgoritos y arrumacos que recordaba de su escaso trato con los niños comenzó a calmarlo. Ahora caminaba más inseguro. A ratos el niño lo veía vagamente. Qué entendería de todo aquello. Qué iba a entender. “Yo no me explico esto”. Era una mujer gruesa y vieja. Iba a responderle cuando volvió con otra pregunta. “¿Es hijo suyo?”. No sabía lo que había contestado. “¿Es suyo?”. Hubiera sido difícil responder. Era suyo desde hacía un momento. “¿Y la mamá?”. Hizo un gesto negativo con la cabeza. “Pobrecito”. “Sí, pobrecito”. Iba a proponerle que se encargara del chico. Pero la mujer ni lo hubiera comprendido. Habría pensado que era un padre desnaturalizado. Ahora jadeaba con más esfuerzo y el peso del niño parecía aumentar. “Nos van a alcanzar”. La mujer que le había hablado siguió de largo. Eran otros o distintos los que se emparejaban con él en la atropellada marcha. Lo depasaban o se rezagaban. Él apretaba el niño y arrastraba los pies. Ahora se le hacía más difícil volver la cabeza hacia atrás. Hacia los que venían con más ímpetu. “Vienen”. Lo alcanzarían finalmente. Cada vez más lento y más rezagado. Lo atraparían. Las manos de ellos o las lenguas ennegrecidas y chisporroteantes del incendio. Como aquellas fauces de fiera o aquellos cuernos de toro perseguidor que siempre estaban a punto de darle alcance en las pesadillas de la infancia. Cuando quería huir y no podía. Cuando quería correr y los pies se le hacían pesados y como adheridos al suelo. Tan inmóvil como aquellos árboles a los que iba alcanzando el incendio en la sabana. Todavía de una casa cercana salía una boda tardía. En dispersión de cuerpos y de gritos. Entre hombres vestidos de negro la novia de blanco trataba de correr. Velos de punto hirsuto flotaban sobre las cabezas. Las manos forradas en guantes blancos volaban dando aletazos de angustia. Un momento la novia estuvo frente a él. Le miró el niño que apretaba en los brazos. Algo le iba a preguntar pero no habló o no le pudo oír entre el ruido. Eran bocas abiertas y ojos en blanco. Ahora era otra gente la que lo rodeaba. Con el niño cada vez más pesado entre los brazos. Sentía dolor en los codos y en los hombros. Como si se hubiera puesto muy pesado y ya no pudiera sostenerlo. Él mismo parecía haberse ido poniendo más bajo. Casi en cuclillas. Ahora había puesto el niño en el suelo. Lo miraba desde arriba. Estaba quieto, con los ojos abiertos y la boca descolgada. Flojo y desmadejado. Lo colocó poco a poco con el pie, en un portal vacío. Hacia adentro se miraba el pasadizo vacío al que daban, abiertas, todas las puertas. Ya no lo veía. Lo habían desplazado a empujones. Iba ahora más lejos. Más lento entre la gente que parecía moverse más a prisa. No veía ahora caras sino hombros y espaldas. Cerca de sus ojos. Intentó regresar. Logró con dificultad pegarse a la pared y comenzar poco a poco a remontar. Avanzaba muy lentamente. Todos los pechos y las voces venían contra él. “Tengo que recogerlo”. Por ratos no lograba ver la pared, metido entre tantos cuerpos en contra. No debía estar lejos. Era el mismo portal, pero no estaba el niño. O no era el mismo portal. Logró remontar otro trecho. Iba sobre el borde de la pared aplastado por los que venían. Casi no avanzaba. Ahora sí estaba en el portal. Era la misma puerta entreabierta, el mismo largo zaguán vacío, las mismas puertas abiertas, sin gente. Era un hombre el que estaba tendido sobre el umbral. Casi desnudo, largo, blanco. Con una barba negra como de santo. Los ojos abiertos, muertos. Un taparrabos de tela rota. Parecía una imagen de procesión sin velas y sin vidrios. Tan viejo como el padre del niño. Menos viejo que él. Ahora lo veía alejarse. Era él mismo quien se alejaba. Reculando. Sostenido y llevado entre pechos y espaldas de los que huían. Ya fuera de la ciudad, tal vez. 
+
+# La ciudad
+
+*Arturo Uslar Pietri (1906 - 2001)*
+*Los ganadores* (1980)*
+
+Las calles iban siendo más estrechas, más bajas las casas, más llenas de puertas, ventanas y gentes. Gentes en las puertas, en las aceras, en grupos en las esquinas, junto a los postes del alumbrado que todavía no se habían encendido. Angostos ventorros, olorosos a fritanga, tiendas de un zaguán desbordantes de colgajos de ropa, de juguetes, de jofainas y jarras. 
+
+Caminando sin rumbo, lentamente, había llegado hasta allí. No conocía a nadie. Pero las miradas de los que encontraba sí lo conocían. Sabían que no era de allí. Era un extraño, metido en el barrio. Miradas de curiosidad y de desconfianza caían sobre él. Podía ser peligroso. Sería mejor regresar, volver al centro, reintegrarse a los sitios y las gentes habituales. 
+
+En el momento en que iba a dar vuelta sobre la acera quebrada y estrecha sintió el empellón. Dos hombres lo habían tropezado y corrían huyendo. Se palpó los bolsillos. Algo debían haberle arrebatado. Uno de los hombres vuelve la cara hacia él. Había gritado algo. Había ensañado con la mano hacia él. Se puso a correr como para alcanzarlo. Corría y se palpaba los bolsillos. Nada parecía faltar. ¿Qué decía aquel hombre que volvía la cabeza y gritaba palabras indistintas? Tal vez no era a él a quien se dirigía. 
+
+Volvió la cabeza. Por la esquina próxima desembocaban y corrían, detrás de él o detrás de ellos, numerosas personas que a su vez gritaban. Se mezclaban sus voces y era imposible entender. Pero gritaban y venían hacia él o hacia los que habían pasado. Corrió con fuerza. Por las puertas fueron asomando otros hombres y mujeres. El griterío iba de los unos a los otros. Enseñaban con las manos hacia adelante. Los que estaban en grupos en las aceras empezaban a correr también. Toda la gente que estaba en la calle corría entre gritos. Y todos volvían a cada instante la cabeza hacia atrás para mirar otros grupos numerosos que surgían por las bocacalles y las puertas. 
+
+Caras angustiadas de mujeres y niños asomaban a su paso. Parecían gritarle algo que él no alcanzaba a oír entre la carrera y el jadeo. Parecían preguntarle o anunciarle algo. Luego al volver la cabeza los veía corriendo detrás. Algunos perros se habían incorporado al gentío que corría y ladraban sin rumbo hacia los que estaban más cerca. 
+
+Detrás y delante de él la calle corría, en millares de cabezas, como un torrente. Corría jadeante, con la respiración corta y la garganta seca. Algunas voces decían: «Allí vienen». Había que mirar hacia atrás. Pero los que venían detrás miraban a su vez hacia atrás. «Vienen. Ya llegan». Saltando a ratos podía ver más lejos. Tres o cuatro cuadras hacia atrás el gentío parecía cambiar de aspecto. Más unido, más compacto. Debían ser aquellos últimos que desembocaban de los más lejanos cruces. Tal vez traían armas. Tal vez traían muerte. 
+
+Recordaba cómo había corrido y corrido de niño, junto a otros, perseguidos por un perro que decían que estaba rabioso. Un perro grande y rápido que a cada instante parecía alcanzarlos. 
+
+Ya nada estaba quieto a lo largo de la calle. Por todas partes se divisaban grupos que huían, en la misma dirección. El clamor de las cornetas de los automóviles ensordecía. Estaban como atascados entre la masa humana y aullaban con su grito metálico. Había quienes, en la angustia de no poder avanzar, los abandonaban y quedaban en medio de la calle con su masa oscura como una roca en mitad de la corriente. 
+
+Había pasado por las calles de la infancia. Por la fachada sucia de la escuela. Se veía vacía la casa. Se veían vacías las tiendas y las paradas de autobuses. Todo parecía concentrado en aquella calzada por donde todos huían. «Vienen», aquellos ojos de pavorosa blancura que se volvían hacia él y más allá de él hacia el fondo de la calle, acaso miraban lo que él no podía mirar. 
+
+Tal vez se habían soltado los leprosos del lazareto. Era una de sus angustias de niño. Cuando pasaba por ante el liso muro de aquel asilo. Dentro estaban aquellos seres contrahechos por la enfermedad. Verlos daba miedo. A veces rozaba la pared y sentía el temor de haber adquirido el contagio. Iban a empezar a crecerle las orejas y los labios y a caérsele los dedos de las manos, como frutas podridas. 
+
+O eran los locos los que se habían escapado. Aquellos furiosos que gritaban sin término, atados en sus camisas de fuerza, detrás de rejas de casa de fieras. O era una tropa de enemigos. 
+
+Había oído a su madre contar las viejas historias de las invasiones de antaño. Cómo llegaban las partidas de hombres armados a robar y matar. Cómo la gente se ponía a toda prisa a esconder y enterrar sus cosas de valor. Cómo se ocultaban y se disfrazaban. Hombres vestidos de mujeres o de frailes. Cómo huían hacia los campos y los montes. 
+
+O cuando el terremoto. El último terremoto que destruyó media ciudad. Los que no quedaron debajo de los techos y las paredes caídos escapaban sin rumbo buscando las plazas y los espacios abiertos. 
+
+Pero no era eso ahora. No sentía moverse el suelo, ni se desgajaban las casas. Pero era parecido. La fluida creciente se enredaba en sí misma. Pasaban las calles, los parques, las grandes bocas vacías de las puertas de los cines, con sus inmensos carteles de hombres feroces disparando enormes pistolas y de mujeres desnudas. Caras de furia en rojo y negro y senos y caderas en avalancha. Todos pasaban de largo. Nadie entraba ni salía de los vacíos vestíbulos. 
+
+¿Por dónde vendrían? Hasta dónde penetraban en la larga corriente oscura que llenaba la vía a pérdida de vista. Se formaban cortos diálogos con los que iban más cerca. Con los que lo alcanzaban, con los que se retrasaban y llegaban a su nivel para quedarse atrás. Con los que daban traspiés ya para caer. Con los que trataban de gritar desde el suelo con los brazos levantados en protección contra las pateaduras de los que llegaban sobre ellos.
+
+— Ya empezaron a quemar.
+
+— Yo sabía que iban a quemar. 
+
+Hacia el fondo lejano la calle se confundía con aquel nubarrón de humo negro que crecía. Por instantes pasaban caras conocidas. 
+— ¿Qué te parece esto?
+
+— Un horror.
+
+— Un espanto. 
+— ¿Quién lo iba a decir?
+
+— Yo sabía que esto iba a pasar.
+
+— No se quede atrás, compañero. 
+
+Todos estaban distorsionados y cambiados por el temor y el cansancio. Era lo mismo que alguna vez le había pasado a alguno. Pero no a todos. Nunca en aquella forma. ¿Dónde empezaba y dónde terminaba? Era como una creciente que los arrastraba a todos, pero la creciente eran ellos mismos. Había visto crecer ríos y quebradas barriendo las casas de la orilla. Mesas, botellas verdes, perros, gentes y cochinos en ahogo. Iban llevados. Buscaban cómo llegar a la orilla. La orilla ahora eran aquellas casas a lo largo de la calle de las que seguían saliendo gentes en fuga. 
+
+«Vienen». «Llegan». «Nos van a alcanzar». Había mujeres que corrían con un niño a cuestas. Un niño que lloraba y hacía gestos desesperados con los brazos. «Esto no se había visto nunca». 
+
+Un hombre que corría a su lado parecía más gordo y más viejo que él. Una cara roja y una respiración de fuelle. El vientre grueso le saltaba lentamente. La boca abierta. Palabras ahogadas, escupidas, cortadas. 
+— ¿Qué es lo que pasa? 
+
+No le oyó bien. Después le entendió. 
+— ¿Lo que pasa? Allá atrás. 
+
+Movía la cabeza para indicar la dirección.
+
+— Allá vienen. 
+
+Después dijo, en dos o tres veces, completando las frases entrecortadas por el ahogo.
+
+— Yo sabía que esto iba a pasar. 
+
+Esto. Todo aquel gentío en fuga.
+
+— El año pasado… 
+
+No le oyó el resto. El año pasado él venía con frecuencia a aquella calle por donde huía ahora. A la hora en que el marido de Ana estaba en el trabajo. A las mujeres les costaba más trabajo correr. Arrancaban con más velocidad pero a poco iban disminuyendo. Cerca trotaban algunas jóvenes. Mujeres más viejas iban de prisa pero al paso. Ana debía haber escapado de su casa. Ella por su lado y el marido por el suyo. A Ana le gustaba el sobresalto de aquellas citas en que todo toque en la puerta, toda llamada de teléfono podía ser de su marido. Él hubiera preferido otra cosa. Era aquella casa con la puerta abierta. Se subía la escalera. La primera puerta a la izquierda. 
+— ¿Usted no supo lo que pasó ayer en el fútbol? 
+— ¿En el fútbol?
+
+— El fútbol. 
+
+El hombre atragantado de cansancio soltaba palabras en el aire. Muchas se perdían.
+
+— La gente salió corriendo. Todo el mundo se fue. De repente. 
+
+Había sido un anuncio. Hay animales que sienten las catástrofes. Como los gatos sienten los terremotos. Se ponen grifos y se salen de la casa.
+
+— Natividad Díaz me lo había dicho. 
+— ¿Natividad Díaz? 
+
+El confidente se iba poniendo más lento.
+
+— Usted ni lo conoce. 
+
+No. No lo conocía. Él también iba avanzando con menos velocidad. Tal vez para no separarse del otro.
+
+— Yo esperaba esto desde hace tiempo. 
+
+Él, en cambio, no. Iba a decirle que no había pensado que aquello podía ocurrir pero sentía la garganta seca y no le salían las palabras. Tenía en la boca una saliva grumosa. Había gente caída en el pavimento. Algunos tropezaban y se derrumbaban sobre ellos. Había que esquivar los montones humanos.
+
+— Esos se fregaron — balbuceaba el compañero.
+
+— Todos estamos fregados. 
+
+Ya era un pequeño trote lo que llevaban. Pasaban ahora junto a la plaza vacía, con algunos tranvías detenidos desamparados. Se veían saqueadores que salían de algunas tiendas cargados de mercancías. Un joven llevaba sobre la cabeza bamboleando un voluminoso aparato de televisión.
+
+— Mire eso. 
+
+Había dado un traspiés y el aparato cayó. Lo vio desintegrarse sobre el suelo. Los que venían detrás acabaron de aplastarlo. 
+— ¿Qué pensaría que podía hacer con eso?
+
+— Yo estoy muy cansado.
+
+— Yo también.
+
+— Ya no aguanto más. 
+
+Voces cercanas y más frescas gritaban cerca. «Allá vienen». Él repetía sin pronunciar y adivinaba que el otro también repetía. «Allá vienen». Ahora todos volvían las cabezas sin detenerse. Lejos, en la larga calle, se veía humo. Humo de incendios. Sobre techos lejanos crecían las llamas.
+
+— Están quemando la ciudad.
+
+— Esta es mi casa. 
+— ¿Su casa? 
+
+El asfixiado compañero asintió con la cabeza. Él se volvió hacia aquel amasijo de edificios parejos. Debía ser aquélla. La señaló con una mano temblorosa. Aquella más estrecha, más vieja. Casa de angostos pisos, ventanas delgadas, y escaleras empinadas. Escaleras de pararse a cada vuelta a tomar aliento. Las ventanas estaban abiertas. La puerta abierta. No asomaba nadie. No se sabía si era una sonrisa o una mueca.
+
+— Mi casa. 
+
+Tampoco debió haber sido suya. Tampoco la casa entera. Algún cuarto en lo de más arriba. Con una sola ventana, con un ahogado pasadizo. Con aquel alquiler en billetes viejos y arrugados que dejaba de pagar a veces. Con pleitos y recriminaciones del casero. Ahora ninguna era de nadie. Todas vacías. Todas abandonadas.
+
+— Ahora se podría uno meter en cualquiera. 
+
+Nadie se iba a meter. Quién se iba a meter. De lo que se trataba era de irse. Irse lejos. Lo más lejos posible. Para no ser alcanzado, para no ser atrapado. ¿Qué casa? Había pasado del trote cansino a un paso corto. A un paso que se iba haciendo más lento y arrastrado por momentos. Fue derivando, entre empellones y tropiezos, hacia una de las aceras. No era menor el apretujamiento y los empujones. 
+
+Había entrado en medio de un matrimonio que desde una ancha puerta comenzaba a disolverse entre el gentío. La novia llena de tules blancos, con unos grandes ojos de terror. El novio con el cuello deshecho y la corbata bamboleante. Los testigos, los padrinos, los invitados, toda aquella gente vestida de oscuro que se iba desvaneciendo y perdiendo entre la turba de la calzada. 
+
+No era el primer matrimonio que había encontrado en la escapada. Había tropezado con otros. Alguno no parecía de aquel tiempo. Más bien parecía salido de aquella vieja fotografía que colgaba en su casa, con la estampa de su padre y de su madre el día en que se casaron. Tiesas vestiduras anticuadas. Un hombre de bigotes de largas puntas con un cuello muy alto, muy blanco, muy brillante y unos grandes faldones como de levita y una novia de mucho pecho alto y cintura de avispa. 
+
+Había pasado en medio de bautizos. El padrino todavía lanzaba al aire pequeñas monedas, pero nadie se detenía a recogerlas. Y entre los matrimonios y los bautizos, salían entierros atropellados. Los llorosos deudos volvían la cabeza con susto y empezaban a huir con la muchedumbre. Los cargadores depositaban la urna sobre el suelo y desaparecía. Sobre el cajón pulido resonaban los golpes sordos y profundos de los que tropezaban. 
+
+Era necesario que hubiera pasado aquello para que todo apareeriera mezclado y simultáneo. El entierro con el bautizo y el matrimonio. Nunca ocurrían en el mismo día, en la misma calle, con la misma gente. Era necesario que hubiera pasado aquello. Era necesario aquel pavoroso acontecimiento para que él, jadeante, ahogándose, agotado de fatiga, estuviera presente en todas aquellas ceremonias interrumpidas y rotas. Para que aquello que era la largura de un año o de una vida se convirtiera en tumulto y mezcla y pareciera pasar al mismo tiempo. El padrino de bautizo con la viuda, el muerto en su caja y el recién nacido lleno de adornos de muñeco. Él había tenido un bautizo, pero no un matrimonio. No todavía. 
+— ¿Es usted casado? — le preguntó a un hombre lento que avanzaba a su lado.
+
+— Qué le importa a usted. 
+
+Todo el mundo estaba de mal humor. Cada vez había que cuidarse más de la gente caída. Eran muchos los que estaban tumbados o encogidos sobre el suelo. Los que miraban hacia arriba con unas caras de abandono y resignación, con los brazos cruzados protegiendo las cabezas. Así iría a caer él también. Quedaban muchas calles todavía por recorrer. Si no los alcanzaban antes. Muchas calles largas y cortas, anchas y angostas, antes de poder salir de nuevo al descampado. Antes de que los alcanzara el incendio. Pero no era sólo el incendio. Eran también ellos. Los que venían. 
+
+Policías sin gorra huían también. Saltaban por sobre los caídos y desaparecían hacia adelante. 
+— ¿Ve los policías? 
+
+Un vecino asintió con un gesto mortecino.
+
+— Esos son los primeros. 
+
+Unos hombres de dolmanes rojos y unos kepis emplumados manchaban una bocacalle como un lampo de sangre. No sabía lo que eran. Nunca había visto esos uniformes.
+
+— Son los del circo. 
+
+Irían también a soltar las fieras. Los osos, las cebras, los elefantes y los leones. 
+
+Tropezó con un pequeño bulto. Era un niño de bautizo abandonado. Tenía el faldellín blanco marcado de pisotones. Se detuvo un instante. Se inclinó con esfuerzo y lo recogió. Le pareció que pesaba mucho. El niño lloraba débilmente sobre su hombro. Tenía los ojos entrecerrados. Empezaba a vomitar. Con gorgoritos y arrumacos que recordaba de su escaso trato con los niños comenzó a calmarlo. Ahora caminaba más inseguro. A ratos el niño lo veía vagamente. Qué entendería de todo aquello. Qué iba a entender.
+
+— Yo no me explico esto — era una mujer gruesa y vieja. 
+
+Iba a responderle cuando volvió con otra pregunta. 
+— ¿Es hijo suyo? 
+
+No sabía lo que había contestado. 
+— ¿Es suyo? 
+
+Hubiera sido difícil responder. Era suyo desde hacía un momento. 
+— ¿Y la mamá? 
+
+Hizo un gesto negativo con la cabeza.
+
+— Pobrecito.
+
+— Sí, pobrecito. 
+
+Iba a proponerle que se encargara del chico. Pero la mujer ni lo hubiera comprendido. Habría pensado que era un padre desnaturalizado. Ahora jadeaba con más esfuerzo y el peso del niño parecía aumentar. «Nos van a alcanzar». La mujer que le había hablado siguió de largo. Eran otros o distintos los que se emparejaban con él en la atropellada marcha. Lo depasaban o se rezagaban. Él apretaba el niño y arrastraba los pies. 
+
+Ahora se le hacía más difícil volver la cabeza hacia atrás. Hacia los que venían con más ímpetu. «Vienen». Lo alcanzarían finalmente. Cada vez más lento y más rezagado. Lo atraparían. Las manos de ellos o las lenguas ennegrecidas y chisporroteantes del incendio. Como aquellas fauces de fiera o aquellos cuernos de toro perseguidor que siempre estaban a punto de darle alcance en las pesadillas de la infancia. Cuando quería huir y no podía. Cuando quería correr y los pies se le hacían pesados y como adheridos al suelo. Tan inmóvil como aquellos árboles a los que iba alcanzando el incendio en la sabana. 
+
+Todavía de una casa cercana salía una boda tardía. En dispersión de cuerpos y de gritos. Entre hombres vestidos de negro la novia de blanco trataba de correr. Velos de punto hirsuto flotaban sobre las cabezas. Las manos forradas en guantes blancos volaban dando aletazos de angustia. Un momento la novia estuvo frente a él. Le miró el niño que apretaba en los brazos. Algo le iba a preguntar pero no habló o no le pudo oír entre el ruido. Eran bocas abiertas y ojos en blanco. 
+
+Ahora era otra gente la que lo rodeaba. Con el niño cada vez más pesado entre los brazos. Sentía dolor en los codos y en los hombros. Como si se hubiera puesto muy pesado y ya no pudiera sostenerlo. Él mismo parecía haberse ido poniendo más bajo. Casi en cuclillas. Ahora había puesto el niño en el suelo. Lo miraba desde arriba. Estaba quieto, con los ojos abiertos y la boca descolgada. Flojo y desmadejado. Lo colocó poco a poco con el pie, en un portal vacío. Hacia adentro se miraba el pasadizo vacío al que daban, abiertas, todas las puertas. 
+
+Ya no lo veía. Lo habían desplazado a empujones. Iba ahora más lejos. Más lento entre la gente que parecía moverse más a prisa. No veía ahora caras sino hombros y espaldas. Cerca de sus ojos. Intentó regresar. Logró con dificultad pegarse a la pared y comenzar poco a poco a remontar. Avanzaba muy lentamente. Todos los pechos y las voces venían contra él. «Tengo que recogerlo». Por ratos no lograba ver la pared, metido entre tantos cuerpos en contra. No debía estar lejos. Era el mismo portal, pero no estaba el niño. O no era el mismo portal. Logró remontar otro trecho. Iba sobre el borde de la pared aplastado por los que venían. Casi no avanzaba. 
+
+Ahora sí estaba en el portal. Era la misma puerta entreabierta, el mismo largo zaguán vacío, las mismas puertas abiertas, sin gente. Era un hombre el que estaba tendido sobre el umbral. Casi desnudo, largo, blanco. Con una barba negra como de santo. Los ojos abiertos, muertos. Un taparrabos de tela rota. Parecía una imagen de procesión sin velas y sin vidrios. Tan viejo como el padre del niño. Menos viejo que él. Ahora lo veía alejarse. Era él mismo quien se alejaba. Reculando. Sostenido y llevado entre pechos y espaldas de los que huían. Ya fuera de la ciudad, tal vez.

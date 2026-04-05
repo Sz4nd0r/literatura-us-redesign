@@ -1,0 +1,68 @@
+---
+layout: story
+title: Viejo estúpido
+slug: am_viejo
+source: https://www.literatura.us/idiomas/am/am_viejo.html
+tags:
+  - am_viejo
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+Viejo estúpido (1951)
+(“Vecchio stupido”)
+Originalmente publicado en el periódico Il Corriere della Sera (4 de agosto de 1951);
+Racconti romani
+(Milán: Bompiani, 1954, 439 págs.)
+Cuando se tiene la costumbre de cortejar a las mujeres es difícil advertir que el tiempo ha pasado y que las mujeres te miran como a un padre o, lo que es peor, como a un abuelo. Y es difícil sobre todo porque cualquier hombre maduro tiene en el interior de su cabeza otra cabeza; la cabeza de fuera tiene arrugas, pelo gris, dientes careados, ojeras; en cambio, la cabeza de dentro se le ha quedado como cuando era joven, con cabellos negros y tupidos, un rostro liso, dientes blancos y ojos vivos. Y la cabeza de dentro es la que mira con deseo a las mujeres, pensando que se la ve. En cambio, las mujeres ven la cabeza de fuera y dicen: “¿Qué querrá ese viejo verde? ¿No se da cuenta de que podría ser mi abuelo?”.
+Bueno, aquel año ampliaron el salón donde trabajo como peluquero hace casi treinta años; se cambiaron los espejos y los lavabos, se pintaron las paredes y los armarios y, por último, el dueño pensó que estaría bien contratar a una manicura, que se llamaba Iole. En el salón, además del dueño, éramos tres: un joven de unos veinticinco años, Amato, moreno y serio, que había sido carabinero; Giuseppe, cinco años mayor que yo, bajo, corpulento, calvo; y yo. Como ocurre siempre cuando en un ambiente de hombres solos entra una mujer, me di cuenta de pronto de que los tres mirábamos con insistencia a Iole. Ella, por otra parte, era justamente eso que se llama un tipo corriente, de tarjeta ilustrada: exuberante, vistosa, con una cara bonita y pelo negro; hay millones como ella. En este punto hay que observar que yo, sin vanagloriarme, puedo decir que soy un hombre guapo. Delgado, de altura justa, con un rostro pálido y nervioso; y las mujeres dicen que tengo una expresión interesante. En efecto, especialmente si miro de soslayo, mis ojos llaman la atención: dulces, llenos de sentimiento, un poquito escépticos. Pero lo mejor que tengo son los cabellos: castaño claros, finos, limpios, bien ondulados, cortados a lo nazareno, es decir levantados como una llamarada y con patillas largas que llegan hasta la mitad de las mejillas. Además, soy elegante; fuera del salón visto siempre con esmero, con corbata, calcetines y pañuelo a juego; en el salón, con una bata que, de puro blanco, casi parece más de cirujano que de peluquero. No es sorprendente, con estas cualidades, que tenga suerte con las mujeres. Y como esta suerte no ha fallado nunca he adquirido la costumbre, si me gustan, de mirarlas de un modo insistente y sugestivo que vale más que cien cumplidos. Así, cuando, tras haberlas mirado bien, me acerco a ellas, me encuentro con que el fruto está ya maduro; sólo tengo que extender la mano para cogerlo.
+En el salón, por lo que se refiere a Iole, quien me daba más miedo era Amato. No era guapo, no era interesante, pero era joven. A Giuseppe no lo tomaba en consideración: más viejo que yo, como ya dije, y realmente feo, sin remedio. Iole estaba sentada en su mesita de manicura, en un rincón, atontada por el aburrimiento y la inmovilidad, absorta leyendo y releyendo los dos o tres periódicos del salón y arreglándose las uñas en espera de arreglar las de los clientes. Así, a mi pesar, por instinto, comencé a cocinarla con mis miradas. Llegaba un cliente, se sentaba en el sillón; yo cogía la toalla, la extendía de un solo golpe, elegantemente, y mientras tanto encontraba la manera de lanzarle una larga mirada. O bien lavaba el pelo, dando masaje con las dos manos en la cabeza enjabonada, y de nuevo otra mirada. O bien me lucía esfumando el cabello con los puntas de las tijeras; cada cuatro tijeretazos, una mirada. Si se movía, indolentemente, para ir a coger un utensilio en el armario, yo la seguía con los ojos en el espejo. Iole, debo decirlo, no era precisamente despierta, ni coqueta; tenía, por el contrario, una expresión soñolienta, socarrona, obtusa, como un gordo minino henchido de sueño. Pero a fuerza de insistir día tras día, primero advirtió que la miraba; luego aceptó dejarse mirar; y por último comenzó también ella a corresponder a mis miradas. Sin malicia, porque no la tenía, de una manera tosca y pesada, pero indudable.
+Pensé entonces, como suele decirse, que la pera estaba madura; y un sábado la invité a ir a los baños de Ostia, el domingo por la tarde. Aceptó en seguida, aunque observando que no debía criticarla por su traje de baño: había engordado y el único que tenía le quedaba apretado. Dijo, incluso, sin sombra de coquetería:
+—He acumulado algo de grasa a fuerza de estar sentada en el salón, sin hacer ejercicio.
+Frase de una muchacha carente de astucia; pero, precisamente por esto, me gustaba. Nos citamos para el día siguiente en la estación de San Paolo; y yo, antes de acudir, hice un arreglo cuidadoso. Me afeité y me di talco en las mejillas; me pasé bien los cabellos con un peine fino para eliminar la menor sospecha de caspa; rocié ligeramente con perfume de violeta el pelo y el pañuelo. Tenía una camisa de cuello abierto, a la Robespierre, una chaqueta sahariana y pantalones blancos. Iole fue puntualísima; a los dos, entre la multitud de los excursionistas, la vi venir a mi encuentro, vestida enteramente de blanco, un poco gorda y baja, pero joven y apetitosa. Dijo, saludándome:
+—¡Cuánta gente!... Ya verá como nos toca hacer el viaje de pie.
+Ahora bien, yo soy un caballero, y le contesté que le encontraría un sitio, que dejara eso en mis manos. Mientras tanto, el tren entra bajo la marquesina, la multitud del andén tiene un movimiento de pánico como si cargase contra ella un escuadrón de caballería, todos gritan y se llaman, yo me lanzo, me cuelgo de una portezuela, me levanto sobre la muchedumbre, estoy a punto de subir. Un mocetón moreno me da un empujón e intenta pasar antes que yo. Le devuelvo el empujón, me adelanto, me tira de una manga, le doy un codazo en el estómago, me suelto y me lanzo a un departamento. Pero he perdido mucho tiempo con aquel chulo y el departamento ya está lleno, salvo un sitio. Corro al sitio, y también corre él; y casi en el mismo momento ponemos, para reservarlo, yo el traje de baño y él la chaqueta. Entonces, nos enfrentamos. Le digo:
+—Llegué yo primero.
+—¿Quién lo dice?
+—Lo digo yo —respondo, y le tiro la chaqueta a la cara.
+En aquel momento llega Iole y se sienta sin vacilar, diciendo:
+—Gracias, Luigi.
+El mocetón recoge su chaqueta, vacila, luego comprende que no puede echar a Iole y se aleja, pronunciando en voz alta:
+—¡Viejo estúpido!
+El tren salió casi en seguida y yo me agarré a una manija, quedándome de pie cerca de Iole. Pero ya había perdido todo mi entusiasmo y me habría gustado volver a bajar e irme. Aquellas dos palabras, “viejo estúpido”, me habían sorprendido precisamente en el momento en que menos me las esperaba. Pensaba que el joven había dicho “viejo estúpido” con dos sentidos distintos. La injuria estaba en el “estúpido”; y hasta aquí, no había nada malo; había querido ofenderme, me había llamado estúpido. Pero “viejo” no lo había dicho para insultarme. “Viejo” lo había dicho como una verdad. Como hubiera dicho, supongamos, si en vez de cincuenta años yo hubiera tenido dieciséis: “Muchacho estúpido”. En resumen, para él, como para todos, incluida Iole, yo era un viejo; y poco importaba que él me considerase estúpido y Iole, en cambio, inteligente. Quizás ni siquiera habría sido necesario que Iole cogiera el sitio. El mocetón, al final, me lo habría cedido lo mismo por respeto a mi edad. Esto me lo confirmó alguien sentado frente a Iole, el cual había asistido a la escena y dijo:
+—¡Qué muchacho más grosero!... Debía de haberle cedido el sitio por respeto a la edad, ya que no por otra cosa.
+Me sentía helado y confuso. Y de vez en cuando me llevaba la mano a la cara como buscando, a falta de espejo, reconocer con los dedos lo viejo que era. Iole, naturalmente, no se daba cuenta de nada. A la mitad del camino me dijo:
+—Siento que usted esté de pie.
+Yo no pude dejar de contestarle:
+—Soy viejo, sí, pero no tanto que no pueda estar de pie media horita.
+Casi esperando que ella me respondiera: “Viejo, usted, Luigi?... Pero, ¡qué cosas dice!” En cambio, aquella tonta no contestó nada; y yo me convencí de que tenía razón.
+En Ostia se desvistió primero ella, saliendo después de la cabina con un traje que se le reventaba, blanca, fresca, dura, joven a rabiar. Entré a mi vez en la caseta y lo primero que hice fue mirarme en el espejo roto que colgaba de la pared. Era realmente un viejo, ¿cómo me las había arreglado para no advertirlo? Vi de una
+sola mirada los ojos velados y perdidos entre las arrugas, el pelo lleno de hilos blancos, la piel de las mejillas floja, los dientes amarillos. La camisa de cuello abierto, tan juvenil, me avergonzó: dejaba todo el cuello al descubierto, con muchos pliegues sobre el gaznate. Me desvestí, y mientras me inclinaba para meterme el bañador la barriga se me subió al estómago y luego me cayó mucho más abajo, como un saco vacío. “¡Viejo estúpido!”, me repetía con rabia. Pensaba que éstas eran las sorpresas de la vida: hacía una hora me creía joven, al punto de hacer el oso con Iole; ahora, gracias a aquellas dos palabras, me veía viejo, al punto de poder ser su padre. Y me avengonzaba de haberla mirado tanto en el salón y de haberla invitado; quién sabe lo que pensaba de mí y quién sabe cómo me veía.
+Supe después lo que pensaba. Mientras, agarrados a la cuerda salvavidas, dejábamos que las olas chocaran contra nosotros, porque el mar estaba picado; y a cada ola que nos embestía yo me quedaba sin aliento y pensaba: “Me quedo sin aliento porque soy viejo”; y ella, muy contenta, me preguntó:
+—¿Sabe, Luigi, que no le creía tan deportista?
+—¿Por qué? —pregunte—. ¿Cómo me creía?
+—Bueno —contestó—, a un hombre, a su edad, el mar ya no le gusta... Los que vienen son los jóvenes.
+En ese momento una ola rompió sobre nosotros, alta espumosa, y yo me caí encima de Iole y, para sostenerme, la agarré por un brazo: duro, redondo, de carne realmente joven, elástica. Le grité, con la boca llena de agua salada:
+—Podría ser su padre.
+Y ella, riéndose, entre la espuma que hervía a su alrededor:
+—Padre, no... Digamos tío.
+En resumen, salimos del baño y yo, cohibido y avengonzado, no tenía ni fuerzas para hablar. Me parecía que dentro de la boca tenía una trampa de muelle, disparada, y que tendría que abrirla con un pestillo. Iole me precedía estirándose sobre las caderas y el pecho el bañador que, mojado, estaba realmente indecente; luego se tumbó en la playa rebozándose en la arena; y su carne estaba tan tensa que la arena no se adhería, y caía, húmeda, a pedazos. Me senté junto a ella, mudo, encogido, incapaz de moverme o de hablar. Quizás Iole, aunque era más insensible que un rinoceronte, advirtió mi malestar; porque, de pronto, me preguntó si no me encontraba bien. Le dije:
+—Estaba pensando en usted. En el salón, ¿a quien prefiere? ¿A Amato, a Giuseppe o a mí?
+Ella, escrupulosa, respondió tras prolongada reflexión:
+—Bueno, me resultan simpáticos los tres.
+—Pero Amato es joven —insistí.
+—Sí —respondió ella—, es joven.
+—Creo que está enamorado de usted —continué tras un instante.
+—¿De verdad? —me contestó—. No me había dado cuenta.
+En resumen, estaba distraída, como preocupada. Por fin dijo:
+—Luigi, me ha ocurrido un contratiempo... se me ha descosido el bañador por detrás... Deme la toalla, voy a vestirme.
+A decir verdad, me alegré de aquel descosido. Le di la toalla, se envolvió con ella las caderas y corrió a la caseta. Media hora después estábamos en el tren, en un departamento vacío. Yo me había subido las solapas de la camisa a la Robespierre hasta el cuello y pensaba que ya todo había acabado para mí y que era un viejo.
+Aquel día juré que nunca más miraría a Iole ni a ninguna otra mujer; y así lo hice. Me pareció que ella se quedaba bastante asombrada y que a veces me clavaba su mirada con aire de reproche, pero quizás no fue más que una impresión mía. Pasó un mes, durante el que le dirigí la palabra, entre unas cosas y otras, cuatro o cinco veces. Ella, entre tanto, había trabado amistad especialmente con Giuseppe, que la trataba como un padre, sin sombra de galanteo, bonachona y seriamente. Yo me sentía cada vez más viejo, cortaba cabellos, rasuraba barbas, recibía propinas y no resollaba. Pero uno de esos días, a la hora del cierre, mientras me quitaba la bata en el cuartito de los utensilios, el dueño, una buena persona, anunció:
+—Esta noche, si no están ustedes comprometidos, cenamos juntos..., invito yo..., Iole se ha prometido con Giuseppe.
+Me asomé: Iole sonreía en su rincón, ante la mesita de manicura; Giuseppe sonreía en el lado opuesto, limpiando una navaja. De pronto, experimenté un enorme alivio: Giuseppe era más viejo que yo, Giuseppe era feo, y sin embargo Iole había preferido Giuseppe a Amato. Corrí con las manos extendidas hacia Giuseppe, gritando:
+—¡Mi enhorabuena, mi más cálida enhorabuena!
+Luego abracé a Iole y la besé en ambas mejillas. En resumen, en el salón yo era el más feliz de los tres.
+Al día siguiente era domingo; y, por la tarde, salí de paseo. Y me di cuenta, al pasear, de que volvía a mirar otra vez a las mujeres, como en el pasado, una a una, por delante y por detrás.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

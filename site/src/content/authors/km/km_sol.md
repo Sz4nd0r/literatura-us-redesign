@@ -1,0 +1,236 @@
+---
+layout: story
+title: Sol y Luna
+slug: km_sol
+source: https://www.literatura.us/idiomas/km/km_sol.html
+tags:
+  - km_sol
+  - km
+---
+Katherine
+Mansfield
+(Nueva Zelandia, 1888 -
+Francia, 1923)
+Sol y Luna (1918)
+(“Sun and Moon”)
+Originalmente publicado en la revista Athenaeum, Núm. 4718 (1 de octubre de 1920);
+Bliss and Other Stories
+(Londres: Constable & Company, 1920, 280 págs.)
+Por la tarde llegaron las sillas, todo un carro enorme lleno de sillitas doradas con las patas en el
+aire. Y después llegaron las flores. Mirando desde lo alto del balcón a los
+hombres que las llevaban, las macetas parecían hermosísimos sombreros que se
+saludaban al cruzarse en el sendero de entrada. A la luna le pareció que eran
+sombreros.
+—Mira —dijo—, aquel hombre lleva una palmera en la cabeza.
+Pero ella nunca diferenciaba las cosas reales de las que no lo eran.
+No había nadie para cuidar a Sol y Luna. La institutriz estaba ayudando
+a Annie a arreglar ese vestido de mamá que
+era demasiado-largo-y-demasiado-amplio-debajo-de-los-brazos y mamá andaba
+corriendo por toda la casa y llamaba por teléfono a papá para que no olvidara
+nada de lo que había que hacer. Sólo tenía tiempo de decirles:
+—¡Salgan del medio, niños!
+Ellos se salían del medio, al menos Sol lo hacía. No le gustaba nada que lo enviaran
+a su cuarto. No importaba lo que hacía Luna. Si ella se enredaba en las piernas
+de la gente, lo único que le hacían era alzarla y sacudirla hasta que chillaba.
+Pero Sol era demasiado pesado para eso. Era tan pesado que el hombre que venía
+a cenar los domingos solía decir: “Ahora, jovencito, veamos si puedo alzarte”.
+Y entonces calzaba sus manos debajo de los brazos de Sol y gruñía y lo
+intentaba hasta que finalmente desistía, diciendo: “¡Es como una tonelada de
+ladrillos!”.
+Habían sacado casi todos los muebles del comedor. Pusieron el piano en un rincón y
+allí colocaron una hilera de macetas con flores y después las sillas doradas.
+Eso era para el concierto. Cuando Sol echó un vistazo había un hombre de rostro
+pálido sentado al piano... no tocaba sino que lo golpeaba y después miraba en
+su interior. Tenía una valija de herramientas encima del piano y había colgado
+el sombrero de una estatua de la pared. A veces empezaba a tocar y se levantaba
+de un salto para mirar adentro del piano. Sol esperaba que aquello no fuera el
+concierto.
+Pero por supuesto que la cocina era el mejor lugar. Había allí un hombre con un
+sombrero alto que parecía una tarta, y la verdadera cocinera,
+Minnie, reía con el rostro todo sonrojado.
+No estaba para nada enojada. Les dio un dulce de almendras a cada uno y después
+los hizo pararse sobre el cajón de la harina para que pudieran ver los platos
+maravillosos que ella y ese hombre estaban preparando para la cena.
+Minnie alcanzaba las cosas y el hombre las
+ponía en los platos y las recortaba. Pescados enteros, con cabeza y ojos y
+cola, eran cubiertos con tiritas verdes y amarillas; el hombre dibujaba colores
+sobre las gelatinas, echaba almendras y pequeños bizcochitos redondos en las
+cremas y hasta le puso un collar a un jamón, atravesándolo después con una
+especie de tenedor muy finito. Y seguían llegando más y más cosas.
+—¡Ah, pero todavía no han visto la torta helada! —dijo la cocinera—. Vengan conmigo.
+¿Por qué estaría tan amable?, pensó Sol cuando la mujer les dio una mano a cada
+uno. Y los dos miraron en la heladera.
+¡Oh! ¡Oh! ¡Oh! Era una casita. Era una pequeña casita rosa con blanca nieve en el
+tejado y ventanas verdes y una puerta marrón y una almendra incrustada en la
+puerta simulaba el picaporte.
+Cuando Sol vio la almendra se sintió muy cansado y tuvo que apoyarse en la cocinera.
+—Déjame tocarla. Sólo quiero rozar el tejado con un dedo —dijo Luna, bailando. Siempre
+quería tocar la comida. A Sol no le interesaba.
+—Ahora, muchacha, ten mucho cuidado con la mesa —dijo la cocinera cuando entró la
+criada.
+—Ha quedado hecha una maravilla, Min —dijo Nellie—. Vengan a ver.
+Todos fueron al comedor. Sol y Luna estaban casi atemorizados. Al principio no se
+acercaron a la mesa: se quedaron en la puerta y la miraron desde lejos.
+Todavía no era de noche, pero habían bajado las persianas del comedor y todas Has
+luces, se habían encendido... y todas las luces eran rosas rojas. En cada
+ángulo de la mesa había cintas rojas y ramilletes de rosas. En el medio había
+un lago en el que flotaban pétalos de rosa.
+—Ahí es donde pondremos la torta helada —dijo la cocinera.
+Dos leones alados de plata cargaban la fruta en sus espaldas y los saleros eran
+unos pajaritos diminutos que bebían en una fuente.
+Y todos los vasos centelleantes y los platos relucientes y los refulgentes
+cuchillos y tenedores... y toda la comida. Y las pequeñas servilletitas
+dobladas como rosas...
+—¿La gente se comerá toda esta comida? —preguntó Sol.
+—Se me ocurre que sí —dijo la cocinera, riendo al unísono con
+Nellie. También Luna se rió: siempre hacía
+lo mismo que los demás. Pero Sol no tenia ganas de reírse. Caminaba en
+círculos con las manos cruzadas a la espalda. Tal vez jamás se hubiera detenido
+si la institutriz no los hubiera llamado de pronto:
+—Vengan, chicos. Es hora de lavarse y vestirse.
+Y marcharon derechito a su cuarto.
+Mientras se desvestían apareció mamá con una cosa blanca sobre los hombros y pasándose
+algo por la cara.
+—Llamaré cuando quiera que me los baje, Nurse,
+así todo el mundo puede verlos. Después pueden regresar aquí —dijo.
+Primero lo desvistieron a Sol y después lo volvieron a vestir con una camisa blanca con
+margaritas rojas y blancas, unos pantalones con tiradores, medias blancas y
+zapatos rojos.
+—Ahora estás vestido de ruso —dijo Nurse,
+alisándole el flequillo.
+—¿De veras? —dijo Sol.
+—Sí. Siéntate en esa sillita y quédate quieto mientras visto a tu hermana.
+Demoró una eternidad en vestir a Luna. Cuando le ponía las medias fingía caerse sobre
+la cama y pataleaba como siempre, y cada vez que Nurse
+intentaba hacerle rizos con el dedo y un cepillo
+húmedo, ella se daba vuelta y le pedía que le mostrara el retrato de su medallón
+o algo por el estilo. Paro por último también ella estuvo lista. Su vestido,
+muy almidonado, era blanco y con los rebordes de piel: hasta los rebordes de su
+bombachita eran de piel. Llevaba zapatos blancos con grandes pompones.
+—Ya estás lista, querida —dijo Nurse—. ¡Y tienes el mismo aspecto de los dulces querubines de las
+ilustraciones de las polveras!
+Y corrió a la puerta.
+—¡Señora, venga un momento! —dijo.
+Y mamá entró con el pelo a medio recoger. —¡Oh! —exclamó—. ¡Qué cuadro!
+—¿No está hermosa? —dijo Nurse.
+Y Luna se levantó la pollera y dio un paso como de baile. A Sol no le importaba
+que los demás no se fijaran en él... no le importaba mucho...
+Después se quedaron en la mesa jugando a juegos tranquilos mientras
+Nurse, de pie en la puerta, los observaba,
+y cuando empezaron a llegar los coches y se escucharon ruidos de risas y
+conversaciones y el crujir de las sedas, ella les dijo en un susurro:
+—Ahora niños, quédense quietos.
+Luna no dejaba de tironear del mantel para que todo quedara de su lado y Sol no
+tuviera nada, y fingía que no lo hacía a propósito.
+Por fin sonó la campanilla. Nurse
+se abalanzó sobre ellos con el cepillo del pelo, les alisó el
+flequillo, les acomodó los moños y los hizo tomarse de las manos.
+—¡Bajen! —les susurró.
+Y bajaron. Sol se sentía tonto al llevar a Luna de la mano, pero a ella parecía gustarle.
+La niña balanceaba un bracito y sonaba la campanita que llevaba colgada de su
+pulserita de coral.
+Mamá estaba en la puerta de la sala, abanicándose con un abanico negro. La sala
+estaba colmada de dulces olores, de sedosas damas y caballeros vestidos de
+negro con unas extrañas colas... parecían escarabajos. Papá estaba entre ellos,
+hablando muy fuerte y haciendo tintinear algo en su bolsillo.
+—¡Qué maravilla! —exclamaron las damas—. ¡Qué encantadores! ¡Qué hermosos! ¡Qué
+dulces!
+Todas las personas que no pudieron atrapar a Luna besaron a Sol y una dama flaca y
+vieja, con dientes que castañeteaban, le dijo:
+—¡Qué muñeco tan serio! —y le dio un golpecito en la cabeza con algo duro.
+Sol miró para descubrir si estaba aún el mismo concierto, pero ya se había ido. En
+su lugar, un hombre gordo de cabeza calva y rosada estaba apoyado en el piano,
+conversando con una muchacha que se llevaba un violín
+al oído.
+Sólo había un hombre que verdaderamente agradaba a Sol. Era un hombrecito gris de
+largas patillas grises que andaba caminando solo. Cuando llegó junto a Sol lo
+miró de un modo muy amable y le dijo: —¡Qué tal, muchacho!
+Y después se alejó. Pero muy pronto regresó y le dijo:
+—¿Te gustan los perros?
+—Sí —dijo Sol.
+Pero después volvió a alejarse y aunque Sol lo buscó muy atentamente no pudo
+encontrarlo. Pensó que tal vez se hubiera ido afuera a buscar algún
+cachorrito.
+—Buenas noches, mis preciosos niñitos —dijo mamá, envolviéndolos entre sus brazos
+desnudos—. Vuelen a su nidito. Entonces Luna volvió a portarse como una tonta.
+Delante de todo el mundo, levantó los bracitos y dijo:
+—Quiero que mi papá me lleve.
+Pero a todos pareció agradarle la ocurrencia, y papá se agachó y la alzó en el aire.
+Nurse tenía tanto apuro para que se acostaran que incluso
+interrumpió a Sol mientras decía sus oraciones y le dijo: —Termina ya, niño,
+basta.
+Y un momento más tarde estaban en la cama y en la obscuridad, salvo por el
+resplandor de la lucecita de la mesa de noche.
+—¿Estás dormido? —preguntó Luna.
+—No —dijo Sol—. ¿Y tú?
+—No —dijo Luna.
+Mucho rato más tarde Sol se despertó otra vez. Desde abajo llegaban aplausos muy
+fuertes, parecía como si lloviera. Sintió que Luna se daba vuelta en su cama.
+—Luna, ¿estás despierta?
+—Sí, ¿y tú?
+—Sí. Bueno, vayamos a ver desde la escalera.
+Recién terminaban de acomodarse en el último peldaño cuando se abrió la puerta de la
+sala y todo el mundo cruzó el vestíbulo hacia el comedor. Después se cerró la
+puerta, se escucharon los “pops”
+de las botellas y risas. Después los ruidos cesaron y Sol vio a todo
+el mundo dando vueltas alrededor de la deliciosa mesa, con las manos cruzadas
+a la espalda, como lo había hecho él más temprano... Daban vueltas y más
+vueltas, observando asombrados. Al hombre de las patillas grises le gustaba
+muchísimo la casita. Cuando vio la almendra que hacía de picaporte, apareció en
+sus ojos la misma expresión que cuando miró a Sol, y le dijo:
+—¿Has visto la almendra?
+—No cabecees así, Luna.
+—No estoy cabeceando. Eres tú.
+—No, no soy yo. Yo jamás doy cabezadas.
+—Oh, sí que lo haces. Estás haciéndolo ahora.
+—No. Sólo estoy mostrándote a tí cómo lo haces.
+Cuando se despertaron escucharon tan sólo la fuerte voz de papá y a mamá que se reía.
+Papá salió del comedor y subió corriendo la escalera y casi se tropezó con
+ellos.
+—¡Hola! —dijo—. ¡Por Dios, Kitty, ven
+a ver lo que encontré!
+Apareció mamá.
+—¡Oh, niños traviesos! —dijo desde el vestíbulo.
+—Llevémoslos abajo para darles algún hueso —dijo papá. Sol nunca lo había visto tan alegre.
+—No, por cierto que no —dijo mamá.
+—¡Oh, sí, papá! ¡Llévanos! —dijo Luna.
+—¡Que me cuelguen si no lo hago! —gritó papá—. Nada podrá impedirlo.
+Kitty, ¡abre paso!
+Y los alzó a uno en cada brazo.
+A Sol le pareció que mamá estaría terriblemente enojada. Pero no lo estaba.
+Siguió riéndose de papá.
+—¡Oh, qué niño malo! —dijo. Pero no se refería a Sol.
+—Vamos chicos, vengan a comer algo —dijo este alegre papá. Pero Luna se detuvo un
+minuto.
+—Mamá, tienes el vestido caído de un lado —dijo.
+—¿Sí? —dijo mamá.
+—Sí —dijo papá, y fingió que le mordía el blando hombro, pero ella lo alejó.
+Y todos volvieron al hermoso comedor.
+Pero... ¡oh, oh!... ¿Qué había ocurrido? Las cintas y las rosas estaban todas
+desatadas. Las servilletitas rojas estaban en el suelo, los relucientes platos
+estaban sucios y también los centelleantes vasos. La hermosísima comida
+decorada por el hombre aquel
+estaba toda desarmada y había huesos y cáscaras de fruta por todas partes.
+Hasta había una botella calda sobre la mesa y el líquido caía sobre el
+mantel y nadie la levantaba.
+Y la casita rosa con el techo nevado y las ventanitas verdes estaba
+destrozada... destrozada..., medio derretida en el medio de la mesa.
+—Vamos, Sol —dijo su padre, fingiendo no advertir nada.
+Luna se levantó los pantalones de su pijama, se acercó a la mesa y se paró sobre una
+silla, chillando de alegría.
+—Coman un poco de helado —dijo papá, destrozando otro pedazo de tejado.
+Mamá buscó un platito y se lo extendió, con el otro brazo le rodeó el cuello.
+—¡Papito, papito! —chilló Luna—. Queda el pequeño picaporte. Esa almendra pequeña.
+¿Puedo comérmela?
+Y, estirándose por encima de la mesa, la sacó de la puerta y se la comió,
+mordiendo con fuerza y parpadeando.
+—Aquí tienes, muchacho —dijo papá.
+Pero Sol no se había movido de la puerta. De pronto levantó la cabeza y prorrumpió
+en un agudo gemido.
+—¡Todo esto me parece horrible... horrible... horrible! —sollozó.
+—¡Ves lo que has conseguido, ya lo ves! —dijo mamá.
+—¡Vete de aquí! —dijo papá, que ya no estaba alegre—. ¡Ya mismo! ¡Vete de aquí!
+Y Sol, sollozando con todas sus fuerzas, se fue a su cuarto.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

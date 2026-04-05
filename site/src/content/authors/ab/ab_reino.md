@@ -1,0 +1,77 @@
+---
+layout: story
+title: El reino de lo irreal
+slug: ab_reino
+source: https://www.literatura.us/idiomas/ab_reino.html
+tags:
+  - ab_reino
+  - ab
+---
+Ambrose Bierce
+(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
+El reino de lo irreal (1890)
+(“The Realm of the Unreal”)
+Originalmente publicado en el periódico
+The San Francisco Examiner (20 de julio de 1890);
+Can Such Things Be?
+(Nueva York: The Cassell Publishing Co., 1893, 320 págs.)
+I
+En un tramo que hay entre Auburn y Newcastle, siguiendo en primer lugar la orilla de un arroyo y luego la otra, la carretera ocupa todo el fondo de un desfiladero que está en parte excavado en las pronunciadas laderas, y en parte levantado con las piedras sacadas del lecho del arroyo por los mineros. Las colinas están cubiertas de árboles y el curso del río es sinuoso.
+En noches oscuras hay que conducir con cuidado para no salirse de la carretera e irse al agua. La noche de mi recuerdo había poca luz, y el riachuelo, crecido por una reciente tormenta, se había convertido en un torrente. Venía de Newcastle y me encontraba a una milla de Auburn, en la zona más oscura y estrecha del desfiladero, con la vista atenta a la carretera que se extendía por delante de mi caballo. De pronto, y casi debajo del hocico del animal, vi a un hombre; di un tirón tan fuerte a las riendas que poco faltó para que la criatura quedara sentada sobre sus ancas.
+—Usted perdone —dije—, no le había visto.
+—No se podía esperar que me viera —replicó con educación el individuo mientras se aproximaba al costado de la carreta—; y el ruido del desfiladero impidió que yo le oyera.
+Aunque habían pasado cinco años, reconocí aquella voz enseguida. No me agradaba especialmente volver a oírla.
+—Usted es el Dr. Dorrimore ¿verdad? —pregunté.
+—Exacto; y usted es mi buen amigo Mr. Manrich. Me alegra muchísimo verle —añadió esbozando una sonrisa—, sobre todo porque vamos en la misma dirección y, como es natural, espero que me invite a ir con usted en la carreta.
+—Cosa que yo le ofrezco de todo corazón.
+Lo que no era verdad en absoluto.
+El Dr. Dorrimore me dio las gracias mientras se sentaba a mi lado, y yo reanudé la marcha como antes, con precaución. Sin duda son imaginaciones mías, pero ahora me parece que recorrimos la distancia que nos quedaba en medio de una niebla gélida; yo pasé un frío espantoso. El camino resultó más largo que nunca y la ciudad, cuando llegamos al fin a ella, aparecía sombría, lúgubre y desolada. Debía de estar cayendo la noche, y sin embargo no recuerdo haber visto luz en las casas ni ningún ser vivo por las calles. Dorrimore me explicó con cierto detenimiento por qué se encontraba allí y dónde había pasado los años anteriores, desde que le había visto por última vez. Recuerdo que me lo contó, pero no consigo acordarme de lo que me dijo. Se había ido al extranjero y había vuelto; eso es todo de lo que conservo memoria, y era algo que ya sabía. En cuanto a mí, no recuerdo haber dicho una palabra, aunque seguramente lo hice. Hay algo de lo que sí tengo conciencia clara: la presencia de aquel hombre a mi lado me resultaba singularmente desagradable e inquietante; tanto que, cuando por fin detuve el carro bajo el anuncio luminoso del Hotel Putnam, experimenté la sensación de haber escapado a algún peligro espiritual de naturaleza especialmente funesta. Esa sensación de alivio se vio modificada al descubrir que el Dr. Dorrimore también se alojaba en el mismo hotel.
+II
+Como explicación parcial de mis sentimientos hacia el Dr. Dorrimore, relataré brevemente las circunstancias en las que le conocí unos años antes. Una noche, media docena de hombres, yo entre ellos, estaban sentados en la biblioteca del Club Bohemio de San Francisco. La conversación había derivado hacia el tema de la destreza manual y las proezas de los prestidigitateurs, uno de los cuales actuaba por aquel entonces en un teatro de la localidad.
+—Esos tipos no son más que aspirantes en un doble sentido —dijo un individuo del grupo—; no saben hacer nada a lo que merezca la pena prestar atención. El más humilde malabarista ambulante de la India podría dejarles perplejos y al borde de la locura.
+—¿Por ejemplo…?
+—Pues, por ejemplo, ejecutando sus juegos más usuales y conocidos: lanzando al aire grandes objetos que no vuelven a caer; haciendo que las plantas broten, crezcan y florezcan en un terreno estéril elegido por los espectadores; poniendo a un hombre en una cesta de mimbre y atravesándolo una y otra vez con una espada mientras grita y sangra, y luego, al abrir la cesta, revelando que no hay nada dentro; agitando el extremo libre de una escala de seda en el aire, ascendiendo por ella y desapareciendo.
+—¡Tonterías! —exclamé, de un modo bastante grosero, me temo—. ¿No creerá usted tales cosas?
+—Desde luego que no: las he visto con mucha frecuencia.
+—Pero yo sí —dijo un periodista que tenía fama en la localidad como reportero pintoresco—. Las he relatado tantas veces que sólo la observación directa podría debilitar mi convicción. Bueno, caballeros, va mi propia palabra en ello.
+Nadie se rió; todos miraban a algo que había detrás de mí. Al darme la vuelta en el asiento vi a un hombre con traje de etiqueta que acababa de entrar en la sala. Su piel era atezada, casi oscura; llevaba una barba negra y poblada, una mata de pelo negro algo revuelto, y tenía la nariz afilada y unos ojos que resplandecían con una expresión tan desalmada como los de una cobra. Alguien del grupo se levantó y lo presentó como el Dr. Dorrimore, de Calcuta. Mientras íbamos siendo presentados uno a uno, él contestaba a nuestro saludo con una profunda reverencia al estilo Oriental, a la que le faltaba la solemnidad de Oriente. Su sonrisa me resultó cínica y un poco despectiva. Sólo sé describir su conducta como desagradablemente atractiva.
+Su presencia hizo que la conversación derivara hacia otros temas. Habló poco (no recuerdo nada de lo que dijo). Su voz me pareció especialmente rica y melodiosa, pero me produjo la misma impresión que sus ojos y su sonrisa. Tras unos minutos me puse en pie para marcharme. Él también se levantó y cogió su abrigo.
+—Mr. Manrich —dijo—, voy en su misma dirección.
+—¡Menudo diablo! —pensé—. ¿Cómo sabe usted en qué dirección voy?
+—Estaré encantado de que me acompañe —contesté.
+Salimos juntos del edificio. No había ningún coche a la vista, los tranvías se habían ido a acostar, había luna llena y el aire fresco de la noche resultaba delicioso. Subimos caminando por la calle California. Naturalmente, tomé esa dirección creyendo que él tomaría otra, hacia uno de los hoteles.
+—Usted no cree lo que se dice de los malabaristas hindúes —dijo sin más preámbulo.
+—¿Y usted cómo lo sabe? —pregunté.
+Sin contestar a mi pregunta, apoyó una mano ligeramente sobre mi brazo mientras con la otra me señalaba los adoquines de la acera por la que caminábamos. En ella, y casi a nuestros pies, ¡yacía el cuerpo muerto de un hombre, con una cara muy pálida por la luz de la luna, vuelta hacia arriba! Tenía una espada, en cuya empuñadura relucían piedras preciosas, clavada en el pecho; sobre los adoquines de la acera se había formado un charco de sangre.
+Me quedé pasmado y aterrorizado, no sólo por lo que veía, sino por las circunstancias en las que lo hacía. Durante nuestra ascensión, mis ojos, al menos eso creía, habían recorrido varias veces toda la distancia de la acera, de calle a calle. ¿Cómo habían podido ser insensibles a aquel objeto horroroso ahora tan visible bajo la luz de la luna?
+Cuando recobré mis aturdidas facultades observé que el cuerpo vestía traje de etiqueta. El abrigo, completamente abierto, dejaba ver el frac, la corbata blanca, la amplia pechera penetrada por la espada. Y (¡horrible revelación!) la cara, exceptuando la palidez, ¡era la de mi acompañante! Hasta el más diminuto detalle y característica coincidía con el mismísimo Dr. Dorrimore. Perplejo y horrorizado, me di la vuelta para buscar al hombre vivo. No se le veía por ningún sitio; con gran espanto, me alejé de aquel lugar calle abajo, en la misma dirección por la que había venido. Apenas había dado unos cuantos pasos cuando sentí que me agarraban por el hombro; me detuve. Por poco no grité de terror: el muerto, con la espada todavía clavada en el pecho, estaba allí, ¡a mi lado! Después de sacarse el arma con la mano libre, la arrojó lejos: la luz de la luna centelleó sobre las gemas de la empuñadura y el inmaculado acero de la hoja. Al estrellarse sobre la acera, ¡la espada desapareció! Aquel individuo, con la tez tan morena como antes, retiró la mano de mi hombro y me miró con la misma mirada cínica que yo había observado la primera vez que le vi. Los muertos no tienen esa mirada; eso me reanimó y, al volver la vista hacia atrás, contemplé la amplitud lisa y blanca de la acera, vacía de calle a calle.
+—¿Qué es esta insensatez, maldito diablo? —inquirí con fiereza, a pesar de que me temblaban todos los miembros.
+—Es lo que algunos gustan llamar malabarismos —contestó con una sonora carcajada.
+Se metió por la calle Dupont y no le volví a ver hasta que me lo encontré en el desfiladero de Auburn.
+III
+No vi al Dr. Dorrimore al día siguiente de mi segundo encuentro con él: el recepcionista del hotel me dijo que una ligera enfermedad le tenía confinado en sus habitaciones. Aquella tarde, en la estación de ferrocarril, me vi sorprendido y complacido por la inesperada llegada de Miss Margaret Corray y su madre, que venían de Oakland.
+Esto no es una historia de amor. No soy un cuentista, y un sentimiento como el amor no puede ser descrito en una literatura dominada y cautivada por la tiranía degradante que “condena a las letras” en nombre de la Joven. Bajo el marchito reinado de la joven, o mejor dicho, bajo el gobierno de esos falsos Ministros de la Censura que se han nombrado a sí mismos custodios de su bien, el amor
+cubre con un velo sus sagrados fuegos,
+e, ignorante, la Mora, expira,
+famélica sobre la comida pasada por el tamiz y sobre el agua destilada de unas provisiones melindrosas.
+Baste decir que Miss Corray y yo nos comprometimos en matrimonio. Su madre y ella se dirigieron al hotel en que yo me alojaba y durante dos semanas la vi a diario. No hace falta decir lo feliz que me sentía; el único obstáculo a mi perfecta alegría de aquellos días dorados era la presencia del Dr. Dorrimore, a quien me vi obligado a presentar a las damas.
+Evidentemente fue muy bien aceptado por ellas. ¿Qué podía decir yo? No conocía nada que pudiera desacreditarle. Sus modales eran los de un caballero culto y considerado; y para las mujeres los modales de un hombre son lo esencial. En un par de ocasiones en que vi a Miss Corray paseando con él me puse furioso, y en una de ellas tuve la indiscreción de protestar. Cuando Miss Corray me preguntó por las razones, no pude dar ninguna y creí ver en su expresión una sombra de desprecio hacia los caprichos de una mente celosa. Entonces empecé a volverme hosco y desagradable a conciencia y, en mi locura, decidí regresar a San Francisco al día siguiente. Sin embargo, no dije nada de todo el asunto.
+IV
+En Auburn había un cementerio viejo y abandonado. Estaba casi en el centro de la ciudad, pero por la noche resultaba un lugar tan horroroso que sólo podría ser anhelado por el más tétrico de los temperamentos humanos. Las verjas que separaban las distintas parcelas estaban caídas, podridas e incluso algunas habían desaparecido. Muchas de las tumbas se habían hundido; en otras crecían pinos robustos cuyas raíces habían cometido un pecado horrible. Las lápidas se habían desplomado y sus pedazos yacían desperdigados por el suelo; la valla que rodeaba el cementerio había desaparecido y los cerdos y las vacas rondaban por allí a placer. Aquel lugar era una vergüenza para los vivos, una calumnia sobre los muertos y una blasfemia contra Dios.
+El día que ciego de rabia tomé la loca decisión de separarme de todo lo que más quería, deambulé por la noche por aquel agradable lugar. La luz de la media luna, al atravesar el follaje de los árboles, producía un efecto fantasmal, formando manchas de claridad y oscuridad que revelaban las zonas más repugnantes; las negras sombras parecían conjuraciones que ocultaban, hasta que llegara el momento oportuno, revelaciones de un significado lúgubre. Cuando caminaba por lo que había sido un camino de grava, vi surgir de la oscuridad la figura del Dr. Dorrimore. Yo me encontraba en la penumbra y me quedé allí, inmóvil, con los puños cerrados y los dientes apretados, intentando controlar el impulso de saltar sobre él y estrangularlo. Al cabo de un rato una segunda figura se le unió y le cogió del brazo. ¡Era Margaret Corray!
+Soy incapaz de relatar adecuadamente lo que sucedió. Sé que salté hacia delante, dispuesto al asesinato. También sé que me encontraron al amanecer, magullado y lleno de sangre, con las marcas de unos dedos en la garganta. Me llevaron al hotel Putnam, donde estuve delirando durante varios días. Todo esto lo sé porque me lo han contado. Lo que sí recuerdo por mí mismo es que cuando recobré la consciencia, aún convaleciente, mandé buscar al recepcionista del hotel.
+—¿Están Mrs. Corray y su hija todavía aquí? —pregunté.
+—¿Qué nombre dijo usted?
+—Corray.
+—No se ha alojado aquí nadie con ese nombre.
+—Le ruego que no juegue conmigo —le dije con cierto malhumor—. Ya ve que estoy bien; haga el favor de decirme la verdad.
+—Le doy mi palabra —repuso con evidente sinceridad— de que no hemos tenido ningún huésped con ese nombre.
+Su afirmación me dejó estupefacto. Permanecí en silencio durante unos instantes; después le pregunté:
+—¿Dónde está el Dr. Dorrimore?
+—Se marchó la misma mañana en que ustedes se pelearon, y desde entonces no sabemos nada de él. Desde luego, le dio a usted con ganas.
+V
+Tales son los hechos de este caso. Margaret Corray es ahora mi esposa. Nunca ha estado en Auburn, y durante las semanas en que tuvo lugar la historia que he intentado relatar, tal y como fue concebida por mi cerebro, permaneció en su casa, en Oakland, preguntándose dónde se encontraba su amor y por qué no le escribía. El otro día leí en el Sun de Baltimore el siguiente párrafo:
+“El Profesor Valentine Dorrimore, hipnotizador, reunió una gran audiencia anoche. El conferenciante, que ha pasado la mayor parte de su vida en la India, realizó varias demostraciones de su poder, hipnotizando a todo aquel que se prestó al experimento únicamente con mirarle. De hecho, hipnotizó a todo el público (salvo a los periodistas) en dos ocasiones, haciendo que todos concibieran las ilusiones más extraordinarias. La característica más valiosa de la conferencia fue la revelación de los métodos empleados por los malabaristas hindúes en sus famosas actuaciones, muy conocidas por boca de los viajeros. El profesor declaró que estos taumaturgos han adquirido tal destreza en el arte que él aprendió de ellos, que realizan sus milagros arrojando a los ‘espectadores’ a un estado de hipnosis y diciéndoles lo que deben ver y oír. Su afirmación de que un sujeto especialmente sensible puede mantenerse en el reino de lo irreal durante semanas, meses, e incluso años, dominado por las ilusiones y alucinaciones que el operador pueda sugerirle de vez en cuando, resulta un tanto inquietante”.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

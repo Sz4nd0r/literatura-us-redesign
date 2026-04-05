@@ -7,4 +7,29 @@ tags:
   - index
   - eld
 ---
-¿Quién es E. L. Doctorow? ![E. L. Doctorow](/assets/images/eld.jpg) E. L. Doctorow es un novelista, editor y profesor estadounidense. Es uno de los novelistas estadounidenses más importantes del siglo XX. Escribió doce novelas, tres volúmenes de cuentos y un drama teatral. Varias de sus novelas fueron adaptadas al cine (Welcome to Hard Times, 1967; Daniel, 1983; Billy Bathgate, 1991) y al cine y al teatro (Ragtime, 1981 y el musical de Broadway del mismo nombre, 1998). Edgar Lawrence Doctorow nació el 6 de enero de 1931, en el Bronx, Nueva York. Fueron sus padres Rose (Levine) y David Richard Doctorow, proprietario de una pequeña tienda de música. Ambos eran estadounidenses de segunda generación de origen judío ruso. Asistió a las escuelas públicas de la ciudad y al la Bronx High School of Science, una de las escuelas secundarias más prestigiosas y selectivas de los Estados Unidos. Mientras sus compañeros de clases se concentraban en matemáticas, Doctorow se concentró en la revista literaria de la escuela, Dynamo, donde publicó su primer esfuerzo literario, y se inscribió en una clase de periodismo para aumentar sus oportunidades de escribir. Asistió a Kenyon College, en Ohio. Actuó en producciones teatrales universitarias y se especializó en filosofía. Después de graduarse con honores en 1952, completó un año de trabajo de posgrado en drama de inglés en la Universidad de Columbia antes de ingresar en el United States Army. Entre 1954 y 1955, se desempeñó como cabo en Alemania Occidental. En 1954, Doctorow se casó con Helen Esther Setzer, una estudiante de la Universidad de Columbia, mientras él prestaba servicio en el United States Army, en Alemania Occidental. Tuvieron tres hijos: el escritor y productor de televisión Richard Doctorow, la cantante y compositora Caroline Doctorow Gatewood y Jenny Doctorow Fe-Bornstein. De vuelta en Nueva York después del servicio militar, Doctorow trabajó como lector para una compañía cinematográfica. Leyó tantos westerns que inspiraron su primera novela, Welcome to Hard Times (1960), que comenzó como una parodia de la ficción occidental, pero se convirtió en una recuperación del género. La novela recibió reseñas muy positivas. Doctorow pasó nueve años como editor de libros, primero en New American Library (que había empezado como Penguin U.S.A. en 1948); y desde 1964, como editor en jefe de Dial Press. En 1969, Doctorow dejó Dial Press para seguir una carrera de escritor. Aceptó un puesto como Escritor Visitante en la Universidad de California, Irvine, donde completó The Book of Daniel (1971), una recreación ficticia del juicio y la ejecución de Julius y Ethel Rosenberg por dar secretos nucleares a la Unión Soviética, durante la Guerra Fría. La novela fue ampliamente aclamada: The Guardian la llamó una obra maestra y el New York Times dijo que la novela ponía al autor en la primera fila de escritores estadounidenses. El siguiente libro de Doctorow, escrito en su casa en New Rochelle, Nueva York, fue Ragtime (1975). Sus novelas posteriores incluyeron World’s Fair (1985), Billy Bathgate (1989) y The March (2005); además de varios volúmenes de ensayos y cuentos. Doctorow también enseñó en Sarah Lawrence College, Yale School of Drama, University of Utah, University of California, en Irvine y Princeton University. Fue el profesor de inglés y letras norteamericanas Loretta y Lewis Glucksman en la Universidad de Nueva York (NYU). Doctorow murió de cáncer de pulmón, el 21 de julio de 2015, en Manhattan. Tenía 84 años. ÍNDICE: Cuentos: Lives of the Poets: Six Stories and a Novella, 1984: —El escritor de la familia —La traída de aguas —Willi —El cazador —La legación extranjera —El hombre de Cuero —Vidas de los poetas Sweet Land Stories (2004): —Una casa en la llanura 
+
+## Biografía
+
+![E. L. Doctorow](/assets/images/eld.jpg)
+
+**E. L. Doctorow** (1931-2015) fue uno de los novelistas estadounidenses más importantes del siglo XX. Su obra destaca por su capacidad para entrelazar la ficción con la historia de los Estados Unidos, explorando temas sociales y políticos con una técnica narrativa magistral. Es autor de doce novelas, tres volúmenes de cuentos y un drama teatral.
+
+Nacido en el Bronx, se formó en Kenyon College y la Universidad de Columbia. Trabajó como editor de libros durante nueve años, llegando a ser editor en jefe de Dial Press, antes de dedicarse plenamente a la escritura. Alcanzó el reconocimiento internacional con *The Book of Daniel* (1971), una recreación ficticia del juicio de los Rosenberg, y *Ragtime* (1975), que se convirtió en una sensación literaria y fue adaptada con éxito al cine y al teatro musical.
+
+Otras de sus obras fundamentales incluyen *World’s Fair* (1985), *Billy Bathgate* (1989) y *The March* (2005). Además de su prolífica carrera literaria, Doctorow fue un distinguido profesor en universidades como Princeton, Yale y la Universidad de Nueva York (NYU). Murió en Manhattan el 21 de julio de 2015.
+
+## Índice
+
+### Narrativa
+
+#### *Vidas de los poetas* (1984)
+- El escritor de la familia
+- La traída de aguas
+- Willi
+- El cazador
+- La legación extranjera
+- El hombre de cuero
+- Vidas de los poetas (Novela corta)
+
+#### *Sweet Land Stories* (2004)
+- Una casa en la llanura

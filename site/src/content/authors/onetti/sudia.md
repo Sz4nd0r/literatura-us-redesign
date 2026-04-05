@@ -1,0 +1,103 @@
+---
+layout: story
+title: El perro tendrá su día
+slug: sudia
+source: https://www.literatura.us/onetti/sudia.html
+tags:
+  - sudia
+  - onetti
+---
+Juan
+Carlos Onetti
+(Montevideo, 1909 - Madrid,
+1994)
+El perro tendrá su día
+(1976)
+Para mi Maestro, Enrico Cicogna
+El capataz, descubierto por respeto, le fue pasando mano a mano los pedazos de carne sangrienta al hombre de la galera y la levita. Al fin de la tarde y en silencio. El hombre de la levita hizo un círculo con los brazos encima de la perrera y se alzó en seguida la ráfaga oscura de los cuatro doberman, casi flacos, huesos y tendones, y la ciega ansiedad de los hocicos, los dientes innumerables.
+El hombre de la levita estuvo un rato viéndolos comer, tragar, mirándolos después pedir más carne.
+—Bueno —le dijo al capataz—, lo que le ordené. Toda el agua que quieran pero nada de comida. Hoy es jueves. Los suelta el sábado a esta hora más o menos, cuando caiga el sol. Y que todo el mundo se vaya a dormir. El sábado, sordos aunque oigan desde los galpones.
+—Patrón —asintió el capataz.
+Ahora, el hombre de la levita le pasó al otro, billetes color carne sin escucharle las palabras agradecidas. Bajó hacia la frente la galera gris y dijo mirando a los perros. Los cuatro doberman estaban separados por tejidos de alambre; los cuatro doberman eran machos.
+—Subo a la casa dentro de media hora. Que tengan listo el coche. Voy a la capital. Asuntos. No sé cuántos días estaré allá. Y no olvides. Hay que cambiarle toda la ropa, después. Quema los documentos. La plata es tuya y todo lo que te guste, anillos, gemelos, reloj. Pero no uses nada hasta que hayan pasado meses. Yo te diré cuándo. El dinero es tuyo —reiteró—. A los cajetillas nunca les faltan. Y las manos; no te olvides de las manos.
+Entonces era bajo y fuerte, vestido con bordados grises, cinturón ancho pesado de esterlinas, poncho oscuro y una corbata negra cuyo color le fue impuesto a los trece años y ya había olvidado por qué y por quién. El facón de plata, a veces, por alarde o adorno y el sombrero con el ala hacia atrás. Sus ojos, como los bigotes, tenían el color del alambre nuevo y la misma rigidez.
+Miraba sin verdadero odio ni dolor, invariable para los demás como si estuviera seguro de que la vida, la suya, acumularía rutinas plácidas hasta el final. Pero estaba mintiendo. Apoyado en la chimenea veía mintiendo la habitación, las butacas de seda y dorado donde nunca aceptó sentarse, los muebles de patas retorcidas, con puertas de vidrio, llenos de servicios para té, café y chocolate que tal vez nunca hubieran sido usados. La enorme pajarera con su temeroso estruendo, las curvas del sillón confidente, las bajas mesitas frágiles sin destino conocido. Las gruesas cortinas vinosas suprimían el tranquilo atardecer; sólo existía el bricabrac asfixiante.
+—Me voy para Buenos Aires —repitió el hombre, como todos los viernes con su voz lenta y grave—. El buque sale a las diez. Negocios, la estafa que me quieren hacer con tus campos del norte.
+Miraba los dulces, las láminas de jamón, los pequeños quesos triangulares, la mujer manejando la tetera: joven, rubia, siempre pálida, equivocada ahora sobre su futuro inmediato.
+Miraba al niño de seis años nervioso y enmudecido, más blanco que su madre, siempre vestido por ella con ropas femeninas, excesivas en terciopelos y encajes. No dijo nada porque todo había sido dicho mucho tiempo atrás. La repugnancia de la mujer, el odio creciente del hombre, nacidos en la misma extravagante noche de bodas en que fue engendrado el niño-niña que se apoyaba ahora boquiabierto en el muslo de su madre mientras enroscaba con dedos inquietos los gruesos bucles amarillos que caían hasta el cuello, hasta el collar de pequeñas medallas benditas.
+El milord era negro y lustroso y brillaba siempre como recién barnizado; tenía dos enormes faroles que muchos años después se disputaría la gente rica de Santa María para adornar portales con una bombita eléctrica en lugar de velas. Lo arrastraba un tordillo hecho de plata o estaño. Y el coche no lo había hecho Daglio; fue traído desde Inglaterra.
+A veces medía con envidia y casi con odio el ímpetu, la juventud ciega de la bestia; otras, imaginaba contagiarse de su salud, de su ignorancia del futuro.
+Pero tampoco aquel viernes —y menos que nunca aquel viernes— fue a Buenos Aires. Ni siquiera, en realidad, estuvo en Santa María; porque al llegar al principio de Enduro hizo que el tordillo joven que tiraba del birlocho torciera hacia la izquierda y lo arrastrara, haciendo volar terrones por el camino de barro seco que llevaba, atravesando paisajes de pasto quemado y algunos árboles solitarios y siempre distantes, hacia la playa sucia que muchos años después, convertida en balneario, poblada de chalets y comercios, llevaría su nombre, ayudaría en parte ínfima a cumplir su ambición.
+Más adelante, en una extensión exagerada, el caballo trotó flanqueado por la mansedumbre de los trigales, de las granjas que parecían desiertas, blanqueando tímidas, hundidas en el calor creciente de la tarde.
+Dejó el coche frente al rancho más grande del rancherío y, sin contestar saludos, alargó diez billetes al hombre oscuro que había salido a recibirlo. Pagaba el pienso de la bestia, el alojamiento en el corral, el secreto, el silencio que ambos sabían mentira.
+Después caminó hasta la casita nueva y encalada, rodeada de yuyos, casi apoyada en un pino recto y gigantesco, plantado por nadie medio siglo atrás.
+Por costumbre, imperioso y displicente, golpeó tres veces la puerta frágil con el mango del rebenque. Tal vez también esto formara parte implícita del rito: la mujer silenciosa, acaso ausente, demorándose. El hombre no volvió a llamar. Esperaba inmóvil, bebiendo en el jadeo esta primera cuota del sufrimiento semanal que ella, Josephine, le servía obediente y generosa.
+Sumisa, la muchacha abrió la puerta, escondiendo el hastío y el asco, que había sido lástima, se desprendió la bata, la dejó caer al suelo y volvió desnuda a la cama.
+Un viernes lejano, inquieta porque temía a otro hombre, había consultado el relojito: supo así que la operación completa duraba dos horas. Él se quitó el saco, lo unió al rebenque y al sombrero y fue colocando todo, ya tembloroso, sobre una silla. Luego se acercó y, como siempre, empezó por los pies de la muchacha, sollozando con su voz ronca, pidiendo perdón con bramidos incomprensibles por una culpa viejísima y sin remisión, mientras la baba caía mojando las uñas pintadas de rojo.
+Casi en la totalidad de tres días la muchacha lo tuvo de espaldas, enrollando cigarrillos, silencioso, vaciando sin prisa ni borrachera los porrones de ginebra, levantándose para ir al baño o para acercarse rabioso y dócil al suplicio de la cama.
+Traída por las semillas envueltas en blancos cabellos de seda, volando apoyada sobre el capricho del aire, la noticia llegó a Santa María, a Enduro, a la casita blanca próxima a la costa. Cuando el hombre la recibió —el cuidador del tordillo se animó a rascar la puerta y dio las nuevas desviando los ojos, la boina estrangulada en las grandes manos oscuras— comprendió que, increíblemente, la mujer desnuda y prisionera en la cama ya lo sabía.
+De pie, afuera, inclinado sobre el murmullo servil y en decadencia, el dueño de los bigotes acerados, del milord, del caballito de plata, de más de la mitad de las tierras del pueblo, habló lentamente y habló demasiado:
+—Ladrones de fruta. Para ellos tengo los mejores perros, los más asesinos de los perros. No atacan. Defienden. —Miró un instante el cielo impasible, sin sonrisa ni tristeza; sacó más billetes del cinto—. Pero yo no sé nada, no lo olvide. Yo estoy en Buenos Aires.
+Era mediodía del domingo; pero el hombre no dejó la casita hasta la mañana del lunes. Ahora el caballito se sujetaba al trote, sin necesidad de ser dirigido, rítmico, volviendo a la querencia con un algo de animal mecánico, de juguete de feria.
+—Un milico —pensó despreocupado el hombre cuando vio, apoyado en la pared, cerca del gran portón negro de hierro, con el ostentoso entrevero doble de una jota con una pe, a un policía joven y aburrido, con un uniforme que había sido azul y de un desaparecido más corpulento y alto.
+—El primer milico —pensó el hombre casi sonriendo y llenándose, lentamente de un entusiasmo, de un principio de diversión.
+—Perdone señor —dijo el uniforme, cada vez más joven y tímido a medida que se acercaba, casi un niño al final—. Me dijo el comisario Medina que le pidiera de darse una vuelta por el Destacamento. A voluntad de usted.
+—Otro milico —murmuró el hombre, enredado en el vaho y el olor del caballo—. Pero usted no tiene la culpa. Dígale a Medina que estoy en mi casa. Todo el día. Si quiere verme.
+Sacudió apenas las riendas y el animal lo arrastró jubiloso, más allá del jardín y la arboleda, hasta la media luna de tierra seca donde estaban las cocheras.
+Cabizbajos y diestros, ninguno de los hombres que se acercaron para recibirlo y desensillar habló de la noche del sábado ni de la madrugada del domingo.
+Petrus no sonreía porque había descargado la burla desde años atrás, y tal vez para siempre, a los bigotes de viruta de acero. Recordaba impreciso su aproximación a la cincuentena; sabía todo lo que le faltaba hacer o intentar en aquel extraño lugar del mundo que aún no figuraba en los mapas; consideraba que no enfrentaría nunca un obstáculo más terco y viscoso que la estupidez y la incomprensión de los demás, de todas las otras con que estaría obligado a tropezar.
+Y así, por la tarde, cuando el bochorno comenzaba a ceder bajo los árboles, llegó Medina, el comisario, intemporal, pesado e indolente, manejando el primer coche modelo T que logró vender Henry Ford en 1907.
+El capataz lo saludó haciendo una venia demasiado lenta y exagerada. Medina lo midió con una sonrisa burlona y le dijo suavemente:
+—Te espero a las siete en el Destacamento, Petrus o no Petrus. Te conviene ir. Te juro que no te va a convenir si me obligas a mandarte buscar.
+El hombre dejó caer el brazo y aceptó moviendo la cabeza. No estaba intimidado.
+—El patrón dijo que si usted venía él estaba en la casa.
+Medina taconeó sobre la tierra reseca y subió la escalera de granito, excesivamente larga y ancha. «Un palacio; el gringo cree vivir en un palacio aquí, en Santa María».
+Todas las puertas estaban cerradas al calor. Medina golpeó las manos como advertencia y se introdujo en la gran sala de las vitrinas, los abanicos y las flores. Con un traje distinto al de la mañana pero tan cuidado como si se hubiera vestido para un paseo inminente, ensombrerado, fumando en el único asiento que parecía capaz de soportar el peso de un hombre, Jeremías Petrus dejó en la alfombra el libro que estaba leyendo y alzó dos dedos como saludo y bienvenida.
+—Siéntese, comisario.
+—Gracias. La última vez que nos vimos yo me llamaba Medina.
+—Pero hoy resolví ascenderlo. Ya sé lo que lo trajo.
+Medina miró dudoso la profusión de butaquitas doradas.
+—Siéntese en cualquiera —insistió Petrus—. Si la rompe me hace un favor. Y ante todo, ¿qué tomamos? Estoy pasado de ginebra.
+—No vine a tomar.
+—Ni tampoco a contarme que en horas de servicio nada de alcohol. Hace meses que no me llegan botellas de Francia. Algún milico estará tomándose mi Moet Chandon en rueda de chinas. Pero tengo un bitter Campari que me parece justo para esta hora.
+Movió una campanilla y vino el mucamo que estaba escuchando detrás de una cortina. Joven, moreno, el pelo aplastado y grasiento. Medina lo conocía como carne de reformatorio, como mensajero de putas clandestinas —¿y qué mujer no lo es?—, como ladrón en descuidos. Recordó, buscándole sin triunfo los ojos, la frase ya clásica y deformada: «Te conozco, Mirabelles». Era cómico verlo con la chaqueta blanca y la corbata de smoking. «Se trajo de Europa juegos de muebles, una esposa, una puta, un cochecito y un potrillo. Pero no consiguió un sirviente exportable; tuvo que buscarlo en el basural de Santa María».
+Habían desfilado recuerdos de cosechas perdidas, de cosechas asombrosas, de subidas y caídas de precios de vacunos; habían sido barajados veranos e inviernos lejanos, gastados por el tiempo hasta ser irreales, cuando la botella anunció que sólo quedaban dos vasos del líquido rojo, suave como un agua dulce. Ninguno de los dos hombres había cambiado, ninguno revelaba la burla ni el dominio.
+—La señora y el chico fueron a Santa María. Tal vez sigan más lejos. Nunca se sabe. Quiero decir que nunca se sabe con las mujeres —dijo Petrus.
+—Le pido perdón, no le pregunté por la salud de la señora —dijo Medina.
+—No tiene importancia. Usted no es médico, usted vino porque mis perros se comieron a un ladrón de gallinas.
+—Perdón, don Jeremías. Vine a molestarlo por dos cosas. Nos llevamos al difunto disfrazado. Sus peones le embarraron la cara y las manos, lo vistieron con la ropa del capataz, le robaron lo que tenía. Anillos; bastó mirarle las marcas en los dedos. Bastó lavarlo para saber que vino limpito y bañado. Se olvidaron del perfume, tan fino y marica como el que usa su señora, Madame. Una trampa torpe hecha por la peonada. Con esto me basta porque ya le conozco el nombre. Es muy posible que usted no sepa quién era y es posible que lo ubique cuando yo quiera decírselo o cuando vea, si quiere molestarse, el expediente en el Destacamento. Los perros le comieron la garganta, las manos, la mitad de la cara. Pero el difunto no vino a robar gallinas. Vino de Buenos Aires y usted no fue a Buenos Aires el viernes.
+Una pausa mordida por los dos, un miedo compartido.
+Petrus olía un peligro pero ningún temor. Sus peones habían sido torpes y también él por haber confiado en ellos y en la farsa grotesca.
+—Medina o comisario. Yo me fui a Buenos Aires el viernes. Casi todos los viernes voy. Pagué mucho dinero para que todos lo juren.
+—Y todos juraron, don Jeremías. Nadie lo estafó, ni siquiera en un peso. Juraron por el miedo, por la Biblia y por las cenizas de sus putas madres. Aunque no todos eran huérfanos. Pero, sin adular, yo sentí que juraban comprometidos con otra cosa, con algo más que el dinero.
+—Gracias —dijo Petrus sin mover la cabeza, con una línea burlona empujando los duros bigotes—. Historia terminada, sumario cerrado, yo estaba en Buenos Aires.
+—Sumario cerrado porque el muerto estaba dentro de su casa, su tierra, su bendita propiedad privada. Y el asesinato no lo hizo usted. Lo hicieron los perros. Probé, don Jeremías. Pero sus perros se niegan a declarar.
+—Doberman —asintió Petrus—. Raza inteligente. Muy refinados. No hablan con los perros policía.
+—Gracias. Tal vez no sea por desprecio. Simple discreción. Otra vez: asunto archivado. Pero algunas cosas deben quedar claras. Usted no estaba por aquí la noche del sábado. Usted no estaba, tampoco, en Buenos Aires. Usted no estuvo, no vivió, no fue, de viernes a lunes. Curioso. Una historia sobre un fantasma desaparecido. Eso no lo escribió nadie, nunca, y nadie me lo contó.
+Entonces Jeremías Petrus abandonó el asiento y quedó de pie, inmóvil, mirando con fijeza la cara de Medina, el látigo inútil colgando de su antebrazo.
+—Tuve paciencia —dijo lentamente, como si hablara a solas, como si murmurara frente al espejo ampliatorio que usaba para afeitarse por las mañanas—. Todo esto me aburre, me entorpece, me mata el tiempo. Quiero, tengo que hacer tantas cosas que tal vez no puedan caber en la vida de un hombre. Porque en esta tarea estoy solo. —Se interrumpió por minutos en la gran sala poblada de cosas, objetos, nacidos e impuestos de y por la nunca derrotada historia femenina, su voz había sonado, levemente, como plegaria y confesión. Ahora se hizo fría, regresó a la estupidez cotidiana para preguntar sin curiosidad, sin insulto—: ¿Cuánto?
+Medina rió suavemente, matizó su pobre alegría al ambiente de insoportables vitrinas, japonerías, abanicos, dorados, mariposas muertas y sujetas.
+—¿Dinero? Nada para mí. Si quiere liquidar la hipoteca es cosa ajena, don Jeremías. Es del Banco o de nadie. Me queda el catre del Destacamento. —Hecho— dijo Petrus. —Como quiera. En pago quiero decirle algo que lo molestará tal vez al principio, desde esta noche o mañana, digamos…
+—A usted nunca le gustó perder el tiempo. A mí tampoco. Tal vez por eso lo aguanté tantos años. Tal vez por eso lo escucho ahora. Hable.
+—Usted manda. Creí que un poco de prólogo, entre dos caballeros que tienen las manos limpias… El caso es que Mamuasel Josefina no quiso decir ni escuchar palabra. Perdón, dijo algo así, y una sola vez, como «Se petígarsón». Un poco lloró. Después desparramó libras arriba de la cama. Están todavía en el Destacamento, junto al sumario, esperando al juez que fue a una cuadrera y tal vez se dé una vuelta por aquí, de paso.
+—Es justo —dijo Petrus—. Que la hayan escuchado, no importa. Las libras, un poco menos de ciento treinta y siete, tampoco importan y no tienen relación con el asunto.
+—Otra vez perdón —dijo Medina tratando de endulzar la voz—, menos de la mitad de cien.
+—Entiendo, siempre hay gastos.
+—Claro. Y sobre todo en los viajes. Porque Mamuasel estuvo consultando desde el teléfono del ferrocarril. Usted lo conoce al pobre Masiota y sabe cómo trata el pobre Masiota a todas las mujeres, siempre que no sea la suya, claro, como todos sabemos y basta mirarle el ojo izquierdo los lunes después de la borrachera conyugal del sábado. A todas las mujeres menos a la que soporta y a la que tuvo la suerte de encontrarlo semidespierto esta mañana de lunes en la estación, cuando usted reapareció. Le bastó una moneda, una sonrisa, un mesié le chef, para que el tipo le regalara todas las líneas telefónicas, todos los vagones de bolsas y vacas que esperaban en el desvío, todos los infinitos rieles que no sé adónde van, los de la izquierda y los de la derecha.
+—¿Y? —dijo Petrus interrumpiendo y apurando con un talerazo en sus botas.
+—Demoraba porque hablé de caballeros. Disculpe. Ya sé que no nos gusta perder el tiempo. Ahí va: Mamuasel debe haber agotado las pilas de nuestro jefe de estación. Pero en una o dos horas consiguió lo que quería. Tren, hotel, barco para Europa. Lo supe hace unos minutos, nunca falta un borracho o un vago en los bancos de la estación.
+Petrus había estado mordiendo la plata del mango del talero, meditativo, privado de las ganas de golpear, mientras Medina, no seguro ni en descuido, resbalaba el pulgar por el gatillo en la cintura. Sin previo acuerdo los dientes y el pulgar, lentos, prolongaron la pausa; tanto, que no sirvió para esta historia. Al fin habló Petrus; usaba una voz despaciosa y ronca, una voz de mujer acosada por la menopausia. Tenía el orgullo de no preguntar.
+—Josephine sabía el nombre. Conocía el nombre del ladrón de gallinas y, estoy seguro, mucho más. No veo otra razón para irse.
+—Puede ser, don Jeremías —silabeó Medina atento a la verticalidad del rebenque—. ¿Por qué se habría ido?
+Hacía tanto tiempo que Petrus no reía que su boca abierta y negra empezó con un mugido largo y se fue apagando como un ternero perdido.
+—¿Para qué explicar, comisario? Todas las mujeres son unas putas. Peor que nosotros. Mejor dicho, yeguas. Y ni siquiera verdaderas putas. He conocido algunas, ante las cuales me parecía correcto sacarme el sombrero. Eran damas, eran señoras. Pero las de ahora no pasan de putitas, pobres putitas.
+—Cierto, don Jeremías —reculó ante el recuerdo lejano de la señora Petrus ofreciéndole té y tartas en aquella misma habitación—. Casi todas. Pobres, que no nacieron para otra cosa. Usted pelea para hacer un astillero. Contra todo el mundo. Yo peleo, los sábados para dormir borracho, a veces para enterarme de quién era el dueño de las ovejas robadas. También necesito tiempo para pintar. Pintar el río, pintarlos a ustedes.
+—Le compré dos cuadros —dijo Petrus—. Dos o tres.
+—Es cierto, don Jeremías; y los pagó bien. Pero no están en esta sala. Están en el galpón de los peones. Eso no importa. Usted tenía razón en lo que estaba diciendo. Ellas no tienen ni un gramo de cerebro para ser algo más que lo que usted dijo.
+El rebenque cayó entre las piernas, después al suelo, y Petrus, sentándose, invitó:
+—¿Y si nos tomáramos otra, comisario?
+Al salir Medina vio que una de las bestias dormía una siesta larga, protegida del sol.
+1976
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

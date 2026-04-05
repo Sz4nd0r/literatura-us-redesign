@@ -1,0 +1,60 @@
+---
+layout: story
+title: Los hermanos Dagobé
+slug: jgr_dagobe
+source: https://www.literatura.us/idiomas/jgr_dagobe.html
+tags:
+  - jgr_dagobe
+  - jgr
+---
+João Guimarães Rosa
+(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
+Los hermanos Dagobé
+(“Os irmão Dagobé”)
+Primeiras estórias
+(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+Una buena desgracia: el velatorio de Damastor Dagobé, el más viejo de los cuatro hermanos completamente bandidos. La casa no era chica. Pero mal iban a caber en ella quienes allí iban a pasar esa noche. Y todos mejor querían quedarse cerca del difunto, porque todos, más o menos, les tenían más miedo a los tres vivos.
+Demonios de Dagobés, qué gente no gustándole a nadie… Vivían en estrecha desunión, sin mujer por la casa ni otro pariente, bajo el mando tiránico del recién difunto. Y ése había sido el Gran Peor, el cabeza, fierabrás y maestro, quien metió a los más jóvenes, «los nenes» como el muy bruto decía, en los deberes de la mala fama.
+Ahora sin embargo, muerto, en esas no-condiciones en que estaba, ningún peligro ofrecía ya. Sólo entre las llamas de las velas y las poquitas flores seguía luciendo, aunque no por voluntad propia, aquella mueca suya, las quijadas de piraña[pez de algunos ríos sudamericanos, famoso por su ciega voracidad], la nariz muy torcida y su listín de canalladas. Pero, delante de los tres de luto y a pesar de todo, todavía había que seguir teniéndole un respeto. Convenía.
+Pasaban de cuando en cuando el café, el aguardiente quemado, las palomitas de maíz, según se gasta en estos casos. Sonaba un cuchicheo sencillo, bajito, de la gente agrupada por los rincones oscuros o a la luz de las lamparitas y lamparones. Allá afuera, en la noche cerrada, había llovido un poco. Y cuando, raramente, alguien hablaba más fuerte, ése bajaba el tono de golpe y se apuraba, despertando de su descuido. Total: lo de siempre al estilo de allá. Pero todo tenía un aire de espantoso.
+Y lo que son las cosas: un don-nadie tranquilo y honrado, un tal Liorjorge, apreciado por todos, era el que había mandado a Damastor Dagobé para el destierro de los muertos. Sin saberse por qué, el Dagobé mayor lo había amenazado con cortarle las orejas y, al verlo otra vez, se fue para él con cuchillo y de punta. Pero el sangrefría del muchacho, que administraba un pistolón, le largó un tiro en mitad de los pechos, por encima del corazón, y se acabó lo que se daba.
+Con que, después de todo lo que había pasado, la gente se extrañaba de que los hermanos no hubieran tomado venganza. En vez de eso, diligenciaban el velatorio y el entierro. Y era bien raro. Tanto más, cuanto que se sabía que aquel pobrecillo Liorjorge seguía aún en la aldea, solo en su casa, resignado ya a lo peor, sin ánimos ni para moverse.
+¿Había quien entendiera aquello? Pero, tal como lo estoy contando, los Dagobés vivos no hacían más que todo lo que es de la ceremonia en sí, serenos y sin alborotar, hasta con una pizca de alegría. Sobre todo, Derval, el más chico, se apañaba muy fino, muy cumplido con los que estaban o iban llegando:
+—Perdone la molestia…
+Y a Doricón, ahora el más viejo, se le veía ya como a serio sucesor de Damastor, grandón como el muerto, entre león y mula, con la misma mandíbula para adelante y los ojillos venenosos:
+—Dios lo tenga en su gloria —recitaba.
+Y el de en medio, el Dismundo, hombre guapetón si los hay, ponía un fervor sentimental y sostenido al contemplar el cuerpo tendido en la mesa:
+—Mi buen hermano…
+Del difunto, tan sórdidamente tacaño o más cuanto mandón y cruel, se sabía que había dejado sus buenos dineros, en billetes y en el banco. A fin de cuentas, los Dagobés a nadie engañaban; ya sabían muy bien ellos hasta dónde iban a llegar, lo que todavía no estaban haciendo. Sus tigradas iban a venir más tarde, aunque por su paso, nada de prisas. Ahora, tranquilos. Luego, sangre por sangre. Pero una noche, por unas horitas, mientras le daban su sitio y su trato al muerto, las armas podían quedarse a un lado y los demás estar en esa falsa confianza. Después del cementerio, sí: le metían mano al Liorjorge y acababan con él.
+Esto era lo que se charlaba por los rincones, en un abejorreo de lenguas y labios, sobre todo lo que andaba a punto de echarse encima. De manera que aquellos Dagobés tenían que estar en eso y no iban a dejar así las cosas; brutos lo eran por fuera, pero avispados también, de los que guardan la brasa en la olla, y los jefes de todo; así que lo dicho: se notaba que tenían ya sus intenciones. Por ahí era por donde se les escapaba aquella pizca de alegría tan lista que los tenía medio riéndose. Saboreaban ya la nueva sangre. Y cada momento que podían se juntaban con disimulo en el hueco de una ventana, con minucioso confabuleo. Bebían. Ninguno de los tres dejaba de estar cerca de los otros, ¿a lo mejor por prudencia? Y se les arrimaba de cuando en cuando alguien mejor compadre de ellos, de más confianza, con novedades, secretitos…
+¡Vaya plan! Iban y venían en los escampares de la noche, y de quien tanto trataban era del chaval Liorjorge, criminal en legítima defensa y por mano de quien el Dagobé viejo se había ido para el otro barrio. Sobre eso eran los ires y venires, que siempre, entre los del velatorio, había quien pescara al vuelo palabras sueltas y las pasara a los demás con tiento. Y el Liorjorge, solo en su casa, sin una compañía, ¿es que andaba ya loco? Lo que es aprovecharse para huir en ese entretanto, de nada iba a servirle: fuera para donde fuera, pronto lo agarrarían los tres. Inútil resistirse, inútil escaparse, inútil todo. Así que debía estar en un agachamiento mayúsculo, desgraciándose de miedo, sin medios, sin valentía, sin armamentos. ¡Ya era un alma para gorigoris y sufragios! Y sin embargo…
+Viniendo de vuelta, alguien trajo por fin una información sustanciosa a los dueños del muerto, y era ésta: que decía el Liorjorge, el atrevido labrador, que él no había querido matar al hermano de ningún cristiano, que solamente apretó el gatillo en el último momento por la obligación de librarse y por su desastrosa mala suerte. Que había matado con respeto. Y que, como prueba de su verdad, estaba dispuesto a presentarse desarmado, allí delante, a dar fe en persona y para demostrar su mucha falta de culpa, si es que querían ser leales.
+Hubo un pálido asombro. Un pasmo general. ¿Cómo se entendía? De puro susto, lo dicho, aquel Liorjorge andaba ya loco y se estaba sentenciando él sólito. ¿Iba medio a tener valor…? Que viniera: era como saltar de la sartén a la candela. Y además, que daba hasta escalofríos pensar en lo que ya se sabe: en que, si se presenta su matador, vuelve a brotar sangre del muerto. ¡Dios, qué bonitos tiempos! Y es que allí, en la aldea, no había una autoridad ni un nada.
+La gente seguía espiando a los Dagobés, aquellos tres que estaban allí pestañeando. Nada más que:
+—¡Güeno ’stá! —decía el Dismundo.
+Y el Derval, muy en lo suyo, honrando la casa y el momento:
+—Haiga paz.
+Seriote y para adentro, enorme, el Doricón no hizo más que no decir ni pío. Y el ceño se le iba cada vez más para arriba, así que los presentes, por el puro recelo, tomaban cada vez más aguardiente quemado. Había caído otro chaparrón. Hay veces en que un velatorio se hace muy largo. Largo de veras.
+Pero no se había acabado de oír bien y se paró el cotilleo. Llegaban otros mensajeros. ¿Querían arreglar las paces o meterle urgencia a la maldad? ¡Qué cosa más loca traían!: que el Liorjorge se ofrecía a ayudar a cargar el ataúd. ¿Habían oído bien? Desde luego, loco: ¿no había ya bastante con lo que había, con esas tres fieras sueltas?
+Y nadie podía creerlo cuando tomó la palabra el Doricón con un ademán destemplado. Habló con indiferencia, al me-da-igual, agrandándosele los ojos fríos: pues entonces que sí, que viniera cuando ya estuviese el ataúd cerrado. Eso fue lo que dijo. Y ya estaba redondeada la cosa. Uno se encuentra con lo inesperado.
+¿Así que…? La gente estaba ya a la espera, con ese oscuro peso en los corazones: cierto susto esparcido por lo menos. Eran horas torcidas. Y despertó el día despacio, despacito. Ya estaba ahí la mañana. El difunto malolía un poco.
+Sin escenas ni oraciones se cerró el ataúd de ancha tapa y los Dagobés miraban con odio, que debía ser odio al Liorjorge, o eso se rumoreaba con los primeros y concisos anuncios:
+—Ya, ya viene él.
+Llegaba, en efecto, y había que abrir los ojos de par en par. Alto el mozo Liorjorge, despojado de toda defensa. Se veía que no llegaba animosamente ni por ofender, sino con el alma entregada y una humildad mortal. Se dirigió a los tres con firmeza:
+—Ave María Purísima.
+Y a Derval, Dismundo y Doricón —ese demonio de hombre— casi no se les oyó más que un «Hmmm… ah». Qué cosa.
+Llegó al fin el agarrar para cargar: tres hombres por cada banda. El Liorjorge tomó el asa delantera por el lado izquierdo según le indicaron. A su alrededor se encuadraba el odio de los Dagobés. Y ya estaba saliendo el cortejo, terminándose lo interminable. Iba un ramo de gente, una pequeña multitud, por toda la calle embarrada. Los curiosones, más adelante; los prudentes, en retaguardia. Se tanteaba el suelo con la mirada y abría el desfile el ataúd, con las vacilaciones naturales. Y los malvados Dagobés. Y el Liorjorge, todo ladeado. Un importante entierro. Caminaban. Caminaban.
+El refrigerio se hizo muy de paso y, en aquel intermedio, todos, en cuchicheo o en silencio, se entendían con un hambre de preguntas. El Liorjorge aquél no tenía escapatoria. Sólo tenía que hacer bien su papel: andar con las orejas gachas. El valiente sin billete de vuelta, y allí como un esclavo. El ataúd parecía pesar lo suyo. Los tres Dagobés, armados, capaces de cualquier improvisación, estaban ya con la mirada como apuntando, eso se adivinaba sin verse. Y volvió a caer una lloviznita. Caras y ropas se empapaban. Y el Liorjorge, tan aterrado, con su mesura en el caminar, con su serenidad de esclavo. ¿Rezaba? No iba ni a poder palparse.
+Ahora ya se sabía: colocado el ataúd dentro de su fosa, a quemarropa lo iban a matar, en el amén de un credo. La lloviznita se aclaraba ya. ¿No se iba a pasar por la iglesia? No, porque en la aldea no había cura.
+Caminaban.
+Y entraban ya en el cementerio. «Aquí todos vienen a dormir», decía el letrero del portón.
+La crispada cabecera del duelo se agolpó en el barro, junto al hoyo; muchos, pero más atrás, preparaban ya el huye-huye. Mucha formalidad pero ninguna despedida al que fue Damastor Dagobé, ya dejado caer bien hondito, por medio de cuerdas tirantes, como está mandado. Y venga tierra encima de él, pala y pala: un son que impresionaba a la gente. Pero, ¿y ahora?
+El mozo Liorjorge esperaba, se sumía dentro de sí. ¿No veía más que otros siete palmos de tierra delante de sus narices? Miraba con dificultad. Se retorcía el silencio. Y aquellos dos, Dismundo y Derval, como esperando algo del Doricón. De pronto, el hombre se estira de hombros, ¿sólo ahora veía al otro, en medio de todo aquello?
+Lo miró en corto. ¿Se llevaba la mano a la cintura? No: es que la gente preveía que lo hiciera así, tuvo una falsa idea de su gesto. Habló de pronto y dijo solamente:
+—Mozo, váyase usted, recojasé. Lo que pasa es que mi añorado hermano era un demonio maldito…
+Dijo aquello bajito y sonaba mal. Pero se volvió a todos los presentes, y los hermanos también. Agradecían a todos la molestia. Y hasta medio sonreían apresuradamente. Se sacudían el barro de los pies, se limpiaban el que a las caras les había saltado. Doricón, yéndose ya, dijo y completó:
+—Nos vamos a vivir a un pueblo grande.
+El entierro había terminado y empezaba otra vez a llover.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

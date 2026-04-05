@@ -1,0 +1,231 @@
+---
+layout: story
+title: El mar
+slug: cp_elmar
+source: https://www.literatura.us/idiomas/cp_elmar.html
+tags:
+  - cp_elmar
+  - cp
+---
+Cesare Pavese
+(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
+El mar
+(“Il mare”, 1942)
+Originalmente publicado en Primato (1 y 15 de diciembre de 1942);
+reproducido en Feria d’agosto (1946)
+Tutti i racconti (2002)
+A veces pienso que si hubiera tenido el valor de subir a la cima de la colina no me habría escapado de casa después. Debía de ser poco después de la noche de San Juan, porque ya varias veces habíamos ido por la carretera del valle y subíamos hasta los avellanos a buscar el lecho de las fogatas. Sabíamos que en la cima los había anchos como un prado. Pero un día Gosto se jactó de que de chico su abuelo se había escapado de casa y andando por el valle había subido tan alto que desde allá arriba veía el mar.
+A nosotros el valle nos llevaba hasta un viñedo casi llano, cercano, todo rodeado de ojaranzos. Qué hacíamos allá hasta la noche, no lo sé. Mirábamos las puntas de los árboles. Yo le decía a Gosto que en el mar no encienden fogatas, porque el mar es llanura, y tumbado en la hierba me aburría mirando las nubes. También había grillos en aquel viñedo, y me hubiera gustado ser uno de ellos para quedarme de noche y encontrarme allí por la mañana. Con las primeras luces cuando el sol está aún frío. El sol, en nuestra tierra, despunta por detrás de las colinas bajas desde donde el abuelo de Gosto había visto el mar cuando era chico.
+Que el mar estaba por aquella parte, se lo había dicho yo a Gosto. Los días de temporal por allí se abría el cielo y el sol volvía a brillar como sobre un gran campo de flores, mientras donde estábamos nosotros aún caían gotas. Yo el mar me lo he imaginado siempre como un cielo sereno visto detrás del agua. La carretera que baja hacia aquellas colinas no es un camino rural; lleva lejos del valle, a una llanura que desciende sin parar, que tiene árboles que parecen jardines. Ya en el recodo, después de la desembocadura del valle, después del puente de hierro, está la casita de la Piana, que tiene un balcón con geranios. Allá abajo ya no hay viñas, ni bosque, ni establos; de allí no suben carretas tiradas por bueyes, sino birlochos a todo correr y comitivas con sombrillas.
+Toda la noche de San Juan, Gosto había estado dando vueltas por el pueblo y yo no había podido ir, porque en nuestra casa se disfruta de las fogatas desde la terraza. Gosto me esperaba abajo, en el camino, y nos señalamos gritando las fogatas más lejanas y más grandes. Pero después pasó la música que iba hacia el pueblo, estaban todos, incluso Candido, y yo me agarraba a los barrotes y los llamaba. Candido se paró a saludar a mis hermanas y a bromear. Después se pusieron en fila tocando y Gosto con ellos; se marcharon a la plaza y durante toda la noche se oyó el clarinete de Candido y trombones y guitarras y canciones a voz en cuello, especialmente de mujeres. Nos fuimos a dormir cuando las últimas fogatas se apagaban en las colinas negras, y en la cama lloraba de rabia, pero las voces dispersas de los borrachos y de los perros me hicieron pensar en mi viña del valle y en los birlochos y las colinas que al día siguiente vería de nuevo a voluntad.
+En cambio, al día siguiente no fuimos más allá de los avellanos, y la abuela de Gosto me ponía como ejemplo. Gosto se reía. En mi casa me decían que tomase ejemplo de él, que, solo en el mundo con su abuela, representaba a la familia entera. De nada sirvió contar entonces las cosas que habíamos hecho en el colegio de Alba. No me creían. Decían y dicen que Gosto es más hombre que yo. En mi casa no saben las conversaciones que tiene.
+De momento, la idea del mar se me ocurrió a mí, no a él. Gosto no sabe lo que es ponerse delante de una casa y mirarla hasta que no parece una casa. Gosto es tan libre que hace todo lo que le dicen, pero él solo no llega a nada. Todavía ahora no me quiere creer cuando le digo que la carretera no tiene fin, como no tienen fin las vías del tren, y que de pueblo en pueblo gira mientras hay tierra, sin interrumpirse nunca. Dice que, si fuera así, la gente no dejaría de caminar y todos darían la vuelta al mundo. Y en nuestra carretera habría un constante ir y venir de extranjeros de todos los países.
+—Todos los caminos terminan en el mar —le decía—, donde están los puertos. Allí uno se embarca y se va a las islas, donde vuelven a empezar las carreteras.
+No estaba convencido de que para ir al mar bastase con echar a andar.
+—Hay que saber el camino —decía.
+—Pero el camino ya se sabe. Coges hacia la Piana.
+—¿Estará lejos?
+—Pues tu abuelo lo vio desde las Casas Rojas.
+—¿Cuántos años hace que lo vio?
+Un día fuimos al taller del carretero que nos tomaba el pelo porque no sabíamos andar descalzos. Yo me detuve en el umbral y no vi casi nada en la oscuridad de los hornos, pero oía golpear el hierro y Pietro me preguntó si yo también iba al colegio con Gosto. Y nos dijo que a nuestra edad él ya había cruzado las montañas para ir a trabajar, ¿y qué sabíamos hacer nosotros? Entonces me di cuenta de que no sabíamos hacer nada. En ese momento Pietro había dejado de golpear y Gosto decía:
+—Nosotros hemos nacido con zapatos.
+—Así es —dijo Pietro, sin enfadarse—. Habéis nacido con zapatos.
+Pensé mucho en las palabras de Pietro, y al día siguiente pasamos por el taller para proseguir la conversación. Pietro no se había movido del horno y nos dijo que no le tapásemos la luz.
+Ese día nos contó que de joven había trabajado de cerrajero y él y su amo viajaban buscando trabajo en los corrales y llevando consigo hornillos y carbón. Para pasar las montañas habían tenido que ponerse alpargatas. Después habían trabajado en las minas de carbón, tan lejos que para regresar tuvieron que coger el tren. Al contarlo se acercó a la puerta y miró a la plaza.
+—¿Y el mar, Pietro, lo viste? —le preguntó Gosto.
+Entonces nos dijo que había estado en Marsella y que allí el mar lo tenía delante de la puerta. Miró a la plaza donde daba la sombra de la casa y añadió:
+—Como si estuviera aquí en la plaza. Hay movimiento día y noche. Más que en el mercado grande.
+Escupió en el sol y volvió adentro.
+Le preguntamos cómo era la orilla del mar, pero no lo sabía o no entendió lo que queríamos. Dijo, sí, que el agua es verde, y está siempre movida y hace continuamente espumas, pero dentro no había estado nunca y no sabía cómo era la tierra vista desde lejos. Nos contó que los buques tienen un color entre rojo y negro y que en el puerto hay un olor como el de las estaciones. Dijo que en un puerto se carga y descarga más carbón en un día que carros de uva en todas nuestras colinas. Y los marineros, hasta los extranjeros, van vestidos como nosotros y no tienen otra idea que regresar a casa.
+—Es duro el mar —decía—. Hay que nacer descalzo.
+Llegó el mes de agosto, entre la primera y la segunda cosecha, cuando en el campo no se hace ya nada y el día dura aún el doble que la noche. Ocurría que me iba a la cama cuando fuera era por la tarde y oía en la carretera, bajo la terraza, reírse a los otros y pasar gente. Por cualquier tontería me mandaban a la cama. Si Gosto venía a buscarme, le decían que era tarde y que llevaba un rato durmiendo.
+De vez en cuando íbamos más allá del Belbo, pero yo me aburría más que en casa, donde por lo menos leía los periódicos. Tenía un armario lleno de ellos. Una tarde, al anochecer, leía en la terraza y Gosto me llamó desde la calle. Gritaba y grité yo también, pero cuando me dijo que escuchara allá arriba, oí voces lejanas, como cuando en septiembre se charla en las viñas. Entonces me di cuenta de que la música, que durante la tarde sonaba llevada por el viento, había cesado. En el Martino celebraban una boda y por la mañana habían regresado del pueblo en coche: Candido, los trombones y los flautines tocaban ya desde la noche anterior.
+—¡Hay fuego! —chilló Gosto.
+Mis hermanas salieron a la terraza y miramos más allá de los árboles. Había tanto sol que no se veía claro, el aire parecía temblar sobre los árboles. Alguien gritó que se oía llorar a las mujeres. De las casas de alrededor habían salido todos al camino, y hablaban, trepaban a los rimeros, las viejas llamaban. Gosto nos gritó que había pasado un mozo empapado en sudor, que corría hacia el pueblo. Por fin vimos el humo, era detrás de la colina, que temblaba como bajo el agua.
+Cuando desde la terraza me gritaron que no me moviera, ya estaba en camino con Gosto y no podían detenernos. Respondí que iban todos, que estaba allí Candido, y que dejaran los periódicos en la terraza. Gosto corría ya pataleando.
+Nunca lo había visto tan rojo y agitado. Cuando detrás del maíz apareció la columna de humo y se oyó el crepitar de las llamas, se puso a mugir haciendo el toro.
+—¡La fogata! ¡La fogata! —gritamos a un tiempo.
+Pero después me callé, por consideración a los dueños; en cambio, él se coló en aquel corral chillando y dando patadas a las cosas y, si no lo detienen, hasta se hubiera metido en la casa.
+El patio estaba lleno de cosas arrojadas por las ventanas y las puertas, y en medio correteaban los conejos. Muchas mujeres sacaban fuera más cosas; una, por culpa de un grueso colchón, no podía pasar por la puerta. Nadie hablaba; se oía solo el ruido de las llamas en los heniles, y una voz de vez en cuando que daba una orden.
+Por suerte el viento se llevaba el humo y las chispas hacia el viñedo. Hacía un calor abrasador, y los tres o cuatro que sacaban baldes de agua del pozo, antes de entregárselos a los chicos que corrían metían dentro la cara y se remojaban. Gosto andaba ahora entre las mesas aún puestas bajo los nogales y me hacía señales de que fuera yo también a servirme. Yo conocía a casi todos en aquel corral, y reconocí a la novia: vestida de rojo, estaba sentada en una silla, al sol, con los zapatos y las medias finas, y miraba al corral con aire de soberbia, como si la cosa no fuera con ella. Era como si llorase y como si nadie debiera decirle nada. Hablaban bajo los nogales llamándose, y me vieron y preguntaron quiénes éramos Gosto y yo; parecía el domingo cuando pasaban bajo la terraza para ir al pueblo. Alguien, sentado, comía. De detrás de la casa salían los hombres descamisados y sudorosos —el novio blasfemando— y se servían un vaso, decían algo, se daban palmadas en el cuello para aplastar las moscas. Antes de la noche fui también yo a ver las llamas. La casa, por detrás, estaba despanzurrada, el establo y los heniles humeaban abiertos y despedían un calor insoportable. Allí encontré a Candido, que con un horcón esparcía heno negro. No dijo nada, me guiñó el ojo sin reír y me hizo señas de que me fuese.
+En el corral proseguían las conversaciones. Ahora, hombres y mujeres, los dueños, la novia, estaban todos juntos bajo los nogales, y unos lanzaban exclamaciones, otros callaban, alguien daba una patada a una azada. Gosto y yo dimos vueltas por el corral, mirando las camas, los armarios, los enseres rotos y tirados. Ahora ya había comprendido que las malas caras, el susto, la ansiedad de aquella gente iban más allá del incendio, eran acusaciones, habladurías, mala sangre.
+—No podía casarme y vigilar el establo —gritaba el novio, todavía con el pañuelo de seda al cuello.
+—Si en vez de escuchar la música...
+—Pues la música la quiso la moza... —decía entre dientes una vieja.
+Vi a Candido asomar por detrás de la casa, y entonces se callaron y empezó otra conversación sobre la paja que quedaba.
+Por la reja de la cocina se veían las habitaciones vacías, reventadas, al fondo. En las paredes quedaban las marcas de los muebles y colgaban aún guirnaldas de papel. Fuera, los chicos gritaban persiguiendo a los conejos. Una mujer descalza que entró a la carrera en la cocina escapó diciendo que el suelo quemaba.
+Que era tarde, ya lo sabía. Gosto me dijo que, antes de la noche, tenían que atrapar a los animales que habían escapado al abrirse los establos. Bajo los árboles, discutían sobre el modo de hacerlo. Se distribuyeron en cuadrillas, excluyendo a las mujeres. La novia tenía que ir a dormir esa noche a la Piana, pero antes de cruzar los arenales del Belbo comieron algo, y hubo una mesa de más de veinte. Mientras tanto, Candido y los otros recogían a los animales en el campo. A nosotros, los chicos, nos prohibieron movernos: un buey quemado podía corneamos. En el aire fresco los oímos gritar, a Candido y los suyos, por encima de las viñas.
+Mientras Gosto hurgaba en el patio yo anduve bajo los nogales, y escuchaba a las mujeres que tenían que ir a la Piana. Por la Piana pasa el camino de las colinas; al otro lado de las colinas, es cuestión de tiempo, está el mar. Bastaba con mirar entre los troncos de los nogales, todo el valle desciende hacia allá abajo. Pasada la llanura del Belbo se llega a otros pueblos.
+Yo daba vueltas debajo de las plantas y una de las mujeres, Clelia della Piana, me llamó y me dijo si no iba a cenar con la novia. Vi a Gosto, ya sentado, que comía él también. Me dieron carne, embutido, buñuelos. Comí poco pero tomé vino y le dije a Gosto al otro lado de la mesa: «¡Salud!».
+La novia, Clelia y otras chicas hablaron conmigo y con Gosto. Me preguntaron por mis hermanas, me preguntaron por qué no habían ido a la boda. Una vieja dijo que nosotros los del pueblo éramos soberbios.
+—Hemos venido nosotros por ellas —dijo Gosto, con la boca llena.
+—¿Saben que estás aquí? —me preguntó Clelia, riendo.
+Cuando salimos hacia la Piana estaba oscuro. Dos o tres de los músicos de Candido nos acompañaban. Nosotros marchábamos en medio de ellos y de las mujeres. A medio camino se hizo de noche. Cuando desembocamos en la carretera, sonó la guitarra y las chicas empezaron a cantar, cogiendo del brazo a la novia. Mozos y mozas se habían rezagado de la comitiva y se oía reír y llamarse por los arenales blancos, al otro lado de los prados. Yo caminaba al lado de Gosto y le dije:
+—Esta noche es la buena.
+—Tienes razón —contestó él, corriendo.
+No todos cantaban; había parejas de muchachas que avanzaban hablando; había alguno que iba y venía de un grupo a otro, como los perros. Yo me quedaba junto a Clelia, porque me gustaba oírla cantar.
+Delante de la granja la novia volvió a llorar, porque el marido en vez de ir a dormir trabajaba hasta por la noche. Todas, las viejas y las jóvenes, exclamaron que tuviera paciencia, que el novio estaba atrapando los bueyes, que pronto regresaría. Clelia y los otros la acompañaron dentro, entraron en el patio; los músicos —guitarra y flautín— empezaron la serenata. Del henil llevaron una lámpara.
+Entonces nos quedamos en la carretera, entre la oscuridad. La casa de los geranios estaba en el recodo, a unos cien pasos. Le dije a Gosto:
+—Si nos ven ahora nos mandan a casa.
+—Estás loco —dijo él.
+—¿Nos vamos?
+Echamos a andar. Con tanto como habíamos pensado en aquel viaje, partíamos de noche, de improviso. Gosto se lamentó después de que había sido la cena de la novia lo que lo decidió.
+—Encontraremos otros incendios y otras novias —decía mientras tanto.
+Yo sabía que en mi casa era ya como si hubiera escapado.
+Esa noche estaba tan oscuro que se veían solo las estrellas. Apretamos el paso como si nunca hubiéramos hecho aquel camino. Gosto estaba aún alegre por el vino, porque hablaba del incendio, y reía y bailaba por la carretera.
+—La gente como nosotros —decía— tendría que andar siempre de bodas.
+Al hablar no seguía mi paso. Se paraba de vez en cuando para llamarme.
+—Si el Martino se quemara esta noche ya verías qué fogata.
+Pero cuando los árboles se cerraban sobre la carretera, también él caminaba más ligero. No es que tuviéramos miedo. No dejábamos de hablar. Nos reíamos. Junto a la casa de los geranios, Gosto se puso a cantar, a gritar, como si conociese allí a alguien. A lo lejos, a nuestras espaldas, cantaban aún. Le dije que se callase y él dio una última voz:
+—¡Fuego, Clelia!
+Miré en la oscuridad casi sin respirar, porque ahora comenzaba el camino y el aire estaba perfumado. Gosto corrió delante.
+La carretera seguía la pendiente con un recodo, y al cabo de un rato ya no hubo por la parte del despeñadero árboles que nos dieran miedo. El borde de la carretera daba al vacío, sobre la llanura del Belbo, que a la luz de las estrellas se veía negra. Y también las laderas labradas, que de día son amarillas, parecían pozos. Nos detuvimos a mirar aquel vacío. Allá arriba era como si el viento atizara las estrellas.
+—Cuántos fuegos esta noche —dijo Gosto—, ¿cómo quieres que no haya incendios?
+—Idiota. Es Cassinasco.
+—Escuchemos a ver si se oye gritar.
+Se oían los grillos. Reanudamos el camino. Pero Gosto insistía en que allá había fuego.
+—Quiero ver un incendio de noche —farfulló, y luego gritó, y echó a correr.
+Entonces corrí detrás de él por la carretera en cuesta, y cuanto más corría más gritaba él, hasta que llegamos a otro recodo y allí se vio de nuevo, como un salto en el vacío, la llanura y a mucha distancia un cielo negro de colinas.
+—No grites —le dije—, que nos oyen.
+Aguzamos el oído por si la serenata había acabado, pero esta vez estábamos solos con los grillos. Hasta Gosto dejó de estar borracho y comprendió que gritar daba miedo.
+Ahora, tumbado en la hierba, quería detenerse, y yo le dije que debíamos llegar a las casas, al menos a los Robini, para encontrar un pajar. En ese momento cantó el gallo, quién sabe dónde.
+—Ya ves —le dije—. Llega el día y nosotros aún estamos aquí.
+Tampoco Gosto sabía que cantan toda la noche. Desde ese momento empezamos a descender, mirando a nuestro alrededor por si despuntaba la luz. Queríamos llegar antes del día a las colinas de enfrente. Pasamos los Robini, pasamos otros villorrios; bajo las estrellas apenas se veía la oscuridad de la campiña, pero se notaba por el olor.
+Esa noche duró quién sabe cuánto, y no había que retroceder. Hacía rato que habíamos bajado a la llanura y caminábamos entre jardines y chalets. Antes, sobre la colina, se oían los cantos de los gallos. Ahora hasta Gosto se tambaleaba y no me respondía. Cada vez que al fondo del camino se cerraban los árboles, yo lo miraba y me parecía que estaba solo. Sabía que solamente la luna podría ayudarnos. Pero ¿saldría la luna? Era ya muy tarde. Me pareció que los grillos ya no cantaban. Sabía que antes de amanecer debía levantarse el viento, pero todo estaba callado, plantas y carretera.
+Lo peor era que, en la oscuridad, con Gosto que se dormía de pie, me daba por pensar en mi casa. Y pensaba en la noche de las fogatas cuando todos andaban por la carretera y yo estaba en la cama. Tenía razón Gosto, se necesitaban incendios y bodas para escapar como habíamos hecho nosotros. Lo pensé tanto, caminando en la oscuridad, e imaginándome que a cada recodo llegaríamos a la orilla del mar, que cuando después nos paramos y bajamos hasta un puente para dormir a cubierto, me parecía que el mar debía de existir solo de noche. No se lo dije a Gosto, porque estas cosas si se dicen no valen nada; pero cuando nos despertamos debajo del puente, con el sol, y fuera de la arcada se veía el agua correr bajo los árboles, me di cuenta de que también el Belbo iba hacia el mar y de que la arena donde habíamos dormido era una playa.
+Bajo aquel puente encontramos a Rocco. Gosto, que se despertó antes que yo, lo encontró lavándose los ojos. Después traté de saber si había estado ya cerca de nosotros en la oscuridad y había oído algo que yo le decía a Gosto al dormirnos, pero no lo conseguí. En el tiempo que tardamos en mirar a nuestro alrededor, Rocco nos preguntó solamente si veníamos de lejos, y Gosto le dijo que se nos había quemado la casa. Después me susurró que Rocco no nos había visto nunca y no nos conocía, ¿y qué importaba?, bastaba con salir de allá abajo, pero Rocco nos vino a la zaga y trepaba con más agilidad que nosotros.
+Inmediatamente después del puente había una avenida de plátanos, y por esa avenida se acercaba a nosotros un birlocho tirado por un caballo trotador que llevaba la cabeza al sesgo, como si jugase. Detrás de los plátanos se veía a dos pasos la colina, una hermosa colina del color de la uva blanca, y baja. Me detuve, le dije a Gosto que dejase pasar delante al tal Rocco; quería acordarme de una cosa. Durante un rato miré entre las hojas de los plátanos, escuchaba sin volverme el trote del caballo alejarse, y me parecía que aquel eco, aquel sol, la colina baja, los había visto, ya había estado allí una vez. Gosto me esperaba cerca, entre los plátanos; más allá, el viejo Rocco se alejaba con sus andrajos y su cayado, sin siquiera volverse hacia atrás.
+—Se ha marchado —dijo Gosto.
+Al final de los plátanos estaban los primeros chalets de Canelli, y entramos mirando a nuestro alrededor. No sé por qué no íbamos por la acera, sino por el centro de la calle. Así todos comprendían que veníamos de fuera. Gosto hablaba sin parar, no sabía que a esas horas es bonito mirar. A mí me gustan los balcones y las terracitas sobre las callejas, porque flores como las que tienen en Canelli nunca las había visto. Miraba a todas partes, miraba a la gente que iba y venía. En la plaza encontramos una fuente como la de Alba, y corrimos a beber; Gosto llegó el segundo y me daba patadas, pero yo bebiendo gritaba que él había bebido ya demasiado vino con la novia.
+—Por eso tengo sed —decía él, y en ese momento oí de nuevo la voz de Rocco.
+Había abierto su hatillo sobre el banco, y se desataba una suela para cambiarse la pieza. Hablaba solo y decía que no hay que malgastar el agua.
+—Total, está corriendo —dijo Gosto—. La plaza es de todos.
+Entonces Rocco no contestó y acabó de atarse la suela. Luego se levantó, se mojó los dedos en la fuente y se los secó en la pieza sucia. Hacía como las mujeres cuando han comido melocotones. Volvió a sentarse, abrió el hatillo y sacó pan y anchoas.
+—Regresad a casa —farfullaba—. Regresad.
+—Vámonos —le dije a Gosto—. Comeremos en Cassinasco.
+—¿Cómo se las ha arreglado para saber que nos hemos escapado? —gritó Gosto, cuando estuvimos al fondo de la plaza.
+Entonces le dije que había sido él quien debajo del puente charló sobre el fuego y la novia.
+—¿Qué te crees? Los vagabundos saben mucho.
+—Teníamos que habernos marchado en septiembre —dijo él—. Sin uvas, dime cómo nos las arreglaremos para comer.
+—Basta con llegar a Cassinasco. Luego, veremos.
+Pero, en cambio, volvimos junto a Rocco, para ver qué hacía, sin apartarnos de la acera. En la plaza el sol picaba y Rocco no podría quedarse mucho tiempo. Lo vimos acabar de comer su pan, y después, mientras se levantaba, unos muchachos de Canelli llegaron a la fuente y empezaron a salpicarse con agua. Él los hizo estarse quietos para beber. Luego cruzó toda la plaza y dobló la esquina.
+Fuimos tras él, a la carrera, y Gosto, contento, se divertía como en la carretera. También a mí me gustó el juego, tanto más cuanto que Rocco salía del pueblo e iba en nuestra dirección. La colina estaba al fondo, baja, y parecía que la tocábamos. Rocco no se volvía. Cuando estuvimos a su altura, Gosto le dijo:
+—Hola, padrino.
+Rocco no se asombró. Cuando Gosto le dijo que viajar de noche era más fresco, respondió que eso no era cosa de listos porque, al no ver dónde se ponen los pies, se agujerean los zapatos. Pasamos bajo la colina que antes teníamos enfrente. Rocco se desvió por un caminito que subía a un cerro de vides, y Gosto detrás. Yo me detuve.
+—Ven con Rocco —dijo Gosto—. No sabes adónde vamos.
+Para no estropear la mañana los seguí. Pero cerros así los teníamos también en casa. Gosto saltaba en torno a Rocco contándole que había habido un incendio descomunal y que todas nuestras bestias habían muerto en el establo. Y le dijo que nos habían echado de casa porque había que sacar la cuenta de los daños.
+—Se diría que vamos a Santa Libera —dije a Gosto.
+—Esta es la viña del párroco —explicó Rocco, parándose. Y alzó el cayado.
+No se veía más que el cielo y un gran árbol de higos blancos en la primera hilera. Gosto dijo:
+—Ahora.
+Saltamos los espinos y empezamos a cogerlos.
+—No comas —le dije—, los comeremos después.
+Mientras Gosto subía al árbol, me volví y no vi ya a Rocco.
+—Ten cuidado, que la higuera es traicionera —dije quedo.
+Para comerlos, continuamos por el caminito hasta que encontramos un buen sitio. Y nos habíamos sentado ya en la hierba cuando vimos el cayado de Rocco y después a él, esperándonos.
+—Hay que dejarlos secar —nos dijo—, para comerlos este invierno.
+Como si los estuviera comprando nos escogió de dos en dos un puñado de los mejores, y Gosto se los puso debajo de la nariz.
+—Yo le llamo robar a guardar las cosas —rezongué.
+—Eres tú el que ha robado —me dijo Rocco.
+Esa mañana terminó al llegar a la casa de Rocco. Era un muro de piedras que daba al valle, detrás de la colina. No había corral, no había nada. Se ve que Rocco vivía allí de caridad. Le preguntamos si tenía tierras.
+—No es necesario —respondió él, deteniéndose.
+Al ver la casa, Gosto medio enloqueció, y dijo:
+—Mira qué bonito es.
+Y le preguntó si vivía allí también en invierno. Rocco nos dejó entrar en la habitación, que estaba llena de calabazas, de ristras de maíz, de manzanas puestas a secar y de montones de hierba. Olía a corral y a cosecha. Rocco, junto a la ventana, había dejado el hatillo y aplastaba los higos. Hizo con la mano un gesto de viejo y dijo:
+—Es mío.
+Ahora resultaba difícil llevarse a Gosto de allí dentro. Y fuera el sol calentaba. Me dijo que hasta que no se comía no llegaba la tarde y que teníamos tiempo.
+—No hay color —dijo—, es estupendo quedarse aquí. Cuando queramos nos vamos a Canelli. Podemos pescar en el Belbo.
+—Pues sí que valía la pena viajar de noche —le solté— para pararnos a pescar en el Belbo. No estoy de acuerdo.
+—¿No estás de acuerdo?
+—Pues no.
+—Estamos a tres horas de casa —dijo—. Cuando queramos, regresamos.
+—Entonces, ¿ya no quieres venir conmigo? —le pregunté seco.
+Gosto no me respondió y se encogió de hombros.
+—Yo me voy —dije.
+En ese momento apareció Rocco y nos mandó que fuéramos a recogerle hierba allá abajo. Esta vez fui yo el que me encogí de hombros y Gosto dijo:
+—¿No nos da de almorzar?
+—Primero la hierba para los conejos —contestó Rocco.
+Entonces bajamos al valle a recoger hierba. Gosto corría por el prado y se daba revolcones, pero yo le dije y le repetí:
+—Esta noche estaré en Cassinasco.
+—A decir verdad, no es necesario —replicó él—, ¿para qué quieres subir allá arriba? Total, desde allá no ves el mar.
+Yo sabía que el mar no se ve desde allá; lo había sabido desde que creíamos en las Casas Rojas, pero con Gosto nunca lo había comentado. Cuando el saco estuvo lleno, volvimos junto a Rocco, que nos dio unos trozos de pan y nos dejó que los untásemos con ajo. Él metió el suyo en agua con sal para hacerse unas sopas.
+—Hoy —anunció Rocco— quiero desgranar el maíz.
+Gosto llevó la conversación sobre la colina de Cassinasco y le preguntó qué se veía desde allí. Rocco nos dijo:
+—El campanario de Bubbio.
+—¿No acaban las colinas?
+—¡Huy! —exclamó Rocco—, empiezan entonces.
+—Después está Niza —dije—. Usted, padrino, que ha viajado —terció Gosto—, ¿no ha visto el mar?
+—¿Qué mar? —preguntó Rocco—. ¡Qué va!
+Me largué, esa tarde, con Gosto que me seguía y gritaba que me detuviera.
+—Rocco nos ha dado de comer —decía—, por lo menos desgranemos el maíz.
+Llegamos junto a la higuera.
+—Oye —le dije—. Para coger hierba de los conejos no valía la pena escapar de casa. Había que pensarlo anoche. No podemos regresar.
+—Pero la culpa es de aquel fuego —replicó él.
+—Idiota —dije entonces—. Esta noche bien que buscabas otros.
+Cruzamos Canelli y nos separamos en la plaza.
+Gosto se marchó de veras. Cogió la avenida de los plátanos trotando como un caballo. Yo desandé el camino de antes y salí corriendo del pueblo, por miedo a los muchachos de Canelli, que la tienen tomada con nosotros. Pero esta vez me adentré por el camino cuesta arriba, y al volverme a mirar la plaza, me alegré de encontrarme solo.
+Ahora ya no me importaba si desde Cassinasco no veía el mar. Me bastaba con saber que el mar existía, después de cuestas y pueblos, y con pensar en eso caminando entre los setos. Lo pensé toda la tarde, porque la colina es casi llana y alguien que la mira cree siempre que está llegando y nunca llega. En cada recodo se veían azoteas, jardines y balcones, y yo al principio los miraba, especialmente las plantas que tenían unas hojas o un color nunca vistos. Aquella era una hora en la que no pasaba nadie, solo algún birlocho. Deteniéndose, al otro lado del seto se notaban las viñas y se veían las cañas: esto es lo hermoso de Canelli. Parece estar lejos, en un país distinto, y la colina ya no es colina, hasta el cielo es más claro, como cuando hace sol y llueve a un tiempo, pero el campo lo labran y tienen uva como nosotros.
+Llegué bajo los pinos de Cassinasco al atardecer, a una hora en que Gosto debía de estar ya en casa. Hice el último tramo sin pensar en nada; había un seto de zarzas que tapaba la vista. Por la carretera de la cresta iban y venían mujeres y campesinos; el sol me daba en la espalda, y mi sombra caía sobre las zarzas. Las casas de Cassinasco eran pequeñas y negras, pero bañadas por el sol como una iglesia. Por fin desemboqué allí. Vi otra colina, y el cielo vacío.
+Me quedé mirando mientras duró el sol. Al mirar pensaba en lo que Gosto diría en casa, y en la cena que comería. Quizá Gosto estaba aún de camino y en casa creían que estábamos muertos. Me tendí en la hierba como hacía en la viña de los avellanos, y me refresqué mirando al cielo. No sentía hambre: me parecía que llevaba en la cama un rato. Dormía.
+Dormí de veras, y me desperté cuando era de noche. Soñaba con el incendio y oía gritos, voces como si me llamaran. El cielo estaba lleno de estrellas y creía que Gosto estaba bajo los árboles. Pero estaba solo, y las plantas a pocos pasos de mí se balanceaban con un reflejo rojo que aclaraba toda la carretera.
+Por la carretera pasaba gente hablando y llamándose, e iban hacia la fogata que había en un prado al otro lado de los árboles. Era una fogata enorme que llenaba la oscuridad y, en los momentos en que la gente estaba callada, se oía arder y restallar. Corrí también yo hacia el prado; había muchachos que bailaban y se revolcaban, y los hombres echaban leña y haces desde más de cinco pasos, porque no podían acercarse por el calor. Yo grité:
+—Gosto, Gosto.
+Duró más de dos horas. Y en toda la colina de Cassinasco encendían otras, pero la nuestra era de las mayores. Con aquellos muchachos de Cassinasco las conté, y me dieron puñetazos en la espalda porque confundía las fogatas con las luces de las granjas.
+Luego corrimos a ver quién lograba llevarse una rama encendida del montón. Un mozalbete que me vio a la luz de la llama, me preguntó:
+—¿Quién eres?
+Pero le dije que nosotros por la noche de San Juan hacíamos venir música y tocábamos toda la noche.
+—No te preocupes, la fiesta es mañana —me dijeron—. También nosotros tenemos música.
+Desde la carretera se oía de vez en cuando una voz que chillaba de susto. Corrían los hombres y empezaban a reír, porque allí los esperaban las mozas. Un hombre me agarró mientras estaba a punto de coger una rama.
+—Estás loco —me dijo—, ¿y si te caes al fuego?
+Él, en cambio, me arrebató la rama y corrió en la oscuridad con los otros, y la echaron encendida a la carretera. Se oyó un gran griterío y una voz de mujer, y después risas y se liaron a puñetazos. Si estuviera aquí Gosto, pensaba. La llama llegaba tan alto que se aclaraba el valle.
+Quién sabe si la verán desde el mar, me decía; y cada vez que alguno echaba un haz, miraba hacia abajo, hacia el valle, por si al menos el Belbo brillaba. Tenía muchas ganas de sitios al aire libre entre los árboles, y de bailar y ver desde allá arriba los alrededores.
+Desde el pueblo se oía de vez en cuando que alguien empezaba a tocar, aunque no era una banda como la de Candido; parecía solo que probasen el resuello. La fogata
+comenzó a convertirse en brasas, y todos dijeron que se iban a beber. Los muchachos nos quedamos a revolver los tizones y a sentir la reverberación, y me hice amigo de uno que se llamaba Maurizio y parecía de mi edad, aunque en la oscuridad no lo distinguía. Me dijo que venía de los bosques, en carro, con todos los suyos, para ver la fiesta, y que esa mañana se había puesto zapatos.
+Maurizio nos hacía reír cuando decía que los zapatos le desollaban los pies. Esa noche lo perdí, porque corrí al pueblo con los demás a oír la banda que tocaba, y nos paramos a la puerta de la taberna, que estaba llena de gente. Los músicos eran tres, pero bajo techado no se podía estar, del ruido que hacían. Pasé la noche en la plaza y junto a la puerta, y veía el vino derramado en las mesitas. Pedí de beber y me dieron agua. Había quedado con Maurizio en dormir en la paja de su carro, pero él no me había esperado.
+Cuando se hizo de día llevaba ya un rato dando vueltas al lecho de la hoguera, y se oían cantar los gorriones y no lograba coger el sueño. Las matas se volvieron rosadas, después rojas, y por fin despuntó el sol detrás de la colina. Yo sabía una cosa: que el sol había encendido así también el mar. Las cenizas de la fogata eran blancas, y pensé riendo que en casa en ese momento encendían el fuego. Pero tenía hambre, tenía hambre y los huesos molidos.
+Anduve toda la mañana por los caminos de la cresta, mojándome los pies en la hierba, y comí moras. Entre los árboles veía la punta de la otra colina, al igual que desde casa se veía Cassinasco. En el pueblo, como en todos los pueblos, eran unos zafios. A la puerta de la taberna había salido una criada que, en vez de escucharme, había tirado un cubo de agua.
+Si encontraba a Maurizio, comería. Pero ¿cómo encontrarlo si solo lo había visto a la luz de la llama?
+Así, salí del pueblo, porque los aldeanos son los mismos en todas partes. Pero no había ni un árbol que estuviese maduro, y las manzanas crecían demasiado cerca de sus casas. Desde las ventanas me veían. Por todas partes se oía hablar y aparecía gente.
+Entonces me tumbé en la hierba, en la cuneta de la carretera, para que me encontraran ellos y comprendieran que estaba muerto de hambre. ¿Qué hago?, me decía, y también esta vez me amodorré.
+Me despertó el sol que quemaba, y un ruido más fuerte. Era una cigarra en un árbol. Por la carretera ya no pasaba nadie y se oían las voces en el pueblo. Parecían llegar de la colina de enfrente, con el viento.
+Fue entonces cuando pensé en bajar a Cassinasco, donde había visto aquellas cañas al llegar. Quizá detrás de las cañas habría una higuera. Total, esta noche no llego a casa, pensé, como si estuviera con Gosto. Corrí hacia el pueblo, y apenas había puesto el pie en la carretera cuando vi a Candido venir hacia mí, con su clarinete bajo el brazo.
+—¿Cómo es posible? —dijo deteniéndose.
+—Aquí estoy.
+Lo bueno que tiene Candido es que no me trata como si fuera un crío. Me escucha cuando hablo, y piensa en lo que digo.
+—Y a Gosto, ¿dónde lo has dejado? —me preguntó.
+—Gosto regresó ayer. ¿No lo has visto?
+—Os hemos buscado todo el día en el Belbo. —Me miró con la cara que tenía en el Martino, sin reír—. Ayer te gastamos el nombre.
+Me encogí de hombros y dije que estaba ya en Cassinasco. Entonces Candido miró a la carretera, después miró a la colina. Pasó gente en un carro y le gritaron algo. Él dijo:
+—Buenas noches.
+—¿Cómo? ¿Es ya de noche? —pregunté.
+—Vente conmigo —dijo Candido—. Vamos a ver.
+Primero buscamos el teléfono, y Candido conocía a la chica. Una chica que se parecía a mi hermana. Bromearon un rato, y después le dio la comunicación. Candido mandó que avisaran a mi casa, y mientras esperábamos me dijo que él tenía que tocar en el baile toda la noche.
+—¿Quieres volver a casa?
+La chica nos estaba oyendo, y le preguntó riendo que cuándo bailaba él.
+—Esta noche no me da tiempo —le dije—. Tardé dos días en llegar aquí.
+—Conque sabes el camino —replicó Candido, y comprendí que no hablaba claro para no avergonzarme delante de la chica.
+Por fin sonó el teléfono y Candido habló primero.
+—Han venido todas —me dijo.
+Gritó que estábamos en Cassinasco y ellas no lo entendían, y cuando tuve que hablar yo me entraron temblores. No me regañaron; preguntaban dónde había dormido,
+exclamaban, se pasaban el teléfono y querían que me fuera a casa enseguida. Me dio casi un ataque al corazón, de la rabia de que la chica comprendiese. Pero ella hablaba con Candido. Entonces pregunté a media voz:
+—¿Y mamá?
+—Estúpido, mamá te espera.
+Respondí que regresaría con Candido, que estaba con él. Quisieron hablarle de nuevo, pero en ese momento se interpuso otra voz y dijo que la comunicación había terminado.
+Entonces grité:
+—Regresaremos mañana.
+Y colgué deprisa.
+Fuimos a cenar a una casa un poco alejada del pueblo, donde había ya otros músicos en el patio; todos conocían a Candido y lo esperaban. El patio de la casa, cubierto de parras, daba a la colina de enfrente. En la cocina todos iban y venían, y había un fuego que parecía una fogata. Candido dijo que yo no comía desde el día anterior, y las mujeres, espantadas, me dieron en un plato pan y uvas tempranas. Querían saber qué había hecho, pero con la boca llena no se puede hablar. Me había sentado sobre el cajón de la leña y desde allí sentía el fuego y el olor de la carne que se freía y el retumbar de las tablas donde amasaban. Por la puerta se veía la colina y un poco de cielo, y no había nada más hermoso que pensar que ahora estaba con Candido, había hablado con los míos y nadie sabía que allá abajo estaba el mar. La colina parecía una nube. Bastaba con cerrar un poco los ojos y quedaba solo el tronco de aquella parra.
+—No comas demasiado —dijo Candido—. Luego hay cordero.
+Entonces salimos al patio, donde los hombres bebían charlando. Bebían en pie, y era como si estuviera bajo los nogales del Martino.
+—¿Agarrasteis a los animales? —pregunté a Candido.
+—Dos se escaparon al otro lado del Belbo —contestó él con cara de zorro.
+Entonces, mientras los músicos lo llamaban, le dije que Gosto era idiota porque quería quedarse con un vagabundo del Belbo que nos mandaba a recoger hierba. Él dejó que se lo contase y luego dijo:
+—Venir de fiesta a Cassinasco es muy poco. ¿Qué esperabas encontrar? De aquí no se va a ningún sitio. —Pero sin esperar a que le contestase, miró a los otros y me dijo—: Hay que ser decidido. Yo también hago lo que tú, algunas veces.
+Ahora toda la gente que estaba en el patio esperaba que tocasen. Candido se puso en el centro con el clarinete, y a mí siempre que alarga los labios para empezar me gusta porque se pone más serio que nunca. La voz del clarinete es la más bonita y guía a las otras. Candido aprieta bajo los bigotes la lengüeta y mira al suelo, pero él es quien guía, manda con los ojos. Durante todo el tiempo que tocaron no se oyó una palabra, y la música llenaba el patio. Después, de golpe, fue Candido quien sacudió la cabeza, alzó la boca del clarinete al cielo y se pararon.
+Aquella noche comimos como los recién casados, yo junto a Candido, y una mujer le preguntó a voces si era su hijo. Pero todos sabían que Candido es joven y que solo le gusta tocar, y se reían. Una cosa que tiene Candido es que bebe poco, y me decía que no bebiera porque después ya no se entienden las conversaciones.
+—Tienes que conservar la cabeza. Eres alguien que estudia —me dijo también esta vez.
+Pero yo quería estar alegre esa noche, y bebía con los demás. Seguimos bebiendo en el patio, cuando salimos al fresco. Bebimos y comimos uvas. Yo miraba a la colina oscura, donde ya no había ni una fogata, y me parecía haber nacido en aquel patio, haber estado con Candido siempre allá arriba.
+Él se dio cuenta de que tenía sueño, y me dijo que me fuera a dormir. Casi nos peleamos, pero todos decían que la cama estaba preparada y que total en el baile me aburriría. Respondí que no era por el baile, pero quería esperar a la madrugada. Candido me dio la razón y un momento después me llevaron a la cama porque me caía de sueño.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

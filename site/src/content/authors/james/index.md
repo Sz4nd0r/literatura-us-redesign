@@ -7,4 +7,239 @@ tags:
   - index
   - james
 ---
-¿Quién es Henry James? ![Henry James](/assets/images/hj.jpg) Henry James es uno los más grandes novelistas en lengua inglesa. Narrador, ensayista y dramaturgo, James es una figura clave de transición entre el realismo (Balzac, Stendhal, Flaubert) y el modernismo (Dostoyevsky, James Joyce, Virginia Woolf). James nació el 15 de abril de 1843, en la ciudad de Nueva York, Estados Unidos. Sus padres eran Henry James (padre), un profesor y filósofo que había heredado medios independientes de su padre, un banquero e inversionista de Albany, y Mary Walsh, de una familia adinerada que se había establecido en la ciudad de Nueva York. La familia primero vivió en Albany y luego se mudó a la ciudad de Nueva York cuando James todavía era un niño. Su educación fue calculada por su padre para exponerlo a muchas influencias, principalmente científicas y filosóficas, aunque no compartía la educación habitual en los clásicos latinos y griegos. Entre 1855 y 1860, la familia de James viajó a Londres, París, Ginebra, Boulogne-sur-Mer y Newport, Rhode Island, según los intereses actuales de las empresas editoriales del padre. Sus estadías más largas fueron en Francia, donde Henry aprendió francés. En 1860 la familia regresó a Newport. Allí Henry se hizo amigo del pintor John La Farge, quien lo introdujo en la literatura francesa y, en particular, en Balzac. En el otoño de 1861, Henry recibió una lesión, probablemente en la espalda, lo que hizo que no fuera apto para el servicio militar en la Guerra Civil Norteamericana. En 1864, la familia James se mudó a Boston, Massachusetts, para estar cerca de del hermano mayor de Henry, William, quien se había inscrito primero en la Escuela Científica Lawrence en Harvard y luego en la escuela de medicina. En 1862, Henry asistió a la Escuela de Derecho de Harvard, pero se dio cuenta de que no estaba interesado en estudiar derecho, y persiguió su interés en la literatura. Su primer trabajo publicado fue una revisión de una representación teatral, “Miss Maggie Mitchell in Fanchon the Cricket”, publicada en 1863. Un año después, “A Tragedy of Error”, su primer cuento, se publicó de forma anónima. El primer pago de James fue por una apreciación de las novelas de Sir Walter Scott, escrita para North American Review. Escribió piezas de ficción y ensayos para The Nation y Atlantic Monthly, donde su amigo James Fields era editor. En 1871 publicó su primera novela, Watch and Ward, en forma seriada, en el Atlantic Monthly. La novela no se publicó en forma de libro hasta 1978. Durante un viaje de 14 meses por Europa entre 1869 y 1870, Henry conoció a Dickens y George Eliot. Roma lo impresionó profundamente. Intentó mantenerse como escritor independiente en Roma, luego consiguió un puesto como corresponsal en París para el New York Tribune, a través de la influencia de su editor John Hay. Cuando estos esfuerzos fallaron, James regresó a la ciudad de Nueva York. Durante 1874 y 1875, bajo la influencia de Hawthorne, publicó Transatlantic Sketches, A Passionate Pilgrim y Roderick Hudson. En 1869 se instaló en Londres. Vivía en habitaciones alquiladas, pero pudo unirse a clubes de caballeros. En el otoño de 1875 se mudó al Barrio Latino de París. Aparte de dos viajes a América, pasó el resto de su vida en Europa. En París conoció a Zola, Alphonse Daudet, Maupassant, Turgenev. Pero tan solo vivió en París por un año, y entonces se mudó otra vez a Londres. En Inglaterra fue un escritor prolífico, escribiendo The American (1877), The Europeans (1878), una revisión de Watch and Ward (1878), French Poets and Novelists (1878), Hawthorne (1879) y varios cuentos. En 1878, Daisy Miller estableció su fama en ambos lados del Atlántico. Ese mismo año comenzó su primera obra maestra, El retrato de una dama, publicado en en 1881. Mientras vivía en Londres, James leía las obras de los “realistas franceses”, en particular Émile Zola. Los métodos estilísticos de Zola lo influyeron en los próximos años. La influencia de Hawthorne sobre él se desvaneció durante este período, reemplazado por George Eliot e Ivan Turgenev. Entre 1879 y 1882 publicó The Europeans (1879), Washington Square (1880), Confidence (1879) y The Portrait of a Lady (1881). Visitó los Estados Unidos en 1882–1883 (un período durante el cual muere su madre; unos meses después murió su padre, y luego murió su hermano Wilkie), y luego regresó a Londres. En 1884 James hizo otra visita a París. James había estado leyendo los escritores “realistas” o “naturalistas” franceses, y cada vez estaba más influenciado por ellos. En 1886, publicó The Bostonians y The Princess Casamassima, ambos influenciados por los escritores franceses. La reacción crítica y las ventas fueron pobres. Su tercera novela de la década de 1880 fue The Tragic Muse (1890). Aunque seguía los preceptos de Zola en sus novelas de los años 80, su tono y actitud estaban más cerca de la ficción de Alphonse Daudet. La falta de éxito crítico y financiero para sus novelas durante este período lo llevó a intentar escribir para el teatro. En el último trimestre de 1889, comenzó a traducir Port Tarascon, el tercer volumen de las aventuras de Tartarin de Tarascon (1872) de Alphonse Daudet. Publicada en la revista Harper’s Monthly, en junio de 1890, la traducción se publicó, como libro, en enero de 1891. En 1887, pasó una larga estancia en Italia. Entre 1897 y 1898, James se mudó a Rye, Sussex, y escribió The Turn of the Screw. Durante 1902–1904 escribió The Ambassadors (1903), The Wings of the Dove (1902) y The Golden Bowl (1904). En 1904 volvió a visitar los Estados Unidos y dio una conferencia sobre Balzac. Entre 1907 y 1910, publicó “Edición de Nueva York”, una colección de 24 volúmenes de sus novelas, novelas cortas y cuentos. En 1913 escribió sus autobiografías, A Small Boy and Others, y Notes of a Son and Brother. Después del estallido de la Primera Guerra Mundial en 1914, hizo trabajo de guerra. En 1915 se convirtió en un sujeto británico. Murió el 28 de febrero de 1916, en Chelsea, Londres, Inglaterra. Tenía 72 años. ÍNDICE: Narrativa: —Un error trágico [Una tragedia del error] (1864) —La historia de un año (1865) —Un paisajista [Un pintor paisajista] (1866) —Un día único [Un día perfecto] (1866) —¡Pobre Richard! (1867) —Historia de una obra maestra (1868) —Un problema (1868) —De Grey, un relato romántico (1868) —La venganza de Osborne (1868) —Gabrielle de Bergerac (1869) —Compañeros de viaje (1870) —La confesión de Guest (1872) —La amante de Briseux (1873) —Adina (1874) —El alquiler fantasma (1876) —Cuatro entrevistas (1877) —Daisy Miller (1878) —Un episodio internacional (1878) —Diario de un hombre de cincuenta años (1879) —Un puñado de cartas (1879) —El punto de vista (1882) —Lady Barberina (1884) —Pandora (1884) —Las razones de Georgina (1884) —Louisa Pallant (1888) —Los papeles de Aspern (1888) —La lección del maestro (1888) —Los matrimonios (1891) —La vida privada (1892) —Los amigos de los amigos (1896) —La vuelta de tuerca (1898) —El rincón feliz (1908) —Julia Bride (1908) A Passionate Pilgrim and Other Tales (1875): —Un peregrino apasionado (1871) —El último de los Valerio (1874) —Eugene Pickering (1874) —La Madona del futuro (1873) —Romance de la ropa antigua (1868) —Madame de Mauves (1874) A London Life and Other Tales (1889): —Una vida en Londres (1888) —El Patagonia (1888) —El mentiroso (1888) —La señora Temperly (1887) The Real Thing and Other Tales (1893): —Lo real (1899) —Sir Dominick Ferrand (1892) —Nona Vincent (1892) [The chaperon] [Greville Fane] Terminations (1895): —La muerte del león (1894) —El fondo Coxon (1894) —La edad madura (1893) —El altar de los muertos (1895) Embarrassments (1896): —La figura de la alfombra (1896) [Glasses] —La próxima vez (1895) [The Way it Came] The Soft Side (1900): —El mejor de los lugares (1900) [“Europe”] [Paste] —Lo mejor de todo (1899) [The great condition] —El árbol de la ciencia (1900) —La humillación de los Northmore (1900) [The given case] [John Delavoy] —La tercera persona (1900) —Maud Evelyn (1899) [Miss Gunton of Poughkeepsie] The Better Sort [Lo más selecto] (1903): —Alas rotas (1900) —El Holbein de lady Beldonald (1901) —Las dos caras (1900) —La tonalidad del tiempo (1900) —De una clase especial (1900) —La señora Medwin (1901) —Flickerbridge (1902) —La sombra de una historia (1902) —La bestia en la jungla (1903) —La Casa Natal (1903) —Los periódicos (1903) Teoría: —El arte de la novela (“The Art of Fiction”, 1884) 
+
+¿Quién es Henry James? ![Henry James](/assets/images/hj.jpg) Henry James es uno los más grandes novelistas en lengua inglesa. Narrador, ensayista y dramaturgo, James es una figura clave de transición entre el realismo (Balzac, Stendhal, Flaubert) y el modernismo (Dostoyevsky, James Joyce, Virginia Woolf). James nació el 15 de abril de 1843, en la ciudad de Nueva York, Estados Unidos. Sus padres eran Henry James (padre), un profesor y filósofo que había heredado medios independientes de su padre, un banquero e inversionista de Albany, y Mary Walsh, de una familia adinerada que se había establecido en la ciudad de Nueva York.
+
+La familia primero vivió en Albany y luego se mudó a la ciudad de Nueva York cuando James todavía era un niño. Su educación fue calculada por su padre para exponerlo a muchas influencias, principalmente científicas y filosóficas, aunque no compartía la educación habitual en los clásicos latinos y griegos. Entre 1855 y 1860, la familia de James viajó a Londres, París, Ginebra, Boulogne-sur-Mer y Newport, Rhode Island, según los intereses actuales de las empresas editoriales del padre. Sus estadías más largas fueron en Francia, donde Henry aprendió francés.
+
+En 1860 la familia regresó a Newport. Allí Henry se hizo amigo del pintor John La Farge, quien lo introdujo en la literatura francesa y, en particular, en Balzac. En el otoño de 1861, Henry recibió una lesión, probablemente en la espalda, lo que hizo que no fuera apto para el servicio militar en la Guerra Civil Norteamericana. En 1864, la familia James se mudó a Boston, Massachusetts, para estar cerca de del hermano mayor de Henry, William, quien se había inscrito primero en la Escuela Científica Lawrence en Harvard y luego en la escuela de medicina.
+
+En 1862, Henry asistió a la Escuela de Derecho de Harvard, pero se dio cuenta de que no estaba interesado en estudiar derecho, y persiguió su interés en la literatura. Su primer trabajo publicado fue una revisión de una representación teatral, “Miss Maggie Mitchell in Fanchon the Cricket”, publicada en 1863. Un año después, “A Tragedy of Error”, su primer cuento, se publicó de forma anónima. El primer pago de James fue por una apreciación de las novelas de Sir Walter Scott, escrita para North American Review.
+
+Escribió piezas de ficción y ensayos para The Nation y Atlantic Monthly, donde su amigo James Fields era editor. En 1871 publicó su primera novela, Watch and Ward, en forma seriada, en el Atlantic Monthly. La novela no se publicó en forma de libro hasta 1978. Durante un viaje de 14 meses por Europa entre 1869 y 1870, Henry conoció a Dickens y George Eliot. Roma lo impresionó profundamente. Intentó mantenerse como escritor independiente en Roma, luego consiguió un puesto como corresponsal en París para el New York Tribune, a través de la influencia de su editor John Hay.
+
+Cuando estos esfuerzos fallaron, James regresó a la ciudad de Nueva York. Durante 1874 y 1875, bajo la influencia de Hawthorne, publicó Transatlantic Sketches, A Passionate Pilgrim y Roderick Hudson. En 1869 se instaló en Londres. Vivía en habitaciones alquiladas, pero pudo unirse a clubes de caballeros. En el otoño de 1875 se mudó al Barrio Latino de París. Aparte de dos viajes a América, pasó el resto de su vida en Europa. En París conoció a Zola, Alphonse Daudet, Maupassant, Turgenev. Pero tan solo vivió en París por un año, y entonces se mudó otra vez a Londres.
+
+En Inglaterra fue un escritor prolífico, escribiendo The American (1877), The Europeans (1878), una revisión de Watch and Ward (1878), French Poets and Novelists (1878), Hawthorne (1879) y varios cuentos. En 1878, Daisy Miller estableció su fama en ambos lados del Atlántico. Ese mismo año comenzó su primera obra maestra, El retrato de una dama, publicado en en 1881. Mientras vivía en Londres, James leía las obras de los “realistas franceses”, en particular Émile Zola. Los métodos estilísticos de Zola lo influyeron en los próximos años.
+
+La influencia de Hawthorne sobre él se desvaneció durante este período, reemplazado por George Eliot e Ivan Turgenev. Entre 1879 y 1882 publicó The Europeans (1879), Washington Square (1880), Confidence (1879) y The Portrait of a Lady (1881). Visitó los Estados Unidos en 1882–1883 (un período durante el cual muere su madre; unos meses después murió su padre, y luego murió su hermano Wilkie), y luego regresó a Londres. En 1884 James hizo otra visita a París. James había estado leyendo los escritores “realistas” o “naturalistas” franceses, y cada vez estaba más influenciado por ellos.
+
+En 1886, publicó The Bostonians y The Princess Casamassima, ambos influenciados por los escritores franceses. La reacción crítica y las ventas fueron pobres. Su tercera novela de la década de 1880 fue The Tragic Muse (1890). Aunque seguía los preceptos de Zola en sus novelas de los años 80, su tono y actitud estaban más cerca de la ficción de Alphonse Daudet. La falta de éxito crítico y financiero para sus novelas durante este período lo llevó a intentar escribir para el teatro. En el último trimestre de 1889, comenzó a traducir Port Tarascon, el tercer volumen de las aventuras de Tartarin de Tarascon (1872) de Alphonse Daudet.
+
+Publicada en la revista Harper’s Monthly, en junio de 1890, la traducción se publicó, como libro, en enero de 1891. En 1887, pasó una larga estancia en Italia. Entre 1897 y 1898, James se mudó a Rye, Sussex, y escribió The Turn of the Screw. Durante 1902–1904 escribió The Ambassadors (1903), The Wings of the Dove (1902) y The Golden Bowl (1904). En 1904 volvió a visitar los Estados Unidos y dio una conferencia sobre Balzac. Entre 1907 y 1910, publicó “Edición de Nueva York”, una colección de 24 volúmenes de sus novelas, novelas cortas y cuentos.
+
+En 1913 escribió sus autobiografías, A Small Boy and Others, y Notes of a Son and Brother. Después del estallido de la Primera Guerra Mundial en 1914, hizo trabajo de guerra. En 1915 se convirtió en un sujeto británico. Murió el 28 de febrero de 1916, en Chelsea, Londres, Inglaterra. Tenía 72 años.
+
+ÍndiceNarrativa
+ —Un error trágico [Una tragedia del error] (1864) —
+
+La historia de un año (1865)
+—Un paisajista [Un pintor paisajista] (1866) —Un día único [Un día perfecto] (1866) —¡Pobre Richard! (1867) —
+
+Historia de una obra maestra (1868)
+—
+
+Un problema (1868)
+—
+
+De Grey, un relato romántico (1868)
+—
+
+La venganza de Osborne (1868)
+—
+
+Gabrielle de Bergerac (1869)
+—
+
+Compañeros de viaje (1870)
+—
+
+La confesión de Guest (1872)
+—
+
+La amante de Briseux (1873)
+—
+
+Adina (1874)
+—
+
+El alquiler fantasma (1876)
+—
+
+Cuatro entrevistas (1877)
+—
+
+Daisy Miller (1878)
+—
+
+Un episodio internacional (1878)
+—
+
+Diario de un hombre de cincuenta años (1879)
+—
+
+Un puñado de cartas (1879)
+—
+
+El punto de vista (1882)
+—
+
+Lady Barberina (1884)
+—
+
+Pandora (1884)
+—
+
+Las razones de Georgina (1884)
+—
+
+Louisa Pallant (1888)
+—
+
+Los papeles de Aspern (1888)
+—
+
+La lección del maestro (1888)
+—
+
+Los matrimonios (1891)
+—
+
+La vida privada (1892)
+—
+
+Los amigos de los amigos (1896)
+—
+
+La vuelta de tuerca (1898)
+—
+
+El rincón feliz (1908)
+—
+
+Julia Bride (1908)
+
+A Passionate Pilgrim and Other Tales (1875):
+—
+
+Un peregrino apasionado (1871)
+—
+
+El último de los Valerio (1874)
+—
+
+Eugene Pickering (1874)
+—
+
+La Madona del futuro (1873)
+—
+
+Romance de la ropa antigua (1868)
+—
+
+Madame de Mauves (1874)
+
+A London Life and Other Tales (1889):
+—
+
+Una vida en Londres (1888)
+—
+
+El Patagonia (1888)
+—
+
+El mentiroso (1888)
+—
+
+La señora Temperly (1887)
+
+The Real Thing and Other Tales (1893):
+—
+
+Lo real (1899)
+—
+
+Sir Dominick Ferrand (1892)
+—
+
+Nona Vincent (1892)
+[The chaperon] [Greville Fane]
+
+Terminations (1895):
+—
+
+La muerte del león (1894)
+—
+
+El fondo Coxon (1894)
+—
+
+La edad madura (1893)
+—
+
+El altar de los muertos (1895)
+
+Embarrassments (1896):
+—
+
+La figura de la alfombra (1896)
+[Glasses] —
+
+La próxima vez (1895)
+[The Way it Came]
+
+The Soft Side (1900):
+—
+
+El mejor de los lugares (1900)
+[“Europe”] [Paste] —
+
+Lo mejor de todo (1899)
+[The great condition] —
+
+El árbol de la ciencia (1900)
+—
+
+La humillación de los Northmore (1900)
+[The given case] [John Delavoy] —
+
+La tercera persona (1900)
+—
+
+Maud Evelyn (1899)
+[Miss Gunton of Poughkeepsie] The Better Sort [Lo más selecto] (1903): —
+
+Alas rotas (1900)
+—
+
+El Holbein de lady Beldonald (1901)
+—
+
+Las dos caras (1900)
+—
+
+La tonalidad del tiempo (1900)
+—
+
+De una clase especial (1900)
+—
+
+La señora Medwin (1901)
+—
+
+Flickerbridge (1902)
+—
+
+La sombra de una historia (1902)
+—
+
+La bestia en la jungla (1903)
+—
+
+La Casa Natal (1903)
+—
+
+Los periódicos (1903)
+
+Teoría
+- —El arte de la novela (“The Art of Fiction”, 1884)

@@ -7,4 +7,50 @@ tags:
   - index
   - donoso
 ---
-¿Quién es José Donoso? ![José Donoso](/assets/images/donoso.jpg) José Donoso nació en Santiago de Chile, el 25 de septiembre de 1925, en el seno de una familia de médicos y abogados. Después de estudios secundarios desordenados debido a rebeldías y viajes, regresó para terminar sus estudios en la Universidad de Chile y en Princeton. Fue profesor de literatura inglesa en la Universidad Católica de Chile. Posteriormente, redactor y crítico literario de la revista Ercilla durante cuatro años y durante dos años profesor en el Writers Workshop de la Universidad de Iowa. También enseñó en las universidades de Princeton y Dartmouth. Obtuvo dos veces la beca Guggenheim. La obra de Donoso se caracteriza por su carácter innovador y experimental, por sus preocupaciones existenciales y por su penetración psicológica y su visión crítica e irónica de la sociedad chilena, especialmente de sus clases altas. Como indica la Enciclopedia Británica, la obra de Donoso “fue importante en el desarrollo de la nueva novela latinoamericana. Usó el surrealismo oscuro, la comedia negra y la sátira social para explorar las vidas de los aristócratas decadentes en una sociedad que se desintegraba moralmente”. En 1955 publicó Veraneo y otros cuentos (contiene 7 cuentos: “Veraneo”, “Tocayos”, “El güero”, “Una señora”, “Fiesta en grande”, “Dos cartas” y “Dinamarquero”; en 1957, la novela Coronación; en 1960, El charleston (contiene 5 cuentos: “El charleston”, “La puerta cerrada”, “Ana María”, “Paseo” y “El hombrecito”); en 1966, las novelas El lugar sin límites y Este domingo, y la colección de cuentos Los mejores cuentos de José Donoso (selección de Luis Domínguez, Editorial Zig-Zag; contiene los cuentos de Veraneo y otros cuentos y El charlestón, y añade dos cuentos: “China” y “Santelices”); en 1970, la novela El obsceno pájaro de la noche; en 1971, Seix Barral (Barcelona) re-imprime los cuentos de Los mejores cuentos, ahora con el título de Cuentos; en 1972, sus memorias Historia personal del boom; en 1973, Tres novelitas burguesas (la cual contiene Chatanooga choochoo, Átomo verde número cinco y Gaspard de la nuit); en 1978, la novela Casa de campo; en 1981, las novelas La misteriosa desaparición de la marquesita de Loria y El jardín de al lado y la colección de poemas Poemas de un novelista; en 1982, Cuatro para Delfina (contiene las novelas cortas Sueños de mala muerte, Los habitantes de una ruina inconclusa, El tiempo perdido y Jolie Madame); en 1985, la editorial Zig-Zag publica Veraneo y sus mejores cuentos (contiene diez cuentos, pero se excluyen “El charlestón”, “La puerta cerrada”, “Ana María” y “China”); en 1986, la novela La desesperanza; en 1998, se publica Artículos de incierta necesidad, una selección de sus artículos publicados para revistas, compiladas por Cecilia García-Huidobro; en 1990, Taratuta y Naturaleza muerta con cachimba (novelas cortas); en 1995, la novela Donde van a morir los elefantes; en 1996, Alfaguara compila sus novelas cortas en Nueve novelas breves (contiene las novelas de Tres novelitas burguesas, Cuatro para Delfina y Taratuta y Naturaleza muerta con cachimba) y publica unas “memorias ficticias”, Conjeturas sobre la memoria de mi tribu. Después de su muerte, se publicaron dos novelas póstumas: El mocho (1997) y Lagartija sin cola (2007). Varias de éstas obras han sido traducidas a diversos idiomas. José Donoso es uno de los narradores de más fuerte personalidad dentro de las últimas generaciones chilenas. Pocos como él han interiorizado en la psicología decadente de ciertos estratos sociales. La compleja trama de pasiones corrosivas de la persona y de los grupos está diestramente expuesta por José Donoso y sobre todo en El obsceno pájaro de la noche bucea en profundidades antropológicas con audacia y precisión y con este material elabora una obra de indudable fuerza y proyecciones universales. Ello justifica que se lo considere dentro del «boom» hispanoamericano como uno de sus valores representativos. En 1990 se le otorgó el Premio Nacional de Literatura; premio que se suma a las numerosas distinciones de que fue objeto, como: el Premio de la Crítica en España, el Premio Mondello en Italia y el Premio Roger Caillois en Francia. En 1995 fue condecorado con la Gran Cruz del Mérito Civil, otorgada por el Consejo de Ministros de España. Tras su regreso a Chile en 1981, dirigió por varios años un taller literario que jugó un rol fundamental en la gestación de la «nueva narrativa chilena». José Donoso murió en Santiago de Chile, en diciembre de 1996. [Tomado parcialmente de la solapa de la novela Este domingo] Índice: Cuentos: Veraneo y otros cuentos (1955): 1. Veraneo 2. Tocayos 3. El güero 4. Una señora 5. Fiesta en grande 6. Dos cartas 7. Dinamarquero El charleston (1960): 1. El charleston 2. La puerta cerrada 3. Ana María 4. Paseo 5. El hombrecito Los mejores cuentos de José Donoso (sel. de Luis Domínguez): China Santelices Novelas (capítulos 1 y 2): Coronación (1957) El lugar sin límites (1966) Este domingo (1966) (completa) El obsceno pájaro de la noche (1970) Casa de campo (1978) La misteriosa desaparicion de la marquesita de Loria (1980) (completa) El mocho (1997) Historia personal: Historia personal del “boom” (1972) Historia personal del “boom” (con un apéndice de María Pilar) (1987, PDF) 
+
+## Biografía
+
+![José Donoso](/assets/images/donoso.jpg)
+
+**José Donoso** (1924-1996) fue uno de los narradores más importantes de la literatura chilena y una figura central del "Boom" latinoamericano. Su obra se caracteriza por su carácter innovador y experimental, una profunda penetración psicológica y una visión crítica y a menudo inquietante de la sociedad, explorando la decadencia aristocrática y la desintegración moral a través del surrealismo oscuro y la sátira.
+
+Nacido en Santiago en el seno de una familia de médicos y abogados, estudió en la Universidad de Chile y en la Universidad de Princeton. Fue redactor y crítico literario de la revista *Ercilla* y profesor en el prestigioso *Writers Workshop* de la Universidad de Iowa, así como en Princeton y Dartmouth. Su labor como maestro y guía de nuevas generaciones de escritores fue fundamental, especialmente tras su regreso a Chile en 1981.
+
+Entre sus obras más destacadas se encuentran *Coronación* (1957), *El lugar sin límites* (1966) y su obra cumbre, *El obsceno pájaro de la noche* (1970), una novela de complejidad antropólogica y fuerza innegable. Recibió el Premio Nacional de Literatura de Chile en 1990, además de importantes distinciones internacionales en España, Italia y Francia. Murió en Santiago de Chile en diciembre de 1996.
+
+## Índice
+
+### Narrativa
+
+#### *Veraneo y otros cuentos* (1955)
+- Veraneo
+- Tocayos
+- El güero
+- Una señora
+- Fiesta en grande
+- Dos cartas
+- Dinamarquero
+
+#### *El charlestón* (1960)
+- El charlestón
+- La puerta cerrada
+- Ana María
+- Paseo
+- El hombrecito
+
+#### *Los mejores cuentos de José Donoso* (Selección)
+- China
+- Santelices
+
+#### Novelas
+- *Coronación* (1957) — Capítulos 1 y 2
+- *El lugar sin límites* (1966)
+- *Este domingo* (1966) — Completa
+- *El obsceno pájaro de la noche* (1970)
+- *Casa de campo* (1978)
+- *La misteriosa desaparición de la marquesita de Loria* (1980) — Completa
+- *El mocho* (1997)
+
+### Memorias y Ensayos
+- *Historia personal del «boom»* (1972)
+- *Historia personal del «boom»* (con un apéndice de María Pilar, 1987)

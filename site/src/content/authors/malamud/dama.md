@@ -1,0 +1,203 @@
+---
+layout: story
+title: Notas de una dama durante una cena
+slug: dama
+source: https://www.literatura.us/idiomas/malamud/dama.html
+tags:
+  - dama
+  - malamud
+---
+Bernard Malamud
+(26 de abril, 1914 – 18 de marzo, 1986)
+Notas de una dama durante una cena
+(1973)
+(“Notes from a Lady at a Dinner Party”)
+Originalmente publicado en la revista Harper's (febrero 1973);
+Rembrandt’s Hat
+(New York: Farrar Straus Giroux, 1973, 204 págs.)
+Max Adler, de paso por la ciudad en noviembre, había telefoneado a su antiguo profesor de arquitectura, Clem Harris, y en seguida había sido invitado cordialmente a cenar aquella noche en su casa de Hempstead para conocer a unos buenos amigos y a su joven esposa Karla.
+Ella habló del respeto que su marido sentía por Adler.
+—Dice de usted algo que no suele decir de sus antiguos alumnos, que usted merece triunfar. ¿No ganó usted una medalla nacional de la A.I.A. [Instituto Americano de Arquitectos] unos dos años después de haberse graduado?
+—No fue una medalla —explicó Adler, satisfecho⁠—. Era un Premio de Honor por una casa que yo diseñé.
+Adler, por aquella época de la cena, era un hombre corpulento, de carnes fláccidas, que vestía de modo descuidadamente conservador y pesaba 210 libras.
+—Eso quise decir. —Ella rió turbada y él se imaginó que debía reírse muchas veces turbada. Era una mujer con un cuerpo fuerte, sencilla, en una manera elegante, y llevaba su cabello castaño recogido en un moño. Él le hacía unos veinticinco o veintiséis años. Lucía un vestido corto verde y unas sandalias, y sus macizas piernas y muslos estaban bien formados. Adler, cuando ella se lo preguntó, dijo que tenía treinta y dos años, y Karla observó que era una edad excelente para un hombre. Él sabía que su marido le doblaba a él la edad. Era una mujer directa y chistosa, con cierta tirantez de expresión, y le contó casi en seguida lo mucho que la amistad significaba para ella.
+Fue durante la cena que Karla Harris hizo saber a Adler lo de la nota que éste tenía en su bolsillo. Eran seis comensales en el espacioso comedor con paneles de madera, con un mirador que contenía un lecho de piedrecitas con crisantemos y begonias. Además de los anfitriones había un matrimonio de mediana edad, los señores de Ralph Lewin —⁠él era colega de Harris en la Escuela de Arquitectos de la Universidad de Columbia⁠—; y, quizá para nivelar las cosas, había sido invitada la secretaria de Harris, Shirley Fisher, una divorciada de tobillos delgados y ojos húmedos, vestida con una falda larga azul brillante, que hablaba y bebía de forma liberal. Harris, escanciando liberalmente el vino de una botella que reposaba en una cesta, estaba sentado, a la cabeza de una mesa amplia y puesta con gusto, frente a Karla, que estaba con la atención puesta en que todo marchara como era debido; de vez en cuando su marido le sonreía para darle ánimos.
+Max Adler estaba sentado a la derecha de ella, frente a Lewin, y a su derecha tenía a la señora Lewin, una persona de rostro menudo y luminoso que escuchaba con mucha atención. Karla, mientras Harris estaba sirviendo en unos cuencos la sopa de tortuga presentada en una hermosa sopera, y la conversación era animada, se inclinó hacia Adler imperceptiblemente y murmuró: «Si le gustan las sorpresas, busque cuando pueda en su bolsillo», y aunque él no estaba seguro que fuera aquél el momento conveniente, cuando ella salió en busca de los panecillos, que casi se habían quemado, metió la mano despreocupadamente en el bolsillo de su chaqueta y palpó una hoja doblada de papel que, al cabo de un minuto, desdobló y leyó sosteniéndola en la palma de la mano.
+Si alguien a la mesa notó que Adler agachaba la cabeza momentáneamente y se preguntó si es que pronunciaba privadamente una oración de gracias o consultaba su reloj con vistas a tomar un tren que le devolviera temprano a la ciudad, a él se le ocurrió que no le habría importado; él estaba leyendo cortésmente la nota que la dama le había entregado cuando aún no se había iniciado nada. El pedazo de papel con bordes amarillos, escrito en letra pequeña de molde, decía simplemente: «¿Por qué nos creemos que debemos ser felices, que es una de las condiciones necesarias de la vida?», y durante un rato, Adler, que se tomaba muy en serio ese tipo de preguntas, no supo qué responder.
+A ella no le habría costado nada hacerle la pregunta mientras tomaban una copa en el porche cerrado y él se las habría aclarado lo mejor posible; pero ella parecía entonces estar preocupada por la cena y había entrado y salido de la cocina muchas veces; además de ocuparse de la chica encargada de acostar a los niños, en realidad estaba demasiado atareada para sostener una conversación con ninguno de sus invitados. Pero ya que ella no le había hecho la pregunta de viva voz, Adler creyó que debería respetar el hecho de que considerara necesario escribirla en un papel y metérselo en el bolsillo. Si así era como ella se sentía movida a expresarse, él pensó que debía contestar con una nota. Miró al marido, envejecido pero todavía vigoroso desde la última vez que le viera, que en aquellos momentos estaba escuchando atentamente a Shirley. Adler se excusó, diciendo que iba a buscar sus gafas, para escribir una nota en la agenda; y al volver, aunque el estar fingiendo le hacía sentirse incómodo, le pasó a ella la nota disimuladamente, arañándole el muslo cálido y desnudo, aunque no había pretendido hacerlo, sintiendo luego sus finos dedos, al tocarlos agarrando la nota.
+Él había estado tentado de decir que la felicidad era algo que había dejado de preocuparle, la tienes o no la tienes y por qué devanarse los sesos cuando hay trabajo que hacer; pero no lo puso. Había escrito rápidamente: «¿Por qué no? La vida es corta y dura si uno no se aprovecha de ella».
+Karla miró el papel que tenía en la mano, un tenedor clavado en un filete de lenguado en la otra, al parecer no desilusionada, su color más subido, la expresión neutral, un poco distante. Desapareció en la cocina con una ensaladera vacía, y cuando estuvo sentada otra vez a la mesa pasó secretamente a Adler otra nota: «Quiero que vea a mis niños». Adler asintió solemnemente mientras se guardaba la nota en el bolsillo. Ella sonrió vagamente cuando su marido, que había vuelto a levantarse para llenar las copas de vino, la miró cariñosamente. Los otros estaban comiendo en silencio momentáneamente, sin prestar atención, al parecer. Karla respondió con algo equivalente a la sonrisa de su marido en tanto que Adler, preguntándose por qué le habría implicado en ese curioso juego, sentía que estaban ahora relacionados de una forma que él no pudo prever al entrar aquella noche en la casa. Cuando Harris, detrás de él, sirviéndole vino, dejó caer su mano afectuosamente sobre el hombro de su antiguo alumno, Max, que había experimentado una fuerte emoción al ver a su antiguo profesor al cabo de tantos años, sintió que se resistía a ese ademán de afecto.
+Más tarde disfrutó hablando con él mientras tomaban coñac en la sala; era una habitación grande, de unos veinticuatro por treinta, calculó Adler, amueblada, tapizada y decorada con buen gusto, confortable, con un jarrón de cristal lleno de crisantemos dorados y grandes margaritas sobre la repisa de la chimenea y algunas pinturas modernistas de brillante colorido en la pared. Karla estaba entonces en la cocina, enseñando a la joven que había ido para ayudarla cómo cargar y hacer funcionar el lavavajillas, y Adler se sintió como a la expectativa de algo, aunque no estaba seguro el qué. Trató de sofocar esa sensación y lo consiguió en cierta medida. Pero mientras Clem Harris le estaba sirviendo coñac, se registró el bolsillo furtivamente y sólo encontró las dos notas anteriores.
+El profesor, un hombre alto y vigoroso, con una cuidada barba canosa, levemente rojiza, y gruesas patillas grises, que llevaba una chaqueta de sport verde con una camisa naranja y cuello blanco de pajarita, alabó generosamente el último trabajo de Adler, del cual éste le había enviado unas diapositivas; y Max expresó nuevamente su gratitud por el interés que Harris seguía manifestando. Siempre había sido un hombre amable y un maestro influyente.
+—¿En qué está ocupado ahora mismo? —⁠preguntó Harris. Después de dos coñacs había vuelto a cambiarse al whisky con soda. Su ancho semblante estaba congestionado y se enjugaba los lacrimosos ojos con un pañuelo. Adler había notado la frecuencia con que miraba hacia la puerta del comedor, impaciente por ver reaparecer a su esposa.
+—El mismo proyecto que ha visto en las transparencias —⁠dijo Adler⁠—. ¿Y usted?
+—Yo estoy renovando las unidades de un barrio humilde para un grupo privado de viviendas de renta moderada. Hay muy poco dinero en ello. Es más o menos pro bono.
+—Eso es lo que yo debería hacer más a menudo.
+Harris, después de observar a Adler un momento, preguntó:
+—¿No estará engordándose, Max?
+—Como demasiado —confesó Adler.
+—Debería vigilarse el peso. ¿Todavía fuma como una chimenea?
+—Ya no.
+—Excelente. Ojalá pudiera yo conseguir que Karla fumara menos.
+Cuando su esposa reapareció se había cepillado el pelo. El vestido verde que llevaba antes había sido trocado por uno mini de ganchillo color fresa, a través de cuya urdimbre se asomaba un sujetador blanco y una media combinación. El cálido tono del vestido daba color a su rostro. Era una mujer atractiva.
+—Veo que te has cambiado de vestido —⁠dijo su marido.
+—Me eché por encima por lo menos medio litro de salsa —⁠explicó Karla con una risa de turbación.
+—Creí que éste no te gustaba demasiado.
+—¿Cuándo dije tal cosa? —preguntó ella⁠—. Sí que me gusta. Me gusta mucho. Es el púrpura el que no me gusta, demasiado chillón.
+Harris, tomando un sorbo de su vaso, asintió campechanamente. Estaba pensando en otra cosa.
+—Quisiera que te buscaras ayuda cuando la necesites.
+—¿Qué clase de ayuda? —preguntó Karla.
+—Pues en la cocina, naturalmente. —⁠El tono de su marido era afectuoso, solícito.
+—Stephanie está fregando los cacharros, es lo más pesado.
+—Ha sido una cena estupenda —⁠dijo Max.
+Ella le dio las gracias.
+—Deberíamos contratar a una asistenta que te ayudara con estas cenas —⁠insistió Harris⁠—. A veces nuestros invitados apenas si te ven. No debes ser tan puritana sobre estos lujos ocasionales. No me gusta verte demasiado cansada para disfrutar de las fiestas que organizas.
+—Con ésta lo estoy pasando muy bien.
+Max asintió.
+—Ya sabes a qué me refiero —⁠dijo Harris.
+—Clem, lo que pasa es que no me gusta estar rodeada de asistentas cuando doy cenas para pocas personas.
+Ella le contó a Adler que Stephanie era otra de las alumnas de Harris.
+—El padre de todos nosotros —⁠añadió con una carcajada.
+—Stephanie necesita el dinero —⁠dijo Harris.
+Karla preguntó entonces a Adler si le gustaba su vestido de ganchillo. Él dijo que sí.
+—¿No es demasiado corto?
+—No —dijo Max.
+—Yo no he dicho que lo fuera —⁠dijo Harris.
+Sonó el teléfono y cuando él fue a contestarlo, resultó ser uno de sus candidatos doctorales. Harris, agitando jovial los dedos hacia Karla, habló pacientemente con el candidato doctoral.
+Adler y Karla estaban sentados en un sofá para dos frente a la chimenea repleta de flores, cuando ella susurró que entre los almohadones había una nota. Él la recuperó mientras charlaban y la guardó en el bolsillo.
+—La leeré más tarde.
+Pero ella se había levantado del sofá para dos como queriendo darle oportunidad a que leyera lo que había escrito. Karla tomó asiento junto a Ada Lewin en un sofá largo y beige adosado al muro de la izquierda, mientras Ralph Lewin, bebiéndose un coñac despacio, escuchaba a Clem hablando por teléfono. Shirley Fisher se acercó entonces a hablar con el visitante. Llevaba un corpiño blanco escotado, con una falda midi con un corte, y flirteaba abiertamente. Al cruzar las piernas descubrió un muslo largo y esbelto.
+—¿No le interesan las mujeres mayores, señor Adler? —⁠Tenía una voz ligeramente ronca.
+—Yo no la llamaría a usted una mujer mayor.
+Shirley dijo que se sentía complacida pero entonces volvió Karla. Harris seguía pacientemente al teléfono. Adler decidió que los colorines que llevaba casaban bien con las pinturas de las paredes. En la época en que Max era alumno suyo, Harris solía llevar trajes grises con corbata blanca.
+—¿Dejas que me lo lleve cinco minutos, Shirley? —⁠preguntó Karla⁠—. Quiero que el señor Adler vea a los niños.
+—Max —dijo Adler.
+—¿No estarán dormidos?
+—Es igual, quiero que los vea, si a él le apetece.
+Max dijo que sí.
+Había logrado echar una ojeada a la nota que ella le había dejado: «No se asuste pero usted me gusta mucho».
+—Que os divirtáis —dijo Shirley, sirviéndose un coñac.
+—Descuida —dijo Karla.
+Mientras subían la escalera, Adler dijo:
+—No quisiera despertarlos.
+—Seguirán durmiendo tan tranquilos.
+Ella abrió la puerta, encendiendo la luz. En una amplia habitación de tres ventanas con cortinas dormían dos niños en sus cunas. Adler creyó a lo primero que eran mellizos, pero no lo eran. Una era una niñita con rizos de un rubio pálido que dormía en una cuna blanca, la otra criatura era un varón que dormía en una cuna naranja. En el suelo, en un rincón, había un «parque» circular de lona lleno de muñecos y juguetes de madera. En las paredes colgaban enmarcadas una serie de acuarelas de animales pequeños; Karla dijo que los había hecho ella.
+—Solía hacer unas acuarelas preciosas.
+Adler comentó que eran deliciosas.
+—Ésas no, mis acuarelas de la naturaleza. Ahora ya no me queda tiempo para pintar.
+—La comprendo.
+—A mí me parece que no —dijo ella⁠—. Ésta es Sara —⁠dijo Karla, junto a la cuna blanca⁠—. Tiene dos años. Stevie acaba de cumplir los once meses. Fíjese qué hombros. A Clem le pareció conveniente tenerlos juntos para que se hicieran amigos. Su primera esposa falleció sin darle hijos.
+—La conocía —dijo Adler.
+El niño, con una camiseta y una cubierta de plástico sobre los pañales, yacía de costado, chupando, dormido, la esquina de su manta. Se parecía a su padre.
+La niña, dormida de espaldas, con un camisón de flores amarillas, aferrada a una muñeca de trapo, se parecía a Karla.
+—Son unos niños muy guapos —⁠dijo Adler.
+Karla estaba de pie junto a la cuna de la niña.
+—Mis niños —dijo—. Mis niñitos. Cómo les quiero. —⁠Bajó la parte lateral de la cuna e, inclinándose, besó a Sara, que abrió los ojos, miró a su madre, y se quedó dormida, sonriendo.
+Karla retiró la muñeca y la niña la soltó con un suspiro. Luego cubrió al niño con la manta.
+—Verdaderamente, son unos niños encantadores —⁠dijo Adler.
+—Mis hermosas criaturas. Mis niños, mis niños. —⁠La expresión de Karla era tierna, triste, su rostro como iluminado⁠—. ¿Le sueno a chiflada?
+—Yo no diría eso. —Max se sentía afectado por ella.
+Karla bajó las persianas, apagó las luces, y cerró la puerta silenciosamente.
+—Venga a ver mi estudio.
+Era una habitación de color lavanda, con cortinas pálidas y una mesa, una máquina de escribir portátil, y un círculo de fotografías en la pared frente a ella. El padre de Karla, que había vendido seguros en Columbus, Ohio, había muerto. Ahí estaba, a los cincuenta, de pie delante de su automóvil. La madre, con cara de tristeza, había posado en su jardín. Una foto de Karla tomada en la universidad mostraba a una chica atractiva, seria, con gafas con montura de metal, cejas y ojos oscuros, y unos labios firmes y llenos. Su mesa estaba repleta de libros, hojas de música, listas de compra, correspondencia.
+Ella quería saber si Adler tenía hijos.
+—No. —Él le explicó que estuvo casado breve tiempo y llevaba muchos años divorciado.
+—¿No ha vuelto a casarse?
+—No.
+—Clem se casó conmigo siendo yo muy joven —⁠dijo Karla.
+—¿No se casó usted con él?
+—Quiero decir que yo apenas sabía lo que hacía.
+—¿Y qué hacía él?
+—Casarse conmigo siendo yo muy joven.
+Ella levantó la persiana y contempló la noche. A lo lejos brillaba la luz de un farol a través de la ventana húmeda.
+—Todas mis cenas ocurren en noches lluviosas.
+Ella sugirió que bajaran a reunirse con los demás pero luego abrió el armario y sacó una fotografía grande y reluciente del proyecto de una vivienda para una sola familia que había realizado en su clase de arquitectura con Harris.
+Max dijo que prometía. Karla sonrió haciendo una mueca.
+—En serio —dijo él.
+—Pues a mí me encanta lo que usted hace —⁠dijo ella⁠—. Me encantan los riesgos que corre.
+—Cuando todo sale bien.
+—Claro que sale bien, claro que sale bien. —⁠Ella parecía estar temblando.
+Se abrazaron con fuerza. Ella clavó su cuerpo en el de él. Se besaron con las bocas húmedas, luego ella se separó, riendo turbada.
+—Los demás estarán extrañados.
+—Él está aún al teléfono —dijo Max, excitado.
+—Será mejor que bajemos.
+—¿Qué es Shirley para él?
+—Una bruja de mandíbulas apretadas.
+—He dicho para él.
+—Siente lástima de ella. Tiene un chico de catorce años que toma L.S.D. Él siente lástima de todo el mundo.
+Volvieron a besarse, luego Karla se soltó de su abrazo y bajaron.
+Harris había dejado el teléfono.
+—Le he enseñado nuestros niños —⁠dijo Karla a su marido.
+—Cómo te gusta presumir —dijo Harris sonriendo.
+—Unos niños muy guapos —dijo Max.
+Ella le hizo un guiño.
+He perdido el derecho a su amistad, se dijo el arquitecto, pensando en Harris. Un minuto más tarde pensó: las cosas cambian, por fuerza.
+—Ahora haz el favor de quedarte quieta un momento —⁠dijo Harris a Karla⁠—. Descansa un rato.
+—Antes he de pagar a Stephanie.
+Harris entró en su despacho y volvió con una caja llena de transparencias de su proyecto de renovación para la mejora de un grupo de viviendas humildes: antes y después.
+Max, pensando en Karla, examinó las transparencias, sosteniendo cada una a la luz. Dijo que era un trabajo bien realizado.
+Harris dijo que le satisfacía que Max lo aprobara.
+Karla estaba pagando a Stephanie en la cocina. Ralph Lewin, fumando un puro, también contempló las transparencias, aunque dijo que las había tomado él. Ada y Shirley estaban sentadas en el sofá verde a la derecha de la habitación, Ada escuchando seria mientras Shirley no paraba de hablar del hijo que tomaba L.S.D.
+Karla entró con una bandeja de plata con tazas y platitos de porcelana fina.
+—Siempre me retraso con el café —⁠dijo.
+—Yo prefiero té —dijo Ralph.
+Ella dijo que en seguida le traía el té.
+Mientras distribuía las tazas entregó a Adler una nota con la suya.
+Él la leyó en el baño. «Haz ver que vas al baño, luego tuerce a la izquierda por el pasillo de atrás y llegarás a la cocina».
+Él torció a la izquierda por el pasillo y salió a la cocina.
+Se besaron apasionadamente.
+—¿Dónde podemos vernos?
+—¿Cuándo? —preguntó Max.
+—¿Te parece esta noche? No estoy segura.
+—¿No habrá ningún motel por aquí?
+—A dos manzanas.
+—Si vas a poder venir, tomaré una habitación. Si no es esta noche, puedo esperarme ahí hasta el mediodía de mañana. Tengo que estar en Boston por la noche.
+—Creo que podré. Clem y yo dormimos ahora en alcobas separadas. Él duerme como un tronco. Ya te lo diré antes de que te vayas.
+—Hazme una seña —dijo Max—. No me escribas más notas.
+—¿No te gustan? —preguntó Karla.
+—Sí, pero es arriesgado. ¿Y si te viera él pasarme una?
+—Puede que le hiciera bien.
+—No quiero saber nada de eso —⁠dijo Max.
+—A mí me gusta escribir notas —⁠dijo Karla⁠—. Me gusta escribirlas a las personas que me son simpáticas. Me gusta escribir cosas que se me ocurren de pronto. De joven tenía un diario lleno de pensamientos interesantes.
+—Sólo digo que podría ser peligroso. Hazme una señal o dime algo antes de que me marche y esperaré a que vengas.
+—El verano pasado quemé mi diario, pero aún sigo escribiendo notas. Siempre he escrito notas a la gente. Tienes que dejarme ser como soy.
+Él le preguntó por qué había quemado el diario.
+—Tuve que hacerlo. Me hacía polvo. —⁠Rompió a llorar.
+Adler salió de la cocina y regresó al baño. Tiró de la cadena, se lavó las manos, y volvió a reaparecer en el salón. En el mismo momento entró Karla, con la cara compuesta, trayendo el té de Ralph.
+Durante un rato estuvieron hablando de política de un extremo al otro de la habitación. Luego la conversación giró en torno a la música y Harris puso un disco nuevo de Mahler que había comprado titulado «Canciones de un caminante». Pese a las canciones, Shirley estaba sosteniendo una conversación seria con Ralph Lewin, quien de vez en cuando sofocaba un bostezo. Ada y Karla charlaban sobre la nueva casa que los Lewin se proponían edificar aquella primavera, y Harris y Adler, sentados en el largo sofá beige, discutían los adelantos en la arquitectura.
+—Más vale que quite la música —⁠dijo Harris. Después de guardar el disco volvió junto a Adler y, reanudando la conversación, definió el último trabajo de éste como el más atrevido.
+—Ésa es una cualidad que usted me inspiró.
+—Con moderación.
+Adler dijo que apreciaba las opiniones de su mentor. Por primera vez no sabía qué decirle y eso le hacía sentirse incómodo. Ya no estaba seguro de si debía pedirle a Karla que tratara de escaparse aquella noche. Por un lado tenía que luchar con la gratitud y lealtad que sentía hacia Harris; por el otro le parecía estar enamorado de ella.
+Se las habían arreglado para reunirse solos junto a la chimenea, cuando, para asombro de él, ella murmuró: «Estás a punto de recibir algo», y le tocó la mano subrepticiamente con una hoja doblada de papel. Girándose de espaldas a la concurrencia, Adler consiguió leerlo, después de lo cual se lo guardó en el bolsillo de los pantalones.
+La nota de Karla decía: «¿Puede una amar a alguien que no conoce?».
+—Eso nos pasa siempre.
+—Creo que en parte te amo porque amo tu trabajo.
+—No me confundas con mi trabajo —⁠dijo Adler⁠—. Sería un error.
+—Veré de arreglar lo de esta noche —⁠susurró ella.
+Allí juntos, de espaldas a la chimenea, alargaron el brazo por detrás y se estrujaron las manos.
+Karla, mirando a su marido al otro lado de la habitación, se disculpó y subió a ver si los niños estaban tapados. Adler, cuando ella hubo salido, trató de pensar en algún motivo para seguirla, pero era una locura. Eran más de las once y se sentía nervioso e impaciente.
+Cuando Karla bajó de la habitación de los niños la oyó decir a su marido:
+—Clem, me siento un poco agitada.
+—Tómate una pastilla —le aconsejó Harris.
+Adler se planteó entonces seriamente si no debía decirle que dejara correr lo de esta noche. Quizá fuese preferible llamarla mañana desde el motel, cuando Harris no estuviera en casa, y si ella todavía estaba decidida, podían reunirse ahí. Pero él dudaba, de no poder estar juntos aquella noche, que ella fuera a reunirse con él por la mañana. Así que resolvió pedirle que acudiera en cuanto estuviera segura de que su marido se había dormido.
+Quiere estar con alguien joven para variar. Le hará bien.
+Deseando decirle que aquella agitación desaparecería en cuanto estuvieran juntos en la cama, Max se sentó a su lado en el sofá verde donde ella escuchaba distraída a Shirley contándole que la situación de las drogas la tenía desesperada. Él esperó impaciente a que se levantara una de las dos para poder decir a Karla lo que quería decirle. Harris, de pie cerca de ellos, conversando con Ada, parecía estar escuchando a Shirley. Karla fingió no darse cuenta de que Adler estaba a su lado; pero al minuto él sintió la mano de ella buscándole el bolsillo. Sin quererlo, él se apartó.
+Adler esperaba ver de un momento a otro su bolsillo estallar en llamas. Se pasará la vida escribiéndolas, pensó; es su manera de ser. Si no a mí, al siguiente que entre en esta casa habiendo hecho algo que ella quisiera haber hecho. Decidió devolverle la nota sin leerla. Al propio tiempo, con una angustiosa sensación de pérdida repentina, Adler comprendió que no habría podido leerla aunque hubiese querido porque el papel no había llegado a su bolsillo sino que había caído al suelo. La visión del papel amarillo doblado yaciendo a sus pies puso malo al arquitecto. Karla contemplaba el papel como si estuviera reviviendo un sueño. Lo había escrito arriba en su estudio y ponía: «Querido, no puedo reunirme contigo, estoy embarazada de seis meses».
+Antes de que ninguno de los dos pudiera moverse para rescatarlo, o siquiera dejarlo donde estaba, Shirley lo recogió.
+—¿Se te ha caído esto? —preguntó a Clem Harris.
+Adler tenía la cabeza como inundada de sangre. Sentíase pueril y torpe. Me he cubierto de vergüenza y lo tengo bien merecido.
+Pero Harris no desdobló el papel. Lo pasó a su antiguo alumno.
+—Mío no es, ¿es suyo?
+—Una dirección que apunté —⁠dijo Adler. Se levantó⁠—. Tengo que tomar un tren para Boston a primera hora.
+Ada y Ralph fueron los primeros en despedirse de él.
+—Bon voyage —dijo Shirley.
+Harris trajo el abrigo de Adler y le ayudó a ponérselo. Se estrecharon la mano cordialmente.
+—Lo más rápido para llegar a Boston es el avión.
+Max dijo que seguramente lo tomaría. Luego se despidió de Karla:
+—Gracias por la invitación.
+—Amor, matrimonio, felicidad —⁠canturreó Karla, de pie en las escaleras con su minivestido de ganchillo.
+Subió corriendo a ver a sus criaturas.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

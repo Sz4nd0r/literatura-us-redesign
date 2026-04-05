@@ -1,0 +1,239 @@
+---
+layout: story
+title: Ad Astra
+slug: wf_astra
+source: https://www.literatura.us/idiomas/wf_astra.html
+tags:
+  - wf_astra
+  - wf
+---
+William Faulkner
+(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)
+Ad Astra (1931)
+(“Ad Astra”)
+Originalmente publicado en The
+American Caravan, IV (1931).
+Revisado para These 13 (1931);
+incluido con revisiones más a fondo en The Portable Faulkner (1946)
+Hay una referencia a la trama en Banderas en el
+polvo (1929)
+No sé muy bien qué éramos. Con la excepción de Comyn, empezamos siendo estadounidenses, pero al cabo de tres años, con las guerreras del ejército británico y las insignias británicas y alguna que otra condecoración, no creo que en esos tres años nos hubiésemos tomado la molestia de averiguar qué éramos, ni tampoco el engorro de pensarlo, o de recordarlo.
+Y aquel día, a la caída de la noche, aún éramos menos que eso: estábamos o por debajo o más allá de la posibilidad de saber que ni siquiera nos tomamos la molestia en aquellos tres años. El subadar —al cabo de un rato allí estaba, con su turbante y sus galones de juguete—[1] dijo que éramos como hombres que se empeñan en avanzar bajo el agua.
+—Pero pasará pronto —dijo—. Los efluvios del odio y las palabras. Somos como hombres que se empeñan en avanzar bajo el agua, con la respiración contenida, viendo nuestras extremidades terroríficas, infinitesimales, viendo el estancamiento terrible de todos los demás, sin tocarnos, sin contacto, despojados de todo, salvo de la impotencia y la necesidad.
+Íbamos en el coche por la carretera de Amiens. Conducía Sartoris y Comyn iba sentado a su lado, sacándole media cabeza, como un maniquí de los que se usan para entrenar los placajes de fútbol americano, el subadar, Bland y yo en el asiento de atrás, cada uno con una o dos botellas en los bolsillos. Exceptuando al subadar, claro. Era chaparro, bajo, robusto, pero su abstinencia era colosal. En el maelstrom de alcohol en que los demás habíamos huido de nuestros ineludibles yoes, él era como una roca, hablaba con voz rotunda, grave, una voz que le quedaba cuatro tallas grande.
+—En mi país yo era un príncipe, pero todos los hombres somos hermanos.
+Pero pasados doce años más bien pienso que éramos como los zapateros que se desplazan por la superficie del agua, aislados unos de otros, sin objetivos, sin reposo. Y no en la superficie: dentro del agua, dentro de la línea de demarcación que no es aire y no es agua, a veces sumergidos, otras veces no. Habréis observado esa ola con mar de fondo que no rompe en la ensenada, donde la profundidad es escasa, y llega un tanto siniestra, con familiaridad saciada, mientras más allá del horizonte oscuro la tempestad que ya amainaba y moría ha seguido con furia. Aquélla era el agua, nosotros los despojos que arrastraba. Ni siquiera pasados doce años están más claras las cosas. No tuvo comienzo y no tuvo final. De la nada llegamos entre alaridos, sin reparar en la tempestad de la que nos habíamos librado y la orilla extranjera de la que no nos podríamos librar; en el intervalo entre dos arremetidas de la ola con mar de fondo morimos los que éramos tan jóvenes que jamás habíamos vivido.
+Nos detuvimos en el medio de la carretera para beber más. En derredor, la tierra estaba a oscuras, desierta. Y en silencio: eso fue todo lo que nos llamó la atención, lo que señalasteis. Se oía respirar la tierra como si llegase el aliento del éter, como si aún no supiera, como si no pudiera creer que estaba viva y palpitante.
+—Pero ha llegado la paz —dijo el subadar—. Todos los hombres somos hermanos.
+—Una vez tomó usted la palabra ante la Oxford Union[55] —dijo Bland. Era alto y rubio. Cuando pasaba por una sala en la que hubiera mujeres dejaba a su paso una estela de suspiros como un transbordador cuando atraca en puerto. Además era sureño, como Sartoris, pero, al contrario que Sartoris, en los cinco meses que estuvo en servicio nadie encontró un solo agujero de bala en su aparato. Claro que lo habían transferido desde un batallón de estudiantes de Oxford, donde gozaba de una de las becas que proporcionaba Sir Cecil Rhodes, con un percebe en la pechera y una distinción por haber resultado herido en un ataque enemigo. Cuando se cogía una buena cogorza era capaz de hablar por los codos de su mujer, aunque todos sabíamos que no estaba casado.
+Le quitó la botella a Sartoris y bebió a gollete.
+—La mía es la mujercita más dulce que se pueda imaginar —dijo—. Dejad que os cuente cómo es.
+—No, no nos cuentes nada —dijo Sartoris—. Mejor pásasela a Comyn, que es quien está necesitado de una chica.
+—Muy bien, sea —dijo Bland—. Comyn, te la puedes quedar.
+—¿Es rubia? —dijo Comyn.
+—No lo sé —dijo Bland. Se volvió hacia el subadar—. Una vez tomó usted la palabra ante la Oxford Union. Me acuerdo bien de usted.
+—Ah —dijo el subadar—. Oxford. Sí.
+—Es capaz de acudir a estudiar entre los caballeros de alta cuna, los de piel más blanca —dijo Bland—, pero no se le da un puesto de mando en toda regla, porque esto de la gentilidad es cuestión de color, no de linaje ni de conducta.
+—Luchar es más importante que la verdad —dijo el subadar—. Por eso hemos de restringir el prestigio y los privilegios de los que luchan y ceñirlo sólo a unos pocos, para que no pierdan popularidad frente a los muchos que han de perder la vida.
+—¿Y por qué es más importante? —dije—. Pensé que esta guerra la habíamos librado para poner fin a todas las guerras.
+El subadar hizo un gesto conciso, oscuro, despectivo, tranquilo.
+—Yo también he sido un hombre blanco al menos un momento. Para el caucásico es más importante, porque sólo es lo que hace: lo que hace viene a ser la suma de lo que es.
+—Entonces, ¿ustedes alcanzan a ver más allá que nosotros?
+—Cualquiera alcanza a ver más allá, siempre y cuando mire de la oscuridad a la luz: así se ve más de lo que ve un hombre que mire de la luz a la luz. Es el principio del catalejo. La lente sólo sirve para poner a su alcance aquello que la sensatez de quien sufre y desea, que es quien ve, nunca podrá afirmar.
+—¿Y qué es lo que es? —dijo Bland.
+—Yo veo chicas —dijo Comyn—. Hectáreas y más hectáreas de rubios cabellos, como los trigales, y yo en medio de los trigales. ¿Habéis visto alguna vez a un perro perdiguero que va atravesando un trigal y traza rectas que se van cortando unas con otras?
+—No cuando caza perras, y tampoco así las perras que cazan.
+Comyn se volvió en su asiento, robusto, enorme. Era tan grande como todo lo que hay al aire libre. Era todo un espectáculo ver cómo lo calzaban dos mecánicos en la cabina de un Dolphin, como dos camareras empeñadas en meter un almohadón adicional en una maleta demasiado pequeña.
+—Os parto la crisma por menos de un chelín —dijo Comyn.
+—Entonces, ¿cree usted de veras en la rectitud de los hombres?
+—Yo más bien creo en la compasión que merece el hombre —dijo el subadar—. Es más correcto.
+—Pues entonces os doy yo un chelín —dijo Comyn.
+—De acuerdo —dijo Sartoris—. ¿Habéis probado alguna vez, alguno de vosotros, un poco de whiskey para protegerse del aire de la noche?
+—Hectáreas y más hectáreas de rubios cabellos, con sus partes blancas y bien redondas, partes de mujer, relucientes entre los trigales mojados.
+Así volvimos a beber en aquella carretera en la que no había nadie más, entre dos campos de remolachas, en el silencio de la noche, y allí la embriaguez empezó a girar a su manera y a hacer de las suyas. Retornó del lugar al que se hubiese marchado, y vino a caer sobre nosotros y sobre la roca sobria, abstinente, del subadar, hasta que su voz empezó a sonar remota, reposada, de ensueño, cuando decía que todos éramos hermanos. Monaghan estaba también allí, de pie junto a nuestro coche, a la luz de los faros de su coche, con una gorra del Royal Flying Corps y una guerrera del ejército estadounidense, con ambas correas colgándole, caídas de los hombros, bebiendo a morro de la botella que le había pasado Comyn. A su lado estaba otro hombre, también con una guerrera más corta y mejor ajustada que las nuestras, con un vendaje en la cabeza.
+—Me peleo yo contigo —dijo Comyn a Monaghan—. Yo te doy el chelín.
+—Hecho —dijo Monaghan. Volvió a beber.
+—Todos somos hermanos —dijo el subadar—. A veces hacemos un alto en la posada indebida. Creemos que es de noche y hacemos un alto, pero no es de noche. Eso es todo.
+—Te doy un soberano —dijo Comyn a Monaghan.
+—Hecho —dijo Monaghan. Alargó la botella al otro, al que llevaba un vendaje en la cabeza.
+—Gracias —dijo éste—, pero ya voy servido.
+—Yo me peleo con él —dijo Comyn.
+—Es porque sólo podemos hacer las cosas en el corazón —dijo el subadar—, pero vemos más allá de lo que hay en el corazón.
+—Que me ahorquen si lo haces tú —dijo Monaghan—. Déjamelo a mí, que es mío —se volvió al hombre del vendaje en la cabeza—. ¿Eres mío, sí o sí? Ten, bebe.
+—Yo ya voy servido, muchas gracias, caballeros —dijo el otro.
+Pero no creo que ninguno le prestásemos suficiente atención hasta que estuvimos dentro del Cloche-Clos. Estaba lleno hasta arriba, bullicioso, irrespirable, lleno de humo. Cuando entramos cesó todo el ruido como cuando se corta una cuerda en dos, uno de los cabos enredándose en una especie de acongojada consternación de rostros que se vuelven, y el camarero, un viejo con un delantal sucio, que retrocede ante nosotros, con la boca abierta y casi desencajada, en una expresión de ofendida incredulidad, como un ateo que se acabase de encontrar con Cristo o con el demonio. Atravesamos la estancia, retirándose el camarero al vernos avanzar, seguidos por los rostros ofendidos que se volvían a nuestro paso, hasta llegar a una mesa adyacente a otra desde la que nos miraban tres oficiales franceses con la misma expresión de asombro, y luego de ofensa, y de ira después. Se levantaron como un solo hombre; toda la estancia, el silencio, quedaron entrecortados por las voces, que sonaron como ametralladoras. Fue entonces cuando me di la vuelta y miré al hombre que acompañaba a Monaghan por vez primera, con su guerrera verde y sus pantalones negros, ceñidos, embutidos en las botas negras, de caña alta, y con el vendaje en la cabeza. Se había hecho además un corte al afeitarse, y con la cabeza vendada y la cara hecha el no va más de la cortesía, aturdido, exangüe, maltrecho, parecía que Monaghan le hubiera zurrado de lo lindo. De cara redonda, no viejo, con un vendaje inmaculado, que sólo servía para subrayar las generaciones de diferencia existentes entre él y el subadar del turbante, flanqueado por Monaghan, con la cara despavorida y la guerrera despavorida y rodeados ambos por los rostros ofendidos y perplejos de los franceses, parecía que contemplase con cortesía, alerta, concernido, su propia lucha contra la embriaguez que Monaghan le iba imponiendo. Tenía un aire de monje primitivo: la rigidez, el porte marcial, todos los botones en su sitio, el vendaje impecable y los cortes que se había hecho al afeitarse, como si meditase enfurecido sobre la llama clara de una convicción inamovible en que el comportamiento individual sobrepasa toda la violencia del caos inexplicable. Reparé entonces en el otro acompañante de Monaghan: un oficial de la policía militar americana. No estaba bebiendo. Se sentó al lado del alemán y se puso a liar cigarrillos sacando el tabaco de un saco de tela.
+Al otro lado del alemán, Monaghan le llenó el vaso.
+—Lo he derribado esta mañana —dijo—. Me lo voy a llevar conmigo a casa.
+—¿Por qué? —dijo Bland—. ¿Qué es lo que le quieres?
+—¿Por qué? Pues porque ahora es mío —dijo Monaghan. Dejó el vaso lleno delante del alemán—. Toma, bebe.
+—Yo una vez pensé llevarme uno a casa, llevárselo a mi mujer —dijo Bland—. Así le podría demostrar que sólo he estado en una guerra. Pero nunca encontré a uno decente. Uno que estuviera de una pieza, quiero decir.
+—Venga —dijo Monaghan—. Bebe.
+—Yo voy servido —dijo el alemán—. Voy servido todo el día.
+—¿Y tú te quieres marchar a América con ése? —dijo Bland.
+—Sí, me gustaría, gracias.
+—Por supuesto que te gustaría —dijo Monaghan—. Te voy a convertir en todo un hombre. Bebe.
+El alemán levantó el vaso, pero sin llevárselo a los labios. Tenía la cara en tensión, como si pidiera clemencia, aunque con cierta serenidad, como la del hombre que ha aprendido a dominarse. Imagino que algunos de los mártires antiguos seguramente tuvieron que mirar a los leones con esa misma expresión. Además, estaba maltrecho. No por culpa del licor: por la herida que tenía en la cabeza.
+—En Bayreuth tengo esposa e hijo. A mi hijo aún no lo conozco.
+—Ah —dijo el subadar—. Bayreuth. Una vez estuve allí en primavera.
+—Ah —dijo el alemán, y miró rápidamente al subadar—. ¿Y? ¿La música?
+—Sí —dijo el subadar—. En la música de ustedes algunos, muy pocos, han sentido, han paladeado, han vivido la verdadera hermandad de los hombres. Los demás sólo podemos mirar más allá del corazón. Pero también podemos ir por ese mismo camino en la música.
+—Y luego tenemos que volver —dijo el alemán—. Eso no es bueno. ¿Por qué tendremos que volver siempre?
+—Aún no es la hora de eso —dijo el subadar—. Pero pronto… Ya no queda tanto como antes. Aún no es la hora.
+—Sí —dijo el alemán—. La derrota será provechosa para nosotros. La derrota es buena para el arte, la victoria no lo es.
+—Así que reconoces que os hemos dado una buena tunda —dijo Comyn. Estaba sudando de nuevo, y Sartoris tenía bastante blancas las aletas de la nariz. Pensé en lo que había dicho el subadar acerca de los hombres en el agua. Sólo que para nosotros el agua era la embriaguez: ese aislamiento del alcoholismo que insta a los hombres a gritar y a reír y a pelear, no los unos con los otros, sino cada cual con ese yo insoportable que, víctima de la embriaguez, es más dócil y menos propenso a escapar. Ruidosos, y más que ruidosos, sin sospechar ni de lejos el negro atronar de la Francia ofendida (el resto de las mesas se iban vaciando deprisa; los demás clientes se habían apelotonado en torno al alto mostrador en donde la patronne, una anciana con gafas de montura de acero, seguía sentada con la labor de punto en el borde del mostrador), nos gritábamos los unos a los otros y hablábamos en lenguas extranjeras cada cual desde su aislamiento insuperable, reiterativos, sin que a los unos nos escuchasen los otros; en todo momento sumergidos por nosotros y más extranjeros aún, el alemán y el subadar charlaban apaciblemente sobre la música, el arte, la victoria nacida de la derrota. Fuera, en la heladora oscuridad de noviembre, persistía la suspensión, la pesadilla sin creer del todo, sin despertar del todo, la pausa para respirar de las antiguas lujurias verborreicas, del embrujo y de las codicias abigarradas en cornucopias.
+—Qué joder, si soy irlandés hasta las cachas —dijo Monaghan—. Eso es lo que soy.
+—¿Y qué más dará? —dijo Sartoris, las aletas nasales del color de la tiza en el rostro colorado. A su hermano gemelo lo mataron en julio. Estaba en un escuadrón de Camels por debajo de nosotros, y Sartoris estaba presente cuando sucedió. Durante toda la semana siguiente, nada más volver de su patrulla volvía a llenar los tanques y los cargadores y despegaba él solo. Un día alguien lo vio a unos cinco mil pies de altitud, e incluso más alto, por encima de un viejo Armstrong F. K. 8. Supongo que el otro tío que iba aquella mañana con su hermano vio los distintivos en el cacharro de los alemanes; de todos modos, eso fue lo que hizo Sartoris, sirviéndose de un Armstrong F. K. 8 a manera de cebo. No supimos ni de dónde lo sacó ni a quién convenció para que lo pilotase. Pero aquella semana abatió tres aparatos enemigos, los derribó uno por uno cuando se lanzaban a ciegas a por el Armstrong F. K. 8, y al octavo día ya no volvió a salir. «Seguro que se lo ha llevado por delante», dijo Hume. Pero nunca llegamos a saberlo. Él no nos lo dijo. Sólo que después de aquello volvió a estar bien. Nunca fue muy hablador; se limitaba a patrullar por el aire, y a lo mejor una vez por semana se sentaba y se ponía a beber con nosotros, más bien callado, con las aletas nasales muy blancas.
+Bland estaba llenándose el vaso muy despacio, gota a gota, con una indolencia felina. Entendí bien por qué no caía en gracia a los hombres, y por qué a las mujeres sí. Comyn, con los brazos cruzados sobre la mesa, la bocamanga en un charco de licor derramado, miraba fijamente al alemán. Tenía los ojos inyectados en sangre y bastante saltones. Cubierto por la gorra de plato aplastada, el oficial de la policía militar americana fumaba sus delgados cigarrillos con rostro bastante inexpresivo. La cadena de acero de la que pendía el silbato le formaba una curva sobre el bolsillo de la pechera, y tenía la pistola hacia delante, sobre el regazo. Más allá, los franceses, los soldados, el camarero, la patronne, se apelotonaban ante el mostrador. Me llegaban sus voces desde lejos, como los grillos en la hierba de septiembre, las sombras de sus manos aleteando por la pared y desapareciendo en un visto y no visto.
+—Yo no soy un soldado —dijo Monaghan—. Yo no soy un caballero. Yo no soy nada —en la base de ambas hombreras tenía sendos desgarrones, y otros dos más alargados en paralelo, sobre el bolsillo izquierdo, en donde estuvieron antes las dos alas y la condecoración—. No sé lo que soy. Llevo tres años metido en esta maldita guerra y todo lo que sé es que no he muerto. Yo…
+—¿Y cómo sabes que no has muerto? —dijo Bland.
+Monaghan miró a Bland, boquiabierto, sin haber terminado lo que fuese a decir.
+—Por un chelín si quieres te mato —dijo Comyn—. No me gusta nada esa maldita jeta que tienes, teniente. Maldito teniente…
+—Yo soy irlandés hasta las cachas —dijo Monaghan—. Eso es lo que soy. Mi padre era irlandés por los cuatro costados, qué joder. Y no sé qué era mi abuelo. Ni siquiera sé si tuve abuelo. Mi padre no se acuerda de haberlo tenido. Es probable que fuese uno entre varios. Por eso no tuvo necesidad de ser un caballero. Nunca tuvo que serlo. Por eso pudo embolsarse un millón de dólares abriendo alcantarillas en tierra. Por eso pudo mirar las altas ventanas, las ventanas relucientes, y decir, yo se lo he oído decir, fumando en una pipa con una humareda que te sacaba las tripas de dentro, maldito criticón, alfeñique…
+—¿Tú presumes del dinero de tu padre o de sus alcantarillas? —dijo Bland.
+—… las miraba y me decía, decía: «Cuando estés con tus amigos, los más refinados, a cuyos padres y madres y hermanas conocerás en Yale, a lo mejor les puedes recordar que todos por igual somos esclavos de nuestros excrementos, así que el viejo de tu papá, al que mandaban por la puerta de atrás de sus cocinas, en sus edificios de cuarenta pisos, bien puede pasar por ser el rey de todos ellos». ¿Qué estabas diciendo, eh? —y miró a Bland.
+—Mira, compañero —dijo el policía militar—. Ya basta de todo esto. Tengo que dar cuenta de este prisionero.
+—Un momento —dijo Monaghan. No dejaba de mirar a Bland—. ¿Qué estabas diciendo?
+—Decía que si presumes del dinero de tu padre o de sus alcantarillas —dijo Bland.
+—Pues nada de eso —dijo Monaghan—. ¿Por qué iba a presumir? Tampoco presumiría de los trece hunos que llevo derribados, ni de las dos condecoraciones, una de las cuales me la dio su maldito rey —añadió señalando a Comyn con un gesto del mentón.
+—Ni se te ocurra decir que es mi maldito rey —dijo Comyn, la bocamanga empapándose poco a poco en el charco de licor derramado.
+—Mira —dijo Monaghan. Se señaló de pronto los desgarrones que tenía en las hombreras, y los dos desgarrones paralelos en la pechera—. Esto es lo que yo pienso de todo esto. De toda esa maldita farfolla sobre la gloria y los caballeros. Yo era joven, creí que había que ser joven. Entonces me metí de lleno y ya no hubo tiempo de parar, ni siquiera cuando me di cuenta de que eso no contaba. Pero ahora todo ha terminado, ahora se acabó. Ahora puedo ser lo que soy. Irlandés hasta las cachas; hijo de un inmigrante que no sabía nada más que darle al pico y a la pala hasta que la juventud y el tiempo para disfrutarla se le agotaron antes de tiempo. De una turbera había salido, y su hijo en cambio fue a un colegio para caballeros y regresó del otro lado del charco a jactarse con cualquiera de los que eran dueños de las turberas y del sudor amargo de los que se enfangaban sacando el carbón de las turberas, y el rey le dijo que muy bien hecho.
+—Te doy un chelín y te parto la crisma —dijo Comyn.
+—Pero… ¿se puede saber por qué te lo quieres llevar de vuelta contigo? —dijo Bland. Monaghan se limitó a mirar a Bland. En Monaghan había también algo del crucificado: enardecido, enfurecido, incapaz de hablar no por estupidez, sino como si otros, más incluso que nosotros, hubiesen destilado los agotados bidones de la lujuria antigua y de la codicia despertando al fin, atónita, su propia impotencia y su desesperanza acumulada. Bland estaba muy tieso, las piernas extendidas, las manos sobre la pernera del pantalón, el rostro apuesto y sosegado, insufrible—. ¿Qué pico con cuerdas hará sonar éste dándole con el arco? ¿Una pala con cuerdas de tripa de gato callejero? ¿O es que sabrá sacar música de los retretes y cisternas de Manhattan para que la toque tu padre después de cenar? —Monaghan sólo miró a Bland con esa expresión a medias despavorida, a medias embelesada. Bland se volvió, perezoso, hacia el alemán.
+—Mira… —dijo el policía militar.
+—¿Está usted casado, Herr Teniente? —preguntó Bland.
+El alemán alzó los ojos. Miró veloz de un rostro a otro.
+—Sí, gracias —dijo. Aún no había tocado el vaso, lleno hasta arriba, salvo para levantarlo con una mano sin llevárselo a los labios. Pero no estaba más sobrio que antes, convertido el licor en su dolor de cabeza, en su cabeza el latir y el zumbar del alcohol en sus venas—. Yo provengo de la pequeña nobleza de Prusia. Somos cuatro hermanos: el segundo en el ejército está, el tercero no hizo nada y sigue en Berlín, el pequeño es cadete de un regimiento de dragones; yo soy el mayor y estuve en la universidad. Aprendí. Aquellos tiempos sí que… Era como si los jóvenes de las tierras más tranquilas nos criásemos juntos, los elegidos, dignos testigos de una época veloz, como una mujer llamada a un alto destino en la tierra, y de un hombre. Es como si la basura de antaño, los desperdicios del hombre que ha metido tantas veces la pata, se fuesen a despejar del todo para que una raza nueva aparezca con la sencillez heroica de los antiguos y se enseñoree de una tierra nueva. Ustedes conocieron esa época, ¿no? La época en que brillaban los ojos y la sangre se avivaba en las venas —nos miró a todos a la cara—. ¿No? Bueno, acaso en América no fuera así. América es muy nueva; en una casa nueva no se acumulan tantos desperdicios como en una casa vieja —miró su vaso unos instantes con la serenidad pintada en el rostro—. Regreso a casa; le digo a mi padre que todo lo que llevo aprendido en la universidad no sirve de nada; que barón no he de ser. Él no se lo cree. Me habla de Alemania, de la patria; le digo que sigue estando donde siempre estuvo, y que él dirá patria, pero yo la llamo hermandad, eso le digo, y le digo que la palabra padre es un barbarismo, el primero que hay que llevarse por delante; es el símbolo de esa jerarquía que ha ensuciado la historia del hombre y la ha llenado de injusticias y arbitrariedades, no de lo moral; de fuerza, no de amor.
+»A ése lo mandan a buscar de Berlín; ése termina en el ejército. Sigo diciendo que barón no he de ser, que eso de nada sirve. Estamos en una sala en la que los retratos de mis antepasados cuelgan de las paredes; me planto ante ellos como si fuera un consejo de guerra; digo que es Franz quien ha de heredar el título de barón, que a mí no me corresponde. Mi padre dice que puedo y que debo y que ha de ser por Alemania. Y le digo yo: ¿por Alemania ha de ser mi esposa baronesa? Y como en un consejo de guerra les digo que me he casado con la hija de un músico que además es campesina.
+»Así que así van las cosas. El de Berlín es el que será barón. Él y Franz son gemelos, pero Franz ya es capitán, y hasta el más humilde en nuestro ejército puede compartir mesa y mantel con el káiser; no necesita ser barón. Así que estoy en Bayreuth con mi esposa y mi música. Es como si estuviera muerto. Carta no recibo hasta la que me llega y me dice que mi padre ha muerto y que yo a medias lo he matado, y el que debía está ahora en Berlín y ha de ser barón. Pero no se queda en casa. En 1912 sale en un periódico de Berlín porque ha muerto a manos del marido de una señora, así que es Franz el que a fin de cuentas termina por ser barón.
+»Y se declara la guerra. Pero yo estoy en Bayreuth con mi esposa y mi música, porque pensamos que mucho no ha de tardar, ya que antes mucho no tardó. La patria, con todo su orgullo, necesita hacer uso de los colegios, pero cuando nos necesitó a nosotros ni siquiera lo supo. Y cuando se dio cuenta de que nos necesitaba a nosotros ya era demasiado tarde, y cualquier campesino que fuese duro de pelar les iba a valer igual. Y así…
+—Entonces, ¿por qué fuiste? —dijo Bland—. ¿Te obligaron las mujeres? ¿Es que te tiraron huevos y tomates?
+El alemán miró a Bland.
+—Yo soy alemán; eso está más allá de donde llego. El yo, el yo soy. No para el que es barón y para el que es káiser —dejó de mirar a Bland sin mover los ojos—. Hubo una Alemania antes de que hubiese barones —dijo—. Y aún después la habrá.
+—¿También después de esto?
+—Tanto más la habrá. Antes era el orgullo, una palabra en los labios. Ahora es… ¿cómo lo llaman ustedes?
+—Una nación conquista sus banderas —dijo el subadar—. Un hombre se sabe vencer a sí mismo.
+—Así como una mujer da a luz a su hijo —dijo el alemán.
+—De la lujuria vienen los dolores del parto —dijo el subadar—; de los dolores del parto, la afirmación, la divinidad, la verdad.
+El policía militar estaba liando otro cigarrillo. Observó al subadar, en su rostro una expresión asalvajada, contenida a duras penas, fría. Lamió el cigarrillo y me miró.
+—Cuando vine a este maldito país —dijo—, pensé que los negros no eran más que negros. Ahora, que me ahorquen si entiendo qué son. ¿Y ése qué es? ¿Un encantador de serpientes?
+—Sí —dije—. Un encantador de serpientes.
+—Entonces lo mejor será que saque la serpiente que tiene y acabe con ella. Tengo que dar cuenta de estos prisioneros. Mire a esos franchutes de allá.
+Cuando me volví, vi que tres de los franceses salían de la estancia, el insulto y la ofensa pintados en sus rostros y en sus espaldas. El alemán había vuelto a tomar la palabra.
+—Por los periódicos me entero de que Franz es coronel y luego general, y que el cadete que era la última vez que lo vi es ahora un as de la guerra condecorado con la Cruz de Hierro por el káiser en persona. Y estamos en 1916. Por los periódicos me entero de que el cadete ha muerto por el tal Bishop que lucha con ustedes[56] —hizo una leve inclinación de cabeza hacia Comyn—, un hombre bueno. Ahora resulta que yo también soy cadete. Es como si lo supiera. Es como si viese lo que va a pasar. Me transfieren al ejército del aire y soy aviador, a pesar de lo cual sé que Franz es general del estado mayor y todas las noches me digo: «Has vuelto de nuevo», y sé que eso no sirve de nada.
+»Así fue hasta que nuestro káiser se dio a la fuga.[57] Y me entero entonces de que Franz está en Berlín; tengo entendido que es verdad, que no hemos malgastado todo por orgullo, porque sabemos que mucho ya no queda, y Franz está a salvo en Berlín, lejos de todos los combates.
+»Llega entonces esta mañana. Llega la carta manuscrita de mi madre, con una letra que hacía siete años que no veía yo, dirigida a mí en mi condición de barón. Franz ha recibido un balazo cuando iba a caballo, de un soldado alemán, en una calle de Berlín. Es como si todo se hubiese olvidado, porque las mujeres a veces olvidan así de rápido, pues que para ellas nada es verdad verdadera, nada es de justicia, y más si no se puede tener entre las manos o no puede morir. Por eso quemo todos mis papeles, el retrato de mi esposa y de mi hijo, al que nunca he visto, y destruyo mi placa de identificación y me quito las insignias de la guerrera —e indicó con un gesto el cuello de la guerrera.
+—¿Quieres decir —dijo Bland— que no tenías ninguna intención de volver? ¿Por qué no te pegaste un tiro, ahorrándole a tu Gobierno el precio de un avión?
+—El suicidio es cosa del cuerpo sólo —dijo el alemán—. El cuerpo nada saca en claro. Importancia ninguna tiene. Es algo que hay que mantener bien limpio si es que se puede.
+—No es más que una habitación en la posada —dijo el subadar—. Es sólo el sitio en el que nos escondemos un rato.
+—El lavabo —dijo Bland—. El retrete.
+El policía militar se puso en pie. Dio un golpecito en el hombro del alemán. Comyn lo estaba mirando fijamente.
+—Así que reconoces que os hemos dado una buena tunda —dijo.
+—Sí —dijo el alemán—. Fue la primera vez, porque nosotros estábamos mucho peor. A la próxima puede que sea vuestra Inglaterra. Y entonces mejorará vuestra Inglaterra, seguro.
+—Ni se te ocurra decir «mi Inglaterra» —dijo Comyn—. Yo soy de la nación irlandesa —se volvió a Monaghan—. Y tú has hablado de mi maldito rey, pero Irlanda no ha tenido rey desde el Ur Neill, Dios bendiga su pelirrojo trasero.
+Rígido, a duras penas contenido, el alemán hizo un gesto inapreciable.
+—¿Lo ven? —dijo sin mirar a nadie en particular.
+—Pierden los victoriosos lo que ganan los vencidos —dijo el subadar.
+—¿Y ahora qué hará? —dijo Bland.
+El alemán no respondió. Se irguió del todo con la cara enfermiza, con el vendaje blanco.
+—¿Y qué hará usted? —dijo el subadar a Bland—. ¿Qué es lo que vamos a hacer cualquiera de nosotros? Toda esta generación que peleó en la guerra ha muerto con nosotros esta noche. Pero es que aún no nos hemos enterado de que estamos muertos.
+Miramos al subadar, Comyn con los ojos inyectados en sangre, Sartoris con las aletas nasales muy blancas, Bland derrengado en su silla, indolente, insufrible, con aires de mujer mimada. Encima del alemán se había puesto en pie el policía militar.
+—Mucho parece que le preocupa eso —dijo Bland.
+—¿No lo cree usted? —dijo el subadar—. Pues espere y verá.
+—¿Cómo? ¿Que espere? —dijo Bland—. Creo que en estos últimos tres años no he hecho nada para adquirir semejante hábito.
+—Pues ya lo ha de ver usted, lo verá antes que si se queda cruzado de brazos —dijo el subadar—. Ya lo verá —se quedó mirándonos, con serenidad y serio como él solo—. Los que cuatro años llevan pudriéndose allí mismo —movió el brazo, corto y grueso— no están más muertos que nosotros.
+El policía militar volvió a tocar al alemán en el hombro.
+—Demonios —dijo—. Vámonos, compañero —se volvió entonces y miró a los dos franceses, un oficial y un sargento, que estaban en pie junto a la mesa. Permanecimos así unos instantes. Fue como si todos los zapateros en la superficie del agua hubiesen descubierto que sus órbitas coincidían, como si supieran en ese momento que ya no tenían que ir de un lado a otro sin ton ni son, como si supieran que tampoco hacía falta que siguieran moviéndose. Por debajo del alcohol noté que se formaba despacio esa bola dura, caliente, como si estuviera en puertas de entrar en combate, como cuando uno sabe que algo está a punto de ocurrir; ese instante en que uno piensa Ahora. Ahora lo puedo tirar todo por la borda, ahora puedo ser sin más. Ahora. Ahora. Es de veras agradable.
+—¿Por qué tienen que traer aquí a esa escoria, monsieur? —dijo el oficial francés. Monaghan lo miró de hito en hito, lo miró sin levantarse, bien apoyadas las nalgas en la silla, un poco de costado, un brazo apoyado en la mesa—. ¿Por qué se lo ponen ustedes tan crudo a Francia, monsieur? —dijo el oficial.
+Alguien sujetó a Monaghan en el momento en que se iba a levantar; fue el policía militar que estaba a su espalda quien lo sujetó cuando a punto estaba de levantarse.
+—Un mo-o-o-o-o-o-mento —dijo el policía militar—, un mo-o-o-o-o-o-mento —se le movía de arriba abajo el cigarrillo pegado al labio inferior al hablar, las manos sobre los hombros de Monaghan, el emblema que llevaba en el brazo izquierdo en destacado relieve—. ¿Y a usted qué le importa, franchute? —dijo. Tras el oficial y el sargento estaban los demás franceses, junto con la vieja, que trataba de abrirse paso a empellones en medio del círculo—. El prisionero está bajo mi custodia —dijo el policía militar—. Me lo llevaré a donde me venga en gana y lo retendré durante todo el tiempo que quiera. ¿Qué me dice de eso?
+—¿Y con qué autorización, monsieur? —dijo el oficial. Era alto y tenía un rostro demacrado, trágico. Vi entonces que uno de los ojos lo tenía de cristal. Estaba inmóvil, rígido, en una cara que parecía aún más carente de vida que su ojo falso.
+El policía militar miró el emblema de su brazalete, y miró luego al oficial y se dio un par de golpes con el dedo en la pistola que le colgaba del cinto.
+—Me lo voy a llevar a donde quiera, por todo su piojoso y condenado país. Me lo voy a llevar al Senado de ustedes y a patadas le exigiré a su presidente que le dé un escaño, y pueden ustedes sacar la lengua hasta lamerse la barbilla todo lo que quieran hasta que me toque volver a limpiarles la letrina en la que tienen ustedes metidos los pies.
+—Ah —dijo el oficial—, un perro rabioso, ya se ve.
+Dijo «perro rabioso» mascullando, sin mover una sola facción de la cara de muerto que tenía, en sí misma un insulto. A su espalda, la patronne se puso a dar gritos en francés:
+—¡Boche! ¡Boche! ¡Todo roto! ¡Todo roto! Todas las tazas, los platillos, los vasos, los platos, ¡todo, todo, todo roto! ¡Ya se lo voy a enseñar, ya! He guardado los trozos en un cajón para que los vea. Ocho meses han pasado desde que cayó el obús: platos, tazas, vasos, todo lo que tengo desde hace treinta años, ¡roto todo, roto todo de una sola vez! ¡Y cincuenta céntimos me cuesta cada vaso, y vergüenza me da que mis clientes…!
+Existe un momento insoportable, un punto de máximo cansancio en el que no hay retorno. Ni siquiera el alcohol se acerca a ese instante. Es algo que motiva a las multitudes, algo semejante a la elemental disminución de la igualdad, algo en el fondo insoportable. Cuando Monaghan se puso en pie, el policía militar lo sentó de un empujón. Luego fue como si todo hubiera saltado por los aires, como si nos viésemos sin rubor y sin vergüenza frente al espectro que durante cuatro años habíamos tenido que adornar con palabras altisonantes, ante el que habíamos tenido que saltar con presteza, con orden y concierto, todas las veces que lo indicase la señal. Vi al policía militar saltar contra el oficial, y vi enseguida a Comyn ponerse en pie y salirle al paso. Vi al policía militar darle a Comyn tres veces en la mandíbula con el puño antes de que Comyn hiciese presa en todo su cuerpo y lo arrojase limpiamente contra los que se habían apiñado, entre los que desapareció, horizontalmente, en el aire, tratando de sacar la pistola.
+Vi a tres soldaditos franceses que se le subieron a Monaghan a la chepa y vi que el oficial trataba de descargarle un golpe con una botella, y vi a Sartoris saltarle a su vez a la chepa al oficial. Comyn ya no estaba con nosotros; por el hueco que quedó apareció la patronne dando gritos. Fueron dos los que la sujetaron mientras ella se empeñaba en seguir adelante, tratando de escupirle en la cara al alemán.
+—¡Boche! ¡Boche! —exclamó, y finalmente le pudo escupir, con el cabello entrecano y suelto, todo revuelto en la cara; se volvió entonces y me escupió a mí en toda la cara—. ¡Y tú lo mismo! —exclamó—. ¡No es Inglaterra la que está hecha trizas! Tú también has venido a picotear en los despojos de Francia. ¡Chacal! ¡Buitre! ¡Animal! ¡Todo está hecho trizas! ¡Todo! ¡Todo! ¡Todo! —y por debajo de todo lo que se dijo, inmóviles, atentos, vigilantes, contenidos, el alemán y el subadar seguían sentados, el alemán con el rostro levantado, enfermizo, el subadar tranquilo como un ídolo sentado en cuclillas, enturbantados los dos como sendos profetas del Antiguo Testamento.
+No tardó gran cosa. No medió el tiempo en todo aquello. Mejor dicho, estábamos fuera del tiempo; estábamos dentro tal vez, pero no en la superficie del tiempo, en esa demarcación entre lo antiguo, entre lo que sabíamos que no indicaba que hubiésemos muerto, y lo nuevo, donde dijo el subadar que estábamos muertos.
+Más allá de las botellas que se blandieron, más allá de las mangas azules, de los rostros como máscaras contraídas en rígidos, insonoros gritos a los niños asustados, volví a ver a Comyn. Llegó arando el suelo como un barco sobrecargado cuando se pica la mar; bajo el brazo llevaba al anciano camarero, en los labios el silbato del policía militar. Sartoris entonces lanzó una silla contra la única luz del local.
+Hacía frío en la calle, un frío que traspasaba la ropa, que penetraba por los poros distendidos por el alcohol, que murmuraba apelando al esqueleto mismo. La plaza estaba desierta, las luces eran infrecuentes y remotas. Tan callado estaba todo que alcancé a oír el tenue goteo del agua en la fuente. Desde bastante lejos llegó un sonido remoto, también acallado por el cielo espeso y bajo, una nota tenuemente femenina, como todo griterío, incluso los de los hombres en masa, interrumpido de vez en cuando por el sonido de una banda militar. A la sombra de la tapia Monaghan y Comyn sostenían en pie al alemán. Estaba inconsciente; los tres eran invisibles, exceptuando el tenue manchurrón de la venda, e inaudibles, exceptuando las constantes y monótonas maldiciones de Monaghan.
+—Nunca tendría que haberse firmado una alianza entre franceses e ingleses —dijo el subadar. Lo dijo sin esfuerzo; invisible, su voz llana y desenvuelta tenía una resonancia de órgano, desproporcionada con respecto a su tamaño—. Las naciones que son distintas nunca deberían aunar fuerzas para luchar por un mismo objetivo. Que cada cual luche por algo distinto, por finalidades que no estén en conflicto, cada una a lo suyo.
+Sartoris pasó por delante de nosotros a la vuelta de la fuente, con la gorra hinchada y boca arriba, entre las manos. Oímos gotear el agua con cada uno de sus pasos. Pasó a ser una mancha más entre las manchas espesas, donde relucía la venda y donde Monaghan maldecía sin cesar, en voz baja.
+—Y cada una de acuerdo con sus tradiciones —dijo el subadar—. Mi pueblo… Los ingleses les dieron las armas. Los de mi pueblo las miraron y vinieron a verme: «Esta lanza es demasiado corta y pesa demasiado. ¿Cómo va a matar un hombre a su enemigo con una lanza de este tamaño, de este peso?». Les dieron guerreras llenas de botones que tenían que llevar abrochados; he pasado por toda una trinchera llena de hombres como ésos, acuclillados, inmóviles, enterrados hasta las orejas en las mantas, la paja, los sacos de arena vacíos, grises de frío los rostros de todos ellos; he retirado las mantas de torsos pacientes, vestidos sólo con una camisa. Los oficiales ingleses les decían: «Id allá y haced tal cosa». Ellos ni se movían. Un buen día, a mediodía, todo el batallón se puso en marcha al otro lado de un cráter, saltaron todos de la trinchera, llevándome a mí y a un oficial. Ganamos la trinchera sin hacer un solo disparo; lo que quedó de nosotros, el oficial, yo, diecisiete soldados, sobrevivió tres días en una transversal a la línea del frente enemigo; hizo falta una brigada entera para sacarnos de allí. «¿Por qué no habéis disparado? —me preguntó el oficial—. Los habéis dejado abatiros como si fuerais faisanes espantados». Los hombres no le miraron. Como niños permanecían en pie, murmurando, alerta, sin vergüenza. Dije al que los encabezaba: «¿Estaban cargados los fusiles, Das?». Como niños permanecían en pie, desconfiados, sin vergüenza. «Oh, hijo de muchos reyes», dijo Das. Yo le dije: «Di la verdad de tu sabiduría al sahib». «No estaban cargados, sahib», dijo Das.
+Volvió a llegarnos el sonido de la banda, remoto, atronador en el aire espeso de la noche. Al alemán le daban de beber de una botella.
+—A ver. ¿Se encuentra mejor? —dijo Monaghan.
+—Es por mi cabeza —dijo el alemán. Hablaban con voces quedas, como si comentasen el tono del papel pintado de una pared.
+Monaghan volvió a soltar un improperio.
+—Voy a volver, por Dios que sí.
+—No, no —dijo el alemán—. No se lo puedo permitir. Ya ha cumplido usted.
+Estábamos en la sombra, a resguardo de la tapia, y bebimos. Nos quedaba una botella. Comyn la hizo añicos contra la tapia en cuanto estuvo vacía.
+—¿Y ahora qué? —dijo Bland.
+—Chicas —dijo Comyn—. ¿No os dan ganas de ver a Comyn, el de la nación de Irlanda, en medio de sus rubios cabellos como un perro en medio de los trigales?
+Allí nos quedamos, escuchando a lo lejos la banda militar, el griterío distante.
+—¿Seguro que se encuentra bien? —dijo Monaghan.
+—Gracias —dijo el alemán—. Me encuentro bien.
+—Pues entonces vamos —dijo Comyn.
+—¿Te lo vas a llevar contigo? —dijo Bland.
+—Sí —dijo Monaghan—. ¿Qué pasa?
+—¿Por qué no te lo llevas al cuartel de la policía militar? Está herido.
+—¿Tú quieres que te parta la crisma, sí o no? —dijo Monaghan.
+—Como lo veas —dijo Bland.
+—Vamos, hombre —dijo Comyn—. ¿Quién es el imbécil que prefiere luchar en vez de joder? Todos los hombres son hermanos, y todas las mujeres son hermanas. Así que vámonos de una vez, fusileros de medianoche.
+—Vamos a ver —dijo Bland al alemán—: ¿usted quiere ir con ellos, sí o no?
+Con la cabeza vendada, sólo él y el subadar eran visibles, como dos heridos en medio de cinco fantasmas.
+—Espera un momento —dijo Monaghan a Comyn. Monaghan se acercó a Bland. Lo maldijo, lo insultó—. A mí me gustan las peleas —dijo en el mismo tono inexpresivo—. Me gusta incluso que me den una buena tunda.
+—Espere —dijo el alemán—. Eso tampoco lo puedo permitir —Monaghan se detuvo, quedando a menos de medio metro de Bland—. Tengo esposa e hijo en Bayreuth —dijo el alemán. Me lo dijo a mí, y me dio la dirección, dos veces, con todo cuidado.
+—Yo escribiré a su esposa —dije—. ¿Qué le debo decir?
+—Dígale que no es nada. Usted sabrá cómo.
+—Sí. Le diré que se encuentra usted bien.
+—Dígale que la vida no es nada.
+Comyn y Monaghan lo volvieron a sujetar por los brazos, uno a cada lado. Se dieron la vuelta y siguieron su camino, casi llevándoselo. Comyn se volvió a mirar una vez.
+—La paz sea contigo —dijo.
+—Y contigo sea la paz —dijo el subadar. Siguieron adelante.
+Los vimos siluetearse en la entrada de un callejón en el que había luz. Había un arco, y la luz tenue, fría, pálida, se adensaba en el arco y en los muros, de modo que fue como si entrasen por un portón sosteniendo al alemán entre los dos.
+—¿Qué van a hacer con él? —dijo Bland—. ¿Sujetarlo de pie en un rincón y apagar la luz? ¿O es que en los burdeles de Francia también hay camas para que se acuesten juntos?
+—¿Y eso a quién demonios le puede importar? —dije.
+Nos llegaba el sonido de la banda militar, atronador pese a todo. Hacía frío. Cada vez que se me estremecían las carnes por efecto del frío y del alcohol, me parecía oír cómo raspaban al rozar contra los huesos.
+—Hace siete años ya que vivo en este clima —dijo el subadar—. Pero sigue sin gustarme el frío.
+Lo dijo con voz grave, como si midiera un metro noventa. Era como si cuando lo hicieron se hubiesen dicho unos a otros: «Vamos a darle algo con lo que pueda llevar su mensaje dondequiera que vaya». «¿Por qué? ¿Quién va a hacer caso a su mensaje?» «Él lo hará. Por eso le daremos algo con lo que se pueda escuchar bien su mensaje.»
+—¿Por qué no se vuelve a la India? —dijo Bland.
+—Ah —dijo el subadar—. Yo soy como él. Yo tampoco he de ser barón.
+—Vaya. Prefiere quitarse del medio y dejar que se apoderen de su tierra gentes que tratan a las personas como los bueyes o los conejos.
+—Al quitarme del medio he deshecho en un día lo que costó dos mil años hacer. ¿No es algo?
+Temblábamos de frío. El frío era la banda militar, el griterío, que nos murmuraban con las manos frías apelando directamente al esqueleto, no a los oídos.
+—En fin —dijo Bland—, supongo que el Gobierno inglés está haciendo por la liberación de su pueblo más de lo que podría hacer usted.
+El subadar tocó levemente a Bland en el pecho.
+—Es usted muy sabio, amigo mío. Que se alegre Inglaterra de que no todos los ingleses sean tan sabios.
+—Entonces, ¿tiene pensado vivir en el exilio el resto de sus días?
+El subadar señaló con el brazo corto y grueso hacia el arco ya desierto por el que Comyn y el alemán y Monaghan habían desaparecido.
+—¿Es que no ha oído usted lo que dijo antes? Esta vida no vale nada.
+—Es usted muy libre de pensarlo —dijo Bland—. Pero por Dios le digo que mucho lamento tener que pensar que lo que he salvado de estos tres años no vale nada.
+—Usted salvó a un hombre muerto —dijo el subadar con serenidad—. Ya lo ha de ver.
+—Lo que he salvado es mi destino —dijo Bland—. Ni usted ni nadie más sabe cómo ha de ser.
+—¿Qué destino tiene usted, salvo el de estar muerto? Es una desdicha que tuviera que tocarle a su generación. Es una desdicha que durante los mejores años de su vida vaya a caminar por la tierra convertido en un espectro. Pero ése era su destino.
+A lo lejos se oía el griterío, una nota sostenida, femenina e infantil al mismo tiempo, y se volvieron a oír los metales de la banda militar, atronadores como las voces, desamparadas, alegres, histéricas, pero más que nada desamparadas. El arco, con el frío resplandor de la luz, bostezaba desierto, profundo, callado, como la cancela de entrada a otra ciudad, a otro mundo. De pronto se marchó Sartoris. Echó a caminar a buen paso, hacia el muro, contra el cual se apoyó con los brazos extendidos y vomitó.
+—Demonios —dijo Bland—. Quiero beber algo —se volvió hacia mí—. ¿Dónde está tu botella?
+—Se acabó.
+—¿Cómo que se acabó? ¿No había dos?
+—Pues ahora no tengo ni una. Si quieres beber, ahí tienes agua.
+—¿Agua? —dijo—. El agua, para las ranas.
+Entonces volvió a formárseme en el estómago una bola dura, caliente, placentera de sentir, insoportable, real; de nuevo ese instante en que uno dice Ahora. Ahora puedo olvidarme de todo, desecharlo todo.
+—Ya lo verás, maldito seas —le dije.
+Bland no me estaba mirando.
+—Dos veces —dijo en voz baja, desapasionada—. Dos veces en una hora. No está nada mal.
+Se volvió y se dirigió a la fuente. Sartoris venía caminando muy derecho. La música de la banda se mezclaba con el frío en los huesos.
+—¿Qué hora es? —dije.
+Sartoris se miró el reloj de pulsera.
+—Las doce.
+—Ya pasa de medianoche —dije—. A la fuerza.
+—He dicho que son las doce —dijo Sartoris.
+Bland se había agachado en la fuente. Allí había un poco de luz. Cuando lo alcanzamos se enderezó, secándose la cara. La luz le daba de lleno en la cara, y me pareció que durante un rato debía de haber metido toda la cabeza en el agua, para lavarse bien, pero entonces me di cuenta de que había estado llorando y que aún lloraba. Permaneció de pie ante la fuente, secándose la cara, llorando con fuerza, pero en silencio.
+—Mi pobre mujercita —dijo—. Mi pobre mujercita.
+Notas de la traducción:
+[1]Subadar: en el ejército británico de la India, oficial nativo y jefe al mando de una
+compañía de soldados nativos. La palabra, anglo-india, está compuesta por la voz
+subah (provincia del imperio mongol) y el sufijo -dar, «señor».
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

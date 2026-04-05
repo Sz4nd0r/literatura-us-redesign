@@ -1,0 +1,173 @@
+---
+layout: story
+title: La tienda mágica
+slug: hgw_tienda
+source: https://www.literatura.us/idiomas/hgw_tienda.html
+tags:
+  - hgw_tienda
+  - hgw
+---
+H. G. Wells
+(Bromley, Kent, 1866 — Londres, 1946)
+La tienda mágica (1903)
+(“The Magic Shop”)
+Originalmente publicado en The Strand Magazine (junio 1903);
+Twelve Stories and a Dream
+(Londres: Macmillan and Co., Limited / New York: The Macmillan Company, 1903, 378 págs.);
+The Country of the Blind and Other Stories
+(Londres: Thomas Nelson and Sons, 1911, 574 págs.)
+Había visto varias veces la Tienda Mágica desde lejos; había pasado una o dos veces por delante del escaparate, donde se podían contemplar pequeños objetos mágicos: bolas mágicas, gallinas mágicas, conos maravillosos, muñecas ventrílocuas, material para el truco del cesto, barajas que parecían corrientes, y todo ese tipo de cosas; pero nunca se me había pasado por la cabeza entrar, hasta que un día, sin previo aviso, Gip me cogió del dedo y me arrastró hasta el escaparate, y se comportó de tal forma que no me quedó más remedio que entrar con él. A decir verdad, no pensaba que estuviera en ese lugar —era una fachada de dimensiones modestas en Regent Street, entre una tienda de cuadros y un establecimiento donde salen los polluelos de las incubadoras patentadas—, pero el hecho es que estaba allí. Creía que se encontraba más cerca de Circus, o por la esquina de Oxford Street, incluso en Holborn; siempre estaba en la acera de enfrente y un tanto inaccesible, como si su situación fuera un espejismo; pero estaba allí en ese momento, sin ningún género de dudas, y la gruesa yema del dedo de Gip hacía un ruido sobre el cristal.
+—Si fuera rico —dijo Gip, mientras señalaba con un dedo el «huevo que desaparece»— me compraría esto. Y eso —refiriéndose a la «muñeca que llora, muy humana»—, y esto —señalando una cosa misteriosa que se llamaba, según se leía en una elegante tarjeta: «Compra uno y asombra a tus amigos»—. Cualquier cosa —añadió— puede desaparecer bajo uno de estos conos. Lo he leído en un libro. Y allí, papá, está el «medio penique que desaparece»… sólo que lo han puesto de esa forma para que no podamos ver cómo se hace.
+Gip, un niño encantador que había heredado la educación de su madre, no tenía intención de entrar en la tienda ni de molestar en absoluto; pero me llevó del dedo inconscientemente hasta la puerta y dio a entender su interés de una forma clara.
+—Eso —dijo, y señaló la «botella mágica».
+—¿Y si la tuvieras? —le dije.
+Cuando oyó esta pregunta prometedora, me miró con un resplandor repentino en los ojos.
+—Se lo enseñaría a Jessie —dijo, pensando como siempre en los demás.
+—Quedan menos de cuatro meses para tu cumpleaños, Gibbles —dije, y puse la mano en el picaporte.
+No respondió, pero su mano me apretó más el dedo, y así entramos en la tienda.
+No era una tienda común; era una tienda mágica, y el entusiasmo y la precipitación que Gip habría mostrado de tratarse de meros juguetes, no se manifestó en esta ocasión. Dejó que el peso de la conversación recayera sobre mí.
+Era una tienda pequeña, estrecha y con poca luz; el timbre de la puerta volvió a sonar con una nota de dolor cuando la cerramos. Durante un momento estuvimos solos y pudimos contemplar lo que había a nuestro alrededor. Había un tigre de papier-maché sobre la vitrina que cubría el mostrador, un tigre grave, de ojos bondadosos que movía la cabeza rítmicamente; había varias esferas de cristal, una mano de porcelana que sostenía cartas mágicas, un surtido de peceras mágicas de varios tamaños, un sombrero mágico impúdico que mostraba sin vergüenza sus resortes. En el suelo había espejos mágicos: uno te alargaba y estrechaba, otro te aumentaba la cabeza y te hacía desaparecer las piernas, y otro te hacía pequeño y gordo como un tonelete. Cuando nos estábamos riendo de esto, llegó el que, según creí, era el encargado de la tienda.
+Fuera quien fuera, estaba detrás del mostrador; era un hombre cetrino, moreno, extraño, con una oreja más grande que otra y un mentón como la punta de una bota.
+—¿En qué puedo servirles? —dijo extendiendo sus dedos largos y mágicos sobre la vitrina.
+Y así, con un susto, fue como le conocimos.
+—Quiero comprar a mi pequeño algún truco sencillo de prestidigitación —dije.
+—¿Un juego de manos? —preguntó—. ¿Mecánico? ¿Casero?
+—Algo divertido —dije.
+—¡Hum! —dijo el dependiente, y se rascó la cabeza como si reflexionara. Entonces sacó claramente de la cabeza una bola de cristal—. ¿Algo así? —dijo, y nos la acercó.
+Lo que hizo fue sorprendente. Había visto el truco infinidad de veces en algún espectáculo —forma parte del repertorio habitual de los prestidigitadores—, pero no esperaba verlo allí.
+—Está muy bien —dije riéndome.
+—¿Verdad? —dijo el dependiente.
+Gip alargó la mano para coger la bola, pero sólo encontró una mano vacía.
+—Está en tu bolsillo —dijo el dependiente, ¡y allí estaba!
+—¿Cuánto cuesta? —pregunté.
+—Las bolas de cristal no cuestan nada —dijo el dependiente con cortesía—. Las conseguimos gratis —añadió sacando una del codo.
+Volvió a sacar otra de la nuca y la dejó junto a la anterior en el mostrador. Gip miró su bola de cristal con prudencia, después dirigió una mirada de interrogación hacia las dos que estaban en el mostrador y, finalmente, examinó con sus ojos redondos al dependiente, que sonrió.
+—Puedes quedarte con estas también —dijo el dependiente—, y, si no te importa, con una que saque de mi boca. ¡Así!
+Gip me pidió consejo con la mirada y luego, en profundo silencio, se guardó las cuatro bolas, estrechó de nuevo mi dedo tranquilizador y se dio ánimos para presenciar el siguiente acontecimiento.
+—Conseguimos todos nuestros pequeños trucos de esta forma —observó el dependiente.
+Me reí como el que sigue una broma.
+—En lugar de ir al distribuidor —dije—. Evidentemente, así sale más barato.
+—En cierto modo —dijo el dependiente—. A fin de cuentas acabamos pagándolos, pero no tanto… como la gente supone… Nuestros trucos más importantes y los suministros diarios de las demás cosas que queremos los sacamos de ese sombrero… Y usted sabe, señor, si me permite decírselo, que no hay un almacén de venta al por mayor de artículos mágicos genuinos. No sé si ha reparado en nuestro rótulo: La Tienda de Magia Genuina.
+Sacó una tarjeta comercial de su mejilla y me la entregó.
+—Genuina —dijo, acompañando la palabra con el movimiento de un dedo—. No hay ningún tipo de engaño —añadió.
+Parecía que estaba llevando la broma demasiado lejos.
+Se volvió hacia Gip con una sonrisa extraña.
+—Mira, tú eres un Buen Muchacho.
+Me sorprendió que supiera esto, pues, en beneficio de su disciplina, lo manteníamos en secreto incluso en casa; pero Gip recibió la frase con impávido silencio y mantuvo la mirada firme sobre el dependiente.
+—Sólo los Niños Buenos logran pasar por esa puerta.
+Y, a modo de ejemplo, llegó hasta nosotros un golpeteo en la puerta y se pudo oír débilmente una vocecita que gritaba:
+—¡Papá! ¡Papá! ¡Quiero entrar ahí, papá! ¡Quiero entrar ahí!
+Luego se oyó la voz de un angustiado padre que trataba de consolarle y tranquilizarle:
+—Está cerrado, Edward —dijo.
+—Pero no lo está —dije.
+—Sí, señor —dijo el dependiente—. Siempre está cerrado para esa clase de niños.
+Mientras hablaba vislumbramos al niño: una carita blanca, pálida de comer dulces y chucherías, y deformada por las malas pasiones; un pequeño egoísta inexorable que daba patadas al cristal encantado.
+—No servirá de nada —dijo el comerciante cuando me dirigí hacia la puerta, movido por mi natural amabilidad.
+Al poco tiempo se llevaron al niño mimado, que no paraba de berrear.
+—¿Cómo logra hacer eso? —dije respirando un poco más libremente.
+—¡Magia! —dijo el dependiente, moviendo la mano descuidadamente, y, de pronto… surgieron chispas de diversos colores de sus dedos y se desvanecieron en las sombras de la tienda.
+—Antes de entrar decías —dijo dirigiéndose a Gip— que querías una de nuestras cajas «compra una y asombra a tus amigos».
+—Sí —dijo Gip, después de haberse dado ánimos.
+—Está en tu bolsillo.
+E inclinándose sobre el mostrador —tenía un cuerpo increíblemente largo—, este asombroso personaje mostró el artículo como suelen hacerlo los prestidigitadores.
+—Papel —dijo, y sacó una hoja del sombrero vacío—. Cuerda.
+Y su boca se convirtió en una caja de cuerdas, de la cual sacó una tira interminable que rompió con los dientes cuando terminó de atar el paquete… y, después —eso me pareció a mí—, se tragó el ovillo. Luego encendió una vela en la nariz de una de las muñecas ventrílocuas, puso uno de sus dedos (que se había puesto rojo como el lacre) en el fuego, y selló el paquete.
+—Luego estaba el «huevo que desaparece» —observó.
+Sacó uno de mi chaqueta y lo empaquetó, así como el «niño que llora, muy humano». Cuando estaban listos, yo entregaba los paquetes a Gip, que los estrechaba contra el pecho.
+Habló muy poco, pero sus ojos eran elocuentes, al igual que la fuerza con que sostenía los paquetes. Gip era el escenario de emociones indescriptibles. Estas eran magia auténtica.
+Luego, sobresaltado, descubrí algo que se movía dentro de mi sombrero, algo suave e inquieto. Me quité el sombrero rápidamente y una paloma irritada —un cómplice, sin duda— saltó, corrió por el mostrador, y creo que se metió en una caja de cartón, detrás del tigre de papier-maché.
+—¡Qué horror! —dijo el dependiente, quitándome el sombrero con destreza—. ¡Vaya pájaro descuidado! ¡Mira que anidar en cualquier parte!
+Sacudió mi sombrero y en su mano abierta aparecieron dos o tres huevos, una canica grande, un reloj, media docena de las inevitables bolas de cristal, y más y más papel arrugado y estrujado, mientras hablaba sin parar de cómo la gente se olvida de cepillar los sombreros por dentro, así como por fuera; lo decía con mucha educación, pero refiriéndose a mí.
+—Se acumulan todo tipo de cosas, señor… No me refiero a usted en particular, por supuesto… Casi todos los clientes… Es asombroso todo lo que llevan encima…
+El papel arrugado crecía y ondeaba en el mostrador, cada vez en mayor cantidad, hasta que casi ocultó al dependiente, hasta que lo ocultó por completo, y su voz seguía y seguía.
+—Ninguno de nosotros sabe lo que puede ocultar la buena apariencia de un ser humano, señor. No somos mejores que fachadas encaladas, sepulcros blanqueados…
+Su voz se paró exactamente igual que cuando se golpea el gramófono del vecino con un ladrillo bien dirigido: el mismo silencio instantáneo. El crujido del papel cesó, todo quedó en silencio.
+—¿Ha terminado con mi sombrero? —dije al cabo de un rato.
+Pero no hubo respuesta.
+Miré a Gip y Gip me miró a mí; allí estaban nuestras imágenes deformadas en los espejos mágicos: extrañas, graves, inmóviles…
+—Creo que nos vamos a ir —dije—. ¿Nos puede decir cuánto es todo esto…?
+—¡Oiga! —dije con voz más bien fuerte—. Quiero la cuenta y mi sombrero, por favor.
+Creo que alguien sorbió por las narices detrás del mostrador.
+—Miremos detrás del mostrador, Gip —dije—. Creo que nos está tomando el pelo.
+Llevé a Gip alrededor del tigre que meneaba la cabeza. Y ¿qué creéis que había detrás del mostrador? ¡Nadie, absolutamente nadie! Sólo mi sombrero tirado en el suelo y un típico conejo de prestidigitador, blanco y con orejas romas, sumido en sus meditaciones y con un aspecto tan estúpido y apocado como sólo los conejos de los prestidigitadores pueden tenerlo. Recogí mi sombrero y el conejo se apartó de mi camino arrastrando los pies.
+—Papá —dijo Gip, susurrando débilmente.
+—¿Qué pasa, Gip? —dije.
+—Me gusta esta tienda, papá.
+«A mí también me gustaría —me dije para mis adentros— si el mostrador no se hubiera alargado de repente, impidiéndonos el paso hacia la puerta».
+Pero no quise llamar la atención de Gip sobre esto.
+—¡Miz, miz! —dijo alargando la mano hacia el conejo cuando pasó arrastrándose por delante de nosotros—. ¡Conejito, haz un truco a Gip! —y le siguió con la mirada hasta que se introdujo por una puerta que un momento antes no estaba allí.
+Luego, esta puerta se abrió de par, y el hombre que tenía una oreja más grande que la otra apareció de nuevo. Todavía sonreía, pero cruzó una mirada entre divertida y desafiante.
+—Seguro que querrá ver la sala de exposiciones, señor —dijo con cierta cortesía.
+Gip tiró de mi dedo en dirección a la sala. Miré hacia el mostrador y volví a encontrarme con la mirada del dependiente. Estaba empezando a pensar que la magia era demasiado genuina.
+—No tenemos mucho tiempo —dije.
+Pero, sin saber cómo, nos encontramos en la sala antes de que terminara de decir esto.
+—Todos los artículos son de la misma calidad —dijo el dependiente frotándose las manos—, y esta calidad es la mejor. Aquí no hay nada que no sea magia genuina, y todo totalmente garantizado. ¡Perdón, señor!
+Sentí que tiraba de algo que se pegaba a la manga de mi chaqueta; entonces vi que agarraba a un inquieto demonio rojo por el rabo —la pequeña criatura mordía, luchaba e intentaba cogerle la mano—, y en seguida lo tiró descuidadamente detrás de un mostrador. Sin duda esa cosa era sólo una figura de goma retorcida pero ¡a primera vista…! Su gesto era exactamente el de un hombre que tiene entre las manos un pequeño bicho que muerde. Miré a Gip, pero estaba mirando a un caballo mágico de madera. Me alegró que no hubiera visto esa cosa.
+—Oiga —dije en voz baja, dirigiendo la mirada hacia Gip y el demonio—, ¿no tendrá muchas cosas de ese tipo por aquí, verdad?
+—¡Ninguna de esas es nuestra! Seguramente la trajo usted —dijo el dependiente en voz baja y con una sonrisa más deslumbrante que nunca—. ¡Es asombroso lo que la gente puede llevar encima sin darse cuenta! ¿Ves algo que te agrade por aquí? —preguntó a Gip.
+Allí había muchas cosas que agradaban a Gip.
+Se volvió hacia el sorprendente comerciante con una mezcla de confianza y respeto.
+—¿Es eso una espada mágica? —dijo.
+—Una espada de juguete mágica. No se dobla, ni se rompe, ni corta los dedos. Al que la lleva, le hace invencible en la lucha contra cualquiera que tenga menos de diez y ocho años. Cuestan desde media corona a siete y seis peniques, según el tamaño. Estas panoplias son para jóvenes caballeros andantes, y muy útiles: escudo de seguridad, sandalias para andar velozmente, yelmo que hace invisible.
+—¡Oh, papá! —exclamó sofocado.
+Traté de averiguar lo que costaban, pero el dependiente no me hizo ni caso. Había cogido a Gip; había conseguido que se soltara de mi dedo; se había embarcado en la explicación de sus artículos y nada era capaz de pararle. Poco después observé, desconfiado y celoso, que Gip había cogido el dedo de esta persona como solía hacerlo conmigo. Sin duda el tipo era interesante, pensé, y tenía un lote de cosas curiosamente trucadas, realmente cosas muy bien trucadas, sin embargo…
+Deambulaba detrás de ellos, casi sin hablar, pero sin perder de vista al prestidigitador. Al fin y al cabo, Gip se lo estaba pasando bien, y, cuando llegara la hora de irnos, no tendríamos ningún problema en hacerlo.
+Aquella sala de exposiciones era larga y laberíntica, una galería interrumpida por mostradores y columnas, con arcos que llevaban a otras secciones donde vendedores del aspecto más extraño ganduleaban y te observaban, y también había espejos y cortinas turbadores. Tan turbadores eran, en efecto, que al cabo de un rato no fui capaz de distinguir la puerta por donde habíamos entrado.
+El dependiente enseñó a Gip unos trenes que no eran de vapor, ni de cuerda, y que corrían con solo dar la señal; después, algunas cajas muy valiosas de soldados que tomaban vida en cuanto quitabas la tapa y decías… Yo no tengo un oído muy fino y sólo aprecié que se trataba de un sonido producido al retorcer la lengua; pero Gip, que tiene el oído de su madre, lo cazó al vuelo.
+—¡Bravo! —dijo el dependiente, metiendo los soldados en la caja sin mucha ceremonia y dándosela a Gip—. ¡Ahora! —añadió, y en un momento Gip les había dado vida de nuevo.
+—¿Se llevan esta caja? —preguntó el dependiente.
+—Nos la llevamos —dije— sólo si usted no nos cobra todo su valor, en caso contrario habría que ser un magnate…
+—¡No, hombre! ¡No! —exclamó el dependiente y volvió a recoger los soldaditos, cerró la tapa, agitó la caja en el aire y ¡zas!… ya estaba envuelta, atada y… ¡el nombre completo y la dirección de Gip escritos en el papel!
+El dependiente se rió de mi asombro.
+—Esto es magia auténtica —dijo—, real.
+—Es demasiado auténtica para mi gusto —repetí.
+Después de esto continuó haciendo trucos a Gip, extraños trucos, aunque más extraña era la forma de realizarlos. Se los explicaba, se los enseñaba por delante y por detrás, y el niño, encantador, inclinaba la cabeza con aire de inteligencia.
+Yo no prestaba la atención necesaria.
+—¡Eh, presto! —dijo el dependiente mágico.
+—¡Eh, presto! —repitió la voz clara y débil del niño.
+En realidad, a mí me distraían otras cosas. Me estaba afectando la extraordinaria rareza de aquel lugar, que aparecía, por decirlo así, inundado de una atmósfera de extravagancia. Incluso había algo extraño en la instalación; en el techo, en el suelo, en las sillas colocadas al azar. Tuve la extraña sensación de que, cuando no las miraba directamente, se inclinaban, se movían y jugaban silenciosamente al escondite detrás de mí. La cornisa tenía un adorno sinuoso con máscaras, que parecían demasiado expresivas para ser sólo de yeso.
+Entonces, uno de los vendedores de aspecto extraño atrajo mi atención. Estaba a cierta distancia de mí, y, evidentemente, no se daba cuenta de mi presencia… Veía, a través de un arco, casi todo su cuerpo, sobre una pila de juguetes; el vendedor se inclinaba indolentemente sobre una columna, haciendo muecas horribles. Hacía una mueca especialmente horrible con la nariz. Lo hacía sólo porque parecía aburrido y quería divertirse a sí mismo. Cuando empezaba, tenía la nariz chata y redonda; luego, la extendía rápidamente como un telescopio, la estiraba, y cada vez se hacía más delgada, hasta que parecía un látigo largo, rojo y flexible. ¡Parecía una cosa de pesadilla! La agitaba y la lanzaba como un pescador lanza su caña.
+Lo primero que pensé fue que Gip no tenía que verle. Me volví y le vi totalmente absorto con el dependiente y sin pensar en nada malo. Ambos cuchicheaban y me miraban. Gip estaba de pie sobre un taburete y el dependiente sostenía una especie de gran tambor con la mano.
+—¡Vamos a jugar al escondite, papá! —gritó Gip—. Tú te quedas.
+Y antes de que pudiera hacer algo para evitarlo, el dependiente había puesto el gran tambor sobre Gip.
+En seguida me di cuenta de lo que iba a pasar.
+—¡Quite eso inmediatamente! —grité—. Va a asustar al niño. ¡Quítelo!
+El dependiente de orejas desiguales lo hizo sin decir una palabra y me acercó el gran cilindro para que viera que estaba vacío. ¡Y el taburete también estaba vacío! ¿Había desaparecido también mi hijo en ese instante…?
+Tal vez conozcan esa cosa siniestra que surge como una mano de la nada y oprime el corazón. Saben que destruye el yo habitual y le deja a uno tenso y cauto, ni lento ni precipitado, ni enfadado ni temeroso. Eso me sucedió a mí.
+Me acerqué al risueño dependiente y di una patada a su taburete.
+—¡Ya está bien de locuras! —dije—. ¿Dónde está mi hijo?
+—¿Ve? —dijo, mientras mostraba el interior del taburete—. Aquí no hay engaño…
+Alargué la mano para agarrarle, pero se escabulló con un hábil movimiento. Intenté agarrarle otra vez, pero se apartó de mí y empujó una puerta para escapar.
+—¡Alto! —grité, y se rió mientras se alejaba.
+Me precipité tras él, en medio de una oscuridad total.
+¡Plaf!
+—¡Válgame Dios! ¡No le he visto venir, señor!
+Me encontraba en Regent Street y había chocado con un trabajador de aspecto amable; un poco más allá estaba Gip, que parecía algo perplejo. Me disculpé, y entonces Gip se volvió y caminó hacia mí con una sonrisa brillante, como si se hubiera perdido por un momento.
+¡Y llevaba cuatro paquetes en los brazos!
+Al instante estrechó mi dedo entre su mano.
+Estuve un segundo sin saber qué hacer. Miré alrededor para ver la puerta de la tienda mágica, pero… ¡no estaba allí! No había puerta, ni tienda… nada, sólo la pilastra corriente que se encuentra entre la tienda donde venden cuadros y el escaparate de los pollos…
+Hice lo único que podía hacerse ante semejante confusión mental. Fui derecho al bordillo y levanté el paraguas para parar un coche.
+—¡Coche! —dijo Gip exultante.
+Le ayudé a montar; recordé mi dirección con dificultad y por fin monté yo también. Algo extraño se manifestó en un bolsillo de mi chaqueta; metí la mano y descubrí una bola de cristal. Con un gesto de petulancia la tiré a la calle.
+Gip no dijo nada.
+Durante un rato ninguno de los dos habló.
+—¡Papa! —dijo Gip al fin—. ¡Esa era una auténtica tienda!
+Esto me llevó a considerar el problema de la impresión que le podía haber producido todo aquello. No parecía que le hubiera afectado nada, y de momento se encontraba bien. No estaba trastornado, ni asustado, sino tremendamente satisfecho por lo bien que se lo había pasado aquella tarde y por los cuatro paquetes que llevaba en los brazos.
+¡Diablos! ¿Qué podría haber en los paquetes?
+—¡Hum! —dije—. Los niños pequeños no pueden ir a tiendas así todos los días.
+Escuchó estas palabras con su estoicismo acostumbrado y, por un momento, lamenté ser su padre y no su madre para poder besarle allí inmediatamente, coram publico, en el coche. Al fin y al cabo, pensé, no había salido tan mal la cosa.
+Pero hasta que no abrimos los paquetes, no empecé a sentirme realmente tranquilo. Tres de ellos contenían cajas de soldados, soldados de plomo totalmente normales, pero de tan buena calidad que Gip olvidó que estos paquetes habían sido originariamente trucos mágicos, de una clase única y genuina. El cuarto contenía un gatito, un gatito blanco de carne y hueso, con excelente salud, carácter y apetito.
+Cuando abrimos los paquetes, sentí un alivio provisional. Estuve dando vueltas por el cuarto del niño durante horas y horas…
+Esto sucedió hace seis meses. Y ahora estoy empezando a pensar que todo está en orden. El gatito sólo tiene la magia que es natural a todos los gatos, y los soldados parecen una compañía tan disciplinada como cualquier coronel podría desear. ¿Y Gip…?
+Los padres inteligentes comprenderán que debo conducirme con suma cautela con él.
+Pero un día me atreví a preguntarle:
+—¿Te gustaría que tus soldados tomasen vida, Gip, y que marcharan ellos solos?
+—Los míos lo hacen —dijo Gip—. Sólo tengo que decir una palabra que sé antes de abrir la tapa.
+—¿Y marchan solos?
+—Claro que sí, papá. No me gustarían si no lo hicieran.
+No mostré ningún signo de sorpresa improcedente; desde entonces he tenido ocasión de sorprenderle una o dos veces con los soldados fuera de la caja, pero hasta ahora no los he visto comportarse de una manera mágica…
+Es algo difícil de explicar.
+Existe también un problema económico. Tengo la incurable costumbre de pagar todas las facturas. He subido y bajado Regent Street varias veces buscando esa tienda. Me inclino a pensar, en efecto, que esta cuestión de honor ha sido satisfecha, y que, como conocen el nombre y la dirección de Gip, puedo esperar perfectamente que esas personas, sean quienes sean, envíen la factura a su debido tiempo.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,60 @@
+---
+layout: story
+title: Ki no Tsurayuki
+slug: kino
+source: https://www.literatura.us/onetti/kino.html
+tags:
+  - kino
+  - onetti
+---
+Juan
+Carlos Onetti
+(Montevideo, 1909 - Madrid,
+1994)
+Ki no Tsurayuki
+Originalmente publicado en El País (Madrid), 1987
+Conocía y frecuenté a los Andrade hace y durante un par de años. Hoy cuento la parte que más interesa de sus vidas y lo que ignoro lo imagino con certeza.
+Como todos los mediodías, cuando Andrade se despertó, Marisol ya no estaba en la cama. El cuarto olía suavemente a sudores atemperados por la cosmética y un perfume de café fresco llegaba de la cocina al dormitorio.
+Tomó de un trago el resto de whisky, ahora tibio, que les había dejado la noche y encendió un cigarrillo. El humo trepaba en espiral con el mismo color gris de la luz en las ranuras de la persiana. Pensó entristecido que la primavera aún no había venido y nadie sabía por qué.
+Marisol dirigía la página de vida social que publicaba su diario, siempre el más importante en todos los gobiernos que se fueran o vinieran, civiles o militares, la pequeña feroz biblia de la oligarquía y la Iglesia.
+Después del cuarto de baño —ya limpio, afeitado y envuelto en una bata lujosa— estuvo en el pequeño comedor desayunando copiosamente frente a Marisol. Abrió el periódico para que ella olvidara que él la había mirado con reproche. Sus ojos brillantes, las pequeñas partículas blancas en los bordes de la nariz. Su simpática alegría nerviosa. Oh sí, por encima del mundo.
+Cuántas veces la había oído jurar: «Nunca más, te juro». O variaba: «Si no voy a las fiestas me quemo y me quedo sin trabajo. Y, cuando voy, no puedo negarme a las rayas como una pajuerana. Y sin diario ni reuniones no puedo ayudarte».
+—¿Hay algo? —preguntó Andrade.
+—Ni ganas ni tiempo para mirar.
+Andrade pasó las hojas hasta encontrar la nutrida página de esquelas mortuorias. Veía a la mujer, oía clavar la cucharita en el medio pomelo. Hubo otra quietud y luego ella le ofreció más café en una taza panzuda. La aceptó en silencio, apartó el diario y la miró reír silenciosa.
+—No estés enojado o haciéndote. ¿Para qué consultás la página si no podés interpretar? Yo tengo la clave y después te digo, como siempre. Pero primero un perdón y una risita para mamá.
+Ahora, por la ventana grande del comedor-living, la primavera se asomaba por minutos para retroceder como arrepentida, negada por nubes y viento.
+Ella dijo:
+—Bueno, tengo que moverme para el almuerzo en el country. No pierdas tiempo revisando el diario porque nada sabés de viudas. Yo tengo en vista dos moribundos que prometen. Ojalá tengas suerte. Y con mis bendiciones. Que no se te olvide la agenda al día. Con Camarosa fallaste.
+Le hizo una mueca de burla cariñosa y pasó al dormitorio para vestirse, arreglarse.
+Marisol, educada en una universidad yanqui, había impuesto en el departamento un régimen alimenticio al que Andrade demoró en acostumbrarse: un fuerte desayuno, cualquier tontería como almuerzo y con frecuencia cenaban afuera.
+Por la tarde estuvo trabajando un poco con las agendas, una de ese año y otra del próximo porque no todos mueren antes de julio primero. Septiembre diez, página en blanco. Avanzó hojeando y pudo comprobar que hasta mitad de octubre no estaba anotada ninguna visita.
+Andrade vivía sin preocupaciones gracias a que un abuelo o bisabuelo había alambrado campos sin dueño en el siglo pasado. Por sucesivas y complicadas herencias, aquella inmensidad de pasto, ahora reducida, adornada con vacunos y yeguarizos, era suya ante la ley. Puntualmente el mayordomo administrador lo estafaba en los giros y rendiciones de cuentas. Pero lo que llegaba cubría con exceso las necesidades de Andrade. Marisol, familia llegada a menos pero con apellido patricio —y este menos seguía siendo envidiable— y el sueldo del diario y los extras por incluir qué modistillo había hecho el traje de la novia o de la niña presentada en sociedad, aportaba a la pareja dinero suficiente que casi equiparaba las rentas de Andrade. Y a todo esto se agregaba, además de compañía y cama, que ambos eran generosos, despreocupados e impredecibles.
+Además, Andrade escribía una novela desde años atrás. Nadie vio nunca una página, tal vez él tampoco. La única vaga huella de creación literaria podía rastrearse en un cartel envejecido clavado en la pared, arriba de su escritorio. Decía: «Una literatura tal que, en comparación, todo lo escrito hasta ahora resultaría simple prosa de colegial». La consonante no era deliberada.
+Mintió Andrade cuando dijo que la llamada telefónica de Marisol lo había sorprendido mientras estaba iniciando el muy difícil capítulo cuarto de la novela interminable. Es casi seguro que sesteaba con ayuda de la siempre última copa de coñac y un poco de bicarbonato. Supongo que Marisol dijo:
+—Hay que moverse, ricura. Hoy de mañana murió Estévez, Ramón, cuando estaba en el hospital para hacer dos operaciones. Un repente, el corazón. Era tu amigo y no hay hijos y él era un maniático del paracaidismo, allá en el polígono de Morón. Nada de luto, idiota, ropas severas, cuidado con la corbata y la cara sí, desolada.
+Andrade, en pocas horas, fue acreciendo su amistad con Estévez, inflando pequeños recuerdos, convenciéndose de que había existido entre ambos una relación frecuente que rozaba la intimidad. Colegio, servicio militar, saltos audaces en que los dos se desprendían de aviones y atravesaban el aire colgados del paracaídas, aterrizando gloriosos y con males ventrales en terrenos muchas veces hostiles. Amistad profunda de beberajes y confidencias.
+Ya no importaba ni saber ni intuir cómo había sido físicamente el viejo amigo doctor Estévez, su cara nunca vista. La muerte va emparejando rostros y les impone (nos impondrá) o construye una expresión común que pregunta desinteresada y sarcástica: ¿y a mí qué?, cumplo fielmente mi contrato.
+Al amanecer se puso un traje azul oscuro con apenas rayas muy finas y blancas. Caminó unas cuadras hasta el barrio norte, muy cerca de donde ellos vivían. Después de firmar el álbum con una letra muy clara y abierta para que pudiera ser reconocida sin dificultad, se introdujo en la habitación de los susurros y esquivó, sin grosería, el ataúd negro dorado. Era mucha la gente que rodeaba en protección y en consuelo a la joven viuda y, al hacerlo, se la estaban señalando. Estaba inmóvil y sin lágrimas y era muy bella con el negro pelo peinado en bandos. Tan deseable promesa a medio año vista.
+Esta viuda: cara tan pálida como pared acabada de blanquear con una mano de cal, impasible, padeciendo sin total conciencia un golpe brutal, inesperado; venido para partir en dos su vida, suprimir la dicha que ya sería apenas un conjunto de recuerdos, cada día más equívocos, menos dolorosos.
+Ya llevaba estúpidas palabras preparadas, pero las cambió, murmurando, por otras semejantes:
+—Increíble. Tan querido amigo Ramón. Dios lo tendrá en su paz.
+Luego retrocedió como haciéndose olvidar, como escondiéndose, y sentado en un rincón rechazó el café y el oporto que un criado le ofreció. Pasada una hora de lamentos, deudos, amigos y renovados llantos, pudo escurrirse con discreción y volvió a su departamento para escribir —mentira— la novela interminable a la cual, aunque nunca existió, tuvo el respeto de no llamarla genial. La verdad debe haber sido que volvió a tomar coñac, fumar en pipa y leer aventuras policiales de esas sin nombre ni título ni recuerdo, esperando que llegara Marisol.
+Lo cierto es que después de su breve paso por el velorio de Estévez, Andrade se puso a la tarea. Extrajo las agendas y, como aquel día era septiembre 21, calculó seis meses y escribió: «En el día 20 de marzo del próximo año: Señora Estévez. Más o menos hoy».
+Se descubrió con voluntad de trabajo y, fortaleciéndola con el coñac, hizo un rápido balance con el resultado muy satisfactorio de doce visitas, llamadas semestrales —a veces solapadas—, que sólo mostraban dos fracasos. O había llegado tarde o su deseado sitio ya estaba ocupado desde hacía más de un año, desde antes de su primera visita de duelo.
+Y todo esto, que algo tenía de antipoético, de burócrata marcando relojes de entrada en oficinas, dentro de la enorme poesía que construían los resultados felices.
+Y esta tarea, poco agotadora, se había iniciado un par de años antes por un cuento-poema del poeta japonés Ki no Tsurayuki publicado en el 905 y traducido a lenguas bárbaras en el siglo xx.
+Mentía el poeta haber visitado un cementerio en el que vio a una linda japonesita acuclillada que agitaba, incansable, un gran abanico sobre la tierra de un sepulcro. Llevado por la curiosidad, madre del saber y de la poesía, acercose Ki no a la joven y luego de hacer las tres reverencias de estilo, se atrevió a interrogarla. Tal vez sin necesidad de palabras, con tan sólo la expresión preguntona de su cara. La niña —todas las mujeres hermosas atraviesan adolescentes los años— detuvo el vaivén de la muñeca, alzó los ojos mientras ofrecía una dudosa e inmóvil sonrisa nipona. Luego dijo con tristeza: «Mi marido, en su lecho de muerte, me hizo jurar que le permanecería fiel mientras estuviera húmeda la tierra de su tumba. Y este otoño fue tan lluvioso».
+Después de esta belleza que mucho lo impresionó, Andrade recordó curioso habladurías y alguna experiencia. Hizo los cálculos y resolvió que seis meses de soledad por viudez establecían un estado psíquico vulnerable en la caparazón de la mujer abandonada y que era factible apoyarse en ansias y aventar recuerdos. Ignoro —estuve viajando a causa de negocios— cuánto tiempo pasó, cuán exacta resultaba o resultó la contabilidad de Andrade, ayudado siempre por la sabiduría cómplice de Marisol. Sospeché que su amante lo orientaba segura para el cumplimiento de una exigencia: que los blancos que iba ofreciendo la muerte fueran jóvenes, hermosos y con una cualidad indefinible a la que ellos y yo llamábamos clase.
+Cuando terminé por asentarme de regreso en la ciudad más querida del mundo, ni Romas, ni Vienas, ni Parises, como dijo un poeta mexicano, y luego de haber rendido cuentas un poco al estilo del gran capitán ante el señor ministro de turno, me fui enterando sin desearlo, de varias desgracias. Dejo de lado las familiares y recuerdo la muerte de Marisol y el anterior accidente automovilístico de Andrade. Supe que él había terminado por casarse, loco de amor, con una de sus viudas semestrales. Se llamaba, y se llama, Hortensia. Más fuerte que él en escarceos eróticos, más convincente con juegos de cama, hermosa y allumeuse de nacimiento, lo llevó sin violencias ni discusiones hasta jueces y sacerdotes.
+Escribió el prólogo con maestría lingüística, con faldas tajeadas para insinuar, en verano, los muslos tan blancos y poderosos; y, en invierno, usaba pantalones tan ajustados que hacían posible ver, adivinar y querer, las ofrecidas nalgas azules.
+Todo esto susurrado, a veces dicho con palabras distintas, por amigas del alma que agregaron pasados y presentes, tal vez calumniosos.
+Nada de esto le importaba porque, aunque fuera cierto, al día siguiente el retozo sexual se olvida y nunca fue.
+Después de un viaje de bodas, había retornado a la ciudad. La carretera es traicionera y ahí Andrade, que viajaba solo buscando playas y sol, chocó contra un camión y fue salvado en un sanatorio, casi moribundo, quedando impotente y sin piernas útiles.
+Ahora, despertando de una de las horas diarias de sopor, Andrade trataba de reconquistar el mundo, la habitación, sentado incómodo en la silla de ruedas que casi había aprendido a manejar con soltura.
+Ahora escuchaba la voz de Hortensia que aplacaba el murmullo de una voz masculina, y decía: «No te preocupes, no se despierta hasta la noche». Y los silencios, más crueles que cualquier palabra, venían para visitar, prolongándose, su cuarto de enfermo impedido, incurable.
+Sin necesidad de agendas, Andrade calculó que se habían cumplido seis meses desde el accidente, casi mortal, que lo separó de los vivos, de los saludables y ansiosos.
+1987
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

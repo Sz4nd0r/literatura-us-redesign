@@ -7,4 +7,131 @@ tags:
   - index
   - bioy
 ---
-¿Quién es Adolfo Bioy Casares? ![Adolfo Bioy Casares](/assets/images/abc.jpg) Adolfo Bioy Casares nació en Buenos Aires, Argentina, el 15 de septiembre de 1914 y murió en la misma ciudad, el 8 de marzo de 1999. Narrador, periodista, traductor y editor, Bioy Casares es uno de los máximos representantes de la narrativas fantástica, policial y de ciencia ficción en Latinoamérica. Cursó parte de sus estudios secundarios en el Instituto Libre de Segunda Enseñanza de la Universidad de Buenos Aires. Comenzó, pero no terminó las carreras de Derecho y de Filosofía y Letras. Antes de los treinta años, manejaba con fluidez el inglés, el francés (que hablaba desde los cuatro años) y el alemán. En 1932, conoció a Jorge Luis Borges en Villa Ocampo, la finca de Victoria Ocampo en en San Isidro. Borges será desde entonces su gran amigo y con quien escribirá en colaboración varios relatos policiales bajo diversos seudónimos, el más conocido de los cuales fue el de Honorio Bustos Domecq. En 1940, Bioy Casares se casó con la hermana menor de Victoria Ocampo, Silvina, también escritora y pintora. Ese mismo año publicó La invención de Morel, con una introducción de Borges. En la introducción, Borges indica la ausencia de precursores de la ciencia ficción en la literatura española, presenta a Bioy Casares como el pionero del nuevo género y lo relaciona con la obra de H. G. Wells. La novela recibió el Primer Premio Municipal de Literatura en 1941. Alan Resnais, en el film El último año en Marienbad, se inspiró en la historia de La invención de Morel. Obras: Novela: La invención de Morel (1940) Plan de evasión (1945) El sueño de los héroes (1954) Diario de la guerra del cerdo (1969) Dormir al sol (1973) La aventura de un fotógrafo en La Plata (1985) Un campeón desparejo (1993) De un mundo a otro (1998) Cuentos: Prólogo (1929) 17 disparos contra lo porvenir (1933) La estatua casera (1936) Luis Greve, muerto (1937) La trama celeste (1948) Las vísperas de Fausto (1949) Historia prodigiosa (1956) Guirnalda con amores (1959) El lado de la sombra (1962) El gran serafín (1967) El héroe de las mujeres (1978) Historia desaforadas (1986) Obras en colaboración: Seis problemas para don Isidro Parodi (1942) Dos Fantasías memorables (1946), con Jorge Luis Borges Los que aman, odian (1946), con Silvina Ocampo Un modelo para la muerte (1946), con Jorge Luis Borges Crónicas de Bustos Domecq (1967), con Jorge Luis Borges Nuevos cuentos de Bustos Domecq (1977), con Jorge Luis Borges ÍNDICE: Cuentos: La trama celeste (1948): En memoria de Paulina De los reyes futuros El ídolo La trama celeste El otro laberinto El perjurio de la nieve (PDF) Historia prodigiosa (1956) Historia prodigiosa Clave para un amor La sierva ajena De los dos lados Las vísperas de Fausto Homenaje a Francisco Almeyra Guirnalda con amores (1959): Encrucijada Una aventura Todos los hombres son iguales Todas las mujeres son iguales Reverdecer Casanova secreto Moscas y arañas Historia romana El lado de la sombra (1962): El lado de la sombra La obra Carta sobre Emilia El calamar opta por su tinta Un viaje o El mago inmortal Un león en el bosque de Palermo Cavar un foso Paradigma Cuervo y paloma del doctor Sebastián Darrés Los afanes El gran Serafín (1967): El gran Serafín Confidencias de un lobo Ad porcos El don supremo La tarde de un fauno Los milagros no se recuperan El solar Las caras de la verdad El atajo (PDF) Un perro que se llamaba Dos Historias fantásticas (1972): La pasajera de primera clase Historias de amor (1972): El jardín de los sueños Una puerta se abre Historias desaforadas (1986): Planes para una fuga al Carmelo Máscaras venecianas Historia desaforada El relojero de Fausto El Nóumeno Trío El viaje inesperado El camino de Indias El cuarto sin ventanas La rata o una llave para la conducta Una muñeca rusa (1991): Una muñeca rusa Encuentro en Rauch Catón El navegante vuelve a su patria Nuestro viaje Bajo el agua Tres fantasías menores: Margarita o El poder de la farmacopea A propósito de un olor Amor vencido Novelas: (capítulos 1-5) La invención de Morel (1940) (completa) Plan de evasión (1945) (completa) El sueño de los héroes (1954) Diario de la guerra del cerdo (1969) Dormir al sol (1973 La aventura de un fotógrafo en La Plat (1985) Un campeón desparejo (1993) De un mundo a otro (1998) 
+
+## Biografía
+
+![Adolfo Bioy Casares](/assets/images/abc.jpg)
+
+**Adolfo Bioy Casares** nació en Buenos Aires, Argentina, el 15 de septiembre de 1914 y murió en la misma ciudad, el 8 de marzo de 1999. Narrador, periodista, traductor y editor, Bioy Casares es uno de los máximos representantes de la narrativas fantástica, policial y de ciencia ficción en Latinoamérica.
+
+Cursó parte de sus estudios secundarios en el Instituto Libre de Segunda Enseñanza de la Universidad de Buenos Aires. Comenzó, pero no terminó las carreras de Derecho y de Filosofía y Letras. Antes de los treinta años, manejaba con fluidez el inglés, el francés (que hablaba desde los cuatro años) y el alemán.
+
+En 1932, conoció a Jorge Luis Borges en Villa Ocampo, la finca de Victoria Ocampo en San Isidro. Borges será desde entonces su gran amigo y con quien escribirá en colaboración varios relatos policiales bajo diversos seudónimos, el más conocido de los cuales fue el de Honorio Bustos Domecq. En 1940, Bioy Casares se casó con la hermana menor de Victoria Ocampo, Silvina, también escritora y pintora.
+
+Ese mismo año publicó *La invención de Morel*, con una introducción de Borges. En la introducción, Borges indica la ausencia de precursores de la ciencia ficción en la literatura española, presenta a Bioy Casares como el pionero del nuevo género y lo relaciona con la obra de H. G. Wells. La novela recibió el Primer Premio Municipal de Literatura en 1941. Alan Resnais, en el film *El último año en Marienbad*, se inspiró en la historia de *La invención de Morel*.
+
+## Índice
+
+### Novelas
+- *La invención de Morel* (1940)
+- *Plan de evasión* (1945)
+- *El sueño de los héroes* (1954)
+- *Diario de la guerra del cerdo* (1969)
+- *Dormir al sol* (1973)
+- *La aventura de un fotógrafo en La Plata* (1985)
+- *Un campeón desparejo* (1993)
+- *De un mundo a otro* (1998)
+
+### Cuentos
+
+#### *Prólogo* (1929)
+#### *17 disparos contra lo porvenir* (1933)
+#### *La estatua casera* (1936)
+#### *Luis Greve, muerto* (1937)
+
+#### *La trama celeste* (1948)
+- En memoria de Paulina
+- De los reyes futuros
+- El ídolo
+- La trama celeste
+- El otro laberinto
+- El perjurio de la nieve
+
+#### *Las vísperas de Fausto* (1949)
+
+#### *Historia prodigiosa* (1956)
+- Historia prodigiosa
+- Clave para un amor
+- La sierva ajena
+- De los dos lados
+- Las vísperas de Fausto
+- Homenaje a Francisco Almeyra
+
+#### *Guirnalda con amores* (1959)
+- Encrucijada
+- Una aventura
+- Todos los hombres son iguales
+- Todas las mujeres son iguales
+- Reverdecer
+- Casanova secreto
+- Moscas y arañas
+- Historia romana
+
+#### *El lado de la sombra* (1962)
+- El lado de la sombra
+- La obra
+- Carta sobre Emilia
+- El calamar opta por su tinta
+- Un viaje o El mago inmortal
+- Un león en el bosque de Palermo
+- Cavar un foso
+- Paradigma
+- Cuervo y paloma del doctor Sebastián Darrés
+- Los afanes
+
+#### *El gran serafín* (1967)
+- El gran Serafín
+- Confidencias de un lobo
+- Ad porcos
+- El don supremo
+- La tarde de un fauno
+- Los milagros no se recuperan
+- El solar
+- Las caras de la verdad
+- El atajo
+- Un perro que se llamaba Dos
+
+#### *Historias fantásticas* (1972)
+- La pasajera de primera clase
+
+#### *Historias de amor* (1972)
+- El jardín de los sueños
+- Una puerta se abre
+
+#### *El héroe de las mujeres* (1978)
+
+#### *Historias desaforadas* (1986)
+- Planes para una fuga al Carmelo
+- Máscaras venecianas
+- Historia desaforada
+- El relojero de Fausto
+- El Nóumeno
+- Trío
+- El viaje inesperado
+- El camino de Indias
+- El cuarto sin ventanas
+- La rata o una llave para la conducta
+
+#### *Una muñeca rusa* (1991)
+- Una muñeca rusa
+- Encuentro en Rauch
+- Catón
+- El navegante vuelve a su patria
+- Nuestro viaje
+- Bajo el agua
+- Tres fantasías menores:
+    - Margarita o El poder de la farmacopea
+    - A propósito de un olor
+    - Amor vencido
+
+### Obras en colaboración
+
+#### Con Jorge Luis Borges
+- *Seis problemas para don Isidro Parodi* (1942)
+- *Dos Fantasías memorables* (1946)
+- *Un modelo para la muerte* (1946)
+- *Crónicas de Bustos Domecq* (1967)
+- *Nuevos cuentos de Bustos Domecq* (1977)
+
+#### Con Silvina Ocampo
+- *Los que aman, odian* (1946)

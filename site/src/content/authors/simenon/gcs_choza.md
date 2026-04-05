@@ -1,0 +1,555 @@
+---
+layout: story
+title: La choza de madera
+slug: gcs_choza
+source: https://www.literatura.us/idiomas/simenon/gcs_choza.html
+tags:
+  - gcs_choza
+  - simenon
+---
+George Simenon
+(Lieja, Bélgica, 1903 - Lausana, Suiza, 1989)
+La choza de madera (1941)
+(“La cabane en bois”)
+Originalmente publicado en Police-Roman
+(n° 126, 2 de mayo de 1941);
+Les dossiers de l’Agence «O»
+(París: Gallimard, N.R.F., 1943, 672 págs.)
+I
+–¡Maldito cacharro y maldito oficio! —gruñe Torrence al atravesar Longjumeau, mirando con concupiscencia la fachada de una taberna caliente.
+Por la noche, el termómetro desciende hasta cerca de 20 grados bajo cero. Son las diez de la mañana. El cielo está lívido, las piedras blancas como el hielo, la nariz de Torrence, de un violeta inquietante. Verdad es que conduce un pequeño automóvil descubierto y que a cada paso tiene que rascar la capa de hielo que se forma en el parabrisas.
+—¿De qué cacharro habla usted? —pregunta amablemente su compañero, alto y enjuto, el inefable Emilio, cargado con un monstruoso aparato fotográfico.
+—¡De la Agencia O, pardiez! Como si el jefe no pudiera proporcionamos un coche cerrado.
+Y Emilio suspira cómicamente:
+—A lo mejor, tiene razón el jefe. Ciertas personas, sobre todo las que son un poco robustas y disfrutan de la buena vida, tienen, al parecer, una lamentable tendencia a amodorrarse al volante de los coches demasiado cómodos.
+Se refiere a Torrence, fuerte y sanguíneo. En cuanto al jefe de la Agencia O, la célebre Agencia de detectives, el mundo entero quedaría bien sorprendido si supiera que no es otro que Emilio, el fotógrafo, siempre humilde y raído.
+—O la llamada telefónica es falsa —refunfuña Torrence, que aquella mañana se ha levantado de mal talante— o vamos a encontramos en presencia de una vieja loca.
+Extraña llamada telefónica, desde luego. Torrence se hallaba caliente en su despacho. En el despachito de atrás, desde donde podía verlo y oírlo todo, Emilio le sacaba meticulosamente punta a un lápiz. Sonó el timbre. Descolgaron ambos a la vez, porque los dos aparatos estaban conectados a la misma línea.
+—Oiga… ¿La Agencia O? Quisiera hablar con el inspector Torrence.
+Porque la gente sigue dando a Torrence el título que usó cuando estaba en la Policía Judicial, en la que fue mucho tiempo el colaborador preferido de Maigret.
+—Diga; soy yo.
+—Espere a que me asegure de que sigue allí.
+—Oiga… ¿De quién habla?
+—Sólo un minuto para echar una ojeada por la ventana… Sí… Lo veo… Si nuestra conversación se interrumpe súbitamente, no se sorprenda y, sobre todo, no vuelva a llamar… Aquí, María Dossin… Sí, con dos S… Casa del Lago, por Ingrannes, en el bosque de Orleans… La gente del país dice el Castillo del Lago… Es necesario que venga, pero me ha de prometer que no dirá nada a la policía oficial… Esta mañana he descubierto un cadáver en la choza de madera… ¡Oiga!
+—Escucho.
+Mientras tanto, Emilio, que gusta de precisión en todo, toma taquigráficamente aquel raro mensaje.
+—¡Oiga!… No conviene que mi marido sepa que le he telefoneado. Precisamente le estoy vigilando a él por la ventana. Ignora que yo lo sé, ¿comprende?
+—¿De quién es el cadáver?
+—Creo… lo he visto mal en la semioscuridad, pero creo que es el de Jean Marchons, uno de nuestros amigos… Está colgado de una viga.
+—¡Hum!… Entonces, ¿se trata de un suicidio?
+—No lo sé. No lo creo. Venga. Antes de presentarse en el castillo, trate de penetrar en la choza de madera situada al borde del estanque. La encontrará fácilmente. La puerta no está cerrada… Tengo miedo… ¡Cuidado!… Me parece que entra.
+Arpajon, Etampes, Pithiviers… Tienen la impresión de estar solos en la carretera y cuando un coche les pasa, por casualidad, es de gente de París que va a la caza del pato. El bosque es lo menos atractivo posible, con sus troncos negros que se dibujan sobre el blanco del cielo. El automóvil se para frente a la iglesia de Ingrannes y los dos hombres entran en la posada.
+Quizá, en otros momentos, será el pueblo más simpático, pero, con aquel tiempo, todo se recorta en blanco y negro como una esquela mortuoria, y la buena mujer que les sirve ron no es muy agradable.
+—¿El Castillo del Lago? Tomen por el segundo camino a la izquierda, en el bosque del Lobo Colgado.
+¡Anda! ¡Hasta a los lobos los cuelgan en el país!
+—¿Conoce usted al señor Dossin?
+—¿Y por qué no voy a conocerle?
+Los dos hombres se miran al oír esa respuesta por lo menos inesperada.
+—¿Y a la señora Dossin?
+—¿Qué quieren ustedes de la señora Dossin?
+—Nada. Quizá iremos a visitarla. ¿Hace mucho tiempo que residen en el país?
+—Creo que sí.
+—Un amigo suyo, el señor Jean Marchons, nos ha dicho…
+La mujer no se inmuta, y sigue con ambas manos sobre su barriga redonda.
+—¿Conoce usted al señor Marchons? —insiste Torrence.
+—No se puede conocer a todo el mundo.
+Después de tal éxito, se meten con el pequeño automóvil por los caminos forestales, en los que cruje la nieve endurecida. El radiador echa humo como una locomotora. De vez en cuando los neumáticos patinan sobre el hielo.
+—¿Ve usted algún castillo?
+Durante media hora, ruedan describiendo un círculo y se vuelven a encontrar en la plaza de Ingrannes, donde deciden luchar contra el frío bebiendo otra copa de ron.
+—¡Qué! ¿Lo han visto ustedes? —pregunta la dueña de la posada, que no debe sonreír más que una vez al año.
+—¿A quién?
+—Al señor Dossin. Acaba de salir de aquí.
+—¿Iba solo?
+—¿Por qué no va a ir solo, ese hombre? Le he anunciado que recibiría visitas.
+Esta vez se informan más minuciosamente y unos minutos más tarde perciben la superficie helada de un estanque bastante grande, que lleva el pomposo nombre de lago. A la derecha del estanque, detrás de un bosque de pinos, se descubren tejados de pizarra y se adivina una propiedad importante en la que ladra un perro al oír el motor. Torrence no está bien dispuesto. Pregunta desalentado:
+—¿Qué hacemos?
+Aquella mañana, el semblante del ilustre detective no es satisfactorio, y Emilio no ofrece mejor aspecto que él.
+—Llamemos —decide Emilio—. Puesto que la vieja ha avisado nuestra llegada…
+—No obstante, por teléfono, la señora Dossin ha recomendado que…
+Emilio se encoge de hombros, se apea del coche y va a llamar a una verja de hierro forjado. Aparece un perro, furioso, al otro lado de aquella verja y hace toda clase de esfuerzos para hincar los dientes en un faldón del abrigo de Emilio.
+—¡Ah de la casa! —grita éste—. ¿Es que no hay nadie ahí dentro?
+Llama dos veces, sin resultado, o mejor dicho, con el único resultado de poner al perro literalmente rabioso. Súbitamente, una voz cerca de él, tan cerca que le sobresalta, dice:
+—¿Qué desea?
+El hombre que está allí no viene de la casa, sino del bosque. Es un hombre de unos cincuenta años, quizá más, con los bigotes y la barba entrecanos. Va calzado con botas y vestido con un traje de cazador y lleva una casaquilla corta forrada de pieles que le da aspecto de señor campesino.
+—Mi jefe desea… —balbucea Emilio, señalando al cochecito, cuyo motor sigue funcionando.
+¿Qué podrá decir Torrence? Baja del coche. Tose. Empieza:
+—Desearía ver a la señora Dossin, para la que tengo el encargo de…
+—Mi mujer está en la cama —suelta bastante secamente el dueño del castillo del Lago.
+—Lamento que la señora Dossin esté enferma. Espero que no sea cosa grave.
+El castellano no responde, pero su actitud dice claramente:
+—No veo por qué puede interesarle la salud de mi mujer.
+Y espera.
+—Jefe —interviene Emilio, temeroso de que Torrence dé media vuelta—. Ya conoce usted mi pasión por los sitios pintorescos. Puesto que usted es amigo, quiero decir, puesto que usted conoció en otro tiempo a la señora Dossin, quizá podría pedir a su marido permiso para fotografiar esa choza de madera que diviso en la orilla del lago. Con esa luz glauca y esos reflejos en el hielo, creo que yo…
+El señor Dossin les observa, primero al uno y luego al otro, frunciendo el entrecejo, con la mano en la llave que acaba de introducir en la cerradura de la verja y dice:
+—Fotografíen todo lo que quieran.
+¡Bueno! No les ha azuzado el perro. ¡Ya es algo! Sin preocuparse más de ellos, atraviesa el patio bastante vasto, y sube lentamente, gravemente, la escalinata de la casa.
+—¡Qué casa más rara! —refunfuña Torrence—. ¿Qué hacemos?
+—¡Fotografías, caramba!
+—Estoy cada vez más convencido de que nos han hecho una mala pasada.
+—Yo, no.
+Se acercan al estanque. La choza es semejante a las que se ven al borde de la mayoría de los estanques, destinada sin duda a guarecer una barca y trebejos de pesca. Emilio, que supone que el dueño del castillo le vigila desde alguna ventana, desempeña a conciencia su papel de fotógrafo.
+—Si verdaderamente hay un ahorcado en esta choza…
+Se aproxima. En la puerta no hay cerrojo, ni cerradura, ni sistema alguno de cierre. La empuja. Las tablas están separadas y dejan pasar algo de luz. Una canoa vieja se acaba de pudrir fuera del agua.
+—¿Qué le decía yo? —ríe entre dientes Torrence, que ha entrado después de Emilio.
+No hay ahorcado. Ni siquiera la sombra de un ahorcado. Ni el más pequeño cabo de cuerda de ahorcado.
+—Si me tropezara al cerdo que nos hizo venir aquí…
+Torrence no ceja en su rabia. Emilio examina el lugar con una paciencia angelical.
+—¿Puedo subirme a sus hombros, jefe?
+Así consiguió alcanzar la viga del techo en la que estaba fijado un gancho grande de hierro. Torrence se creyó en el deber de decir irónicamente:
+—¿Encontró al ahorcado?
+—Todavía no. Pero este gancho, que debiera estar herrumbroso, no lo está, por lo menos en la parte que ha frotado la cuerda.
+—¿Qué cuerda?
+—La que han quitado. Ya puede bajarme al suelo.
+»No es gran cosa, pero algo es más que nada. Si ese gancho de hierro no hubiese sido utilizado recientemente estaría mohoso en toda su superficie, y no lo está sino en las partes que no han sufrido el rozamiento.
+—¿Qué hay en esta caja?
+Torrence se agacha.
+—Herramientas. Y por cierto que están echadas a perder y no deben de usarse muy a menudo.
+Una cinta de sierra, clavos, anzuelos, anillos de hierro, un conjunto heterogéneo como los que suele haber en las casas de campo. Todo está oxidado. No por eso Emilio deja de examinar aquellos objetos uno a uno, y saca una lupa de su bolsillo. Mientras observa un martillo bastante pesado, murmura:
+—Desde luego, este objeto ha sido utilizado.
+Sobre el hierro del martillo hay algunos pelos coagulados como si el utensilio hubiese roto un cráneo.
+Torrence no está convencido.
+—Me parece que lo que buscábamos era un ahorcado… A no ser que se haya llegado a colgar a la gente a martillazos…
+Un brinco de Emilio, que ha visto algo y se precipita al otro lado de la barca. Blande un periódico, un periódico de la región. Busca la fecha. Triunfa.
+—Es el periódico de esta mañana. Lo que equivale a decir que alguien ha entrado en esta choza poco antes que nosotros, porque, a mi juicio, la prensa no debe de llegar a Ingrannes antes de las nueve o diez de la mañana… Vamos a ver a la señora Dossin.
+—No nos dejarán entrar.
+—Hagamos el plan, jefe. Es absolutamente necesario que tengamos una conversación con esa dama que hace tan misteriosas llamadas telefónicas.
+Diez minutos más tarde, después de haber fotografiado Emilio el gancho de hierro y guardado el periódico en lugar seguro, los dos hombres están otra vez junto a la verja del castillo, donde el perro les reserva la misma acogida que antes.
+Llaman una vez, dos veces… Súbitamente, Emilio percibe en una ventana del primer piso un rostro femenino que, sin duda a causa del cristal empañado, parece de una palidez mortal.
+—Mire, jefe… Parece que nos hace señas…
+Es verdad. Pero ¿señas de qué? Es difícil comprender los gestos de sus manos. Ella les señala algo. ¿La choza? ¡Pero si ya vienen de allí!
+¿Más lejos? Más lejos no hay sino el estanque. Y el estanque está helado. ¿Quiere acaso decir que el ahorcado ha sido echado al agua? Es imposible. ¿Qué es, pues?
+—Vuelva a llamar.
+Se abre la puerta en lo alto de la escalinata. El dueño de la casa está allí, con una pipa en la boca, mirándoles desde lejos. ¿Vendrá a abrir la verja o piensa dejarles en esa posición, bastante humillante para dos detectives célebres?
+Parece meditar, vacilar. Por fin, se vuelve hacia el interior de la casa. Llama.
+—No me extrañaría nada que nos enviaran unos cuantos perdigones —observa Torrence.
+Pero no. Un criado de correcta librea acude a la llamada de su dueño. Éste le dice algunas palabras. El criado atraviesa el patio, con una gran llave en la mano.
+—Si los señores tienen la bondad de entrar… El señor Dossin me ruega que recomiende a los señores que metan su coche en el garaje, a causa del frío…
+A Torrence no le gusta eso… aquella solicitud súbita le inquieta algo. Una vez su coche en el garaje, al otro lado de aquella verja que tanto trabajo cuesta abrir, ¿quién sabe si podrán irse del castillo en el momento en que les plazca?
+—¡Vaya! —le susurra Emilio.
+A ciento veinte kilómetros de París, a quince kilómetros de Pithiviers —por cierto que Torrence se propone comprar a la vuelta, uno de los famosos pasteles de alondras del país—, era como si estuvieran en el lugar más desierto del mundo.
+El perro sigue gruñendo, pero con sordina, y olfatea al fotógrafo.
+El dueño de la casa, que sigue esperándoles en lo alto de la escalinata, está de buen talante… El garaje contiene ya dos coches, uno grande, de marca americana, y un cochecito que deben de usar para el aprovisionamiento.
+Cuando los dos hombres llegan cerca del señor Dossin, éste pregunta con mucha cortesía:
+—¿Puedo saber, señores, cuál de ustedes es el ilustre detective Torrence?
+Éste se inclina, pero sin gran satisfacción. ¿Quién ha podido revelar su identidad? Su nombre no figura en el auto, que hubieran podido examinar mientras estaba en la choza.
+—Ignoraba a quién tenía el honor de hablar. Pasen, pasen, por favor, a mi modesta residencia…
+En cuanto a lo de modesta residencia, es lo más cómodo y más acogedor que ambos han visto. No es el palacio fastuoso, sino la casa solariega donde todo está previsto para la comodidad y para la vida armoniosa. Les hacen pasar a una biblioteca cuyas paredes están cubiertas de roble. Unos leños arden en el hogar. Los sillones son de cuero leonado, y hay alfombras tendidas sobre un magnífico embaldosado antiguo.
+—Acabo de saber que mi mujer les ha telefoneado esta mañana.
+Se ha informado, pues, en la estafeta de correos. Ha obtenido del administrador el número de París que pidió su mujer.
+—Siéntense, por favor… Supongo que una copita de «armagnac», con ese frío…
+El frasco es venerable, las copas, de cristal tallado. El criado se eclipsa y el huésped parece más gran señor que nunca, con una sombra de tristeza que no pasa inadvertida a los dos hombres.
+—Les confesaré, señores, que si les he recibido bastante mal esta mañana, cuando su primera visita, es porque tengo motivos graves para alejar a los curiosos de esta casa… A su salud.
+—Este «armagnac»… —empieza Torrence.
+—Tiene setenta años… Les decía… Ustedes tienen la costumbre, dada su profesión, de recibir confidencias dramáticas. Pues bien, señores, sepan que mi pobre mujer no está bien de la cabeza.
+Su voz pareció quebrarse. Inclinó la cabeza.
+—Nunca me he decidido a encerrarla en una… en una casa de salud… lo cual les explica…
+Torrence mira a Emilio como para saber qué ha de pensar de ese discurso. Emilio mira fijamente las baldosas, o quizá las botas de su huésped, unas botas bonitas, por cierto, sólidas y flexibles, que le enfundan la pierna.
+Pudiera creerse que, en aquel instante, el único pensamiento de Emilio es éste:
+—Me gustaría tener unas botas iguales.
+Pero no es eso lo que Emilio piensa, y si frunce el entrecejo es porque se pregunta:
+—¿Por qué diablo, durante el poco tiempo que hemos pasado en la choza, este caballero ha sentido la necesidad de cambiar de botas, cuando las que calzaba esta mañana no estaban ni mojadas ni sucias?
+Y trata de recordar las primeras botas, que eran de cordones, mientras que éstas son de montar.
+Cabía una explicación. Si al señor Dossin se le ocurrió de repente la idea de montar a caballo, es posible que hubiera preferido cambiar de botas. Los jinetes gustan de las tradiciones, de la corrección en el atuendo.
+—… lo que les explica, señores, la vida retirada y bastante desabrida que se hace en…
+Se estremece, porque Emilio acaba de tomar la palabra en el momento en que menos lo esperaba, para preguntarle con aire inocente, por no decir estúpido:
+—¿Tiene usted caballos?
+—No… No veo qué…
+—No tiene ninguna importancia. Prosiga.
+Puesto que no es para montar a caballo, ¿por qué diantre se ha cambiado de botas?
+II
+Maigret solía trabajar con cerveza o con peleón.
+Torrence, que ha sido su discípulo durante tanto tiempo, trabaja indistintamente con todo lo que pueda beberse, y no le son propicios ni el excelente fuego de leña, ni el profundo sillón en que se hunde. ¿Acaso ha oído sonar la campana de la entrada? Llaman a la puerta. Ésta se abre. El huésped se levanta.
+—Con su permiso…
+Apenas permanece unos segundos en el vestíbulo y, cuando vuelve, está más serio aún que antes.
+—El médico —dice— ha subido a la habitación de mi mujer. Ya ven ustedes, señores, que no les hago ningún misterio. Es una situación penosa, difícil…
+Aquel hombre es perfecto. Con su barba casi cuadrada, podría representar papeles de personajes históricos, personajes siempre honrados, hombres de gran corazón.
+Torrence, que trata de defenderse contra el amodorramiento y cuyas suelas lamen las llamas del hogar, murmura sin convicción:
+—¿Y su amigo Jean Marchons? ¿Hace tiempo que no lo ha visto?
+—Varios días. Vive en Pithiviers. Viene de tarde en tarde a vernos.
+¡Bueno! Ya baja el médico. Esta vez le hacen pasar a la biblioteca sin misterio y su entrada crea una atmósfera de cuento infantil. No es un médico, es un gnomo, es un duende, cuya cara redonda y rosada, cuya perilla de un blanco deslumbrante y cuyos ojillos que chisporrotean, parecen hechos para inspirar la confianza más absoluta.
+—Entre, doctor. Estos señores vienen de París. Permítame que les presente. El célebre detective Torrence, de la Agencia O, y su colaborador, el señor…
+—¡Emilio!
+—¿Quiere usted, doctor, decirles lo que sabe de mi mujer? Señores, les advierto que el doctor Aberton es nuestro médico, que vive aquí, en Sully, es decir a ocho kilómetros, desde su más tierna infancia… Dígales, doctor.
+—Pues bien, señores, estoy obligado, puesto que mi estimado cliente me releva del secreto profesional, a declararles que la señora Dossin, a quien atiendo desde hace algún tiempo, sufre perturbación mental, y…
+—¿Una copa de «armagnac», doctor?
+—Con mucho gusto. Sobre todo porque empieza a nevar… Es un remedio que no acostumbramos a poner en nuestras recetas, pero que los enfermos toman sin consultarnos… ¡ja, ja!
+Torrence se encuentra allí como el pez en el agua, los pies junto al fuego, una copa que nunca permanece vacía en sus manos. ¿Existe en algún sitio gente más buena y una casa mejor? Se entrega. Hasta llega a replicar:
+—¿Saben ustedes? Nosotros estamos acostumbrados a recibir denuncias de mujeres, y sabemos el valor que hay que darles.
+Emilio es menos amable y murmura:
+—No olvide, jefe, que ha venido usted para tener una conversación a solas con la señora Dossin.
+El señor Dossin y el médico se miran.
+—Su médico es quien decidirá —dijo por fin el señor Dossin—. En el estado en que se halla, con la crisis que ha sufrido esta mañana, no sé si…
+—¡Desde luego que no! —declara el doctor—. Aunque fuese la policía oficial la que me preguntara mi opinión, yo le diría: «No tratándose de algo de extrema gravedad, insisto en que se deje en paz a mi clienta».
+—Muchas gracias, doctor. Sólo me queda, señor, el despedirme y el…
+—¿Un último sorbo de «armagnac»?
+Otra vez se encuentran Torrence y Emilio en su cochecito.
+—¿No le da vergüenza, jefe?
+—¿El qué?
+—Ha bebido tres copas y tiene los ojos húmedos… En cuanto a las botas…
+—¿Qué botas?
+—Las que se ha quitado el señor Dossin.
+—¡No va usted a decirme que se ha quitado las botas sin que yo me diera cuenta!
+—Se las ha quitado antes de nuestra llegada. Pero poco importa… Pare en Ingrannes.
+Esta vez ya no se dirigen a la dueña de la posada, de la cual desconfían, sino a un hombre que lleva haces de leña por la carretera.
+—¿Se puede comer y dormir en el pueblo?
+—En Sully, señor.
+La estafeta postal, también, está en Sully. La nieve cae a pequeños copos espesos que se deslizan entre la nuca y el cuello de la camisa y se funden en la espalda.
+—¿Qué le decía esta mañana? —salta Torrence—. Una broma o una loca. Pues bien, es una loca. A menos que ese médico rural no sea un figurante que representa su papel a la perfección, no podré creer que…
+Llegan a Sully, a la orilla de un canal. Se apean en una posada más confortable que la de Ingrannes.
+—¿Podrían servirnos un almuerzo y quizá darnos habitación por esta noche?
+—Voy a preguntárselo al dueño.
+Media hora después les sirven un soberbio faisán que ha tenido que ser cogido con trampa porque hay veda de caza.
+—Sepan los señores que las pintadas, por aquí, se parecen mucho a los faisanes.
+El dueño les hizo un guiño.
+—¿Conoce usted al doctor Aberton?
+—¡Caramba! Es el hombre más bueno de la tierra. Si faltara un San José para el belén de Navidad, se le podría poner a él con el asno y el buey…
+—Es amigo de todo el mundo… Hace favores a todo el mundo… Y en lo que respecta a saber apreciar una copita…
+—¿Qué piensa usted de la señora Dossin?
+—¡Hum!
+—Dispense. No he comprendido bien. ¿Ha dicho usted que…?
+—He dicho: «¡Hum!».
+—¿Lo cual significa?
+—Significa «hum», como tengo el honor de decirles. ¿Otra ala? Sí, hombre. ¿Ustedes comprenden? En el país no nos gustan mucho las tías.
+—¿Las qué?
+—Las tías… Entonces, cuando el pobre señor Dossin ha traído esa… ésa: «¡Hum!».
+—Un instante. ¿Quiere usted decir que la señora Dossin tiene algún amante?
+El posadero se pone más serio.
+—Todo el mundo se lo dirá, sí, señor.
+—¿Su amante se llama Jean Marchons?
+—Aquí no llevamos nota de las habladurías.
+—Quizá, de todos modos, podría usted decirnos quién es el señor Jean Marchons.
+—Un hombre encantador. Un hombre hasta demasiado encantador, que posee rentas, dicen, y que, dicen, vino a vivir a Pithiviers para estar más cerca de… Dispense… Creo que se quema algo en los fogones.
+Lo que se quemaba era su lengua. ¿Cuánto tiempo se necesitaría para volver a calentarla?
+—¿Qué me dice de eso, jefe? —pregunta Emilio en voz baja.
+—Es una maravilla.
+—¿El qué?
+—Este faisán… Por lo demás, desde el momento en que el médico… De todos modos, no podemos violar el domicilio de aquel hombre y penetrar por fuerza en la habitación de una enferma. Usted es joven, Emilio. Yo tengo más años que usted y a veces tuve que lamentar, y eso que pertenecía a la policía oficial, el haber pasado por encima de las advertencias de los médicos. ¿Qué ha afirmado el médico? Que la mujer está loca.
+—¿Y qué es lo que dice el gancho?
+—¡Vamos! ¡Vamos! No exagere. Del gancho aquel pueden haber colgado cualquier cosa. Un saco, por ejemplo. Si el doctor no se hubiera mostrado tan terminante…
+El dueño volvió a salir de la cocina, en la que chirriaban unas setas llegadas directamente del bosque.
+—Si hemos entendido bien, posadero, la señora Dossin era la querida de Jean Marchons, y su infeliz marido no sospechaba nada: ¡ja, ja!
+Pero el posadero no se ríe.
+—Pero esa señora, ¿no tiene la razón algo perturbada? —insiste Emilio, acabando su muslo de faisán.
+—No sé si es eso lo que ustedes llaman razón —respondió el dueño de la posada… Aquí, lo llamamos de otro modo. Y si yo tuviera una mujer así créame que…
+Un gesto categórico remata su frase.
+—¿Qué vino quieren que les sirva con las setas, señores? ¿Qué dirán de un vinillo del Ródano algo fuerte, pero solamente lo justo… y luego de una…?
+No tiene tiempo de acabar. La puerta se abre. Aparece una mujer. El posadero balbucea:
+—Señora…
+Dos ojos febriles; ojos inmensos, magníficos, habitados por la inquietud. Un rostro pálido. El pelo cubierto por una linda toca de piel. Botas suaves.
+Ha llegado en bicicleta. Su máquina está apoyada todavía en la entrada.
+—¿El señor Torrence?
+—Soy yo.
+—Ya lo han visto, ¿verdad? No les ha dejado llegar hasta mí.
+Es, pues, ella, la señora Dossin, la que les ha telefoneado y a la que han tratado de ver inútilmente.
+—Perdónenme. Ya ven a lo que estoy reducida.
+Entreabre su abrigo de pieles y se ve, que, debajo, está en camisa de noche.
+—No quería que les hablara. Ha hecho todo lo posible para impedirme que saliera. Yo he pensado que usted no se iría, que no creería sus mentiras. ¡Le juro que él lo mató! Ya lo sospechaba. Hace tiempo que tenía miedo.
+—Perdone, posadero… ¿No tendría una habitación en la que pudiéramos…?
+—Hay la sala de bodas y banquetes, pero es muy fría. Hay que decir que aquí se casan preferentemente en verano.
+¡Lástima de frío! ¡Y lástima de setas! Y del vino del Ródano, que tiene un colorcillo dorado tan hermoso.
+—La escucho, señora —dice Torrence sentándose encima de una mesa.
+—He tenido que huir por la ventana. Esta mañana estoy segura de que José ha sorprendido nuestra comunicación telefónica.
+—¿José?
+—Su ayuda de cámara, que nos sirve también de mozo de comedor. Le obedece ciegamente. ¡Si usted supiera lo que he sufrido en esta casa! Le engañé; es cierto.
+—Dispense. ¿A quién engañó usted?
+—A mi marido.
+Ella tiene por lo menos veinte años menos que él. Es una mujer magnífica de rostro ardiente, de intensa vitalidad.
+—Le engañé; lo confieso. Pero él sabía muy bien, cuando nos casamos, que yo tenía veinte años y que él tenía cerca de cincuenta. Sabía que no podría vivir feliz en este castillo húmedo y frío.
+—Dispense, señora. Por teléfono, esta mañana, usted ha hablado de un cadáver.
+—¿No lo han encontrado?
+—No.
+La mujer pareció un instante aturdida. Murmuró como para sí misma:
+—No sé cuándo ha podido…
+—Sería mejor, señora, que recobrase la calma y nos contase los sucesos por orden cronológico.
+—Pero él va a venir…
+—¿Y qué?
+—Me volverá a llevar al castillo. Me encerrará otra vez. Si viera usted su furia cuando supo que yo había avisado a unos detectives…
+—¿Qué sabe usted de Jean Marchons?
+—Es mi amante. Era mi amante.
+—¿Dice usted era? ¿Cuánto tiempo hace que le conocía?
+—Desde hace muchos años.
+—¿Y su marido no lo sospechaba?
+—Hasta estos últimos tiempos…
+Es Torrence el que formula las preguntas. De pronto, Emilio interroga tímidamente:
+—¿Dónde se veía usted con él?
+—En los bosques… En Orleans… En París…
+—¿Y en la choza de madera?
+—Jamás.
+—Muchas gracias.
+Le toca otra vez el turno a Torrence:
+—Cuando me telefoneó esta mañana, ¿qué sabía usted?
+—Ayer… Sí, ayer iba a recibir la visita de Jean a eso de las cuatro. Debo decirles que mi marido estaba de caza y que en esos casos…
+—Comprendido.
+—Jean solía dejar su coche en la granja de uno de sus colonos… Porque había comprado dos granjas en el país. Yo oía de lejos el ruido de su bocina.
+—¿Y la oyó ayer?
+—La oí. Pero no vino Jean. Por el contrario, mi marido volvió más temprano que de costumbre. Poco después, le vi salir otra vez y dirigirse hacia la choza de madera. No le atribuí importancia alguna.
+—¿Llevaba un martillo en la mano? —interrogó Emilio.
+—Yo… no lo sé.
+—¿Estuvo mucho tiempo ausente?
+—Unos minutos. Estuvo sombrío durante toda la velada. Yo estaba inquieta. Esta mañana, en cuánto apuntó el día, me precipité afuera.
+—¿Tenía presentimientos? —dice Torrence, que sigue pensando en sus setas, que ha tenido que dejar.
+—No sé cómo decírselo… Había oído la bocina a la llegada. No la había oído a la salida. En los bosques, sobre todo en éste que es tan desierto, fuera de la época de la caza, los sonidos llegan lejos. Pensé en Jean. Me decía que si mi marido le hubiese acechado…
+Emilio murmuró cándidamente:
+—Entró usted en la choza de madera.
+—Sí. Y vi un cadáver colgando. El de Jean Marchons. Volví a casa. Esperé a estar sola. Les he telefoneado.
+—¿Por qué no avisó usted a la policía?
+Ella les miró sorprendida.
+—Porque no podía denunciar así a mi marido.
+—¿Vio usted sangre?
+—¿Sangre? —repitió la mujer, mirando por tumo a Emilio y a Torrence.
+—¿Y un martillo?
+—No comprendo lo que quiere usted decir… El cadáver colgaba de un gancho grande que está en el centro de la viga. Esperé a que mi marido saliera como todas las mañanas. Le espié por la ventana. Les telefoneé. José ha debido de oír. Luego, cuando ustedes estaban abajo, porque yo he comprendido que ustedes estaban abajo y hasta he intentado hacerles señas por la ventana, llegó el médico y quiso hacerme creer que yo estaba enferma… Yo no estoy enferma… Pero él tiene miedo, ¿comprenden? Ellos tienen miedo. Porque ahora descubro que el doctor está de acuerdo con él. Mi marido tenía celos de Jean. Él lo mató. No sé adónde se ha llevado el cadáver esta mañana, pero estoy segura de que él lo mató.
+Es una mujer espléndida, de las que se ven pocos ejemplares en el curso de la vida.
+—Perdone, señora…
+Emilio toma un aire cada vez más tímido para formular sus preguntas.
+—¿Podría decirme en qué circunstancias contrajo matrimonio con el señor Dossin?
+—No hay nada irregular en ello. Mamá acababa de morirse. Yo estaba sola. Nos encontramos a bordo de un paquebote. Yo tuve miedo a causa de su edad, pero él me juró que siempre sabría comprender…
+—¿Se instalaron ustedes enseguida en el castillo del Lago?
+—Enseguida, no. Pasamos tres años viajando, yendo de Cannes a Italia, de Italia a los deportes de invierno…
+—¿Y su marido se mostraba celoso?
+—Sí.
+—¿Y por celos vino a encerrarla aquí?
+—Así lo creo.
+—Y, no obstante, usted ha llegado… Le pido perdón, pero los menores detalles tienen su importancia… Jean Marchons…
+—Le conocí en París, durante una de nuestras breves estancias. Vivía en Pithiviers por mi causa. Por eso lo mató mi marido.
+—Naturalmente, usted ignora cómo.
+Ella les miró un instante, al uno después del otro.
+—Yo no estaba allí —dijo—. Él estaba colgado…
+—¿Sabe usted que es muy difícil colgar a alguien que se resiste?
+Entonces ella empieza a sollozar.
+—¿Cómo quiere que yo lo sepa? ¡Me hace usted unas preguntas…! No lo sé. Él vendrá a buscarme. Dirá otra vez que estoy loca. Se lo juro. Le juro por mi madre que no estoy…
+Un coche se para en el mismo momento frente a la posada. Emilio va a la ventana.
+—Es su marido —dice con calma.
+—¡Señor Torrence! ¡Señor Torrence! Se lo suplico. Haga cualquier cosa. Llame a la policía… No quiero… No quiero…
+El posadero comparece.
+—Es precisamente el señor Dossin que… Le he dicho que… que…
+—¡Que suba! —interviene Emilio.
+Pocas veces en su vida se había sentido Torrence tan incómodo. ¿Qué sería si formase aún parte de la policía judicial? ¿A qué escena van a asistir?
+A ninguna. El señor Dossin está tranquilo, más grave que nunca.
+—Dispénsenme, señores —dijo con una triste sonrisa—. Por más que vigilo, ha bastado un momento para…
+Lo más extraño es que la joven no protesta.
+—Ya voy —balbuceó—. Estaba segura de que vendrías. Pero prefiero decir que estos señores lo saben todo y que la policía…
+El posadero ha desaparecido. Quizá esté en un rincón, escuchando, pero no se le ve.
+—¿Permiten ustedes, señores, que acompañe a mi mujer y que…? Claro está que quedo a la disposición de ustedes.
+—Señores —dice ella siguiéndole—, acuérdense de lo que les he revelado y obren en consecuencia.
+¡Todo eso en la sala de bodas y banquetes, donde aún hay guirnaldas de papel recortado de la última fiesta!
+La mirada de Torrence interroga claramente a Emilio.
+—¿Qué hago?
+Emilio, como por casualidad, mira a otro sitio. Mira por la ventana. Mira al canal, donde un marinero…
+Súbitamente, dice con una autoridad inesperada:
+—¿No les importaría esperar aquí unos minutos? Vuelvo enseguida.
+Sale de la habitación ligero como una anguila. Atraviesa la sala de la posada y el muelle; llega a la orilla del agua.
+—¿Quién es? —pregunta.
+—Eso es precisamente lo que no sé —dice cómicamente el marinero mostrándole el cuerpo rígido en su barquilla. Lo he encontrado aguas arriba a tres o cuatro kilómetros. No sobresalía de la superficie más que un trozo, pero me figuré…
+Emilio no sabrá nunca lo que el marinero se figuró al hacer aquel macabro descubrimiento. En efecto, está muy ocupado vaciando los bolsillos del muerto. En la ventana del primer piso, ve al gordo Torrence que le está mirando con estupefacción.
+Una cartera. Tarjetas de visita.
+Jean Marchons.
+—Es que… Creo que hay que avisar al guarda jurado —protesta el marinero—. Ya cuando lo saqué del agua, cerca del estanque, mi mujer me dijo que no se debe…
+Y Emilio, que acaba de descubrir lo que los médicos forenses llaman una herida contusa en el cuero cabelludo, exactamente la herida que hubiera producido un martillazo, responde un poco protocolario:
+—¡Cierra el pico!
+III
+Tienden el cadáver en el billar y Emilio le echa encima la funda verduzca que hace poco recubría aquella mesa. La posadera viene del lavadero secándose las manos y es necesario reanimarla con una copa, mientras la criada mueve la cabeza estúpidamente.
+Alguien, al parecer, ha salido en busca del guarda rural. Mientras aguardan, Torrence llama por teléfono a Orleans. Al hablar, mira soñador al señor Dossin, que está allí inmóvil, con la frente en la mano.
+—Oiga… Sí… Tenga la bondad de avisar al juzgado… Casi seguro que se trata de un asesinato… Sí… Permaneceré aquí hasta que ustedes lleguen… Claro está que haré que nadie se mueva…
+Dossin se estremece. ¿Acaso esas últimas palabras han sido pronunciadas en relación con él?
+—No tema —murmura con una sonrisa triste—. No tengo intención alguna de huir.
+—Esta vez, no obstante, tendrás que confesar, ¿no es cierto?
+Es su mujer quien le ataca, con una voz dura, tajante.
+—¿Crees acaso que podrás seguir contando a la gente que estoy loca y que por compasión me tienes encerrada en ese castillo lúgubre?… Porque tú eres un celoso; sí. ¡Un celoso enfermizo! ¡Celoso hasta el punto de acechar y de matar al hombre que yo amaba! Cuando viste que yo había descubierto tu crimen, te apresuraste a esconder el cadáver. Ya sospechaba que lo habías echado al canal, cuya agua no está aún helada como la del estanque…
+Emilio se acuerda de la primera visión que tuvo de la joven cuando, detrás del cristal del primer piso, como un fantasma lívido, le hacía señas que él no comprendía. ¿Cómo iba a sospechar que lo que ella le señalaba de aquel modo era el canal en lontananza?
+Sin preocuparse de Torrence, Emilio se dirige hacia la puerta como impelido por una idea. Aparta a los pocos curiosos agrupados en el umbral, se levanta el cuello del abrigo y se mete en el cochecito.
+Unos minutos más tarde, llega al castillo del Lago, que parece más desierto, más desolado que nunca, en la inmovilidad helada del bosque. Sólo el perro mete el hocico entre los barrotes de la verja, husmea, gruñe sordamente.
+Emilio no trata de entrar; dejando su coche en el camino, llega a la choza de madera y desde allí se orienta. El canal no puede estar sino frente a él, al otro lado del estanque al que tendrá que dar la vuelta.
+Emilio anda en aquella dirección, lentamente, con mirada escudriñadora. Desgraciadamente, la tierra helada no conserva huella alguna. Recorre así cerca de medio kilómetro. La tarde está al caer. El paisaje es impresionante como una decoración lunar y el silencio tiene algo de espantoso.
+El canal sólo dista ya trescientos metros cuando Emilio se detiene, satisfecho, como si acabara de encontrar lo que buscaba. ¿Pertenece el terreno a otro propietario? Probablemente, porque hay tres alambres de espino artificial tendidos a través del camino que sigue.
+No se impacienta. Llama dos, tres veces. Mira al perro, que no cesa de ladrar y que, sin esa dichosa verja…
+El solemne criado se decide por fin a venir a abrir, o, más exactamente, a parlamentar.
+—No hay nadie en casa.
+—Ya lo sé. Su señor me envía. Como no volverá esta noche, ni probablemente las siguientes, quiere que le lleve algunos objetos de tocador y una muda de ropa blanca.
+Emilio no arriesga nada. Al punto a que las cosas han llegado, lo más probable es que el señor Dossin sea, en efecto, detenido antes de la noche.
+—¿Trae alguna nota escrita? —pregunta el ayuda de cámara, desconfiado.
+—Tiene más que hacer que escribir notas… ¡Comprenda la situación, diablo! Acaba de descubrirse el cadáver de Jean Marchons.
+—¡Ah!
+—No parece sorprenderle mucho.
+El criado no se inmuta.
+—¿Me abre o no me abre usted?
+La obscuridad es casi completa cuando, por fin, se entreabre la puerta.
+—Es usted terco, amigo… Ahora, haga el favor de conducirme a la habitación del señor Dossin…
+—Creo que debería exigirle un mandamiento del juez…
+—¡Eso es!… Le aconsejo que siga de esa manera…
+—¿Qué podría usted hacerme?… Aparte de que está el perro…
+¡El bueno del criado sería capaz de ponerlo en la puerta! Vale más obrar con astucia.
+—Haga lo que su señor le ordena. Deme su pijama, sus zapatillas, su cepillo de dientes, su navaja de afeitar.
+La inocencia de aquella enumeración decide a José. Penetran ambos en una vasta habitación del primer piso.
+Los trajes están colgados en un inmenso armario antiguo y Emilio se dirige a otro armario del mismo género que hace juego con él. No se ha engañado; éste contiene los zapatos. Hay allí unos quince pares, cuidadosamente colocados.
+—Es curioso —dice a media voz.
+—¿Qué es lo que es curioso?
+—Falta un par de botas… A no ser que usted las haya bajado para limpiarlas…
+—El señor Dossin las tiene puestas.
+—No hablo de sus botas de montar, sino de las botas de cordones que llevaba esta mañana antes de que llegáramos.
+El criado no vacila ni un segundo.
+—El señor no ha tenido jamás botas de cordones.
+—Oiga, José… Esta mañana, he visto, con mis propios ojos, que el señor Dossin llevaba botas de cordones… Ello, por otra parte, no tiene importancia alguna. Si el detalle me chocó, fue porque quisiera comprarme unas botas parecidas.
+—El señor no ha tenido jamás botas de cordones.
+—Yo, yo le repito…
+—El señor jamás…
+—José, le ruego que no me exaspere… Le prevengo desde ahora que eso le podría llevar lejos. Mañana, o pasado mañana, no tendrá que responderme a mí, sino al juez de instrucción. Éste le formulará la misma pregunta bajo juramento. ¿Afirmará usted bajo juramento que su señor…?
+—… jamás ha tenido botas de cordones, ¡perfectamente!
+—Será procesado por declaración falsa.
+—Eso lo veremos. Por de pronto —y la mirada del criado se hizo más dura— es usted quien ha mentido al afirmar que el señor Dossin le había dado este encargo. Ahora lo comprendo. Todo lo que usted quería era registrar su habitación con la esperanza de encontrar en ella yo no sé qué par de botas. ¡Pues bien! Si no se larga inmediatamente…
+Desde luego, convenía acabar pronto. Emilio prefiere no insistir. Baja la escalera rápidamente, porque el talante de José no indica nada bueno. En cuanto al patio, donde ronda el perro…
+Todo va bien. La reja se cierra de nuevo. Emilio vuelve a subir al coche, mira fijamente la obscuridad que tiene ante sí y, antes de poner en marcha el motor, murmura:
+—¿Qué diablo han podido hacer de aquellas botas?
+La casa en una tranquila calle de Pithiviers, es bastante bonita. Por la cerradura, antes de llamar, Emilio ha percibido luz. Pronto viene a abrirle una mujer de cierta edad, se estremece, se pone la mano sobre el pecho y pregunta:
+—¿Ha ocurrido alguna desgracia?
+—Perdone, señora, ¿es aquí dónde vive el señor Marchons?… ¿Podría saber con quién tengo el honor de hablar?
+—Entre, señor. No se quede ahí en el frío y en la obscuridad. Espere, que enciendo el salón… ¡Pero, por favor, tranquilíceme! O mejor: dígame la verdad. Soy el ama de llaves de Jean… Yo le crié. Me consideraba, por decirlo así, como su madre… ¿Qué dice? ¿Por qué baja la cabeza? ¿Le ha sucedido una desgracia? Cuando vi que no volvía… ¿No estará muerto, por lo menos?
+—Ha muerto, señora.
+—¿Le han matado? ¿Han hecho eso?
+La mujer llora. Se desploma en un sillón.
+—Siempre le dije que aquello acabaría mal. Un buen mozo como él, de buena salud, con cierta fortuna… Hubiera podido casarse con cualquier joven… En vez de eso, va y se encapricha con esa… con ésa… Es una tía, ¿verdad, señor? No me harán creer que una mujer honrada y esposa legítima de un hombre que tiene veinte o veinticinco años más que ella… ¿Cómo ha sucedido? ¿Les ha sorprendido juntos?… ¡Él habrá disparado, claro! Un hombre que siempre va con el fusil al hombro… Adivino lo que ha pasado… Habrá fingido que se iba a cazar… Luego habrá vuelto sigilosamente y habrá disparado… ¿Dónde le dio, señor?
+—No disparó.
+—Entonces, ¿qué hizo?
+—Pues…
+¿Por qué, en aquel saloncito confortable, delante de aquella buena mujer que llora, Emilio siente emoción ante la enormidad de lo que va a decir?
+—Pues… Es decir, que a Jean Marchons le rompieron el cráneo de un martillazo y luego…
+La pobre mujer se ha llevado las manos a la cabeza como si fuese a ella a quien golpearan.
+—Y luego le han colgado.
+—¿Qué dice usted?
+—Por último, han arrojado su cadáver al canal.
+Es demasiado. La mujer se levanta y mira con cierta inquietud a aquel visitante que dice tantas enormidades.
+—No va usted a hacerme creer que… Pero, entonces, quien ha cometido eso es un loco… Sólo un loco puede…
+Emilio tiene una manía que desconcierta siempre a la gente y que tiene el don de exasperar al mismo paciente Torrence. Cuando le pasa una idea por la cabeza, se lanza de pronto, sin preocuparse de su interlocutor, al que deja plantado.
+Es lo que le sucede ahora.
+—Sólo un loco puede… —ha empezado el ama de llaves secándose los ojos.
+Y aún no ha terminado la frase, cuando Emilio sale sin decir nada. Abre la puerta de la calle, se dirige hacia su automóvil. La mujer tiene que correr tras él.
+—Pero ¿dónde está? Señor, dígame por lo menos dónde está.
+—Es verdad… Bueno, si quiere subir…
+—Espere a que coja mi abrigo, a que cierre la puerta.
+A lo largo del camino, Emilio no le dirige la palabra. No la escucha.
+La señora Dossin no está loca; lo juraría. Pero el doctor ha afirmado…
+—¿Por qué, sí, dígame por qué lo ahorcaron si ya estaba muerto?
+—Y usted, dígame por qué, si estaba ahorcado, le dieron un martillazo…
+Faros amortiguados en la lejanía. Es Sully, la orilla del canal, los coches de los magistrados de Orleans y de la Brigada móvil.
+Emilio empuja la puerta de la posada.
+En la sala mal iluminada, están inmóviles numerosos personajes cuando el ama de llaves se precipita hacia el billar, levanta la funda, lanza un gran grito y se desmaya.
+IV
+Sin duda, para el transeúnte no advertido, el castillo del Lago presentaría, aquella noche, un cierto aire de fiesta. Se parece exactamente a aquellas tarjetas postales de Navidad: los pinos que le rodean están empolvados de nieve; en el patio, también, un denso tapiz blanco amortigua el ruido de los pasos. Dos o tres chóferes zapatean junto a los automóviles que esperan al pie de la escalinata y todas las ventanas están iluminadas.
+Los señores del juzgado de Orleans han decidido, puesto que ya están en Sully, visitar sin tardanza el lugar del hecho.
+Mientras los policías van y vienen por todas las habitaciones en busca de Dios sabe qué indicios, los personajes más importantes están reunidos en la biblioteca. El fiscal y el juez de instrucción están sentados a una larga mesa de roble a cuyo extremo ha tomado asiento un escribano con gafas.
+Torrence, en pie y de espaldas al hogar, fuma lentamente su pipa. De vez en cuando parpadea, sobre todo en el momento en que unos pasos se acercan a la puerta, porque desde la llegada al castillo Emilio ha desaparecido súbitamente.
+Hundida en un sillón, la señora Dossin está más bella que nunca. Bajo el influjo de la nerviosidad, frecuentemente se muerde los labios, tanto que éstos han tomado un hermoso rojo de sangre. Sus ojos sombríos reflejan un fuego ardiente. Una criatura admirable, de las que son capaces de hacer soñar a las multitudes y de desencadenar dramas. ¡Qué estrella de cine sería!…
+Han llamado por teléfono al doctor Aberton, que tiene más aspecto de gnomo que nunca y que, a decir verdad, no parece estar muy a sus anchas.
+—No es a mí a quien ha de responder usted, doctor. Es a esos señores. Pero le exijo que lo haga con entera franqueza. Esta mañana, cuando estuvo aquí el señor Torrence, llegó usted… ¿Solía usted visitarme a esa hora?
+—No, pero…
+Ella interroga…
+Su marido se mantiene de pie no lejos de su sillón y mira obstinadamente a una alfombra azul, rameada.
+—Le ruego que responda claramente. ¿Me atendía usted regularmente? ¿Me consideraba usted como a una enferma suya?
+—Oficialmente, no.
+Los finos dedos de la mujer juegan con un pañuelo de encaje que no resistirá mucho tiempo. Torrence no puede dejar de admirarla aunque le dé miedo.
+—¿Por qué, pues, le mintió usted al señor Torrence? No se turbe. Oí lo que dijo. Ahora bien, yo sé que mi marido le llamó telefónicamente y que le rogó que afirmara que estoy loca.
+Un leño se hunde y lanza chispas. Torrence se olvida de chupar su pipa. El juez de instrucción, para adquirir soltura, juega con un cortapapeles, mientras el fiscal limpia cuidadosamente un monóculo del que no tiene necesidad alguna.
+—Responda sí o no: ¿me ha cuidado usted como se cuida a una loca?
+—No.
+—¿Me considera usted como loca?
+—Responderé a esa pregunta en el despacho del señor juez.
+—No se atreve a repetir que estoy loca. Si lo estuviera, me hubiera tratado como a tal y me hubiera prodigado cuidados… Señores, les pido que tomen nota de la actitud del doctor Aberton, quien, para complacer a mi marido, para salvarlo, no ha vacilado en…
+—Lamento tener que decirle, señora, que, legalmente, hay probabilidades de que no se la tenga por responsable de sus actos.
+El juez se dirige al señor Dossin.
+—¿Sigue usted negando haber asesinado a Jean Marchons en la choza de madera?
+El castellano baja la cabeza sin responder.
+—¿Niega haberlo colgado después? Y, esta mañana, sabiendo que la Agencia O iba a ocuparse de este asunto, ¿niega haber sacado el cadáver de la choza y haberlo transportado hasta el canal?… Le haré notar que parece imposible que una mujer, por vigorosa que sea, haya efectuado sola dicho transporte. Por otra parte, si ella se hubiese servido de un vehículo, este vehículo hubiera dejado huellas.
+Por la puerta entreabierta, Torrence ve a Emilio, que pasa, presuroso, seguido del ayuda de cámara, que no lo abandona, como si fuera su sombra.
+Emilio acepta la presencia de José. Hasta llega a fingir que encuentra agradable su presencia y le habla como a un camarada.
+—Comete usted un error, José. O, si no, es que usted no es el criado fiel y afecto que yo me imaginaba. O quizás no es al señor Dossin a quien considera como a su amo, sino a esa mujer… ¡Veamos! Esa alacena… Ahora, que le felicito por el orden que reina en la casa. Si mis medios me permitieran contratarle a mi servicio… ¡Nada! Veamos… ¿Cómo es posible en una casa como esta que desaparezcan definitivamente un par de botas?
+»¡Y no solamente las botas! Hay además la cuerda, la famosa cuerda de ahorcado, que ha existido, indudablemente, a pesar de todo cuanto se diga ahora, puesto que el roce ha puesto al gancho liso y brillante.
+»Por aquí, si no tiene inconveniente.
+Cosa rara, José no se preocupa de los otros policías, que no obstante registran la casa con más método que Emilio. La verdad es que ellos no saben lo que buscan. Registran por costumbre, porque, en todo asunto criminal, la policía busca los menores indicios.
+—Después, José, me pedirá usted perdón por la mala voluntad que me manifiesta ahora. O yo tengo razón y entonces usted es un imbécil. O yo me equivoco, y en ese caso usted se pasará una gran parte de lo que le quede de vida en una celda… Pero… ¡caramba! ¿No podía haberlo dicho enseguida?… Son las chimeneas monumentales las que me han despistado. No se imagina uno, al ver arder leños de un metro en todas las chimeneas, que resulte insuficiente y que, por añadidura, haya que recurrir a la calefacción central. ¿Dónde está la caldera, José?… No se moleste. No tengo más que seguir la tubería. ¡Caramba! ¿Dónde hacer desaparecer un par de botas y una cuerda gruesa sino en una caldera o…?
+Se vuelve hacia una de las habitaciones en la que dos inspectores registran los, armarios.
+—Perdonen, señores. Mi jefe, el inspector Torrence, acaba de tener una idea. Para verificarla, necesitaría la ayuda de ustedes.
+»¿Tendrían ustedes la bondad de acompañarme a la bodega? ¡No tan de prisa, José! Señores, por favor, impidan a ese criado demasiado celoso que pase delante. Las esposas son acaso superfluas, pero seria lastimoso que ese muchacho llegara a la caldera antes que nosotros.
+—Ya lo ven ustedes, señores, lo que me sorprende es que no se haya producido antes una desgracia.
+Es la señora Dossin, que sigue hablando y lo que es alucinante para todos los que la escuchan, lo que crea un malestar del que nadie se libra, ni el mismo escribano ya habituado a las situaciones dramáticas, es esta pregunta que late en todos los espíritus:
+—¿Está loca?
+Ella se anima. Recalca todas las sílabas.
+—Cuando me casé con él, me juró que jamás, a causa de su edad, se permitiría el estar celoso. Sólo con esta condición consentí en ser su mujer. Me prometió una vida agradable, numerosos viajes, estancias en la Costa Azul y en los balnearios. ¡Ay! Aquellos celos que yo temía no tardaron en roerle, en dominar todos sus otros sentimientos. Por eso ha venido a encerrarme aquí, donde me impide, por decirlo así, todo contacto entre el mundo y yo.
+¡El acento es tan sincero! ¿Y cómo no comprender la pasión de aquel hombre de cincuenta años, sus torturas frente a aquella criatura espléndida?
+—Tuve un amante, es verdad. Amaba a Jean Marchons. Él me amaba. Habíamos formado el proyecto de huir y no esperábamos más que una circunstancia favorable, porque aquellas citas en el bosque nos daban miedo.
+Torrence se estremece. Nadie se acuerda de la vieja ama de llaves de Jean Marchons, que está sentada junto a la puerta y que llora. Ahora bien, ella acaba de levantar la cabeza. Abre la boca, pero no tiene tiempo a hablar.
+Entonces, Torrence se le acerca, le pone suavemente la mano en el hombro, se la lleva al hall y luego a un saloncito de la planta baja cuya puerta cierra.
+—Él lo mató. En su rabia, luego, lo colgó, quizás para hacer creer más tarde, cuando por casualidad se descubriese el cadáver, en un suicidio.
+»Pero sorprendió mi conversación telefónica de esta mañana. Tuvo miedo. Echó el cadáver al canal. Ha tratado por todos los medios, con ayuda del doctor, de hacerme pasar por loca y de acusarme de su crimen. ¿Por qué, díganme, por qué iba yo a matar al hombre que amaba?
+En los sótanos, Emilio, que tiene la cara y las manos negras de carbón, murmura con la cortesía exquisita y la humildad que cuadran a la categoría que se ha atribuido en la Agencia O.
+—Les pido, señores, que tengan la amabilidad de tocar esas cenizas. Notarán, ¿verdad?, que se distinguen claramente los ojetes de las botas. En cuanto a esa especie de serpiente blancuzca, estoy persuadido de que los peritos descubrirán que son las cenizas de una cuerda de cáñamo.
+—Es necesario avisar inmediatamente al fiscal —dice uno de los inspectores—. Después de eso no creo que el buen hombre se muestre tan seguro de sí mismo. Cuando uno piensa que ha tratado de hacer pasar a su mujer por loca y que…
+—¿Viene usted, José?
+El criado está indignado ante aquella familiaridad.
+—Yo le aseguro, muchacho, que será mucho mejor que me siga. Voy a verme obligado, arriba, a revelar ciertas cosas que quizá cambien algo la orientación de las pesquisas.
+En el momento en que Emilio, seguido de José, penetra en la biblioteca, es el señor Dossin quien está en el banquillo; siempre erguido, pero con la mirada clavada en el suelo, no responde o se contenta con repetir con una voz que se va debilitando:
+—No tengo nada que decir.
+Diez, veinte veces, el juez de instrucción repite sus preguntas:
+—¿Niega usted haber penetrado esta mañana en la choza de madera y haber retirado el cadáver de…?
+Emilio busca a Torrence con la mirada y no lo encuentra. Lástima. Se adelanta, sin acordarse de que lleva tizne en la cara, lo que produce un efecto algo inesperado.
+—Perdone, señor juez.
+—Un instante. ¿Qué hace usted aquí? ¿Quién es usted?
+—Dispense que le moleste… Soy el fotógrafo de la Agencia O… Bajo las órdenes y siguiendo las instrucciones del exinspector Torrence, acabo de entregarme a ciertas búsquedas. Y he adquirido al instante mismo la prueba de que en efecto, fue el señor Dossin quien retiró esta mañana el cadáver de Jean Marchons de la choza de madera y quien lo llevó al canal.
+—¿Dónde está esa prueba?
+—En la bodega. Junto a la bodega de la calefacción. Dos policías la guardan. Se trata de las botas de cordones que el señor Dossin llevaba esta mañana cuando llegamos y que habían desaparecido. Yo… quiero decir el señor Torrence, ha encontrado extraña esa preocupación de hacer desaparecer un par de botas y de negar hasta su existencia. He buscado. Las botas han sido quemadas en la caldera. Sin duda porque tenían huellas que probaban que el señor Dossin ha franqueado esta mañana los alambres espinosos tendidos a través del camino del canal.
+»La cuerda está también abajo, consumida, pero reconocible, y el análisis de los restos…
+El juez y el fiscal se inclinan el uno hacia el otro y sostienen una breve conversación a media voz.
+—Supongo, señor Dossin, que, en esas condiciones, no pensará en seguir negando un acto que…
+Precisamente en el momento en que la puerta se abre para dar paso a Torrence, Emilio levanta el dedo como en la escuela.
+—Usted perdone, señor juez. Hay el martillo…
+—¿Qué quiere decir? El martillo, si no me equivoco, ha sido encontrado en la choza de madera…
+—Claro.
+—¿Por qué claro? Explíquese, joven.
+—El martillo no debiera estar allí. El señor Torrence me decía… ¿no es verdad, jefe? Si el señor Dossin hubiese matado a Jean Marchons, el martillo se encontraría actualmente en el fondo del canal o entre las cenizas de la caldera, pero nosotros ciertamente no lo hubiéramos encontrado en la choza.
+—No comprendo.
+—El señor Torrence me explicaba… Supongamos que el señor Dossin hubiese matado ayer a Jean Marchons. Él no ignora que lo ha matado de un martillazo en el cráneo. Espera que nadie entrará hasta dentro de mucho tiempo en la choza. No obstante, sería elemental hacer desaparecer aquel martillo. Esta mañana, se entera de que va a llegar la policía y supone que registrará la choza. Luego, quiere hacer desaparecer todas las huellas del crimen.
+—Me parece evidente.
+—Es tan verdad que quema la cuerda. Lleva tan lejos la preocupación por su seguridad que quema las botas que podrían traicionarle. ¿Por qué no cogió el martillo?
+—Pero…
+—Porque no lo ha visto… Porque no sabe dónde se encuentra… Porque ignora quizás que exista. Si hubiese cometido el crimen, repito, sabría el lugar exacto del martillo y…
+Emilio está sonrojado y confuso. Aparta la mirada porque acaba de tropezarse con los ojos del señor Dossin, que expresan una sorpresa triste.
+—Este joven está loco —exclama la señora Dossin, que hace un movimiento para salir de su sillón.
+—Me hubiera gustado que el señor Torrence se explicara por sí mismo, porque yo no soy más que un modesto empleado y no conozco todas sus ideas. Me decía antes que, a su juicio, el señor Dossin no se había enterado del crimen hasta esta mañana, por la llamada telefónica de su mujer, verosímilmente por José, encargado de escuchar a la puerta. Para explicar ante nosotros la llamada telefónica hizo llamar al doctor Aberton y nos habló de la locura de la señora Dossin…
+—Yo no estoy loca.
+—Sí, señora. Usted misma será muy pronto la que suplicará al módico que la reconozca como a tal… Su marido, para evitarle la cárcel… Su marido, que siente por usted una pasión ciega y que antes que perderla ha aceptado…
+—Era horriblemente celoso…
+—Suponía quizás sus extravíos, pero procuraba no creer en ellos.
+—¡Es falso!
+El señor Dossin saca el pañuelo del bolsillo, se seca la frente y luego se acerca a un velador. Cuando vierte un líquido dorado en una copa de cristal tallado, el comisario de la Brigada móvil se precipita. Y el señor de la casa murmura:
+—No teman nada. No me envenenaré. Es que tengo necesidad de un poco de alcohol para…
+En cuanto a su mujer, ésta exclama con exaltación:
+—Ignoro quién es ese joven tan ridículo como pretencioso, pero quisiera que me dijese por qué iba yo a matar al hombre que amaba y con el que próximamente debía…
+Esta vez se adelanta el corpulento, el bonachón Torrence, que por fin dice su palabra.
+—No, señora, usted no debía huir con Jean Marchons. Acabo de interrogar largamente al ama de llaves de éste. Jean Marchons la quiso a usted mucho, es cierto. Por usted vino a vivir a este país y renunció a una vida más normal. Pero se dio cuenta de lo que había de antojadizo en el carácter de usted, y el ama de llaves aquí presente… avance, señora, por favor… No tenga miedo. Diga a esos señores lo que…
+—Me juró —dice la mujer— que era la última cita a que acudía…
+Y rompe en sollozos, y, al mismo tiempo, la señora Dossin cambia de actitud, tan rápidamente, que causa malestar sobre los presentes.
+Ya no es la mujer ardiente pero dueña de sí misma que hasta aquí se ha defendido. Es una furia desencadenada. Grita, se agita. Contra quien dirige su rabia es contra Emilio y sobre él se precipitaría si el médico bajito de la perilla canosa no le detuviera el paso con una fuerza insospechada.
+—¡Miente! ¡Es un espía de mi marido! ¡Es un loco! ¿Pero no lo ven que es un loco? La prueba es que se tiñe de negro y que…
+Acuden en ayuda del doctor y, cuando éste puede por fin acercarse a la mesa de los magistrados, murmura:
+—¿Qué es lo que les decía? Una crisis… Desgraciadamente, no es la primera… Mi cliente y amigo, el señor Dossin, me llamaba con frecuencia y yo la tenía en observación. Pero por nada del mundo quería separarse de ella. Este joven tiene razón… Hay pasiones, a nuestra edad…
+El señor Dossin se vuelve de cara a la pared para ocultar su emoción. José, a través de la pieza, mira a su enemigo Emilio con ojos estupefactos. Entonces, ¿aquel joven raro se entregaba con ahinco a la búsqueda del par de botas para salvar a su amo?
+El juez balbucea:
+—Señores, creo que… ¿No podría usted calmarla, doctor?
+—Si quieren ayudarme, voy por lo menos a darle una inyección y…
+—No llegaremos jamás a París —gruñe Torrence, congelado en el volante—. El radiador echa humo como un paquebote y oigo en el motor golpes sordos que…
+Dejan atrás carretas de hortelanos que van de Arpajon a los Halles. Mañana los periódicos anunciarán con orgullo que se ha batido el récord del frío durante los últimos cincuenta años.
+—¡Bendita loca!… Cuando pienso que…
+Y Emilio murmura limpiándose las narices:
+—No tan loca, a ciertas horas. La idea de llamarnos, por ejemplo… Su marido hubiera salido de apuros con dificultad. Sobre todo el pobre hombre cometió el error de hacer desaparecer el cadáver. Hubiera sido condenado. Y ella se hubiera quedado libre y en posesión sin duda de la fortuna.
+—Pero ¿y la cuerda? ¿Por qué colgarlo? ¿Por qué ahorcar a un muerto?
+Emilio se suena con más ardor. Mañana, tendrá la nariz azulada, lo cual armonizará de una extraña manera con su pelo rojo.
+—¿Quién sabe?
+—¿Quién sabe qué?
+—Es quizás la prueba de que está verdaderamente loca. Es difícil de saber lo que pasa en el cerebro de los locos. Pero es quizás también la prueba de que… Porque, al fin y al cabo, jefe, la objeción que usted acaba de hacer es la que su abogado no dejará de presentar ante el tribunal. ¿Por qué ahorcar a un muerto? Y eso es lo que la salvará de la cárcel o quizás de algo peor.
+Longjumeau. Las dos de la madrugada. Ni una luz en las casas. Toe… Toe… Toe…
+—¡Ya está! —anuncia Torrence, soltando el volante.
+—¿Qué pasa?
+—Se acabó la cuerda… Mujeres como ésa… Yo… a mí… yo…
+—No se apure, jefe. Veo un garaje y voy a llamar…
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

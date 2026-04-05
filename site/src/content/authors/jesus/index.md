@@ -7,4 +7,59 @@ tags:
   - index
   - jesus
 ---
-¿Quién es Jesús Díaz? ![Jesús Díaz](/assets/images/jd.jpg) Jesús Díaz fue un novelista, ensayista, guionista y director de cine cubano. Nació en La Habana, el 7 de octubre de 1941, y murió en Madrid, el 3 de mayo de 2002. Mientras cursaba su bachillerato trabajó como viajante de medicina y participó en la lucha estudiantil contra Batista. Estudió en la Universidad de La Habana, donde fue también profesor (1963-1971). Fue director de El Caimán Barbudo, el suplemento literario del periódico Juventud Rebelde y coeditor de la revista de ciencias sociales Pensamiento Crítico (1967-1971). En 1966 ganó el Premio Casa de las Américas con el libro de relatos Los años duros. Su obra De la patria y el exilio le valió el Premio de la Unión de Escritores y Artistas de Cuba, cuya temática convirtió en el documental 55 hermanos que en 1978 obtiene la Paloma de Plata en el Festival de Leipzigy. En 1987 recibe el Premio de la Crítica con la novela Las iniciales de la tierra. Su novela Las palabras perdidas fue finalista del premio Nadal en el año 1992,? y Dime algo sobre Cuba fue finalista del premio Rómulo Gallegos en el año 1999. Trabajó como guionista en México, Colombia, Alemania y España. En Madrid, trabajó como guionista de cine, fue profesor en la Escuela de Letras, y director de la revista Encuentro de la Cultura Cubana. Obras: Relatos: Los años duros (1966). Canto de amor y de guerra (1979). Novelas: Las iniciales de la tierra (1987) Las palabras perdidas (1992) La piel y la máscara (1996) Dime algo sobre Cuba (1998) Siberiana (2000) Las cuatro fugas de Manuel (2001) Filmografía: ¡Viva la República! (1972). Coguionista. El extraño caso de Rachel K (1973). Coguionista. Ustedes tienen la palabra (1973). Coguionista. Puerto Rico (1975). En colaboración con Fernando Pérez. Crónica de la victoria (1975, cortometraje realizado en colaboración con Fernando Pérez Valdés). Cambiar la vida (1975, cortometraje). Un día en el parque (1976, cortometraje). Mina, viento de libertad (1976). Guion. Canción de Puerto Rico (1976, cortometraje). La tierra de las muchas aguas (1976, cortometraje). A orillas del Angará (1977, cortometraje). Benin: una nación africana (1977, cortometraje). Reportaje en Lagos (1977, cortometraje). La sexta parte del mundo (1977, documental). Codirección. Cincuenta y cinco hermanos (1978, documental). En tierra de Sandino (1978, documental). Polvo rojo (1981). Guion y dirección. Lejanía (1985). Guion y dirección. Otra mujer (1986). Guionista. Clandestinos (1987). Guionista. Barroco (1989). Coguionista. CONTENIDO: Cuentos: Los años duros (1966): Al principio I. El encuentro II. El cojo III. El capitán Con la punta de una piedra El polvo a la mitad ¡No hay Dios que resista esto! Diosito No matarás I. Los bandidos II. Erasmo III. La negativa (+) Novelas: Las iniciales de la tierra (1987) Las palabras perdidas (1992) Reseñas: Julio Ortega: Los años duros de Jesús Díaz 
+
+¿Quién es Jesús Díaz? ![Jesús Díaz](/assets/images/jd.jpg) Jesús Díaz fue un novelista, ensayista, guionista y director de cine cubano. Nació en La Habana, el 7 de octubre de 1941, y murió en Madrid, el 3 de mayo de 2002. Mientras cursaba su bachillerato trabajó como viajante de medicina y participó en la lucha estudiantil contra Batista. Estudió en la Universidad de La Habana, donde fue también profesor (1963-1971). Fue director de El Caimán Barbudo, el suplemento literario del periódico Juventud Rebelde y coeditor de la revista de ciencias sociales Pensamiento Crítico (1967-1971).
+
+En 1966 ganó el Premio Casa de las Américas con el libro de relatos Los años duros. Su obra De la patria y el exilio le valió el Premio de la Unión de Escritores y Artistas de Cuba, cuya temática convirtió en el documental 55 hermanos que en 1978 obtiene la Paloma de Plata en el Festival de Leipzigy. En 1987 recibe el Premio de la Crítica con la novela Las iniciales de la tierra. Su novela Las palabras perdidas fue finalista del premio Nadal en el año 1992,? y Dime algo sobre Cuba fue finalista del premio Rómulo Gallegos en el año 1999.
+
+Trabajó como guionista en México, Colombia, Alemania y España. En Madrid, trabajó como guionista de cine, fue profesor en la Escuela de Letras, y director de la revista Encuentro de la Cultura Cubana. Obras
+Relatos: Los años duros (1966)
+
+Canto de amor y de guerra (1979)
+
+Novelas: Las iniciales de la tierra (1987)
+
+Las palabras perdidas (1992)
+
+La piel y la máscara (1996)
+
+Dime algo sobre Cuba (1998)
+
+Siberiana (2000)
+
+Las cuatro fugas de Manuel (2001)
+Filmografía: ¡Viva la República! (1972)
+
+Coguionista.
+
+El extraño caso de Rachel K (1973)
+
+Coguionista. Ustedes tienen la palabra (1973)
+
+Coguionista. Puerto Rico (1975)
+. En colaboración con Fernando Pérez. Crónica de la victoria (1975, cortometraje realizado en colaboración con Fernando Pérez Valdés). Cambiar la vida (1975, cortometraje). Un día en el parque (1976, cortometraje)
+
+Mina, viento de libertad (1976)
+. Guion. Canción de Puerto Rico (1976, cortometraje). La tierra de las muchas aguas (1976, cortometraje). A orillas del Angará (1977, cortometraje).
+
+Benin: una nación africana (1977, cortometraje). Reportaje en Lagos (1977, cortometraje). La sexta parte del mundo (1977, documental). Codirección. Cincuenta y cinco hermanos (1978, documental). En tierra de Sandino (1978, documental)
+
+Polvo rojo (1981)
+
+Guion y dirección. Lejanía (1985)
+
+Guion y dirección. Otra mujer (1986)
+
+Guionista. Clandestinos (1987)
+
+Guionista. Barroco (1989)
+- . Coguionista.
+
+## ContenidoCuentos
+ Los años duros (1966):
+Al principio I. El encuentro II. El cojo III. El capitán Con la punta de una piedra El polvo a la mitad ¡No hay Dios que resista esto! Diosito No matarás I. Los bandidos II. Erasmo III. La negativa (+)
+
+Novelas: Las iniciales de la tierra (1987)
+
+Las palabras perdidas (1992)
+Reseñas: Julio Ortega: Los años duros de Jesús Díaz

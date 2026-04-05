@@ -1,0 +1,134 @@
+---
+layout: story
+title: “Cortigiana stanca”
+slug: am_sana
+source: https://www.literatura.us/idiomas/am/am_sana.html
+tags:
+  - am_sana
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+La cortesana cansada (1927)
+(“La cortigiana stanca”)
+Originalmente publicado en la revista 900, QUADERNO N. 3 (printemps 1927);
+La bella vita
+(Milán: Giuseppe Carabba Editore, 1935, 277 págs.)
+Lentamente, cerrando la puerta con un empujón del dorso y mirando a la amante, el joven entró a la estancia.
+En la calle, su fantasía se había encarnizado en una especie de rabioso afán de imaginar una María Teresa cargada de otoños, de senos pesados, con un vientre gordo y tembloroso en las junturas fofas de las ingles, con las caderas enormes y contrahechas; en fin, una María Teresa en los umbrales de la vejez, a la que sería bueno abandonar ahora que ya no tenía dinero para mantenerla.
+Estas imágenes de decadencia —que su imaginación complaciente exageraba con virulencia hasta convertirla en cruel caricatura— lo envalentonaron un poco mientras andaba por las calles con el alma llena de angustia y los puños apretados al fondo de los bolsillos vacíos.
+Pero ahora, teniendo a la amante sobre las rodillas, en el diván muelle de la sala, se daba cuenta de que la imagen inventada para preparar la separación inminente de nada servía frente a la realidad. Adiós la anhelada repugnancia hacia ese cuerpo que había querido imaginar exhausto y derrengado, adiós la fría ruptura que había premeditado: “María Teresa he venido a decirte…”
+Ahora, como todos los otros días, el deseo lo asaltaba de nuevo. Al mirar aquella querida cabeza de facciones duras y finas, se daba cuenta de que estaba equivocado. Ni vejez ni cansancio. Un lienzo blanco y suave le circundaba la cabeza, como un turbante; debajo, el rostro ovalado aparecía ya totalmente maquillado.
+Acababa de salir del baño y envolvía su cuerpo aún húmedo con una bata esponjosa, semejante a las que les ponen sobre los hombros a los púgiles cansados. Pero en su cara serena había un aire de victoria.
+Un indecible malestar invadía al joven viéndola tan insensible a la propia desnudez y a la impresión desfavorable que eso podía provocar (la bata había resbalado de sus hombros y ahora estaba sobre las rodillas del amante, pero ella no parecía preocuparse por eso y, agachándose de lado, encendía un cigarrillo); tan lejos de sus mezquinos cálculos de vejez y juventud
+(¿qué importan los años —parecía decir su descuidada impudicia-, qué le importa el tiempo a un cuerpo consagrado por tanto oro y tanta admiración?); tan distinta de la imagen egoísta que había querido crearse.
+“Es la última vez que estoy con ella”, seguía pensando el joven, con amargura, y abrazaba ávidamente aquellos miembros inertes.
+No se lo confesaba, pero la habría amado más, mil veces más, con un amor entero, aunque mezclado totalmente con la compasión (estás vieja, mi pobre María Teresa, pero me tienes a mí), si hubiera sentido bajo sus manos inquietas una carne más floja que ésa, una piel aún más ajada y marchita. Le habría dado todo su amor a una pobre mujer madura que, no sin disgusto, hubiera tenido sobre sus rodillas, apretada contra su pecho.
+En efecto, esos senos que a cada respiración parecían intentar en vano remontarse hasta el ápice de otros tiempos; las caderas cómodas y poderosas que le entumecían las rodillas; el dorso vasto y opulento, antiguo desierto de carne en el que había desaparecido el surco dorsal, hablaban de la decadencia de la mujer.
+“Se acabó Marité”, pensaba al observarla, “se te acabó la juventud y la belleza”. Pero si dejaba de ver aquel cuerpo sentado, entreveía en la sombra el rostro firme y duro bajo el esmalte vivaz de los afeites. Dudaba entonces de sus ojos y una rabia pueril y avara lo invadía ante la idea de tener que dejar a otros amantes una mujer aún deseable.
+—Es hora de salir —dijo finalmente, cansado y aburrido, empujándola —vístete.
+Ella se levantó inmediatamente, envolviéndose en la bata con un gesto teatral, como si se tratara de un armiño regio.
+—No, no me voy a vestir —respondió después de un momento—. Esta noche cenamos en casa. Además... tengo que decirte algo…
+Ahora estaba sonriente y parecía contenta, con la misma sonrisa empalagosa y pérfida que habría podido tener si, adelantándose al amante en (sus mismas intenciones, hubiera estado a punto de mandarlo a paseo. De mala gana, pero muy inquieto, el joven le preguntó qué pasaba. Ella dudó, luego le respondió que estaba esperando una llamada telefónica muy importante. “Ah, es todo”,
+exclamó él en su fuero interno, como si de verdad hubiera temido ser echado a la calle por la amante que había decidido abandonar.
+¿Quién era la persona que debía telefonear?, le preguntó poco después. Un hombre que la quiso mucho, respondió María Teresa, titubeante. ¿Cuándo? Mucho tiempo atrás; y agregó que lo había encontrado el día anterior, en la calle; se reconocieron y hablaron de tiempos pasados; que él era ahora muy rico, pero no había entendido bien si por una herencia o con su trabajo.
+Pero el joven ya no la escuchaba; esas noticias reencendían sus celos irracionales y melancólicos: conque hubo una María Teresa hace mucho tiempo —pensaba—, joven, niña, púdica; sin esa sonrisa cansada ni esa bata eternamente desteñida. ¡Otros la amaron antes que él!
+Se sobresaltó al oír que cerraban la puerta. La mujer había salido. Transcurrieron diez minutos de silencio e inmovilidad, diez minutos de malestar odioso e intolerable.
+Ella entró de nuevo llevando la charola del té. El silencio se prolongó mientras ella disponía las tazas, la tetera y los bizcochos. El joven la miraba, sin poder evitar una sonrisa malhumorada, invadido de un amor huraño viéndola tan escrupulosa y atenta, ya no como amante, sino como ama de casa. Ella le preguntó cuánta azúcar quería y él sintió de repente un gran deseo de abrazarla.
+Dos cucharaditas, querida, dos cucharaditas, respondió en cambio, nervioso. El calor de la bebida deshacía el halo que lo poseía; masticaba el pan tostado y bebía grandes sorbos de té caliente; comía y bebía sin apartar su mirada de la figura de la mujer inclinada sobre el vapor de la tetera. Así, en silencio, como la humedad de un abrigo mojado que se tiende a secar sobre la estufa, se evaporaba su celoso malestar.
+Al terminar de beber el té, anocheció de pronto. Pero ambos permanecieron allí, mudos e inmóviles en la gris penumbra, mirando fijamente las tazas vacías.
+María Teresa se levantó, fue a encender una lámpara y se sentó junto al teléfono, del cual llegaría dentro de poco la voz misma de su juventud, como desde el antro oscuro de una sibila. El joven también se levantó y caminó un poco por la sala.
+Había un escriño en un rincón; su mirada cayó sobre uno de los cajoncitos, y lo abrió. El cajoncito contenía muchas caras mezcladas y confusas como los juegos de cartas cuando termina la partida y se han hecho las cuentas; y, prontamente interesado, se sentó junto al escriño.
+—Mira, mira —dijo, despacio, sacando un paquete de fotografías descoloridas y observando a la mujer de arriba a abajo—. Mira cuánta gente… Mis predecesores…
+Sin hablar ni dando a entender que esa indiscreción le disgustara, la mujer lo veía con su mirada inexpresiva y tranquila que le hacía daño como un hierro puntiagudo que hurga en una llaga anestesiada.
+Sin embargo, no había razón para estar tan serena, pensaba él con encono; cualquier otra ya le hubiera arrancado de las manos las fotografías y las hubiera guardado inmediatamente en el escriño. Todos los retratos anémicos la contemplaban con caras demacradas de prisioneros que reían al ver de nuevo la luz.
+De nada había servido sepultarlos en aquel cajón como en el recuerdo. Ahora, redivivos, debían parecerle inseparables de los años lejanos que transcurrieron al lado de su cuerpo joven. Todos estaban allí, años y hombres, en las manos irónicas del joven, acusándola. ¿De qué? De no ser la misma de otros tiempos.
+Testigos y juez, todos presentes. El proceso comenzaba.
+Acusada: ¿reconoces a este hombre? Tenías dieciocho años cuando lo encontraste. Llevabas el cabello alto y denso sobre la frente descubierta, el alto cuello almidonado, masculino, te lastimaba el cuello y el maxilar;
+el busto joven y espléndido, sostenido por las varillas del corsé, explotaba róseo bajo las cascadas de encajes del fondo.
+El cuerpo se contoneaba y ondulaba entre las espirales de la falda; sabías correr y adelantar con gracia los pies en el aire y las miradas indiscretas no podían ver más arriba de los botines abrochados hasta media pantorrilla. Pero en los café-cantantes floreales y humosos, a los sonidos prestigiosos y melancólicos del can-can,
+las bailarinas alzaban cadenciosamente las piernas calzadas de negro hasta sus frentes rizadas; y todo alrededor eran muslos ligados con listones rojos, agitándose en una arremolinada espuma de encajes nunca demasiado espesos, candidos y profundos.
+Dieciocho años y las mejillas no sabían nada de colorete, sino que, púdicas, aún sabían teñirse de rubor; los labios no estaban pintados, sino limpios y túmidos atrayendo las miradas; los ojos nada sabían de colirios y pestañas postizas, sino que, inocentes, los primeros cansancios los rodeaban de una aureola culpable. Este hombre te hizo bailar el último vals y el primer tango. ¿Y este otro? ¿Y éste?
+El joven había tomado algunas de aquellas fotografías y se las iba mostrando a la mujer, preguntándole nombres y fechas, ni más ni menos como se procede con las pruebas del delito cuando un imputado se resiste a confesar su crimen. Y como un acusado que no quiere reconocer su culpabilidad, ella alargaba el cuello, aguzando la mirada sobre las caras olvidadas; escrutaba los rostros pálidos y resignadamente iba nombrándolos uno por uno, con voz reacia y aburrida.
+Éste era B., un actor de teatro que ahora trabajaba en el cine; ese otro era un conde que murió en la guerra; aquel otro era S., un banquero fracasado, que acaso ya había muerto. Finalmente sacó él la fotografía de un hombre gordo, de párpados bolsudos, vestido de frac. ¿Quién era éste? ¿Un mesero?
+En su apática y abstracta indiferencia se despertó al fin una cierta conmoción. Era un industrial milanés, respondió ella, con acento apesadumbrado, el más rico de todos.
+—Me regaló una villa —agregó luego, con aire trasoñado—, una hermosa villa de dos pisos, rodeada por un jardín —y miraba al frente con ojos fascinados, como si ante ella se dibujara, piedra sobre piedra, la arquitectura de su antigua mansión—. Después de un largo silencio, añadió: —Sí, sí; ahora sería yo muy rica —y concluyó, como hablando consigo misma—: Si hubiera conservado todo lo que me han dado.
+El joven callaba. Semejante añoranza le parecía monstruosa; después de haber vivido toda una vida llena de comodidades se reprochaba ahora el no haber sido previsora y avara. La vio alzarse, murmurar “¡Qué frío!” y, tiritando de pies a cabeza, apoyarse de espaldas a la estufa. Era el fin del proceso. Acusada: ¿tiene algo que agregar?
+¿No? Puede retirarse. Está condenada a volverse vieja, condenada a las arrugas, a los cabellos grises, a las pasiones apagadas, a los recuerdos helados. Todo se acaba realmente: casas, amantes, fiestas, vestidos y sonrisas. María Teresa se hundía en las cenizas de su pasado, como un barco en la noche.
+El esculcó todavía en el cajón. Habían estampas japonesas de una obscenidad deliberada y casi ritual; fotografías pornográficas de las que venden en los puertos y en los suburbios equívocos de las grandes ciudades; viejas postales ilustradas con las calles y plazas de París,
+de Berlín, de Viena, de San Petersburgo, y toda esa gente poco después enloquecida, arruinada, destrozada, desaparecida, fotografiada cuando aún estaba viva y lozana, paseando por las calles, con sombreritos y sombrillas, o en carrozas tiradas por caballos y todas sus baratijas.
+Habían también paquetes y paquetes de cartas de amor escritas con una caligrafía aún pretenciosa, con tintas desvaídas de colores caprichosos, amarradas con listones también descolorí dos. El joven apenas si miró aquellas cosas viejas, pero sacó del cajoncito y sopesó en su mano un minúsculo revólver de acero niquelado y cacha de nácar.
+—¿Y esto, para qué lo tienes? —le preguntó.
+—Para defenderme —respondió ella con naturalidad, volteando sin prisa la cabeza del arma que él apuntaba hacia su sien, por juego—. Además —prosiguió luego con resignación complacida—, estoy segura de que moriré de muerte violenta.
+Pronunció estas palabras con convicción. Evidentemente, la tragedia moderna, entre cuatro paredes, halagaba su imaginación de aventurera exhausta y desesperanzada; era lo único que le quedaba por hacer: un fin de novela policiaca. Un cuarto de hotel de tercera clase,
+al amanecer, con muebles patas arriba, la cama revuelta y ensangrentada, las huellas digitales, el aire viciado por los perfumes, el sueño y la muerte; y luego las breves notas de los periódicos: ése debería ser su fin.
+Decía estas cosas mirando ora al joven, ora el revólver, con sus ojos brillantes y tentadores, que hubieran querido seducir también a la muerte. Dejó de hablar de sí misma y le contó la historia de una amiga suya a la cual habían matado dos años antes en circunstancias
+oscuras; y concluyó la historia, un poco melodramática, bajando la cabeza y contemplando su propio cuerpo sentado, exhalando un profundo suspiro:
+—Yo también acabaré de ese modo.
+Pero el joven comenzó a reír a carcajadas.
+—¡Qué ideas las tuyas, Marité!
+Exclamó y, guardando el revólver en el cajoncito, se sentó a su lado pasándole el brazo por la cintura. No, prosiguió malignamente, tratando de persuadirla, ella no moriría violentamente, sino en su cama, de enfermedad, vieja y sola. No era una mujer fatal, no debía hacerse ilusiones. Las mujeres fatales ya no existían; sólo podían verse en las películas.
+Mientras decía estas palabras en tono punzante, intentaba abrazarla; mas ella lo rechazó con firmeza, disimulando apenas su contrariedad.
+—¡Ahora me dices cosas desagradables! —dijo con la boca apretada.
+Se puso de pie y cogió una botella de coñac y una copa.
+—Vieja y sola —seguía repitiendo él, mientras tanto.
+La vio encogerse de hombros descuidadamente y, enarcando las cejas y cerrando los párpados para no recibir en los ojos el humo del cigarrillo pegado al labio inferior, servirse un poco y beber. En ese momento sonó el timbre del teléfono.
+Sin prisa alguna posó la copa y descolgó el auricular.
+—¿Quién habla? —pregunto inmediatamente—.
+¡Ah!, ¿su secretario? —agregó, desilusionada.
+Estuvo escuchando en silencio, con actitud irresuelta y ansiosa, como buscando un pretexto para exponer sus razones.
+—¿Así que no puedo hablar con él siquiera un minuto, ni siquiera un solo minuto? —preguntó finalmente.
+Pero era obvio que la persona que llamó había interrumpido la comunicación. Ella insistió:
+—Solamente un minuto…
+Colgó el aparato con lentitud y miró hacia el frente, confundida.
+—Y bien, ¿obtuviste lo que querías? —preguntó el joven.
+La pregunta la sobresaltó y se le quedó mirando con gran curiosidad, como si lo viera por primera vez; pero nada le respondió.
+La copita contenía aún un poco de licor; lo bebió, miró el fondo y, diciendo lentamente “es hora de preparar la cena”, se puso de pie. Ambos salieron, uno tras otro, de la sala llena de humo.
+En el corredor oscuro la tomó de los hombros, la atrajo hacia él y la besó. Le pareció que ella se abandonaba y correspondía a su beso, si no con afecto, sí con el deseo de quien tiene necesidad de consuelo y se aferra a los gestos que le son más familiares.
+Le pareció también que ella temblaba. Pero al llegar a la cocina la vio inclinarse sobre las hornillas y encender el fuego con el mismo semblante irreflexivo y duro.
+Era la primera vez que cenaban en casa; el joven, ignorante de las virtudes domésticas de María Teresa, creyó que se trataría de una cena fría con víveres comprados en las tiendas. En cambio, grande fue su sorpresa al ver que la amante se disponía a cocinar.
+Hubiérase dicho que la cocina era totalmente nueva. Las paredes, de azulejo blanco no tenían manchas ni resquebrajaduras; la campana no daba muestras de humo; las tres hornillas de hierro colado eran nuevecitas; jamás se había sacado sal, pimienta, azafrán, canela ni azúcar de los pomos de porcelana alineados sobre las repisas; las flamantes sartenes de cobre y de aluminio colgaban de los ganchos con sombreros en un perchero.
+La cocina era virgen y helada.
+Se adivinaba la casa desierta a la hora de comer, la dueña comiendo siempre afuera, la ausencia de cocinera y de sirvientes. Era una cocina modelo, de las que uno ve en los escaparates de almacenes de artículos domésticos. Para completar la impresión sólo faltaba la cocinera de hierro esmaltado,
+con su inmóvil perfil de enfermera y su mirada fija e inexpresiva, que va de una a otra hornilla con menudos y tiesos pasos de autómata.
+Sin descuidar la figura, con ciertos gestos precisos y expertos que revelaban una práctica perfecta, María Teresa preparó la cena de esa noche. Una sopa de verduras finamente cortadas, dos bistecs empanizados, espinacas y papas, y para terminar, un budín de chocolate que había preparado esa mañana
+y guardado en la hielera. Sentado a la mesa con cubierta de mármol, en medio de la cocina inundada de luz blanca, el joven la veía ir y venir en torno a las hornillas, con las mangas arremangadas y su semblante aún más duro y atento.
+La vio tomar un puñado de sal y ponerle con precaución en el caldo, probarlo en la punta del cucharón de madera con la misma boca pintada que minutos antes, en el corredor, ella había abandonado a la suya. De vez en cuando, entre las acciones prácticas, la bata mal fajada se le abría por delante:
+era entonces una mujer desnuda que se inclinaba sobre las sartenes con un cucharón en una mano, un tenedor en la otra, exponiendo el pecho a los vapores de los guisos, tiñéndosele el vientre con los reflejos rojos de las hornillas encendidas.
+La lámpara iluminaba el centro de la cocina, y los brillantes azulejos reverberaban con los reflejos; la estancia era un cubo de luz blanca con dos amantes adentro, como dos cadáveres bien conservados dentro de un bloque de hielo mortuorio. María Teresa iba y venía entre esas cuatro paredes; sentado a la mesa con cubierta de mármol el joven la miraba. Estaba desconcertado, casi escandalizado.
+De vez en vez bajaba los ojos hacia el piso con diseño de losanges, sintiendo que sobre ese tablero había perdido a su reina de rostro duro y encantador. Él no era un cartero ni un portero, pensaba, para servirse alegremente algo de beber y de un jalón sentar sobre sus rodillas a la cocinera,
+con todos sus cucharones y su delantal. Ésta no era la mujer que amaba. Pero ya María Teresa se había sentado a la mesa, no sin presumir sus virtudes de ama de casa.
+Comieron en silencio, sin dirigirse la mirada. Viéndola cocinar, dijo al fin el joven, cualquiera pensaría que no había hecho otra cosa en su vida.
+—He hecho muchas cosas —respondió sordamente, sin levantar los ojos del plato.
+La bata se le había abierto de nuevo, dejando ver sus senos que temblaban a cada movimiento, como animados por una vida independiente.
+Cayeron nuevamente en un largo silencio.
+—Te he dicho que ese señor al cual he telefoneado —prosiguió finalmente, limpiándose la boca con la servilleta y volviéndola a poner sobre las rodillas desnudas— me quiso mucho… A decir verdad, fue el primero… Yo tenía dieciséis años…
+Estas palabras resucitaron en el joven los celos de poco antes, pero esta vez mezclados con un acerbo y melancólico sentido de piedad. Luego era cierto: María Teresa había tenido dieciséis años; verdaderamente había vivido una estación florida; había sonreído, llorado, bailado, amado, gozado de una hermosa edad. Ahora guardaba silencio, recogiendo las migajas del pan con dedos titubeantes, y parecía cansada.
+—Es muy rico, pero ahora me niega un poco de dinero que le pido…
+El joven la miraba, pensando que debería estar conmovido como ante alguna desdicha, pero no sabía cuál era.
+—¿Realmente necesitas ese dinero? —le preguntó al fin, con dulzura.
+La mujer estalló en una carcajada ruidosa, seca, despectiva.
+¡Claro que tengo necesidad de dinero! ¡Necesito dinero! Realmente lo necesito… ¡Me urge tenerlo! —repitió entre sollozos mezclados con su amarga carcajada.
+¿Para qué? ¿Para comprarte vestidos, para hacer un viaje? —insistió él.
+La vio menear negativamente la cabeza, ligeramente embarazada: no; necesitaba dinero para irse de la ciudad, para retirarse a vivir en el campo. Estaba cansada de vivir con tanto desorden, entre tanta gente.
+Quería aislarse en una ciudad pequeña, tal vez en su ciudad natal, vivir sola en una casita de pocos cuartos, con un jardín, dijo, acariciándose el hombro desnudo con una mejilla.
+El interrumpió a este punto, con una sonrisa incrédula. ¿Un jardín? Entonces también con flores. Sí, contestó ella, claro que también con flores, ¿por qué? Por nada, dijo el joven, y poniéndose de pie comenzó a pasearse por la estancia.
+—Pero como no quiere darme ese dinero tendré que resignarme —concluyó con una voz clara y temblorosa que le llenó la boca de saliva.
+Terminaron de cenar. María Teresa se levantó también, apiló los platos y los aventó ruidosamente en el fregadero. El joven siguió de pie, entretenido, mirando a la mujer que, con su atento semblante de siempre, contemplaba sin disgusto el chorro de agua que caía en el fondo sucio de los platos y apartaba las plastas de grasa coagulada y demás residuos de comida, mientras se hurgaba los dientes con las uñas largas y esmaltadas.
+Más tarde, en la noche, la vio voltearse hacia el borde de la cama y acurrucarse como para dormir. Entonces le dio las buenas noches y se alzó para marcharse. Había sido suya durante más de dos meses; ahora ya no tenía dinero y debía dejarla. Pero al momento de salir de las sábanas enmarañadas se dio cuenta de que ella lloraba.
+Ya no estaba acurrucada, sino tendida de espaldas, con un brazo sobre los ojos, como los niños. La sombra impedía vislumbrar las lágrimas, pero un reflejo de luz jugaba sobre la gran mueca pueril que le contraía las comisuras de la boca. Lloraba sin hacer ruido, sin sacudimientos, silenciosamente, como escurre la sangre de un cuerpo herido de muerte.
+Se le quedó mirando; luego se inclinó hacia ella y, apartando el brazo que cubría sus ojos, le preguntó qué le ocurría. Nada, respondió ella, no le ocurría nada: sólo estaba pensando en la llamada telefónica. La vio reclinar la cabeza en su hombro, con un gesto que le pareció flébil y resignado, repitiendo obstinadamente:
+—No me pasa nada, de veras…
+Pero un momento después, cerrando los ojos amargamente, como si estuviera pidiendo limosna en una esquina, tendiendo
+la mano a los transeúntes, agregó con lentitud:
+—Pero es duro… Es duro verse en la necesidad de mendigar la vida por primera vez.
+El joven no sabía qué decir. Miraba ese rostro duro y firme como un perfil de medalla, los ojos apretados como invocando al sueño, la espalda gorda y blanca bajo los mechones cortos y agudos de la nuca. Frente a tanta inmovilidad, le parecía que ella jamás había hablado; dudaba de sus ojos y de sus oídos.
+Hubiera querido ver de nuevo la mueca llorosa, oír nuevamente la voz quejumbrosa. Al mirarla creía que estaba viendo el rostro de la existencia, revelada y parlante en ciertos momentos, ahora otra vez inmóvil y. muda. Poco duró esta contemplación. Luego, no sin esfuerzo, él se puso de pie y entró al baño; cuando se hubo vestido, entró de puntillas a la recámara.
+—Me voy, Marité. Adiós —dijo en voz alta.
+—Hasta mañana —contestó ella sin abrir los ojos.
+Salió del cuarto y del apartamento y bajó por las escaleras hasta el portón del edificio. Se detuvo bajo el umbral, indeciso, y se puso a escuchar el tañido de la campana de una iglesia vecina, que retumbaba en el silencio del barrio desierto. “Las diez y media”, pensó.
+“Todavía tengo tiempo para meterme en un cine.” Esta idea le gustó, lo entusiasmó, sin que ni él mismo supiera por qué. Sentía un insaciable deseo de la promiscua oscuridad poblada de aventuras fáciles y de paisajes lejanos. “Que María Teresa se vaya al diablo”, pensó al fin; y esforzándose para dominar el profundo malestar que lo oprimía, cerró tras de sí el portón y se encaminó hacia el centro de la ciudad.
+(1927)
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

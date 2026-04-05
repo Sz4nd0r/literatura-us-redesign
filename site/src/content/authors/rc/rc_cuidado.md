@@ -1,0 +1,129 @@
+---
+layout: story
+title: Cuidado
+slug: rc_cuidado
+source: https://www.literatura.us/idiomas/rc_cuidado.html
+tags:
+  - rc_cuidado
+  - rc
+---
+Raymond
+Carver
+(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
+Cuidado
+(“Careful”)
+Originalmente publicado en The Paris Review (1983);
+Cathedral (1983);
+Collected Stories (2009)
+Tras mucho discutir —lo que su mujer, Inez, llamaba considerar la situación—, Lloyd se marchó de casa y se fue a vivir solo. Tenía dos habitaciones con baño en el último piso de una casa de tres plantas. En las habitaciones los techos eran abuhardillados. Al andar, tenía que agachar la cabeza. Debía inclinarse para mirar por la ventana y tener cuidado al acostarse y levantarse de la cama. Había dos llaves. Con una entraba en la casa. Luego subía un tramo de escaleras hasta un rellano. Subía otro tramo hasta su habitación y abría la puerta con la otra llave.
+Una tarde que volvía a casa con una bolsa que contenía tres botellas de champán André y un poco de carne, se detuvo en el descansillo y miró al cuarto de estar de su patrona. Vio a la anciana tumbada de espaldas en la alfombra. Parecía dormida. Entonces se le ocurrió que podía estar muerta. Pero la televisión estaba puesta y prefirió pensar que estaba dormida. No sabía qué hacer. Se pasó la bolsa al otro brazo. Entonces fue cuando la mujer tosió débilmente, puso la mano junto a su costado, se calló y quedó inmóvil de nuevo. Lloyd siguió subiendo las escaleras y abrió su puerta. Más tarde, hacia el anochecer, miró por la ventana de la cocina y vio a la anciana en el jardín, con un sombrero de paja y el brazo pegado al costado. Regaba los pensamientos con una regadera pequeña.
+En la cocina, tenía un mueble con nevera y fogón. Era una cosa diminuta, empotrada en un hueco entre la pila y la pared. Para sacar algo del frigorífico tenía que agacharse, arrodillarse casi. Pero no importaba, porque de todos modos no guardaba muchas cosas en ella, salvo zumo de frutas, carne y champán. La cocina tenía dos fuegos. De cuando en cuando calentaba agua en un cazo y se hacía café instantáneo. Pero algunos días no tomaba café. Se olvidaba o, simplemente, no le apetecía. Una mañana se despertó y en seguida se puso a comer rosquillas desmigajadas y a beber champán. Había habido una época, años atrás, en que un desayuno así le habría hecho reír. Ahora no le parecía nada fuera de lo corriente. En realidad, no había reparado en ello hasta que se acostó y trató de recordar lo que había hecho durante el día, empezando por el momento en que se levantó por la mañana. Al principio no se acordaba de nada digno de atención. Luego recordó el desayuno de rosquillas y champán. En otro tiempo le habría parecido una insensatez, algo que contar a los amigos. Ahora, cuanto más pensaba en ello mejor comprendía que no tenía importancia, ni en un sentido ni en otro. Había desayunado rosquillas con champán. ¿Y qué?
+En su pisito amueblado, también tenía un comedor pequeño, sillas, un sofá, una butaca vieja y un aparato de televisión colocado sobre una mesita. No pagaba la luz y la televisión no era suya, de modo que a veces la dejaba funcionando día y noche. Pero quitaba el sonido a menos que hubiese algo que le interesara ver. No tenía teléfono, cosa que le convenía. No lo quería. Tenía una habitación con cama de matrimonio, mesilla de noche, cómoda y cuarto de baño.
+La única vez que Inez fue a visitarle, eran las once de la mañana. Hacía quince días que se había mudado, y se preguntaba si pasaría a verle. Pero intentaba remediar un poco su afición a la bebida, de manera que se alegraba de estar solo. Eso se lo había dejado claro: estar solo era lo que más necesitaba. El día en que apareció su mujer, él estaba en el sofá, en pijama, dándose puñetazos en el lado derecho de la cabeza. Justo antes de que pudiera golpearse otra vez, oyó voces abajo, en el rellano. Le pareció el murmullo de una multitud lejana, pero estaba seguro de que era Inez y de que se trataba de una visita importante. Se dio otro puñetazo en la cabeza y se levantó.
+Al despertarse por la mañana descubrió que tenía un tapón de cera en el oído. No oía nada con claridad, y le parecía haber perdido el sentido del equilibrio. Estaba en el sofá desde hacía una hora, tratando inútilmente de destaparse el oído, golpeándose la cabeza de cuando en cuando. A veces se daba masaje en la parte cartilaginosa de debajo de la oreja, o se tiraba del lóbulo. Luego se escarbaba furiosamente con el dedo meñique al tiempo que abría la boca, como si bostezara. Pero había intentado todo lo que se le había venido a la cabeza y ya no sabía qué hacer. Oyó que el murmullo de voces se interrumpía abajo. Se dio un buen puñetazo en la cabeza y apuró la copa de champán. Apagó la televisión y llevó la copa al fregadero. Cogió la botella de champán abierta del escurridero de los platos y se la llevó al cuarto de baño, colocándola detrás de la taza. Luego fue a abrir la puerta.
+—Hola, Lloyd —dijo Inez.
+No sonrió. Se quedó en la puerta con un vistoso vestido de entretiempo. El no le conocía aquella ropa. Llevaba un bolso de lona con girasoles cosidos a los lados. Tampoco lo había visto antes.
+—Me pareció que no me habías oído —le dijo—. Creí que habías salido o algo así. Pero la mujer de abajo, ¿cómo se llama?, la señora Matthews, pensaba que estabas en casa.
+—Te he oído. Pero por muy poco —contestó Lloyd, subiéndose el pijama y pasándose la mano por el pelo—. En realidad, me encuentro fatal. Pasa.
+—Son las once —dijo Inez.
+Entró y cerró la puerta al pasar. Se comportaba como si no le hubiera oído. Y quizá fuese así.
+—Sé qué hora es —dijo él—. Hace mucho que estoy levantado. Desde las ocho. He visto parte de la emisión de Today. Pero ahora mismo estoy a punto de volverme loco. Tengo taponado un oído. ¿Recuerdas la otra vez que me pasó? Vivíamos en aquel sitio cerca del restaurante chino. Donde los niños encontraron aquel bulldog arrastrando la cadena. Tuve que ir al médico a que me limpiara los oídos. Claro que te acuerdas. Me llevaste en coche y tuvimos que esperar mucho tiempo. Pues ahora es lo mismo. Quiero decir que estoy igual de mal. Sólo que esta mañana no puedo ir al médico. En primer lugar, no tengo médico. Estoy a punto de volverme majareta, Inez. Me dan ganas de cortarme la cabeza o algo así.
+El se sentó en un extremo del sofá y ella en el otro. Pero el sofá era pequeño, y a pesar de todo estaban cerca el uno del otro. Tanto, que con alargar la mano hubiera podido tocar la rodilla de Inez. Pero no lo hizo. Ella echó un vistazo a la habitación y luego volvió a mirarle con fijeza. El se dio cuenta de que no se había afeitado y tenía el pelo alborotado. Pero era su mujer, y sabía todo lo que había que saber acerca de él.
+—¿Qué has hecho? —le preguntó ella, buscando en el bolso y sacando un cigarrillo—. Me refiero a qué has intentado para quitártelo.
+Volvió hacia ella la cabeza por el lado izquierdo.
+—No exagero, Inez, te lo juro. Esto me está volviendo loco. Cuando digo algo, me da la impresión de hablar dentro de un tonel. Me retumba la cabeza. Y tampoco oigo bien. Tu voz parece salir de una tubería de plomo.
+—¿Tienes bastoncillos de algodón o aceite Wesson? —le preguntó Inez.
+—Esto es serio, cariño. No tengo bastoncillos de algodón ni aceite Wesson. ¿Estás de broma?
+—Si tuviéramos aceite Wesson, lo calentaría y te lo pondría en la oreja. Mi madre solía hacerlo. Eso reblandecería el tapón.
+El lo dudaba. Le parecía tener la cabeza hinchada, como llena de agua. Era como cuando buceaba por el fondo de la piscina municipal y salía a la superficie con las orejas llenas de agua. Pero entonces era fácil sacarla. Lo único que tenía que hacer era llenar de aire los pulmones, cerrar la boca y apretarse la nariz. Luego inflaba los carrillos y hacía que el aire le subiera a la cabeza. Se le desatascaban las orejas y por unos segundos tenía la agradable sensación de que le salía agua de la cabeza y le escurría por los hombros. Luego salía izándose por el borde de la piscina.
+Inez terminó el cigarrillo y lo apagó.
+—Lloyd, tenemos que hablar. Pero cada cosa a su tiempo. Siéntate en la silla. ¡En esa no, en la de la cocina! Para arrojar un poco de luz sobre la situación.
+Se golpeó la cabeza una vez más. Luego fue a sentarse en una silla de la cocina. Ella se acercó y se quedó detrás de él. Le tocó el pelo con los dedos. Le retiró unos mechones de las orejas. El quiso cogerle la mano, pero ella la retiró.
+—¿Qué oreja has dicho que era?
+—El oído derecho —contestó él—. El derecho.
+—Primero tienes que quedarte sentado sin moverte. Voy a buscar una horquilla y papel de seda. Intentaré deshacer el tapón con eso. A lo mejor da resultado.
+El se inquietó ante la idea de que le introdujera una horquilla en la oreja. Dijo algo en ese sentido.
+—¿Qué? —preguntó ella—. ¡Por Dios, yo tampoco te oigo! A lo mejor es contagioso.
+—De niño tenía una profesora de higiene en el colegio. Era como una enfermera. Decía que en la oreja nunca deberíamos meternos nada más pequeño que el codo.
+Recordó vagamente un mural con un enorme diagrama de la oreja que mostraba una compleja red de conductos, pasajes y tabiques.
+—Pues tu enfermera nunca se enfrentó con este problema concreto —dijo Inez—. De todos modos, necesitamos intentar algo. Primero probaremos con esto. Si no da resultado, haremos otra cosa. Es la vida, ¿no?
+—¿Va eso con segundas, o algo así? —inquirió Lloyd.
+—Es sólo lo que he dicho. Pero eres libre de pensar lo que quieras. Quiero decir que éste es un país libre. Y ahora, déjame buscar lo que necesito. Tú no te muevas.
+Buscó en el bolso, pero no encontró lo que le hacía falta. Finalmente, vació el bolso encima del sofá.
+—¡Vaya, no tengo horquillas!
+Pero era como si hablase desde la otra habitación. En cierto modo, sus palabras le parecían una ilusión. Hubo una época, muy lejana, en que creían tener percepción extrasensorial respecto a los pensamientos del otro. Solían acabar frases que el otro había empezado.
+Ella cogió unas tijeritas de las uñas, las manipuló durante un momento y él vio cómo dividía el objeto, y de una de una de las partes surgía una lima de uñas. Le pareció como si su mujer tuviera en las manos una pequeña daga.
+—¿Vas a meterme eso en la oreja? —preguntó.
+—Tal vez se te ocurra algo mejor. O esto, o nada. ¿Quizá con un lápiz? ¿Quieres que utilice un lapicero? ¿O tienes un destornillador por ahí? —dijo, riéndose—. No te apures. Escucha, Lloyd. No voy a hacerte daño. He dicho que tendré cuidado. Pondré papel en la punta. Saldrá bien. Te repito que tendré cuidado. Tú no te muevas, voy a buscar papel de seda. Haré una escobilla.
+Fue al baño. Tardó bastante. El se quedó donde estaba, en la silla de la cocina. Se puso a pensar en las cosas que tenía que decirle. Quería decirle que se limitaba al champán, a champán y nada más. Quería decirle que también disminuía el champán. Ahora sólo era cuestión de tiempo. Pero cuando volvió, no pudo decirle nada. No sabía por dónde empezar. En cualquier caso, ella no le miró. Inez cogió un cigarrillo de entre el montón de cosas que había volcado sobre el sofá. Lo encendió con el mechero y se acercó a la ventana que daba a la calle. Dijo algo, pero él no distinguió las palabras. Cuando dejó de hablar, no le preguntó qué había dicho. Fuera lo que fuese, no quería que lo repitiera. Ella apagó el cigarrillo. Pero siguió de pie junto a la ventana, agachada, con la inclinación del techo a unos centímetros de su cabeza.
+—Inez.
+Se volvió y se acercó a él. Lloyd vio papel de seda en la punta de la lima de uñas.
+—Inclina la cabeza hacia un lado y no te muevas —dijo ella—. Eso es. Quédate sentado, sin moverte.
+—Ten cuidado —dijo él—. Por amor de Dios.
+Ella no contestó.
+—Por favor, por favor —insistió él.
+Luego ya no dijo nada. Tenía miedo. Cerró los ojos y contuvo el aliento al sentir que la lima de uñas pasaba por la parte interior de la oreja y empezaba a sondear. Estaba convencido de que su corazón dejaría de latir. Luego ella empujó un poco más y empezó a mover la lima de atrás hacia adelante, hurgando en lo que tenía allá adentro. En el conducto auditivo oyó una especie de chirrido.
+—¡Ay!
+—¿Te he hecho daño?
+Le sacó la lima de la oreja y retrocedió un paso.
+—¿Sientes alguna mejora, Lloyd?
+El se llevó las manos a los oídos y bajó la cabeza.
+—Es lo mismo.
+Ella le miró y se mordió los labios.
+—Déjame ir al baño —dijo él—. Antes de seguir adelante, tengo que ir al baño.
+—Ve —contestó Inez—. Me parece que voy a bajar a ver si tu patrona tiene aceite Wesson o algo parecido. Quizá tenga incluso bastoncillos de algodón. No sé por qué no se lo he preguntado antes. No se me ha ocurrido.
+—Buena idea —dijo él—. Voy al baño.
+Ella se detuvo en la puerta, le miró, abrió y salió. El cruzó el cuarto de estar, entró en su habitación y abrió la puerta del cuarto de baño. Se agachó, metió la mano detrás de la taza y sacó la botella de champán. Bebió un trago largo. Estaba caliente, pero le entraba bien. Bebió más. Al principio, creyó verdaderamente que podría seguir bebiendo si se limitaba a champán. Pero en seguida descubrió que se bebía tres o cuatro botellas al día. Sabía que muy pronto tendría que enfrentarse con eso. Pero antes tenía que recobrar el oído. Cada cosa a su tiempo, como había dicho ella. Terminó el champán y dejó la botella vacía en el mismo sitio, detrás de la taza. Luego abrió el grifo y se lavó los dientes. Después de secarse volvió a la otra habitación.
+Inez había vuelto y estaba en el fogón, calentando algo en un cacillo. Echó una mirada en su dirección, pero al principio no dijo nada. El miró por encima del hombro de Inez, hacia la ventana. Un pájaro voló de un árbol a otro y se limpió las plumas. Pero si pió de algún modo, él no lo oyó.
+Ella dijo algo que él no captó.
+—Repítelo —dijo.
+Ella meneó la cabeza y se volvió hacia el fogón. Pero entonces se volvió de nuevo y, con voz lo suficientemente alta y lenta para que la pudiera oír, dijo: —He encontrado tu escondrijo en el cuarto de baño.
+—Estoy tratando de dejarlo.
+Inez dijo otra cosa.
+—¿Qué? —dijo él—. ¿Qué has dicho?
+Verdaderamente, no la había oído.
+—Hablaremos después —dijo ella—. Tenemos cosas que discutir, Lloyd. Dinero, ésa es una. Pero también hay otras. Primero tenemos que ver lo del oído.
+Metió el dedo en el cacillo, que retiró del fogón.
+—Lo dejaré enfriar un momento. Ahora está demasiado caliente. Siéntate. Ponte esta toalla por los hombros.
+Hizo lo que Inez le decía. Se sentó en una silla y se puso la toalla por el cuello y los hombros. Luego se dio un puñetazo en un lado de la cabeza.
+—¡Maldita sea! —exclamó.
+Ella no levantó la vista. Volvió a meter el dedo en el cazo, para probar. Luego vertió el líquido del cazo en un vaso de plástico. Lo cogió y se acercó a él.
+—No te asustes —dijo ella—. Sólo es aceite para niños que me ha dado tu patrona, nada más. Le he contado lo que pasaba, y piensa que esto te irá bien. No es seguro. Pero a lo mejor te reblandece el tapón. Me ha dicho que eso solía pasarle a su marido. Que un día vio caer un trozo de cera de la oreja de su marido, y que era como un enorme tapón de algo. Era cerumen, eso es lo que era. Me ha dicho que probara con esto. Y no tenía bastoncillos de algodón. Es algo que me sorprende mucho.
+—Muy bien —dijo él—. De acuerdo. Estoy dispuesto a probar lo que sea. Si tuviera que seguir así, Inez, creo que preferiría estar muerto. ¿Sabes? Y lo digo en serio.
+—Ahora tuerce la cabeza e inclínala hacia un lado —dijo ella—. No te muevas. Te verteré esto dentro hasta que se te llene la oreja, luego lo taponaré con este trapo de cocina. Y te quedarás quieto durante unos diez minutos. Luego veremos. Si esto no da resultado, pues no sé. No se me ocurre nada más que podamos hacer.
+—Dará resultado —afirmó él—. Si no, buscaré una pistola y me pegaré un tiro. Lo digo en serio. En todo caso, eso es lo que me dan ganas de hacer.
+Volvió la cabeza de lado y la inclinó. Desde esa perspectiva nueva miró las cosas de la habitación. Pero no era en absoluto diferente de la antigua, salvo que todo estaba de lado.
+—Más baja —dijo ella.
+El se sujetó a la silla para no perder el equilibrio e inclinó más la cabeza. Todos los objetos de su campo visual, todos los objetos de su vida, parecían estar al otro extremo de aquella habitación. Sintió cómo penetraba el líquido caliente por la oreja. Luego ella cogió el paño y se lo aplicó. Poco después empezó a darle masaje alrededor de la oreja. Le apretó en la parte blanda de la carne entre la mandíbula y el cráneo. Le puso los dedos por encima de la oreja y empezó a desplazarlos de atrás hacia adelante. Al cabo de poco, él ya no sabía cuánto tiempo llevaba allí sentado. Podrían ser diez minutos. O más. Seguía agarrado a la silla. De cuando en cuando, mientras los dedos de Inez le presionaban la cabeza, sentía que el aceite caliente se removía en los conductos interiores del oído. Cuando ella le apretaba de cierta manera, se figuraba oír, dentro de la cabeza, un ruido suave y silbante.
+—Ponte derecho —dijo Inez.
+Se incorporó en la silla y apretó la mano contra la cabeza mientras el líquido le salía del oído. Ella lo recogió en la toalla. Luego le limpió la oreja.
+Inez respiraba por la nariz. Lloyd la oía inspirar y expirar. Oyó pasar un coche por la calle delante de la casa y, por detrás, bajo la ventana de la cocina, el ruido metálico de una podadera.
+—¿Y bien? —inquirió Inez.
+Esperó con las manos en las caderas y el ceño fruncido.
+—Te oigo —dijo él—. ¡Estoy curado! Quiero decir que oigo. Ya no tengo la impresión de que hables debajo del agua. Ahora estoy bien. Estupendamente. ¡Dios mío, por un momento creí que iba a volverme loco! Pero ahora me encuentro perfectamente. Lo oigo todo. Oye, cariño, voy a hacer café. También hay algo de zumo.
+—Me tengo que ir —dijo ella—. Se me hace tarde. Pero volveré. Saldremos a comer algún día. Tenemos que hablar.
+—Sencillamente no puedo dormir sobre este lado, eso es todo —prosiguió él.
+La siguió al cuarto de estar. Ella encendió un cigarrillo.
+—Eso es lo que ha pasado. He dormido toda la noche sobre este lado y se me ha taponado el oído. Creo que todo irá bien si no lo olvido y duermo con la cabeza en la otra postura. Si tengo cuidado. ¿Sabes lo que quiero decir? Tengo que dormir de espaldas o sobre el lado izquierdo.
+Ella no le miró.
+—No para siempre, desde luego, ya lo sé. No podría. Sería imposible hacerlo durante toda la vida. Pero sí por una temporada, en todo caso. Sobre el lado izquierdo o, si no, de espaldas.
+Pero mientras hablaba, sintió miedo de la noche siguiente. Empezó a temer el momento en que se dispondría a acostarse y lo que podría pasar después. Aún quedaban horas para ello, pero ya lo temía. ¿Y si en plena noche se volvía accidentalmente del lado derecho y la presión de la cabeza sobre la almohada volvía a sellar la cera en los oscuros conductos de la oreja? ¿Y si se despertaba entonces, sin oír, con el techo a unos centímetros de la cabeza?
+—¡Santo Dios! —exclamó—. Esto es horrible, Inez, acabo de tener una especie de pesadilla horrorosa. ¿Adonde tienes que ir, Inez?
+—Te lo he dicho —contestó ella, volviendo a meterlo todo en el bolso y preparándose para marcharse. Miró el reloj—. Se me hace tarde.
+Fue a la puerta. Pero allí se volvió y le dijo algo. No la escuchó. No quería hacerlo. Se fijó en el movimiento de sus labios hasta que ella terminó lo que tenía que decir. Cuando acabó, dijo: —Adiós.
+Luego abrió la puerta y la cerró al salir.
+El fue a vestirse al cuarto de baño. Pero al cabo de un momento salió precipitadamente, sólo con el pantalón, y se dirigió a la puerta. La abrió y se quedó en el umbral, escuchando. En el descansillo de abajo, oyó a Inez dar las gracias a la señora Matthews por el aceite. Y a la anciana, que contestaba: —De nada.
+Luego la oyó hacer una comparación entre él y su difunto marido.
+—Déjeme su número. La llamaré si ocurre algo. Nunca se sabe.
+—Espero que no será necesario —repuso Inez—. Pero se lo daré de todos modos. ¿Tiene algo para escribirlo?
+Lloyd oyó a la señora Matthews abrir un cajón y hurgar en él. Luego, con su voz de anciana, dijo: —Ahí tiene.
+Inez le dio el número del teléfono de su domicilio.
+—Gracias —dijo.
+—Encantada de conocerla —repuso la señora Matthews.
+Escuchó cómo Inez bajaba las escaleras y abría el portal. Luego, lo cerró. Esperó hasta oír arrancar el coche y alejarse. Entonces cerró la puerta y volvió a la habitación para terminar de vestirse.
+Después de ponerse los zapatos y anudarlos, se tumbó en la cama y se tapó hasta la barbilla con las mantas. Puso los brazos junto a los costados, bajo las mantas. Cerró los ojos y, como si fuese de noche, simuló que iba a dormirse. Luego sacó los brazos y los cruzó sobre el pecho para ver si esa postura le iba bien. Mantuvo los ojos cerrados, para probar. Muy bien, pensó. De acuerdo. Si no quería que se le volviese a taponar el oído, tendría que dormir de espaldas, eso era todo. Sabía que lo lograría. Sencillamente no debía olvidarlo, ni siquiera dormido, y no volverse del lado malo. De todos modos, no necesitaba más de cuatro o cinco horas de sueño cada noche. Se las arreglaría. Podrían pasar cosas peores. En cierto modo, era un desafío. Pero él estaba a la altura de las circunstancias. Seguro. Al cabo de un momento, retiró las mantas y se levantó.
+Aún tenía por delante la mayor parte del día. Fue a la cocina, se agachó frente a la pequeña nevera y sacó otra botella de champán. Quitó el tapón de plástico con el mayor cuidado posible, pero de todos modos se oyó el festivo pop que siempre hace el champán al abrirse. Enjuagó el vaso para quitarle el aceite para niños y luego lo llenó de champán. Lo llevó al sofá y se sentó. Lo puso sobre la mesita. Alzó los pies y los colocó junto al vaso. Se recostó. Pero al cabo de un momento volvió a inquietarse por la noche que se acercaba. ¿Y si a pesar de todos sus esfuerzos la cera decidía taponarle el otro oído? Cerró los ojos y meneó la cabeza. Se levantó en seguida y fue al baño. Se desvistió y volvió a ponerse el pijama. Fue otra vez al cuarto de estar. Se sentó de nuevo en el sofá y puso los pies sobre la mesita. Alargó la mano y encendió el televisor. Reguló el sonido. Sabía que no podía dejar de preocuparse por lo que pudiera pasar cuando se acostase. Era algo a lo que tendría que acostumbrarse. En cierto modo, todo aquel asunto le recordaba lo de las rosquillas y el champán. No era nada tan extraordinario, pensándolo bien. Bebió un poco de champán. Pero no le supo bien. Se pasó la lengua por los labios y luego se limpió la boca con la manga. Miró el vaso y vio una película de aceite sobre el champán.
+Se levantó y llevó el vaso a la pila, donde lo vació. Volvió al cuarto de estar con la botella y se acomodó en el sofá. Bebió del gollete. No tenía costumbre de beber de la botella, pero no le pareció nada fuera de lo corriente. Decidió que, aunque se durmiera sentado en el sofá en plena tarde, no sería más raro que el tener que dormir de espaldas durante varias horas seguidas. Agachó la cabeza para mirar por la ventana. A juzgar por el ángulo de los rayos del sol y las sombras que entraban en el cuarto, calculó que serían alrededor de las tres de la tarde.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

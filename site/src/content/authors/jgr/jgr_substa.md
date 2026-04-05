@@ -1,0 +1,205 @@
+---
+layout: story
+title: Substancia
+slug: jgr_substa
+source: https://www.literatura.us/idiomas/jgr_substa.html
+tags:
+  - jgr_substa
+  - jgr
+---
+João Guimarães Rosa
+(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)
+Substancia
+(“Substância”)
+Primeiras estórias
+(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)
+Sí, en los mandiocales el almidón se hace la cosa alba: la garza, la ropa
+en el tendedero. Del colador a los alguarines, de la masera a los lebrillos,
+una pulpa se repasa, para posarse, en el fondo del agua y leche, azulina —la
+fácula. Pura, limpia, hecha sorpresa. Se llamaba María Exita. La fecha era de
+mayo, ¿o de cuándo? Pensaba él en mayo, porque el mes mayor —de rocío, de la
+Virgen, de claridades en el campo. Parejas se casaban, se organizaban fiestas;
+en una, allí, la había notado: ella, flor. No se acordaba de la niña, feúcha,
+flaca, con historias de desgracias, llevada, hacía mucho, para servir en la
+Hacienda. Sin hacerse idea, la sorpresa estaba formada. Sí, a veces, por
+asombro, una joven así se embellecía, también podía haber sido en el entretanto.
+Sólo que a él, Sionesio, le faltaban holganza y espíritu para primero fijarse
+en transformaciones.
+Había salido de la fiesta aun en comienzo, apenas dada su presencia; pues
+la vida no le daba mucho para el sueño: tenía que desperezarse al adormecer,
+para ahorrar tiempo al despertar. Para el apresuramiento —harina y almidón.
+Célebres, de larga fecha, en la región y lejos, los de la Sambura; heredándola,
+de repente, Sionesio, hasta entonces muchacho de impresiones holgazanas, había
+avanzado con decisión de látigo a excederles la fabricación. Plantaba en
+grandes extensiones las hectáreas de mandioca, que, de veras, allí, otra
+plantación no daba; llamaba y pagaba a los braceros; espantaba, día a día, al
+pueblo. Y por nada daría atención a una criaturita, la cual.
+María Exita. La trajo, por piedad, de la mano, recelosa de que el patrón y
+los otros no la aceptasen, la vieja Ñatiaga, cernedora. Porque, contra la menos
+feliz, la suerte había pintorreado de negro portales y puertas: la madre,
+liviana, desaparecida de la casa; un hermano perverso, en la cárcel, por
+muertes; el otro, facineroso igual, forajido, al acaso, en ninguna parte; el
+padre, razonable buen hombre, delatado con lepra, y enviado, seguramente para
+siempre, para una leprosería. Ni le restaban parientes lejanos; sea que había
+recibido madrina, de lujo y rica, pero que apenas había pasado por el lugar,
+ahora nadie si y dónde viviría. En todo caso la acogieron. Menos por directa
+piedad; más por compasión a Ñatiaga. Pero le dieron ingrato trabajo, de todos
+el peor: el de romper, con la mano, el almidón en las lajas.
+Sionesio, al atardecer, de retorno, cabalgaba a través de las plantaciones.
+O a medio galope, o al paso, pero ansioso despropositado, mirando a casi todos
+los lados. Y, aun en domingo no descansaba. Apenas por poco tiempo en inciertas
+casas, donde al cuerpo le dieran consuelo: atención para reposar. Ahí mismo,
+últimamente, demoraba menos. Placer era ver, abiertamente, bajo el fin del sol,
+al mandiocal de verdes manos. Amaba lo que era suyo —lo que sus fuertes ojos
+aprisionaban. Pero, ahora, una fatiga. El ensimismar. Su silla gastada por el uso,
+ya apareciendo la almohadilla; tantas cosas por renovar y él sin tiempo
+siquiera. Ni para ir de visita, en el Cerro-del-Buey, a la casi novia, común en
+el sosiego y paciencias, de la tierra, donde todo se revelaba por la medida de
+las distancias. Llegaba a la hacienda. Aun, espoleaba.
+La quietud completa en la Sambura, en el domingo, el terrado y la casa de
+máquinas desiertas, sin centro de murmurio. Había preguntado a Ñatiaga por su
+protegida. —“Está partiendo el almidón en
+las lajas...” —resumió la vieja. ¿Pero, hasta hoy en un trabajo de esos? ¡Que
+por lo menos ahora la cambiasen! —“Es
+ella que lo quiere, dice que le gusta. Y es verdad, en efecto...” —susurraba
+Ñatiaga. A Sionesio, el saber que ella, de cualquier modo, pertenecía y lidiaba
+allí, se le influía un contentamiento; era él la persona que manejaba. No podía
+quejarse. Si en el avío de la harina se batallaba en rústico, en breve lo
+podría mejorar, por medio de mucho con máquinas, doblar cantidades.
+Se demoró para ir a verla. Justo al hilo del mediodía —de un sol del que se
+habían huido los pajaritos. Ella estaba frente a la mesa de piedra; a aquella
+hora, sentada en el banquito rastrero, esperaba a que trajeran otros pesados,
+duros bloques de almidón. Albísimo, era horrible, aquello. Atormentaba,
+torturaba; los ojos de la persona tenían de quedar cerrados, menudito, como los
+del armadillo, ante el implacable albor, el sol encima. El día entero, el aire
+paraba sostenido, a tiemblaluces, uno se perdía por un negror del horizonte,
+para templar la intensidad brillante, blanca; y todo cerradamente igual. —“¿Cuál es tu trabajo?” —y era sonsa la
+cuestión. Ella no se avergonzó. Sólo el apenas, el boca—no—abrir, la sonrisa
+lenta. No se perturbaba. También, para pasmarnos, con ella acontecía diferente:
+no arrugaba la cara, ni apretaba o negaba los ojos, mas ofrecidos bien abiertos
+—ojos de esos, de otra luminosidad. No parecía padecer, sino sacar seguridad y
+distracción, del triste, siniestro almidón, portentoso, y la maldad del sol. Y
+la belleza. Tan linda, clara, cierta —de viva carnación y airosa— una señorita,
+joven hecha cascada. Se dio cuenta de que, sin querer, le hacía cortesías. Le
+habló, el asunto fuera de propósito: que el almidón, allí, en Sambura, era muy
+prolijo, justo, una dádiva de blanco, por eso, para la fábrica valía más caro
+que los otros, feos, medio tostados...
+Después fue que le contaron. Retornaba aun, a caballo, su corazón no
+engañado, como si fuesen siempre desiguales los domingos; por la tarde, cuando
+cantaban las tórtolas y los canarios. Con todo —allí, él, el dueño— sin abusar
+de las ventajas. “Sus modales, señorita,
+mucho me agradaron...” repetía un tal vez futuro decir. La María Exita.
+Sabía, hoy: el alma del modo y ser, de ella, diferente a las demás. Así, había
+llegado, con los varios sin remedios de amargura, del opuesto mundo y
+maldiciones, solita, de sofocarse. Entonces, por sí, sin discusiones,
+vacilaciones ningunas, se había ido a aquel trabajo —por todos rechazado, el
+trabajo pedregoso, en el calor de boca de horno, donde se sienten engrosar los
+dedos, los ojos inflamados de ver, en el encandilar. ¿Se amodorraba, bajo
+refugio, ausente? No temía al granado, cruel almidón, que abate la vista,
+intacto blanco. Antes, como a un alcanforar lo miraba, de tanto gusto. Como a
+una especie de alivio, capaz de desafligirla; de mucho darle: una esperanza más
+dilatada. Todo ese tiempo. ¿Su belleza de dónde venía? ¿Su propia, tan firme
+persona? La inmensidad de la mirada —dulzuras. Si una sonrisa: artes como de un
+venir de ángeles. Sionesio ni siquiera lo entendía. Solamente era bueno,
+saberla feliz, a pesar de los ásperos. Ella —que dependía de un gesto no más.
+Si es que no se portaba alelado, en rodeos de un caracol; estaba amando más o
+menos.
+“¿Si los otros la quisieran, si ya le
+gustase alguien?” —las alas de esa preocupación lo asaltaron. Tantos en las
+faenas de la Sambura, enamoradores; y en las fiestas— le dolía la idea. También
+imaginarla platicando con los prójimos, en las facilidades. Pero, lo que
+escuchó, lo aquietaba. Aunque en gracia para amores, tan hermosa, ella quedaba
+a cuidado de cualquiera de ellos, de malas o mejores intenciones. Se
+resguardaban de sus graves de sangre. Temían ala herencia de lepra, del padre,
+o a la falta de juicio de la madre de indóciles fuegos. Temían a algunos de los
+asesinos, los hermanos, inesperados, pero de cualquier hora sobrevenir,
+vigilantes de su virtud. Cautelaban. Así, ella estaba a salvo. Pero uno nunca
+se provee según garantías perpetuas. Sionesio había pasado a frecuentar las
+fiestas, de los principios a los fines. No que bailara; le disgustaba aquello,
+las holgazanerías. Se quedaba a un lado, de ojos puestos en, como buitre
+cuidador. No la hubiera creído tan exacta en todos esos momentos —el quieto
+pisar, un mohinito húmero prolongado, el modo de poner su cinturita en las
+manos, feliz por los pétalos, paloma jamás afligida. La misma que mañana
+estaría frente a la mesa de laja rompiendo el sol en las piedras del terrible
+almidón, los guijarros, las gravas. Si bailaba, era bien; pero muy pocas veces.
+Le tenían miedo, a la enfermedad incierta, bajo la hermosura. Ah, era bueno,
+una providencia, ese impedimento por escrúpulo. Porque ella se veía conducida a
+no casarse nunca, ni podría ser de vida airada. Necesitaba quedar en la pureza.
+Si, del recelo no se carecía. María Exita era para separarse limpia y sin
+manchas, por encima de la vida; y de nadie. En ella, ningún hombre tocaba.
+Y sin embargo eso, él la quería, para sí, siempre por siempre.
+Y ella, habría de quererle, a él, tan ciertamente.
+Pero, en el tropiezo de inconstantes horas —a las viejas esperanzas y
+nuevas desanimaciones— de entremomentos. Pasaba por allá sin paz de verla,
+tenía un modo mordido de admirarla, más o menos de lejos. Ella en su banquito
+raso, cuando no de pie, trabajando con ambas manos. Trabajaba el almidón —la
+ardiente especie singular, sequedad límpida, material arenoso— la masa de aquel
+objeto. O, el que venía aun mojado, frío, táctil, pegándose a sus bellos brazos,
+blanqueándolos hasta más encima de los codos. Pero que siempre de sol brillaba:
+los rayos reflejados, que los ojos de Sionesio no podían soportar, lastimados,
+igual sería mirar el cielo y encarar el propio sol.
+Las muchas semanas lo castigaban, a menudo ni conseguía dormir, lo que era
+él mismo contra él mismo, consunción de pasión, romance hecho. De repente, de
+madrugada, se animaba a vigilar las amenazas de lluvia, se levantaba a los
+gritos, despertando a todos: “¡Recoger el
+almidón! ¡Recoger el almidón...!” Corrían, en confusión de alarma, reuniendo
+sacos, alguarines, lebrillos, para recibir el almidón puesto al aire en las
+lajas, donde, en lo oscuro de la noche, era la cosa única que se afirmaba, como
+un claro de laguna, rodeado de criaturas soñolientas y afligidas. Mal podía
+divisarla, en el alboroto, pero la contentaba su proximidad viva, presencia
+caliente, aliviándolo. Escuchó que de ella hablaban: “Si no es que la madre, cuando menos se espera, aparece por ella... O la
+señora madrina...” Se sobresaltó. Sin ella ¿de qué valdría el activo laborar,
+el superesfuerzo, crecer las producciones, aumentar las tierras? Verla, de
+cuando en cuando. A ella —la única María en el mundo. Mujeres otras ningunas,
+más, en lo reposado; ninguna otra novia, en la distancia. Debía, entonces,
+asirse a la prueba o al desengaño, hacer la acción de tenerla, en el sensato
+valor, poner orillas a su sueño. ¿Si hablase primero con Ñatiaga? —hallaba,
+abofeteó aquel pensamiento contra la frente. No recelaba la recusación. Consigo
+forcejeaba. Quería y no podía, dar vuelta a una cosa. Los días se iban. Pasaban
+las cosas, pretextadas. ¿Qué temía, pues, que no sabía que temiera? De una vez
+pensó: ¿era, él mismo, sano? ¿Tenía por dónde merecerla? Miraba sus propios
+dedos, sus pulsos, pasaba mucho las manos por la cara. En tiempos diversos, se
+embravecía: le tenía rabia, a ella. Deseaba que todo se quedase falso, fin.
+Poder desentregarse de la ilusión, cambiar de parecer, pagar sosiego, sólo
+cuidar los estrictos de su obligación, desatinada. Pero en el luchar del día,
+criaba las agonías de la noche. Se vio en lágrimas, fiel. ¿Por qué, entonces,
+no decía ni has, ni he, andaba de mente tropieza, cansado, meditando consejo,
+en deliberación tan grave? —así, ¿de perro para claro de luna? Pero no podía.
+Pero vino.
+La hora era de nada y tanto; y ella siempre la espera. Osado, le preguntó:
+—“¿Tú tienes voluntad de confirmar el
+rumbo de tu vida?” —hablándole muy de corazón. —“Sólo si fuese ya...” —y, con la respuesta, ella rio clara y
+calurosamente, cierto que sin la deliberada malicia, sin menosprecio. Debía de
+tener significados el reír, en sus ojos duendes.
+Mas, de repente, él se estremeció por aquellas oídas palabras. De un susto
+venido del fondo: y la duda: ¿Sería ella
+igual a la madre? —se sorprendió más. ¿Si
+la belleza de ella —lo casi fruta, del cutis, tan fresco, lozano— fuese sólo
+por un tiempo, y después condenada a engrosar a la escamación, a los
+torcimientos y moretones, por la deteriorante enfermedad? —el horror de
+aquello lo sacudía. Ni soportó mirar, en el momento, su preciosa hermosura,
+traicionera. Así sin querer, entregó los ojos al almidón, que ofuscaba, en la
+laja, a la vez del sol. Aunque por un instante, encontraba ahí un poder
+contemplado, la gradiosidad, dilatado repaso, que deshacía en blanco los
+alborotos del pensamiento, atormentantes.
+La alumbrada sorpresa.
+Aclaraba.
+Así; pero era también el exacto, grande, el repentino amor —la cima.
+Sionesio miró más, sin cerrar la cara, aplicó el corazón, abrió bien los ojos.
+Sonrió para atrás. María Exita. La socorría la linda claridad. Ella —¡ella! Se
+le acercó. Estiró también las manos hacia el almidón —solar y extraño: la
+acción de romperlo era gustosa, parecía un juguete de niño. Toso los verían en
+eso, nadie en la duda. Y su corazón se levantó. —“¿María, tú querrás, los dos, nosotros, el nunca necesitar separarnos?
+¿Tú, conmigo, vienes y vas?” Dijo y vio. El almidón, cosa sin fin. Ella
+había contestado: —“Voy, mucho.”
+Desató una sonrisa. Él ni la vio. Estaban lado a lado. Miraban para adelante.
+Ni veían la sombra de Ñatiaga, que quieta y callada, allá, en el espacio del
+día.
+Sionesio y María Exita —a medios ojos, ante el refulgir, el todo blanco. Acontecía
+lo no-real, la no-tiempo, silencio en su imaginación. Sólo el uno-y-otra, un
+en-sí-juntos, el vivir en punto sin parar, solamente corazón: pensamiento,
+pensamor. Albor. Avanzaban, parados, dentro de la luz, como si fuera en el día
+de Todos los Pájaros.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

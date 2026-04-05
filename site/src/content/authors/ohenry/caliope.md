@@ -1,0 +1,301 @@
+---
+layout: story
+title: La redención de Caliope
+slug: caliope
+source: https://www.literatura.us/idiomas/ohenry/caliope.html
+tags:
+  - caliope
+  - ohenry
+---
+O.
+Henry
+(William Sydney Porter)
+(North Carolina, 1862 -
+New York, 1910)
+La redención de Caliope (1904)
+(“The Reformation of Calliope”)
+Originalmente publicado en New York World Sunday Magazine (28 de febrero de 1904);
+Heart of the West
+(Nueva York: McClure Co., 1907, 334 págs.)
+Caliope Catesby estaba otra vez alunado;
+empezaba a atacarle el tedio. Este bendito promontorio, la tierra, y especialmente
+esa porción conocida por Quicksand, sólo era para él una pestilente congregación
+de vapores. El filósofo, atacado por la melancolía, suele buscar alivio en el
+soliloquio; mi señora se solaza con las lágrimas; el fláccido neoyorquino
+regaña a las mujeres de su casa por las cuentas de la sombrerera. Tal recurso
+no bastaba para los habitantes de Quicksand. Caliope, en particular, era dado a
+expresar su aburrimiento de acuerdo con sus luces.
+Por la noche ha desplegado las señales del
+inminente malhumor, pateando a su propio perro en el porche del hotel y
+negándose a pedir disculpas. Después se mostró quisquilloso y lleno de
+caprichos en la conversación. Mientras caminaba tomó varias ramitas de
+algarrobo para mascar las hojas ferozmente; eso era siempre síntoma alarmante.
+Otra señal de peligro, para quienes conocían las diferentes etapas de sus
+rabietas, la constituía su creciente cortesía y la tendencia a usar frases
+formales. Una áspera suavidad sucedía a su tono natural, penetrante y
+despacioso. Una ominosa cortesía subrayaba sus modales. Más tarde se le torció
+la sonrisa (la mitad izquierda de la boca se inclinó hacia arriba) y Quicksand
+se preparó para resistir.
+Generalmente, a esa altura Caliope empezaba a
+beber. Por fin, cerca de la medianoche, lo vieron ir rumbo a su casa; saludando
+a quienes encontraba con exagerada, pero inofensiva cortesía. La melancolía de
+Caliope aún no ha llegado al punto peligroso. Se instalaría ante la ventana del
+cuarto que ocupaba sobre la peluquería de Silvester, para cantar baladas
+lúgubres y desafinadas hasta el amanecer, acompañando sus ruidos con un apropiado
+castigo a su guitarra. Más magnánimo que Nerón, daba así su advertencia musical
+del inminente disturbio municipal que esperaba a Quicksand.
+En cualquier otro momento, Caliope Catesby era
+un hombre tranquilo y amable (tranquilo hasta la indolencia y amable hasta la
+inutilidad). En su mejor estado se lo tenía por un gandul y un estorbo; en el
+peor, era el Terror de Quicksand. Su ocupación ostensible era algún trabajo de
+subordinado en la línea de las propiedades inmobiliarias: oficiaba de cochero
+para los seducidos visitantes de la Costa Este que deseaban comprar lotes y
+campos. Originariamente provenía de los estados del Golfo; su metro ochenta de
+estatura, el ritmo despacioso de su lengua y sus expresiones coloquiales
+evidenciaban el lugar de su nacimiento.
+Sin embargo, ya adaptado al Oeste, este lánguido
+trozacajones, portabarriles, habitante de rincones sombreados en los
+algodonales y las colinas del sur, cobró fama como hombre malo entre hombres
+que llevaban toda una vida en el estudio de la truculencia como arte.
+A las nueve de la mañana siguiente, Caliope
+estaba listo. Inspirado por sus propias melodías bárbaras y por el contenido de
+su jarro, estaba bien preparado para recoger laureles frescos, arrancados de
+las tímidas sienes de Quicksand. Rodeado y cruzado por cartucheras,
+abundantemente provisto de revólveres y copiosamente ebrio, fluyó por la calle
+principal. Demasiado caballeresco para tomar a la ciudad por sorpresa y
+capturarla por una entrada silenciosa, se detuvo en la esquina más cercana para
+emitir su anuncio: ese temible chillido de bronce, tan similar al de los
+órganos de vapor que le ha ganado el clásico apelativo, ya más popular que su
+nombre de bautismo. Siguieron a esa vociferación tres disparos de su cuarenta y
+cinco, a fin de ir calentando las armas y probando la puntería. Un perro
+amarillo, propiedad personal del coronel Swazev. dueño del hotel, cayó patas
+arriba en el polvo, con un solo aullido de despedida. Un mexicano que cruzaba
+la calle desde la verdulería, con una botella de querosén en la mano, se vio
+estimulado a una súbita y admirable corrida, sosteniendo aún el cuello de la
+botella hecha añicos. La nueva veleta dorada que adornaba la vivienda del juez
+Riley, toda limón y azul marino, se estremeció, aleteó un poco y quedó colgando
+de una aguja, como juguete de todos los vientos.
+La artillería estaba a punto. La mano de
+Caliope. firme. Sobre él operaba el elevado, tranquilo éxtasis de la batalla
+habitual, si bien levemente amargado por la tristeza de Alejandro en cuanto a
+que sus conquistas se limitaran al mundillo de Quicksand.
+Calle abajo fue Caliope, disparando a derecha e
+izquierda. Los vidrios caían como granizo; los perros se batían en retirada;
+volaban los pollos, chillando, y las voces femeninas alzaban af!igidos llamados
+a todos los niños en general. Ese estrépito se veía perforado, a intervalos,
+por el staccato de los disparos, así como sofocado periódicamente por el
+chirrido broncíneo que Quicksand conocía tan bien. Las morriñas de Caliope
+constituían feriado obligatorio en la ciudad: a todo lo largo de la calle
+principal, en anticipación de su llegada, los empleados cerraban las puertas y
+bajaban las persianas. Los negocios languidecerían por un tiempo. Caliope tenía
+derecho de paso y, según avanzaba, observando la muerte de toda oposición y las
+escasas oportunidades de distracción, su melancolía aumentó perceptiblemente.
+Sin embargo, cuatro cuadras más adelante se
+estaban efectuando vivaces preparativos para responder al amor del señor
+Catesby con intercambio de cumplidos y réplicas hirientes. La noche anterior,
+numerosos mensajeros se han apresurado a advertir a Buck Patterson, comisario
+de la ciudad, sobre la inminente erupción de Caliope. La paciencia de este
+oficial, con frecuencia sobrecargada por sus contemplaciones para con las
+malandanzas del perturbador, estaba ya agotada. En Quicksand se concedía cierta
+indulgencia a la natural efervescencia de la naturaleza humana. Mientras no se
+acabara inmisericordemente con la vida de los ciudadanos más útiles, mientras
+no se perdieran innecesariamente demasiadas propiedades, la comunidad se oponía
+a imponer la ley con demasiado rigor. Pero Caliope, había sobrepasado los
+límites: sus estallidos eran demasiado violentos y demasiado frecuentes para
+caber en la clasificación de un desahogo normal y saludable.
+Buck Patterson había estado esperando en su
+pequeña oficina que el chillido preliminar anunciara la melancolía de Caliope.
+Al llegar la señal, el comisario se levantó y enfundó los revólveres. Dos
+subcomisarios y tres ciudadanos, que habían probado las cualidades del fuego,
+se levantaron también, dispuestos a enfrentarse con las pesadan jocosidades del
+señor Catesby.
+—Rodeen a ese hombre —dijo Buck Patterson,
+trazando los planes del ataque—. Nada de charla: disparen en cuanto lo tengan a
+la vista. Manténganse a cubierto y derríbenlo. Es un inútil. Creo que esta vez
+será su turno de quedar patas arriba. Abranse y vayan, muchachos. Y no se
+descuiden, porque él es de los que ponen la bala donde ponen el ojo.
+Alto, musculoso y de rostro solemne, con su
+insignia de comisario reluciente en la pechera de la camisa azul, dio las
+últimas instrucciones para la matanza de Caliope. Dentro de lo posible el plan
+debía lograr la caída del Terror de Quicksand sin bajas en el grupo atacante.
+Inadvertido de los planes para su escarmiento,
+el colérico Caliope venía a todo vapor por el canal, lanzando salvas de cañón,
+cuando súbitamente reparó en las rompientes que lo esperaban. El comisario y
+uno de sus ayudantes asomaron por detrás de unos cajones, media cuadra por
+delante, y abrieron fuego. Al mismo tiempo, el resto del grupo, dividido, le
+disparó desde dos calles laterales. en las cuales maniobraban cautelosamente,
+después de un ataque por sorpresa. bien organizado.
+La primera descarga quebró el martillo a uno de
+los revólveres de Caliope, le abrió un rasguño en la oreja derecha e hizo
+estallar un cartucho en el cinturón que llevaba cruzado al pecho, quemándole
+las costillas. Estimulado por ese inesperado tónico a su depresión espiritual,
+Catesby ejecutó un fortissimo en lo más alto de su registro y devolvió
+los disparos como un eco. Los defensores de la ley esquivaron las balas, un
+poquito demasiado tarde, sin poder evitar que uno de los avudantes recibiera
+una herida justo sobre el codo y el comisario, una espina en la mejilla,
+arrancada por un proyectil de tonel tras el cual se ocultaba.
+Y entonces Caliope enfrentó las tácticas del
+enemigo de igual a igual. Una rápida apreciación le hizo escoger la calle de la
+cual había recibido el fuego más débil y menos certero; la invadió a toda
+marcha, abandonando el centro desprotegido de la calle principal. Con rara
+astucia, las fuerzas opositoras de ese lugar (uno de los ayudantes y dos de los
+valerosos voluntarios) aguardaron, ocultos tras barriles de cerveza, hasta que
+Caliope pasó en retirada. De inmediato lo atacaron por la retaguardia. Un
+momento después recibían refuerzos, provenientes del comisario y su otro
+ayudante. Entonces Catesby comprendió que, a fin de prolongar eficazmente las
+delicias de la controversia, debía hallar un medio de reducir la gran
+superioridad del adversario. En eso, su mirada cayó sobre una estructura que
+parecía ofrecerle esta promesa, siempre que pudiera alcanzarla.
+A poca distancia de allí se levantaba la pequeña
+estación de ferrocarril: una casa de tres por seis, elevada más de un metro
+sobre el suelo por una plataforma. Tenía ventanas en cada pared, y podía
+convertirse en una especie de fortaleza para alguien tan afectado por la
+superioridad numérica.
+Caliope se lanzó en audaz carrera hacia allí,
+mientras el grupo del comisario disparaba a discreción contra él. Alcanzó su
+refugio sano y salvo, en tanto el jefe de estación abandonaba el edificio por
+una ventana, como una ardilla voladora, al verse invadido por la puerta.
+Patterson y sus auxiliares se detuvieron bajo la
+protección de varios maderos para efectuar una rápida consulta. En la estación
+tenían a un aventurero muy tranquilo, excelente tirador, provisto de abundantes
+municiones. En treinta metros a la redonda del lugar situado sólo había terreno
+descubierto. Sin duda, quien intentara entrar a esa zona desprotegida sería
+detenido por las balas de Caliope.
+El comisario estaba decidido: Había resuelto que
+Catesby no volvería a atronar Quicksand con su estridente aullido. Y así lo
+había proclamado. En lo oficial y en lo personal, se sentía imperativamente
+obligado a aplicar sordina a tan desafinado instrumento y a música tan fea.
+Cerca de allí había una carretilla, utilizada
+para trasladar pesos pequeños. Estaba junto a un cobertizo, lleno de bolsas de
+lana consignadas por uno de los ranchos ovejeros. En esa carretilla, el
+comisario y sus hombres amontonaron tres pesados sacos de lana. Buck Patterson,
+bien agachado, inició la marcha hacia la fortaleza de Caliope, empujando
+lentamente la carretilla cargada a manera de escudo. Sus ayudantes,
+desplegándose, se dispusieron a derribar al sitiado, en el caso de que se
+expusiera al repeler al representante de la justicia, que se arrastraba hacia
+él. Sólo una vez se les presentó la oportunidad: Caliope disparó desde una
+ventana y algunos vellones brotaron de la fiel defensa del comisario. Los
+disparos provenientes de sus hombres se estrellaron contra el marco de la
+ventana, sin pérdidas para ninguno de los dos bandos.
+El comisario estaba tan concentrado en el manejo
+de su baluarte que sólo reparó en el tren de la mañana cuando ya estaba a dos o
+tres metros de la plataforma. El tren se acercaba por el otro lado. Apenas se
+detendría un minuto en Quicksand. ¡Qué oportunidad para Caliope! Bastaría con
+que saliera por la otra puerta y subiera al convoy para alejarse.
+Buck, abandonando su protección y con el
+revólver preparado, subió los escalones como un relámpago y abrió la puerta con
+un solo empellón de sus voluminosos hombros. Los miembros de su grupo oyeron un
+solo disparo. Después, el silencio.
+* * *
+Por fin el herido abrió los ojos. Tras un
+espacio en blanco tornó a ver, a oír, recobró la sensación y el pensamiento. Al
+echar una mirada a su alrededor se encontró acostado en un banco de madera. Un
+hombre alto, de aspecto perplejo, se erguía ante él, con una enorme insignia en
+la que se leía “Comisario”. Una viejecita de negro, de rostro arrugado y ojos
+negros, chispeantes, le sostenía un pañuelo mojado contra una de las sienes.
+Mientras él intentaba fijar estos hechos en su mente y conectarlos con sucesos
+anteriores, la anciana empezó a hablar.
+—¡A ver, hombre fuerte, grande, forzudo! Esa
+bala ni siquiera lo tocó. Le rozó la cabeza, no más, y medio lo dejó paralizado
+por un rato. ¡Si sabré yo de estas cosas! Conmoción, la llaman. Abel Wadkins
+solía matar ardillas así; él decía que era “descortezarlas”. Bueno, señor, a
+usted lo descortezaron, pero estará bien en seguida. Ya se siente mucho mejor,
+¿no? Quédese quieto un rato más y deje que le refresque la cabeza. Ya sé que no
+me conoce, y no me sorprende. Vine en ese tren desde Alabama, para ver a mi
+hijo. Hijo grandote el mío, ¿no? ¡Caramba! ¡Quién diría que era un bebé
+chiquito! ¿Verdad? Este es mi hijo, señor.
+La anciana, volviéndose a medias, levantó la
+vista hacia el hombre que permanecía de pie; su rostro curtido se encendió con
+orgullo, en una sonrisa magnífica. Alargando una mano encallecida y venosa,
+tomó la de su hijo. Después, con una sonrisa animosa para el hombre postrado,
+continuó sumergiendo el pañuelo en el lavatorio de la sala de espera para
+aplicárselo suavemente a la sien. Tenía la garrulidad benévola de los muchos
+años.
+—Hacía ocho años que no lo veía —continuó—.
+Elkanah Price, uno de mis sobrinos, que es maquinista en uno de estos
+ferrocarriles, me consiguió un pase para venir. Puedo quedarme toda una semana.
+Después me llevará de regreso. ¡Imagínese, que mi muchachito haya llegado a
+oficial, a comisario de toda una ciudad! Es casi como los militares, ¿no? Yo no
+sabía que era oficial; nunca me dijo nada en las cartas. Supongo que no quería
+asustar a esta vieja con los peligros del puesto. ¡Pero caramba, yo nunca fui
+dada a sustos! ¿Para qué? Cuando estaba bajando de ese tren oí tiros y vi que
+salía humo de la estación, pero seguí caminando, no más. Y en eso veo la cara
+de mi hijo mirándome por la ventana. Lo reconocí en seguida, claro. Salió a la
+puerta y me abrazó que casi me mata. Y allí estaba usted, señor, tirado allí
+como muerto, y yo dije que viéramos qué se podía hacer para ayudarlo.
+—Creo que ahora me puedo sentar —dijo el
+paciente conmocionado—; ya me siento mucho mejor.
+Y se sentó, todavía algo débil, recostándose contra
+la pared. Era un hombre corpulento, de huesos grandes y bien plantado. Los ojos
+firmes, penetrantes, parecieron demorarse en el rostro del hombre que
+permanecía tan silencioso a su lado. Del rostro que estudiaba pasaron a la
+insignia de comisario que el otro tenía en el pecho.
+—Sí, sí, se va a poner bien —aseguró la anciana,
+palmeándole el brazo—. Siempre que no vuelva a ponerse pesado, señor, o los
+demás tendrán que atacarlo. Mi hijo me habló de usted, señor, cuando estaba sin
+sentido en el suelo. No me tome por una vieja entrometida si le hablo de esto.
+Fíjese que tengo un hijo de su edad. Y no debe tenerle rencor a mi muchacho por
+haberlo herido. Los comisarios tienen que defender la ley ; es su deber. Y
+el que mal anda, mal acaba. Mi hijo no tiene la culpa, señor. Siempre fue buen
+muchacho; se portaba bien cuando niño; era amable, obediente y bien educado.
+¿Le puedo dar un consejo, señor, que no lo haga más? Sea bueno, deje el vino,
+viva en paz y como Dios manda. Deje las malas compañías y trabaje como la gente
+honrada. Verá que así podrá dormir en paz.
+La mano enguantada de la anciana solicitante rozó
+con suavidad el pecho del hombre al que se dirigía. Muy severo, muy franco
+lucía el rostro viejo y gastado. Con su vestido negro descolorido, con su sombrero
+anticuado, próxima ya al final de una larga vida, resumía la experiencia del
+mundo. Sin embargo, el hombre al cual se dirigía miraba por encima de ella,
+contemplando al hijo silencioso.
+—¿Qué dice el comisario? —preguntó—. ¿Le parece
+bueno, el consejo? ¿Qué tal si el comisario habla y dice si aprueba?
+El hombre alto se agitó, intranquilo. Por un
+momento manoseó la insigna que llevaba al pecho, pero en seguida abrazó a la
+anciana para acercarla a él. Ella sonrió, con la sempiterna sonrisa de quien ha
+sido madre por sesenta años, y le palmeó la manga oscura con los dedos,
+torcidos dentro de los mitones. El hijo habló.
+—Pues bien —dijo, mirando directamente al otro
+hombre—, si yo estuviera en su lugar, seguiría el consejo. Si yo fuera un tipo
+bebedor, enloquecido, sin vergüenza ni esperanza, lo seguiría. Si yo estuviera
+en su lugar y usted en el mío, le diría: “Comisario, estoy dispuesto a jurar,
+si me da la oportunidad, que no daré más problemas. Dejaré de meterme en líos y
+de hacerme el matón. Seré buen ciudadano e iré a trabajar. Basta de tonterías.
+¡Que Dios me ayude!”. Eso le diría yo si usted fuera comisario y yo estuviera
+en su lugar.
+—Escuche lo que dice mi hijo —insistió la vieja,
+suavemente—. Escúchelo, señor. Prometa ser bueno y él no le hará daño. Hace
+cuarenta y un años que su corazón empezó a palpitar en el mío, y desde entonnes
+siempre ha dicho la verdad.
+El hombre se puso de pie, probando los miembros,
+estirando los músculos.
+—En ese caso —dijo—. si usted estuviera en mi
+lugar y dijera eso, y si yo fuera comisario, le diría: “Queda en libertad; vaya
+y haga lo posible por mantener su promesa”.
+—¡Virgen Santa! —exclamó la anciana,
+súbitamentealborotada—. ¡Pero si me olvidé por completo del baúl! Vi que un
+hombre lo dejaba en el andén justo cuando mi hijo se asomaba a la ventana y
+¡pluf! se me fue de la cabeza. En ese baúl tengo ocho frascos de mermelada
+casera ¡de membrillos, hecha por mí! Y no quiero que se me vayan a romper.
+Se alejó al trote hacia la puerta. Caliope
+Catesby dijo a Buck Patterson:
+—¿Qué remedio me quedaba, Buck? La vi por la
+ventana. Ella no sabía una palabra de mis costumbres. Nunca tuve coraje para
+decirle que yo era un inservible abandonado por la comunidad. Y allí estabas
+tú, donde mi bala te había dejado, como si estuvieras muerto. De pronto se me
+ocurrió la idea: te saqué la insignia, me la puse y te transferí mi reputación.
+Le dije que yo era el comisario y tú un azote de Dios. Te devuelvo la insignia,
+Buck.
+Empezó a quitarse el disco metálico de la
+camisa, con dedos temblorosos, pero Buck Patterson protestó:
+—¡Quieto ahí! Deja esa insignia donde está,
+Caliope Catesby, y no te atrevas a quitártela antes de que tu madre se vaya.
+Mientras ella esté a la vista, serás el comisario de Quicksand. Yo me daré una
+vueltita por ahí para poner a todos en el secreto, y te aseguro que nadie le
+dirá una palabra. Y escucha, cabeza hueca, chiflado, caso de chaleco: ¡seguirás
+el consejo que ella me dio! Yo también lo voy a tener un poco en cuenta.
+—Buck —exclamó Caliope, de todo corazón—, si no
+lo sigo, que me...
+—Silencio —ordenó Buck—. Allí vuelve.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,92 @@
+---
+layout: story
+title: La llamarada
+slug: km_blaze
+source: https://www.literatura.us/idiomas/km/km_blaze.html
+tags:
+  - km_blaze
+  - km
+---
+Katherine
+Mansfield
+(Nueva Zelandia, 1888 -
+Francia, 1923)
+La llamarada (1911)
+(“A Blaze”)
+In A German Pension
+(Londres: Stephen Swift and Company, 1911, 251 págs.)
+—Max, no seas tonto. Te vas a romper la cabeza si sigues bajando así la pista. Déjalo y vente al Club conmigo.
+—Tengo ya bastante por hoy y estoy enteramente calado. Anda, Víctor, dame un cigarrillo. ¿Cuándo vas a volver a casa?
+—Aún estaré aquí una hora. Hace bueno esta tarde y me voy sintiendo decorosamente en forma. ¡Cuidado! Sal del camino. Ahí viene Fräulein Wiakel. Maneja el trineo con endiablada elegancia.
+—Estoy helado hasta los huesos. Eso es lo malo que hay aquí: la niebla. Este frío húmedo. ¡Eh, Forman! Cuida de este trineo y guárdalo por ahí, de modo que mañana pueda dar con él sin tener que andar buscándolo entre centenar y medio.
+Se sentaron en un velador junto a la estufa y pidieron café. Víctor, esparrancado en la silla, acariciaba a Bob, el perrito castaño, y miraba a Max, sonriéndose a medias.
+—¿Qué te pasa, amigo? ¿No marchan las cosas viento en popa?
+—Quiero café y quiero meterme los pies en el bolsillo. Los tengo como témpanos. De comer, nada, muchas gracias. La tarta aquí es goma a medio cocer.
+Fuchs y Wistuba vinieron a sentarse a su mesa. Max, vuelto un poco de espaldas, estiró los pies hacia la hornilla. Los tres se pusieron a hablar a la vez. Sobre el tiempo, sobre las marcas en la pista, sobre las buenas condiciones que reunía el lago Wald para el patinaje.
+De improviso Fuchs miró a Max alzando las cejas y le hizo un signo de cabeza a Víctor, que asintió.
+—Boby no se siente bien —dijo éste, dándole al perrito castaño trocitos de un terrón de azúcar desmenuzado—, y no quiero que nadie le moleste. Soy su enfermera.
+—Ésta es la primera vez que veo a Max tan cariacontecido —dijo Wistuba—. Siempre he creído que le había tocado lo mejor en la vida y que nadie se lo podría arrebatar. Debe de estar dando gracias al Señor por haber evitado que lo llevaran a casa en un par de cestos. Es una tontería el que os arriesguéis de ese modo; vais a dejar desconsolada y triste a la nación.
+—Enjúgate las lágrimas —dijo Max—. Tú deberías venir a la nieve en un cochecito de niño.
+—Bueno, no te habrás ofendido, creo. No te pongas así. ¿Cómo está tu mujer, Víctor?
+—No está nada bien. El sábado se hizo daño en la cabeza bajando la pista con Max. Le he dicho que se quede en casa todo el día.
+—Lo siento. Y vosotros, muchachos, ¿os vais a quedar aquí o volvéis a la ciudad?
+Fuchs y Víctor dijeron que se quedaban. Max no replicó, pero quedó sentado e inmóvil mientras los otros pagaban sus cafés y se iban. Víctor se volvió un momento para ponerle una mano en el hombro.
+—Si vas a ir directamente quisiera, amigo Max, que fueras a ver a Elsa y le dijeses que no iré hasta tarde. ¿Quieres comer con nosotros esta noche en Limpold? Tómate un grog bien caliente en cuanto llegues.
+—Gracias, chico, estoy muy bien. Me voy.
+Se levantó, se estiró, abrochó su grueso abrigo y encendió otro pitillo.
+Desde la puerta, Víctor le estuvo mirando mientras cruzaba por la nieve con la cabeza agachada y las manos en los bolsillos. Parecía ir casi corriendo en medio de la fuerte nevada hacia la ciudad.
+Alguien que subía se detuvo en la puerta de la salita y llamó.
+—¿Eres tú, Víctor? —gritó ella.
+—No es Víctor, soy yo. ¿Puedo entrar?
+—Claro que sí. ¡Ay, qué Papá Noel! Cuelga el abrigo en el descansillo de la escalera y sacúdete sobre el barandal. ¿Lo has pasado bien?
+La habitación estaba muy iluminada y muy caldeada. Elsa, con un vestido de media tarde en terciopelo blanco, yacía aovillada en el sofá, con un libro de modas en el regazo y una caja de dulces al lado.
+Las cortinas no habían sido bajadas todavía y se veía a través de la ventana un azul claro y las nuevas ramas de los árboles.
+Una habitación de mujer, llena de flores, de fotografías, de sedosos almohadones. El piso oculto con alfombrillas, y una enorme piel de tigre bajo el piano alzando sólo la cabeza con adormilada fiereza.
+—Ha estado bastante bien —dijo Max—. Víctor no podrá venir hasta tarde. Me dijo que subiera a decírtelo.
+Se puso a pasear arriba y abajo, se quitó los guantes y los arrojó sobre la mesa.
+—No hagas eso, Max —dijo Elsa—; me atacas los nervios y he tenido un dolor de cabeza todo el día... Estoy febril y muy sofocada. ¿No parezco sofocada?
+Él se detuvo junto a la ventana, para mirarla un momento por encima del hombro.
+—No —dijo—, no lo noto.
+—Oh, no me has mirado bien. Y eso que me he puesto un nuevo traje para el té.
+Se recogió la falda y dio unas palmaditas en el sofá.
+—Vamos, siéntate a mi lado y cuéntame por qué eres tan malo.
+Pero él, de pie junto a la ventana, ocultó de repente el rostro entre los brazos cruzados.
+—No —dijo—. No puedo. Estoy agotado, estoy aburrido, estoy destrozado.
+Silencio en la habitación. El libro de modas cayó al suelo con un rápido rumor de hojas. Elsa, inclinada hacia delante, las manos enlazadas en el regazo, tenía en la mirada un brillo tenue y desconocido. Un rojo intenso le coloreaba los labios.
+Entonces ella habló apresuradamente.
+—Ven aquí y explícate. No sé de qué diantres estás hablando.
+—Sí lo sabes. Lo sabes mucho mejor que yo. Has estado jugueteando con Víctor delante de mí, sólo para que me acabara de desesperar. Me has atormentado, me has hecho ir demasiado lejos, ofreciéndome todo y nada. Ha sido desde el principio al fin el caso de la araña y de la mosca. Y no lo he ignorado ni un momento, pero ni por un instante fui capaz de resistirme.
+Se volvió pausadamente.
+—¿No lo sospechabas cuando me pedías que te prendiera las flores en tu vestido de noche? ¿Cuando me permitiste entrar en vuestra alcoba en ausencia de Víctor, mientras tú te estabas peinando? ¿Cuando, imaginándote una niña, me dejabas alimentarte con uvas? ¿Cuando corrías hacia mí y me hurgabas en todos los bolsillos buscando la pitillera, sabiendo perfectamente dónde estaba y volviendo una y otra vez a los mismos bolsillos, y sabiéndolo yo también, pero siguiendo la farsa? ¿Y te crees que ahora, que al fin has encendido la hoguera, va a ser para ti algo plácido y agradable, que vas a evitar que arda toda la casa?
+Elsa se quedó blanca de pronto y su aliento se entrecortó.
+—No me hables así. No tienes derecho a hablarme así. Soy la mujer de otro.
+—Hum —rezongó él con sorna, echando hacia atrás la cabeza—. El juego está ya muy avanzado, y ésa ha sido la baza que has estado jugando todo el tiempo. Tú sólo amas a Víctor con el cariño de la gatita hambrienta. Eres una pobrecita gatita a la que él lo ha dado todo; que ha llevado en su pecho, sin imaginar siquiera que sus garras diminutas y rosadas pudieran despedazar el corazón de un hombre.
+Ella se estremeció y se le quedó mirando con ojos aterrados.
+—Al fin y al cabo —dijo intranquila—, estoy en mi habitación. Tendré que pedirte que te vayas.
+Pero él fue hacia ella con paso inseguro, se arrodilló junto al sofá, sepultó la cabeza en su regazo y puso los brazos alrededor de su cintura.
+—¡Te quiero, te quiero! Es vergonzoso, pero te adoro. Déjame estar así un minuto, sólo un minuto... un solo momento en toda la vida... ¡Elsa!
+Ella se reclinó y apretó su cabeza contra los almohadones.
+Él continuó con voz sorda:
+—Tengo los sentimientos de un salvaje. Necesito todo tu cuerpo. Siento deseos de tenerte conmigo en una cueva y amarte hasta que murieras en mis brazos. Es incomprensible que un hombre llegue a apasionarse hasta tal punto. Sólo el verte me inflama. Estoy enfermo de tanto pensar en ti, y muero, y vuelvo a nacer, como un ave fénix, de las cenizas de esta horrible muerte. Quiéreme, aunque sólo sea una vez, miénteme, dime que me quieres aunque no sea verdad...
+En vez de ello, Elsa le empujó para apartarle.
+—¡Levántate! —dijo—. Imagínate que entre el criado con el té...
+—¡Cielos!
+Él dio unos pasos inseguros y se quedó mirándola.
+—Estás corrompida hasta el alma y también lo estoy yo. Pero eres tan brutalmente hermosa...
+La mujer fue hacia el piano y quedó allí en pie, haciendo sonar una tecla, con el ceño fruncido. Luego se encogió de hombros y sonrió.
+—Te confesaré la verdad. Todo lo que has dicho es cierto. No puedo remediarlo. Tengo necesidad de ser admirada y no puedo menos de acercarme a la gente para que me acaricie como a una gata. Soy así. He nacido en una época que no es la mía. Y sin embargo, tú lo sabes, no soy una mujer vulgar. Me gusta que los hombres me adoren, me halaguen, hasta que me hagan el amor. Pero no me entrego a ninguno. No dejaría a ningún hombre ni siquiera besarme.
+—Eso es peor todavía. No es una disculpa legítima. Hasta las prostitutas tienen un gran sentido de la generosidad.
+—Lo sé —dijo ella—. Lo sé perfectamente bien. Pero no es culpa mía; me han hecho así. ¿Te vas?
+Él, poniéndose los guantes, dijo:
+—Bueno. ¿Y qué va a ser de nosotros ahora?
+Otra vez se encogió ella de hombros.
+—No tengo la menor idea. No lo sé nunca. Dejo que las cosas sucedan.
+—¿Sola? —exclamó Víctor—. ¿Ha estado aquí Max?
+—Sólo estuvo un momento, ni siquiera quiso tomar té. Le mandé que fuera a casa a cambiarse de ropa. Resultaba tan terriblemente aburrido...
+—Pero, amor mío, te has despeinado. Voy a arreglarte el pelo. Estáte quieta un momento. ¿Así que te aburrió?
+—¡Uf!, terriblemente. ¡Ay!, que le has pinchado con una horquilla a tu mujer, nene malo.
+Le echó los brazos al cuello y se le quedó mirando, riéndose a medias como una niña hermosa y adorable.
+—¡Dios mío! ¡Qué mujer más extraordinaria eres! —dijo él—. Haces que me sienta tan terriblemente orgulloso de ti, amor mío, que... que no puedo menos de decírtelo.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,181 @@
+---
+layout: story
+title: ¿Qué queréis ver?
+slug: rc_ver
+source: https://www.literatura.us/idiomas/rc_ver.html
+tags:
+  - rc_ver
+  - rc
+---
+Raymond
+Carver
+(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
+¿Qué queréis ver?
+(“What Would You Like to See?”)
+Originalmente publicado en The Guardian (junio 24, 2000);
+Call If You Need Me (2000);
+Collected Stories (2009)
+La víspera de nuestra marcha íbamos a cenar con Pete Petersen y su mujer, Betty. Pete era dueño de un restaurante que daba a la autopista y al Pacífico. A principios de verano le habíamos alquilado una casa amueblada que estaba a unos cien metros detrás del restaurante, justo al otro extremo del aparcamiento. Algunas noches, cuando el viento venía del mar, nada más abrir la puerta olíamos los filetes hechos a la brasa en la cocina del restaurante y veíamos la columna de humo gris que salía de la gruesa chimenea de ladrillo. Y siempre, de día y de noche, vivíamos con el zumbido de los motores del enorme congelador que había en la parte trasera del restaurante, un ruido al que llegamos a acostumbrarnos.
+La hija de Pete, Leslie, una mujer rubia y delgada que nunca se mostraba muy simpática con nosotros, vivía en una casa más pequeña que también era de Pete. Llevaba los asuntos de su padre y, después de venir a hacer un rápido inventario de todo —habíamos alquilado la casa completamente amueblada, incluida ropa de cama y abrelatas eléctrico—, nos había devuelto el importe de la fianza deseándonos buena suerte. Aquella mañana, cuando recorrió la casa con la lista del inventario sujeta en una tablilla, estuvo muy amable e intercambiamos las cortesías de rigor. No tardó mucho en comprobar el inventario, y ya traía el cheque extendido.
+—Mi padre les va a echar de menos —dijo—. Qué curioso. Es un hombre duro, ya saben, pero les va a echar en falta. Me lo ha dicho. Le fastidia mucho que se marchen. Y a Betty también.
+Betty era su madrastra y cuidaba de sus hijos mientras ella salía por ahí o se iba unos días a San Francisco con su novio. Pete y Bettie, Leslie y sus hijos, y Sarah y yo vivíamos detrás del restaurante, muy cerca unos de otros, de modo que solía ver cómo correteaban los hijos de Leslie desde su pequeña casa a la de Pete y Betty. A veces, los niños venían a nuestra casa, llamaban al timbre y se quedaban esperando a la puerta. Sarah les invitaba a galletas o a tarta de frutas y los trataba como a adultos, haciendo que se sentaran en la mesa de la cocina, preguntándoles lo que habían hecho aquel día y escuchando sus respuestas con interés.
+Nuestros hijos se habían ido de casa mucho tiempo antes de que nos trasladáramos a aquella parte de la costa norte de California. Nuestra hija, Cindy, vivía con otros jóvenes en una casa situada en un terreno rocoso de varias hectáreas a las afueras de Ukiah, en el condado de Mendocino. Tenían colmenas, criaban cabras y gallinas y vendían huevos, leche de cabra y tarros de miel. Las mujeres también hacían mantas y colchas de patchwork, que vendían cuando se presentaba la ocasión. Pero no quiero emplear la palabra comuna. Si la llamara así, me costaría más trabajo aceptarlo, porque, según me han dicho, en las comunas los hombres comparten las mujeres y todo eso. Digamos que vivía con unos amigos en una pequeña granja donde se repartían el trabajo. Pero, por lo que nosotros sabíamos, no practicaban ninguna religión ni pertenecían a nin-guna secta. Hacía casi tres meses que no teníamos noticias de ella, salvo por un tarro de miel que nos llegó un día por correo junto con un grueso trozo de tela roja, parte de una colcha en la que estaba trabajando. El tarro de miel iba envuelto en una nota que decía:
+Queridos padres:
+He cosido esto yo sola, y también he puesto la miel en el tarro. Aquí aprendo a hacer cosas.
+Besos,
+Cindy
+Pero dos cartas de Sarah quedaron sin respuesta y luego ocurrió lo de Jonestown aquel otoño y durante un par de días Sarah y yo estuvimos como locos porque, por lo que sabíamos, Cindy bien podía estar en Guyana. La única dirección que teníamos de ella era el número de un apartado de correos de Ukiah. Llamé a la oficina del sheriff de allí y le expliqué la situación, y él cogió el coche y se fue a la casa a llevar un mensaje de nuestra parte y a pasar lista para ver si faltaba alguien. Cindy nos llamó aquella noche y Sarah habló con ella primero y estalló en lágrimas, y luego me puse yo y lloré de alivio. Cindy también lloró. Unos amigos suyos estaban en Jonestown. Dijo que llovía y que estaba deprimida, pero que se le pasaría, porque aquel sitio le gustaba y hacía lo que quería hacer. Pronto nos escribiría una carta larga y nos mandaría una foto.
+De manera que cuando los hijos de Leslie venían a casa, Sarah siempre se interesaba realmente por ellos, los sentaba a la mesa, les hacía cacao, les daba galletas o tarta de frutas y escuchaba sus historias con mucha atención.
+El caso era que íbamos a mudarnos, habíamos decidido separarnos. Yo iría a Vermont a dar clases durante un semestre en una pequeña universidad y Sarah había alquilado un apartamento en Eureka, ciudad que no estaba muy lejos. Al cabo de cuatro meses y medio, lo que duraba el curso, ya veríamos cómo estaban las cosas. No había nadie más, gracias a Dios, ni en su vida ni en la mía, y casi hacía un año que no habíamos bebido ni una gota, más o menos el tiempo que llevábamos viviendo en casa de Pete. Nos quedaba el dinero justo para mi viaje de vuelta al Este y para que Sarah se instalase en el apartamento. Sarah ya estaba haciendo trabajos administrativos y de investigación para el departamento de historia de la Universidad de Eureka, y como se quedaba con el coche y no tenía que mantener a nadie, con ese empleo se las podía arreglar perfectamente. Viviríamos separados durante un curso académico, yo en la costa Este, ella en la Oeste, y luego haríamos balance y ya veríamos.
+Betty llamó a la puerta cuando estábamos trajinando en la casa, yo limpiando los cristales de las ventanas y Sarah de rodillas fregando el suelo, el zócalo y los rincones con un cubo de agua y jabón y un camiseta vieja. Para nosotros era una cuestión de honor dejar la casa bien limpia antes de marcharnos. Incluso habíamos restregado los ladrillos de la chimenea con un cepillo de alambre. Demasiadas veces habíamos salido a toda prisa de las casas, dejándolas destrozadas o patas arriba, o marchándonos sin pagar el alquiler y sacando nuestras pertenencias en plena noche. Esta vez dejarla limpia, inmaculada, incluso en mejor estado que el que tenía cuando llegamos, era una cuestión de honor, y en cuanto fijamos la fecha de nuestra marcha nos pusimos a trabajar afanosamente para borrar hasta el último rastro de nuestro paso por allí. Así que cuando Betty llamó a la puerta estábamos trajinando en habitaciones distintas y al principio no la oímos. Luego volvió a llamar, un poco más fuerte, y dejé los útiles de limpieza y salí del dormitorio para abrir la puerta.
+—Espero no molestaros —empezó a decir, con las mejillas encendidas.
+Era un mujer menuda y vigorosa, vestida con pantalones azules y una blusa rosa suelta sobre las caderas. Llevaba el pelo corto, era morena y más joven que Pete, de unos cuarenta y tantos años. Había sido camarera en el restaurante y amiga de Pete y su primera mujer, Evelyn, la madre de Leslie. Un día, según nos habían contado, Evelyn, que sólo tenía cincuenta y cuatro años, volvía de Eureka de hacer unas compras y, justo cuando salía de la autopista para cruzar el aparcamiento detrás del restaurante y entrar en el camino de su casa, se le paró el corazón. El coche siguió andando, no muy deprisa pero con el suficiente impulso para derribar la pequeña cerca de madera, atravesar un macizo de . azaleas y pararse delante del porche con Evelyn derrum-bada sobre el volante, muerta. Pocos meses después, Pete y Betty se casaron y ella dejó de ser camarera para convertirse en madrastra de Leslie y abuela de los hijos de Leslie. Betty ya había estado casada una vez y tenía hijos mayores que vivían en Oregon y venían a verla de cuando en cuando. Pete y Betty llevaban cinco años casados, y por lo que habíamos podido observar eran felices y formaban buena pareja.
+—Entra, Betty, por favor —le dije, haciéndome a un lado y sujetando la puerta—. Sólo estamos limpiando un poco.
+—No puedo —dijo ella—. Tengo que ocuparme de los niños, hoy me toca a mí. He de volver enseguida. Pero Pete y yo quisiéramos invitaros a cenar antes de que os vayáis. —Hablaba con voz queda, un tanto tímida, y tenía un cigarrillo entre los dedos—. ¿El viernes por la noche? Si podéis.
+Sarah, pasándose la mano por el pelo, se acercó a la puerta.
+—Pasa, Betty, que hace frío —dijo.
+El cielo estaba gris y el viento traía nubes del mar.
+—No, no, gracias. No puedo. He dejado a los niños pintando, tengo que volver enseguida. Pete y yo habíamos pensado que vinierais a cenar. ¿El viernes por la noche, quizás, la víspera de vuestra marcha?
+Esperó la respuesta con cierta timidez. El viento le alborotaba el pelo. Dio una calada al cigarrillo.
+—Me gustaría mucho —dijo Sarah—. ¿Qué dices, Phil? Creo que no tenemos planes para esa noche. ¿Te parece bien?
+—Sois muy amables, Betty —dije yo—. Estaremos encantados de ir a cenar con vosotros.
+—¿Sobre las siete y media? —preguntó Betty.
+—A las siete y media —dijo Sarah—. Tendremos muchísimo gusto en ir, Betty. Más de lo que te puedas imaginar. Es muy amable y considerado de vuestra parte.
+Betty sacudió la cabeza y pareció incómoda.
+—Pete lamenta que os marchéis. Dice que ya sois como de la familia. Que es un honor el haberos tenido de inquilinos. —Empezó a bajar los escalones. Aún seguía con las mejillas encendidas—. Entonces, el viernes por la noche.
+—Os lo agradecemos, Betty, de verdad —dijo Sarah—. Gracias otra vez. Esto significa mucho para nosotros.
+Betty agitó la mano, sacudió la cabeza y se despidió.
+—Hasta el viernes, entonces.
+Lo dijo de tal forma que se me hizo un nudo en la garganta. Cerré la puerta cuando volvió la espalda y Sarah y yo nos quedamos mirándonos.
+—Bueno —dijo Sara—, Menudo cambio, ¿no? Que el dueño de la casa nos invite a cenar en vez de salir pitando a escondernos en cualquier sitio.
+—Pete me cae bien —dije—. Es un buen tipo.
+—Betty también —dijo Sarah—. Es una magnífica persona y me alegro de que estén juntos.
+—A veces las cosas salen bien. Dan resultado.
+Sarah no contestó. Se mordió un momento el labio inferior. Luego fue a la habitación de atrás a terminar de fregar. Yo me senté en el sofá a fumar un cigarrillo. Cuando acabé, me levanté y fui al otro cuarto, hacia mi cubo y mi bayeta.
+Al día siguiente, viernes, terminamos de limpiar la casa e hicimos casi todo el equipaje. Sarah volvió a pasar un trapo por la cocina, puso papel de aluminio debajo de los quemadores, y dio un último repaso a la encimera. Las maletas y unas cuantas cajas de libros estaban en un rincón del cuarto de estar, listas para la marcha. Por la noche cenábamos con los Petersen y a la mañana siguiente tendríamos que salir a tomar café y desayunar. Luego volveríamos para cargar el coche; aunque al cabo de veinte años de desorganización y continuas mudanzas no nos quedaba gran cosa. Iríamos a Eureka y después de descargar el coche y dejar los bártulos en el pequeño apartamento que habíamos alquilado unos días antes, a eso de las ocho de la tarde Sarah me llevaría al aeropuerto, donde yo emprendería viaje al Este con idea de hacer transbordo en San Francisco y coger un vuelo de medianoche a Boston. Y a partir de entonces Sarah iniciaría una nueva vida en Eureka. Ya hacía un mes que se había quitado el anillo, cuando empezamos a hablar del asunto, pero no porque estuviera enfadada, sino simplemente porque la noche que planeamos todo aquello se entristeció. Durante unos días no llevó anillo alguno y luego se compró una sortija barata con una turquesa montada en forma de mariposa porque, según dijo, tenía la impresión de llevar el dedo «desnudo». Una vez, años atrás, en un arrebato de cólera se había arrancado la alianza del dedo y la había tirado al otro extremo del cuarto de estar. Yo estaba borracho y me marché de casa y unos días después, cuando hablamos de aquella noche y le pregunté por el anillo de boda, me dijo: «Lo sigo teniendo. Pero lo he guardado en un cajón. No te habrás creído que había tirado mi anillo de boda a la basura, ¿verdad?» Volvió a ponérselo poco después y ya no se lo quitó más, ni siquiera durante los peores momentos, hasta hacía un mes. También había dejado de tomar la píldora y se había puesto un diafragma.
+Así que habíamos pasado el día trajinando en la casa, acabando de limpiar y de hacer las maletas y luego, poco después de las seis, nos duchamos, volvimos a limpiar la ducha, nos vestimos y nos sentamos en el cuarto de estar, ella en el sofá, con un vestido de punto y un pañuelo de cuello azul, las piernas encogidas debajo del cuerpo, y yo en la butaca grande junto a la ventana. Desde allí veía la parte de atrás del restaurante de Pete, el mar a unos kilómetros más allá y los prados con los bosquecillos que se extendían entre la ventana y las casas. Así estuvimos, sin hablar. Ya nos lo habíamos dicho todo. Ahora permanecimos en silencio viendo la caída de la tarde y el penacho de humo que salía de la chimenea del restaurante.
+—Bueno —dijo Sarah al fin, estirando las piernas sobre el sofá. Se bajó un poco la falda, encendió un cigarrillo—: ¿Qué hora es? A lo mejor tendríamos que irnos ya. Dijeron a las siete y media, ¿no? ¿Qué hora es?
+—Las siete y diez —dije.
+—Las siete y diez —dijo ella—. Es la última vez que nos estaremos juntos en una sala de estar como ésta viendo oscurecer. No quiero olvidarlo. Me alegro de que nos queden unos minutos.
+Al cabo de poco me levanté para ir por el abrigo. De camino a la habitación me detuve al pie del sofá, me incliné sobre Sarah y le di un beso en la frente. Ella alzó los ojos y me miró.
+—Trae mi abrigo también.
+La ayudé a ponerse el abrigo y luego salimos de la casa y cruzamos el césped y el aparcamiento para ir a casa de Pete. Sarah iba con las manos en los bolsillos y yo fumando un cigarrillo. Justo antes de abrir la portilla de la cerca que rodeaba la casa de Pete, tiré el pitillo y cogí a Sarah del brazo.
+Era una casa nueva, y la vivaz enredadera que habían plantado en la fachada había trepado por la cerca. Había un pequeño leñador de madera montado en la balaustrada del porche. Cuando soplaba el viento, el hombrecillo se ponía a serrar un tronco. En aquel momento no serraba, pero sentí humedad en el aire y comprendí que pronto se levantaría viento. Había tiestos en el porche y macizos de flores a cada lado del camino, pero no había modo de saber quién los había plantado, si Betty o la primera mujer de Pete. También había algunos juguetes y un triciclo. La luz del porche estaba encendida y, justo cuando empezábamos a subir los escalones, Pete abrió la puerta y nos saludó.
+—Pasad, pasad —dijo, sujetando con una mano la puerta mosquitera.
+Retuvo la mano de Sarah entre las suyas y luego estrechó la mía. Era un hombre alto y delgado, de unos sesenta años, con abundante pelo gris, cuidadosamente peinado. Los anchos hombros le daban un aire de corpulencia, pero no era una persona robusta. Llevaba una camisa de franela gris, pantalones oscuros y zapatos blancos. Betty salió también a recibirnos, sonriendo y saludándonos con la cabeza. Nos cogió los abrigos mientras Pete nos preguntaba lo que nos apetecía beber.
+—¿Qué puedo ofreceros? —dijo—. Pedid lo que queráis. Si no tengo, mandaremos a buscarlo al restaurante.
+Pete era un alcohólico en fase de recuperación, pero siempre tenía vino y bebidas fuertes en casa para los invitados. Una vez me contó que, cuando compró su primer restaurante y trabajaba dieciséis horas delante de los fogones, se bebía dos botellas de whisky al día y trataba fatal a sus empleados. Después de pasar una temporada en el hospital, según nos dijeron, había dejado de beber y llevaba seis años sin probar una gota, pero como la mayoría de los alcohólicos seguía teniendo alcohol en casa.
+Sarah dijo que tomaría una copa de vino blanco. La miré. Yo pedí una Coca-Cola.
+—¿La quieres con algo? —me preguntó Pete, guiñándome un ojo—. ¿Algo para quitarte la humedad de los huesos?
+—No, gracias, Pete, aunque sí podrías echarme una rodaja de limón.
+—Buen chico —dijo él—. Yo también, ésa es ya la única forma que tengo de colocarme.
+Vi que Betty preparaba el microondas y apretaba un botón.
+—Betty, cariño —dijo Pete—. ¿Vas a tomar vino con Sarah, o prefieres otra cosa?
+—Tomaré una copa de vino, Pete —dijo Betty.
+—Aquí tienes la Coca-Cola, Phil —dijo Pete, volviéndose luego a Sarah y dándole la copa de vino—. Sarah. Toma, Betty. Ni que decir tiene que hay muchísimo más de todo. Vamos ahí dentro, estaremos más cómodos.
+Pasamos por el comedor. La mesa ya estaba puesta con cuatro cubiertos, porcelana fina y copas de cristal tallado. Entramos en la sala de estar y Sarah y yo nos sentamos juntos en un sofá. Pete y Betty se sentaron enfrente, en el otro sofá. En la mesita, al alcance de la mano, además de cuencos de frutos secos, había cabezas de coliflor, tallos de apio y salsa vinagreta.
+—Estamos muy contentos de que hayáis venido —dijo Betty—. Llevamos toda la semana esperando esto.
+—Vamos a echaros de menos —dijo Pete—. De eso no hay duda. Me fastidia mucho que os marchéis, pero sé que la vida es así y que cuando es preciso hacer algo no hay más remedio que hacerlo. No sé cómo decíroslo, pero ha sido un honor teneros en casa, ya que los dos sois profesores y todo eso. La cultura me inspira un gran respeto, aunque yo no tenga mucha. Aquí somos como una gran familia, ya sabéis, y os consideramos parte de ella. Venga, vamos a brindar a vuestra salud. Por vosotros —dijo—, y por el futuro.
+Todos levantamos los vasos y después bebimos.
+—Nos alegramos mucho de que nos apreciéis de esa manera —dijo Sarah—. Esta cena es muy importante para nosotros; no podéis imaginaros cómo la hemos estado esperando. Significa mucho para nosotros.
+—Os vamos a echar de menos —dijo Pete, sacudiendo la cabeza—. Eso es todo.
+—Vivir aquí nos ha venido muy bien —dijo Sarah—. No os lo puedo explicar.
+—Este tío tiene algo que me gustó en cuanto lo vi —dijo Pete a Sarah—. Me alegro de haberle alquilado la casa. Cuando se conoce a alguien, la primera impresión es fundamental. Ese marido tuyo me cayó bien desde el principio. Cuídale mucho, ¿eh?
+Sarah alargó el brazo para coger un tallo de apio. Sonó un timbre en la cocina.
+—Disculpadme —dijo Betty, saliendo de la habitación.
+—Voy a poneros otra —dijo Pete. Salió del cuarto de estar con nuestros vasos y volvió al cabo de un momento con la copa de vino de Sarah y otro vaso hasta arriba de Coca-Cola para mí.
+Betty empezó a traer cosas de la cocina y a dejarlas en la mesa del comedor.
+—Espero que os guste el marisco y la carne —dijo Pete—. Cola de langosta y solomillo de buey.
+—Qué apetitoso —dijo Sarah—. Una cena fantástica.
+—Me parece que podemos cenar ya —dijo Betty— Sentaos a la mesa, si queréis. Pete siempre se pone aquí. Es su sitio. Phil, tú aquí. Tú te sientas ahí, Sarah, frente a mí.
+—El que preside la mesa paga la cuenta —dijo Pete, riendo.
+Fue una cena estupenda: ensalada verde con gambas frescas, sopa de pescado, langosta y solomillo. Sarah y Betty bebieron vino; Pete, agua mineral; yo seguí con la Coca-Cola. Pete sacó a relucir lo de Jonestown y hablamos un poco del tema, pero noté que Sarah se ponía nerviosa. Vi que se le empalidecían los labios y me las arreglé para desviar la conversación a la pesca del salmón.
+—Siento que no hayamos tenido ocasión de salir —dijo Pete—. Pero aún es algo pronto para la pesca deportiva. Sólo cogen algo los que tienen licencia comercial, y ésos se van muy adentro. Puede que dentro de un par de semanas los salmones se acerquen un poco. En cualquier momento, en realidad. Pero entonces tú ya estarás en la otra punta del país.
+Asentí con la cabeza. Sarah cogió la copa de vino.
+—Ayer le compré a un tío setenta kilos de salmón fresco, y eso es lo que de ahora en adelante ofreceré en el menú. Salmón fresco —dijo Pete—. Lo he metido en el congelador para tenerlo siempre fresco. Era un indio, se presentó aquí con la camioneta, le pregunté a cuánto me lo ponía y me contestó que a tres cincuenta el cuarto. Yo le dije que tres veinticinco y él me dijo que trato hecho. Así que lo congelé enseguida y ahí lo tengo, en el menú.
+—Bueno, pues esto está estupendo —dije yo—. Me gusta el salmón, pero no podía ser mejor que lo que nos habéis puesto de cena. Es espléndida.
+—Estamos muy contentos de que hayáis venido —dijo Betty.
+—Está delicioso —dijo Sarah—, pero creo que en la vida he visto tanta langosta y tanto solomillo. Me parece que no podré terminarme el plato.
+—Te pondré lo que te dejes en una bolsita —le sugirió Betty, sonrojándose—. Igual que en el restaurante. Pero deja sitio para el postre.
+—Vamos a tomar café al salón —dijo Pete.
+—Pete tiene unas diapositivas de cuando fuimos de viaje —dijo Betty—. Hemos pensado que, si os apetecía verlas, podíamos instalar la pantalla después de cenar.
+—Hay coñac para los que quieran —dijo Pete—. Betty querrá una copa, seguro. ¿Sarah? ¿Quieres tú? Bien hecho. No me molesta en absoluto tenerlo en casa para ofrecérselo a mis invitados. Es raro, esto de la bebida.
+Habíamos vuelto al cuarto de estar. Pete estaba montando la pantalla sin dejar de hablar.
+—Siempre tengo de todo al alcance de la mano, como habéis podido comprobar, pero hace seis años que no bebo ni gota de alcohol. Aunque eso fue después de que me pasara diez años bebiendo litro y medio diario. Empecé nada más licenciarme en el ejército. Pero lo dejé. Dios sabe cómo, pero lo dejé. Así, por las buenas. Fui al médico y le dije: Ayúdeme, doctor. Quiero dejar esta cosa, doctor. ¿Puede ayudarme? Hizo un par de llamadas y ya está. Me dijo que había conocido algunos tíos con ese problema, que él también lo había tenido en cierta época de su vida. Y de buenas a primeras me encontré camino de un centro de ésos, cerca de Santa Rosa. Era en Calistoga, en California. Pasé tres semanas allí. Cuando volví a casa estaba sobrio y se me habían quitado las ganas de beber. Mi primera mujer, Evelyn, salió a recibirme a la puerta cuando llegué a casa y me besó en los labios por primera vez desde hacía años. Odiaba el alcohol. Su padre y uno de sus hermanos murieron a causa del alcohol. Uno puede morirse de eso, no hay que olvidarlo. Bueno, pues me besó en los labios por primera vez aquella noche y no he vuelto a tomar una copa desde que fui a aquel sitio de Calistoga.
+Betty y Sarah estaban quitando la mesa. Yo me quedé fumando en el sofá mientras Pete hablaba. Cuando terminó de montar la pantalla, sacó un proyector de diapositivas de una caja y lo instaló en una mesita. Enchufó el cable y pulsó un interruptor. La pantalla se iluminó y el pequeño ventilador del proyector se puso en marcha.
+—Tenemos tantas diapositivas que podríamos pasarnos la noche mirando fotos y no acabaríamos —anunció Pete—. Las tenemos de México, Hawai, Alaska, Oriente Próximo y también de África. ¿Qué queréis ver?
+Entró Sarah y se sentó en el otro extremo de mi sofá.
+—¿Qué quieres ver, Sarah? —le dijo Pete—. Lo que te apetezca.
+—Alaska —dijo Sarah—. Y Oriente Próximo. Pasamos unos días, en Israel, hace años. Y siempre he querido ir a Alaska.
+—Nosotros no llegamos a Israel —dijo Betty, que entraba con el café—. Hicimos un circuito que sólo incluía Siria, Egipto y Líbano.
+—Es una tragedia, lo que ha pasado en el Líbano —dijo Pete—. Era el país más bonito de Oriente Próximo. Pasé por allí de joven, durante la Segunda Guerra Mundial. Yo estaba en la marina mercante y me dije que volvería algún día. Y luego a Betty y a mí se nos presentó la ocasión. ¿Verdad, Betty?
+Betty sonrió y asintió con la cabeza.
+—Vamos a ver las fotografías de Siria y el Líbano —dijo Sarah—, Esas son las que me gustaría ver. Bueno, me gustaría verlas todas, pero hay que elegir.
+De manera que Pete empezó a pasar diapositivas, que Betty y él comentaban a medida que se acordaban de los diversos momentos.
+—Ahí está Betty intentando montar en un camello —dijo Pete—. Tuvo que ayudarla ese tío del albornoz.
+Betty se echó a reír y se le encendieron las mejillas. Apareció otra diapositiva en la pantalla y Betty dijo:
+—Ese es Pete, hablando con un oficial egipcio.
+—Mirad a donde señala con el dedo —dijo Pete—, a la montaña que está a nuestra espalda. Vamos a ver si puedo agrandar la imagen. Los judíos están agazapados por ahí. Los vimos con los prismáticos que nos dejaron. Judíos por toda esa colina. Como hormigas.
+—Pete cree que si no hubieran mandado sus aviones al Líbano no se habría armado ese follón —dijo Betty—. Pobres libaneses.
+—Ese es nuestro grupo en Petra, la ciudad perdida —dijo Pete—. Era una ciudad de caravanas, pero luego sencillamente desapareció, se perdió y quedó tapada por la arena durante siglos, hasta que volvieron a encontrarla. Salimos de Damasco en Land Rover para verla. Fijaos en el color rosa de la piedra. Esas esculturas de la fachada tienen más de dos mil años, según dicen. Ahí vivían veinte mil almas. Y luego la tapó el desierto y la olvidaron por completo. Eso es lo que va a terminar pasando con este país, si no nos andamos con cuidado.
+Tomamos más café y vimos más diapositivas de Pete y Betty en los zocos de Damasco. Luego Pete apagó el proyector y Betty fue a la cocina por el postre y trajo peras caramelizadas y más café. Comimos y bebimos y Pete insistió en que nos iba a echar mucho de menos.
+—Sois buenas personas —afirmó—. Me fastidia que os vayáis, pero sé que es por vuestro bien, de otro modo no os marcharíais. Bueno, ahora queríais ver unas diapositivas de Alaska. ¿No es eso lo que has dicho, Sarah?
+—Alaska, sí —dijo Sarah—. Una vez hablamos de ir a Alaska, hace años. ¿Verdad, Phil? En una ocasión estuvimos a punto de ir, pero en el último momento no pudo ser. ¿Te acuerdas, Phil?
+Asentí con la cabeza.
+—Pues ahora vais a ir a Alaska.
+La primera diapositiva mostraba a una mujer pelirroja, alta y delgada, de pie en la cubierta de un barco sobre un fondo lejano de picos nevados. Llevaba un abrigo blanco de piel y miraba a la cámara con una sonrisa en los labios.
+—Esa es Evelyn, la primera mujer de Pete —dijo Betty—. Se murió.
+Pete puso otra diapositiva. La misma mujer pelirroja con el mismo abrigo blanco estrechaba la mano de un sonriente esquimal abrigado con una parka. Detrás de las dos figuras se veían grandes pescados secos que colgaban de unos palos. Había una extensión de agua y más montañas.
+—Esa también es Evelyn —dijo Pete—. Estas fotos las tomé en Point Barrow, el poblado más septentrional de Estados Unidos.
+Luego vino una foto de la calle principal: pequeños edificios de una planta con tejados inclinados de hojalata, letreros que anunciaban King Salmon Café, Cartas, Bebidas, Habitaciones. En otra se veía un local de pollo frito con una valla publicitaria en la fachada que mostraba al coronel Sanders con parka y botas de piel. Nos reímos.
+—Esa es Evelyn otra vez —dijo Betty cuando otra diapositiva destelló en la pantalla.
+—Estas son de antes de que muriera Evelyn —dijo Pete—. Nosotros también hablábamos siempre de ir a Alaska. Me alegro de que hiciéramos aquel viaje antes de su muerte.
+—En el momento oportuno —dijo Sarah.
+—Evelyn y yo éramos buenas amigas —dijo Betty—. Fue como si perdiera a una hermana.
+Vimos a Evelyn subiendo a un avión, y vimos a Pete que salía de aquel mismo avión después de aterrizar en Seattle, sonriente y saludando con la mano.
+—El proyector se está calentando —se quejó Pete—, Tengo que apagarlo un poco para que se enfríe. ¿Qué queréis ver después? ¿Hawai? Es tu noche, Sarah; tú decides.
+Sarah me lanzó una mirada.
+—Me parece que sería mejor que nos fuéramos a casa, Pete —dije yo—. Mañana nos espera un día muy largo.
+—Sí, deberíamos irnos —dijo Sarah—. Creo que ya va siendo hora.
+Pero siguió sentada con la copa en la mano. Miró a Betty y luego a Pete.
+—Hemos pasado una noche maravillosa —dijo—. No sabéis cuánto os lo agradecemos. Esto ha significado mucho para nosotros.
+—No, somos nosotros quienes debemos daros las gracias —protestó Pete—. De verdad. Ha sido un placer conoceros. Espero que vengáis a vernos la próxima vez que paséis por aquí.
+—¿Pensaréis en nosotros? —dijo Betty—. No nos olvidaréis, ¿verdad?
+Sarah negó con la cabeza. Nos pusimos en pie y Pete fue a buscar nuestros abrigos.
+—Ah, no os olvidéis de las sobras —dijo Betty—. Será un buen tentempié para mañana.
+Pete ayudó a Sarah a ponerse el abrigo y luego sujetó el mío para que yo pasara el brazo por la manga.
+Nos estrechamos la mano en el porche.
+—Se está levantando viento —dijo Pete—. Bueno, no nos olvidéis. Y buena suerte.
+—Nos acordaremos de vosotros —dije—. Gracias otra vez, gracias por todo.
+Nos estrechamos la mano otra vez. Pete cogió a Sarah de los hombros y le dio un beso en la mejilla.
+—Cuidaos mucho, ¿eh? Y trata bien a este tío —le dijo Pete—. Los dos sois buena gente. Nos caéis muy bien.
+—Gracias, Pete —dijo Sarah—. Gracias por decir eso.
+—Lo digo porque es cierto; si no, no lo diría.
+Betty y Sarah se dieron un abrazo.
+—Bueno —dijo Betty—. Buenas noches. Y que os vaya muy bien.
+Bajamos por el camino, entre las flores. Sujeté la portilla para que pasase Sarah y cruzamos el aparcamiento de grava para volver a casa. El restaurante estaba a oscuras. Era más de medianoche. El viento soplaba entre los árboles. Brillaban las luces del aparcamiento y, detrás del restaurante, el generador zumbaba y hacía girar los motores del congelador.
+Metí la llave en la cerradura y abrí la puerta de casa. Sarah encendió la luz y se dirigió al cuarto de baño. Encendí la lámpara junto a la butaca que estaba delante de la ventana y me senté a fumar un cigarrillo. Al cabo de poco salió Sarah del baño aún con el abrigo puesto. Se sentó en el sofá y se llevó la mano a la frente.
+—Ha sido una noche estupenda —dijo—. No se me olvidará. Tan diferente de las demás mudanzas nuestras. Figúrate, cenar con el dueño de la casa antes de marcharnos. —Sacudió la cabeza y prosiguió—: Bien mirado, hemos progresado bastante. Pero todavía nos queda mucho por recorrer. Bueno, ésta es la última noche que pasamos en esta casa, y estoy tan cansada de todo lo que hemos cenado que apenas puedo mantener los ojos abiertos. Me parece que me voy a ir a la cama.
+—Yo también. En cuanto acabe el pitillo.
+Nos tumbamos en la cama sin tocarnos. Luego Sarah se volvió de su lado y me dijo:
+—Me gustaría que me abrazaras hasta que me quede dormida. Sólo abrázame, nada más. Esta noche echo de menos a Cindy. Espero que esté bien. Rezo para que todo le vaya bien. Que Dios la ayude a encontrar su camino. Y a nosotros también.
+Al cabo de un rato su respiración se hizo lenta y regular. Me di la vuelta y me aparté de ella. Me quedé mirando al techo oscuro, escuchando el viento. Entonces, justo cuando empezaba a cerrar los ojos, oí algo. O, mejor dicho, dejé de oír algo que había estado oyendo. El viento seguía arreciando, lo oía soplar bajo los aleros de la casa y silbar en los cables de la luz, pero faltaba algo y no sabía lo que era. Permanecí inmóvil un poco más, escuchando. Luego me levanté, fui al cuarto de estar y me puse delante de la ventana. Miré al restaurante y al trozo de luna que aparecía entre las rápidas nubes.
+Me quedé en la ventana tratando de averiguar lo que pasaba. Una y otra vez, me fijé alternativamente en el destello del mar y en el restaurante. Entonces comprendí de dónde procedía aquel extraño silencio. El generador del restaurante se había parado. Me quedé allí un poco más, preguntándome lo que debía hacer, si era preciso llamar a Pete. A lo mejor se arreglaba solo al cabo del rato y volvía a ponerse en marcha. Pero en cierto modo estaba seguro de que no sería así.
+Él también debió de darse cuenta, porque de pronto vi que una luz se encendía en su casa y luego aparecía en el porche una silueta con una linterna. La silueta con la linterna se dirigió a la parte trasera del restaurante y abrió la puerta. Dentro, se encendieron las luces. Al cabo del rato, después de que me fumé un cigarrillo, volví a la cama. Me quedé dormido inmediatamente.
+A la mañana siguiente tomamos café instantáneo y después fregamos las tazas y terminamos de hacer el equipaje. No hablamos mucho. Había un camión detrás del restaurante, y Betty y Leslie entraban y salían por la puerta trasera, con los brazos cargados de cosas. No vi a Pete.
+Cargamos el coche. Al final podíamos llevarlo todo a Eureka en un solo viaje. Me acerqué al restaurante para dejar las llaves, pero justo cuando llegaba a la oficina se abrió la puerta y salió Pete con una caja en los brazos.
+—Se va a echar a perder —dijo—. El salmón se ha descongelado. Justo cuando estaba empezando a congelarse, resulta que se descongela. Se va a desperdiciar todo este salmón. Tengo que regalarlo por ahí, debo repartirlo esta misma mañana. Los solomillos, las gambas, las vieiras también. Todo. El motor del generador se ha quemado. Maldita sea.
+—Lo siento, Pete —le dije—. Tenemos que marcharnos ya. Sólo quería devolverte las llaves.
+—¿Qué es eso? —preguntó.
+—Las llaves de la casa. Nos vamos ya. Dentro de un momento.
+—Dáselas a Leslie, esté dentro. Es la que se ocupa de los alquileres. Dale a ella las llaves.
+—Vale, eso haré. Adiós, Pete. Lamento lo del generador. Pero gracias otra vez por todo.
+—De nada —dijo él—. No faltaba más. Buena suerte. Id con cuidado.
+Me saludó con la cabeza y se dirigió a la casa con la caja de solomillos. Le di las llaves a Leslie, me despedí de ella y volví al coche, donde me estaba esperando Sarah.
+—¿Qué pasa? —dijo—. ¿Qué ha ocurrido? Parece que a Pete le ha faltado tiempo para perderte de vista.
+—Resulta que esta noche se ha quemado el motor del generador y el congelador se ha apagado y se le ha estropeado la carne.
+—¿Ah, sí? Qué lástima. Lo siento por ellos. Les has devuelto las llaves, ¿verdad? Nos hemos despedido de todos. Creo que ya nos podemos ir.
+—Sí —dije—. Podemos irnos ya.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

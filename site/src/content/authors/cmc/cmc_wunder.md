@@ -1,0 +1,142 @@
+---
+layout: story
+title: Wunderkind
+slug: cmc_wunder
+source: https://www.literatura.us/idiomas/cmc_wunder.html
+tags:
+  - cmc_wunder
+  - cmc
+---
+Carson McCullers
+(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)
+«Wunderkind»
+“Wunderkind”
+Originalmente publicado en Story, diciembre 1936
+The Ballad of the Sad Café and Other Stories (1951)
+Entró en el cuarto de estar, con la carpeta de la música golpeándole contra las piernas con medias de invierno y el otro brazo caído por el contrapeso de los libros de clase; se quedó quieta un momento escuchando los sonidos que venían del estudio. Una procesión suave de acordes de piano y el afinar de un violín. Luego el señor Bilderbach la llamó con su voz gutural y pastosa:
+—¿Eres tú, Bienchen?
+Al tirar de sus mitones vio que sus dedos se contraían con los movimientos de la fuga que había estado estudiando esa mañana.
+—Sí —contestó—. Soy yo.
+—Un momento.
+Se oía hablar al señor Lafkowitz; sus palabras se devanaban en un murmullo sedoso e ininteligible. Una voz casi de mujer, pensó, comparada con la del señor Bilderbach. La inquietud dispersó su atención. Manoseó el libro de geometría y Le Voyage de Monsieur Perrichon antes de dejarlos sobre la mesa. Se sentó en el sofá y empezó a sacar de la carpeta sus papeles de música. Se miró otra vez las manos, los tendones palpitantes que bajaban tensos de los nudillos, la herida de un dedo enfundada en una cintita enrollada y sucia. Al verla, se agudizó el miedo que le había empezado a atormentar en los últimos meses.
+En voz baja se murmuró a sí misma unas palabras de aliento. Una buena lección, como antes. Cerró los labios cuando oyó el ruido pesado de los pasos del señor Bilderbach atravesando el suelo del estudio y el crujido de la puerta al abrirse.
+Por un momento tuvo la extraña sensación de que durante los quince años de su vida, la mayor parte del tiempo se la había pasado mirando el rostro y los hombros que sobresalían ahora por detrás de la puerta, en un silencio que sólo rompía el pellizcar asordinado y ausente de una cuerda de violín. El señor Bilderbach. Su profesor, el señor Bilderbach. Los ojos vivos detrás de las gafas con cerco de concha, el pelo suave y claro, y, debajo, la cara estrecha; los labios gruesos y cerrados con suavidad, el de abajo rosa y brillante de mordérselo con los dientes; las venas bifurcadas en las sienes latiendo tan claramente que se las podía ver desde el otro lado de la habitación.
+—¿No has venido un poco temprano? —le preguntó echando una mirada al reloj de la chimenea, que, desde hacía un mes, señalaba las doce y cinco—. Ahí está Josef. Estamos mirando una sonatina de uno que él conoce.
+—Muy bien —dijo ella tratando de sonreír—. La escucharé.
+Le parecía ver sus dedos hundiéndose impotentes en una confusión de teclas de piano. Se sintió cansada, sintió que si él la seguía mirando mucho rato le temblarían las manos.
+Él se quedó indeciso en mitad de la habitación. Apretó los dientes con fuerza en el labio inferior, hinchado y brillante.
+—¿Tienes hambre, Bienchen? —preguntó—. Hay un poco de pastel de manzana que ha hecho Anna, y leche.
+—Esperaré a después —dijo ella—. Gracias.
+—Cuando termines de dar una clase muy buena, ¿eh? —Su sonrisa pareció desmigarse por las comisuras.
+Se oyó un ruido detrás de él en el estudio y el señor Lafkowitz empujó la otra hoja de la puerta y se quedó quieto a su lado.
+—¿Qué hay, Frances? —dijo sonriendo—. Y ¿qué tal va el trabajo?
+Sin quererlo, el señor Lafkowitz la hacía siempre sentirse sin gracia, desgarbada. Era un hombre pequeñito, de aspecto fatigado cuando no sostenía el violín. Las cejas se curvaban muy altas sobre su cara cetrina de judío, como preguntando algo, pero los párpados se cerraban lánguidos e indiferentes. Hoy tenía un aire distraído. Le miró entrar en la habitación sin propósito visible, sosteniendo el arco con incrustaciones de nácar entre sus dedos tranquilos y haciendo pasar las crines blancas por el pedazo de resina. Hoy tenía los ojos como hendiduras agudas y brillantes y el pañuelo de hilo que le asomaba por el cuello oscurecía sus ojeras.
+—Supongo que estás trabajando mucho ahora —sonrió el señor Lafkowitz, aunque ella no había contestado a su pregunta.
+Ella miró al señor Bilderbach y él se volvió. Sus hombros pesados empujaron la puerta abriéndola y el último sol de la tarde entró por la ventana del estudio, una línea amarilla por el cuarto de estar polvoriento. Detrás de su profesor podía ver el largo piano agazapado, la ventana y el busto de Brahms.
+—No —contestó ella a Lafkowitz—, lo estoy haciendo muy mal. —Sus dedos delgados aletearon por las hojas de música—. No sé lo que me pasa —dijo mirando la espalda musculosa e inclinada del señor Bilderbach, que estaba en tensión escuchando.
+El señor Lafkowitz sonrió.
+—Me parece que hay veces que uno…
+Sonó en el piano un acorde duro.
+—¿No cree que sería mejor que siguiéramos con esto? —preguntó el señor Bilderbach.
+—En seguida —dijo Lafkowitz dándole al arco otra pasada antes de dirigirse a la puerta. Pudo verle recoger su violín de encima del piano. Él la vio y bajó el instrumento—. ¿Has visto el retrato de Heime?
+Sus dedos se agarraron con fuerza a los bordes agudos de la carpeta.
+—¿Qué retrato? —preguntó.
+—Uno de Heime en el Musical Courier que está ahí en la mesa. Detrás de la cubierta.
+Empezó la sonatina. Discordante, pero de todas maneras sencilla. Vacía, pero con un estilo propio bien cortado. Frances tomó la revista y la abrió.
+Ahí estaba Heime, en el ángulo de la izquierda. Sostenía el violín con los dedos curvados hacia abajo sobre las cuerdas, para el pizzicato. Con sus pantalones bombachos oscuros sujetos con cuidado bajo las rodillas y un jersey de cuello alto. Era una foto mala. Aunque estaba de perfil, sus ojos se volvían hacia el fotógrafo y parecía que el dedo iba a equivocarse de cuerda. Parecía sufrir de tenerse que volver hacia el aparato fotográfico. Estaba más delgado (la tripa ya no le sobresalía), pero no había cambiado mucho en estos seis meses. «Heime Israelsky, joven violinista de talento, fotografiado mientras ensaya en el estudio de su profesor en Riverside Drive. El joven maestro Israelsky, que pronto cumplirá quince años, ha sido invitado a tocar el Concierto de Beethoven…»
+A ella, esa mañana, después de estudiar de seis a ocho, su padre la había hecho sentarse con la familia a desayunar. Odiaba el desayuno; luego se quedaba como marcada. Prefería esperar y comprarse cuatro barras de chocolate con sus veinte centavos del almuerzo y comérselas durante la clase, sacándolas a pedacitos del bolsillo, debajo del pañuelo, y parándose en seco cada vez que el papel de plata hacía ruido. Pero aquella mañana su padre le había puesto un huevo frito en el plato, y sabía que, si se rompía y el amarillo viscoso se escurría sobre el blanco, lloraría. Y había pasado eso. Esa sensación le venía también ahora. Dejó otra vez la revista con cuidado y cerró los ojos.
+La música del estudio parecía buscar violentamente y sin gracia ninguna algo que no se podía lograr. Un momento después sus pensamientos se alejaron de Heime y el concierto y la foto, y revolotearon otra vez en torno a la lección. Se tumbó en el sofá hasta que pudo ver bien el estudio: los dos tocando, escudriñando las anotaciones sobre el piano, sacando con afán todo lo que estaba allí escrito.
+No podía olvidar el recuerdo de la cara del señor Bilderbach cuando la había mirado un rato antes. Sus manos, que todavía se crispaban inconscientemente con los movimientos de la fuga, se agarraban a sus rodillas huesudas. Cansada, eso es lo que estaba. Y con aquella sensación de hundirse y disolverse en ondas, como la que le venía tan a menudo antes de echarse a dormir por la noche cuando había estudiado demasiado. Como aquellos medio sueños fatigosos que zumbaban y la arrastraban en sus torbellinos.
+Una niña prodigio, Wunderkind, Wunderkind. Las sílabas le venían rodando a la manera alemana, le golpeaban contra los oídos y luego se hacían un murmullo. Y con los rostros girando, hinchándose hasta la distorsión, achicándose en pálidas burbujas. El señor Bilderbach, la señora Bilderbach, Heime, el señor Lafkowitz. Dando vueltas y más vueltas en círculo en torno al gutural Wunderkind. Y el señor Bilderbach, enorme en mitad del círculo, su rostro apremiante, y todos los demás a su alrededor.
+Frases musicales balanceándose locamente. Notas que había tocado cayendo unas sobre otras como un puñado de canicas escaleras abajo. Bach, Debussy, Prokofiev, Brahms… llevando el compás grotescamente con el último latido de su cuerpo cansado y el círculo zumbante.
+Algunas veces, cuando no había estudiado más de tres horas, o no había ido al instituto, los sueños no eran tan confusos. La música se remontaba con claridad en su cabeza y volvían pequeños recuerdos, rápidos y precisos, claros como esa ñoña estampita, La edad de la inocencia, que Heime le había dado al terminar el concierto en que tocaron juntos.
+Wunderkind, Wunderkind. Esto era lo que el señor Bilderbach la había llamado cuando, a los doce años, fue a su estudio por primera vez. Los alumnos mayores lo habían repetido.
+No que el señor Bilderbach se lo hubiera dicho nunca a ella. «Bienchen…» (Ella tenía un nombre corriente, pero él lo usaba solamente cuando cometía equivocaciones muy grandes.) «Bienchen», solía decir. «Sé que debe de ser terrible llevar todo el tiempo una cabeza tan cargada. Pobre Bienchen…»
+El padre del señor Bilderbach fue un violinista holandés. Su madre era de Praga. Él había nacido en esa ciudad y había pasado su juventud en Alemania. ¡Cuántas veces había deseado ella no haber nacido y haberse criado simplemente en Cincinnati! «¿Cómo se dice queso en alemán?, señor Bilderbach.» «¿Cómo es en holandés no lo entiendo?»
+El primer día vino ella al estudio. Tocó toda la Rapsodia húngara n.° 2 de memoria. El cuarto ensombreciéndose con el crepúsculo. El rostro del señor Bilderbach al encorvarse sobre el piano.
+—Ahora empezaremos todo otra vez —dijo aquel primer día—. Esto; tocar música, es algo más que una maña. Que los dedos de una niña de doce años cubran tantas teclas en un segundo, no quiere decir nada. —Se golpeó con su mano grandota el pecho ancho y la frente—: Aquí y aquí. Eres lo bastante mayor para entenderlo. —Encendió un cigarrillo y le sopló bromeando el humo sobre la cabeza—. Trabajar, trabajar, trabajar. Vamos a empezar ahora con estas Invenciones de Bach y estas piezas de Schumann. —Se movieron otra vez sus manos, ahora para tirar de la cadenilla de la lámpara que estaba detrás de ella y señalar la música—. Te voy a enseñar cómo quiero que estudies esto. Escucha con atención.
+Había estado al piano casi tres horas y se sentía muy cansada. La voz honda del señor Bilderbach sonaba como si vagase dentro de ella desde hacía mucho tiempo. Quería alcanzar y tocar sus dedos flexibles y musculosos que señalaban las frases; quería sentir el anillo fulgurante y su mano velluda y fuerte.
+Tenía clase los martes después del instituto y los sábados por la tarde. Muchas veces se quedaba después de terminar la lección del sábado y cenaba y dormía con ellos y a la mañana siguiente tomaba el tranvía para su casa. La señora Bilderbach la quería a su manera tranquila, casi en silencio. Era muy diferente de su marido. Era pacífica, gorda y lenta. Cuando no estaba en la cocina haciendo alguno de los ricos platos que a los dos les gustaban tanto, parecía pasarse todo el tiempo arriba, en su cama, leyendo revistas o, simplemente, mirando a la nada con una semisonrisa. Cuando se casaron en Alemania, ella se dedicaba a cantar lieder. Ya no volvió a cantar (decía que era por la garganta). Cuando el señor Bilderbach iba a la cocina a llamarla para que escuchara a un alumno, sonreía siempre y decía que estaba gut, muy gut.
+Cuando Frances tenía trece años, se le ocurrió un día que los Bilderbach no tenían hijos. Le pareció extraño. Una vez estaba con la señora Bilderbach en la cocina cuando llegó del estudio él, en tensión, furioso contra algún alumno que le fastidiaba. Ella siguió batiendo la sopa espesa, hasta que el señor Bilderbach, con su mano, como a tientas, se apoyó en su hombro. Entonces se volvió, con aire plácido, mientras él la abrazaba y escondía su cara seca en la carne blanca y sin nervios de su cuello. Así estuvieron sin moverse. Luego él levantó bruscamente la cara, en la que la ira se había cambiado en una tranquila falta de expresión, y volvió a su estudio.
+Desde que había empezado con el señor Bilderbach, no tenía tiempo de ver a la gente del colegio, y Heime había sido el único amigo de su edad. Era alumno del señor Lafkowitz y venía con él a casa del señor Bilderbach las tardes en que ella estaba allí. Oían tocar a sus profesores y, a veces, también ellos dos hacían juntos música de cámara, sonatas de Mozart o Bloch.
+Wunderkind, Wunderkind.
+Heime era un «niño prodigio». Él y ella luego.
+Heime tocaba el violín desde los cuatro años. No tenía que ir al colegio, el hermano del señor Lafkowitz, que era tullido, le enseñaba por las tardes geometría, la historia de Europa y los verbos franceses. A los trece años tenía una técnica como el mejor violinista de Cincinnati, todo el mundo lo decía. Pero tocar el violín debe ser más fácil que el piano. Estaba segura de que lo era.
+Heime parecía oler siempre a pantalones de pana, a la comida que había tomado y a resina. Casi siempre, también, tenía las manos sucias alrededor de los nudillos y los puños de la camisa le salían grisáceos por las mangas del jersey. Ella le miraba siempre las manos cuando tocaba: flacas solamente en las articulaciones, con duras burbujitas de carne rebosando encima de las uñas raspadas, y el pliegue, tan niño, que se le notaba en la muñeca arqueada.
+Lo mismo dormida que despierta, podía recordar el concierto sólo en una nebulosa. No supo hasta algunos meses después que ella no había tenido éxito. Era verdad que los periódicos habían alabado a Heime más que a ella. Pero él era más pequeño. Cuando estaban de pie, juntos, en el escenario, él le llegaba sólo a los hombros. Y eso para la gente hacía mucho, ya se sabe. También había aquello de la sonata que tocaron juntos. La de Bloch.
+—No, no. No creo que esto sea lo apropiado —había dicho el señor Bilderbach cuando sugirieron lo de Bloch para finalizar el concierto—. Mejor eso de John Powell, la Sonata virginalesca.
+Ella no lo había comprendido entonces; quería que fuera la de Bloch, igual que el señor Lafkowitz y Heime.
+El señor Bilderbach había cedido. Después, cuando en las reseñas dijeron que le faltaba temperamento para esa clase de música, después que llamaron a su manera de tocar floja y sin sentimiento, se sintió defraudada.
+—Eso de oi-oi —dijo el señor Bilderbach dándole con los periódicos— no es para ti, Bienchen. Deja eso para los Heime, los witzes y los eskis.
+Una niña prodigio. No importaba qué dijeran los periódicos; eso era lo que él la había llamado. ¿Por qué Heime lo había hecho mucho mejor que ella en el concierto? En el colegio, a veces, cuando debería estar mirando al que resolvía el problema de geometría en la pizarra, la pregunta se revolvía como un cuchillo dentro de ella. Pensaba en ello en la cama y, a veces, hasta cuando debería estar concentrada en el piano. No era culpa de Bloch ni de que ella no fuera judía; no del todo, por lo menos. ¿Sería que Heime no tenía que ir al colegio y había empezado a tocar tan pequeño? ¿Sería…?
+Por fin pensó que ya sabía el porqué.
+—Toca la Fantasía y fuga —le había dicho el señor Bilderbach una tarde hacía un año, después de que él y el señor Lafkowitz habían terminado de leer algo de música juntos.
+Mientras tocaba, le pareció que Bach le salía bien. Con el rabillo del ojo podía ver la expresión tranquila y contenta del rostro del señor Bilderbach, podía verle levantar las manos de los brazos de la silla en los momentos culminantes y luego dejarlas caer satisfechas, cuando los puntos cumbres de las frases habían salido bien. Ella se levantó del piano al terminar la pieza, tragando como para aflojar las ligaduras que la música parecía haberle atado alrededor de la garganta y del pecho. Pero…
+—Frances —había dicho entonces el señor Lafkowitz, mirándola de pronto con una curva en su boca fina y sus ojos casi cubiertos por sus pestañas delicadas—. ¿Sabes cuántos hijos tenía Bach?
+Ella se volvió intrigada:
+—Muchos, veintitantos…
+—Bien, entonces… —los bordes de su sonrisa se marcaban suavemente en su cara pálida—. Entonces… no podía ser tan frío.
+Al señor Bilderbach esto no le gustó; su refulgencia gutural de palabras alemanas parecía dejar oír Kind en alguna parte. El señor Lafkowitz levantó las cejas. Ella se había dado cuenta, pero quiso guardar un rostro inexperto y sin expresión porque era como al señor Bilderbach le gustaba verla.
+Pero estas cosas no tenían nada que ver. No importaban mucho por lo menos, porque ya se haría mayor. El señor Bilderbach lo comprendía y, después de todo, tampoco el señor Lafkowitz había dicho en serio lo que dijo.
+En sus sueños, el rostro del señor Bilderbach se ensanchaba y se contraía en el centro de un círculo en torbellino, los labios alzándose suavemente, las sienes insistiendo.
+Pero, a veces, antes de dormirse, había recuerdos tan claros como cuando se remetió un agujero que tenía en la media para que lo tapara el zapato.
+—¡Bienchen, Bienchen! —Y el traer la señora Bilderbach la cesta de la costura enseñándole cómo se zurcía y no eso de apretarlo todo en un montón arrebujado.
+Y cuando se examinó de grado medio en el instituto: «¿Qué te vas a poner?», le preguntó la señora Bilderbach el domingo por la mañana, durante el desayuno, cuando ella les contó cómo habían ensayado la entrada en el salón de actos.
+—Un traje de noche que se puso el año pasado mi prima.
+—¡Ay, Bienchen! —dijo él dando vueltas con sus pesadas manos a la taza de café, mirándola, con pliegues alrededor de sus ojos risueños—. Apuesto a que sé lo que quiere Bienchen…
+Él insistió. No le creyó cuando ella le dijo que, de verdad, no le importaba nada.
+—Así, Anna —dijo, empujando la servilleta al otro lado de la mesa. Y cruzó la habitación con andares afectados, moviendo las caderas y girando los ojos detrás de las gafas de concha.
+El sábado siguiente por la tarde, después de la clase, se la llevó a los almacenes de la ciudad. Sus dedos gruesos acariciaban los tejidos finos y los organdíes crujientes que las dependientas sacaban de sus perchas. Le ponía los colores junto a la cara, torciendo la cabeza a un lado, y escogió el rosa. También se acordó de los zapatos. Prefirió unos zapatos blancos de niña. A ella le parecieron un poco de señora vieja, y la etiqueta con la cruz roja en el talón les daba un aire de beneficencia. Pero no importaba. Cuando la señora Bilderbach empezó a acortarlo y a sujetarlo con alfileres, el señor Bilderbach interrumpió la clase para verlo y sugerir fruncidos en las caderas y en el cuello y una rosa de fantasía en el hombro. La música iba saliendo bien. Los trajes y la fiesta de fin de curso y demás no cambiaban nada.
+Nada importaba mucho, excepto tocar la música como había que tocarla, haciendo salir lo que tenía dentro, tocando y tocando, hasta que el rostro del señor Bilderbach perdiera algo de su mirada apremiante. Poniendo en la música lo que ponían Myra Hess, Yehudi Menuhin… ¡Incluso Heime!
+¿Qué le había empezado a pasar en los últimos cuatro meses? Las notas comenzaban a salir con una entonación muerta y rota. La adolescencia, pensó. Algunos niños prometen tocando y tocan y tocan hasta que, como ella, cualquier bobada les hace llorar. Y se cansan queriendo sacarlo bien, y están anhelando algo; algo extraño iba a pasar. ¡Pero ella no! Ella era como Heime. Tenía que serlo. Ella…
+En otro tiempo, era seguro que tenía ese don. Y esas cosas no se pierden. Wunderkind… Wunderkind…, había dicho de ella el señor Bilderbach, arrastrando las palabras a la segura y profunda manera alemana. Y en los sueños más profundamente aún, más cierta que nunca. Con su cara como un espejismo ante ella, y las anhelantes frases musicales mezcladas en el zumbante girar y girar. Wunderkind, Wunderkind…
+Aquella tarde, el señor Bilderbach no acompañó al señor Lafkowitz hasta la puerta, como de costumbre. Se quedó en el piano, apretando con suavidad una nota solitaria. Escuchando, Frances mira al violinista enrollarse la bufanda alrededor de la garganta pálida.
+—Una buena fotografía de Heime —dijo ella cogiendo sus papeles de música—. Me escribió una carta hace un par de meses contándome que había oído a Schnabel y a Hubermann, y sobre el Carnegie Hall y lo que se come en la sala de té rusa.
+Para retrasar un poco más su entrada en el estudio, esperó hasta que el señor Lafkowitz se dispuso a marchar y se quedó detrás de él hasta que abrió la puerta. El frío helado de fuera entró cortante en la habitación. Se hacía tarde y el aire estaba teñido del amarillo pálido del atardecer del crepúsculo invernal. Al girar la puerta en los goznes, la casa parecía más oscura y más silenciosa que nunca.
+Cuando ella entró en el estudio, el señor Bilderbach se levantó del piano y, en silencio, la miró sentarse al teclado.
+—Bueno, Bienchen —dijo—. Esta tarde vamos a empezar otra vez de nuevo. Desde el principio. Olvida estos últimos meses.
+Parecía como si tratara de representar un papel en una película. Balanceaba su cuerpo sólido y se frotaba las manos, y hasta sonrió de una manera satisfecha, cinematográfica. Luego, de pronto, dejó esta actitud de manera brusca. Dejó caer sus hombros pesados y empezó a mirar el montón de música que ella había traído.
+—Bach… no, todavía no, no —murmuró—. ¿Beethoven? Sí, la Sonata con variaciones, op. 26.
+—Las teclas del piano la aprisionaban, tiesas y blancas como muertas.
+—Espera un momento —dijo él. Estaba de pie, en la curva del piano, apoyado de codos, mirándola—. Hoy espero algo de ti. Esta sonata es la primera sonata de Beethoven que estudiaste. No te falla ni una sola nota técnicamente; no tienes que preocuparte más que de la música. Eso es todo lo que tienes que pensar.
+Recorrió las páginas del tomo hasta que encontró dónde estaba. Luego empujó su silla hasta la mitad de la habitación, le dio la vuelta y se sentó a horcajadas, apoyándose en el respaldo.
+Por alguna razón, ella sabía que esta postura de él tenía un buen efecto en su actuación. Pero sentía que hoy iba a verle con el rabillo del ojo y que se distraería. El señor Bilderbach estaba sentado, tieso, con las piernas en tensión. El pesado libro parecía balancearse peligrosamente sobre el respaldo de la silla. «Vamos ya», dijo él lanzando un disparo de sus ojos hacia ella.
+Ella curvó las manos sobre las teclas y luego las hundió. Las primeras notas fueron demasiado fuertes, las otras frases siguieron secas. El señor Bilderbach levantó la mano de la música:
+—Espera; piensa un momento en lo que estás tocando. ¿Cómo está marcado este principio?
+—An…andante.
+—Muy bien. No lo hagas un adagio entonces. Y toca bien en las notas. No las arrastres por encima de esa manera. A ver. Un andante gracioso y expresivo.
+Probó otra vez. Sus manos parecían estar separadas de la música que había dentro de ella.
+—Escucha —interrumpió él—. ¿Cuál de estas variaciones domina el conjunto?
+—La marcha fúnebre.
+—Prepárate entonces para ella. Esto es un andante, pero no una pieza de salón según tú la has tocado. Empieza suavemente, piano, y no hagas el crescendo hasta llegar al arpegio. Hazlo cálido y dramático. Y aquí abajo, donde pone dolce, haz cantar a la melodía. Sabes ya todo eso. Ya lo hemos visto todo. Ahora tócalo. Siéntelo como Beethoven lo escribió. Siente esa tragedia y contención.
+No podía dejar de mirarle a las manos. Parecían posarse intencionadamente en la música, dispuestas a levantarse en señal de parada tan pronto como ella empezara, con el brillo de su sortija avisándole el alto.
+—Señor Bilderbach, puede ser que si yo…, si usted me dejara tocar la primera variación sin pararme, lo haría mejor.
+—No te interrumpiré —dijo él.
+Agachó demasiado su cara pálida sobre las teclas. Tocó la primera parte y, obedeciendo a una señal de él, empezó la segunda. No había faltas que le molestaran, pero las frases salían de sus dedos antes de que pudiera poner en ellas lo que sentía que quería decir.
+Cuando terminó, él levantó la vista de la música y empezó a hablar con calma gris:
+—No he oído casi esos acordes de la mano derecha. Y, por cierto, esta parte tendría que ir creciendo en intensidad, desarrollando los temas que tenían que haberse destacado en la primera parte. En fin, pasa a la siguiente.
+Quería empezar con una tristeza contenida, para ir llegando paulatinamente a una expresión de dolor hondo, desbordante. Eso era lo que le decía la cabeza. Pero las manos parecían pegársele a las teclas como macarrones blandos y no podía imaginar cómo tenía que ser la música.
+Cuando cesó de resonar la última nota, el señor Bilderbach cerró el libro y se levantó de la silla poco a poco. Movía la mandíbula inferior de un lado a otro y entre sus labios abiertos se podía ver la pequeña línea roja de la garganta y sus dientes amarillos de tabaco. Dejó el libro de Beethoven sobre el montón de música y apoyó los codos otra vez en el piano negro y suave.
+—No —dijo sencillamente, mirándola.
+La boca de ella empezó a temblar.
+—No puedo remediarlo. Yo…
+Repentinamente, él se sonrió.
+—Escucha, Bienchen —empezó con una voz suave, forzada—. ¿Tocas todavía El herrero armonioso, no? Te dije que no lo quitaras de tu repertorio.
+—Sí —dijo ella—, lo toco de vez en cuando.
+Era la voz que él usaba con los niños.
+—¿Te acuerdas? Fue de las primeras cosas que tocamos juntos. Lo solías tocar muy fuerte, como si fueras de verdad la hija de un herrero. Ya ves, Bienchen, te conozco tan bien… como si fueras mi propia hija. Sé lo que tienes. Te he oído tocar tan bien… Solías tocar…
+Se paró sin saber qué decir y chupó la colilla pulposa de su cigarrillo. El humo salía como adormecido de los rosados labios de él y se enredaba en una niebla gris por los lisos cabellos y la frente infantil de Frances.
+—Hazlo sencillo y alegre —dijo él encendiendo la lámpara detrás de ella y alejándose del piano. Se quedó un momento dentro del círculo brillante que hacía la luz. Luego, impulsivamente, se puso casi en cuclillas—. Vigoroso —dijo.
+No podía dejar de mirarle, sentado en un talón con el otro pie delante de él para guardar el equilibrio, los músculos de sus fuertes muslos en tensión bajo la tela de los pantalones, la espalda derecha, los codos apoyados sólidamente en las rodillas.
+—Ahora, sencillamente —repitió con un gesto de sus manos carnosas—, piensa en el herrero, trabajando todo el día al sol. Trabajando tranquilo y sin que le molesten.
+Ella no podía mirar al piano. La luz le iluminaba el vello de sus manos extendidas y hacía brillar los cristales de sus gafas.
+—¡Todo seguido! —ordenó él—. ¡Vamos ya!
+Sintió que la médula de sus huesos se vaciaba y que no le quedaba sangre dentro. El corazón, que toda la tarde le había golpeado contra el pecho, lo sintió muerto, lo vio gris, blando y encogido por los bordes como una ostra.
+El rostro del señor Bilderbach parecía vibrar en el espacio delante de ella, acercarse al ritmo de las sacudidas de las venas de sus sienes. Evasivamente ella miró al piano. Sus labios temblaban como jalea y una oleada de lágrimas silenciosas hizo que las teclas blancas se le empañaran con una línea aguanosa.
+—No puedo —murmuró—. No sé por qué, pero no puedo. No puedo más.
+El cuerpo tenso del señor Bilderbach se relajó y poniéndose la mano en el costado se levantó. Ella recogió su música y le pasó por delante corriendo.
+Su abrigo. Los mitones. Los chanclos. Los libros del colegio y la cartera que él le había regalado en su cumpleaños. Todo lo que en el cuarto silencioso era suyo. Deprisa, antes de que él hablara.
+Al atravesar el vestíbulo no pudo dejar de ver sus manos, colgando del cuerpo, que se apoyaba contra la puerta del estudio, relajado y sin designio. Cerró la puerta con fuerza. Con los libros y la cartera a rastras, bajó tropezándose por las escaleras de piedra, se equivocó de dirección al salir, corrió por la calle que se había vuelto una confusión de ruidos y bicicletas y juegos de otros niños.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

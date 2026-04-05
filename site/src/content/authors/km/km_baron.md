@@ -1,0 +1,66 @@
+---
+layout: story
+title: El Barón
+slug: km_baron
+source: https://www.literatura.us/idiomas/km/km_baron.html
+tags:
+  - km_baron
+  - km
+---
+Katherine
+Mansfield
+(Nueva Zelandia, 1888 -
+Francia, 1923)
+El Barón (1910)
+(“The Baron”)
+Originalmente publicado en The New Age (10 de marzo de 1910);
+In A German Pension
+(Londres: Stephen Swift and Company, 1911, 251 págs.)
+—¿Quién es? —pregunté—. ¿Por qué ha de sentarse siempre solo y además darnos la espalda?
+—Ah —me susurró Frau Oberregierungsrat—, es un barón.
+Me contempló gravemente y sin demasiado desdén. Con expresión de ¿cómo-no-lo-habrá-reconocido-al-primer-golpe-de-vista?
+—Pero no es culpa suya, pobre hombre —le dije—. Este hecho infortunado no debiera excluirle por ningún concepto de los goces del comercio intelectual.
+De no haber tenido en la mano el tenedor, creo que se hubiera santiguado.
+—No me ha comprendido, sin duda. Es uno de los antiguos barones.
+Excitada más que otro poco, se volvió para hablar con Frau Doktor, que estaba a su izquierda.
+—Mi tortilla está hueca, ¡hueca! —protestó—, y ésta es la tercera que pruebo.
+Miré al más antiguo de los barones. Estaba comiendo ensalada; había clavado en el tenedor una hoja entera de lechuga y la iba absorbiendo poco a poco con gesto conejil. Algo digno de verse.
+Pequeñito y delgado, los ralos cabellos y la barba negros, el cutis amarillento, usaba invariablemente un traje de jerga negro, camisa de lino crudo, sandalias negras y las gafas con aro negro más enormes que vi jamás.
+Herr Oberlehrer, sentado frente a mí, sonrió benévolamente.
+—Debe de ser algo muy interesante para usted, gnädige Frau [señora]... Desde luego ésta es una pensión muy distinguida. Aquí estuvo este verano una dama de la corte de España. Padecía del hígado. Muchas veces hablé con ella.
+Le miré agradecida y humilde.
+—Claro que en Inglaterra no se tropieza uno en las casas de huéspedes con las clases altas como en Alemania.
+—Ciertamente que no —repliqué, aún hipnotizada por aquel barón que parecía un amarillento gusanillo de seda.
+—Viene todos los años —prosiguió Herr Oberlehrer— a causa de sus nervios. Todavía no ha hablado una sola vez con ninguno de los huéspedes.
+Por su rostro cruzó una sonrisa, y me pareció estar participando de sus ilusiones en un espléndido quebrantamiento de aquel silencio; un deslumbrante intercambio de cortesías en un futuro nebuloso; el sacrificio de un periódico a la excelsa persona; un danke schön [muchas gracias] que sería transmitido a las futuras generaciones.
+En aquel momento el cartero, con la apariencia de un oficial del ejército alemán, entró con el correo. Tiró mis cartas dentro del pudding de leche y volviéndose hacia la camarera le dijo algo en voz baja. Ésta salió precipitadamente. Apareció el gerente de la pensión con una bandejita. En ella fue depositada una tarjeta ilustrada, que dicho señor, inclinando reverentemente la cabeza, fue a llevársela al barón.
+Por mi parte me sentí desilusionada al ver que no se le saludaba con veintiún cañonazos. Al final de la comida se servía el café. Observé que el barón tomaba tres terrones, ponía dos en la taza y envolvía el tercero en un pico del pañuelo. Era siempre el primero en llegar al comedor y el último en abandonarlo. En una silla vacía que tenía al lado, colocaba un negro maletín de cuero. Por las tardes, asomada a la ventana, lo veía pasar calle abajo. Caminaba con paso trémulo llevando el maletín. Y cada vez que pasaba junto a un farol, se estremecía un poco más, como si temiera que aquél fuera a embestirle, o acaso por considerar plebeyo su contacto.
+Me preguntaba a dónde iría y por qué tenía que cargar con aquella maleta. Nunca lo había visto en el Casino ni en el establecimiento de baños. Parecía arrastrar sus pies ensandaliados olvidado de todos. Y me sorprendí a mí misma compadeciendo al barón.
+Aquella noche estábamos reunidos en el salón unos cuantos pensionistas comentando la KUV [la cura, el tratamiento] del día con fervorosa animación. Frau Oberregierungsrat, sentada a mi lado, tejía un chal para la más joven de sus nueve hijos, que se hallaba en ese frágil estado llamado interesante.
+—Pero por fuerza será de su entera satisfacción —dijo—. Mi hijita se ha casado con un banquero, la ilusión de toda su vida.
+Éramos unas ocho o diez. Las casadas nos hacíamos confidencias acerca del aspecto de nuestros maridos en ropa interior, en tanto que las solteras discutían sobre lo atractivos que resultaban, vestidos, sus posibles futuros.
+—Los tejo yo misma —oí exclamar a Frau Lehrer— con esta gruesa lana gris. Usa uno cada mes con dos cuellos blandos.
+—Y entonces él —susurró Fräulein Lisa— me dijo: «De veras me gustas. Es posible que escriba a tu madre.»
+Nada tiene de particular que estuviéramos atrozmente excitadas y hasta un poquito encontradas también.
+De pronto la puerta se abrió para dar paso al barón. Siguió un silencio absoluto, un silencio de muerte. Penetró despacito, vacilando. Tomó un palillo de un platito que estaba encima del piano, y se fue otra vez. Cuando la puerta quedó de nuevo cerrada, lanzamos un grito de triunfo; era la primera vez que se le había visto entrar en el salón. ¿Quién podía decir lo que el futuro nos reservaba?
+Los días crecieron hasta convertirse en semanas. Siempre estábamos juntas y siempre aquel solitario y diminuto personaje, con la cabeza inclinada como bajo el peso de las gafas enormes, me seguía obsesionando. Llegaba con la maleta negra, se marchaba con la maleta negra, y eso era todo.
+Por fin el gerente de la pensión me dijo que el barón nos dejaba al día siguiente.
+«Ah —pensé—, sin duda no desaparecerá así en la obscuridad, no se esfumará sin decir siquiera una palabra. Con seguridad, por una sola vez antes de partir, va a presentar sus respetos a Frau Oberregierungsrat o a Frau Feldleutnanlswitwe.»
+Aquel día llovió mucho por la noche. Había ido a la oficina de correos y cuando estaba en las gradas de la puerta, dudando antes de lanzarme sin paraguas a la carretera fangosa, me pareció oír una vocecilla vacilante que sonaba tras de mi codo.
+Miré hacia abajo. ¿Me habría vuelto loca? ¿Estaba en mis cabales? Era el antiguo barón con su maleta negra y su famoso paraguas, que estaba pidiéndome lo compartiera con él. Pero supe mostrarme lo suficientemente distinguida, con una pizca de timidez, y todo lo convenientemente respetuosa. Juntos caminamos entre el fango y los charcos. Sí, hay algo de peculiarmente íntimo en compartir un paraguas. Algo que viene a ponerle a uno en la misma situación de quien le sacude a un hombre la solapa de la chaqueta. Algo un poquito osado e ingenuo.
+Me perecía por saber por qué se sentaba siempre solo y por qué llevaba aquella maleta siempre consigo, y qué hacía durante todo el día. Pero él, espontáneamente, me dio algunos datos.
+—Temo que se me moje el equipaje —dijo—. Lo llevo siempre conmigo en la maleta, ¡precisa uno tan poca cosa!, porque los criados no son dignos de confianza.
+—Una opinión muy sensata —repliqué. Y luego—: ¿Por qué nos niega usted el placer de su...?
+—Me siento solo porque así puedo comer más —dijo el barón escudriñando la obscuridad—. Mi estómago precisa una gran cantidad de alimento. Pido una ración doble, y la consumo tranquilamente.
+Fue dicho con el tono distinguido propio de un barón.
+—¿Y qué hace durante todo el día?
+—Consumir alimentos en mi cuarto —repuso con palabras que cerraron la conversación tan bruscamente como cerró el paraguas.
+A nuestra llegada estuvo a punto de declararse un motín en la pensión. Subí corriendo hasta la mitad de la escalera para dar al barón, desde el descansillo, las gracias en voz bien alta por haberme acompañado.
+Él respondió distintamente:
+—De nada.
+Herr Oberlehrer tuvo la atención de enviarme aquella misma noche un ramo de flores, y Frau Oberregierungsrat me pidió el patrón para un gorrito de niño.
+Al día siguiente el barón había partido.
+Sic transit gloria teutones mundi.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

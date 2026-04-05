@@ -1,0 +1,47 @@
+---
+layout: story
+title: La historia del hombre leopardo
+slug: pardo
+source: https://www.literatura.us/idiomas/london/pardo.html
+tags:
+  - pardo
+  - london
+---
+Jack London
+(San Francisco, California, 1876 – Glen Ellen, California, 1916)
+La historia del hombre leopardo (1903)
+(“The Leopard Man’s Story”)
+Originalmente publicado en la revista Leslie’s Weekly (agosto de 1903);
+Moon-Face and Other Stories
+(Nueva York:
+Macmillan Company, 1906, 273 págs.)
+Había en sus ojos una mirada distraída, perdida, y su voz triste, insistente, dulce como la de una doncella, parecía la representación apacible de una melancolía profundamente arraigada. Era el hombre leopardo, pero no lo parecía. Su profesión, su medio de vida, consistía en aparecer en una jaula de leopardos amaestrados ante públicos numerosos, a los que emocionaba mediante ciertas exhibiciones de valor por las que sus empresarios lo recompensaban a una escala proporcionada a las emociones que producía.
+Como digo, no lo parecía. Era estrecho de caderas, estrecho de hombros y anémico, aunque parecía agobiado no tanto por la melancolía como por una tristeza grata y discreta, que soportaba tan gratamente y con la misma discreción. Durante una hora yo había intentado sacarle una historia, pero al parecer carecía de imaginación. Para él no había ningún atractivo en su vistosa carrera, ningún hecho atrevido, ninguna emoción…, tan solo una gris monotonía y un aburrimiento infinito.
+¿Leones? ¡Oh, sí! Había peleado con ellos. No fue nada. Lo único que había que hacer era permanecer sobrio. Cualquiera podía parar los pies a un león con un simple palo. Él había lidiado con uno durante media hora hacía tiempo. Le pegaba en el hocico cada vez que se abalanzaba, y cuando actuaba con cautela atacando con la cabeza baja, pues bien, lo único que tenía que hacer era extender la pierna. Cuando el león echaba mano a la pierna, la retiraba y volvía a pegarle detrás del hocico. Nada más.
+Con la mirada perdida y su flujo de palabras dulces me mostró sus cicatrices. Tenía muchas, y una reciente en el hombro donde una tigresa lo había alcanzado y había llegado hasta el hueso. Me imaginé las rasgaduras hábilmente zurcidas que tendría en la chaqueta. Su brazo derecho, desde el codo hasta la muñeca, parecía que lo hubieran pasado por una trilladora, de los estragos producidos por garras y dientes. Pero no era nada, decía, las viejas heridas solo lo molestaban un poco cuando llegaba el tiempo lluvioso.
+De pronto su rostro se iluminó al recordar algo, pues deseaba tanto contarme una historia como yo oírla.
+—Supongo que habrá oído hablar del domador de leones a quien otro hombre detestaba, ¿verdad? —me preguntó.
+Hizo una pausa y miró pensativamente a un león enfermo en la jaula de enfrente.
+—Tiene dolor de muelas —explicó—. Pues bien, para el público la mayor atracción era que el domador de leones metiera la cabeza en la boca de un león. El hombre que lo detestaba asistía a cada actuación suya con la esperanza de ver que el león mascase. Seguía el espectáculo por todo el país. Los años pasaban y él envejecía, y el domador de leones envejecía, y el león envejecía. Y por fin un día, sentado en un asiento delantero, vio lo que había esperado. El león mascó, y no hubo ninguna necesidad de llamar a un médico.
+El hombre leopardo echó un vistazo fortuito a las uñas de sus dedos de una manera que habría sido crítica si no hubiese sido tan triste.
+—Bueno, es lo que yo llamo paciencia —continuó—, y es mi estilo. Pero no era el estilo de un individuo que yo conocía. Era un tragasables y malabarista francés, bajo, delgado, diminuto. De Ville, se hacía llamar, y tenía una linda esposa. Ella era trapecista y solía tirarse de cabeza a una red desde lo alto de la carpa, dando una vuelta de campana tan estupenda como quieras.
+De Ville tenía un genio vivo, tan vivo como su mano, y su mano era tan viva como la zarpa de un tigre. Un día, porque el maestro de ceremonias lo llamó comerranas, o algo parecido y quizás un poco peor, lo empujó contra el fondo de pino blando que usaba en su número de lanzamiento de cuchillo, tan rápido que el maestro de ceremonias no tuvo tiempo para pensar y allí, delante del público, De Ville siguió lanzando sus cuchillos, clavándolos en la madera todo alrededor del maestro de ceremonias, tan cerca que atravesaron su ropa y la mayor parte de ellos penetraron en la piel.
+Los clowns tuvieron que arrancar los cuchillos para soltarlo, pues estaba bien sujeto. De modo que circuló la noticia de que había que tener cuidado con De Ville, y nadie se atrevía apenas a ser más que atento con su esposa. Y además ella era una bruja traviesa, solo que todo el mundo le tenía miedo a De Ville.
+Pero había un hombre, Wallace, que no le tenía miedo a nada. Era el domador de leones, y empleaba el mismo truco de meter la cabeza en la boca del león. La había metido en la boca de alguno de ellos, aunque su preferido era Augustus, una enorme bestia de buen carácter, con la que siempre se podía contar.
+Como iba diciendo, Wallace (Wallace el Rey lo llamábamos) no le tenía miedo a nada, vivo o muerto. Era un rey, ya lo creo. Lo he visto borracho y, por una apuesta, entrar en la jaula de un león que se había vuelto peligroso, y sin un palo acabar con él a golpes. Lo hacía nada más que con su puño en pleno hocico.
+Madame de Ville…
+Al oír un revuelo a nuestras espaldas, el hombre leopardo se volvió discretamente. Era una jaula dividida, y un gran lobo gris le había agarrado una pata a un mono, que asomaba por el enrejado y alrededor del tabique, y estaba intentando arrancársela a viva fuerza. El brazo parecía estirarse cada vez más como un elástico grueso, y los compañeros del desventurado mono estaban armando un terrible alboroto. No había ningún guarda cerca, así que el hombre leopardo dio un par de pasos para aproximarse, asestó al lobo un golpe fuerte en el hocico con el bastón liviano que llevaba, y regresó con una lánguida sonrisa de disculpa para reanudar su frase inacabada como si no hubiera habido ninguna interrupción.
+—… Miró a Wallace el Rey y Wallace el Rey la miró a ella, mientras De Ville ponía mala cara. Advertimos a Wallace, pero fue inútil. Se rio de nosotros, como se rio de De Ville un día cuando este metió la cabeza en un cubo de engrudo porque quería pelea.
+De Ville estaba en un verdadero lío…, lo ayudé a salir; pero él estaba más fresco que una lechuga y no amenazaba. Pero reconocí un brillo en sus ojos que a menudo había visto en los ojos de las fieras, e hice todo lo posible para darle a Wallace una última advertencia. Él se rio, pero después de eso ya no miró tanto en dirección de Madame de Ville.
+Pasaron varios meses. Nada había sucedido y yo empezaba a creer que no había nada que temer. Por entonces estábamos en el Oeste, actuando en San Francisco. Durante la función vespertina, cuando la gran carpa estaba llena de mujeres y niños, estaba yo buscando a Red Denny, el jefe del equipo de montaje, que se había llevado mi navaja.
+Al pasar por delante de una de las tiendas donde se vestían los artistas, miré a través de un agujero en la lona para comprobar si podía localizarlo. No estaba allí, pero justo delante de mí vi a Wallace el Rey, en mallas, esperando su turno para salir a la pista con su jaula de leones amaestrados. Estaba observando muy divertido una pelea entre una pareja de trapecistas. Las demás personas de la tienda observaban lo mismo, a excepción de De Ville, que, me di cuenta, miraba fijamente a Wallace con manifiesto odio. Wallace y los demás estaban demasiados ocupados siguiendo la pelea para darse cuenta de eso y de lo que siguió.
+Pero yo lo vi a través del agujero en la lona. De Ville sacó su pañuelo del bolsillo, hizo como si se enjugase con él el sudor del rostro (era un día caluroso), y al mismo tiempo pasó por detrás de Wallace. La mirada me preocupó en aquel momento, pues no solo vi en ella odio, sino también júbilo.
+«De Ville soportará la observación», me dije, y realmente respiré más tranquilo cuando lo vi salir por la entrada a los terrenos del circo y subir a un tranvía en dirección al centro de la ciudad. Pocos minutos después me encontraba en la carpa, y había alcanzado a Red Denny. Wallace el Rey estaba haciendo su número y tenía fascinado al público. Estaba de muy mal humor, y había excitado a todos los leones hasta hacerlos gruñir, mejor dicho, a todos excepto al viejo Augustus, que estaba demasiado gordo y perezoso y viejo para excitarse por algo.
+Finalmente Wallace restalló su látigo contra las rodillas del viejo león y lo puso en situación. El viejo Augustus, mirando con asombro pero afablemente, abrió la boca y Wallace metió en ella la cabeza. Acto seguido las fauces se juntaron, y la mascaron, justo así.
+El hombre leopardo sonrió de un modo dulce y melancólico, y la mirada perdida volvió a sus ojos.
+—Y ese fue el final de Wallace el Rey —prosiguió con su voz baja, triste—. Después de que se calmara el alboroto esperé el momento oportuno y me agaché a oler la cabeza de Wallace. Luego estornudé.
+—¿Era…? —pregunté con vacilante impaciencia.
+—Rapé…, que De Ville dejó caer en su pelo en la tienda donde se vestían los artistas. El viejo Augustus nunca tuvo intención de hacerlo. Solamente estornudó.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

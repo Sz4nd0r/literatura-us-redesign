@@ -1,0 +1,133 @@
+---
+layout: story
+title: El negro y el viejo del hocino
+slug: am_negro
+source: https://www.literatura.us/idiomas/am/am_negro.html
+tags:
+  - am_negro
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+El negro y el viejo del hocino (1948)
+(“Il negro e il vecchio dalla roncola”)
+L’Amore coniugale e altri racconti
+(Milán: Bompiani, 1949, 324 págs.);
+Racconti (1927-1951)
+(Milán: Bompiani, 1952, 697 págs.)
+Cuando entraron en el pinar se quedaron atónitos un instante: bajo la alta cúpula arbórea, igual que bajo las arcadas y las bóvedas de un vasto edificio colectivo, cuartel o lazareto, se ofrecía ante sus ojos todo un hormigueante campamento. Por doquier, adosados a los troncos de los pinos o a los arbustos, coches militares —verdes con la estrella blanca— del ejército americano; por doquier, soldados agrupados en torno a almuerzos improvisados sobre periódicos o alrededor de gramófonos abiertos; por doquier, cajas de conservas despanzurradas, botellas de cerveza vacías, papeles y residuos. Otros soldados vagabundeaban o dormían; dos de ellos, con camiseta sin mangas, se enviaban una pelota con manoplas de cuero, en un claro.
+—¡Cuántos soldados! —dijo Cosimo, falsamente—. Es imposible ir a los baños... Hay que ir a otro lado.
+Estaba encantado ante este vivac que le proporcionaba un pretexto para llevarse a Cora lejos de las casetas públicas del establecimiento de baños, a cualquier lugar apartado. Ella contestó:
+—A mí no me molestan los soldados.
+—A mí, sí —replicó Cosimo; y dirigió el coche hacia un sendero lateral.
+—Bueno, vamos —advirtió ella tras un momento—, pero tienes que prometerme que te portarás bien.
+Cosimo no dijo nada.
+Recorrieron el sendero incierto y tortuoso a través de los tupidos arbustos del bosque bajo hasta donde fue posible. En un claro, desde el que una especie de caminito parecía dirigirse en derechura al mar, se detuvieron. Cosimo bajó, cogió la bolsa de cuero que contenía el paquete del almuerzo y los trajes de baño y después ayudó a Cora a bajar. Ella alargó las piernas fuera del coche, con un movimiento casi convulsivo, y el traje de tela amarilla se le abrió hasta la ingle dejando al descubierto sus muslos magníficos, rectos, pesados y apretados. Cosimo no pudo menos de pensar que estaba desnuda bajo su traje y de pronto se sintió feliz, como presintiendo una aventura fácil e intensa. En silencio se encaminó con ella hacia el mar.
+El caminito era herboso y los pinos se inclinaban a ambos lados sobre sus cabezas. Luego los pinos ralearon y los sustituyó el matorral. Entre las hierbas aparecieron las primeras lenguas de arena. Por último vieron el mar, centelleante, azul e inmóvil bajo el sol.
+—No veo llegada la hora de zambullirme —dijo ella, con voz ansiosa.
+Sudaba profusamente por el vestido, bajo las axilas, y a cada paso se le abría la falda, y las piernas avanzaban impacientes, como si hubieran querido ayudar a las caderas a librarse de ella. Ahora avanzaban con dificultad, entre las dunas, sobre la arena punzante, sembrada de cardos mezclados con piedras. Luego atravesaron la playa y empezaron a caminar a lo largo del mar, detrás de las orlas negras que las olas dejaban en la orilla.
+Cosimo trataba de llevar a Cora lo más lejos posible de los baños. Aquella parte de la playa, a decir verdad, estaba desierta, pero unas barcas varadas y unos techos cónicos de paja ennegrecida, como los de las cabañas africanas, que asomaban detrás de las dunas revelaban la presencia de una aldea de pescadores.
+—Vamos hacia allá —dijo, indicando unos restos que sobresalían en la orilla, después de la última barca.
+Cora no dijo nada; caminaba ante él, con los zapatos en la mano, y se divertía imprimiendo el pie desnudo en la arena hinchada por el agua.
+El se retrasó algo para admirarla a sus anchas. Cora, a sus diecinueve años, era ya opulenta, se comprendía que a los veinticinco sería una verdadera matrona. Tenía, reflexionó tratando de desviar su deseo con imágenes y comparaciones, un tipo como ciertas botellas anchas en el centro y estrechas en el cuello y la base. Las caderas, rotundas y macizas, tan prominentes que la falda parecía suspendida en el vacío y ondeaba blandamente a cada paso, como un miriñaque, se estrangulaban pronto en la esbeltez de la cintura y la exigüidad de las rodillas. Sobre la cintura, el dorso era de forma delicada, casi grácil, con brazos finos; bajo las rodillas, las piernas, casi sin pantorrillas, eran largas y finas, con pies minúsculos. Pero la verdadera belleza de ese cuerpo, como bien sabía, no era el dorso, sino el vientre. Cora, como ciertas estatuas clásicas, tenía un pecho pequeño, pero una barriga prominente y colmada, inocente como la de un niño, aunque potente e impetuosa, semejante a un orbe de carne morena en la que el ombligo desaparecía, tragado. Aquel vientre parecía prometer una sensualidad intensa, aunque sana; en cambio, con gran pena de Cosimo, Cora era fría, ya que no frígida. Parecía adormilada en su buen sentido de muchacha modesta e ignorante, mecanógrafa de profesión, dulce pero no sentimental. A veces, para pincharla, Cosimo le decía que su destino era criar una decena de niños y ponerse enorme. Cora no protestaba.
+Llegados junto a los restos, subieron por la playa hasta las dunas. Cosimo tiró al suelo la bolsa, se sentó y empezó a quitarse los zapatos, llenos de arena. Cora se arrodilló, abrió la bolsa, sacó dos trapitos de color y dijo con su voz arrastrada y bonachona:
+—Voy a desnudarme... Tú, date la vuelta... Pero si no estás seguro de poderte quedar de espaldas, dímelo ya... e iré a desvestirme detrás de los arbustos.
+Cosimo no pudo menos que sentir despecho ante esta frase. No lo ofendía tanto la precaución púdica como el tono, enteramente desprovisto de coquetería, casi duro en su bondad. Contestó secamente:
+—Puedes estar tranquila... No me volveré.
+Ella no dijo nada y Cosimo, de espaldas, miró hacia el mar esperando que acabase. Experimentaba un intenso deseo de volverse y gritarle: “¡Déjame que te vea!... ¡Eres tan hermosa!”, pero resistió la tentación y no se movió hasta que la dulce voz indiferente le advirtió:
+—Ya terminé... Puedes volverte.
+Entonces se dio la vuelta y la vio erguida ante él, con el seno apretado por una tira floreada y el pubis recubierto por un triángulo de la misma tela. En el vértice de las caderas, el bañador se reducía a un botón y un ojal al que estaba enganchada la parte posterior. Ella alzó los brazos, erguida, con las piernas unidas y el vientre plano, cogió en un haz los cabellos y los torció para meterlos en el gorro; su cara aparecía simple y seria, con los ojos negros redondos y algo saltones, la nariz larga y recta y la boca carnosa de expresión desconfiada.
+—Me voy a bañar —anunció.
+Y se alejó, contoneándose sobre las caderas, con el vientre hacia adelante y los hombros y los brazos hacía atrás. Cosimo se puso a toda prisa su traje de baño y se reunió con ella a la carrera, a través de la playa.
+—Bañémonos juntos —dijo, cogiéndole la mano.
+Ella no le negó la mano y apresuró el paso. Pero cuando estuvieron en la orilla se apartó de él y se lanzó al agua, de cabeza, y las espléndidas piernas fueron lo último que desapareció entre las olas. Asomó a lo lejos y empezó a nadar vigorosamente. “Hasta la vista”, pensó Cosimo, contrariado. Poco amante de la natación, se quedó chapoteando en la orilla.
+Cora nadó mucho tiempo, concienzudamente, disfrutando del mar, olvidada, al parecer, de su compañero. Por último volvió a la orilla caminando despacio en el agua, sobre el fondo arenoso. Pero cuando el agua le llegó a la ingle se detuvo para quitarse el gorro. El agua le cortaba las caderas en el punto más ancho, formando
+una base líquida y centelleante para su vientre moreno. Alrededor del ombligo, el baño había dejado numerosas gotitas y parecía que el vientre sudaba, ansioso y cálido, como un cántaro lleno de agua expuesto al sol. El sintió de nuevo un intenso deseo y se alejó por la orilla par mirarla mejor. Ella sacudió el pelo apretado por el gorro y después dijo:
+—¿Y si comiésemos?... ¡Tengo una gazuza!
+Cosimo se mordió los labios; cada vez que Cora hablaba su deseo se apagaba y cedía su puesto al despecho.
+Volvieron a la playa, allá donde, a espaldas de las dunas, habían dejado la bolsa y la ropa. Cora se arrodilló y abrió el paquete del almuerzo. Parecía hambrienta y cogió en seguida un bocadillo, sin sentarse más cómodamente, arrodillada en la arena, con el vientre redondo y desnudo desbordándose sobre los poderosos muslos
+unidos, el pelo echado a un lado sobre la delicada espalda. Cosimo, en cambio, comía sin ganas, el deseo de los sentidos le quitaba el apetito. Mientras comía, Cora
+hablaba confidencialmente y a Cosimo le habría gustado que se callara, porque aquella charla bonachona privaba de todo sentido a su belleza y le recordaba hasta qué punto ella era fría y carente de imaginación. Ella narraba un incidente muy común en esa época, cuando los aliados acababan de llegar y cualquier muchacha de Roma estaba expuesta al asalto de los soldados:
+—Ese oficial me resultaba simpático, pero nada más... Hace unos días me dijo que fuera a su oficina, que me daría trabajo... Y yo fui, nunca se sabe... Pero tan pronto como llegué, comprendí de dónde soplaba el aire... Con los americanos se entiende en seguida... Ante todo se sentó en la mesa... luego me suelta unas frases, ¿sabes?, alusivas... Por último me coge la mano... Yo le dije entonces: las manos quietas, ante todo... Si me quiere como mecanógrafa, está bien..., pero si necesita otra cosa, hay muchas chicas en Via Veneto que lo están deseando... Coja una de ésas... Fingía no entender, pero lo entendió de sobra... Hasta el punto de que, poco después, con el pretexto de que no era taquígrafa, me despidió...
+—Bah —dijo Cosimo, tratando de bromear—, después de todo, ese oficial no tenía mal gusto.
+—Sí, pero ¿a mí qué me importa? —dijo ella, mordiendo un segundo bocadillo—. Ante todo, quiero que me respeten... Quisiera ver cómo se comportan en su país, con sus mujeres... Desde luego no actuarían así.
+Era árida y seca a fuerza de sensata, pensó Cosimo; pero este buen sentido era tan intenso que incluso parecía misterioso.
+—Yo habría hecho lo mismo —dijo.
+—Vosotros, los hombres, siempre estáis de acuerdo —sentenció ella.
+Cosimo dejó el bocadillo sobre el papel aceitado y arrastrándose por la arena, se le acercó:
+—Dame un beso.
+—Nada de besos.
+—Dame un beso.
+Ella se inclinó y besó a Cosimo en la frente.
+—Ya está.
+Cosimo se rió y rodeándole las caderas con los dos brazos la besó con fuerza en el vientre, hundiendo el rostro en la carne cálida y sudada, bajo la cintura. Ella se puso en seguida de pie, echándole encima la arena.
+—¿Qué te pasa?
+—Nada, perdóname —dijo Cosimo, tristemente.
+Acabaron de comer en silencio. Cosimo estaba ofendido pero Cora parecía sólo hambrienta. Se olvidaba pronto de las afrentas y ésta era una prueba más de su completa falta de coquetería. Cuando estaban recogiendo los restos y los papeles una sombra se detuvo entre ellos y una voz interrogó:
+—¿Almejas?
+Alzaron los ojos: ante ellos estaba un pescador que había llegado sin hacer ruido por la arena. Bajo, delgado, de piel oscura como un gitano, tenía cara de viejo, con la boca hundida bajo la nariz aguileña y barbilla prominente. Pero el pelo, lustroso y vivo como algas, que colgaba enmarañado sobre los ojos brillantes, era negro. Sonriente, tendía un delantal lleno de almejas blanco azuladas. Vestía sólo un par de calzoncillos de gruesa tela grisácea y por una abertura lateral mostraba la pierna seca y morena que parecía de bronce, con los músculos y los tendones en relieve, visibles como en una pieza anatómica. Tenía el torso desnudo y el pelo, en el pecho, era gris. Enganchado en la cintura llevaba un hocino de leñador y sobre el hombro el aparejo de pesca.
+—No, gracias —dijo Cosimo.
+Cora dijo, sin mirar al pescador:
+—Se corre el riesgo de coger el tifus.
+El viejo rió, enseñando una boca negra casi enteramente desprovista de dientes:
+—¡Por favor!... Nosotros las comemos siempre —e indicó, más allá de las dunas, los tejados de paja de las cabañas.
+—¿Quiere un poco de vino? —ofreció Cosimo.
+El viejo dijo:
+—Gracias —cogió el vaso, lo alzó en un mudo brindis y se lo echó al coleto de un trago, limpiándose después la boca con el dorso de la mano.
+Repitió luego, por pura fórmula:
+—Entonces, ¿no quieren almejas? —y sin esperar la respuesta se dirigió hacia las cabañas, con el lento paso de sus poderosas piernas.
+—¿Has visto qué hermoso era? —preguntó Cosimo, olvidando por un momento la ignorancia y la insensibilidad de su compañera.
+—Un viejo —dijo ella, torciendo la boca.
+Habían acabado de comer y Cora tiró los restos más allá de las dunas. Después se tendió boca abajo, diciendo:
+—Ahora, tomaré el sol.
+Tendió las manos a la espalda y desabrochó en el dorso la tira que le rodeaba el pecho. Aplastando en la arena sus pequeñas tetas blancas, procuró, después, enrollar sobre las nalgas el bañador hasta reducirlo a un exiguo triángulo. Así, boca abajo, las caderas parecían expandirse; bajo el hueco de los riñones se veía la barriga hundirse en la arena.
+—¿Por qué no te lo quitas del todo? —se burló Cosimo.
+Ella contestó seriamente:
+—Hace unos días, en Castel Fusano, me había tumbado desnuda al sol... Era un sitio donde no había ni un alma... Pues bien, no te lo creerás... un aeroplano, al pasar, me vio y empezó a volar sobre la playa, cada vez más bajo... Tuve que irme.
+Ahora el sol quemaba con fuerza y Cosimo, cegado, no encontraba nada qué decir. Por otra parte, se daba cuenta de que la canícula, el baño y la comida habían acabado de embrutecer a Cora, haciéndola aún más fría e insensible que de costumbre. Sin embargo, se tendió al lado de ella, que permanecía inmóvil, con la cara entre los brazos, y la llamó por su nombre. Ella se estremeció, quizás ya dormía, y se quitó con una mano el pelo de la cara, descubriendo un solo ojo.
+—Dame un beso —dijo Cosimo, tontamente.
+—¡Uf! ¡Tú y tus besos! —dijo ella—. Me prometiste que te portarías bien.
+—Se prometen tantas cosas...
+—Si lo llego a saber, voy a los baños...
+—¿En medio de los soldados?
+—¿Qué mal hay en ello?... Allí, por lo menos, me habrías dejado tranquila.
+Eran palabras duras, aunque dichas con tono bonachón. Cosimo, para disimular su contrariedad, fingió dormir también. Se quedó así un buen rato, irritado y lleno de aburrimiento, con la cara entre los brazos y la boca sobre la arena. Estaba a punto de dormirse de veras cuando oyó la voz de ella, que decía groseramente:
+—Bueno, ¿quieres dejarme en paz de una vez?
+“¿Qué le pasa ahora?”, se preguntó asombrado. Pensó en contestarle con el mismo tono, pero cuando alzó los ojos vio sobre la espalda de Cora una gran mano negra, de uñas violeta. El corazón le dio un brinco. Después una voz dulce, excitada, de acento extranjero, invocó canturreando:
+—Señorita... Señorita...
+Esta vez Cora advirtió su error y se sentó casi al mismo tiempo que él. Entonces vieron, acurrucado junto a ellos, a un negro con uniforme de soldado. Debía de ser muy alto, a juzgar por la anchura de sus hombros y la longitud de las piernas dobladas. Era negrísimo, con un lustroso reflejo de sudor que descendía por su frente, a través de la ancha nariz, hasta los labios violáceos, contraídos en una sonrisa torpe y como disgustada. El cráneo estaba afeitado y el cuello, al asomar, musculoso y cruel, por la blusa abierta, daba una sensación de bestial robustez.
+Cora, sentada, retrocedía por la arena. Cosimo preguntó con esfuerzo:
+—¿Qué quiere?
+El negro se dirigió a Cora, pidiéndole con una voz afligida y casi quejumbrosa:
+—Señorita... ven conmigo.
+Y señaló con el dedo hacia la lejanía marina.
+Cosimo sentía que su pecho se apretaba como si fuera a ahogarse y comprendía que se había puesto muy pálido. Sin embargo, logró proferir:
+—¿Está loco?
+A lo cual, el negro, sin mirarlo, siempre dirigiéndose a Cora y cogiéndola de un brazo, repitió con tono aún más apremiante:
+—Ven, señorita... ven... Vente conmigo.
+—¡Fuera! ¡Largo de aquí! —gritó Cosimo con voz fuerte. El negro alzó los asombrados ojos hacia él y después se puso en pie. Era un gigante, y de pie su cabeza sin frente y de nuca recta parecía minúscula. Cosimo pensó que iba a irse y se asombró de haber salido del paso a tan poca costa. Pero el negro no se fue; miró a su alrededor, se inclinó, cogió de la arena un tronco de madera corroída y lo agitó amenazadoramente ante la nariz de Cosimo, diciendo:
+—¡Fuera tú..., fuera ahora mismo!
+Antes de haber podido darse cuenta de lo que hacía, Cosimo emprendió la fuga. Corrió un trecho, después se volvió y vio que el negro estaba de pie junto a Cora, también de pie, y que la sujetaba de un brazo. Entonces, jadeante, con el corazón alborotado, se aplastó mecánicamente detrás de una duna.
+El negro hablaba y después él y Cora se dirigieron sin prisa a través de la playa, hacia el mar. El negro llevaba a Cora por un brazo e inclinando cortésmente la
+nuca pelada, le hablaba. A su lado, Cora parecía baja e incluso sus caderas, que poco antes le habían parecido macizas a Cosimo, resultaban exiguas. Cuando llegaron al mar, empezaron a andar uno al lado del otro, en dirección a las montañas. Cora caminaba dócilmente, meneando como de costumbre las caderas; el negro soltó su brazo y Cora continuó andando al lado del negro. No era una mujer arrastrada a la fuerza por un bruto, pensó Cosimo, aterrado, eran dos amigos, dos enamorados, dos amantes que paseaban juntos. De pronto se le ocurrió que quizás la muchacha no estaba demasiado
+descontenta de la aventura. Recordó haber oído hablar de la atracción que los negros ejercían sobre ciertas mujeres blancas y pensó que Cora era una de ellas. Mientras tanto los dos se alejaban y el negro había vuelto a coger ahora el brazo de Cora, pero ya no, al parecer, para que estuviera quieta, sino para manifestarle, con un contacto carnal, su deseo. Aterrado, indignado, él empezó a insultarla en voz baja:
+—¡Cerda!... Conmigo, no, pero con el negro, sí.
+Los dos seguían caminando y él temía que en cualquier momento iban a subir por la playa y a ocultarse tras las dunas.
+Mientras los miraba descubrió en el mar, a no mucha distancia de ellos, al pescador de almejas. Solitario, las olas centelleantes y azules hasta las caderas, caminaba de espaldas, rastreando el fondo arenoso con su pequeña draga de mimbres. Los tres estaban lejos, perdidos en el temblor del aire encendido, sobre el deslumbrante fondo del mar.
+—¡Cerda!... ¡Cerda! —repitió, con los ojos llenos de lágrimas.
+Y después, de repente, ocurrió algo que no esperaba. Cora se apartó con un salto del negro, entró en el agua y corrió a refugiarse detrás del pescador, poniéndole las manos en los hombros.
+El negro se había detenido; el pescador se liberó sin prisas de las correas de su aparejo de pesca y salió lentamente del mar. Ahora el pescador estaba en la orilla, ante el negro, y parecía muy pequeño. Después brilló algo al sol y Cosimo comprendió que era el hocino. El viejo extendía ante sí el hocino, mientras hablaba; el gesto del hocino era más oratorio que amenazador y parecía que el negro escuchaba con atención. Después el negro echó a andar, reanudando su lento paseo junto al mar. El viejo se quedó inmóvil en la orilla, con el hocino que centelleaba intensamente al sol. El negro caminaba despacio mientras se alejaba, luego cortó en diagonal a través de la playa y pronto desapareció tras las dunas.
+Entonces el viejo se volvió hacia Cora, que se había quedado en el mar cerca del aparejo de pesca, e hizo un gesto con el hocino, como diciendo: “Vía libre”. Cora salió del agua y se encaminó a lo largo de la orilla. El viejo gritó algo en voz alta, en dirección a las dunas, agitando el hocino, y después regresó al agua. Cora empezó a correr hacia Cosimo que, entre tanto, había salido de su escondite.
+Él temía que tendría que explicar y justificar su cobardía. Le dijo de inmediato, cuando se encontraron:
+—Lo siento... No he hecho muy buen papel.
+Pero ella contestó con sencillez:
+—¿Qué ibas a hacer?... Era un gigante... ¡Pero he pasado un miedo!... Por suerte estaba aquel viejo, con su cuchillo.
+Siguió hablando un rato del peligro de los negros y en general de los soldados, mientras se vestían a toda prisa.
+Tomaron el camino de regreso. El pescador seguía aún allá, en el mar, rastreando la arena, en medio del resplandor del sol, negro y pequeño. Cosimo dijo:
+—Volveré y le traeré un regalo.
+—Harás muy bien —contestó ella, sin sombra de desprecio.
+Pero en el coche, antes de marcharse, de pronto ella le echó los brazos al cuello y lo besó en la boca, larga e intensamente. Entonces, en medio del ardor y la dulzura de ese beso, el primero que recibía, él advirtió algo que no le concernía y que había sido despertado por la voz quejumbrosa y cantarina del negro y por el hocino del pescador. Y sintió, al tiempo, remordimiento y celos.
+(1948)
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

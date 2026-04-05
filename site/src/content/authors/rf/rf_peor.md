@@ -1,0 +1,110 @@
+---
+layout: story
+title: El peor de los venenos
+slug: rf_peor
+source: https://www.literatura.us/idiomas/rf/rf_peor.html
+tags:
+  - rf_peor
+  - rf
+---
+Rubem Fonseca
+(Juiz de Fora, Minas Gerais, Brazil, 1925-)
+El peor de los venenos (2002)
+(“O Pior dos Venenos”)
+Pequenas criaturas
+(São Paulo: Companhia das Letras, 2002, 284 págs.)
+A todos los hombres les gusta que los sienten a mi lado en las grandes cenas que frecuento. Soy inteligente, guapa, atractiva, irónica, tengo imaginación, cultura, soy capaz de mantener un diálogo expresivo con un banquero importante o con un profesor de filosofía, en el caso de que inviten a un profesor de filosofía a una de estas cenas elegantes. ¿Parezco una presumida egocéntrica? ¿Debo mentir, sólo para aparentar modestia?
+Los hombres que se me acercan siempre quieren seducirme. Una mujer, cualquier mujer, hasta la más obtusa, percibe cuando un hombre tiene segundas intenciones. Hay unos ridículamente obvios, otros más sutiles, lidiar con cualquiera de ellos exige talento. Evito las embestidas, pero sin desestimularlos totalmente; la atención masculina galante, siempre que sea respetuosa, es muy agradable, para mí o para cualquier otra mujer. Soy virtuosa, sé cómo comportarme adecuadamente. El único hombre que conocí, en el sentido bíblico, fue mi marido, un hombre rico, influyente. No quiero de ninguna manera perjudicar mi confortable situación familiar.
+Antes de ir a las cenas con lugares asignados, siempre encuentro una manera de verificar, en la mesa que me tocará, los nombres de los otros comensales, manuscritos con rebuscada caligrafía en las tarjetas colocadas frente a los platos. En varias ocasiones cambié las tarjetas, casi siempre de acuerdo con la anfitriona, mudando de placement a algún tipo aburrido que hubiera sido asignado a sentarse a mi lado. Hay hombres ricos, importantes, famosos, pero insoportablemente aburridos. Mi marido, por cierto, es uno de ellos, todos consideran que carece de encanto, lo cual es cierto. Afortunadamente no existe el riesgo de tenerlo junto a mí en esas cenas. La etiqueta no lo permite.
+Dicen que yo hubiera podido elegir otro hombre para casarme, más atractivo y gracioso. En primer lugar, no existen tantos hombres ricos, influyentes, graciosos y, principalmente, generosos, que estén disponibles. Mis amigas se quejan de la tacañería de sus maridos ricachones y yo ya llegué a la conclusión de que así es la mayoría de los maridos, ricos o pobres, todos se quejan de los gastos que hacen las mujeres. Me casé con él porque de alguna manera me gustaba, pero reconozco que con el paso del tiempo mi marido se volvió enfadoso. Además de aburrido, es chaparro y gordito, sé que no debo pensar en él de esa manera, es un hombre que me da todo lo que le pido. Pero ¿qué otro término se puede aplicar a su aspecto físico? ¿Rechoncho? Es peor.
+En este momento estoy desnuda, frente al espejo de mi cuarto, feliz. Mi cuerpo es bonito para mi edad, a final de cuentas ya pasé los cuarenta. Y la lipo, que me hice recientemente, dio un toque final perfecto a los ejercicios que practico en el gimnasio. Me resistí un poco a hacerme la lipo, pero todas mis amigas se la estaban haciendo, y no solamente la lipo, sino el paquete completo, cortes con bisturí o silicones, incluso algunas se hicieron abultar el labio superior, creo que consideran que esa boquita medio salida es sensual, ve tú a saber. Yo no necesito nada de eso, tengo los labios carnosos. Es cierto que una de ellas tenía el labio superior tan delgado y recto que parecía una raya hecha con regla.
+También estoy a dieta, evidentemente, lo cual a veces me deja histérica, pero es importante para mantener una silueta esbelta. Es una tortura comer constantemente ensalada, pescado cocido y cosas del estilo sin poder darle una mordida a un chocolate, a un pay cremoso o incluso a una baguette tostadita. No creo en quien dice que hay dietas sabrosas, eso no es más que uno de esos argumentos que la gente inventa para autoengañarse y sufrir menos.
+Soy unos quince centímetros más alta que mi marido. Él no sabe bailar, no tiene ritmo ni para esas canciones en que las personas apenas sacuden el cuerpo, cada una por su lado. Pero siempre que surge la oportunidad quiere bailar. Un día, invitó a Gabriela a bailar un tango. La infeliz, que es argentina y baila como una profesional, aceptó. Fue algo grotesco, Gabriela se portó como un ángel, después le di un beso y le pedí perdón por mi marido. Pobre, sé que no debería pensar así de un hombre tan bueno, que me da todo lo que le pido, pero aquella vez me dio coraje.
+Este tipo de ideas aparece en mi cabeza constantemente, como ahora, cuando miro golosamente el reflejo de mi desnudez en el espejo. Pero no debemos tener miedo de pensar, tenemos miedo ya de tantas cosas, si nos da miedo pensar, ni siquiera existimos como personas. Me gustaría que mi marido mirara mi cuerpo desnudo, como yo lo estoy mirando, y dijera “tengo ganas de morderte”. ¿Me estaré volviendo lesbiana? Sucede con las mujeres casadas. Me acuerdo de Carlinhos Varela diciéndome en una cena, “tienes unos brazos lindos, me tengo que contener para no mordértelos ahora mismo”. Un escalofrío me recorrió el cuerpo. Le respondí, “Carlinhos, eres muy chistoso, pero dices muchas estupideces”. Usé esa palabra fuerte, estupideces, y evité platicar con él durante el resto de la cena. Aquél asunto de la mujer de César.
+Mi marido nunca me dio una mordida. Confieso que detesto quedarme a solas con él, y cuando no puedo evitarlo soy paciente, amable, no demuestro el disgusto que siento. Si él quiere quedarse callado, hago lo mismo, si quiere ir a una subasta —mi marido colecciona floreros antiguos—, lo acompaño; a veces hasta vemos juntos los noticieros financieros de la televisión por cable. Afortunadamente, dormimos en cuartos separados, lo cual es común entre los matrimonios de nuestro nivel socioeconómico. De noche, en la cama, insomne, suspiro, me doy vueltas de un lado a otro sin saber bien por qué. En realidad sé la razón, pero no quiero hablar del tema.
+En la cena de hoy tengo la fortuna de que hayan asignado mi lugar al lado de Dudu Meirelles. Él es chistoso, es un hombre interesante pero con fama de conquistador, si le das un dedo, quiere todo el brazo. En cierto momento me dijo al oído: “Por ti hago cualquier locura, abandono a mi mujer, vendo mis caballos, mi departamento en París, dejo de jugar ping pong”.
+Bebo un trago de vino para ganar tiempo y encontrar una buena respuesta.
+“¿El ping pong fue una metáfora inconsciente? ¿Las pelotas simbolizan a las mujeres que, según dicen, lanzas de un lado a otro?”
+Él se queda indeciso, sin saber qué decir, sorprendido por descubrir que soy inteligente y graciosa, tal vez un poco ofendido. Los hombres son muy tontos, mucho más vanidosos que las mujeres. El promedio de las mujeres es más inteligente que el promedio de los hombres, y no me refiero a la intuición, es necesario acabar con esa estupidez de decir que somos muy intuitivas. Con eso, ellos quieren sugerir que pensamos con los ovarios.
+Mis amigas sienten envidia del interés que los hombres demuestran por mí, sean solteros o casados, incluso sus propios maridos. Chico Mattos Soares, considerado el mejor partido de la ciudad, rico, guapo, cuarentón, un solterón empedernido, disputado por todas, me dijo en la mesa, con un dejo de tristeza en la voz: “Si no fueras la esposa de un amigo mío, te propondría matrimonio” y me miró a los ojos como quien dice, “lee, siente mi mirada, estoy diciendo la verdad”. Observé, en sus ojos castaño claros, que no estaba mintiendo. Fue un momento mágico, que Chico intentó romper diciendo, “perdóname por haber sido tan imprudente”, pero esa delicadeza me dejó aún más conmovida.
+Por la noche soñé con Chico. Él sostenía mi mano y nos reíamos felices. Chico tiene labios bonitos, dientes perfectos, es más alto que yo, creo que no existe un hombre más elegante y distinguido, y no es a costa de Armani, él se viste de manera casual, usa camisas polo marca Hering, su reloj es un Seiko. El dinero no compra la elegancia, compra su simulación.
+Mi marido y yo estamos desayunando juntos. Él lee el periódico y responde a todo lo que le digo o pregunto con monosílabos “mmm mmm”. En un impulso, que me sorprende, le arranco el periódico de las manos.
+“Me quiero divorciar”, le digo.
+“No me parece gracioso”, responde.
+No cree que yo hable en serio. Le falta sentido del humor, no sabe cuándo alguien está bromeando y por lo tanto tampoco percibe lo contrario.
+“¿Tenemos que hablar con tu abogado, o qué?”
+“¿Qué tontería es ésta?”
+“Voy a hablar bien despacio. Ya no quiero vivir contigo”.
+Por mi tono de voz, entiende finalmente lo que está pasando. Su boca se queda abierta, como la de alguien en estado de shock.
+“¿Qué hice?”, pregunta.
+“Nada”, respondo.
+“¿Existe otro hombre?”
+“No, es algo sólo mío. Puedes pensar que es una locura, tal vez lo sea, pero no hay remedio, quiero separarme de ti.”
+Él llama a su despacho, avisa que no va a trabajar, debe haber sorprendido a la secretaria y a los asesores, él nunca falta al despacho. Sé que pretende disuadirme. Durante el resto del día intenta convencerme, de manera extenuante, pobre. Me pide que espere un poco, que deje pasar algún tiempo, sugiere que consultemos a un psicólogo, que hagamos un viaje, él no puede ausentarse, la situación económica del país exige su presencia al frente de los negocios, pero hará un viaje conmigo a donde yo quiera. Si prefiero, puedo viajar sola. Todo para ganar tiempo.
+“Sin ti, mi vida se acaba.”
+Me mantengo firme, a pesar de sentir lástima de su aire infeliz y desgraciado. Quiero separarme inmediatamente.
+Deja la casa, nuestra casa, diciendo, “la casa es tuya, y todo lo que hay en ella, más lo que me pidas”. El infeliz, el pobre diablo generoso y bueno, me ama, pero yo ya no podía permanecer ligada a él, me sentía carente, frustrada, no quería envejecer a su lado. Y si me iba a separar, que fuera mientras aún pudiera recomenzar mi vida.
+La libertad es una maravilla. Puedes hacer lo que te da la gana sin tener que darle explicaciones a nadie, qué agradable. Estoy divorciada hace seis meses y cada día es mejor que el anterior. Mi marido quería todo en su lugar, sillas, libros, teléfonos inalámbricos, blocs de papel, vasos, cds, ropas, revistas, ceniceros, como si existiera un lugar correcto para cada objeto. No le gustaba que fumara, decía que me hacía daño a mí, y a él como fumador pasivo. Dicen que las mujeres tienen esa manía del orden, pero en mi casa el maníaco era él. Desde niña soy desorganizada, mi madre vivía peleándose conmigo. Reconozco que pierdo mis ante ojos constantemente, nunca encuentro una pluma cuando la necesito, o una determinada prenda, lo que a veces me desespera, y mi irritación acaba recayendo en las sirvientas. Pero esos son contratiempos ínfimos, si se comparan con las subastas de floreros antiguos, el canal Bloomberg, lo aburrido de la presencia de mi marido, que me privaba de la soledad sin hacerme compañía —esa frase es de un escritor francés, no sé dónde metí el libro.
+Una mujer divorciada guapa es muy solicitada. Pero yo no quería una aventura pasajera y, si hago una confesión íntima e incluso de mal gusto, puedo afirmar que no estaba acostumbrada a una vida sexual intensa y por lo tanto no tenía mucha urgencia de encontrar a alguien.
+Rápidamente me vi cercada de lobos que me querían devorar. Sabía que eso sucedería. Rechacé todas las embestidas. Pero cuando Dudu Meirelles me buscó, tontamente coqueteé un poco con él. Luego percibí que Dudu no dejaría de jugar ping pong y mucho menos abandonaría a su mujercita por mí. Felizmente no tuvimos ninguna intimidad, a pesar de su insistencia. Los hombres sólo piensan en sexo. Dejé de contestar a las llamadas de Dudu. Él se dio cuenta de que yo no era una mujer con quien acostarse y después desechar.
+Encuentro de nuevo a Carlinhos Varela en una cena. Como ya dije, vive arrastrando el ala por mí. Había escuchado esa expresión “arrastrar el ala”, pero descubrí su origen cuando vi a un palomo cortejando a una palomita en la plaza Antero de Quental. Pasaba por la plaza para ir a la estética y observé a las palomas. Un palomo macho perseguía a la hembra arrastrando el ala por el piso. El palomo acabó logrando lo que quería, después de mucho tiempo. Algo sin chiste, muy rápido, no sé si valió la pena quedarme tanto tiempo en la plaza observando a las palomas.
+Estoy usando un vestido que muestra mis brazos completamente desnudos, mis brazos son bonitos y me gusta exhibirlos. Carlinhos se acerca, sé que va a arrastrar el ala por mí, dirá que quiere morder mis brazos, seguro de que ahora, divorciada, soy más accesible. Estoy preparada para darle un descolón. Carlinhos, después de saludarme, me dice:
+“¿No crees que hoy es el día más caluroso del verano?” Le respondo que sí, espero lo que sigue, para dar mi respuesta, pero no hay continuación.
+Carlinhos rápidamente procura un pretexto para alejarse, y el idiota ya no me busca, me evita el resto de la fiesta. Confieso que sentí una cierta frustración, tal vez no lo rechazaría, a pesar de que Carlinhos es un cretino. ¡El día más caluroso del verano! ¡Imbécil!
+No he ido a muchas cenas. Ahora sé que muchas de las invitaciones que recibía eran en realidad dirigidas a mi marido. Señor y señora, el señor era el que importaba. Por más que adornara la fiesta, mi contribución era secundaria. Negocios, el mundo es así. En un principio eso me molestó un poco, pero mi amiga Lulu, una cínica amargada, ya me lo había advertido.
+Hoy es un día glorioso. Después de tanto tiempo —¿dos, tres años?— recibo una llamada de Chico Mattos Soares. Me dice que me asome por la ventana de mi departamento para ver la luna. Me siento tan emocionada que ni siquiera puedo hablar bien, mucho menos ver la luna. “¿Vamos a caminar bajo la luna, en el paseo de la playa y tomar agua de coco?”
+Caminamos por el paseo platicando, mi corazón latiendo, estoy impresionada por la presencia fuerte de aquel hombre viril, confiable, guapísimo. Siento una gran felicidad por todo, otro hombre, menos sensible, hubiera sugerido una cita en un lugar sofisticado o en su departamento. Nos sentamos en uno de los kioscos de la playa. Cuando sonríe, tengo ganas de besarlo, pero me contengo, Chico necesita saber que no soy una mujer fácil. Después de que platicamos —no fue por mucho tiempo, me hubiera gustado que nuestro encuentro hubiera durado más—, me lleva a casa, en la puerta de mi edificio toma mi mano y se despide diciendo “yo te hablo”.
+Paso el resto de la noche despierta, horas ante el espejo untándome la crema hidratante que uso en el cuerpo antes de acostarme. Camino por la casa, prendo la televisión, intento leer, pero estoy muy inquieta, no dejo de pensar en él, recuerdo su mirada cariñosa, llena de presagios, no puedo acostarme, quiero que la noche termine y el día llegue rápido para que me llame. Creo que Chico siempre me ha gustado, sólo que no tenía valor para soñar que podía amarlo. Pero ahora ya no estoy, como antes, poseída por una fantasía romántica. Seremos uno para el otro. Soy la mujer más feliz del mundo.
+Chico no me llama, en el fondo debe ser una persona tímida. Cuando tomábamos agua de coco en el kiosco, ni por un instante actuó de manera seductora. Creo que algo le preocupaba, llegué a pensar que se había decepcionado de mi apariencia, engordé un poco durante estos tres años, pero afortunadamente me quité de la cabeza ese pensamiento estúpido, tengo que preservar mi autoestima. Actuaba así por timidez.
+Espero algunos días y lo llamo. No podemos, los dos, quedarnos inertes, sin el valor de tomar la iniciativa. Lo invito a tomar una copa en mi casa.
+Llega a la hora acordada, con pantalones de mezclilla, zapatos tenis y camiseta polo. Me encanta su manera de vestir. Le pregunto si quiere un whiskey. Responde que sí. Mientras bebemos, las primeras palabras que cruzamos me dejan confundida.
+“¿Rui no se llevó los floreros?”
+“No se llevó nada.”
+“Una colección que tardó tanto tiempo en juntar… Rui es un buen tipo.”
+“Sí, lo es.”
+“A mí me cae bien. Es un tipo honesto.”
+“No quiero hablar de Rui. Hablemos de nosotros.”
+“Regrésale los floreros.”
+Mi ropa es provocativa, mis senos se pueden ver a través de la tela, estoy sentada frente a Chico, con las piernas cruzadas, enseñando un poco de mis muslos, y él me habla de los floreros raros de mi marido.
+“Está bien, voy a regresarle los floreros, cambiemos de tema, por favor.”
+Permanecemos callados por algún tiempo.
+“¿Nunca tuviste ganas de besarme?”, le pregunto.
+“¿Quién no tendría?”
+“¿Entonces, por qué no me besas?”
+Sé que estoy siendo atrevida, no actúo como una mujer recatada, pero necesito romper el hielo.
+“Esperaba un incentivo tuyo.”
+Me atrevo, lo beso en la boca. Nos besamos apasionadamente y poco después estamos en la cama. Una maravilla, por primera vez siento un placer embriagante, una gran felicidad, seguidos de una deliciosa sensación de reposo. Es el día más feliz de toda mi vida. No me he acostado con ningún hombre desde que me divorcié.
+Permanezco abrazada a él, en la cama, soñolienta. Cuan­do lo miro, Chico parece pensativo. Mi marido se volteaba al otro lado y se dormía. Chico tiene los ojos muy abiertos.
+“¿En qué estás pensando? A mí también me gusta pensar, pero en este momento no pienso en nada, sólo siento una pereza deliciosa.”
+“Es que oí mi celular, mientras estábamos… Espero una llamada urgente, un negocio complicado que tengo que resolver hoy.”
+“¿En la noche?”
+“Los negocios importantes no tienen horario.”
+“No lo escuché sonar.”
+“Suena muy bajo.”
+“Entonces ve a checarlo.”
+Se levanta. Desnudo, de espaldas, no es tan guapo como de frente. Saca el celular de un bolsillo de los pantalones que había tirado displicentemente en el piso. Mira la pantalla.
+“Lo sabía, que lástima.” Chico pulsa algunas teclas del celular.
+“¿Cuál es el problema? Voy para allá, llama a una junta, ya sabes a quienes.”
+Apaga el aparato. Abre los brazos, desconsolado.
+“Tengo que irme. Desgraciadamente.”
+Se viste aprisa.
+“Yo te llamo”, me dice al salir, después de darme un beso rápido.
+“Voy a regresarle los floreros”, digo.
+“A Rui le va a encantar ese gesto.”
+Esas fueron sus últimas palabras. Chico ya no me buscó, desapareció. La llamada del celular fue una farsa. Chico inventó aquel pretexto, quería librarse rápidamente de mí, creo que le parecí pésima en la cama. ¿Cómo no entendí todos esos indicios, en el paseo y, después, en mi casa? Su aire reservado no era timidez, no sintió atracción por mí en nuestro reencuentro. Y yo lo forcé a acostarse conmigo. Qué estúpida.
+Todavía estoy deprimida por lo que pasó. Tuve ganas de romper los floreros raros, pero mi ex marido no tenía la culpa. Le envié los floreros, y ni siquiera me llamó para agradecerme. Mi ex marido se casó nuevamente. Me acordé de él diciéndome, con lágrimas en los ojos, que sin mí su vida se iba a acabar.
+Estoy en la estética con mi amiga Lulu, la cínica boquifloja.
+“Con las balzaquianas como nosotras, los hombres sólo quieren un revolcón. Son todos medio impotentes, necesitan muchachitas para tener un segundo aire.”
+“Yo no soy ninguna balzaquiana.”
+“Sé realista como yo, de nada sirve que nos ilusionemos. Mira tu rostro en el espejo. ¿Qué diablos estamos haciendo aquí?”
+“Vine a peinarme, Lulu.”
+“Viniste a pintarte el pelo. ¿Has extendido los brazos y los has sacudido? Hazlo, anda, aprovecha que traes un vestido sin mangas.”
+“¿Estuviste bebiendo?”
+“Si alguien quiere casarse contigo o conmigo es por el dinero que nuestros exmaridos nos dieron, por nuestra casa, el coche con chofer, los empleados, la comida gratis, el confort. Y ese tipo después de algún tiempo ya no va a coger contigo, va a coger con muchachitas cretinas, putitas de carnes tiernas.”
+“Lulu, eres la persona más vulgar y cínica que conozco.”
+“Me volví así, lo hombres me volvieron así.”
+“A mí no me va a pasar eso, ya verás. No me voy a volver una bruja amargada como tú.”
+Por la noche, en la casa, me quedo desnuda frente al espejo, estiro un brazo hacia un lado y lo sacudo, y después el otro. ¿Cómo nunca había visto eso pellejo flojo, que cuelga de mi brazo como una carne muerta? ¿Y las arrugas del rostro? ¿Y los talones con callos? ¿Y la flacidez que reviste mi cuerpo, como una tripa asquerosa? Yo no era así. Dios mío, es mejor que me muera rápido.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

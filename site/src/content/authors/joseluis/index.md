@@ -7,4 +7,48 @@ tags:
   - index
   - joseluis
 ---
-¿Quién es José Luis González? ![](/assets/images/jlg.jpg) José Luis González nació en la República Dominicana, en 1926, de padre puertorriqueño y madre dominicana, y murió en México en 1997. Aunque siempre se consideró puertorriqueño, vivió en México desde 1953 y obtuvo la ciudadanía mexicana en 1955. Cursó la carrera de Ciencias Políticas en Puerto Rico y en Estados Unidos, y recibió la Maestría y el Doctorado en Filosofía y Letras de la Universidad Nacional Autónoma de México. En la UNAM impartió cátedras de Literatura Iberoamericana y Literatura y Sociedad. Fue corresponsal de prensa en Praga, Berlín, París y Varsovia. Ensayista, narrador y perdiodista, José Luis González recibió el Premio Xavier Villaurrutia 1978, con la novela Balada de otro tiempo (México: Alfaguara, 1997), y también recibió dos premios nacionales en Puerto Rico. Obras: Cuentos: En la sombra. Prólogo de Carmen Alicia Cadilla. San Juan, Puerto Rico: Imprenta Venezuela, 1943, 110 págs. Cinco cuentos de sangre. Prólogo de Francisco Matos Paoli. San Juan, Puerto Rico: Imp. Venezuela, 1945, 59 págs. El hombre en la calle. Santurce: Puerto Rico, Bohique, 1948, 75 págs. Paisa —un relato de la emigración—. Prólogo de Luis Enrique Délano. México: Fondo de Cultura Popular, 1950, 71 págs. En este lado. México: Los Presentes, 1954, 180 p. Hay otra edición: En este lado. Edición corregida. La Habana: Nuevo Mundo, 1961, 123 págs. La galería y otros cuentos, México: Era, 1972, 144 págs. Mambrú se fue a la guerra (y otros relatos). México: Joaquín Mortiz, 1972, 205 págs. Cuento de cuentos y once más. México: Extemporáneos, 1973, 125 págs. En Nueva York y otras desgracias. Prólogo de Ángel Rama. México: Siglo XXI, 1973, 140 p. Hay otra edición: En Nueva York y otras desgracias. Prólogo de Andrés O. Avellaneda. Río Piedras: Puerto Rico: Huracán, 1981, 168 p. Veinte cuentos y Paisa. Prólogo de Pedro Juan Soto. Río Piedras, Puerto Rico: Cultural, 1973, 203 p. La tercera llamada y otros relatos. México: Leega, 1983, 130 p. El oído de Dios. Río Piedras, Puerto Rico: Cultural, 1984, 58 p. Las caricias del tigre. México, Joaquín Mortiz, 1984, 185 p. Antología personal. Río Piedras, Puerto Rico: Editorial de la Universidad de Puerto Rico, 1990, 376 p. Todos los cuentos. México, U.N.A.M., 1992, 354 p. Ensayos, memorias: El país de cuatro pisos y otros ensayos. Río Piedras, Puerto Rico: Huracán, 1980, 119 págs. La luna no era de queso. Memorias de infancia. Río Piedras, Puerto Rico: Cultural, 1988, 297 págs. Literatura y sociedad de Puerto Rico. De los cronistas de Indias a la Generación del 98. México: Fondo de Cultura Económica, 1976, 246 págs. Nueva visita al cuarto piso. Madrid: Flamboyán, 1986, 218 págs. ÍNDICE: En la sombra: cuentos (1943): —6. El ausente —8. El cacique Cinco cuentos de sangre (1945): —1. La mujer —3. Miedo En este lado (1954): —1. En el fondo del caño hay un negrito —2. La galería —4. Una caja de plomo que no se podía abrir —5. Santa Claus visita a Pichirilo Sánchez —8. Esta noche no El hombre en la calle (1948): —La carta En Nueva York y otras desgracias (1973): —9. El escritor La tercera llamada y otros relatos: —8. El vencedor —11. La noche que volvimos a ser gente —12. La tercera llamada Fragmentos: Mr. Miller (1956) Balada de otro tiempo (1978) La llegada (1980) Entrevistas: Entrevista con la Revista Exégesis 
+
+¿Quién es José Luis González?
+
+![](/assets/images/jlg.jpg)
+
+José Luis González nació en la República Dominicana, en 1926, de padre puertorriqueño y madre dominicana, y murió en México en 1997. Aunque siempre se consideró puertorriqueño, vivió en México desde 1953 y obtuvo la ciudadanía mexicana en 1955. Cursó la carrera de Ciencias Políticas en Puerto Rico y en Estados Unidos, y recibió la Maestría y el Doctorado en Filosofía y Letras de la Universidad Nacional Autónoma de México. En la UNAM impartió cátedras de Literatura Iberoamericana y Literatura y Sociedad.
+
+Fue corresponsal de prensa en Praga, Berlín, París y Varsovia. Ensayista, narrador y perdiodista, José Luis González recibió el Premio Xavier Villaurrutia 1978, con la novela Balada de otro tiempo (México: Alfaguara, 1997), y también recibió dos premios nacionales en Puerto Rico. Obras
+
+Cuentos
+ En la sombra. Prólogo de Carmen Alicia Cadilla. San Juan, Puerto Rico: Imprenta Venezuela, 1943, 110 págs. Cinco cuentos de sangre. Prólogo de Francisco Matos Paoli. San Juan, Puerto Rico: Imp. Venezuela, 1945, 59 págs.
+
+El hombre en la calle. Santurce: Puerto Rico, Bohique, 1948, 75 págs. Paisa —un relato de la emigración—. Prólogo de Luis Enrique Délano. México: Fondo de Cultura Popular, 1950, 71 págs. En este lado. México: Los Presentes, 1954, 180 p. Hay otra edición: En este lado. Edición corregida. La Habana: Nuevo Mundo, 1961, 123 págs. La galería y otros cuentos, México: Era, 1972, 144 págs. Mambrú se fue a la guerra (y otros relatos). México: Joaquín Mortiz, 1972, 205 págs. Cuento de cuentos y once más. México: Extemporáneos, 1973, 125 págs.
+
+En Nueva York y otras desgracias. Prólogo de Ángel Rama. México: Siglo XXI, 1973, 140 p. Hay otra edición: En Nueva York y otras desgracias. Prólogo de Andrés O. Avellaneda. Río Piedras: Puerto Rico: Huracán, 1981, 168 p. Veinte cuentos y Paisa. Prólogo de Pedro Juan Soto. Río Piedras, Puerto Rico: Cultural, 1973, 203 p. La tercera llamada y otros relatos. México: Leega, 1983, 130 p. El oído de Dios. Río Piedras, Puerto Rico: Cultural, 1984, 58 p. Las caricias del tigre. México, Joaquín Mortiz, 1984, 185 p. Antología personal.
+
+Río Piedras, Puerto Rico: Editorial de la Universidad de Puerto Rico, 1990, 376 p. Todos los cuentos. México, U.N.A.M., 1992, 354 p. Ensayos, memorias: El país de cuatro pisos y otros ensayos. Río Piedras, Puerto Rico: Huracán, 1980, 119 págs. La luna no era de queso. Memorias de infancia. Río Piedras, Puerto Rico: Cultural, 1988, 297 págs. Literatura y sociedad de Puerto Rico. De los cronistas de Indias a la Generación del 98. México: Fondo de Cultura Económica, 1976, 246 págs. Nueva visita al cuarto piso.
+
+Madrid: Flamboyán, 1986, 218 págs.
+
+Índice
+En la sombra: cuentos (1943):
+—6. El ausente —8
+
+El cacique Cinco cuentos de sangre (1945):
+—1. La mujer —3
+
+Miedo En este lado (1954):
+—1. En el fondo del caño hay un negrito —2. La galería —4. Una caja de plomo que no se podía abrir —5. Santa Claus visita a Pichirilo Sánchez —8
+
+Esta noche no El hombre en la calle (1948):
+—
+
+La carta En Nueva York y otras desgracias (1973):
+—9. El escritor La tercera llamada y otros relatos: —8. El vencedor —11. La noche que volvimos a ser gente —12
+
+La tercera llamada Fragmentos: Mr.
+
+Miller (1956)
+
+Balada de otro tiempo (1978)
+
+La llegada (1980)
+
+## EntrevistasEntrevista con la Revista Exégesis

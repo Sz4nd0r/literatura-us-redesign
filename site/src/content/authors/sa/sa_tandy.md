@@ -1,0 +1,40 @@
+---
+layout: story
+title: Tandy
+slug: sa_tandy
+source: https://www.literatura.us/idiomas/sa_tandy.html
+tags:
+  - sa_tandy
+  - sa
+---
+Sherwood Anderson
+(Camden, Ohio, 1876 - Colón, Panamá, 1941)
+Tandy
+(“Tandy”)
+Winesburg, Ohio
+(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+Hasta que cumplió los siete años, vivió en una vieja casa sin pintar, junto a un camino poco frecuentado que partía de Trunion Pike. Su padre apenas le prestaba atención y su madre había muerto. El padre pasaba el tiempo hablando y pensando en la religión. Se proclamaba agnóstico y estaba tan absorbido por destruir las ideas que Dios había inculcado en la imaginación de sus convecinos que nunca vio a Dios manifestarse en la niña pequeña que, medio olvidada, vivía allí de la generosidad de los parientes de su madre muerta.
+Llegó a Winesburg un forastero que vio en la niña lo que su padre no veía. Era un joven alto y pelirrojo que estaba casi siempre borracho. A veces se sentaba en una silla delante del New Willard House con Tom Hard, el padre. Mientras Tom hablaba y declaraba que no podía haber Dios, el forastero sonreía y les guiñaba el ojo a los presentes. Tom y él se hicieron amigos y pasaban mucho tiempo juntos.
+El forastero era hijo de un rico comerciante de Cleveland y había ido a Winesburg por una razón. Quería curarse del hábito de la bebida, y pensaba que, si se alejaba de sus amigos de la ciudad y vivía en una comunidad rural, tendría más posibilidades de combatir aquel apetito que lo estaba destruyendo.
+Su estancia en Winesburg no fue ningún éxito. El aburrimiento con que transcurrían las horas lo empujó a beber más que nunca. Pero logró otra cosa: bautizó con un nombre lleno de significado a la hija de Tom Hard.
+Una tarde, cuando se recuperaba de los efectos de una larga borrachera, el forastero llegó haciendo eses por la calle Mayor del pueblo. Tom Hard estaba delante del New Willard House con su hija —que entonces tenía cinco años— en las rodillas. Junto a él, sentado en los tablones de la acera, estaba el joven George Willard. El forastero se desplomó en una silla junto a ellos. Todo su cuerpo se estremecía y, cuando trataba de hablar, la voz le temblaba.
+Era ya tarde y la oscuridad empezaba a cernirse sobre el pueblo y sobre la vía del ferrocarril que corría a lo largo de un terraplén frente al hotel. En la distancia, por el oeste, se oyó el prolongado sonido del silbato de un tren de pasajeros. Un perro que había estado dormitando en el camino se despertó y ladró. El forastero empezó a balbucir y lanzó una profecía acerca de la niña que el agnóstico sostenía entre sus brazos.
+—Vine aquí para dejar la bebida —dijo, y las lágrimas empezaron a correr por sus mejillas. No miró a Tom Hard, sino que se inclinó hacia delante y fijó la vista en la oscuridad, como si estuviese teniendo una visión—. Huí al campo para curarme, pero no lo he conseguido. Y hay una razón. —Se volvió para mirar a la niña que, sentada muy erguida en las rodillas de su padre, le devolvió la mirada.
+El forastero tocó a Tom Hard en el brazo.
+—La bebida no es la única cosa a la que soy adicto —dijo—. Hay algo más: yo necesito amar y no he encontrado nadie a quien dedicar mis afectos. Si tuvieses suficiente sabiduría para comprender a qué me refiero, sabrías la gravedad que tiene lo que te digo. Hace que mi destrucción sea inevitable. Hay pocos capaces de entenderlo.
+El forastero se quedó en silencio y dio la impresión de estar abrumado por la tristeza, pero lo despertó otro silbido del tren.
+—No he perdido la fe. Lo proclamo. Pero he llegado a un punto en el que sé que mi fe no se verá cumplida —declaró con aspereza. Miró fijamente a la niña y empezó a dirigirse a ella sin prestar atención al padre—. Vendrá una mujer —dijo, y su voz sonó seria y chillona—, pero lo hará en el momento equivocado. No cuando más falta me hace. Tú podrías ser esa mujer. Sería una jugarreta del destino que me permitiera estar en su presencia una tarde como ésta, cuando me he destruido con la bebida y ella no es más que una niña.
+Los hombros del forastero se estremecieron y, cuando trató de liar un cigarrillo, el papel se le cayó de entre los dedos temblorosos. Se enfadó y se puso a refunfuñar.
+—La gente cree que es fácil ser una mujer y ser amada, pero yo sé que no es así —afirmó. De nuevo se volvió hacia la niña—. Yo lo comprendo —exclamó—. Tal vez sea el único hombre capaz de comprenderlo.
+Volvió a desviar la mirada hacia la calle oscura.
+—Lo sé todo sobre ella, aunque nunca se ha cruzado en mi camino —dijo en voz baja—. Conozco sus esfuerzos y sus desengaños y, precisamente por eso, la amo. De esos desengaños surge una cualidad desconocida en las mujeres. A eso lo llamo “Tandy”. Me inventé ese nombre cuando era un auténtico soñador y antes de que mi cuerpo se corrompiera. Consiste en tener fuerzas para ser amada. Es algo que los hombres necesitan de las mujeres y que nunca llegan a conseguir.
+El forastero se puso en pie y se plantó delante de Tom Hard. Su cuerpo se balanceaba adelante y atrás y parecía a punto de caerse, pero en lugar de eso se hincó de rodillas en la acera y se llevó las manos de la niñita a sus labios de borracho. Las besó extasiado.
+—Sé Tandy, pequeña —rogó—. Atrévete a ser fuerte y valiente. Ése es el camino. Atrévete a cualquier cosa. Ten el valor de aventurarte a ser amada. Sé algo más que un hombre o una mujer. Sé Tandy.
+El forastero se incorporó y se marchó dando traspiés calle abajo. Un día o dos después, subió a un tren y volvió a Cleveland. Aquella tarde de verano, después de tener esa conversación delante del hotel, Tom Hard llevó a la niña a casa de un pariente donde estaba invitada a pasar la noche. Mientras andaba en la oscuridad bajo los árboles olvidó la voz balbuceante del forastero y volvió a ocuparse en elaborar argumentos con los que destruir la fe de los hombres en Dios. Pronunció el nombre de su hija y ella empezó a llorar.
+—No quiero que me llames así —declaró—. Quiero que me llames Tandy…, Tandy Hard.
+La niña lloró con tanta amargura que Tom Hard se conmovió y trató de consolarla. Se detuvo debajo de un árbol y, cogiéndola entre sus brazos, empezó a acariciarla.
+—Vamos, sé buena —le dijo secamente, pero no hubo manera de consolarla. Con abandono infantil, la niña se dejó arrastrar por la pena, y su voz quebró el silencio de la noche.
+—Quiero ser Tandy. Quiero ser Tandy. Quiero ser Tandy Hard —gritó moviendo la cabeza y sollozando, como si la fuerza de su juventud no fuese suficiente para soportar la visión que las palabras del borracho habían llevado ante sus ojos.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

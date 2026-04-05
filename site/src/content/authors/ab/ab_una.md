@@ -1,0 +1,38 @@
+---
+layout: story
+title: Una conflagración imperfecta
+slug: ab_una
+source: https://www.literatura.us/idiomas/ab_una.html
+tags:
+  - ab_una
+  - ab
+---
+Ambrose Bierce
+(Meigs County, Ohio, 1842 - Chihuahua, México, 1914)
+Una conflagración imperfecta (1886)
+(“An Imperfect Conflagration”)
+[The Parenticide Club, III]
+[El clan de los parricidas, III]
+Originalmente publicado, como “The Imperfect Conflagration” y firmado por “B”,
+en San Francisco Wasp (27 de marzo de 1886);
+The Collected Works of Ambrose Bierce, vol. viii
+(New York & Washington: The Neale Publishing Company, 1911, pp. 171-176)
+En junio de 1872, una mañana temprano, asesiné a mi padre, acto que me produjo una tremenda impresión. Fue antes de mi boda, cuando aún vivía en Wisconsin con mi familia. Estábamos mi padre y yo en la biblioteca de casa repartiéndonos el producto de un robo que habíamos cometido aquella noche. Se trataba, en su mayor parte, de enseres domésticos, y la tarea de dividirlos equitativamente se presentaba difícil. Al principio nos entendimos muy bien sobre el reparto de las servilletas, toallas y cosas así, e incluso el reparto que hicimos de la plata fue bastante justo; pero cuando le tocó el turno a una caja de música, vimos que era muy problemático dividirla entre dos sin que esta división diera mucho resto. Aquella caja fue la que ocasionó el desastre y la desgracia de mi familia: si no la hubiéramos robado, mi padre aún estaría vivo.
+Era una obra de la más bella y exquisita artesanía, con incrustaciones de ricas maderas labradas con gran trabajo. No sólo tocaba una gran variedad de melodías sino que, incluso sin haberle dado cuerda, podía silbar como una codorniz, ladrar como un perro y cacarear al amanecer, además de recitar los diez mandamientos. Esta última característica fue la que más gustó a mi padre y le llevó a cometer el único acto deshonroso de su vida (aunque de haber seguido viviendo habría cometido alguno más): trató de ocultarme la caja y me juró por su honor que no la había cogido. Sin embargo, yo sabía de sobra que su intención al intervenir en el robo no había sido otra que la de hacerse con ella.
+La había escondido bajo su capa (nos las habíamos puesto para evitar ser reconocidos) y afirmaba solemnemente que no la tenía. Yo sabía que era mentira y además estaba al tanto de algo que él desconocía: si conseguía prolongar el reparto de los beneficios hasta el amanecer, la caja cacarearía y le delataría. Y así fue. Cuando la luz de gas de la biblioteca empezaba a palidecer y se adivinaban las formas de las ventanas tras las cortinas, un largo kikirikí salió de la capa de mi padre, seguido de unos cuantos compases del Tannhauser que terminaron en un sonoro “click”. El hacha que habíamos utilizado para entrar en la desafortunada mansión estaba sobre la mesa. La cogí. El anciano, al comprender que era inútil ocultar la caja por más tiempo, la sacó y la puso sobre la mesa.
+—Bueno, pártela por la mitad si así lo prefieres —dijo—. Yo sólo intentaba salvarla de la destrucción.
+Mi padre era un apasionado amante de la música: tocaba el acordeón con gran sentimiento.
+—No discuto la pureza de tus razones. Sería presuntuoso por mi parte juzgarte. Pero los negocios son los negocios y estoy dispuesto a disolver nuestra sociedad con este hacha a menos que consientas llevar un cascabel en los robos futuros.
+—Imposible —dijo después de reflexionar—. No, no podría hacerlo, sería como una confesión de mi deshonra. La gente diría que no confiabas en mí.
+Su carácter y sensibilidad resultaban admirables. Me sentí orgulloso de él y a punto estuve de pasar por alto su falta. Pero una mirada rápida a la caja ricamente adornada me decidió y, como dije, despaché al viejo de este valle de lágrimas. Después de hacerlo me sentí un poco a disgusto. No sólo era mi padre —mi procreador—, sino que además iban a descubrir su cuerpo. Era ya pleno día y mi madre podía entrar en la biblioteca en cualquier momento. En tales circunstancias, lo más oportuno era acabar también con ella, y eso fue lo que hice. Después, pagué a los criados y los despedí.
+Aquella misma tarde fui a ver al comisario de policía; le conté todo y le pedí consejo. Sería muy doloroso para mí que los hechos salieran a la luz. Todo el mundo condenaría mi conducta y, si alguna vez intentaba presentarme a unas elecciones, los periódicos sacarían a relucir el asunto. El comisario comprendió el peso de estas consideraciones; él también era un asesino con gran experiencia. Tras consultar con el magistrado que presidía el Tribunal de Jurisdicción Variable, me aconsejó que ocultara los cadáveres en una de las estanterías de la biblioteca, que hiciera un buen seguro a la casa y le prendiera fuego. Enseguida me puse manos a la obra.
+En la biblioteca había una estantería que mi padre había comprado a un inventor chiflado hacía poco tiempo y que aún estaba vacía. Su forma y tamaño recordaban a los armarios antiguos que hay en los dormitorios que no tienen ropero. Se abría de arriba abajo, como los camisones de señora, y las puertas eran de cristal. Había amortajado a mis padres hacía unas horas y sus cuerpos estaban bastante rígidos para mantenerse erectos. Entonces los metí en una estantería, a la que había quitado las baldas, y tapé sus cristales con unas cortinas. Aunque el inspector de la compañía de seguros pasó media docena de veces por delante, no se dio cuenta de nada.
+Por la noche, después de obtener la póliza, prendí fuego a la casa y, a través del bosque, me dirigí a la ciudad que quedaba a unas dos millas. Allí me las ingenié para que me vieran en el momento en que más animación había. Dos horas después de haber provocado el incendio, me uní a la multitud y, dando gritos de dolor por la suerte de mis padres, volví a la casa en llamas. Cuando llegué, toda la ciudad estaba allí. El fuego había arrasado la casa, pero entre los rescoldos aún incandescentes, cerrada y en pie, estaba la estantería, completamente intacta. Las cortinas, evidentemente, habían ardido y, al quedar los cristales a la vista, la luz de las ascuas iluminaba su interior. Allí estaba mi querido padre, “tal y como era”, y a su lado la compañera de sus penas y alegrías. No tenían ni un solo pelo chamuscado y sus ropas estaban como nuevas. Las heridas que me vi obligado a causarles para llevar a cabo mis planes se podían apreciar claramente, en la cabeza y en la garganta. La gente se había quedado sin habla, como en presencia de un milagro. El respeto y el temor habían paralizado sus lenguas. Yo también me sentía muy afectado.
+Unos tres años después, cuando los sucesos aquí relatados ya casi se habían borrado de mi memoria, fui a Nueva York para ayudar a pasar unos bonos falsificados. Un día, al mirar el escaparate de una tienda de muebles, vi la réplica exacta de la estantería.
+—La compré por una miseria a un inventor arrepentido —me explicó el propietario—. Decía que era una estantería a prueba de fuego, que los poros de la madera habían sido rellenados con alumbre y que el cristal estaba hecho de asbestos. Supongo que no será cierto. Se la dejo al precio de una estantería normal.
+—No —dije—. Si no me puede garantizar que es a prueba de fuego, no la quiero.
+Le di los buenos días y me marché.
+No me la habría quedado por nada del mundo. Despertaba en mí unos recuerdos excesivamente desagradables.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

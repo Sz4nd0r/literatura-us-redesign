@@ -1,0 +1,225 @@
+---
+layout: story
+title: Alas rotas
+slug: arotas
+source: https://www.literatura.us/idiomas/james/arotas.html
+tags:
+  - arotas
+  - james
+---
+Henry
+James
+(1843-1916)
+Alas rotas
+(“Broken Wings”, 1900)
+Originalmente publicado en Century Magazine (diciembre de 1900)
+The Better Sort (Lo más selecto), 1903
+I
+Consciente como era de lo que había entre ellos, aunque, tal vez, menos consciente que nunca de por qué, a aquellas alturas, tendría que haber algo, difícilmente habría supuesto que pudieran estar juntos tanto tiempo en una casa sin cruzar una palabra o una mirada. Llevaban ahí desde el sábado por la tarde, lo que sumaba veinticuatro horas. Era fácil que, en tan numeroso grupo —veinticinco personas, algunas de gran relevancia—, las palabras o miradas se extraviaran. Sin embargo, a su juicio, el resultado había sido, tanto para ella como para él, que ninguno de los dos había percibido sonido ni señal del otro. En la comida y en la cena los habían sentado de tal manera que no habían tenido que mirarse —ni esbozar sonrisas forzadas— a través de la mesa; por lo demás, entre tanta gente, ambos podían contribuir a que el movimiento natural del grupo los separara o los uniera. Aunque, por supuesto, también existía la posibilidad de que alguna ocasión escapara a su control. La noche anterior se había llevado cierta sorpresa al no verse emparejado con ella cuando se formó con gran solemnidad la larga procesión de camino al comedor. De antemano, él habría dicho —reconociendo en el gesto una de las «notas» destacadas de Mundham— que, si la reunión incluía a una mujer de letras, la mujer de letras estaría, por cuestión de coherencia, adjudicada al brazo, cuando de brazos se trataba, del caballero presente que encarnara lo más cercano a la literatura. El pobre Straith representaba al «arte» y eso, sin duda, se habría considerado suficientemente próximo si el grupo no hubiera ofrecido la posibilidad de elegir entre un ligero exceso de hombres. El representante del arte fue uno de los dos o tres que entraron solos, mientras que la señora Harvey avanzó con uno de los representantes de la banca.
+De todos modos, era seguro que no volvería a verse encomendada a lord Belgrove y era posible que Straith no volviera a estar solo. Ella sería, en definitiva, el remedio más probable para su triste estado; y eso era, precisamente, lo más interesante de su situación: de los presentes, eran los únicos que, en ningún sentido, se encontraban en posición de superioridad en relación con los demás. En nada los aventajaban; sólo merecían que los mencionaran por su inteligencia; estaban en lo más bajo de la escala social. La escala social, incluso en Mundham —como bien les podrían haber dicho, como bien les habían dicho en la práctica—, tenía que terminar en algún sitio; lo que equivale a decir que, mientras paseaba y pensaba en múltiples cosas, Stuart Straith tenía la sensación, a fin de cuentas, de contribuir a sostenerla. Otro de sus pensamientos versaba sobre lo rarísima que resultaba —porque no era otra cosa— su presencia allí, tan fuera de su sitio. Nada podía decir del lugar que correspondía a la señora Harvey. Podría resultar que ella, en cambio, sí se encontrara en su sitio; pero hasta la fecha esas reuniones «de sábado a lunes» le habían parecido, sobre todo, grandes jaulas doradas en las que se ponía especial cuidado en que todos los pájaros fueran de similar plumaje.
+Por la tarde los invitados habían dado un maravilloso paseo, sin salir de los límites de la finca, hasta un alejado pabellón de té; y, a pesar de las combinaciones y cambios en el curso de ese episodio, había seguido sin verse obligado a poner a prueba a su vieja amiga o a sí mismo. Y se preciaba de que todo hubiera sucedido sin la pusilanimidad de haberla evitado deliberadamente. En aquellas espléndidas condiciones, la vida se entendía bien; la esplendidez de las condiciones se caracterizaba por una especie de comodidad fundamental, suponía una exención general, envolvía el momento, fuera el que fuere, en una suavidad universal y todo ello actuaba como un eficaz disolvente de las relaciones tensas. Era hermoso, por ejemplo, que, si el hecho de no haberse encontrado entre tantos encuentros se debía a la habilidad de la señora Harvey, en ningún caso pudiera él tener la vulgar certeza de que así había sido. En otros lugares, distintos de Mundham, no habría tenido ninguna duda. Con todo, y sin la menor angustia, sentía que él pertenecía mucho más a aquellos otros lugares, aunque tal vez ella no pensara que eran los que, en su caso, le correspondían. El día había sido cálido y espléndido, y aquel instante, cuando tocaba a su fin —con la cena en perspectiva, aunque no sin antes cruzar un campo de mármol rosa pulido que parecía decir que, cuando en esa casa había espacio, también, generosamente, había tiempo—, era, de toda la procesión de horas, la más querida para nuestro amigo, que siempre que podía la interrumpía para saborear las impresiones que terminaban, así como las que empezaban, con el momento de vestirse para la cena. Las grandes terrazas y jardines estaban casi vacíos; la gente se había dispersado, aunque no todos habían ido a cambiarse. El aire del lugar, la inmensa casa que se alzaba con todo su poder, ataviada de verano y coronada de éxito, también aportaban algo a la poesía del atardecer. En cualquier caso, este visitante lo veía y lo percibía todo a través de una de esas finas neblinas de agosto que nos recuerdan —o, por lo menos, le recordaban a él— las artísticas gasas que se cuelgan en el escenario de un teatro cuando se desea conseguir un efecto de misterio o algún particular éxtasis pantomímico.
+Si, a fin de cuentas, tenía que emparejarse con la señora Harvey para la cena, sería una vergüenza que no se hubiera dirigido antes a ella; y si, por el contrario, la colocaban con otro, resultaría muy poco elegante haber perdido tanto tiempo. ¿Acaso, entretanto, no advertía la presencia de unas damas en el jardín de más abajo, desde donde llegaban voces, débiles, pero, como siempre en la atmósfera refinada de Mundham, sumamente dulces? La señora Harvey podría estar entre ellas y, si la encontraba, le haría saber que la había buscado. Aprovecharía sin disimulo la ocasión para declararle que lo que había sucedido entre ellos —o, mejor dicho, lo que no había sucedido— era totalmente absurdo. No obstante, cuando se puso a buscarla la vio, de repente, no muy lejos, en el recodo de un sendero, sentada con el embajador en una especie de pérgola. Ante eso, se detuvo y cambió de dirección, simulando no haber reparado en ellos. Aquella tarde ya la había visto en tres ocasiones distintas con el embajador. Y más sorprendido se quedó cuando, una hora después, mientras él seguía irremediablemente solo, la vio sentada a la mesa junto a su excelencia. En absoluto era el lugar que le correspondía en Mundham, así que sólo podía explicarse por la petición expresa de su excelencia. ¡Qué triunfo para ella! Ahora Straith la veía perfectamente y se daba cuenta de que, a la luz de las velas de la maravillosa sala, cuyas arañas eran, como el servicio de mesa, todo cristal y plata, estaba tan hermosa como cualquiera de las mujeres de su edad, tan «elegante» como la víspera y tan fiel a la ley de marcar la diferencia de su elegancia como las demás. Si su hermoso porte —porque, sin lugar a dudas, era hermoso— procedía, en gran medida, del gran partido que profesionalmente le sacaba, nuestro observador reflexionó que el escaso partido que sacaba él afectaba a su actitud en sentido diametralmente opuesto; pero no se comunicaron mediante las miradas aviesas ni las sonrisas forzadas que él había temido. No obstante, en esta ocasión sus ojos se encontraron y a él le pareció que los de la señora Harvey eran extraños.
+II
+Ella, por su parte, tenía su propia conciencia, tan plena, sin duda, como la de él, pero con la ventaja de que, cuando el grupo se separó para irse a dormir, ella no se vio reducida, como su amigo, a una vigilia sin paliativos. lady Claude, desde lo alto de las escaleras, había dicho:
+—¿Podría pasar a verla, dentro de cinco minutos, si no le importa?
+Y había ido, tal como había anunciado, con una maravillosa bata nueva llena de perifollos, recién estrenada para la ocasión. lady Claude era joven y seria, encantadoramente desconcertante y desconcertada y, por interesante que, por ciertos elementos de su situación, hubiera podido resultar para una mujer de letras, sus admiraciones y curiosidades prometían dominar la hora. Había manifestado ya a la señora Harvey un entusiasmo bien documentado. No sólo le entusiasmaban sus numerosos libros, tributo con el que la autora se encontraba con cierta frecuencia, sino que incluso parecía haberlos leído, apariencia con la que su interlocutora estaba mucho menos familiarizada. Lo notable era que, además, tenía fervientes deseos de escribir y había aparecido con sus flamantes adornos no sólo para revelarle este secreto y pedirle consejo y consuelo, sino, literalmente, para hacerle una confidencia más extraña, para la cual el misterio de la medianoche parecía propicio. En efecto, la medianoche había pasado antes de que le hiciera esta confidencia, porque el caudal de la conversación había terminado por cobrar tanto impulso que, junto con la vida de lady Claude, fluía también gran parte de la de su consejera. La señora Harvey, en todo caso, se divirtió, conmovida y, en efecto, desvelada; y, al cabo de media hora se encontraron ya en lo que podría denominarse una segunda oleada de franqueza y la dedicaron a charlar sobre los invitados de la casa. Su primera comunión se había basado simplemente en los beneficios pecuniarios de la literatura, en la medida en que la autora de tantos y tan admirados volúmenes estaba dispuesta a exponerlos a una aspirante. lady Claude se veía en dificultades financieras y deseaba darles una salida literaria. Para esa revelación, que expresó con voz entrecortada, había recorrido una milla de pasillos cubiertos de terciopelo carmesí.
+—¿Nada? —había exclamado tres minutos más tarde con expresión incrédula—. ¿No puedo ganar nada? —pero la exclamación se quedó corta comparada con la estupefacción que le produjo la breve conversación posterior, a la que se lanzó la señora Harvey tras una ligera vacilación inicial—: ¿Tan poco gana? ¡Con lo maravillosa que es usted! —y a continuación, como la autora de los admirados volúmenes no dijo nada más y se quedó sentada con su bata, negando con la cabeza con el más lento y triste de los gestos, repentinamente demasiado lánguida para preocuparse siquiera por lo que le había revelado, añadió—: En ese caso, ¿para qué sirven el éxito, la fama y el talento? ¿No tiene usted éxito? —parecía casi atemorizada por esta última confesión de su amiga. Se encontraban cara a cara en una triste crudeza humana que no tardó en transformarse en un cálido abrazo—. ¿Tuvo éxito y lo perdió? ¿Es posible perderlo cuando ha sido tan grande como el suyo?
+—Es más fácil perderlo que ganarlo.
+Lady Claude seguía asombrada.
+—¡Pero usted escribe tanto… y tan bien! —ante lo cual la señora Harvey se limitó a sonreír de nuevo con su hermosa desesperación y, al cabo de un momento, se encontró otra vez en brazos de su visitante. La más joven de ambas mujeres se quedó durante un rato abatida y muda, y, sensible y encantadora como era, inmediatamente abandonó, ante aquella revelación casi augusta, la cuestión de sus pequeñas miserias. Pero a esas horas de la noche hay atajos que el día apenas conoce y bastó un soplo más de realidad para que a lady Claude se le ocurrieran más preguntas al respecto de las que podía contestar por sí misma—. Entonces, si no tiene ingresos propios, ¿cómo se las arregla para salir adelante?
+—Ah, no salgo adelante.
+Lady Claude miró a su alrededor. Había objetos repartidos por la hermosa habitación decorada a la francesa.
+—Pero usted tiene cosas bonitas.
+—Dos.
+—¿Dos?
+—Dos vestidos. No podría quedarme un día más.
+—Ah, ¿es eso? Yo tampoco podría —dijo lady Claude con tono consolador—. Y tiene una buena doncella… —prosiguió con el mismo talante.
+—Que es, efectivamente, una mujer encantadora, pero se trata de mi cocinera disfrazada —reveló la señora Harvey.
+—¡Ah, qué lista es usted! —exclamó su amiga soltando una carcajada con la que alcanzaron un clímax de confianza.
+—Muchísimo. Pero no crea usted que es ése el motivo por el que me encuentro aquí —se apresuró a añadir la señora Harvey.
+Su interlocutora manifestó con sinceridad sus pensamientos.
+—Entonces, ¿por qué ha venido?
+—No tengo la menor idea. No he dejado de preguntármelo. Me lo he preguntado muchas veces en ocasiones similares y sólo he podido llegar a la conclusión de que Londres es así de loco.
+—¿Loco? —preguntó lady Claude.
+—¡Loco! —contestó su amiga con cierta impaciencia—. Así son los golpes que da Londres.
+—¿Pero una invitación como ésta le parece un «golpe»?
+—Sí, fortísimo. En cualquier caso, nadie más podrá decirle por qué estoy aquí —añadió la señora Harvey.
+La capacidad de lady Claude para escuchar —y era tal vez la más atractiva de sus cualidades— era mayor todavía, cuando estaba impresionada, que su capacidad para protestar.
+—Vaya, ¿cómo puede decir eso cuando le basta ver que todo el mundo la admira y la aprecia? Mire al embajador —insistió con entusiasmo. Y fue eso lo que, precisamente, tal como he mencionado, llevó la corriente de su conversación lejos de la fuente. Sin embargo, no tuvo que ir muy lejos antes de que apareciera el nombre de Stuart Straith, en relación con el cual lady Claude confesó algún interés —pues era guapo, distinguido, «simpático»—, hasta el punto en que podría llegar a odiarlo, pues él no había hecho nada para fomentarlo. No le había dirigido la palabra ni una vez.
+—Pero, querida amiga, ¡si tampoco me la ha dirigido a mí!
+Lady Claude no pareció tomar aquello como indicio de que, al fin y al cabo, tuviera que haber alguna diferencia.
+—Oh, pero ¿podría haberlo hecho?
+—¿Dado que yo no me había dirigido a él primero? —dijo la señora Harvey, dando la vuelta al asunto—. Quizá no, pero yo no podía hacerlo —y después, a modo de explicación, y no sólo porque lady Claude era imprecisa por naturaleza, sino porque lo que parecía destacar en ella era su derecho a que la cortejaran, añadió—: Y no porque no nos conozcamos.
+—¿Lo conoce, entonces?
+—Demasiado.
+—¿Quiere decir que no le gusta?
+—Por el contrario. Me gusta… con locura.
+—Entonces, ¿qué hay de malo? —preguntó lady Claude con impaciencia.
+Su amiga vaciló, pero sólo un momento.
+—Bueno, él no me quiso.
+—¿No la quiso?
+—Hace diez años, después de la muerte del señor Harvey, cuando, si él hubiera movido un dedo, me habría casado con él.
+—¿Y no lo movió?
+—Se consideraba demasiado importante. Y yo era poca cosa para él. Quería reservarse; adivinaba su futuro.
+Lady Claude intervino con interés:
+—¿Su situación actual?
+—Sí, todo lo que iba a sucederle; su ascenso progresivo.
+—¿Tan grande ha sido?
+—Sin duda, su situación y su prestigio. ¿No conoce su magnífica obra y lo que se piensa de ella?
+—Oh, sí, la conozco. Por eso… —pero lady Claude se interrumpió. Tras lo cual, añadió—: Pero ¿y si sigue reservándose?
+—Oh, pero no para mí —dijo la señora Harvey.
+—Y, evidentemente, tampoco para mí. ¿Para quién, entonces, se considera lo bastante bueno? —preguntó su interlocutora.
+—¡Oh, esas personas importantes! —dijo la señora Harvey con una sonrisa.
+—¡Pero usted y yo somos importantes! —dijo lady Claude, dándole un beso de buenas noches.
+—No debería usted, de todos modos —dijo la mujer de más edad—, traicionar el secreto de mi grandeza, que le he confesado, recuérdelo, como la más íntima de las confidencias.
+Su tono contenía una amargura tan pura que, por un momento, contuvo a su amiga; después lady Claude tuvo la feliz inspiración de contestar alegremente:
+—Seguro que ha sido mejor que el señor Straith no la quisiera. Usted también se ha reservado: ¡se casará… con un embajador!
+Y tras desearle de nuevo buenas noches, alcanzó la puerta.
+—Dice que no sale adelante, pero sí sale.
+—¡Ah! —exclamó la señora Harvey, con una vaga atenuación.
+—Oh, sí, sí sale —insistió lady Claude mientras la puerta subrayaba sus palabras con un golpecito que resonó en la casa silenciosa.
+III
+Como todo el mundo recuerda, La chica nueva se estrenó hace ya tres años y la obra sigue en cartel, por lo que podría parecer extraño que dos personas del público fueran culpables de pasar por alto por completo ese hecho. Hasta transcurrido cierto tiempo, ni la señora Harvey ni Stuart Straith fueron conscientes de que La chica nueva era uno de los mayores éxitos contemporáneos. En realidad, si les hubieran planteado la pregunta ahí mismo, se habrían mostrado totalmente desconcertados. Pero eso, debo añadir inmediatamente, fue consecuencia de que se hubieran encontrado uno al lado de otro en la platea del teatro y, por ello, de que dedicaran gran parte de su atención a su problema personal. Straith demostró ser consciente de la importancia de hacerle frente sin dilación, pues, tras llegar e instalarse, en cuanto su identidad le resultó evidente, se volvió hacia su vecina, que se encontraba ya en su sitio.
+—La verdad es que no veo ahora cómo podría usted dejar de dirigirme la palabra.
+El rostro de ella le reveló en qué medida hacía rato que había advertido su proximidad.
+—El sonido de su voz, tan directo, me lo facilita tanto como podría desear.
+Él miró las hileras prietas, los pisos repletos y los palcos atestados mientras reconocía gente y la saludaba con un gesto de cabeza; y eso produjo otra pausa durante la cual, mientras la música parecía sonar de modo mecánico y aumentaba la agitación que, entre el público de Londres, es muestra de concentración, sintieron lo utilísimo, lo extraordinario de su encuentro en aquel medio denso y absorto.
+—Bueno, aquella segunda tarde en Mundham, justo antes de cenar, estuve muy cerca de forzar la situación para que me dirigiera la palabra. Pero algo me disuadió. Es usted demasiado importante.
+—¡Oh! —murmuró ella.
+—Embajadores —dijo Stuart Straith.
+—¡Oh! —repitió ella. Y antes de que se dijera nada más, se alzó el telón. Bajó en su debido momento y realizó, tras diversos entreactos, el resto de sus movimientos sin interrumpir por ello, para nuestros amigos, la sensación de que era una velada de charla. Cuando bajaba no decían casi nada sobre la obra y cuando, hacia el final, uno de ellos dijo al otro vagamente:
+—¿Y esto… va a durar mucho todavía? —la pregunta apenas resultó relevante. Lo que les quedaba más claro era que la gente que los rodeaba estaba, en cierto modo, lo bastante absorta para dejarlos a sus anchas, aunque tuvieran una somera idea de lo que la absorbía. La señora Harvey, sin embargo, había mencionado al principio que su presencia respondía a un motivo y que debía estar atenta, y su acompañante le había pedido su opinión sobre la imagen que ofrecía, en determinado momento, el escenario, en cuya acogida él estaba tan interesado que era, en realidad, el motivo de su asistencia. No obstante, esas miradas rápidamente se desviaron: se desviaron, por ejemplo (y eso podía conducirlos lejos), hasta llevar a uno de ellos a decir que, fuera como fuere la obra, la realidad, tal como la habían visto en Mundham, superaba con creces la ficción de cualquier obra teatral; era mejor en escenografía, vestidos, música, mujeres hermosas, hombros desnudos, todo… incluso en la incoherencia de los diálogos; era un espectáculo mucho mayor y más valiente, y organizado, por así decirlo, con mucha mayor indiferencia por los gastos. En Mundham se entretuvieron lo bastante para encontrarse, con igual sorpresa, identificados en la extrañeza de haberse visto ambos atrapados en semejante apuro. Straith dijo que suponía que su amiga se refería a que era extraño que él hubiera ido a Mundham; a lo cual ella contestó que ella le había atribuido a él idéntico juicio sobre su presencia.
+—Pero ¿por qué no iba a estar usted? —preguntó él—. ¿No es usted eso exactamente? ¿No es usted, en su estilo, como toda esa gente, hija de la fortuna y de la moda?
+Durante un momento no obtuvo más respuesta que si la hubiera herido en lo más vivo; lo cierto fue que en toda esa velada no obtuvo ninguna respuesta directa. Pero en el entreacto siguiente, sin tener en cuenta otros asuntos que acababa de tocar, ella exclamó de pronto:
+—¿Pero no sabe…? —se interrumpió.
+—¿Si sé qué?
+Una vez más, ella prosiguió sin hacerle caso.
+—Un lugar como Mundham es, para mí, un lugar de supervivencia, aunque el pobre Mundham en concreto, para mí, no habrá sobrevivido a esa visita… por lo que hay que compadecerlo, ¿no? Era un fantasma de mis viejos tiempos… ¡y desde entonces está enterrado!
+Straith casi dio un respingo al oír eso.
+—¿Vive usted unos «nuevos tiempos»?
+—¿Quiere decir que usted también?
+—Bueno, mis tiempos son ahora los de la mediana edad. En fin, tengo la sensación de que hace mucho que puse mi reloj en esa hora.
+—¡Oh, yo no tengo ni reloj! —repuso ella con una carcajada—. Estoy más allá de los relojes —tras lo cual añadió—: Podríamos habernos visto más… O, quizá tendría que decir que deberíamos haber aprovechado más nuestros encuentros.
+—Sí, nos hemos visto poco. Pero siempre he creído que era porque vivimos en mundos muy distintos.
+—¿No es usted feliz? —preguntó la señora Harvey con cierta incoherencia.
+Él le dedicó una sonrisa singular.
+—Acaba de decir que está más allá de los relojes… Yo estoy más allá de la infelicidad.
+Ella miró hacia otro lado y dijo:
+—Debería sin falta retener algo sobre la obra.
+—Por supuesto. Yo, desde luego, algo retendré.
+—Ah, en ese caso, ayúdeme y dígame qué es.
+—De todo corazón —dijo Straith—, si puede servirle de ayuda. Lo que retengo es la sensación de que nos hemos encontrado de nuevo.
+Ella movió la cabeza con uno de esos gestos lentos y tristes que en Mundham tanto habían impresionado a lady Claude.
+—Eso no me será de ayuda.
+—Entonces, debe permitir que le pregunte una cosa; tendría que haber intentado acercarme y preguntárselo antes, pero tenía demasiado miedo del embajador. ¿Por qué ha durado tanto… nuestra imposibilidad?
+—Bueno, sólo puedo explicar mi forma de verlo, que es… que siempre ha sido… que usted lo sentía mucho por mí, pero experimentaba una especie de escrúpulo que le impedía dejarme claro que sólo podía ofrecerme compasión.
+—¿Puedo ir a visitarla? —preguntó Straith al cabo de unos minutos.
+La respuesta de ella, que tuvo que esperar un rato, se parecía tan poco a una respuesta como la de él.
+—¿De verdad no es feliz? ¿No lo tiene todo?
+—¡Es usted muy hermosa! —dijo él a modo de contestación—. ¿Puedo ir?
+Ella dudó.
+—¿Dónde está su estudio?
+—Oh, no está lejos. No se inquiete; puedo ir andando o, incluso, tomar un transporte público.
+La señora Harvey, una vez más, aguardó un poco. Después contestó.
+—¿Podría ir yo?
+—Estaría encantado.
+Lo dijo con rapidez, casi con precipitación; sin embargo, el acuerdo, poco después, pareció haber dejado entre ellos cierta torpeza, y como si quisiera cambiar de tema y, al mismo tiempo, relajar la tensión, ella, de repente, le recordó algo que había dicho antes.
+—Estaba usted a punto de explicarme el motivo concreto de su presencia.
+—Oh, sí. Veo mis trajes.
+—¡Sus trajes! —exclamó ella, intrigada.
+—Los del segundo acto. Son míos, los he dibujado yo.
+—¿Usted? —dijo ella, sin poder controlar el tono.
+—Yo —miró al frente—. Por dinero. Y ni siquiera nos hemos fijado en ellos.
+—La verdad es que yo no —confesó ella. Pero lo confesó como señal de amabilidad hacia él y esa amabilidad también inspiró algo que dijo en el ventoso porche, acabada la función, cuando el lacayo de la amiga, una dama gruesa, rica y enormemente satisfecha, que la había traído y ahora se encontraba con ella, tras bajar de su butaca en el anfiteatro, salió a asegurarse que estaba el cupé.
+—¿Puedo hacer algo con sus cosas?
+—¿Hacer algo?
+—Después de visitarle. Escribir algo… sobre sus cuadros. Escribo regularmente en la prensa —dijo la señora Harvey.
+Él se mostró sorprendido, igual que ella en la platea.
+—¿Para un periódico?
+—Para el Blackport Banner. Una «Carta de Londres». Hablo de los libros nuevos, las nuevas obras de teatro, cualquier bobada… un poco de música, un poco de chismorreo, un poco de «arte». Usted puede ayudarme, me hace mucha falta, con lo del arte. Escribo tres al mes.
+—¿Usted? ¿Con lo maravillosa que es? —dijo, igual que lady Claude. Y reprimió tan mal su sorpresa como poco antes la señora Harvey en la platea.
+—¡Oh, igual que usted, lo hago por dinero!
+Y, tras esas palabras, siguiendo las indicaciones del lacayo, su vieja amiga se sumergió entre la multitud.
+IV
+En el estudio, donde fue ella a verlo aquella misma semana, lo primero que hizo fue admirarse al ver la espléndida abundancia de su obra. No dejaba de mirarlo todo encantada, tan conmovida que, en sus propias palabras, estaba apabullada.
+—Tiene usted maravillas que enseñar.
+—¡Desde luego! —dijo Stuart Straith.
+—Ahí es donde me gana usted.
+—Me parece que, en eso —prosiguió él—, gano a casi todo el mundo.
+—¿Y todo es reciente?
+Igual que ella, él miró a su alrededor.
+—Algunas cosas son muy antiguas. Pero debo confesar que mis obras tienden a envejecer extraordinariamente deprisa. La verdad es que ahora me parece que nacen viejas.
+Al cabo de un rato, como tenía por costumbre, ella volvió a cierto asunto ya hablado.
+—Es usted infeliz. No es cierto que esté más allá de la felicidad. Está usted instalado, asentado limpia y llanamente en la infelicidad.
+—Bien —dijo Straith—, si me rodea como un desierto en el que estoy perdido, viene a ser lo mismo. Pero quiero que me cuente algo de usted.
+Primero ella siguió recorriendo la sala; después sacó un cuaderno y se lo tendió.
+—Esta vez insistiré en tomar notas. El otro día, en el teatro, por su culpa no pude hacerme la menor idea de la obra, y no podemos permitirnos estas cosas. ¡Si no hubiera sido por mi gruesa y vieja amiga y los periódicos del día siguiente! —mientras seguía mirándolo todo, iba diciendo—: ¡Magnífico! —y también—: ¡Oh, qué estilo! —y después se detuvo para obtener una impresión general, para captar el encanto del lugar. El estudio, de techo elevado, hermoso, pulcro, con dos o tres tapices pálidos y varios muebles antiguos y raros, mostraba un orden perfecto, una ausencia de objetos desperdigados, como si lo hubieran barrido y ordenado para la ocasión hasta dejarlo casi en exceso inmaculado. Estaba pulido y hacía frío, bastante frío para la estación y el tiempo; y el mismo Stuart Straith, abotonado y cepillado, tan limpio y refinado como su estudio, bien podría haberle recordado, al entrar, el capitán de un barco desnudo y vacío que aguardara en cubierta la llegada de un cargamento.
+—¿Puedo mirarlo todo? ¿Puedo «utilizarlo» todo?
+—Oh, no. De ninguna manera puede utilizarlo todo. Ni siquiera la mitad. ¿Le estropeé su «Carta de Londres»? —prosiguió al cabo de un momento.
+—Nadie puede estropearlas tanto como yo. No soy capaz de hacerlas, no sé cómo hacerlas y no quiero aprender. Las escribo mal y, además, a la gente le gusta la basura. Por supuesto, me van a echar.
+Estaba en el centro de la habitación y parecía que él, inquieto y errático, describiera a su alrededor círculos grandes y lentos.
+—¿Hace tiempo que las escribe?
+—Dos o tres meses, esta serie. Pero he hecho otras y ya sé lo que pasa. ¡Oh, querido amigo, qué cosas tan raras he hecho!
+—¿Y es un trabajo bien pagado?
+Ella dudó y después exhaló un gracioso suspiro de indiferencia.
+—Tres chelines con nueve peniques. ¿Está bien? —él se había detenido delante de ella y la miraba de arriba abajo. Ella prosiguió—: ¿Cuánto gana usted por lo que hace para el teatro?
+—Me parece que un poco más que usted. Cuatro con seis peniques. Pero es lo único que he hecho hasta la fecha. No me han ofrecido nada más.
+—Bueno, pero ya le ofrecerán más cosas, ¿verdad?
+El pobre Straith seguía dando vueltas.
+—¿Le gustaron? ¿Le gustó el color? —pero se detuvo de nuevo—. ¡Oh, se me había olvidado que no nos fijamos!
+Rieron un momento.
+—Le aseguro que me fijé en ellos en el Banner. «Los trajes del segundo acto son de una maravillosa belleza», dije.
+—Oh, eso les gustará a los directores —otra vez delante de ella, parecía examinarla de pies a cabeza—. Habla usted de «utilizar» cosas para sus escritos. Si se describiera a sí misma, ¿cómo lo haría?
+—Me mira —dijo la señora Harvey— como si diseñara usted mis trajes. Cómo me visto, lo que hago, ¿es eso lo que quiere saber?
+—¿Qué ha sido de su vida? —preguntó Straith.
+—¿Cómo sigo adelante? —prosiguió ella, como si no lo hubiera oído—. Si no sigo adelante… Usted sí —declaró mientras miraba de nuevo por todas partes.
+Una vez más, la respuesta hizo que él volviera a empezar, si bien tras una breve pausa.
+—¿Durante cuánto tiempo ha sido…?
+—¿He sido qué? —preguntó ella, al ver que él vacilaba.
+—Infeliz.
+Ella le sonrió desde un abismo de indulgencia.
+—Durante el mismo tiempo que usted ha ignorado… que yo estaba esperando su compasión. Ah, aunque yo sabía, según creo, que usted suponía que eso me heriría, pero no era capaz de explicarle que era ya lo único que podía ayudarme. Compadézcase ahora de mí. Es lo único que quiero. No me importa nada más. Pero hágalo.
+En aquel momento, él se vio obligado a ocuparse de un asunto menor y cotidiano antes de regresar a otro tan importante y extraño. El joven que tenía a su servicio llegó con una bandeja de té y pasaron unos minutos mientras le hacía sitio, servía a la señora Harvey, le ofrecía asiento y despedía al joven.
+—¿Y en qué clase de piedad podría soñar yo —preguntó él cuando por fin pudo sentarse a su lado— cuado yo también sufría tanto?
+—¿Sufría? —preguntó ella—. Pero usted era feliz… entonces.
+—¿Feliz porque no me considerara usted lo bastante bueno? Porque eso fue lo que pasó —insistió él—. Usted tenía éxito, un éxito inmenso. Talento, futuro, grandes posibilidades; y entendí perfectamente que, dado todo eso y dada también mi situación mucho menos relevante, quisiera usted reservarse.
+—¡Oh, oh! —exclamó ella, como si la hubiera herido.
+—Lo entiendo, pero ¿cómo iba eso a hacerme feliz? —preguntó Straith.
+La señora Harvey se volvió hacia él con la mano en la antigua herida que ahora podía soportar.
+—¿Quiere decir que durante todos estos años no ha sabido…?
+—¿Qué es lo que no he sabido? —dijo él con voz tan inexpresiva y mirada tan intensa que ella se limitó a exclamar otra vez un «¡Oh, oh!» que al instante se convirtió en un sollozo.
+IV
+Al principio, ella parecía reacia a recibirlo en su casa; pero él no lo entendió hasta que ella se marchó, tras dar vueltas una y mil veces a todo lo que su encuentro había agitado y había hecho subir a la superficie, y tras encajar recuerdos que, finalmente, acabaron teniendo un significado, si bien bastante oscuro. Por fin habían acordado que él iría a verla, pero no antes del final de la semana, cuando ella hubiera terminado el «traslado»: acababa de cambiar de casa; y, entretanto, él tenía mucho en que pensar mientras iba y venía, en aquella gélida cámara de sus esfuerzos pasados, que, incluso a él, le parecía uno de esos estudios que, cuando fallece un artista, se ordena y se abre al público, al que se le permite escudriñar todos los rincones. Lo que había sucedido era que, diez años antes —ahora se daba cuenta—, se había producido entre ellos un desdichado malentendido y habían aliviado su dolor con un orgullo perverso. Pero, sobre todo, se juzgaba a sí mismo con severidad, puesto que las mujeres, según creía, tenían que seguir adelante como pudieran, y, con dolor en el corazón, debía reconocer la importancia de la causa de los errores de aquella mujer. La señora Harvey había encontrado en la pompa del temprano éxito de su amigo idéntica base para su sensación de fracaso con él, en la época en que se veían con frecuencia y se apreciaban, que el respaldo que Straith había encontrado en la imagen de gran popularidad de su amiga para su convicción de que lo miraba por encima del hombro. Los dos se habían equivocado, como las almas sensibles con «temperamento artístico» se equivocan, no sólo al valorar la actitud del otro, sino también su situación material en el momento, lo que había hecho que se encerraran en un secretismo estúpido, donde su distanciamiento había crecido como una planta venenosa en la sombra. Él había estado convencido de que ella había seguido ganando los cinco mil al año que sus primeras ocho o diez novelas, tremendamente afortunadas, le habían aportado, de la misma manera que ella, por su parte, había pergeñado en el acierto de sus primeros éxitos, sus «cuadros del año» en tres o cuatro Academias, la teoría todavía más absurda sobre el tipo de carrera y las ganancias que le habrían proporcionado los grandes marchantes y los compradores inteligentes. Ahora parecía vulgar, pero entonces había sido grave. En cualquier caso, el error persistente en que Straith había incurrido al pensar en los «precios» de la señora Harvey había estado más que a la altura de las extrañas historias que a ella le llegaban de vez en cuando sobre los «precios» de él y que no habían hecho más que contribuir a su retraimiento.
+También para los dos, todo había cambiado: todo, menos la rígida conciencia de cada uno de la necesidad de ocultar esos cambios al otro. Si ella había alimentado durante años la amargura de no ser lo bastante «buena», eso era lo que había pesado más en su esfuerzo sostenido por parecer, como mínimo, tan buena como él. Entretanto, Londres era grande; Londres era ciego e ignorante; y no había sucedido nada que minara en Straith la ficción de la prosperidad de la señora Harvey. Allí, ante sus ojos, sentada a su lado, ella se había quitado una por una todas las vanas capas que cubrían un estado que, según confesó, hasta el momento había hecho todo lo posible —y siempre pensando en él— por ocultar. Escuchándola, él se había quedado helado ante la similitud con otras cosas que conocía bien. Las reconoció al oírlas y gimió al entenderlas. ¡Comprendía, por fin, todo lo que no había comprendido antes! Y, sin embargo, bien podría haber sonreído, desde el abismo que compartían, ante tan singulares semejanzas y repeticiones. Sin duda, como se decía a menudo, las artes eran hermanas, ¿y qué podría haber más parecido a la experiencia de uno que la experiencia del otro? Y, sin embargo, ella no se lo estaba contando todo. Él lo comprendía y, mientras escuchaba atentamente, tomaba la decisión de cerrar los labios por el momento y omitir su triste historia. En ese aspecto se habían entendido bien y ella no le había preguntado nada más. Conmovida al darse cuenta de que él no era feliz, la señora Harvey no se había podido contener y le había ofrecido su entrega como una manera —la primera que había surgido— de responder a los problemas de su amigo. En cualquier caso, ella le había descrito todas las fases que se pueden recorrer, a través de los «círculos literarios», en el camino al eclipse y la extinción. Sólo se conocía un momento de gloria y, si éste llegaba demasiado pronto, no se recuperaba más tarde: era casi cuestión de elección. Además, era posible que esta gloria no se aproximara ni de lejos a lo que decían unos rumores ridículos. En suma, Straith se daba cuenta de hasta qué punto conocía poco los círculos literarios y cualquier misterio que no fuera el suyo, sobre el que, ante lo inminente de su hundimiento, había velado con tanta inquietud.
+El viernes, cuando fue a verla, asistió a la más reciente de las fases en cuestión, que bien podía ser la última; lo que, al menos, era en sí ya un consuelo. Ella acababa de instalarse en un piso pequeño en el que, al ver la cuidadosa disposición de los objetos de los que todavía no se había separado, Straith comprendió por qué lo había hecho esperar. Allí compartieron —esos dos trabajadores agotados y desconcertados— un maravilloso momento de alegría, en su batalla perdida, y de frescura, en su perdida juventud; pero hasta después de que Stuart Straith se quitó también su pesada máscara y la puso sobre la mesa, al lado de la de su amiga, no empezaron a sentir que recuperaban parte de la posibilidad con el otro que los dos habían desaprovechado con cansancio. Pero la señora Harvey no acababa de admitir que Straith era como ella y que lo que ella había conseguido reducir a tres o cuatro habitaciones sencillas tenía una réplica perfecta en el vacío de su ordenado estudio y en sus obras acumuladas. Él se lo contó todo, se reservó tan poco como ella había callado en el encuentro anterior, mientras ella repetía una y otra vez: «¿Usted? ¿Con lo maravilloso que es?», como si lo que oía hiciera más oscuro su destino, como si el dolor de la decadencia de su amigo superara la alegría de sentirlo tan cercano. Cuando se enteró de que hacía tres años que no vendía un cuadro, «¿Usted? ¿Con lo maravilloso que es?», tuvo la impresión de que soplaba un aire frío en el crepúsculo de sus propias perspectivas. La decepción y la desesperación eran contagiosas, y ella podía esperar del futuro tan poco como él. Straith se echó a reír al constatar lo raro que era encontrarse con tan terriblemente poco, como decían ellos. Él se confió, pero con más alegría que tristeza, y, al final, abandonó todo orgullo, como si, después de un día agotador, se quitara unas botas que le apretaran para ponerse zapatillas. A ratos, parecían una pareja unida por alguna fechoría, dispuesta a llevar a cabo algún acto desesperado; y así se entregaban a la gran ironía —a la visión de la comicidad de los contrastes— que precede a las capitulaciones y a las desapariciones.
+Lo examinaron todo, remontaron el río casi seco reconstruyeron, explicaron, comprendieron: en definitiva, reconocieron el ejemplo singular que daban y cómo, sin sospecharlo, habían estado dándolo cada uno por su cuenta.
+—Nuestro caso es simple: se cansaron de nosotros —dijo Straith con familiaridad—. No hay caso más común, aunque para usted y para mí, cada uno en lo suyo, en los buenos tiempos parecía que nadie pudiera cansarse nunca, ¿verdad?
+Tras lo cual rememoraron, a pesar de lo horrible que era, los síntomas de saciedad desde el principio, y revivieron las horas inolvidables, ahora ya lejanas, en que empezó a vislumbrarse que tendrían que hacer frente a la verdad y dar el nombre justo a hechos injustos. Se rieron de sus primeras explicaciones e incluso de lo ridículo de sus primeros temores; compararon notas sobre la falibilidad de los remedios y esperanzas y, cada vez más unidos en la identidad de su lección, concluyeron los dos que, aunque parecía haber varios tipos de éxito, fracaso sólo había uno. Y, a pesar de todo, lo más duro no había sido tener que ir retrocediendo sino tener que jugar de farol tanto tiempo, como decía Straith, tener que aguantar el tipo. Sin embargo, en aquel momento casi los arrastraba la enormidad del alivio de no tener que fingir el uno delante del otro. Eso les daba toda la medida del motivo que su valor, en el caso de ambos, había puesto a su servicio en el silencio y la oscuridad.
+—Pero ahora, ¿qué motivo tendremos? —prosiguió Straith.
+Ella pensó.
+—¿Qué motivo tendremos para ser valientes?
+—Sí, para seguir adelante.
+—¿Para volver a Mundham, por ejemplo? Gracias a Dios, nunca volveremos a Mundham. Los Mundham han pasado a la historia. Nous n’irons plus au bois; les lauriers sont coupés[1] —cantó Straith—. Sale caro.
+—Lo que uno hace por los ricos siempre sale caro. No son los amigos pobres los que nos hacen pagar.
+—No, hay que tener medios para estar a su altura. No podemos permitirnos amigos opulentos. Pero no sólo nos cuestan dinero.
+—También imaginación —dijo la señora Harvey—, porque como ellos no tienen…
+—¿Tenemos que proporcionársela nosotros? Desde luego, necesitamos mucha para protegernos —asintió Straith—. Y lo más raro es que nos aprecian.
+Ella volvió a pensar un poco.
+—Eso es lo que hace más fácil cortar con ellos: nos perdonan.
+—Sí —dijo su compañero con una carcajada—, ¡siempre que no te conozcan demasiado…!
+—Te tratan como si fueras un amigo de toda la vida, pero ¿qué clase de valor queremos tener? —prosiguió ella.
+—Sí, al fin y al cabo, ¿qué queremos? —preguntó él.
+—Para aguantar, quiero decir. ¿Qué necesidad hay?
+Eso pareció sorprenderlo.
+—Ya entiendo. Al fin y al cabo, ¿por qué? El valor de no seguir…
+—Al menos, tenemos eso —declaró ella—, ¿no es verdad?
+Allí de pie, delante de la ventana pequeña y alta que daba sobre los tejados grises, dejaron que una profunda mirada comunicase lo que pensaban de su pasado y hablaron en un susurro cuya intensidad correspondía de algún modo a las circunstancias.
+—Si estamos vencidos… —prosiguió ella.
+—¡Al menos, lo estaremos juntos!
+Straith la abrazó; ella se dejó y él la estrechó entre sus brazos largo rato, como si sellaran un pacto. Pero cuando se sobrepusieron y pudieron examinar su acuerdo con mayor responsabilidad, las palabras con que ambos lo confirmaron sonaron a un tiempo dulces y tristes:
+—¡Y ahora, a trabajar!
+N. del T.:
+[1] Canción popular francesa: «No volveremos al bosque, han cortado los laureles»
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

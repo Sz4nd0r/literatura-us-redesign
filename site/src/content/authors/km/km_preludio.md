@@ -1,0 +1,1917 @@
+---
+layout: story
+title: “Preludio”
+slug: km_preludio
+source: https://www.literatura.us/idiomas/km/km_preludio.html
+tags:
+  - km_preludio
+  - km
+---
+Katherine
+Mansfield
+(Nueva Zelandia, 1888 -
+Francia, 1923)
+Preludio (1918)
+(“Prelude”)
+Prelude
+(Richmond: Hogarth Press, 1918, 68 págs.)
+Bliss and Other Stories
+(Londres: Constable & Company, 1920, 280 págs.)
+I
+Ni un dedo de sitio quedaba en el
+coche para Lottie y Keiza. Se bambolearon, cuando Pat las sentó en la
+cima de un montón de equipajes. La abuela tenía lleno de bultos su
+regazo, y Linda Burnell nunca había podido llevar en el suyo, durante
+un trayecto del viaje, ni siquiera un fragmento de chiquillo.
+Dominándolo todo iba Isabel, en lo alto, junto al nuevo criado, en el
+asiento del cochero. Paquetes, maletas y cajas se apilaban en el
+fondo.
+—Son cosas
+absolutamente necesarias, que yo no quiero perder de vista un solo
+momento —dijo Linda Burnell, con voz temblona por la excitación y la
+fatiga.
+Lottie y Kezia
+permanecían sobre el césped, precisamente detrás de la verja,
+dispuestas para el suceso, con sus chaquetillas de botones de metal,
+marcados con un ancla y con sus gorras de cintas que llevaban el nombre
+de un acorazado. Cogidas de la mano, con los ojos muy redondos y graves,
+miraban fijamente, primero, “esas cosas absolutamente necesarias”;
+después, a su madre.
+—Habrá,
+sencillamente, que dejarlas. Podemos abandonarlas —dijo Linda
+Burnell.
+Una extraña risita se
+escapó de sus labios; Linda se recostó contra los mullidos cojines de
+cuero y cerró los ojos. La risa hacía temblar su boca. Felizmente, la
+señora Samuel Joseph, que había seguido la escena desde detrás de
+la cortina de su salón, se acercaba contoneándose a lo largo del
+sendero del jardín.
+—¿Por qué no dejarme
+los niños, señora Burnell? ¡Podrían ir en el coche del camionero,
+cuando baje esta tarde! Hay que llevar todo lo que está en el camino,
+¿verdad?
+—Sí. Hay que llevar
+todo lo que está fuera —dijo Linda Burnell, agitando su blanca roano
+en dirección de las mesas y las sillas colocadas patas arriba,, sobre
+el césped, ante la casa.
+¡Qué facha tan absurda
+tenían! Debían colocarse en sentido opuesto, o era preciso que Lottie
+y Kezia se mantuviesen también cabeza abajo. Linda tenía ganas de
+decir: “¡poneos cabeza abajo, niñas, y esperad el camión!”. Esto
+le parecía tan deliciosamente gracioso que no podía escuchar a la
+señora Samuel Joseph.
+El cuerpo crujiente y
+grasiento se apoyó en la barrera y la cara voluminosa de jalea
+sonrió.
+—No se atormente
+usted, Mrs. Burnell. Lottie y Kezia podrán tomar el té con los
+niños en la nursery, y luego los meteré en el camión.
+La abuela reflexionó:
+—Sí, es verdad, es el
+mejor medio; se lo agradecemos mucho, Mrs. Samuel Joseph. Niños, dad
+las gracias a Mrs. Joseph.
+Un doble piar chillón.
+—Muchas gracias, Mrs. Joseph.
+—Que seáis buenas
+niñas y. . . venid más cerca —ellas se acercaron—. No olvidarse de
+pedir a Mrs. Joseph cuando tengáis necesidad de...
+—¡No, abuela!
+—No se atormente
+usted, Mrs. Burnell.
+A última hora, Kezia
+soltó la mano de Lottie y corrió al coche.
+—Yo quiero besar a mi
+abuela y decirle adiós otra vez.
+Pero llegó demasiado
+tarde. El coche rodaba ya a lo largo de la carretera que subía una
+pendiente. Isabel, henchida de orgullo, levantaba la nariz sobre el
+mundo entero; Linda Burnell estaba abatida, la abuela huroneaba entre
+el curioso baratillo que había juntado a última hora en su bolso de
+seda negra, para encontrar en él algo que dar a su hija. El coche
+desapareció en lo alto de la cuesta y más allá, entre reflejos del
+sol y del fino polvo dorado. Kezia se mordió el labio; pero Lottie,
+después de haber buscado cuidadosamente su pañuelo, comenzó a
+lamentarse.
+—¡Mamá, abuela!
+Mrs. Samuel Joseph la
+envolvió como una enorme y caliente cubretetera de seda negra.
+—Eso está bien,
+querida mía. Tienes que ser una niña valiente, ven a jugar en la nursery.
+Colocó su brazo
+alrededor de Lottie que lloraba y se la llevó. Kezia siguió haciendo
+muecas en la falda de Mrs. Samuel Joseph, desabrochada como siempre, que
+dejaba pasar dos largos lazos rosa del corsé...
+Las lágrimas de Lottie
+se secaron mientras subía la escalera; su aspecto a la puerta de la nursery,
+con los ojos hinchados, la nariz inflada, hizo mucha gracia a los
+pequeños de Samuel Joseph sentados en dos bancos, delante de una
+larga mesa recubierta de hule, adornada con grandes platos llenos de
+rebanadas de manteca y dos picheles morenos que humeaban débilmente.
+—¡ Oh! ¡Has llorado!
+—¡ Oh! ¡Se te han
+hundido los ojos en la cabeza!
+—¡Estás
+compietamente llena de placas encarnadas!
+Lottie se dió cuenta de
+su éxito, se hinchó y sonrió tímidamente.
+—Vete a sentar cerca
+de Jaidée, pollita —dijo Mrs. Samuel Joseph— y tú, Kezia,
+siéntate al extremo de la mesa, cerca de Moisés.
+Moisés se rió
+maliciosamente y la pellizcó al sentarse, pero ella no dió señal de
+haberse enterado. ¡ Cuánto aborrecía a los chicos!
+—¿.Qué prefieres?
+—preguntó Stanley, inclinado sobre la mesa, muy contento y
+sonriente—. ¿Por dónde quieres empezar, por las fresas con natilla o
+por el pan untado?
+—Fresas con natilla,
+haga el favor —contestó.
+Ah, ah! Cómo se reían
+todos, golpeando la mesa con sus cucharillas de té. ¡ Ah! ¡ Cayó en
+el cepo! ¡ Cómo la ha cogido! ¡Vaya con el viejo Stan!
+—Mamá. ¡Ha creído
+que era verdad!
+La misma Mrs. Samuel
+Joseph no pudo contener la sonrisa, vertiendo el agua y la leche.
+—No hay que hacerlas
+rabiar en su último día —dijo, haciendo ruido al respirar.
+Kezia mordió un enorme
+bocado de su rebanada y la plantó sobre su plato. La huella de los
+dientes formaba una delicia de enrejado. ¡No! ¡Todo eso le daba igual!
+Una lágrima corría a lo largo de su mejilla, pero no lloraba, no
+hubiera podido llorar delante de esos horribles Samuel Joseph; sentada,
+con la cabeza baja, como se le deslizaba dulcemente una lágrima, la
+engulló con un diestro lengüetazo, y se la bebió afites de que nadie
+la viese.
+II
+Después
+del té, Kezia volvió a dar vueltas por la casa. Lentamente subió por
+la escalera de servicio, atravesó el oficio y entró en la cocina.
+Sólo quedaba un pedazo de jabón amarillo cubierto de arena en un
+rincón de la ventana, y en el otro, un trapo de franela manchado por
+una bola de añil. La chimenea estaba llena de despojos. Kezia huroneó,
+pero no encontró más que un sujetavuelos con un corazón pintado
+encima, que había. pertenecido a la criada; lo dejó también y se fué
+deslizando a lo largo del estrecho pasillo hasta el salón. Habían
+corrido el estor, pero no por completo. Largas y brillantes rayas de
+sol, se filtraban a través. La sombra movecliza de un arbusto, bailaba
+fuera sobre las franjas doradas y, unas veces inmóvil, otras
+revoloteando, rozaba los pies de Kezia. ¡Zuum...! ¡Zuum...! Una mosca
+azul chocaba contra el techo; briznas de plumón encarnado quedaban
+pegadas a los clavos de la alfombra.
+La ventana del comedor
+tenía vidrios de colores en cada ángulo. Unos azules, otros amarillos.
+Kezia se asomó para ver una vez inás la azul avenida con los lirios
+azules que crecían junto a la verja, y después, la avenida amarilla
+con los lirios y la valla amarilla. Mientras ella miraba, una pequeña
+Lottie chinesca avanzó sobre el césped y se puso a secar las mesas y
+las sillas eon la punta de su delantal. ¿Era realmente Lottie? Kezia no
+estuvo segura del todo hasta haberla mirado por la ventana corriente.
+Arriba, en la habitación de su padre y de su madre, Kezia encontró una
+cajita de píldoras, negra y brillante por fuera y roja dentro, que
+contenía un pequeño copo de algodón.
+—Podría guardar un
+huevo de pájaro —decidió.
+En la habitación de la
+criada un botón automático había quedado cogido entre las junturas
+del entarimado, y en otra grieta algunas perlas y una larga aguja. Kezia
+sabía que en la habitación de su abuela no había nada; ella la había
+visto hacer su equipaje; fué hacia la ventana y se apoyó, pegando
+sus manos contra el cristal. A Kezia le gustaba quedarse así ante la
+ventana. Le gustaba la sensación del cristal frío y brillante contra
+sus palmas calientes y le gustaba también mirarse las yemas de sus
+dedos, que se quedaban blancas al apretarlos contra el cristal.
+Mientras permanecía así, el día se apagó y la noche vino, Y con la
+noche, el viento se deslizó huroneando y ululando. Las ventanas de la
+casa vacía temblaron; un crujido salía de los muros y de los
+entarimados, un trozo de hierro desprendido golpeaba lúgubremente
+contra el tejado. Kezia se quedó de pronto absolutamente tranquila, con
+los ojos muy abiertos y las rodillas apretadas una contra otra. Tenía
+miedo. Quería llamar a Lottie y seguir llamándola mientras bajase la
+escalera y saliera de la casa. Pero la cosa estaba justamente detrás
+de ella esperando en la puerta, en lo alto de la escalera, debajo de la
+escalera, escondiéndose en el corredor, dispuesta a lanzarse por la
+puerta de servicio. Pero en la puerta de servicio estaba también
+Lottie.
+—¡Kezia! —la
+llamaba alegremente—. ¡ El camionero está aquí! ¡Todo está ya en
+el camión, y hay tres caballos, Kezia! Mrs. Samuel Joseph nos ha dado
+un gran chal para abrigarnos y ha dicho que te abroches el abrigo. Ella
+no saldrá porque tiene el asma.
+Lottie se sentía muy
+importante.
+—¡Vamos, niñas! —gritó
+el camionero.
+Hunde sus gruesos
+pulgares bajo los brazos de las niñas, las iza en el aire. Lottie se
+arregla el chal “de un modo admirable” y el camionero envuelve sus
+pies en un pedazo de vieja manta.
+—Levantadlos despacio.
+Ellas hubieran podido
+ser un par de jóvenes poneys. El camionero pasó la mano sobre
+las cuerdas que retenían su carga, desenganchó la cadena de la rueda
+y, silbando, se lanzó al lado de las niñas.
+—¡Apriétate contra
+mí! —dijo Lottie—, porque si no, vas a tirar el chal por tu lado,
+Kezia!
+Pero Kezia se acercaba
+al camionero. Él la dominaba, alto como un gigante; olía como las
+nueces y las cajas nuevas de madera.
+III
+Beryl
+estaba sola en la sala común, cuando Stanley apareció en traje de
+sarga azul, cuello almidonado y corbata de lunares. Tenía el aspecto
+limpio y bien cepillado hasta un punto casi excesivo; iba a la ciudad, a
+pasar el día. Se dejó caer en su silla, sacó su reloj y lo colocó
+junto a su plato.
+—Me quedan exactamente veinticinco
+minutos —dijo—. Usted podría ir a ver sí el porridge está
+dispuesto, Beryl.
+—Mamá acaba de ir a verlo —contestó
+Beryl.
+Ella se sentó a la mesa y sirvió
+el té a su cuñado.
+—Gracias.
+Stanley bebió un sorbo.
+—¡Vaya! —dijo en tono de
+sorpresa—, ha olvidado usted el azúcar.
+—¡Oh! ¡Perdón!
+Pero Beryl, aun entonces no lo
+sirvió: empujó hacia el el azucarero. ¿Qué significaba aquello? Los
+ojos azules de Stanley, mientras se servía, se dilataron; parecían
+estremecerse. Lanzó una rápída mirada a su cuñada y se echó hacia
+atrás.
+—No ocurre nada malo, ¿verdad?
+—preguntó negligentemente, arreglándose la corbata.
+Beryl inclinaba la cabeza y hacía
+al plato dar vueltas entre sus dedos.
+—Nada —dijo con tenue voz.
+Después levantó también sus ojos
+y sonrió a Stanley.
+—¿Por qué iba a ocurrir nada
+malo?
+—¡Oh! Por nada que yo sepa. Me
+parecía que tenía usted un aire algo...
+En este momento la puerta se abrió
+y tres niñas aparecieron llevando cada una su plato de porridge.
+Venían uniformadas con jerseys azules y pantalones cortos; sus morenas
+piernas estaban desnudas y todas ellas iban peinadas con trenzas
+aderezadas en la forma que entonces se llamaba una cola de caballo.
+Tras ellas venía la abuela Fairfield, con la bandeja.
+—¡Cuidado, niñas! —dijo la
+abuela.
+Pero las niñas tenían el mayor
+cuidado. Les encantaba que se les permitiese llevar objetos.
+—¿Habéis dado los buenos días a
+vuestros padres?
+—Sí, abuela.
+Las niñas se instalaron en el banco
+frente a Stanley y Beryl.
+—Buenos días, Stanley.
+La anciana señora Fairfield le
+tendió su plato.
+—Buenos días, madre. ¿Cómo
+está el pequeño?
+—Admirablemente. No se ha
+despertado anoche más que una sola vez. ¡Qué mañana tan ideal!
+La anciana se interrumpió con la
+mano sobre la hogaza de pan para mirar el jardín, por la puerta
+abierta. Se oía el mar. A través de la ventana abierta de par en par
+el sol inundaba los muros pintados de amarillo y el entarimado desnudo.
+Todo sobre la mesa brillaba y centelleaba. En el centro había una vieja
+ensaladera llena de campanillas rojas y amarillas. Sonrió, y una
+expresión de profundo júbilo brilló en sus ojos.
+—Podrías cortarme una rebanada de
+ese pan, madre —dijo Stanley—. Sólo me quedan doce minutos y
+medio antes que pase el coche.
+—¿Ha dado alguien mis zapatos a
+la criada?
+—Sí, ya están listos.
+La calma de la señora Fairfield no
+se había perturbado.
+—¡Oh! ¡Kezia! ¿Por qué eres
+tan sucia? —exclamó Beryl desesperada.
+—¡Yo, tía Beryl!
+Kezia la miró abriendo los ojos.
+¿Qué había hecho ella ahora? Sólo cavar un canalillo justamente en
+mitad de su plato de papilla; lo había llenado de leche y estaba
+comiendo los bordes. Pero esto lo venía haciendo todas las mañanas sin
+que nadie le hubiese dicho nada hasta aquel día.
+—¿Por qué no puedes comer
+correctamente, como Isabel y Lottie?
+¡Qué injustas son las personas
+mayores!
+—Pero Lottie hace siempre una
+isla, ¿verdad, Lottie?
+—Yo no —dijo categóricamente
+Isabel—. Espolvoreo simplemente de azúcar mi papilla, pongo leche por
+encima y me la como. Únicamente los niños pequeños son los que juegan
+con lo que tienen para comer.
+Stanley apartó su silla y se
+levantó.
+—¿Podrías hacer que trajesen mis
+zapatos, madre? Y usted, Beryl, si ha terminado, quisiera que se llegase
+hasta la puerta e hiciese parar la diligencia. Isabel, corre a preguntar
+a tu madre dónde ha puesto mi sombrero hongo. Espera un minuto:
+¿Habéis estado jugando con mi bastón, niños?
+—No, papá.
+—Pues yo lo había dejado aquí.
+Stanley empezó a refunfuñar.
+—Me acuerdo exactamente de haberlo
+colocado en este rincón. Ahora, ¿quién lo ha tomado? No hay tiempo
+que perder. ¡De prisa! Es preciso encontrar el bastón.
+Hasta Alicia, la criada, tuvo que
+tomar parte en las pesquisas.
+—¿No se ha servido usted de él
+para atizar el fuego de la cocina por casualidad?
+Stanley se precipitó en la
+habitación donde Linda estaba acostada.
+—¡He aquí algo insensato! No
+consigo guardar una sola de mis cosas. ¡Ahora han escamoteado mi
+bastón!
+—¿Tu bastón, amigo mío? ¿Qué
+bastón?
+En circunstancias semejantes, el
+aire incierto de Linda no podía ser sincero, pensó Stanley. ¿Nadie,
+pues, simpatizaba con él?
+—¡El coche! ¡El coche, Stanley!
+—gritó desde la puerta del jardín, la voz de Beryl.
+Stanley agitó el brazo en
+dirección de Linda: “¡No tengo tiempo de decir adiós!” —gritó.
+Y tenía la intención de castigarla así.
+Cogió bruscamente su sombrero, se
+lanzó fuera de la casa y bajó corriendo a la avenida del jardín. Sí,
+la diligencia estaba allí, esperando, y Beryl, asomándose por encima
+de la puerta abierta, reía, con el rostro levantado hacia alguien,
+exactamente como si nada hubiese ocurrido.
+¡Las mujeres no tienen corazón!
+¡Qué maneras tienen de considerar como una cosa muy natural que el
+papel del hombre sea fatigarse por ellas, mientras ellas ni siquiera se
+molestan en evitar que se pierda su bastón!
+El conductor pasó ligeramente su
+látigo por la espalda de los caballos. “¡Adiós, Stanley!” —gritó
+Beryl, con una voz suave y alegre—. Era bastante fácil decir
+adiós. Y ella se quedaba allí, ociosa, resguardándose los ojos con su
+marro. Lo peor era que Stanley estaba obligado a gritar también adiós,
+con el fin de salvar las apariencias. Luego la vió volverse, esbozar un
+saltito, y regresar corrienclo a casa. ¡Estaba contenta de
+desembarazarse de él!
+Sí, estaba complacida por ello.
+Entró corriendo en la sala y gritó: “¡Se ha marchado!” Linda
+llamó desde su habitación: “¡Beryl! ¿Se ha marchado Stanley?” La
+vieja señora Fairfield apareció, llevando el bebé vestido con una
+chaquetita de franela.
+—¿Se ha marchado?
+—¡Se ha marchado!
+¡Oh, qué alivio! ¡Qué diferencia
+cuando el hombre abandona la casa! Sus mismas voces eran ya otras, al
+llamarse entre ellas; su tono era más cálido y tierno; se hubiera
+dicho que guardaban un secreto común. Beryl fué hacia la mesa: “Toma
+otra taza de té, mamá.Está todavía caliente”. Ella tenía gana de
+celebrar, de alguna manera, el hecho de que podían hacer ahora lo que
+quisiesen. Ya no había allí hombre que las molestase; todo un
+magnífico día era suyo.
+—No, gracias, pequeña —dijo la
+anciana señora Fairfield; pero su manera, en aquel momento, de hacer
+saltar al bebé y de decirle: “¡A-gue..., a-gue..., a-ga!”,
+indicaba que su sentimiento era el mismo. Las niñitas huyeron al
+cercado, como pollitos escapados de una jaula.
+Aun Alicia, la criada, que estaba
+fregando en la cocina, fué ganada por el contagio y prodigó el agua
+preciosa de la cisterna de una manera en absoluto extravagante.
+—¡Oh, esos hombres! —dijo ella.
+Y sumergió la tetera en el barreño
+y la mantuvo bajo el agua, aunque ya las burbujas habían acabado de
+subir, como si la tetera fuese también un hombre y el ahogarlo fuera un
+destino demasiado suave.
+—Sí, Stanley —dijo la anciana,
+al salir.
+—¡Oh! Espere medio segundo; creo
+due nadie sabe dónde han puesto mis zapatillas. Supongo que no las
+podré tener antes de un mes o dos... ¿Qué?
+Un “¡sí!” venía de Linda.
+Estaban arriba del todo, en el bolso de tela, marcado urgente.
+—Bien; podría usted dármelas,
+¿quiere usted, madre?
+—Sí, Stanley.
+Burnell se levantó, se estiró y se
+acercó al fuego. Le volvió la espalda y levantó los faldones de su
+chaqueta.
+—¡Caray! Es un revoltijo
+precioso. ¿Verdad, Beryl?
+Beryl bebía su té a sorbitos de
+codos sobre la mesa. Sonrió por encima de su taza. Llevaba un delantal
+que nadie conocía; las mangas de su blusa, recogidas hasta el hombro,
+descubrían sus bellos; brazos sembrados de pecas, y se había dejado
+caer el, pelo sobre su espalda en una larga trenza.
+—¿Cuánto tiempo cree usted que
+nos falta para poner orden en esto? Quince días, al menos, ¿no es
+así? —dijo con aire burlón.
+—De seguro que no —dijo
+suavemente Beryl—; lo más fuerte ha pasado ya. La criada y yo hemos
+bregado como esclavas, todo el día y desde que mamá llegó, también
+ella ha trabajado como un caballo. No nos hemos sentado ni un momento.
+¡Vaya un día!
+Stanley se olió un reproche.
+—No esperaban ustedes que me
+escapara del despacho para venir aquí a clavar alfombras, ¿no es
+verdad?
+—Ciertamente que no —dijo Beryl,
+riendo.
+Dejó su taza y se escapó.
+—¿Qué diablo espera de nosotros?
+—preguntó Stanley—. ¿Quiere sentarse y estar dándose aire con un
+abanico . de hoja de palmera, mientras yo traigo un equipo de
+profesionales para el trajín? ¡Dios mío, bien puede ella echar una
+mano cuando haga falta sin envanecerse, a cambio de... !
+Y se quedó sombrío, porque las
+chuletas empezaban a pelearse con el té en su estómago delicado. Linda
+alzó una mano y le atrajo al lado de su sofá.
+—Es un mal momento para ti,
+querido —dijo ella. Sus mejillas estaban pálidas, pero sonrió y
+hundió sus dedos en la gruesa mano roja que ella mantenía cogida.
+Burnell se calmó. De pronto silbó: “Pura como un lirio, alegre y
+altiva... Buena señal”.
+—¿Crees que lo pasarás bien
+aquí? —preguntó él.
+—No quisiera decirlo, pero creo
+que sí. Mamá, Kezia está bebiendo el té en la taza de la tía Beryl.
+IV
+La
+abuela se las llevó a acostar. Subía delante de ellas, con una vela.
+La escalera resonaba bajo sus pasos. Isabel y Lottie dormían solas en
+el mismo cuarto; Kezia se apelotonó en el lecho blando de su abuela.
+—¿No tendremos sábanas,
+abuelita?
+—No, esta noche, no.
+—Esto hace cosquillas —dijo
+Kezia—, pero es como los indios. —Atrajo a su abuela y la besó en
+la barbilla—. Ven a acostarte pronto y serás mi jefe indio.
+—¡Qué boba eres! —dijo la
+anciana, arropándola como a la niña le gustaba estar arropada.
+—¿No vas a dejarme una vela?
+—No. ¡Chist! ¡Duérmete!
+—Entonces, ¿se podrá dejar la
+puerta abierta?
+Se quedó hecha un ovillo pero no se
+durmió. De toda la casa venían ruidos de pasos. La casa misma crujía
+y se movía; gruesas voces venían cuchicheando desde abajo. Una vez se
+oyó el brusco estallido de la risa de la tía Beryl y otra vez el ruido
+de corneta de Burnell que se sonaba. Por la ventana, centenares de gatos
+negros, con ojos amarillos, sentados en el cielo, la observaban. Pero no
+tenía miedo.
+Lottie decía a Isabel:
+—Esta noche voy a rezar en la
+cama.
+—No, no puedes, Lottie —Isabel
+era muy enérgica—. Dios permite que se rece en la cama sólo cuando
+se tiene fiebre.
+—Entonces Lottie cedió:
+Gentil
+Jesús, dulce y bueno,
+mira a un pequeño niño.
+Ten piedad de mi, simple Lizzie,
+permite que vaya hacia ti.
+Después
+se acostaron espalda contra espalda, correspondiéndose sus culitos
+con toda exactitud y se durmieron.
+De pie en un mantel de claro de
+luna, Beryl Fairfield se desnudaba. Estaba cansada, pero no tanto como
+ella decía, dejando caer sus ropas, echándose hacia atrás, con un
+gesto lánguido, sus cabellos cálidos y pesados.
+—¡Oh! ¡Qué cansada estoy, qué
+cansada!
+Cerró los ojos un momento pero sus
+labios sonreían. Su respiración subía y bajaba en su pecho como dos
+alas que la estuviesen abanicando. La ventana estaba abierta de par en
+par. Hacía calor y en algún sitio, allá abajo, en el jardín, un
+hombre moreno y esbelto de ojos burlones se paseaba de puntillas entre
+los arbustos, cogía un gran ramo, se deslizaba bajo la ventana y se
+lo tendía a Beryl. Ella se vió asomada hacia fuera. Él hundía la
+cabeza en las brillantes flores de cera, malicioso y sonriente. “¡No,
+no!” —dijo Beryl. Se apartó de la ventana y se puso su camisón.
+—¡Cuidado que Stanley es poco
+razonable, a veces! —pensaba ella, mientras lo abrochaba. Después,
+cuando se acostó, le vino el viejo pensamiento, el cruel pensamiento:
+—¡Ah, si tuviera dinero propio!
+Un hombre joven, inmensamente rico,
+acaba de llegar de Inglaterra. Él se la encuentra por una pura
+casualidad... El nuevo gobernador no es casado. .. Hay un baile en
+casa del gobernador... ¿Quién es esa criatura exquisita con un traje
+de satén verde nilo? Beryl Fairfield...
+—Lo que me gusta —dijo Stanley
+apoyado contra la cama y rascándose fuertemente los hombros y la
+espalda, antes de acostarse— es que yo he conseguido esta finca por
+nada, Linda. Al decírselo al pequeño Walle Bell, me respondió que no
+podía comprender cómo ellos habían aceptado la cifra. ¿Ves? El
+terreno, aquí, aumentará de precio. Dentro de diez años, poco más
+o menos... Naturalmente, habrá que empezar muy despacito, y disminuir
+cuanto más se pueda los gastos. Aún no duermes, ¿verdad?
+—No, querido; he oído todas tus
+palabras —dijo Linda.
+Él saltó a la cama, se inclinó
+sobre ella y sopló la vela.
+—Buenas noches, señor negociante
+—dijo ella; y, cogiéndole la cabeza por las dos orejas, le dió un
+rápido beso. Su voz lejana parece salir de un pozo muy hondo.
+—Buenas noches, querida.
+Deslizó el brazo bajo su cuello, y
+la atrajo hacia él.
+—Sí, apriétame bien —dijo la
+voz débil, desde lo hondo del pozo.
+Pat, el criado, se revolcaba en su
+cuartito, detrás de la cocina. Su chaqueta, de tejido impermeabilizado,
+y sus pantalones, colgaban de la puerta como un ahorcado. Los dedos de
+sus pies torcidos sobresalían de los bordes de su manta, y en el
+entarimado, junto a ella, se encontraba una jaula de pájaros, vacía,
+hecha de juncos. Parecía una caricatura.
+—Honk, honk —hacía la criada,
+que tenía vegetaciones.
+La última en acostarse fué la
+abuela.
+—Cómo, ¿no duermes todavía?
+—No; te esperaba —dijo Kezia.
+La anciana suspiró y se tendió a
+su lado. Kezia hundió su cabeza bajo el brazo de su abuela y dió un
+gritito. Pero la abuela no la apretó sino débilmente contra ella; dió
+otro suspiro, se quitó los dientes y los puso en un vaso de agua, en el
+suelo.
+En el jardín, unos pequeños buhos,
+colocados en las ramas de un álamo, llamaban “¡Hu, hu! ¡Hu, hu!”
+Y de los arbustos, muy de lejos, salía un rudo y precipitado cacareo:
+“Ha-ha-ha... Ha-ha-ha...”.
+V
+Vino
+el alba, áspera y fría, con nubes encarnadas en un cielo verdoso y
+gotas de agua en cada hoja y cada brizna de hierba. Una brisa sopló
+sobre el jardín, escurriendo el rocío, haciendo caer los pétalos.
+Tiritó por encima de las praderas empapadas, y se perdió en el fondo
+de los setos oscuros. En el cielo, minúsculas estrellas flotaron un
+momento para desaparecer, disueltas como burbujas de aire. Y,
+distintamente, en la calma matutina, se oyó el riachuelo que corría a
+través de la pradera, corría por encima de las piedras oscuras,
+corría y volvía a salir de los hoyos de arena, se escondía bajo
+grupos de sombríos matorrales de bayas, y se derramaba en un pantano
+de berros y de flores amarillas.
+Y después, al primer rayo de sol,
+comenzaron los pájaros. Grandes pájaros atrevidos, estorninos y
+mynahs, silbaban en el césped; los pequeños jilgueros, chorlitos y
+papamoscas revoloteaban de rama en rama. Un gracioso martín pescador,
+en la valla del cercado, alisaba las plumas de su lozana belleza, y un
+trepador cantaba sus tres notas, reía y las cantaba de nuevo.
+—¡Qué bulliciosos son los
+pájaros! —se decía Linda en su sueño. Se paseaba con su padre por
+una pradera verde sembrada de margaritas. De repente, él se inclinó,
+separó las hierbas y le mostró un minúsculo copo de plumón a sus
+pies. —“¡Oh! ¡Papá, el amor!”—. Ella hizo de sus manos una
+copa, tomó el pajarito y le acarició la cabeza con el dedo. Estaba
+completamente domesticado, pero ocurrió una cosa extraña. Mientras lo
+acariciaba, comenzó a hincharse, a erizarse, a dilatar su garganta;
+se puso cada vez más gordo, y sus ojos redondos parecían sonreírla
+con un aire malicioso. Los brazos de Linda no bastaban ya para
+contenerlo, y lodejó caer en su delantal. Aquello se había convertido
+en un bebé con una cabeza gorda y un pico de pájaro embotado que se
+abría y se cerraba. Su padre estalló en una gran risa con sones de
+castañuelas y ella se despertó para ver a Burnell delante de las
+ventanas que levantaba por completo el estor.
+—Buenos días —dijo él—. ¿No
+te habré despertado, verdad? Nada hay que decir esta mañana contra el
+tiempo.
+Estaba encantado. Este sol imprimía
+el sello final sobre su compra.. Tenía la impresión de haber comprado
+también aquel día tan bello, de que lo había hecho añadir gratis,
+a la casa y al terreno. Corrió a bañarse y Linda se volvió hacia
+atrás apoyándose en un codo para ver la habitación a la luz del día.
+Todos los muebles habían encontrado su sitio, todos los viejos arreos
+—como ella decía—, hasta las fotografías sobre la chimenea y las
+botellas de medicina en la repisa, encima del tocador. Los trajes
+estaban colocados en una silla, sus trajes de salir: una capa de
+púrpura y un sombrero redondo adornado con una pluma. Linda,
+mirándolos, deseaba también marcharse de esta casa. Se reía,
+yéndose lejos de todos ellos, en coche, dejando a todo el mundo, sin
+mover siquiera la mano.
+Stanley volvía, ceñido con una
+toalla reluciente y golpeándose en los muslos. Tiró la toalla mojada
+encima del sombrero y de la capa y, manteniéndose firme en el centro
+exacto de un cuadrado de luz, empezó a hacer sus ejercicios:
+respiración profunda, flexiones de rana y puntapiés. Era tan feliz con
+su cuerpo musculoso, obediente, que se golpeó el pecho e hizo salir
+un “¡ah!” sonoro. Pero este vigor sorprendente parecía colocarle
+a muchos mundos de Linda, tendida en la blanca cama deshecha, que le
+miraba como desde lo alto de las nubes.
+—¡Demonio! —dijo Stanley, que
+se ponía una camisa blanca, muy tiesa, al descubrir que un idiota
+cualquiera había abrochado el cuello de modo que él se encontraba
+prisionero. Anduvo a grandes pasos hacia Linda, agitando los brazos.
+—Pareces un gran pavo, muy gordo
+—dijo ella.
+—¡ Gordo!, sí, ¡me gusta! —dijo
+Stanley—. No tengo un centímetro cuadrado de grasa en mí. Toca esto.
+—Es roca, es hierro —dijo ella,
+burlona.
+—Te sorprendería —dijo Stanley,
+como si ello fuese de un interés palpitante— el número de tipos
+gordos que hay en el club. Tipos jóvenes, ¿sabes?, hombres de mi edad.
+Empezó a hacerse la raya en su pelo
+rojo y enmarañado, muy tieso; sus ojos azules, fijos y redondos en el
+espejo; las rodillas, dobladas, porque el tocador —¡el diablo se lo
+lleve!— estaba siempre un poco bajo para él...
+—El pequeño Wally Bell, por
+ejemplo. . . —Se irguió, describiendo con su cepillo de la cabeza una
+enorme curva sobre sí mismo—. Debo decir que me horrorizaría...
+—Querido, no te atormentes. Nunca
+serás gordo. Eres demasiado enérgico.
+—Sí, sí, tienes razón —dijo
+él, consolado por centésima vez, y sacando de su bolsillo una navaja
+de nácar, empezó a arreglarse las uñas.
+—¡ El desayuno, Stanley! —gritó
+Beryl desde la puerta—. ¡Oh! Linda, mamá dice que no te levantes
+todavía.
+Ella pasó su cabeza por la puerta
+entreabierta. Llevaba prendida en el pelo una gran brizna de celinda.
+—Todo lo que anoche habíamos
+dejado en el mirador, lo hemos encontrado esta mañana completamente
+calado. Si hubieseis visto a la pobrecita mamá secando las mesas y las
+sillas... Pero no hay ningún daño —anadió, esbozando una mirada
+hacia Stanley.
+—Ha dicho usted a Pat que tenga el
+coche preparado a su hora? Hay sus buenas seis millas y media de aquí a
+la oficina.
+—Me invagino lo que va a ser esta
+salida para la oficina, tan temprano —pensaba Linda—. Realmente
+será bien justo.
+—¡Pat! ¡Pat! —llamaba la
+muchacha.
+Pat debía ser, evidentemente, muy
+difícil de encontrar. La necia voz hablaba a través del jardín.
+Linda no pudo descansar antes del
+retumbo de la gran puerta, que marcaba la salida de Stanley.
+Más tarde oyó a los niños jugar
+en el jardín. La vocecita firme y compacta de Lottie gritaba: “¡Ke...
+zia! ¡I ... sa... bel!” Lottie se perdía siempre o perdía a las
+otras para encontrarlas con gran sorpresa detrás del árbol próximo o
+del primer recodo... “¡Oh! ¡Aquí estáis, por fin!” Las habían
+dejado en la puerta, después de desayunar, con la prohibición de
+volver a la casa sin ser llamadas. Isabel paseaba un coche lleno de
+muñecas cuidadosamente ordenadas, y permitía a Lottie, como un gran
+favor, marchar a su lado y mantener la sombrilla de muñeca por encima
+de la que tenía la cara de cera.
+—¿Dónde vas, Kezia? —preguntó
+Isabel deseando inventar para Kezia algún trabajo fácil e
+insignificante que hiciera doblegarse a su hermana bajo su dominio.
+—¡Oh! Hacia allá.
+Después Linda no las oyó más.
+¡Qué reverberación había en el cuarto! ¡A todas horas le molestaban
+los estores completamente alzados, pero por la mañana, era intolerable!
+Se volvió de cara a la pared y con un dedo vago seguía sobre la
+tapicería una amapola con la hoja, el tallo y un grueso capullo que
+estallaba. En la calma, bajo el dedo que la contorneaba, la amapola
+parecía tomar vida. Linda podía sentir los pétalos pegajosos,
+sedeños, el tallo peludo como una piel de grosella, la hoja rugosa y
+el capullo apretado, barnizado. Las cosas tenían así una costumbre de
+adquirir vida, no sólo las cosas grandes y sustanciales como los
+muebles, sino también las cortinas, los dibujos de los tejidos, los
+flecos de los cobertores y los almohadones. ¡ Cuántas veces había
+visto los pompones del fleco de su colcha convertirse en una divertida
+procesión de danzarinas con sacerdotes ayudantes! ... Porque había
+pompones que no bailaban sino que marchaban gravemente inclinados
+hacia adelante como si rezaran o cantaran. ¡Cuántas veces los
+frascos de medicina se habían transformado en una fila de hombrecitos
+coronados de chisteras oscuras y el jarro del agua tenía una manera
+de instalarse en la palangana como un gran pájaro en un nido redondo!
+“He soñado con pájaros esta
+noche”, pensaba Linda. ¿Qué era? Lo había olvidado. Pero lo
+extraño en esta vida de los objetos, era lo que hacían. Escuchaban,
+parecían inflarse con un regocijo misterioso e importante; se
+dilataban y entonces Linda les sentía sonreír. Pero no era para ella
+sola esa sonrisa astuta, misteriosa; miembros de una sociedad secreta,
+ellos sonreían entre sí. A veces, cuando se había .dormido
+durante el día, se despertaba sin poder levantar un dedo, ni aun
+volver los ojos a derecha e izquierda, porque ellos estaban
+allí. Otras veces, si ella salía de una habitación dejándola vacía,
+sabía que al ruido del portazo ellos la ocuparían. Y había
+momentos, por ejemplo, durante la noche, cuando ella subía, dejando
+abajo a todo el mundo, en que apenas le era posible escaparse de ellos.
+Entonces no podía apresurarse, no podía tararear una música. Si
+trataba de decir de la manera más desenvuelta: “¿dónde estará
+ese dedal viejo?”, ellos no se equivocaban, ellos
+conocían su miedo, ellos veían cómo volvía la cabeza al pasar
+delante del espejo. Linda sentía siempre que ellos querían algo
+de ella y sabía que si se abandonaba y se quedaba tranquila, más que
+tranquila, silenciosa, inmóvil, ocurriría algo seguramente.
+—Todo está muy tranquilo ahora
+—pensaba. Abrió mucho los ojos y oyó el silencio hilando su suave
+tela sin fin. ¡Con qué ligereza respiraba! Casi no tenía necesidad de
+respirar.
+Sí, todo se había hecho viviente,
+hasta la más pequeña, la más menuda partícula. No sentía su cama;
+flotaba sostenida por el aire. Solamente parecía escuchar, con los ojos
+muy abiertos, atentos, acechando a alguien que debía venir y que no
+venía, esperando algo que debía ocurrir y que no ocurría.
+VI
+En
+la cocina, en la larga mesa de pino colocada bajo las dos ventanas, la
+anciana Mrs. Fairfield fregaba la vajilla del desayuno. La ventana de la
+cocina daba sobre una pendiente de hierba que descendía hasta la
+huerta, hasta las platabandas de ruibarbo. La despensa y el lavadero la
+bordeaban por un lado y sobre este tejadillo blanqueado de cal trepaba
+una parra nudosa. Mrs. Fairfield se había dado cuenta ayer de que
+algunos sarmientos pasaban a través de las grietas del techo del
+lavadero y que todas las ventanas tenían una espesa chorrera de hierbas
+tiesas.
+—Me gusta mucho la parra —dijo
+Mrs. Fairfield—, pero no creo que las uvas maduren aquí; necesitan
+del sol de Australia. —Ella recordó cómo Beryl, cuando era niña,
+recogía uvas blancas en la parra del mirador, detrás de su casa de
+Tasmania, cuando sintió en la pierna el pinchazo de una enorme hormiga
+roja. Volvía a ver a Beryl con su trajecito escocés, anudado en los
+hombros con cintas carmesí, aullando tan fuerte que la mitad de la
+calle se había precipitado a la casa. ¡Cómo se había hinchado la
+pierna de la niña! “¡Ah!” Mrs. Fairfield detuvo su respiración
+pensando en aquello. “¡Pobre pequeña, era espantoso!” Con los
+labios apretados volvió al horno a tomar agua caliente. El agua hacía
+espuma de jabón en el gran barreño, con burbujas rosas y azules en la
+espuma. Los brazos de la anciana Mrs. Fairfield, desnudos hasta el codo,
+estaban teñidos de un rosa vivo. Llevaba un vestido de foulard
+gris, sembrado de grandes pensamientos violetas, un delantal de tela
+blanca y un alto gorro de muselina en forma de molde de jalea; en su
+cuello brillaba una india terna de plata, coronada de cinco pequeños
+buhos, y alrededor de su cuello se enrollaba una cadena de perlas
+negras. Era difícil creer que no estuviese en esta cocina desde hacía
+muchos años, tanto, que parecía formar parte de ella. Ordenó la loza
+con una mano precisa y segura, con movimientos lentos y amplios, yendo
+del horno al aparador, mirando a la fresquera, a la despensa, como si
+no existiera un rincón que no le fuese familiar. Cuando hubo terminado,
+los objetos de la cocina parecían todos alineados por categorías. De
+pie, en el centro de la pieza, se secaba las manos con un paño a
+cuadros; una sonrisa florecía en sus labios. Encontraba esto muy
+bien, muy satisfactorio.
+—¡Mamá, mamá! ¿Estás ahí?
+—llamaba Beryl.
+—Sí, querida. ¿Me necesitas?
+—¡No, voy yo!
+Y Beryl entró como un torbellino,
+muy colorada, arrastrando dos grandes cuadros.
+—Mamá, ¿qué puedo hacer de
+estas abominables y horribles pinturas chinas que Chung-Wah dió a
+Stanley cuando quebró? Es absurdo decir que tienen valor, porque
+estaban colgadas en la tienda de Chung-Wah desde hacía meses. No puedo
+comprender por qué Stanley quiere guardarlas. Estoy segura de que él
+es de nuestra opinión, de que las encuentra horribles, pero creo que es
+por los marcos —dijo con despecho—; supongo que imagina que esos
+marcos podrán valer salgo un día u otro.
+—¿Por qué no las cuelgas en el
+pasillo? —propuso Mrs. Fairfield—; allí no se les verá mucho.
+—No puedo. No hay sitio; he puesto
+allí todas las fotografías de su oficina antes y después de su
+construcción, con las fotografías firmadas de sus amigos de negocios
+y esa horrible ampliación de Isabel, tumbada en camisa sobre la
+estera... —su mirada sombría recorrió la cocina—; ya sé lo que
+voy a hacer, las colgaré aquí. Le diré a Stanley que estaban un poco
+húmedas después de la mudanza y que las he puesto ahí de momento.
+Acercó una silla, saltó, tomo del
+bolsillo de su delantal un martillo y un gran clavo y se puso a
+clavar.
+—Así, ya basta; alcánzame el
+cuadro, mamá.
+—Un momento, hija.
+La madre frotaba el marco de ébano
+cincelado.
+—¡Oh, mamá! No tienes necesidad
+de desempolvarlos; harían falta años para limpiar todos esos
+agujeritos. —Frunció las cejas por encima de la cabeza de su madre
+y se mordió el labio con impaciencia. La manera reflexiva que su madre
+tenía de hacer las cosas era sencillamente horrible.
+—¡La vejez! —pensó ella con
+desdén.
+Los dos cuadros fueron, por fin,
+colgados uno al lado del otro. Bajó de su silla y volvió a su lugar el
+martillito.
+—No hacen mal papel aquí,
+¿verdad? —dijo ella—. En todo caso, nadie tiene necesidad de verlos
+más que Pot y la muchacha. ¿Llevo una telaraña en la cara, mamá? He
+ido a rebuscar en esa alacena bajo la escalera, y ahora hay algo que,
+sin cesar, me hace cosquillas en la nariz.
+Antes de que la señora Fairfield
+hubiera tenido tiempo de mirar, Beryl se había vuelto. Alguien golpeaba
+en la ventana. Linda estaba allí haciéndoles señas con la cabeza y
+sonriendo. Ellas le oyeron levantar el picaporte de la despensa, y
+Linda entró, sin sombrero; su pelo caía en bucles sobre su cabeza y
+estaba envuelta en un viejo chal de cachemira.
+—¡Tengo tanta hambre! —dijo
+Linda—. ¿Dónde puedo encontrar algo de comer, mamá? Es la primera
+vez que entro aquí. La cocina entera se parece a mamá; ¡todo está
+tan en orden!
+—¡Te voy a hacer té! —dijo
+Mrs. Fairfield, extendiendo una blanca servilleta en la esquina de la
+mesa— y Beryl podrá tomar una taza contigo.
+—Beryl, ¿quieres la mitad de mi
+tarta? —Linda movió su cuchillo en dirección a ella—. Beryl, ¿
+te gusta la casa, ahora que estamos en ella?
+—¡Ah! Sí, me gusta mucho la casa
+y el jardín es magnífico, pero tengo la impresión de que todo está
+un poco lejos de mí. No creo que las gentes vengan a vernos en ese
+horrible ómnibus traqueteante; seguramente que no habrá nadie que
+nos visite. Claro que a ti te es igual, porque...
+—Pero está el coche —dijo Linda—;
+Pat puede llevarte a la ciudad cuando quieras.
+Era un consuelo, ciertamente, pero
+había algo en el cerebro de Beryl, algo que no traducía en palabras ni
+aun para sí misma.
+—En todo caso, esto no nos matará
+—dijo Beryl, secamente. Dejó su taza vacía, se levantó y se
+estiró.—Voy a poner las cortinas —y se escapó cantando:
+Cuántos
+millones de pájaros veo
+cantando estrepitosamente en todos los árboles...
+...Pájaros
+veo cantando estrepitosamente en todos los árboles... —Pero al llegar
+al comedor cesó de cantar; su expresión cambió, se puso
+melancólica, enfurruñada.
+—Nos
+enmoheceremos aquí lo mismo que en otro lado —gruñó entre dientes,
+huraña, clavando imperdibles de bronce en las cortinas de sarga roja.
+En
+la cocina, las dos mujeres quedaron tranquilas un momento. Linda, con la
+mejilla apoyada sobre su mano, miraba a su madre. La encontraba
+notablemente bella, colocada así, apoyada contra la ventana ornada de
+follaje. Había algo reconfortante en esta visión; Linda sentía
+que nunca podría pasarse sin ella. Tenía necesidad de su madre, del
+suave olor de su carne, de la sensación, tan dulce, de sus mejillas,
+de sus brazos y de sus hombros aún más dulces. Le gustaba la manera
+cómo se rizaban sus cabellos, plateados, en la frente, más claros en
+la nuca y todavía oscuros y brillantes en el gran moño, bajo su gorro
+de muselina. Las manos de su madre eran encantadoras; las dos sortijas
+parecían fun—dirse en la piel de crema, siempre tan fresca y
+deliciosa. La anciana no podía soportar más que la tela de hilo sobre
+su cuerpo y se bañaba invierno y verano con agua fría.
+—¿No hay nada que yo pueda hacer?
+—preguntó Linda.
+—No, querida. Quisiera que fueras
+al jardín a echar una mirada a tus hijos, pero ya sé que no lo harás.
+—Pues claro que sí; acuérdate
+que Isabel es mucho más razonable que todas nosotras.
+—Sí, pero no Kezia —dijo Mrs.
+Fairfíeld.
+—¡Oh! Hace pocas horas que Kezia
+ha sido arrojada al aire por un toro —dijo Linda, envolviéndose de
+nuevo en su chal.
+Pero no; Kezia había apercibido un
+toro a través de un agujero, en un nudo de la madera de la empalizada
+que separaba el tenis de la pradera. Nunca le había gustado mucho el
+toro; entonces se había vuelto por el huerto, había subido la cuesta
+de césped a lo largo del empinado sendero que pasaba cerca del abedul y
+que desembocaba en e! vasto jardín enmarañado. Ella creía que un día
+se perdería en este jardín.
+Dos veces había encontrarlo su
+camino hacia la gran verja que habían cruzado la noche anterior y
+había vuelto para remontar la avenida que conducía a la casa; pero ¡
+había tantos caminitos por todos lados! Estos caminos conducían
+todos a una maraña de árboles elevados y de matorrales extractos, de
+hojas planas de terciopelo y de flores crema, ligeras como plumas,
+donde zumbaban las moscas cuando se les sacudían. Había un lado
+terrorífico que no se parecía nada a un jardín con sus senderitos
+húmedos y arcillosos, atravesados por raíces de árboles parecidos a
+patas de grandes aves.
+Por el otro lado, había una linde
+de boj muy alto y todos los senderos estaban también bordeados de boj,
+se hundían en una maraña de flores cada vez más profunda. Las
+camelias estaban en flor, blancas y carmesíes, rosas y blancas,
+estriadas con brillantes hojas. No se veían hojas en los arbustos de
+celinda; tantos racimos blancos tenían. Las rosas estaban abiertas;
+rosas pequeñas, blancas, para poner en el ojal, pero demasiado
+llenas de insectos para ponerlas bajo la nariz de cualquiera; rosas
+rosadas, perennes, con un cerco de pétalos sembrados alrededor de una
+mazorca; rosas dobles sobre gruesos tallos, rosas musgosas siempre en
+capullo; rosaleda espléndida, entrelazada ramo a ramo, cíe un rojo
+tau oscuro que parecía, al caer, convertirse en negro y una especie
+color crema, encantadora, de fino tallo y hojas brillantes, escarlata.
+Había grupos de campanillas de
+hadas y toda suerte de geranios, arbustos de verbena, matas de
+lavándula azulada, un macizo de pelargonium con ojos de terciopelo y
+follaje de alas de mariposa nocturna. Había todo un macizo de resedá y
+otro de pensamientos, orlas de margaritas dobles y sencillas y muchas
+otras requerías plantas espesas, que, Kezia no había visto jamás.
+Los tritomas eran más altos que
+ella, los girasoles japoneses formaban un pequeño juncar. Kezia se
+sentó sobre una de las lindes de boj; cuando se hundía mucho hacía
+un buen asiento. Pero ¡qué polvo en el interior! Kezia se inclinó
+para mirar, estornudó y se frotó la nariz.
+Se encontró en seguida en lo alto
+de la pendiente de hierba que descendía hasta el huerto. Miró hacia
+abajo un momento, se tumbó de espaldas, lanzó un gritito y rodó sobre
+sí misma hasta la hierba espesa y florida del huerto. Tumbada,
+esperando que las cosas cesaran de bailar, decidió subir a la casa y
+pedir a la criada una caja de cerillas vacía. Prepararía una sorpresa
+a su abuela. Pondría primero una hoja en el fondo de la caja, encima
+una hermosa violeta, después un clavelito blanco quizás y los
+espolvorearía de espliego pero sin taparles la cabeza.
+Hacía muchas veces estas bromas a
+su abuela y siempre habían tenido un gran éxito.
+—¿Quieres una, cerilla, abuelita?
+—Si, nena mía. Creo que lo que yo
+busco precisamente es una cerilla.
+La abuela abría lentamente la caja
+y encontraba la sorpresa en el fondo.
+—¡Ay, Dios mío! ¡Cómo me has
+sorprendido, nena mía!
+—Podría hacérselo aquí, todos
+los días —pensaba Kezia, trepando por la hierba con sus
+resbaladizos zapatos.
+Pero en su camino llegó a ese
+islote tumbado en la avenida que la dividía en dos brazos, que volvían
+a cerrarse en seguida ante la casa. Este islote de césped en alto
+terraplén no tenía en su cima más que una enorme planta de hojas
+espesas de un verde gris y espinosas. De su centro partía un tallo
+elevado y fuerte. Algunas de las hojas de esta planta eran tan viejas
+que no se mantenían tiesas en el aire, sino que se curvaban hendidas,
+rotas; otras yacían en tierra aplastadas, marchitas.
+¿Qué podría ser esto? Kezia no
+había jamás visto nada parecido y se quedó allí con la mirada fija.
+Después apercibió a su madre, que descendía por la avenida.
+—Mamá, ¿qué es esto? —preguntó.
+Linda levantó sus ojos hacia la
+gruesa planta que se henchía con sus hojas crueles y su carnoso tallo.
+Tranquila y alta, bañándose en la atmósfera, estaba, sin embargo,
+tan sólidamente agarrada a la tierra de que salía, que hubiera podido
+tener garras en lugar de raíces. Las recurvadas hojas parecían ocultar
+algo; el ciego tallo hendía el aire como si ningún viento pudiera
+agitarle nunca.
+—Es un áloe, Kezia —dijo la
+madre.
+—¿No da flores jamás?
+—Sí, Kezia —y Linda le sonrió
+con los ojos entornados—. Una vez cada cien años.
+VII
+Al
+volver de su oficina, Stanley Burnell hizo parar el coche en la Bodega;
+bajó y compró un frasco grande de ostras en escabeche. En la puerta
+contigua —en la tienda del Chino— tomó una piña perfectamente en
+su punto, y fijándose en una cesta de cerezas negras muy frescas,
+pidió a John que añadiese medio kilo de ellas. Colocó las ostras y la
+piña en el cofre de delante, pero conservó las cerezas en la mano.
+Pat saltó de su asiento y le
+arropó de nuevo en la manta oscura.
+—Levante los pies, señor Burnell,
+mientras la doblo por debajo.
+—Bien, bien, perfectamente —dijo
+Stanley—. Ahora, derecho a casa.
+Pat fustigó la yegua gris y el
+coche arrancó.
+—Creo que tengo aquí un tipo de
+primer orden —pensaba Stanley, encantado de la apariencia del hombre
+sentado allá arriba con su abrigo oscuro, muy correcto, y su sombrero
+hongo, también oscuro. Asimismo le gustaba el modo con que Pat lo
+había arropado; su mirada, nada servil en él; y si algo había que
+Stanley odiase sobre todo, era el servilismo. Además, el hombre
+parecía contento de su trabajo, ya feliz y satisfecho.
+La yegua gris marchaba muy bien.
+Burnell sentía la impaciencia de verse fuera de las casas; quería
+estar en su casa. i Ah! Era maravilloso vivir en el campo, dejar ese
+tabuco de ciudad tan pronto como se cerraba la oficina, y hacer este
+viaje en el buen aire cálido, También era magnífico saber que al
+final estaba su casa, con su jardín, sus prados cerrados, sus tres
+vacas perfectas, bastantes patos y gallinas para el abastecimiento de
+aves.
+Como dejaban los arrabales tras de
+ellos, y corrían por la carretera desierta, su corazón latió
+fuertemente de alegría. Hundió la mano en la bolsa y comenzó a
+comerse las cerezas, tres o cuatro a la vez, lanzando los huesos por un
+costado del coche. ¡Eran deliciosas, tan lozanas y frescas, sin una
+mancha ni una rozadura!
+Había que ver aquellas dos,
+encarnadas por un lado, blancas por otro; un perfecto par de pequeños
+herma—nos siameses. Y las hundió en su ojal... Con mucho gusto,
+¡caramba!, hubiera ofrecido un puñado a este buen hombre de allá
+arriba; pero no, era mejor no hacerlo. Era preferible esperar a
+tenerlo consigo un poco más de tiempo.
+Comenzó a hacer proyectos sobre el
+empleo de sus tardes del sábado y de sus domingos. No almorzaría en su
+club el sábado, y se escaparía de la oficina tan pronto como pudiese;
+en casa, al llegar, se haría servir dos lonchas de carne fría y la
+mitad de una lechuga. Por la tarde, habría algunos tipos de la ciudad,
+que vendrían a jugar al tenis. No demasiados, tres a lo más. También
+Beryl jugaba bien... Tendió su brazo derecho y lo dobló lentamente,
+palpando el músculo.. . Un baño, una buena fricción, un cigarro puro
+en la veranda después de cenar...
+El domingo, a la mañana, irían a
+la iglesia —los niños y todos—. Eso le recordaba que debía
+alquilar un reclinatorio, al sol si era posible y muy adelante, para
+prevenirse contra las corrientes de aire de la puerta. Imaginariamente,
+se escuchaba a sí mismo entonar con toda perfección: “Cuando hayas
+vencido el aguijón de la muerte, habrás abierto el reino de los cielos
+a todos los que creen”. Y veía su tarjeta, muy clara, fija en el
+ángulo del banco con sus cantoneras de bronce: “M. Stanley y
+familia...” El resto del día divagaría ron Linda... Se pasearían
+por el jardín, ella cogida de su brazo y él explicándole
+detalladamente lo que pensaba hacer en su oficina a la semana siguiente.
+La oía contestar: “Querido, creo que eso es muy razonable...”.
+Charlar de cosas con Linda era una maravillosa ayuda, aun cuando a veces
+ella desviase el tema.
+Pat había frenado de nuevo la
+máquina. ¡Que el diablo se la lleve! ¡No iban muy de prisa! ¡Vaya!
+¡Qué asco de manivela! La sentía en el fondo de su estómago.
+Una suerte de pánico se apoderaba
+de Burnell cada vez que se acercaba a su casa. Ya antes de haber pasado
+la verja, gritaba a la primera persona que veía: “¿Sigue todo bien?”.
+Y no lo creía hasta haber oído a Linda decir: “Buenas noches. ¿Has
+vuelto?” He aquí el lado desagradable de la vida en el campo. Se
+necesitaba un tiempo loco para, vol—ver... Pero ya no estaban lejos,
+en lo alto de la última colina; no les quedaba más que una larga y
+suave pendiente, medio kilómetro poco más o menos.
+Pat acarició con el látigo el
+lomo de la yegua y la reavivó. ¡Hop! ¡Hop! El sol iba a ponerse
+dentro de algunos minutos. Todo permanecía inmóvil, bañado en una luz
+brillante, metálica, y, desde las praderas de cada lado, se deslizaba
+el olor lechoso de la hierba madura. La verja de hierro, estaba abierta;
+el coche tomó aliento y la atravesó de un tirón; enfiló la avenida,
+bordeó el islote y se detuvo con toda exactitud frente al centro de la
+veranda.
+—¿Le ha gustado, señor? —preguntó
+Pat, mientras bajaba de su asiento, con una lenta sonrisa, hacia su amo.
+—Mucho, Pat, la verdad —dijo
+Stanley.
+Linda salió de la puerta de
+cristales; su voz retumbó en la sombra tranquila: “Buenas tardes.
+¿Ya has vuelto?”
+Al sonido de esa voz, su corazón
+latió tan fuertemente que apenas pudo reprimir el deseo de subir los
+peldaños de cuatro en cuatro y de coger a su mujer en los brazos.
+—Sí, soy yo. ¿Sigue todo bien?
+Pat comenzaba a llevar el coche
+hacia la verja de al lado, que se abría en el patio.
+—Espere un minuto —dijo Burnell—.
+Tráigame los dos paquetes. Y dijo a Linda: “¡Te he traído un bocal
+de ostras y una piña!”, como si le hubiera traído todas las cosechas
+de la tierra.
+Se encaminaron al hall; Linda
+llevaba las ostras en una mano y la piña en otra. Burnell cerró la
+puerta vidriera; se quitó el sombrero. Ya ceñía a su mujer con sus
+brazos y la apretaba contra sí; la besaba en la frente, en las orejas,
+en los labios, en los ojos.
+—¡Oh! ¡Oh!, querido —dijo ella—.
+Espera un instante a que deje estas tonterías —y puso cl bocal de
+ostras y la piña sobre una sillita tallada—. ¿Qué tienes en el
+ojal? ¿Cerezas? —Ella las cogió y las colgó de la oreja de Burnell.
+—No hagas eso, querida; son para
+ti.
+Entonces ella las descolgó de
+nuevo. “¿No te importa que las guarde? Me quitarían la gana de
+cenar. Ven a ver las niñas. Están tomando el té.”
+La lámpara estaba encendida, sobre
+la mesa de la nursery. Mrs. Fairfield cortaba y untaba de manteca
+las rebanadas de pan. Las tres niñas, sentadas, llevaban anchas
+servilletas con su nombre bordado. Se limpiaron la boca cuando entró
+su padre, dispuestas a dejarse besar. Las ventanas estaban abiertas,
+había un vaso de flores silvestres sobre la chimenea y, en el techo,
+proyectaba la lámpara un enorme nimbo de suave luz.
+—Tienen el aire de estar bien
+instaladas, madre —dijo Burnell, pestañeando por la claridad. Isabel
+y Lottie estaban sentadas cada una a un lado de lá mesa. Kezia, abajo.
+El sitio de arriba permanecía vacío.
+—Allí es donde deberá mi hijo
+sentarse —pensó Stanley. Apretó más su brazo alrededor del hombro
+de Linda. ¡Dios mío! Era grotesco sentirse feliz hasta este punto.
+—Lo estamos, Stanley, estamos muy
+bien —dijo Mrs. Fairfield, cortando el pan de Kezia en finas
+rebanadas.
+—Preferís eso a la ciudad, eh,
+niñas? —preguntó Burnell.
+—¡Oh, sí! —contestaron las
+tres niñitas; e Isabel añadió, como después de reflexionar:
+—Muchas gracias, querido papá.
+—Subamos —dijo Linda—, te
+traeré las zapatillas.
+Pero la escalera resultaba demasiado
+estrecha para subirla cogidos del brazo. Estaba completamente a
+oscuras la habitación. Burnell oyó la sortija de Linda rozar el
+mármol de la chimenea, mientras ella buscaba las cerillas.
+—Tengo cerillas, querida, voy a
+encender las velas. Pero, en lugar de eso, vino detrás de ella, la
+rodeó de nuevo con sus brazos y apretó contra su hombro la cabeza de
+Linda.
+—¡Soy tan ridículamente feliz!
+—dijo.
+—¿De veras? —Se volvió.
+Colocó sus manos sobre el pecho de Burnell y levantó sus ojos hacia
+él.
+—No sé lo que me ocurre —protestó.
+Fuera, todo estaba completamente
+oscuro y se espesaba la niebla. Cuando Linda cerró la ventana, el
+fresco rocío tocó la extremidad de sus dedos. A lo lejos ladraba un
+perro. “Creo que saldrá la luna”, dijo.
+Pronunciando estas palabras, y con
+la humedad del fresco rocío en los dedos, le pareció que había salido
+la luna. Se sentía extrañamente desnuda, en una ola de fría luz. Se
+estremeció, se alejó de la ventana y vino a sentarse en el diván
+cerca de Stanley.
+En el comedor, al fulgor parpadeante
+de un fuego de leña, Beryl, sentada en un cojín, tocaba la guitarra.
+Acababa de tomar un baño y cambiarse de todo. Llevaba ahora un
+vestido de muselina blanca con lunares negros, y se había prendido en
+el pelo una rosa de seda negra.
+La
+naturaleza descansa, amor mío.
+Mira, estamos solos;
+Dame tu mano, para que yo la estreche, amor mío,
+Ligeramente con la mía...
+Tocaba
+para sí misma, cantaba a media voz, contemplándose. La llama se
+reflejaba en sus zapatos, en el vientre rubio de la guitarra y en sus
+blancos dedos...
+“Si yo estuviese ahí fuera y
+mirase al interior, por la ventana, me sorprendería bastante el verme
+así”, pensaba. Tocó el acompañamiento totalmente en sordina; ya
+no cantaba, escuchaba.
+...La primera vez que te he visto,
+niñita, ¡oh! ¡Te creías muy sola! Estabas sentada con tus piececitos
+en un cojín y tocabas la guitarra. ¡Dios! No podré nunca olvidar...
+Beryl levantó la cabeza y se puso a cantar de nuevo.
+La
+luna misma está cansada.
+Pero
+llamaban fuertemente a la puerta. Apareció el rostro carmesí de la
+criada.
+—Haga el favor, miss Beryl; acabo
+de poner la mesa.
+—Bueno —dijo Beryl con tono
+glacial, dejando su guitarra en un rincón.
+Alicia irrumpió en la habitación,
+con una pesada bandeja de hierro negro en las manos.
+—¡Vaya trabajo que he tenido con
+este horno! No puedo tostar nada en él.
+—¿Sí? —dijo Beryl.
+Pero no, no aguantaría a esta tonta
+de chica. Huyó al salón oscuro y se puso a recorrerlo de arriba
+abajo... ¡Oh! Estaba nerviosa, nerviosa. Sobre el tapete de la chimenea
+había un espejo. Con los brazos apoyados, contempló Beryl su pálida
+imagen. ¡Qué hermosa era! Pero no había allí nadie para enterarse de
+eso.
+—¿ Por qué has de tener que
+sufrir así? —decía con el rostro en el espejo—. ¿Si no estabas
+hecha para sufrir?... Sonríe.
+Beryl sonrió, y su sonrisa era en
+verdad tan adorable, que sonrió de nuevo; pero esta vez, porque ya no
+podía resistirse a hacerlo.
+VIII
+—Buenos
+días, Mrs. Jones.
+—¡Oh! Buenos días, Mrs. Smith,
+estoy muy contenta de verla. ¿Trajo usted sus niños?
+—Sí, traje mis dos gemelos. He
+tenido otro bebé, desde que estuve con usted, pero ha venido muy de
+repente y no he tenido aún tiempo de hacerle ropa. Así que lo he
+dejado... ¿Está bien su marido?
+—¡Oh! Muy bien, gracias. Es
+decir, ha tenido un espantoso catarro; pero la reina Victoria es mi
+madrina, ¿sabe?, y le ha enviado un cajón de piñas, con lo cual se
+curó inmediatamente. ¿Es su nueva criada?
+—Sí, se llama Gwen; la tengo
+solamente desde hace dos días. Gwen, ésta es mi amiga Mrs. Smith.
+—Buenos días, Mrs. Smith. La cena
+no estará a punto hasta dentro de diez minutos.
+—Creo que no debiste presentarme a
+la criada. Creo que debí simplemente ponerme a hablarle así...
+—Es más bien una señora de
+compañía que una criada; y a una señora de compañía se la
+presenta; lo sé porque Mrs. Samuel tenía una.
+—¡Oh, es igual! —dijo la
+criada, con aire indiferente. Batía una crema de chocolate con la mitad
+de tina percha rota. La cena cocía muy bien en un peldaño de
+cemento. La criada empezó a poner la mesa sobre un asiento del jardín
+pintado de rosa. Delante de cada convidado, colocó dos platos de hoja
+de geranio, un tenedor de aguja de pino y un cuchillo de ramita. Había
+tres cabezas de margarita, corno huevos escalfados, encima de una hoja
+de laurel; lonchas de vaca fría en un pétalo de fucsia, exquisitas
+albondiguillas de tierra y agua, mezcladas con granos de amargón, y la
+crema de chocolate que había decidido servir en una concha en la que la
+había cocido.
+—Usted no tiene necesidad de
+preocuparse de mis niños —dijo Mrs. Smith, amablemente—. Basta con
+que tome esta botella y la llene en el grifo, quiero decir en la
+lechería.
+—¡Oh!, muy bien —dijo Gwen, y
+murmuró a Mrs. Jones: “¿Y si yo fuese a pedir a Alicia un poco de
+leche de verdad?”
+Pero alguien, ante la casa, llamaba,
+y los convidados se dispersaron, dejando la deliciosa mesa, dejando las
+albondiguillas y los huevos escalfados a las hormigas y a un viejo
+caracol, que sacaba sus cuernos temblorosos al borde de la silla del
+jardín y empezaba a roer un plato de geranio.
+—¡Venid delante de la casa; dad
+la vuelta, niños! Pip y Rags acaban de llegar.
+Los jóvenes Troud eran esos primos
+de los cuales había Kezia hablado al camionero. Vivían
+aproximadamente a un kilómetro de allí, en una casa llamada “Quinta
+del árbol de los monos”. Pip era alto para su edad, con un pelo negro
+y liso y un rostro pálido. Pero Rags era tan pequeño y tan delgado
+que, desnudo, sus omóplatos sobresalían como dos alitas. Tenían un
+perro mestizo de pálidos ojos azules y de larga cola retorcida, que les
+seguía por todas partes. Se llamaba Snooker. Pasaban el tiempo
+en peinar y cepillar a Snooker y en jaropearlo con diferentes y
+horribles composiciones que fraguaba Pip y guardaba secretamente en un
+jarrillo roto tapado con una vieja cobertera de marmita. Ni aun el fiel
+pequeño Rags debía conocer la fórmula secreta de estas mezclas: Se
+toma un poco de polvo dentífrico, tina pizca de azufre reducido a fino
+polvo y quizás un poco de almidón para atiesar el pelo de Snooker.
+Pero había algo más. En realidad, Rags pensaba que aquello era
+pólvora... Por miedo al peligro, nunca se le permitía agitar la
+mixtura. “¡Si te salta un grano en el ojo, te quedas ciego para toda
+la vida!”, decía Pip, mezclándolo todo con una cuchara de hierro.
+Y siempre quedaba el riesgo, un pequeño riesgo de que aquello hiciese
+explosión si se le batía con demasiada fuerza... “Dos cucharadas de
+eso en un bidón de kerosina bastarían para matar millares de pulgas.”
+Pero Snooker pasaba todos sus momentos de libertad
+mordisqueándose y refunfuñando, dentro de su pelo, y apestaba
+abominablemente.
+—Ocurre eso porque él es un gran
+perro de combate —decía Pip—. Todos los perros de combate huelen.
+Los jóvenes Troud iban a menudo a
+pasar el día fuera, en casa de los Burnell. Y ahora que éstos poseían
+una hermosa casa y este lindo jardín, estaban dispuestos a ser muy
+amigos.
+Además, a los dos les gustaba jugar
+con las niñas; a Pip, porque podía gastarles bromas y Lottie era muy
+fácil de asustar; y a Rags por una razón humillante: adoraba las
+muñecas. ¡Cómo miraba a una muñeca dormida, le hablaba en voz baja,
+con una sonrisa tímida, y qué fiesta para él cuando se le permitía
+coger una!
+—Rodéala con tus brazos, no los
+dejes así de tiesos; vas a dejarla caer —decía severamente Isabel.
+En aquel momento estaban en la
+veranda, reteniendo a Snooker, que quería entrar en la casa;
+pero no se le dejaba, porque la tía Linda odiaba a los lindos perros.
+—Hemos venido en el ómnibus, con
+mamá —dijeron—, y vamos a pasar la tarde con vosotras. Hemos
+traído de nuestra galleta para la tía Linda; es nuestra Minnie quien
+la ha hecho. Está llena de almendras.
+—He mondado las almendras —dijo
+Pip—. Hundo de prisa mi mano en una olla de agua hirviendo, las cojo,
+las pellizco de un modo especial, y saltan fuera de la piel, algunas
+hasta el techo, ¿verdad, Rags?
+Rags asintió.
+—Cuando hacen los pasteles en casa
+—dijo Pip— nos quedamos siempre en la cocina Rags y yo; yo tengo el
+tazón y él la cuchara y el batidor de huevos. El pastel de merengue es
+el mejor, es muy espumoso.
+Corrió a lo largo de la veranda,
+bajó los peldaños hasta el césped, plantó sus manos encima de la
+hierba, se inclinó hacia adelante, pero no pudo mantenerse
+completamente cabeza abajo.
+—Este césped está lleno de
+terrones —dijo—; es preciso un sitio llano para ponerse patas
+arriba. En casa puedo andar de cabeza todo alrededor del árbol de los
+monos, ¿verdad, Rags?
+—Casi —dijo Rags, muy bajo.
+—Sosténte con la cabeza, bajo la
+veranda; es llano —dijo Kezia.
+—No, astuta —dijo Pip—, es
+preciso hacerlo en un sitio blando, porque si damos un envite y hacemos
+la pirueta, algo en el cuello nos hace “clic” y se rompe. Me lo ha
+dicho papá.
+—¡Oh! Entonces jugaremos —dijo
+Kezia.
+—¡ Muy bien! —dijo vivamente
+Isabel—. Vamos a jugar al hospital, yo seré la enfermera, Pip el
+médico, y tú, Lottie, y tú, Rags, los enfermos.
+Lottie no quería jugar a eso,
+porque la última vez Pip le había introducido, en el fondo de la
+garganta, algo que le dolía horriblemente.
+Pip se le burló:
+—¡Ca! No era más que el jugo de
+un trozo de piel de mandarina.
+—Entonces, jugamos a la señora
+—dijo Isabel—. Pip podrá ser el padre y vosotros seríais nuestros
+queridos niñitos.
+—Detesto jugar a la señora —dijo
+Kezia—; nos hacéis ir siempre a la iglesia cogidos de la mano, y
+después volver para acostarnos.
+Bruscamente Pip sacó un pañuelo
+sucio de su bolsillo: “¡Snooker, aquí, señor!”, llamó.
+Pero Snooker, como de costumbre, trató de escapar, con la cola
+entre las patas. Pip saltó encima de él y lo apretó entre sus
+rodillas.
+—Sosténle quieta la cabeza, Rags
+—dijo; y ató el pañuelo alrededor de la cabeza de Snooker,
+con un gracioso nudo que sacaba las puntas por encima.
+—¿Por qué haces eso? —preguntó
+Lottie.
+—Es para acostumbrar a sus orejas
+a que se peguen mejor a la cabeza; mira —dijo Pip—. Todos los perros
+de combate tienen las orejas hacia atrás; pero las de Snooker
+son demasiado blandas.
+—Ya sé —dijo Kezia—; se le
+vuelven siempre del revés; eso no me gusta.
+Snooker se tumbó, hizo un
+débil esfuerzo con su pata para arrancarse el pañuelo, pero no
+pudiéndolo conseguir, se arrastró detrás de los niños, temblando de
+angustia.
+IX
+Pat
+venía a grandes zancadas. Llevaba en su mano un pequeño tomahawk [especie
+de cuchillo] que brillaba al sol.
+—Venid conmigo —dijo a los
+niños—, yo os enseñaré cómo cortan el cuello a un pato los reyes
+de Irlanda.
+Ellos retrocedían; no le creían.
+Además, los muchachos Troud nunca habían visto hasta entonces a Pat.
+—Vamos, venid —les dijo
+persuasivo, sonriendo y tendiendo la mano a Kezia.
+—¿Un pato de verdad, uno del
+cercado?
+—Sí —dijo Pat. Kezia puso su
+mano en la de Pat, dura y seca, él hundió el tomahawk en su cintura y
+tendió la otra mano a Rags. Adoraba a los niñitos.
+—Yo tendré que sujetar a Snooker
+por la cabeza si va a haber sangre —dijo Pip—, porque la sangre le
+vuelve completamente loco. Corrió adelante, tirando de Snooker
+por el pañuelo.
+—¿Crees que debemos ir? —murmuró
+Isabel—. No hemos preguntado nada, ¿verdad?
+Hacia la parte baja del huerto se
+abría una barrera en la empalizada. Al otro lado una áspera pendiente
+¡conducía a un puente que cruzaba el arroyo. Y una vez en la otra
+orilla, se estaba ya junto a los cercados. En el primero habían
+arreglado un viejo establo pequeño, para corral. Las gallinas
+vagabundeaban a lo lejos, habían atravesado el cercado hasta un hoyo
+lleno de mantillo. Pero los patos permanecían cerca de la parte del
+arroyo que se deslizaba bajo el puente.
+Grandes matorrales de follaje rojo,
+con flores amarillas y racimos de bayas negras, caían sobre el
+arroyo. En ciertos sitios era ancho y poco profundo; en otros, se
+derramaba por agujeros de bordes llenos de espuma y de vibrantes
+burbujas. En esas charcas habían elegido domicilio los grandes patos,
+nadando y chapoteando a lo largo de las orillas herbosas.
+Arriba y abajo, nadaban, alisando
+sus plumas con sus pechugas relucientes y sus picos amarillos, y otros
+patos, con una misma papada y un mismo pico amarillo, les seguían,
+nadaban con ellos, al revés.
+—He aquí la flotilla irlandesa
+—dijo Pat—; mirad aquí el viejo almirante, con el cuello verde y la
+hermosa oriflama sobre la cola.
+Sacó de su bolsillo un puñado de
+granos y se dirigió hacia el gallinero, indolente, con su viejo
+sombrero de paja, metido hasta los ojos.
+Llamaba: “Ti-ti-ti-ti”.
+—“Cua-cua-cua-cua” —contestaban
+los patos, que serpenteaban detrás de él, en una larga línea
+ondulante. Les atraía, hacía como que echaba el grano, lo sacudía en
+sus manos, los llamaba hasta reunirlos a todos alrededor de él, en un
+blanco círculo.
+De lejos, las aves oyeron los
+gritos. Acudían, ellas también, al través del cercado, con las alas
+extendidas, las patas metidas hacia adentro, a la manera de las
+gallinas, y cacareaban al venir.
+Entonces Pat esparció el grano, los
+patos golosos empezaron a regodearse. Rápido, Pat se inclinó, agarró
+a dos de ellos, uno bajo cada brazo, y se adelantó hacia los niños.
+Las cabezas erizadas, los ojos redondos de los patos, asustaron a los
+niños. A todos, menos a Pip.
+—¡Vamos ya, tontos! —gritó—.
+No pueden morder, no tienen dientes. Sólo llevan esos dos agujeritos en
+el pico para respirar por allí.
+—¿Queréis sujetarme uno de
+ellos, mientras acabo con el otro? —preguntó Pat.
+Pip soltó a Snooker.
+—¿Que si yo quiero? Dame uno; me
+da igual que patalee.
+Casi le sofocó la alegría al
+ponerle Pat entre los brazos el blanco paquete.
+Había un viejo tronco cerca de la
+puerta del gallinero. El hombre, sujetándolo por las patas, lo tendió
+encima. Casi al mismo instante cayó el tomahawk; saltó la cabeza del
+tajo, y la sangre brotó sobre las plumas blancas y sobre la mano.
+En cuanto los niños vieron la
+sangre, cesaron de tener miedo. Rodearon a Pat y se pusieron a gritar.
+Hasta Isabel saltaba y aullaba: "¡La sangre, la sangre!". Pip
+olvidó su pato y lo tiró a lo lejos. “¡Lo he visto, lo he visto!”
+—decía él, dando saltos alrededor del bloque de madera.
+Rags, con sus mejillas blancas como
+el papel, corrió hacia la cabecita, avanzó un dedo como si quisiera
+tocarla, se echó atrás, y de nuevo acercó un dedo. Temblaba con
+todo su cuerpo.
+Hasta Lottie, la pequeña Lottie, se
+echó a reír, señaló al pato, y gritó: “¡Mira, Kezia, mira!”.
+—¡Mirad! —exclamó Pat.
+Dejó en tierra el cuerpo, que
+comenzó a oscilar con un gran chorro de sangre en el sitio de la
+cabeza, y se puso a dar suavemente menudos pasos hacia la áspera
+pendiente que conducía al arroyo.
+—¿Lo veis? ¿Lo veis? —gritaba
+Pip. Corría alrededor de las pequeñas, tirándoles del delantal.
+—¡ Es como una pequeña
+locomotora! —gritaba Isabel—, ¡como una graciosa maquinilla de
+tren!
+Pero, de repente, Kezia se
+precipitó sobre Pat, le echó los brazos alrededor de las piernas,
+golpeando con la cabeza tan fuerte como podía, en las rodillas del
+hombre.
+—¡Vuelve a ponerle la cabeza!
+¡Vuelve a ponerle la cabeza! —gemía.
+Cuando Pat se inclinó para
+desembarazarse de ella, no quiso soltar la presa. Ella se agarraba con
+todas sus fuerzas y sollozaba: “Vuelve a ponerle la cabeza, vuelve a
+ponerle la cabeza...”. Hasta que aquello se convirtió en un raro
+estribillo.
+—Se ha parado, ha caído, ha
+muerto —dijo Pip.
+Pat levantó a Kezia en sus brazos.
+El sombrero de paja de la pequeña había resbalado hacia atrás, pero
+ella no se dejó mirar. Apretó su cara contra el hombro huesudo de Pat,
+y sus manos se enlazaron alrededor de su cuello.
+Los niños pararon de gritar tan
+súbitamente como habían empezado. Se mantenían alrededor del pato
+muerto. Rags ya no tenía miedo de la cabeza. Se arrodilló y la
+acarició.
+—No creo que haya muerto
+completamente —dijo—. ¿Creéis que no volvería, a vivir si yo le
+diese algo de beber?
+Pero Pip estaba muy enfadado.
+—¡Bah! ¡Qué bebé! —dijo.
+Silbó a Snooker y se marchó.
+Cuando Isabel fué al encuentro de
+Lottie, Lottie se separó bruscamente.
+—¿Por qué me zarandeas
+constantemente Isabel?
+—Vamos —decía Pat a Kezia—,
+¡ya tenemos aquí una buena niñita!
+Levantó las manos y tocó las
+orejas del hombre. Sintió algo. Lentamente levantó su rostro
+estremecido, y miró. Pat llevaba anillitos en las orejas. Estaba muy
+sorprendida.
+—¿Se ponen y se quitan? —preguntó
+Kezia, con voz ronca.
+X
+En
+lo alto de la casa, en la cocina caliente y muy en orden, Alicia, la
+criada, preparaba el té. Estaba “vestida”. Llevaba un traje de
+paro negro que olía bajo los brazos, un delantal blanco, como una gran
+hoja de papel, y un nudo de encaje sujeto al pelo por dos alfileres de
+azabache. Había reemplazado sus confortables zapatillas de fieltro
+por otras de cuero negro, que le apretaban el callo del dedo pequeño.
+¡Algo horrible!
+Hacía calor en la cocina; una mosca
+zumbaba; un abanico de vapor blanquecino salía de la cafetera cuya tapa
+no cesaba de bailar una giga ruidosa sobre el agua hirviendo. El reloj
+lanzaba al aire tibio un tic—tac lento y mesurado como el ruido de la
+aguja de hacer media de una vieja, y de vez en cuando, sin razón
+ninguna, porque no había brisa, el estor se alzaba y venía a golpear
+en la ventana.
+Alicia confeccionaba sandwichs de
+berros; sobre la mesa había un trozo de manteca, una hogaza de pan y
+hojas de berros apiladas en un paño blanco.
+Un librito sucio, grasiento,
+semidescosido, con las páginas despuntadas, se apoyaba en la
+mantequera, y mientras amasaba la manteca, Alicia leía: Soñar con
+cucarachas que arrastran un ataúd es de mal agüero. Significa la
+muerte de algún pariente o de alguien que os es querido: padre,
+irradie, hermano, hijo o novio. Si las cucarachas marchan hacia atrás
+cuando se las mira, quiere decir muerte por el fuego o como
+consecuencia, de caída de una gran altura, caída por la escalera, de
+andamios, etc., etc.
+Arañas. — Soñar con arañas que
+se pasean sobre uno, es bueno. Anuncian grandes cantidades de dinero,
+próximamente. Si la persona espera hijos, puede confiar en partos
+fáciles. Pero debe evitar el comer almejas., si las traen como regalo,
+en el sexto mes.
+“¡Cuántos millones de pájaros
+veo!”
+—¡Ay, Dios mío! ¡Aquí viene
+miss Beryl!
+Alicia dejó caer su cuchillo y
+escondió la Llave de los Sueños bajo la mantequera. Pero no
+tuvo el tiempo de disimularlo completamente, porque Beryl venía a la
+cocina en dirección a la mesa, y los bordes grasientos del libro fueron
+la primera cosa en la que repararon sus ojos. Alicia vió la sonrisita
+astuta de miss Beryl, y la manera cómo levantó sus cejas como si
+preguntase qué podía ser aquello. Decidió contestar, si miss Beryl le
+preguntaba: “¡Nada que le interese, miss!”. Aunque estaba segura
+que miss Beryl no lo haría.
+Alicia era realmente una criatura
+suave, pero poseía las más maravillosas réplicas a preguntas que —ella
+lo sabía— nunca habían de hacerle. Componerlas, repetírselas a
+sí misma, la consolaba tanto como si las hubiese expresado.
+Verdaderamente, eso le había permitido tener colocaciones en donde la
+habían tratado mal, hasta el punto de tener miedo de dormirse a la
+noche con una caja de cerillas sobre la silla, por temor a comérselas
+durante su sueño.
+—¡Oh! ¡Alicia! —anunció miss
+Beryl—. Hay uno más para el té; de modo que haga el favor de
+recalentar un plato de scones de ayer; y, además del pastel de
+café, ponga un mazapán. No olvide usted los mantelitos bajo los
+platos. ¿Comprende? No los puso usted ayer, y la mesa tenía tan mala
+facha. Y no nos coloque esa horrible cubretetera rosa y verde por la
+tarde. Está bien por la mariana. Creo, por otra parte, que se debía
+guardar para la cocina. ¡ Tiene un aire tan miserable y huele tan mal!
+Ponga la cubretetera japonesa. Me ha comprendido bien, ¿verdad?
+Miss Beryl había terminado. Al
+dejar la cocina iba canturreando:
+Cantando
+tan fuerte desde todos los árboles,
+muy
+satisfecha de la manera enérgica con que manejaba a Alicia.
+Alicia se sentía exasperada. No era
+de esas a quienes disgusta que se les mande, no; pero no podía soportar
+tal retintín en la manera de hablarle miss Beryl. No podía realmente
+soportarlo. Eso le hacía rebelarse interiormente, por decirlo así, y
+casi temblar. Pero la razón por la cual Alicia detestaba así a Beryl
+era que la empequeñecía. Beryl hablaba a Alicia con una voz
+especial, como si no estuviera totalmente presente, y jamás se
+impacientaba, jamás. Aun cuando Alicia dejara caer una cosa u
+olvidase alguna otra importante, miss Beryl parecía esperarlo.
+—Haga el favor, Mrs. Burnell —decía
+una Alicia imaginaria, mientras ella untaba de manteca los scones—;
+preferiría no recibir órdenes de miss Beryl; puedo quizá no ser más
+que una vulgar criada que no sabe tocar la guitarra, pero...
+Este último párrafo la encantaba
+hasta el punto de devolverle su buen humor.
+—La única cosa que se puede hacer
+—oyó al abrir la puerta del comedor— es cortar enteramente las
+mangas y reemplazarlas por una amplia banda de terciopelo negro...
+XI
+El
+pato blanco parecía no haber tenido jamás cabeza cuando Alicia lo
+colocó ante Stanley Burnell aquella noche. Reposaba con una
+resignación admirablemente asada sobre una fuente azul, rodeado de una
+corona de albondiguillas y con las patas juntas, atadas con una hebra de
+hilo.
+Resultaba difícil decir cuál de
+los dos, Alicia o el pato, parecía mejor asado. ¡Tenían ambos un
+color tan hermoso e igual aspecto reluciente y terso! Pero Alicia era de
+un rojo fuego y el pato de un caoba de España.
+Burnell recorrió con la mirada el
+filo de su cuchillo. Muy orgulloso de su manera de trinchar, se
+envanecía de hacer de ello un trabajo de primer orden. Detestaba ver
+trinchar a las mujeres. Demasiado lentas, parecían siempre indiferentes
+al aspecto que pudiera tener la carne. 11, sí, él se preocupaba de
+ello; él ponía su orgullo en cortar delicadas lonchas de vaca fría,
+cuadraditos de cordero, justamente del buen espesor, y de despedazar
+con precisión un pollo o un pato.
+—¿Es el primero de nuestros
+productos? —preguntó, sabiendo perfectamente a qué atenerse.
+—Sí, el carnicero no ha venido;
+hemos descubierto que no pasa más que dos días por semana.
+No había necesidad de excusa sobre
+este soberbio animal. No era ni siquiera carne, sino una suerte de
+refinada gelatina. “Mi padre diría —apuntó Burnell— que éste
+debe ser uno de esos pájaros a los que su madre tocaba la flauta
+alemana en su infancia, y que los dulces sones de este delicado
+instrumento han actuado sobre el espíritu juvenil para dar este
+resultado...” Tome algo más, Beryl. Usted y yo somos los únicos en
+esta casa que tenemos el sentimiento de lo que comemos. Estoy
+dispuesto a declarar delante de un tribunal, si es preciso, que adoro la
+buena comida.
+Se sirvió el té en el salón.
+Beryl, que por una razón cualquiera se había mostrado muy amable con
+Stanley desde su llegada, le propuso una partida de cribbage. Se
+sentaron junto a una mesita cerca de una ventana abierta. Mrs. Fairfield
+desapareció, y Linda, tendida en una mecedora, se balanceaba con los
+brazos cruzados en la nuca.
+—No necesitas luz, ¿verdad,
+Linda? —preguntó Beryl.
+Y cambió de sitio la gran lámpara,
+de tal modo, que quedó bajo la suave luz.
+¡Qué lejos parecían esos dos
+desde el sitio en que Linda, sentada, se mecía! La mesa verde, las
+cartas relucientes, las grandes manos de Stanley, las pequeñitas de
+Beryl, parecían formar parte de un mismo movimiento misterioso.
+Stanley, bien plantado, robusto, en su traje oscuro, estaba a sus
+anchas, y Beryl, sacudiendo su brillante cabeza, estaba algo mohina.
+Llevaba enrollado al cuello un terciopelo negro, nuevo, que la cambiaba
+en cierto modo, transformaba la forma de su rostro —pero era
+encantadora, decidió Linda—. La habitación olía a lirios; había
+dos grandes jarras de arums sobre la chimenea.
+—Quince dos, quince cuatro y una
+pareja hacen seis y una serie de tres son nueve —dijo Stanley tan
+reposadamente que hubiera podido de la misma manera contar carneros.
+—Yo no tengo más que dos parejas
+—dijo Beryl, que exageraba su decepción, sabiendo lo que a él le
+gustaba ganar.
+Los peones parecían dos menudos
+personajes que subían juntos el camino, dando vuelta al ángulo agudo
+y bajando de nuevo. Deseaban menos adelantarse uno a otro que acercarse
+bastante para poderse hablar, o quizá, sencillamente, para sentirse el
+uno junto al otro.
+Pero siempre había uno que se
+impacientaba, que saltaba hacia adelante cuando el otro se le juntaba, y
+se negaba a escucharle. ¿Quizás el peón blanco tenía miedo del rojo?
+O tal vez, cruel, quitaba al rojo la ocasión de hablarle...
+Beryl llevaba prendido al pecho un
+ramito de pensamientos, y una vez, mientras los peoncillos se
+encontraban juntos, se inclinó; los pensamientos cayeron cubriendo
+los peones.
+—Es demasiado —dijo ella,
+recogiendo sus flores—, justamente cuando ellos iban a poder volar uno
+en brazos del otro.
+—¡Hasta la vista, hija mía! —dijo
+Stanley riendo. Y el peón rojo saltó más lejos.
+El salón era largo y estrecho con
+puertas vidrieras que daban a la veranda. La tapicería era de color
+crema con un dibujo de rosas doradas, y el mobiliario, que había
+pertenecido a la vieja Mrs. Fairfield, parecía sombrío y vulgar.
+Contra el muro se adosaba un pequeño piano con el tablero esculpido,
+adornado con una seda amarilla plisada. Encima del piano colgaba un
+óleo de Beryl; sobre el piano un grueso manojo de clemátides con aire
+de sorpresa. Cada flor de la dimensión de un platillo, tenía un
+corazón como un ojo asustado, festoneado de negro. La pieza no estaba
+aún en regla. Stanley soñaba con una butaca chesterfield y dos
+sillas confortables. Linda prefería el salón tal como estaba...
+Dos grandes mariposas de noche
+entraron por la ventana, dando vueltas y formando círculos alrededor
+del halo de la lámpara.
+—¡Huid, antes que sea demasiado
+tarde! ¡Huid!
+Dando vueltas y más vueltas,
+parecían traer el silencio y el claro de luna sobre sus alas mudas...
+—Tengo dos reyes —dijo Stanley—.
+¿Son buenos?
+—Muy buenos —dijo Beryl.
+Linda cesó de balancearse y se
+levantó. Stanley le lanzó una mirada.
+—¿No estás bien, querida?
+—No, nada, voy a reunirme con
+mamá.
+Salió de la pieza y, de pie, en el
+comienzo de la escalera, llamó, pero la voz de su madre le contestó
+desde la veranda.
+La luna, que Lottie y Kezia habían
+visto desde el camión, estaba en plenilunio, y la casa, el jardín, la
+anciana, y Linda, todo se bañaba en su deslumbrante claridad.
+—Yo miraba el áloe —dijo Mrs.
+Fairfield—, creo que va a florecer este año. ¿Ves allí arriba?
+¿Son capullos o un efecto de luz?
+Como se mantenían en los peldaños,
+el alto terraplén de césped sobre el que reposaba el áloe se alzó
+como una onda; el áloe parecía bogar encima; tal un navío con los
+remos alzados. El brillante claro de luna goteaba de los remos, como
+agua, y, en la ola verde, centelleaba el rocío.
+—¿ También tú lo sientes? —preguntó
+Linda.
+Hablaba a su madre con esa voz
+especial con que se hablan las mujeres, a la noche, copio si se hablasen
+entre sueños o desde el fondo de una gruta.
+—¿No sientes que él viene hacia
+nosotras?
+Soñó que la arrastraban fuera del
+agua fría, en el navío de los remos alzados y del mástil con
+retoños. Ahora los remos se abatían, golpeando a prisa, a prisa.
+Bogaban lejos por encima de los árboles del jardín, de los cercados
+y de los sombríos matorrales, más allá. Se estaba oyendo gritar a
+los remeros: “¡Más de prisa, más de prisa!”.
+¡Cuánto más real parecía este
+sueño que tener que volver a casa, donde dormían los niños y donde
+Stanley y Beryl jugaban al cribbage!
+—Creo que son capullos —dijo
+Linda—; vamos al jardín, mamá. Este áloe me gusta. Lo prefiero a
+todo lo demás de aquí. Y estoy segura que lo recordaré mucho tiempo
+después de haber olvidado las otras cosas.
+Apoyó su mano en el brazo de su
+madre y bajaron los peldaños, dieron la vuelta al islote y se metieron
+en la avenida principal que conducía a la verja de la entrada.
+Desde abajo veía las largas espinas
+puntiagudas que terminaban las hojas del áloe, y al mirarlas, su
+corazón se endureció ... Eso era lo que prefería, esas largas
+espinas puntiagudas.
+... Nadie se atrevería a acercarse
+al buque, ni a seguirlo.
+“¡Ni siquiera mi terranova —pensaba
+ella—, a quien tanto quiero durante el día!”
+Porque ella le quería
+verdaderamente. Lo amaba, lo admiraba y lo respetaba enormemente. ¡ Oh!
+Más que a nadie en este mundo. Lo conocía a fondo. Él era la lealtad,
+la respetabilidad mismas, y a pesar de toda su experiencia práctica,
+continuaba sencillo, absolutamente ingenuo, cándido, contento con poco,
+disgustado por poco.
+Si no saltase así detrás de ella,
+ladrando tan fuerte, mirándola con ojos tan ávidos, tan enamorados!
+Era demasiado fuerte para ella. Desde su niñez, detestaba las cosas que
+se precipitaban sobre ella. Había momentos en que se ponía aterrador,
+verdaderamente aterrador; en que ella estaba a punto de gritar con todas
+sus fuerzas: “¡Me vas a matar!”. Y entonces ella tenía gana de
+decir cosas rudas, cosas detestables...
+—Ya sabes, estoy muy delicada;
+sabes tan bien como yo que tengo el corazón lastimado; el médico te lo
+ha dicho, puedo morir de un minuto a otro; he tenido ya tres pedazos de
+niño...
+Sí, sí, era verdad. Linda retiró
+bruscamente su mano del brazo de su madre. .. Con todo su amor, su
+admiración, su respeto para Stanley, lo odiaba. ¡Y qué cart—fioso
+estaba siempre después de aquellos momentos! ¡Qué sumiso estaba y
+atento! Él hubiera hecho cualquier cosa por ella; tenía el deseo de
+servirla... Linda se estaba oyendo a sí misma pedir con voz débil:
+—Stanley, ¿quieres encender la
+vela?
+Oía también la alegre
+contestación: “Claro que sí, queridita”. Y saltaba de la cama,
+como si fuese a brincar, a descolgarle la luna.
+Nunca había ella experimentado eso
+con tanta claridad; todos esos sentimientos para con ella eran
+precisos y definidos, tan verdaderos el uno como el otro. Y este otro,
+este odio, muy real, como los demás. Ella hubiera podido repartirlos en
+otros tantos paquetitos y dárselos a Stanley. Tenía gana de entregarle
+el último, como sorpresa, y se imaginaba sus ojos cuando lo abriera...
+Apretó contra sí sus brazos
+cruzados, y se puso a reír muy bajo. ¡Qué absurda era la vida,
+risible, sencillamente risible! ¿Por qué tendría esa manía de
+continuar viviendo? Porque era una manía —pensaba ella, irónica y
+riendo.
+—¿Por qué me cuido tan
+preciosamente? Continuaré teniendo niños y Stanley ganando dinero. Los
+niños y el jardín irán siendo cada vez mayores y habrá flotillas de
+áloes entre los cuales podré escoger.
+Linda había andado, con la cabeza
+baja, sin mirar a nada. Ahora levantó los ojos y los pasó en derredor
+suyo. Su madre y ella se hallaban cerca de las camelias rojas y blancas.
+Soberbias eran las hojas, ricas y sombrías, bordadas de luz; y las
+flores redondas posadas entre éstas como otros tantos pájaros rojos
+y blancos. Linda arrancó una brizna de verbena, la arrugó y tendió
+las manos a su madre.
+—Delicioso —dijo la anciana—.
+¿Tienes frío, hija mía? Sí, estás temblando; tus manos están
+frías, haríamos mejor en retirarnos.
+—¿En qué pensabas tú? —dijo
+Linda—. Dímelo.
+—¡Oh! En nada de particular. Me
+preguntaba al pasar al lado del vergel, cuáles eran los árboles
+frutales y si podríamos hacer muchas confituras este otoño. Hay
+soberbios grosellos, muy sanos, en la huerta. Hoy me he dado cuenta.
+Quisiera ver esas repisas de la despensa bien adornadas con nuestras
+confituras.
+XII
+“Mi
+querida Nan:
+“No me tome usted por una farsante
+al ver que no le he escrito antes. No he tenido ni un solo instante,
+querida, y me siento aún tan agotada, que apenas si puedo sujetar una
+pluma.
+“¡Bien! La terrible acción fué
+realizada. De veras hemos dejado el vertiginoso torbellino de la
+ciudad y no veo la posibilidad de volver otra vez allí, pues mi
+cuñado ha llegado a adquirir esta finca: construcciones, tierras y
+servidumbres, como él dice.
+“Por una parte, en efecto, es un
+inmenso alivio, pues nos amenaza con tomar algo en el campo, desde que
+vivo con ellos, y debo confesar que la casa y el jardín son deliciosos;
+un millón de veces mejor que ese espantoso agujero de ratón en la
+ciudad.
+“¡Pero estoy enterrada, querida!
+Aunque “enterrada” no es la palabra.
+“Tenemos vecinos, pero no son más
+que granjeros, gordos, torpes, que tienen aire de haber pasado el día
+ordeñando vacas; y dos terribles mujeres, con dientes de conejo; el
+día de nuestra mudanza, ellas nos trajeron scones, ofreciéndose a
+ayudarnos. Mi hermana, que vive siempre lejos de aquí, no conoce ni
+un alma; de modo que no tenemos ,la suerte de ver a nadie. Es casi
+seguro que nadie vendrá de la ciudad, a pesar del ómnibus, porque es
+una vieja galera ruidosa, tapizada de cuero negro, y cualquier persona
+respetable preferiría morir antes que rodar en ella seis millas.
+“Así es la vida... Es un triste
+fin para la pobrecita B... De aquí a un año o dos me convertiré en
+una horrible caricatura e iré a veros en mackintosh, con
+sombrero marino, atado con un velo de auto de gasa blanca. ¡Es tan
+bonito!
+“Stanley dice, ahora que estamos
+instalados —porque lo estamos verdaderamente, después de la más
+terrible semana de mi vida—, que va a traernos dos individuos de su
+club, para jugar al tennis, el sábado por la tarde. A
+propósito, dos están anunciados para hoy como una gran fiesta. Pero,
+querida, ¡ si pudiese usted ver a esos hombres del club de Stanley!
+Regorditos, de un género que parecería terriblemente indecente sin
+chaleco, y siempre con los dedos de los pies un poco encogidos —;
+esto se ve en seguida cuando se anda por el court con sandalias
+blancas! Andan sin cesar subiéndose los pantalones y blandiendo sus
+raquetas contra obstáculos imaginarios.
+“Yo jugaba con ellos, en el club,
+el verano pasado, y estoy segura de que usted se dará cuenta del
+género, si le digo que, después de haber ido allí tres veces, me
+llamaban todos “Miss Beryl”. ¡Es una gente fatigante!
+“Mamá adora el sitio,
+naturalmente. Pero pienso que cuando tenga su edad estaré satisfecha de
+quedarme sentada al sol limpiando guisantes en una tartera.
+“¡Pero ahora, no, no y no!
+“Como de costumbre, no tengo
+ninguna idea de lo que piensa Linda de ello. Misteriosa como siempre.
+“Querida, usted conoce mi vestido
+de raso blanco; he cortado las mangas, he puesto dos bandas de tercio.
+pelo negro, como hombreras, y dos grandes amapolas rojas cogidas en el
+sombrero de mi querida hermana. Un gran éxito, pero no sé cuándo
+podré ponérmelo.”
+Beryl escribía esta carta sentada
+ante una mesita de su habitación. En un sentido, todo ello era verdad,
+claro es, pero, por otra parte, aquello no eran más que tonterías de
+las que ella misma no creía una palabra. No, es decir, sentía esas
+cosas, pero de diferente manera.
+Era su otro yo quien había escrito
+esta carta que molestaba a su verdadero yo a quien repugnaba “una
+necia palabrería”. Con todo, sabía que la enviaría y que
+escribiría siempre este género de bobadas a Nan Pym. De hecho, éste
+era un ejemplar bastante anodino de las cartas que le enviaba
+generalmente.
+Beryl apoyó los codos sobre la mesa
+y releyó su carta, de la que oía subir la voz hasta ella, ensordecida,
+como en el teléfono, pero aguda, exuberante, con una chispa de acritud
+en el tono; ¡cómo la detestaba hoy!
+—¡Estás siempre tan animada! —decía
+Nan Pym—. Por eso los hombres están locos por ti. —Y había
+añadido, con cierta tristeza, pues los hombres no enloquecían mucho
+por Nan, que era una muchacha sólida, de fuertes caderas y tez roja:
+“No comprendo cómo puedas sostener el papel. Pienso que está en tu
+naturaleza”.
+¡Que tontería! ¡Qué estupidez!
+Aquello no era nada natural en ella. ¡Dios mío! Si se hubiese mostrado
+verdaderamente natural con Nan Pym, ésta, de sorpresa, se hubiera
+tirado por la ventana. “Querida, usted conoce mí vestido de raso
+blanco... ”. Beryl cerró bruscamente su carpeta.
+Se levantó de un salto y, sin
+pensar en ello, se dirigió hacia el espejo. Allí vió a una
+muchacha, delgada, vestida de blanco, con falda de sarga blanca y blusa
+de seda blanca, con el talle ceñido por un cinturón de cuero.
+Su cara tenía forma de corazón,
+ancha en las cejas y angulosa en la barbilla, pero no demasiado. Sus
+ojos eran, sin duda, lo mejor que tenía: de un color extraño, tan poco
+vulgar, verde azul, moteados de oro.
+Tenía hermosas cejas negras y
+largas pestañas, tan largas que, cuando reposaban en su mejilla, se
+veía positivamente reflejarse en ellas la luz. Alguien se lo había
+declarado.
+Su boca era un poco grande.
+¿Demasiado grande? No, en realidad, no. El labio inferior adelantaba
+ligeramente y ella tenía una manera de sorbérselo que a otra persona
+le había parecido seductora.
+La nariz era lo menos logrado. No es
+que fuese realmente fea, pero no era ni la mitad de bien hecha como la
+de Linda. Linda tenía una naricita perfecta. La suya se extendía un
+poco, no mucho, y probablemente ella se exageraba esta dimensión,
+porque se trataba de su propia nariz, y, ¡era tan exigente consigo
+misma! La apretó entre el pulgar y el índice e hizo una ligera mueca.
+El pelo. ¡Ah! El pelo era
+espléndido. ¡Y qué masa! Del color de las hojas recién caídas,
+moreno y rojizo, con un fulgor amarillento. Cuando lo juntaba en una
+larga trenza, sentía en la espalda como una gruesa serpiente. Le
+gustaba este peso que arrastraba su cabeza hacia atrás, y le gustaba
+tenerlo suelto, cubriendo sus brazos desnudos. “Sí, querida, no hay
+duda, eres una monada.”
+A esas palabras su pecho se alzó,
+inició una larga respiración de alegría, cerrando a medias los
+ojos. Pero mientras se miraba, la sonrisa se apagó en sus labios y en
+sus ojos. ¡Oh, Dios! Había vuelto al mismo juego. Falsa, tan falsa
+como antes, falsa como cuando había escrito a Nan Pym, falsa ahora,
+sola consigo misma.
+¿Qué relación había entre ella y
+esta persona del espejo y por qué esta mirada fija? Se dejó caer
+junto a su cama y hundió la cabeza en sus brazos.
+—¡Oh! —gritó—. ¡Soy tan
+desgraciada! Sé que soy tonta, rencorosa y vanidosa. Represento siempre
+un papel. No soy nunca verdaderamente yo misma. —Y de una manera muy
+precisa, vió su falso yo subir y bajar las escaleras, reír con una
+risa especial, en trinos, durante las visitas; mantenerse bajo la
+lámpara, si venía a cenar un hombre, para que pudiese admirar la luz
+en su pelo; hacer muecas, hacer la niñita cuando se le pedía que
+tocara la guitarra. ¿Por qué? Sostenía el papel aun delante de
+Stanley. No más tarde que ayer a la noche, mientras él leía su
+periódico, se le había acercado, apoyándose a propósito en su
+hombro. ¿No había posado la mano sobre la suya, indicándole algo,
+para que él pudiese advertir qué blanca era al lado de su mano de
+hombre, tan morena?
+¡Despreciable, despreciable! Su
+corazón estaba frío de rabia. “Es extraordinario cómo puedes
+persistir”, decía a su falso yo. Pero eso provenía de que se sentía
+; tan desgraciada, tan desgraciada! Beryl, dichosa y viviendo su vida,
+su falsedad hubiera cesado de existir. Veía a la verdadera Beryl, una
+sombra..., una sombra, que radiaba, débil y sin sustancia. ¿Qué
+tenía de real, aparte de este fulgor? ¿En qué raros instantes había
+existido? Beryl casi podía recordar cada uno de ellos. Había pensado
+entonces: “La vida es rica, misteriosa y buena, y yo también soy
+rica, misteriosa y buena... ¿Seré yo jamás esa Beryl para
+siempre...? ¿Y cómo? ¿Hubo jamás un tiempo en que no existiera un
+falso yo...?”. Había llegado a este punto cuando oyó resonar
+pequeños pasos a lo largo del pasillo y moverse el picaporte. Kezia
+entraba.
+—Tía Beryl, mamá pregunta si
+quieres bajar; te lo ruego; papá está allí con un señor y la comida
+está dispuesta.
+¡Qué aburrimiento! ¡Cómo había
+arrugado su falda, arrodillándose tan idiotamente!
+—¡Muy bien, Kezia!
+Y Beryl fué al tocador y se
+espolvoreó la nariz.
+Kezia vino también, destapó un
+tarro de crema y lo aspiró. Debajo del brazo llevaba un gato de calicot
+muy sucio.
+Cuando tía Beryl salió de su
+habitación, corriendo, Kezia, sentó el gato sobre el tocador y le puso
+la tapa del tarro de crema sobre la oreja.
+—Ahora, mírate —dijo con tono
+severo.
+El gato de calicot se impresionó
+tanto al verse, que se cayó hacia atrás, saltó, y volvió a saltar
+hasta el suelo. La tapa voló por el aire, fué rodando por el linóleo,
+como una moneda, y no se rompió.
+Pero, para Kezia, se había roto
+desde el momento en que había volado por el aire; la recogió toda
+caliente de emoción y la volvió a poner encima del tocador.
+Después huyó sobre la punta de los
+pies, demasiado de prisa y ligeramente.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

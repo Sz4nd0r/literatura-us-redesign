@@ -1,0 +1,97 @@
+---
+layout: story
+title: Respectabilidad
+slug: sa_idad
+source: https://www.literatura.us/idiomas/sa_idad.html
+tags:
+  - sa_idad
+  - sa
+---
+Sherwood Anderson
+(Camden, Ohio, 1876 - Colón, Panamá, 1941)
+Respectabilidad
+(1919)
+(“Respectability”)
+Winesburg, Ohio
+(Nueva York: B. W. Huebsch, 1919, 303 págs.)
+Si usted ha vivido en ciudades y caminos por el parque durante una tarde de verano, quizá habrá visto,
+parpadeando en un rincón de su jaula de hierro, a una clase de mono enorme y grotesco, una criatura de piel fea, ajada y calva debajo de los ojos y un trasero morado brillante.
+Este mono es un verdadero monstruo. Toda su fealdad adquiere una especie de belleza pervertida. Los niños se detienen ante su jaula fascinados, los hombres se voltean con aire de
+disgusto y las mujeres se quedan un momento, quizá tratando de recordar, a cuál de los hombres que han conocido se le parece, aunque sea vagamente.
+Si en los primeros años de su vida usted hubiera sido ciudadano del pueblo de Winesburg, Ohio, la existencia de la bestia enjaulada no le hubiera significado misterio alguno.
+“Es como Wash Williams”, diría. “Sentada en ese rincón, la bestia es exactamente como cuando el viejo Wash se sienta en el césped del patio de
+la estación una tarde de verano después de cerrar su oficina antes de que anochezca.”
+Wash Williams, el operador de telégrafos de Winesburg, era la cosa más fea de la ciudad: de tamaño inmenso, cuello delgado, piernas débiles. Era sucio.
+Todo en él era inmundo. Incluso el blanco de sus ojos se veía empañado.
+Voy muy rápido. No todo en Wash Williams era sucio.
+Se cuidaba las manos. Tenía los dedos gruesos, pero había algo sensible y proporcionado en la mano que descansaba sobre la mesa junto al aparato en la oficina de telégrafos.
+En su juventud se le había reconocido como el mejor operador de telégrafos del estado y, a pesar de su situación degradante en la lóbrega oficina de Winesburg,
+continuaba sintiéndose orgulloso de su habilidad.
+Wash Williams no se relacionaba con los hombres del pueblo en que vivía. “Nada tengo que hacer con ellos”, decía mirando con ojos turbios a quienes caminaban por el andén
+de la estación frente a la oficina de telégrafos. Por la noche recorría la Calle Main hasta la última cantina de Ed Griffith y, después de beber cantidades increíbles de cerveza,
+se tambaleaba hasta su habitación en el New Willard House y se metía a la cama a pasar la noche.
+Wash Williams era un hombre valiente. Algo le había sucedido que lo había hecho odiar la vida y la odiaba de todo corazón, con el abandono de un poeta. En primer lugar, odiaba a las mujeres.
+“Putas”, decía. Su sentimiento hacia los hombres era distinto. Les tenía lástima. “¿Acaso el hombre no permite que una u otra puta manipule su vida?”, preguntaba.
+En Winesburg nadie prestaba atención a Wash Williams o al odio a sus semejantes. En una ocasión la señora White, esposa del banquero,
+se quejó a la compañía de telégrafos diciendo que la oficina de Winesburg estaba sucia y olía abominablemente; pero su argumento no tuvo eco. Por aquí y por allá había hombres que respetaban
+al operador. Instintivamente los hombres percibían en él un fuerte resentimiento que él mismo no tenía el valor de reconocer. Cuando Wash caminaba por las calles, alguno de ellos sentía
+el impulso de rendirle homenaje, de quitarse el sombrero o hacerle una caravana. El superintendente que inspeccionaba a los operadores de telégrafos de la línea de ferrocarril que atravesaba
+Winesburg actuaba así. Había colocado a Wash en la oficina lóbrega de Winesburg para evitar despedirle y tenía la intención de mantenerlo allí. Cuando recibió la carta de protesta de la esposa
+del banquero la rompió y se rió con desagrado. Al hacerlo, por algún motivo pensó en su propia mujer.
+En un tiempo Wash Williams había tenido esposa. De joven se había casado con una chica de Dayton, Ohio. Era alta, delgada, de ojos azules y pelo rubio.
+El mismo Wash había sido guapo. La había amado con un amor tan absorbente como el odio que después experimentó hacia las mujeres.
+En todo Winesburg sólo había un individuo que conocía la historia del suceso que había afeado y amargado a la persona y el carácter de Wash Williams.
+En cierta ocasión se lo contó a George Willard y tal relato era algo así:
+“Una noche George Willard se fue a pasear con Belle Carpenter, ribeteadora de sombreros de mujer que trabajaba en la mercería de la señora Kate McHugh. El joven no estaba enamorado. De hecho,
+ella tenía un pretendiente que trabajaba como mesero en la cantina de Ed Griffith, pero cuando George Willard caminaba con ella bajo los árboles, ocasionalmente se abrazaban. La noche y
+sus propios pensamientos les habían despertado algo. Al volver a la calle Main pasaron por el jardincito que está al lado de la estación de ferrocarril y vieron a Wash Williams aparentemente dormido en el pasto bajo un árbol.
+La noche siguiente el operador y George Willard salieron, caminaron por las vías del ferrocarril y se sentaron en una pila de durmientes medio podridas junto a los rieles. Fue entonces cuando el operador le contó su historia de odio al joven reportero.”
+George Willard y el hombre extraño y deforme que vivía en el hotel de su padre probablemente habían estado a punto de conversar una docena de veces.
+El joven observaba aquella cara repulsiva que miraba de reojo el comedor del hotel y la curiosidad lo consumía. En esos ojos vigilantes asomaba un indicio de que el hombre que nada decía a los demás tenía, sin embargo, alguna cosa que contarle a él.
+Esa noche de verano, sobre la pila de durmientes, esperó con expectación. Cuando el operador se quedó callado y pareció decidirse por no hablar, trató de hacerle conversación.
+—¿Alguna vez se casó, señor Williams? —empezó—. Supongo que lo estuvo y que su esposa murió, ¿no es cierto?
+Wash Williams escupió una retahíla de blasfemias.
+—Sí —asintió—. Está muerta como lo están todas las mujeres. Es una cosa muerta que vive y camina a la vista de todos los hombres y ensucia el mundo con su presencia.
+El hombre clavó los ojos en los del muchacho y se puso rojo de ira.
+—No se meta ideas tontas en la cabeza —le ordenó—. Mi esposa, ella está muerta; sí, desde luego. Se lo digo yo y todas las mujeres están muertas,
+mi madre, su madre, esa mujer alta y morena que trabaja en la sombrería y con la que lo vi pasear ayer, todas ellas, todas muertas. Le digo que hay algo podrido en ellas. Claro que estuve casado. Mi mujer murió antes de casarse conmigo, era una cosa asquerosa
+salida de otra mujer aún más asquerosa. La enviaron a hacerme la vida insoportable. Fui un tonto, lo ve, como usted ahora, y me casé con esta mujer. Quisiera ver que los hombres empezaran a comprender un poco a las mujeres. Las mandan para impedir que
+los hombres hagan del mundo un sitio en el que valga la pena vivir. Son una trampa de la naturaleza. ¡Uf! Son cosas reptantes, pavorosas, retorcidas, con sus manos suaves y sus ojos azules.
+Ver a una mujer me enferma. No entiendo por qué no mato a todas las que veo.
+Medio temeroso, pero fascinado por los ojos encendidos del viejo repulsivo, George Willard escuchaba ardiendo de curiosidad. Ya era de noche por lo que debía inclinarse hacia adelante para poder ver el rostro del hombre que hablaba. Cuando
+la falta de luz le impidió observar la cara morada e hinchada y los ojos encendidos, le vino una curiosa fantasía. Wash Williams hablaba en tonos bajos y sostenidos que impartían a sus palabras un matiz más terrible.
+En la penumbra el joven reportero empezó a imaginar que estaba sentado en las durmientes al lado de un hombre joven y agradable de cabello oscuro y brillantes ojos negros. Había algo casi hermoso en la voz de Wash Williams,
+el repulsivo Wash Williams, mientras narraba su historia de odio.
+El operador de telégrafos de Winesburg, sentado a oscuras sobre las durmientes, se había convertido en poeta. El odio lo había elevado a ese nivel.
+—Es porque lo vi besando los labios de esa Belle Carpenter que le cuento mi historia –dijo–. Lo que me sucedió a mí le puede ocurrir a usted. Quiero advertirle. Puede que ya tenga usted sueños en la cabeza.
+Deseo destruirlos:
+Wash Williams se puso a narrar la historia de su vida de casado con la muchacha alta y rubia de ojos azules que había conocido cuando era un joven operador en Dayton,
+Ohio. Aquí y allá el relato tenía toques de belleza entrelazados con una maraña de maldiciones. El operador se había casado con la hija de un dentista, la menor de tres hermanas. El día de
+su boda, gracias a su habilidad, lo ascendieron a despachador con un mejor salario y lo trasladaron a unas oficinas de Columbus, Ohio. Allí se instaló con su joven esposa y empezó a pagar una casa a plazos.
+El joven operador de telégrafos estaba locamente enamorado. Con una especie de fervor religioso se las había arreglado para superar todos los peligros de su juventud y llegar virgen al matrimonio.
+Le pintó un retrato a George Willard de su vida en Columbus, Ohio con su joven mujer.
+—En el jardín de atrás de nuestra casa plantamos vegetales —dijo—; ya sabe usted, chícharos, maíz y todas esas cosas. Nos fuimos a Columbus a principios de marzo y, en cuanto los días se hicieron
+más caluro­sos empecé a trabajar el jardín. Removía la tierra negra con una pala mientras ella corría por allí riéndose y fingiendo que le daban miedo los gusanos que yo desen­terraba. A fines de abril
+había que comenzar a plantar. Ella se quedaba en los pequeños senderos entre los plantíos con una bolsa de papel en la mano llena de semillas. Me las iba pasando poco a poco para enterrarlas en la tierra cálida y blanda.
+Por un momento quedó en suspenso la voz del hombre que hablaba en la penumbra.
+—Yo la amaba —dijo—. No soy un tonto. Aún la amo. Allí, al ponerse el sol en las tardes primaverales, me arrastraba por el suelo hacia ella y me humillaba a sus pies. Le besaba los zapatos y los tobillos.
+Cuando el dobladillo de su vestido me rozaba la cara yo temblaba. Y al cabo de dos años de esa vida descubrí que se las había ingeniado para tener otros tres amantes
+que acudían regularmente a nuestra casa mientras yo estaba en el trabajo; no quise tocarlos ni a ellos ni a ella. Me limité a mandarla a casa de su madre y no dije nada.
+No había qué decir. Tenía cuatrocientos dólares en el banco y se los di. No le pedí explicaciones. No dije nada. Una vez que se fue lloré como un niño tonto. Muy pronto tuve la oportunidad de vender la casa y le envié el dinero.
+Wash Williams y George Willard se levantaron de la pila de durmientes y caminaron a lo largo de las vías del tren hacia la ciudad. El operador terminó su relato apresuradamente y sin tomar aliento.
+—Su madre me mandó llamar —dijo—. Me escribió una carta y me pidió que fuera a su casa en Dayton. Cuando llegué era de noche, más o menos a esta misma hora.
+La voz de Williams se elevó hasta casi gritar.
+—Me senté en el recibidor de esa casa y ahí permanecí durante dos horas. Su madre me hizo entrar y me dejó allí. Tenían una casa elegante. Eran lo que suele llamarse gente respetable.
+En la habitación había sillas lujosas y un sofá. Yo temblaba de pies a cabeza. Odiaba a los hombres que, según yo, habían abusado de ella. Estaba harto de vivir solo y quería que ella volviera.
+Cuanto más esperaba, más ingenuo y tierno me ponía. Pensé que si ella entraba y tan sólo me rozaba con la mano quizá me desmayaría. Ansiaba perdonar y olvidar.
+Wash Williams se detuvo y miró a George Willard. El cuerpo del muchacho se estremecía como de frío. De nuevo la voz del hombre se tornó suave y baja.
+—Entró en la habitación desnuda —continuó—. Su madre lo planeó todo. Mientras yo esperaba, su madre estaba quitándole la ropa, probablemente convenciéndola para que hiciera eso.
+Primero oí voces en la puerta que daba a un pequeño pasillo y luego se abrió suavemente. La joven estaba avergonzada y se mantuvo completamente inmóvil mirando al piso. La madre no entró en la habitación.
+Al empujar a la chica por la puerta se quedó esperando en el pasillo, esperando que nosotros… bueno, ya ve… esperando.
+George Willard y el operador de telégrafos llegaron a la calle principal de Winesburg. Las luces de las vitrinas de las tiendas estaban, encendidas y brillaban sobre las banquetas. La gente paseaba riendo y platicando.
+El joven reportero se sintió enfermo y débil. En su imaginación, también se vio viejo y deforme.
+—No maté a la madre —dijo Wash Williams mirando a lo largo de la calle—. Le pegué una sola vez con una silla y luego llegaron los vecinos y se la llevaron. Gritaba tan fuerte… ¿ve usted? Ya nunca tendré oportunidad de matarla.
+Murió de una fiebre al cabo de un mes de que sucedió eso.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

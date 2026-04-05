@@ -1,0 +1,228 @@
+---
+layout: story
+title: La cuenta pendiente de Swithin Hall
+slug: hall
+source: https://www.literatura.us/idiomas/london/hall.html
+tags:
+  - hall
+  - london
+---
+Jack London
+(San Francisco, California, 1876 – Glen Ellen, California, 1916)
+La cuenta pendiente de Swithin Hall (1911)
+(“A Little Account With Swithin Hall”)
+Originalmente publicado en The Saturday
+Evening Post,
+Vol. 184, No. 10, 2 de septiembre de 1911, págs. 12-14, 40-41);
+A Son of the Sun
+(Nueva York: Doubleday, Page & Company, 1912, 333 págs.)
+I
+Con una última y prolongada mirada al ininterrumpido círculo de mar, David Grief se bajó de la cruceta y descendió, despacio y abatido, por la flechadura hasta cubierta.
+—El atolón Leu-Leu se ha hundido, señor Snow —dijo al joven segundo oficial, de rostro preocupado—. Si algo sé de navegación, el atolón se encuentra bajo el mar, porque lo hemos pasado por encima dos veces, o por encima del lugar en el que debería encontrarse. Eso o el cronómetro falla o yo me he olvidado de lo que es navegar.
+—Tiene que ser el cronómetro, señor —aseguró el segundo a su jefe—. Yo hice observaciones y las desarrollé por mi cuenta y coincidían con las suyas.
+—Sí —murmuro Grief, al tiempo que movía la cabeza, abatido—. Y donde se cruzaban sus líneas de posición, además de las mías, se encontraba el centro del atolón Leu-Leu. Tiene que ser el cronómetro: le habrá fallado el engranaje o algo así.
+Dio un paseo de ida y vuelta hasta la barandilla y echó una ojeada preocupada a la estela de la Uncle Toby. La goleta, con viento fresco por la aleta, alcanzaba unos nueve o diez nudos.
+—Será mejor orzar para navegar de bolina, señor Snow. Reduzca trapo y déjela barloventear en bordadas de dos horas. El tiempo se está cerrando y no creo que esta noche podamos hacer observaciones de las estrellas; así que mantendremos la situación de barlovento, mañana observaremos la latitud y correremos en latitud hasta Leu-Leu. Así es como lo hacían en la antigüedad.
+Ancha de manga, dotada de palos largos, con francobordo elevado y proa llena, la Uncle Toby era la goleta más lenta, rechoncha, segura e infalible que David Grief poseía. Navegaba en las Banks y las Santa Cruz, y hacia el noroeste, entre varios atolones aislados, donde sus tratantes nativos recogían copra, carey y alguna que otra tonelada de conchas perlíferas. Al ver que el patrón había caído enfermo con un ataque de fiebre especialmente grave, Grief lo dejó en tierra y ocupo su puesto en la travesía semestral entre los atolones. Había elegido hacer la primera parada en Leu-Leu, que era el más alejado, y ahora se encontraba perdido en medio del mar con un cronómetro que le tomaba el pelo.
+II
+Esa noche no salieron las estrellas y al día siguiente no pudieron ver el sol. Imperaba una calma pegajosa y cargada que de vez en cuando rompían unas fuertes ráfagas del viento y potentes chaparrones. Por miedo a alejarse demasiado barloventeando, la Unde Toby se puso en facha y así permaneció cuatro días y noches de un cielo oculto tras las nubes. El sol no salió nunca y, en las pocas ocasiones en las que se vieron las estrellas fue de forma tan breve y fugaz que no lograron identificarlas. Para entonces hasta el más principiante tenía claro que los elementos se preparaban para armarla buena. Grief salió a cubierta a fin de consultar el barómetro, que se empeñaba en permanecer en 29.90, y se encontró con Jackie-Jackie, cuyo rostro parecía tan inquietante y turbulento como el cielo y el aire. Jackie-Jackie, un experimentado marinero tongano, hacía las veces de contramaestre y segundo de a bordo entre la tripulación kanaka.
+—Gran tormenta venir, creer yo —dijo—. Uno así yo ver antes cinco o seis veces.
+Grief asintió.
+—Se acerca un huracán, Jackie-Jackie. Muy pronto el barómetro descenderá… hasta el fondo.
+—Sí —coincidió el tongano—. Soplar como demonio.
+Diez minutos después, Snow salió a cubierta.
+—Ya empieza —dijo—. 29.85, baja el barómetro y sube la temperatura. Hace un calor insoportable, ¿no lo nota? —Se frotó la frente con las manos—. Es mareante. Podría devolver el desayuno sin esforzarme demasiado.
+Jackie-Jackie sonrió.
+—A mí pasar igual. Todo dentro dar vueltas. Siempre así antes de gran viento. Pero Uncle Toby ir bien. Soportar todo.
+—Es mejor que apareje la vela cangreja de tormentas en el palo mayor, y un tormentín —dijo Grief al segundo—. Y tome todos los rizos antes de aferrar. Quién sabe lo que podemos necesitar. Ya de paso, ponga doble jarcia.
+Una hora más tarde, la sofocante opresión continuaba aumentado y la calma absoluta se mantenía, mientras el barómetro había caído y marcaba 29.70. El segundo era joven y no tenía paciencia para esperar la llegada del momento trascendental. Interrumpió sus paseos inquietos y agitó los brazos.
+—¡Si va a venir, que venga ya! —gritó—. ¡No tiene sentido darle tantas vueltas! ¡Por muy malo que sea, que acabe de una vez! ¡Vaya lío, perdidos con un cronómetro que se ha vuelto loco y un huracán que no quiere soplar!
+El cielo cubierto de nubes desordenadas y revueltas se tiñó de un leve tono cobrizo y pareció ponerse al rojo, como el interior de un enorme caldero recalentado. Abajo no quedaba nadie. Los marineros nativos se reunían, preocupados, en grupos a crujía y a proa, donde hablaban en voz baja y miraban con aprensión al cielo amenazador y al mar, igual de siniestro, que respiraba ondulaciones largas, bajas y oleaginosas.
+—Parece una mezcla de petróleo y aceite de ricino —se quejó el segundo, al tiempo que escupía su asco por la borda—. Mi madre solía darme porquerías de esas cuando era pequeño. ¡Dios, qué negrura!
+El deslumbrante brillo cobrizo desapareció y el cielo se espesó y encapotó hasta que la oscuridad fue como la del final del crepúsculo. David Grief, que de sobra conocía las reglas del huracán, volvió a leer Las leyes de las tormentas, forzando la vista a la poca luz existente para descifrar la letra. No podía hacer más que esperar a que soplase el viento para saber en qué situación se hallaba en relación al centro letal y veloz de la tormenta que se acercaba desde algún punto.
+Eran las tres de la tarde y el barómetro había bajado a 29.45 cuando llegó el viento.
+Lo vieron en el agua: oscureció la superficie del mar y levantó diminutas cabrillas a su paso. No era más que una brisa fuerte y la Uncle Toby orientó sus velas de tormenta hasta tener el viento por el través y avanzó chapoteando a un ritmo de cuatro nudos.
+—Vaya porquería —se burló Snow—, ¡después de tantos preparativos!
+—¡Viento niño! —convino Jackie-Jackie—. Ver como pronto crecer hasta ser hombre.
+Grief ordenó colocar la vela de trinquete, conservando los rizos, y la Uncle Toby enmendó el ritmo. El viento enseguida se convirtió en un hombre, pero no se quedó ahí. Continuó soplando cada vez más fuerte, siempre aumentando, y anunciaba cada incremento con una calma seguida de ráfagas devastadoras y arreciantes. Siguió empeorando hasta que la barandilla de la Uncle Toby pasó más tiempo empujada hacia abajo que arriba, mientras su combés se llenaba de agua espumosa que los imbornales no eran capaces de expulsar. Grief estudió el barómetro, que no dejaba de caer.
+—El centro se encuentra al sur —le dijo a Snow—, y nosotros corremos en dirección a él. Ahora viraremos para correr en dirección contraria. Con eso, el barómetro tendría que subir. Arríe la vela de trinquete, ya es demasiado, y listos para virar por redondo.
+Realizaron la maniobra y, en medio de una oscuridad que más parecía la del anochecer, la Uncle Toby viró y corrió como loca rumbo al norte, por delante de la tormenta.
+La cosa está igualada —confió Grief al segundo un par de horas después—. La tormenta describe una gran curva, que resulta imposible de calcular, por lo que podríamos dejarla atrás o el centro podría alcanzarnos. Por suerte, el barómetro aguanta Tod depende de lo amplia que sea la curva. Hay demasiado oleaje, ¡póngala al pairo! Seguirá avanzando igual.
+—Yo creí que sabía lo que era un vendaval —gritó Snow al oído de su jefe a la mañana siguiente—. Esto no es viento. Es algo impensable. Es imposible. Hay rachas de ciento cincuenta o ciento sesenta kilómetros por hora. Pero eso no significa nada. ¿Cómo explicárselo a alguien? Jamás lo conseguiré. ¡Y mire el oleaje! He navegado hacia el este, pero jamás he visto algo parecido.
+Era de día y hacía una hora que había salido el sol, pero no conseguía producir más que un semicrepúsculo sombrío. El océano era una imponente procesión de montañas en movimiento. Los senos de las gigantescas olas medían tres cuartos de milla náutica. Sus enormes laderas, algo protegidas de la furia del viento, se veían interrumpidas por formaciones de olas más pequeñas, como cabrillas, pero en las elevadas crestas de las olas grandes el viento arrancaba las cabrillas en el instante en que se formaban. Esa espuma alcanzaba la altura de la espiga, y aún llegaba más arriba, en horizontal, por encima de la superficie del mar.
+—Ya hemos pasado lo peor —opinó Grief—. El barómetro continúa subiendo Aumentará el oleaje al tiempo que el viento amaina. Me voy a acostar un rato. Atento a los cambios en la dirección del viento. Los habrá. Avíseme a las ocho campanadas.
+A media tarde, en medio de un buen oleaje, con el viento que ya no era más que una brisa fuerte, el contramaestre de Tonga divisó una goleta volcada. La deriva de la Uncle Toby los llevó a pasar junto a la proa y no pudieron leer su nombre, pero antes de la noche encontraron un bote de fondo redondo y dos proas, anegado pero con unas letras blancas visibles en la proa. Con la ayuda de los prismáticos, Grief leyó: Emily L. Nº 3.
+—Una goleta de las que andan a la caza de focas —dijo—. Aunque no entiendo qué hace en estas aguas una cazadora de focas.
+—¿Ir a la busca del tesoro? —especuló Snow—. Recordará usted que la Sophie Sutherland y la Herman eran goletas cazadoras de focas, que alquilaron en San Francisco los tipos que tienen los mapas y que siempre afirman poder ir directos al punto exacto, hasta que llegan y no es allí.
+III
+Tras una noche mareante de meneos y bamboleos sin fin, durante la que la Uncle Toby, sobre un mar agonizante y sin una ráfaga de viento para ayudarla a conservar el nimbo, logró que todos los que iban a bordo se sintieran enfermos, se levantó una ligera brisa y quitaron los rizos. A mediodía, con el mar en calma, empezaron a abrirse claros entre las nubes y pudieron observar el sol. El resultado fue dos grados y quince minutos sur. Con el cronómetro estropeado, resultaba imposible calcular la longitud.
+—Podemos estar en cualquier punto de esa latitud, entras las quinientas y las mil millas náuticas —afirmó Grief mientras el segundo y él se inclinaban sobre la carta marina—. Leu-Leu se encuentra en algún lugar hacia el sur y esta parte del mar está en blanco. No hay ni una isla, ni un simple arrecife con el que regular el cronómetro. Lo único que podemos hacer…
+—¡Tierra a la vista, capitán! —avisó el tongano desde lo alto de la escalera.
+Grief lanzó una rápida ojeada al espacio en blanco de la carta, dejó escapar un silbido de sorpresa y se recostó levemente en su sillón.
+—No lo entiendo —dijo—. Aquí no puede haber tierra. Ni hemos corrido tanto ni nuestra deriva ha sido tan grande como para eso. Esta travesía es una locura. ¿Sería tan amable de subir, señor Snow, para ver qué le pasa a Jackie?
+—Es tierra —dijo el segundo desde arriba al cabo de un minuto—. Se ve desde cubierta. Se ven copas de palmeras, así que debe ser un atolón. Tal vez incluso sea Leu-Leu.
+Grief asintió con la cabeza mientras observaba la hilera de palmeras, de las que solo se veían las copas, que parecía surgir directamente del mar.
+—Vire para navegar ciñendo, señor Snow, pasaremos cerca para echar un vistazo.
+Podemos seguir hacia el sur y, si se extiende en esa dirección, llegaremos a la esquina sudoeste.
+Para que las palmeras se vean desde la cubierta de una goleta, deben encontrarse muy próximas y, a pesar de que la Uncle Toby avanzaba muy despacio, enseguida empezaron a verse las tierras bajas y otras palmeras, que incrementaron la definición del círculo del atolón.
+—Qué belleza —comentó el segundo—. Es un círculo perfecto. Podría medir entre trece y quince kilómetros de diámetro. ¿Habrá entrada a la laguna? ¿Quién sabe? Tal vez sea un nuevo descubrimiento.
+Navegaron siguiendo la costa oeste del atolón, realizando bordadas cortas para acercarse a la roca de coral golpeada por el mar y luego volverse a separar. Desde la espiga, un kanaka anunció que, al otro lado del borde de palmeras, se veía la laguna y una pequeña isla en el medio.
+—Sé lo que está pensando —dijo Grief a su segundo.
+Snow, que había estado murmurando algo y negando con la cabeza, levantó enseguida una mirada repleta de incredulidad.
+—Está pensando que la entrada estará en el noroeste —continuó Grief, como si recitase algo—. Tendrá un ancho de dos cables y al norte la señalan tres palmeras separadas y, al sur, varios pandanos. Mide trece kilómetros de diámetro, forma un círculo perfecto y tiene una isla en el centro de la laguna.
+—Estaba pensando eso mismo —reconoció Snow.
+—Ahí está la entrada, exactamente donde debería estar.
+—Y las tres palmeras —casi susurró Snow—. Y los pándanos. Si en la isla hay un molino de viento…, es la isla de Swithin Hall. Pero no puede ser. Desde hace diez años, la busca todo el mundo.
+—Hall le jugó una mala pasada en una ocasión, ¿no es así? —preguntó Grief Snow asintió.
+—Por eso trabajo para usted. Me arruinó. Fue un auténtico atraco a mano armada. Yo compré los restos del naufragio del Cascade, en Sidney, con la primera entrega de una herencia.
+—Se perdió en la isla de Navidad, ¿no?
+—Sí, encalló a toda máquina, por la noche. Salvaron a los pasajeros y el correo Luego compré una pequeña goleta, de las que navegan entre las islas, y que se llevó el resto de mi dinero, por lo que, para pertrecharla tuve que esperar a recibir el tercer pago de los albaceas. Lo que hizo Swithin Hall, que por entonces estaba en Honolulú, fue salir corriendo hacia la isla de Navidad. No tenía ni derecho ni título de propiedad Cuando llegué, del Cascade solo quedaban el casco y los motores. Había llevado a bordo un buen cargamento de seda que no sufrió daños. Su sobrecargo me lo contó más tarde con todo detalle. Ganó alrededor de sesenta mil dólares.
+Snow se encogió de hombros y miró sombríamente a la lisa superficie de la laguna, donde unas onditas diminutas bailaban al sol de la tarde.
+—El naufragio era mío. Lo compré en pública subasta. Aposté a lo grande y perdí. Cuando regresé a Sidney, la tripulación y algunos de los comerciantes que me habían vendido a crédito arrestaron la goleta. Empeñé el reloj y el sextante y paleé carbón una temporada, y por fin conseguí trabajo en las Nuevas Hébridas por ocho libras al mes. Después probé suerte como comerciante independiente, me arruiné y me enrolé de segundo en un reclutador que iba a Tana y Fiyi, conseguí empleo como capataz en una plantación alemana próxima a Apia y al final acabé en la Uncle Toby.
+—¿Ha visto alguna vez a Swithin Hall?
+Snow negó con la cabeza.
+—Pues parece que ahora lo va a ver. Ahí está el molino.
+En el centro de la laguna, al salir del paso, dieron con una isla pequeña y de densa vegetación, entre cuyos árboles se veía claramente un molino de viento.
+—Por lo que parece, no hay nadie en casa —dijo Grief—, o habría podido cobrar su deuda.
+Una expresión de venganza asomó al rostro del segundo, que apretó los puños.
+—Legalmente no puedo tocarlo. Ahora tiene demasiado dinero. Pero puedo sacarle los sesenta mil del pellejo. Espero que esté en casa.
+—Entonces, yo también lo espero —dijo Grief con una sonrisa de admiración—. Supongo que la descripción de la isla se la daría Bau-Oti.
+—Sí, como a todos los demás. El problema es que Bau-Oti no conoce la latitud ni la longitud. Dice que navegaron mucho tiempo desde las Gilbert, que eso es lo único que sabe. Me pregunto qué habrá sido de él.
+—Yo lo vi hace un año, en una playa de Tahití. Dijo que estaba pensando en embarcarse para navegar entre las Paumotu. Bueno, ya nos estamos acercando. Echa el escandallo Jackie-Jackie. Listo para arriar el ancla, señor Snow. Según Bau-Oti, se fondea a trescientos metros de la orilla oeste a nueve brazas y hay bajíos de coral al sureste. Ahí están los bajíos. ¿La medición, Jackie?
+—Nueve brazas.
+—Arríe, señor Snow.
+La Uncle Toby se balanceó unida a la cadena del ancla, arriaron las velas delanteras y la tripulación kanaka se ocupó de las drizas y escotas de proa y de mayor.
+IV
+La chalupa se situó al costado del muelle de piedra de coral y David Grief y su segundo saltaron a tierra.
+—Esto parece desierto —dijo Grief mientras recorrían la senda de arena que llevaba al bungaló—. Pero huelo a algo que he olido a menudo. Aquí pasa algo, si mi nariz no me engaña. La laguna está alfombrada de conchas. Están dejando pudrir la carne a varios kilómetros de distancia. ¿Percibe ese olorcillo?
+El bungaló de Swithin Hall no se parecía a ningún otro de los que había en los trópicos. Estaba construido igual que el edificio de una misión y, tras acceder por una puerta mosquitera que no tenía el pestillo echado, vieron que su interior estaba amueblado y decorado siguiendo el mismo estilo de las misiones. Las mejores esterillas samoanas cubrían el suelo del gran salón. Había sofás, asientos junto a las ventanas, rincones acogedores y una mesa de billar. Una mesa de costura y un costurero, sobre los que había un pedazo de auténtico lino bordado, del que sobresalía una aguja, indicaban la presencia de una mujer. El porche y los mosquiteros mantenían el sol cegador a distancia y atenuaban su brillo y su calor. El lustre de unos pulsadores de nácar llamó la atención de Grief.
+—¡Demonios! ¡Son acumuladores que funcionan gracias al molino! —exclamó mientras apretaba los pulsadores—. ¡Y luz indirecta!
+Se encendieron unos cuencos ocultos y la habitación se llenó de una luz dorada y difusa. Las paredes estaban cubiertas de estanterías con libros. Grief se entretuvo repasando los títulos. Para ser un aventurero, era un hombre leído, pero descubrió una variedad tan amplia y un gusto tan católico que lo superaron. Encontró algunos viejos amigos y otros de los que había oído hablar pero que nunca había leído. Había coleccione completas de Tolstói, Turguéniev y Gorky; de Cooper y Mark Twain; de Hugo, Zola y Sue; y de Flaubert, De Maupassant y Paul de Koch. Ojeó con curiosidad las páginas de Méchnikov, Weininger y Schopenhauer, y pensativamente las de Ellis, Lydston, Krafft Ebing y Forel. Tenía en las manos Desarrollo de las razas, de Woodruff, cuando Snow regresó de explorar el resto de la vivienda.
+—¡Bañera esmaltada, la ducha en una estancia aparte y un baño de asiento! —exclamó—. ¡Todo digno de un rey! Y supongo que parte lo habrá pagado con mi dinero. La casa tiene que estar ocupada. He encontrado latas de leche y mantequilla abiertas hace poco en la despensa y carne de tortuga fresca colgada a secar. Voy a ver qué más encuentro.
+Grief también decidió explorar y cruzó una puerta que se abría en el extremo opuesto del salón. Se encontró en lo que, sin duda, era el dormitorio de una mujer. Al otro lado, y a través de una puerta de tela metálica, vio un porche para descansar oscurecido por las mosquiteras. Una mujer yacía dormida sobre un sofá. A la tenue luz, parecía excepcionalmente hermosa; la suya era una belleza morena, hispana. Junto a ella y sobre una silla, había una novela abierta, boca abajo. Por el tono de sus mejillas, Grief llegó a la conclusión de que no llevaba mucho tiempo en los trópicos. Tras observarla, retrocedió sin hacer mido y volvió al salón a la vez que Snow cruzaba la otra puerta. Agarraba del brazo desnudo a un negro arrugado por la edad que sonreía amedrentado e intentaba, con gestos, indicarles que era mudo.
+—Lo encontré adormilado en una caseta, en la parte de atrás —dijo el segundo—. Supongo que será el cocinero. No he logrado que diga una sola palabra. ¿Qué ha encontrado usted?
+—Una princesa dormida. ¡Sssh! Ahí viene alguien.
+—Si es Hall… —murmuró Snow al tiempo que apretaba el puño.
+Grief negó con la cabeza.
+—Nada de peleas. Hay una mujer. Y si es Hall, antes de que nos marchemos encontraré la forma de que pueda vengarse.
+Se abrió la puerta y entró un hombre grande y fornido. Al cinto llevaba un pesado Colt de cañón largo. Les dedicó una mirada rápida y preocupada y luego sonrió con amabilidad y extendió la mano.
+—Bienvenidos, extraños. Aunque, si no les importa que pregunte, ¿cómo rayos han conseguido encontrar mi isla?
+—Nos desviamos de nuestro rumbo —respondió Grief al tiempo que le estrechaba la mano.
+—Me llamo Hall, Swithin Hall —dijo el otro mientras se volvía para darle la mano a Snow—. Y no me importa decirles que la suya es la primera visita que recibo.
+—¿Esta es su isla secreta, de la que se habla en todas las playas desde hace años? —contestó Grief—. Pues ahora ya sé la fórmula para encontrarla.
+—¿Cuál es? —preguntó enseguida Hall.
+—Romper el cronómetro, sobrevivir a un huracán y luego mantener los ojos abiertos hasta divisar las palmeras que surgen del mar.
+—¿Y cómo se llaman ustedes? —preguntó Hall, después de reírse sin entusiasmo.
+—Anstey, Phil Anstey —contestó Grief de inmediato—. Navego desde las Gilbert, Nueva Guinea e intento conocer mi longitud. Este es mi segundo, el señor Gray, mejor navegador que yo, pero tan enfadado como yo con el cronómetro.
+Grief no sabía por qué había mentido, pero sintió ese impulso y se dejó llevar. Tenía la sensación de que algo no iba bien, aunque no sabía de qué se trataba. Swithin Hall era un hombre gordo de rostro redondo, con arrugas de las que se producen al reír en las comisuras de la boca y de los ojos. Pero Grief, ya de joven, había aprendido que esa clase de rostro puede resultar engañoso, además de saber que algunos ojos azules ocultan su falsedad tras una alegría superficial.
+—¿Qué hacen con mi cocinero? ¿Han perdido el suyo y pretenden embarcarlo por la fuerza? —dijo Hall—. Pues si quieren comer algo, será mejor que lo suelten. Mi esposa está aquí y los recibirá encantada. Ella lo llama cenar y me riñe cuando lo llamo comer, pero yo soy de los de antes. En mi casa se le llamaba comer a todo y no es fácil perder las viejas costumbres. ¿No quieren asearse? Yo sí. Mírenme. He trabajado sin descanso con el grupo de buceadores. Sacamos conchas. Aunque ya se habrán dado cuenta por el olor.
+V
+Snow alegó la necesidad de ocuparse de la goleta y regresó a bordo. Además de la repugnancia que le provocaba pensar en compartir mesa con el hombre que le había robado, era necesario que instruyese a la tripulación kanaka para que no desvelase la mentira de Grief. Cuando, a las once de la noche, Grief volvió a la goleta, su segundo lo estaba esperando.
+—En la isla de Swithin Hall ocurre algo —dijo Grief, al tiempo que negaba con la cabeza—. No sé de qué se trata, pero tengo esa impresión. ¿Qué aspecto tiene Swithin Hall?
+Snow negó saberlo.
+—El hombre que ocupa la casa no ha comprado los libros que llenan las estanterías —afirmó Grief, totalmente convencido—. Tampoco se ocupó de poner luz indirecta. En apariencia resulta cortés, pero en el fondo es un animal. Está fingiendo. Y el par que lo acompaña… se llaman Watson y Gorman, y llegaron después de que usted se fuera. Son verdaderos lobos de mar, de mediana edad, maltratados, ajados, duros como clavos de hierro forjado oxidados y el doble de peligrosos; unos tipos siniestros, con armas al cinto, a los que no imagino tratando a Swithin Hall con tanta camaradería. ¡Y la mujer! Es una dama. En serio. Sabe mucho de Sudamérica y de China. Estoy seguro de que es española, aunque habla inglés como si fuese su lengua materna. Ha viajado. Hablamos de las corridas de toros. Las ha visto en Guayaquil, en México y en Sevilla. Sabe mucho de pieles de foca.
+»Pero lo que me preocupa es esto: sabe de música. Le pregunté si tocaba. Y él ha acondicionado la casa como si fuera un palacio. Siendo así, ¿por qué no hay un piano para ella? Y otra cosa: es una mujer despierta y alegre, y él la observa cada vez que habla. Se muestra nervioso y no para de interrumpir la conversación y desviarla. ¿Alguna vez oyó usted decir que Swithin Hall estuviese casado?
+—Pues no lo sé —contestó el segundo—. Ni siquiera se me ocurrió pensarlo.
+—Me la presentó como la señora Hall. Y Watson y Gorman lo llaman Hall. Vaya par esos dos. No entiendo nada.
+—¿Qué piensa hacer al respecto? —preguntó Snow.
+—Pues nos quedaremos un poco por aquí. En la casa hay algunos libros que me apetece leer. Supongamos que por la mañana derriba ese mastelero y pone en marcha una revisión general. Acabamos de pasar por un huracán. Ya de paso, repase la jarcia Dele una buena vuelta a todo y tómese su tiempo.
+VI
+Al día siguiente las sospechas de Grief encontraron más base en la que apoyarse. Bajó a tierra temprano y cruzó paseando la pequeña isla, hasta los barracones que ocupaban los buceadores. Cuando llegó, estaban subiendo a los botes y le dio la impresión de que, a pesar de ser kanakas, se comportaban como si fuesen presidiarios condenados a trabajar. Allí estaban también los tres hombres blancos y Grief se fijó en que cada uno llevaba un rifle. Hall lo recibió con bastante alegría, pero Gorman y Watson fruncieron el ceño al gruñir un brusco saludo.
+Un momento después, uno de los kanakas se inclinó para colocar el remo y aprovechó el movimiento para guiñarle un ojo a Grief, a quien la cara de aquel hombre le resultaba familiar: sería uno de los miles de marineros y buceadores nativos con los que se había cruzado comerciando de isla en isla.
+—No les digas quien soy —pidió Grief en tahitiano—. ¿Has navegado alguna vez para mí?
+El hombre asintió con la cabeza y abrió la boca, pero antes de que pudiera hablar se vio reprimido por el brutal «¡Cállate!» de Watson, quien ya ocupaba la tilla de popa.
+—Pido disculpas —dijo Grief—. No tenía que haberle hablado.
+—No importa —intervino Hall—. El problema es que les encanta hablar, pero no trabajar. Hay que ser duro con ellos o no recogerían conchas suficientes ni para pagar lo que comen.
+Grief asintió comprensivamente.
+—Los conozco bien. Mi tripulación es de ellos y son una panda de vagos. Para sacarles medio día de trabajo hay que tratarlos como a esclavos.
+—¿Qué fue lo que le dijo? —soltó Gorman con brusquedad.
+—Le pregunté qué tal eran las conchas y a qué profundidad bajaban.
+—Abundantes —se ocupó de responder Hall—. Ahora trabajamos a unas diez brazas. Es ahí, a unos cien metros de distancia. ¿Quiere acompañarnos?
+Grief paso medio día con los botes y almorzó en el bungaló. Por la tarde haraganeó, durmió la siesta en el enorme salón, leyó un rato y charló durante media hora con la señora Hall. Después de cenar jugó al billar con su marido. Lo cierto era que Grief nunca había coincidido con Swithin Hall, pero la fama de Hall como experto jugador de billar era tema de conversación en todas las playas, desde Levuka a Honolulú. Sin embargo, el hombre con el que Grief jugó esa noche se mostró indiferente al juego. Su mujer manejaba el taco mucho mejor que él.
+Cuando subió a bordo de la Uncle Toby, Grief sacó a Jackie-Jackie de la cama. Le detalló la situación de los barracones y le pidió al tongano que nadase hasta allí sin hacer ruido y hablase con los kanakas. Jackie-Jackie estaba de vuelta en dos horas. Negó con la cabeza mientras goteaba ante Grief.
+—Ser muy raro —informó—. Un hombre blanco allí todo el tiempo. Tener rifle grande. Esperar en agua y vigilar. Ser las doce y otro hombre blanco venir y coger rifle. Primer blanco ir dormir. El otro vigilar con rifle. Nada bueno. Yo no poder hablar con kanakas. Yo volver.
+—¡Demonios! —le dijo Grief a Snow, después de que el tongano regresara a su litera—. Aquí huele a algo más que a conchas. Esos tres hombres se turnan para vigilar a sus kanakas. Ese hombre es Swithin Hall tanto como lo soy yo.
+Snow silbó asombrado ante la nueva idea que se le había ocurrido.
+—¡Ya sé! —gritó.
+—Y yo —contestó Grief—. ¿Está pensando que la Emily L. era su goleta?
+—Exacto. Ellos recogen y pudren las conchas mientras la goleta ha ido a buscar más buceadores o provisiones… o ambas cosas.
+—Estoy de acuerdo. —Grief miró el reloj de la cabina y dio señales de querer dormir—. Es marino. Lo son los tres. Pero no saben de islas. Son nuevos en estas aguas.
+Snow volvió a silbar.
+Y la Emily L. se ha hundido con toda la tripulación —dijo—. Eso lo sabemos nosotros. Están aislados aquí hasta que regrese Swithin Hall. Entonces los pillará con todas las conchas.
+—O ellos se apoderarán de su goleta.
+—¡Eso espero! —murmuró Snow, vengativo—. Alguien debería robarle a él. Ojalá estuviera yo en la piel de ellos. Recuperaría mis sesenta mil.
+VII
+Transcurrió una semana, durante la que la Uncle Toby quedó lista para hacerse a la mar y Grief consiguió despejar cualquier sospecha que los de tierra pudiesen haber tenido sobre él. Incluso Gorman y Watson aceptaron todo cuanto les contó de sí mismo. Además, se pasó toda la semana dando la lata y pidiendo que le revelaran la longitud de la isla.
+—No querrá que me marche estando perdido —insistió por última vez—. Sin saber la longitud, el cronómetro no me servirá de nada.
+Hall se negó, risueño.
+—Es usted demasiado buen marino, señor Anstey, como para no arribar a Nueva Guinea o a alguna otra tierra alta.
+—Y usted es demasiado buen marino, señor Hall —contestó Grief—, como para no saber que podré arribar a su isla cuando quiera corriendo en latitud hasta ella.
+La última noche, mientras estaba en tierra para cenar, como siempre, Grief vio por primera vez las perlas que habían reunido. La señora Hall se entusiasmó y pidió a su marido que le llevase sus «preciosidades», y se pasó media hora enseñándoselas a Grief. El placer que Grief mostró era auténtico, al igual que su sorpresa porque hubieran reunido un botín tan valioso.
+—La laguna está sin tocar —explicó Hall—. Usted mismo ha visto que casi todas las conchas son grandes y viejas. Pero lo curioso es que encontramos la mayor parte de las perlas valiosas en un pequeño tramo y en el curso de una semana. Era como una pequeña mina. Todas las ostras estaban llenas, la mayoría eran perlas pequeñas, desde luego, pero las perfectas, casi todas las de ese lote, salieron de esa pequeña zona.
+Grief les echó una ojeada y supo que su valor oscilaba entre cien y mil dólares por pieza, mientras que las grandes y especiales superaban con creces esa tasación.
+—¡Oh, son preciosas! ¡Preciosas! —exclamó la señora Hall y se inclinó de repente para besarlas.
+Unos minutos después se levantó para irse a dormir.
+—Yo me despido ya —dijo Grief mientras le estrechaba la mano—. Mañana zarpamos.
+—¡Tan inesperadamente! —gritó ella, mientras Grief observaba la satisfacción que asomó a los ojos de su marido.
+—Sí —continuó Grief—. Ya hemos terminado con las reparaciones. No consigo sacarle a su marido la longitud de su isla, aunque no pierdo la esperanza de que ceda.
+Hall se rio, negó con la cabeza y, mientras su esposa abandonaba el salón, propuso tomar una última copa de despedida. Se sentaron de nuevo, a fumar y charlar.
+—¿Cuánto calcula que valen? —preguntó Grief, señalando las perlas extendidas sobre la mesa—. ¿Cuánto darían por ellas los compradores de perlas?
+—Oh, entre setenta y cinco y ochenta mil dólares —dijo Hall, sin darle importancia.
+—Me temo que se queda corto. Sé algo de perlas. Por ejemplo, esa, la más grande. Es perfecta. No vale ni un centavo menos de cinco mil dólares. Algún multimillonario pagará incluso el doble algún día, cuando los comerciantes hayan sacado su parte. Y sin tener en cuenta las perlas pequeñas, ahí hay un montón de barrocas. Las perlas barrocas se están poniendo de moda. Cada año suben de precio, incluso lo doblan.
+Hall estudió con mayor atención el tesoro de perlas, hizo un cálculo aproximado de cada grupo y realizó la suma del total en voz alta.
+—Tiene razón —admitió—. Ahora mismo valen cien mil.
+—¿Y en cuánto calcula el gasto laboral? —continuó Grief—. Su tiempo, el de sus dos hombres, el de los buceadores.
+—Con cinco mil lo cubriría todo.
+—Así que, ¿se embolsará unos noventa y cinco mil?
+—Más o menos. Pero ¿a qué viene tanta curiosidad?
+—Pues, intentaba… —Grief hizo una pausa y dejó seco su vaso—. Quería encontrar la forma de llegar a un acuerdo equitativo. Imagine que le ofrezco a usted y a los suyos pasaje hasta Sidney y los cinco mil dólares… o, mejor, siete mil quinientos. Han trabajado mucho.
+Sin alborotarse y sin hacer un solo movimiento, el otro hombre se mostró tenso, alerta. El gesto amable de su rostro redondo se apagó como la llama de una vela al soplar sobre ella. En la superficie de sus ojos no había alegría, pero en el fondo se apreciaba su alma dura y peligrosa. Habló despacio, con calma.
+—¿Qué demonios quiere decir con eso?
+Grief volvió a encender su puro sin inmutarse.
+—No sé por dónde empezar —dijo—. La situación es… es bastante violenta… para usted. Verá, intento ser justo. Como he dicho, ha trabajado mucho. No quiero confiscar las perlas. Quiero pagarle por su tiempo, sus molestias y sus gastos.
+Un convencimiento instantáneo y absoluto asomó al rostro del otro.
+—Y yo que creía que estaba usted en Europa —murmuró. La esperanza aleteó en sus ojos durante un segundo—. No, mire, me está tomando el pelo. ¿Cómo sé que es usted Swithin Hall?
+Grief se encogió de hombros.
+—Sería una broma de mal gusto, después de lo hospitalario que ha sido. Pero también es de mal gusto tener a dos Swithin Hall en la isla.
+—Y si usted es Swithin Hall, ¿quién demonios soy yo? ¿Eso también lo sabe?
+—No —Grief respondió a la ligera—. Aunque me gustaría saberlo.
+—Pues no es asunto suyo.
+—Estoy de acuerdo. Su identidad no viene al caso. Además, conozco su goleta y con eso me basta para enterarme de quién es usted.
+—¿Cómo se llama la goleta?
+—Emily L.
+—Correcto. Soy el capitán Raffy, propietario y mandamás.
+—¿El cazador furtivo de focas? He oído hablar de usted. ¿Y qué rayos lo ha traído hasta mis territorios?
+—Necesitaba dinero. Las manadas de focas están casi agotadas.
+—Y los pocos lugares aislados del mundo están mucho mejor vigilados, ¿no?
+—Eso también. Pero volvamos a nuestro lío, señor Hall. Yo estoy dispuesto a pelear y puedo ser muy peligroso. ¿Qué piensa hacer al respecto?
+—Lo que le he dicho. Incluso mejor. ¿Cuánto vale la Emily L?
+—Ya tiene sus añitos. No más de diez mil, porque sería un robo. Cada vez que hay marejada temo que el lastre atraviese la tablazón.
+—Ya la ha atravesado, capitán Raffy. La vi boca abajo después del huracán. Vamos a poner que valía siete mil quinientos. Le pagaré quince mil dólares y el viaje a Sidney. No mueva las manos del regazo. —Grief se puso en pie, se acercó a él y le quitó el revólver—. Es una precaución necesaria, capitán. Ahora vendrá a bordo conmigo. Después le daré la noticia a la señora Raffy y la llevaré con usted.
+—Debo reconocer que es usted muy generoso, señor Hall —comentó el capitán Raffy cuando el bote se detuvo al costado de la Uncle Toby—. Pero tenga cuidado con Gorman y Watson. Son unos tipos muy peligrosos. Y, por cierto, no me gusta comentarlo, pero ya ha visto a mi mujer. Le di cuatro o cinco perlas, solo para ella. Watson y Gorman estuvieron de acuerdo.
+—No hace falta que diga más, capitán. No diga más. Seguirán siendo suyas. ¿Es usted, señor Snow? Aquí traigo a un amigo del que quiero que se ocupe, el capitán Raffy. Yo vuelvo a tierra a buscar a su mujer.
+VII
+David Grief escribía, sentado a la mesa de la biblioteca, en el salón del bungaló. En el exterior empezaba a notarse la palidez del alba. Había pasado una noche de lo más ajetreada. La señora Raffy había tardado dos horas de histerismo en recoger sus posesiones y las del capitán Raffy. A Gorman lo pilló durmiendo, pero Watson, que vigilaba a los buceadores, decidió resistirse. Las cosas no se complicaron hasta el punto de llegar a disparar pero hasta que no le quedó claro que el juego había llegado a su fin no consintió en reunirse a bordo con sus compañeros. De forma temporal, lo encadenaron, junto con Gorman, en el camarote del segundo, a la señora Raffy la recluyeron en el de Grief y al capitán Raffy lo hicieron firme a la mesa de la cabina.
+Grief terminó el documentó y leyó lo que había escrito:
+A Swithin Hall, por las perlas recogidas en su laguna (aproximadamente)
+$100.000
+A Herbert Snow, pago completo del rescate del Cascade en perlas (aprox.)
+$60.000
+Al capitán Raffy, salario y gastos por recoger las perlas
+$7.500
+Al capitán Raffy, reembolso por la goleta Emily L., perdida en un huracán
+$7.500
+A la señora Raffy, de buena voluntad, cinco perlas buenas (aproximadamente)
+$1.100
+Travesía a Sídney, cuatro personas, a $120 $480
+Pintura blanca para las dos chalupas de Swithin Hall
+$9
+A Swithin Hall, saldo en perlas (aprox.) que encontrará en el cajón de la mesa de la biblioteca
+$23.411
+$100.000
+$100.000
+Grief puso la fecha y firmó. Luego hizo una pausa y añadió:
+P.D.: Quedan pendientes tres libros de Swithin Hall, que tomé prestados de la biblioteca: La ley de los fenómenos psíquicos, de Hudson; El vientre de París, de Zola; y El problema de Asia, de Mahan. Dichos libros, o su valor, podrán ser recuperados en la oficina que el susodicho David Grief posee en Sidney.
+Apagó la luz eléctrica, cogió los libros, cerró con pestillo la puerta principal y se fue en dirección al bote que lo esperaba.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

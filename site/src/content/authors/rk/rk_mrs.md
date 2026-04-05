@@ -1,0 +1,640 @@
+---
+layout: story
+title: Mrs. Bathurst
+slug: rk_mrs
+source: https://www.literatura.us/idiomas/rk_mrs.html
+tags:
+  - rk_mrs
+  - rk
+---
+Rudyard Kipling
+(Bombay, India, 1865 - Londres, 1936)
+Mrs. Bathurst (1904)
+[Otro título en español: La señora Bathurst]
+(“Mrs Bathurst”)
+Originalmente publicado en Windsor Magazine (septiembre de 1904), en Inglaterra;
+y Metropolitan Magazine (septiembre de 1904), en Estados Unidos;
+Traffics and Discoveries
+(Londres: Macmillan & Co., 1904, 393 págs.)
+El día elegido por mí para visitar el H.M.S. Peridot en la Bahía de Simon fue
+el mismo día que el Almirante había elegido para destinarlo al norte. Acababa de
+zarpar cuando mi tren llegó y, dado que el resto de la Flota se hallaba reponiendo
+las carboneras o practicando en los campos de tiro a unos mil pies de distancia,
+me vi atrapado en el malecón y con el estómago vacío, sin posibilidad alguna de
+regresar a Ciudad del Cabo antes de las cinco. Aun cuando mi situación era
+crítica, tuve la suerte de dar con mi amigo el inspector Hooper, de Ferrocarriles del
+Cabo, que en ese momento se encontraba al mando de una locomotora y de un
+furgón de cola marcado con tiza para su reparación.
+—Si consigues algo para comer —me dijo—, te llevo al apartadero de Glengariff
+hasta que llegue la mercancía. Allí se está más fresco que aquí.
+Como me aprovisionase de comida y bebida en la tienda de los griegos,
+donde se vende de todo, la locomotora nos trasladó un par de millas hasta una
+bahía de arena y un andén de tablas semienterrado a apenas cien yardas de la
+orilla. Dunas moldeadas, más blancas que la nieve, se extendían tierra adentro a
+través de un valle púrpura y marrón de rocas astilladas y matorral seco. Una
+muchedumbre de malayos jalaba una red en la playa junto a dos botes pintados de
+azul y verde; un grupo de excursionistas chillaban y bailaban descalzos allá donde
+un pequeño río fluía a través del llano; y un círculo de áridas colinas, cuyos pies se
+erigían sobre arenas plateadas, nos encerraba frente a un mar de siete colores. En
+cada cuerno de la ensenada la línea de ferrocarril, que transcurría sobre el nivel de
+la pleamar, se extendía a lo largo de un arcén de rocas apiladas y luego
+desaparecía.
+—Como puedes comprobar aquí siempre sopla la brisa —dijo Hooper abriendo
+la puerta de la locomotora una vez hubimos alcanzado el apartadero, en tanto las
+violentas sacudidas que el viento del sureste ejerce bajo el Pico de Elsie iban
+depositando arena sobre nuestras cervezas.
+Acto seguido tomó asiento para
+ocuparse sin demora de un archivador repleto de documentos ensartados.
+Acababa de regresar de un largo viaje por el interior que le había llevado hasta
+Rodesia, donde había estado informando sobre el material rodante deteriorado. El
+peso del viento apacible sobre mis párpados; su balada sonando bajo el techo del
+vagón y allá en lo alto, entre las rocas; los finos granos de arena que se persiguen
+musicalmente unos a otros en dirección a la orilla; el fatigoso discurrir del oleaje;
+las voces de los excursionistas; el crujido del archivador de Hooper y la presencia
+asegurada del sol, todo ello se aliaba con la cerveza para precipitarme en un
+duermevela mágico. En el momento preciso en que las colinas de Bahía Falsa
+estaban fundiéndose con las del país de las hadas escuché un ruido de pasos
+procedentes del exterior y el tintineo de los ensamblajes.
+—¡Parad! —espetó Hooper sin alzar la cabeza de la tarea que lo ocupaba—. Son
+esos molestos chicos malayos, que siempre andan jugando con los vagones…
+—No seas cruel con ellos. El ferrocarril es un refugio habitual en África —repliqué.
+—Ciertamente lo es. Al menos, en el interior. Eso me recuerda —decía
+mientras palpaba en el bolsillo de su chaleco—, que te traje algo de Wankie, al norte
+de Bulawayo. Es más un souvenir que…
+—El viejo hotel está habitado —se oyó una fuerte voz—. Hombres blancos que
+hablan nuestro idioma. Marines destinados al frente. Vamos, Pritch. Ese es tu
+Belmont. ¡Viva!.
+La última palabra se deslizó como una soga mientras el señor Pyecroft rodeaba
+la puerta abierta y examinaba atentamente mi rostro. Tras él, un Sargento de
+Marines de porte inmenso seguía el rastro de un tallo de alga desecada a la par
+que se limpiaba nerviosamente la arena de los dedos.
+—¿Qué hacéis aquí? —pregunté—. Pensaba que el Hierofante estaría en algún
+lugar apartado de la costa.
+—Llegamos el martes pasado de Tristan D’Acunha para revisar las placas de
+sujeción de las calderas y nos quedaremos un par de meses en el astillero.
+—Suban y siéntense —los invitó Hooper apartando a un lado el archivador.
+—Este es el señor Hooper, del Ferrocarril —exclamé al tiempo que Pyecroft se
+giraba para tirar del sargento de oscuros mostachos.
+—Este es el Sargento Pritchard, del Agárico, un viejo compañero de
+tripulación —dijo él—. Estábamos dando una vuelta por la playa.
+El monstruo se
+sonrojó y asintió con la cabeza. Solamente él ocupaba un lado entero del furgón
+una vez se hubo sentado.
+—Y este es mi amigo, el señor —anuncié a Hooper, quien andaba ya
+afanado con la cerveza extra que mi instinto profético había decidido comprar a los
+griegos.
+—Moi aussi —indicó Pyecroft, y extrajo del interior de su casaca una botella
+etiquetada de dos pintas.
+—¡Pero si es Bass! —aulló Hooper.
+—Fue cosa de Pritchard —dijo Pyecroft—. No se le resisten.
+—Eso no es así —replicó Pritchard con delicadeza.
+—Quizá no al pie de la letra, pero los ojos nunca engañan.
+—¿Dónde la conseguisteis? —quise saber.
+—Fue un poco más al norte, en la Bahía de Kalk. La chica estaba sacudiendo
+una alfombra en el porche trasero. Pritch no tuvo más que apuntar con sus
+cañones para que ella se deslizara al interior y la lanzase por encima del muro.
+Pyecroft palmoteó la tibia botella.
+—Todo fue un malentendido —dijo Pritchard—. No me sorprendería que me
+hubiese confundido con Maclean. Tenemos más o menos la misma corpulencia.
+Yo había oído a los residentes en Muizenberg, St. James y la Bahía de Kalk
+quejarse acerca de la dificultad de encontrar cerveza y buenos sirvientes en la
+costa, y ahora empezaba a darme cuenta del motivo. No obstante la Bass era
+excelente, y bebí también a la salud de aquella generosa criada.
+—Es el uniforme lo que las atrae y ellas las que, a su vez, atraen al uniforme —dijo Pyecroft—. Mi azul marino simplón es respetable, pero no termina de
+encandilarlas. Ahora bien, enfundado en su casaca roja Pritch es todo un Real
+Marine –un miembro nato del Cuerpo, diría yo.
+—Te digo que ella debió tomarme por Maclean —insistió Pritchard—. Vamos, por
+favor, ¡escuchen lo que dice! Si ayer sin ir más lejos no pensabas eso…
+—Pritch —dijo Pyecroft—. Te lo advierto con tiempo. Si empezamos a contar lo
+que sabemos el uno del otro acabarán echándonos del bar. Por no hablar de
+deserción calificada en repetidas ocasiones…
+No fueron más que ausencias sin permiso. Te desafío a que demuestres lo
+contrario —dijo el Sargento con vehemencia—. Y si llegases a hacerlo, ¿qué me
+dices de lo de Vancouver en el ‘87?.
+—¿Qué quieres que te diga? ¿Quién remaba a proa en el bote que nos
+condujo a tierra? ¿Quién le dijo al Niño Niven…?.
+—Supongo que seríais puestos a disposición de un tribunal militar —intervine.
+La historia del Niño Niven, que llegó a seducir a siete u ocho marineros e infantes
+de marina cualificados para que se adentrasen en los bosques de la Columbia
+Británica, era toda una leyenda de la Flota.
+—Sí, fuimos sometidos a un consejo de guerra —dijo Pritchard—, pero
+habríamos sido juzgados por asesinato si el Niño Niven no hubiese estado más
+aguerrido que de costumbre. Nos contó que tenía un tío que nos iba a ceder tierras
+de cultivo. Decía que él había nacido en las entrañas de la isla de Vancouver, y a
+cada instante se comportaba como un huérfano chiflado del hogar benéfico de
+Barnardo.
+—Y sin embargo le creímos —dijo Pyecroft—. Yo, tú, Paterson… y ¿quién era el
+Marine aquel que acabó casándose con la vendedora de cocos –el de la boca
+grande?
+—Oh, Jones, Escupidera Jones. Ya no me acordaba de él —dijo Pritchard—. Sí,
+Escupidera le creyó, y también George Anstey y Moon. Éramos demasiado
+jóvenes e impetuosos.
+—Pero afectuosos y confiados en buen grado —dijo Pyecroft.
+—¿Recuerdas cuando nos dijo que caminásemos en fila india por miedo a los
+osos? ¿Recuerdas, Pye, cuando se arrojó a esa ciénaga llena de helechos y
+desde allí olfateaba y decía que era capaz de oler el humo de la granja de su tío?
+Aquello no era más que un sucio islote deshabitado. Lo recorrimos en un día y
+después regresamos a la playa a por nuestro bote. Un día entero nos tuvo el Niño
+Niven caminando en círculos para dar con la granja de su tío. ¡Y no se cansaba de
+decir que su tío estaba obligado por la ley de la tierra a cedernos una granja!
+—No te acalores, Pritch. Le creímos y ya está —dijo Pyecroft.
+—Había estado leyendo libros. Solo lo hizo para conseguir bajar a tierra y que
+se hablase de él. Un día y una noche estuvimos ocho de nosotros siguiendo al
+Niño Niven por una isla deshabitada del archipiélago de Vancouver. Luego vino
+una patrulla naval a por nosotros, feliz hatajo de idiotas.
+—¿Qué castigo recibieron ustedes? —preguntó Hooper.
+—Una intensa tronada acompañada de relámpagos que no cesaron hasta
+pasadas dos horas. A partir de ahí se sucedieron las borrascas de granizo, la mar
+confusa y un tiempo frío y hostil hasta el término de la expedición —dijo Pyecroft—.
+Todo eso lo esperábamos, pero lo que nos afectaba de verdad –y le aseguro, señor Hooper, que incluso a un hombre de mar puede partírsele el corazón– es que
+alguien dijese de nosotros, marineros cualificados y prometedores infantes de
+marina, que habíamos engañado al Niño Niven. Que supuestamente nosotros, que
+no buscábamos otra cosa que recuperar el cultivo y la explotación de la tierra, lo
+habíamos engañado. Él, cómo no, se opuso a nuestra versión y salió absuelto sin
+dificultad.
+“Exceptuando lo que le dimos en el puente de mando cuando abandonamos
+las celdas. ¿Has sabido algo de él últimamente, Pye?
+—Creo que el señor L. L. Niven es Contramaestre Señalero en la Flota del
+Canal.
+—Y Anstey murió de fiebre en Benin —rumió Pritchard—. ¿Qué sería de Moon?
+De Escupidera lo sabemos.
+—Moon... ¡Moon! ¿Dónde fue la última vez que…? Ah, sí, cuando estaba en el
+Paladio. Me encontré con Quigley en la Estación Buncrana. Me dijo que Moon
+había desertado tres años atrás cuando el balandro Astrilda navegaba por los
+Mares del Sur. Él siempre se había mostrado como un tipo Mormonástico. Sí, se
+escabulló silenciosamente y no tuvieron tiempo de perseguirlo por las islas, aun
+cuando el oficial de navegación hubiera sido capaz de hacerlo.
+—¿No lo hizo? —dijo Hooper.
+—No. Según Quigley el Astrilda pasó la mitad de su tiempo de servicio
+retozando por la playa como una tortuga hembra, y la otra mitad rompiendo
+cascarones de huevo de tortuga en lo alto de numerosos arrecifes. Cuando atracó
+en Sydney su casco parecía el tendedero de la Tía María y las cuadernas
+maestras habían saltado. El oficial al mando juró que había sido responsabilidad
+del astillero al enramar el esqueleto de la nave sobre la grada. Se hacen cosas
+muy extrañas en el mar, señor Hooper.
+—¡Ah, no! Yo no soy un contribuyente —dijo Hooper abriendo una botella
+fresca. El Sargento parecía ser de esos a los que resulta embarazoso cambiar de
+tema.
+—Cómo acaba uno acordándose de todo, ¿verdad? —dijo—. Ya ves, Moon
+debía llevar dieciséis años cumplidos de servicio cuando desertó.
+—Les llega a todas las edades. Fíjate en… ya sabes —dijo Pyecroft.
+—¿En quién? —pregunté.
+—Estás pensando en un hombre que estaba de servicio y a quien faltaban
+dieciocho meses para licenciarse —dijo Pritchard—. Un oficial cuyo nombre empieza
+por V., ¿no?
+—Sin embargo, bien mirado no podemos decir que en realidad desertase —sugirió Pyecroft.
+—Oh, no —dijo Pritchard—. Se trató únicamente de ausencia permanente
+injustificada en el interior. Eso es todo.
+—¿En el interior? —dijo Hooper—. ¿Hicieron circular su descripción?
+—¿Para qué? —dijo Pritchard de muy malos modos.
+—Porque los desertores son como las columnas en tiempos de guerra. No se
+separan de la línea. Sé de un tipo al que capturaron así en Salisbury mientras
+intentaba llegar a Nyassa. Una vez me contaron, aunque desde luego no tengo
+constancia de ello, que en la Flotilla del Lago Nyassa no hacen preguntas. He oído
+hablar de un intendente P. y un O. al mando de una lancha armada por allí.
+—¿Piensas que Click pudo haber tomado ese rumbo? —preguntó Pritchard.
+—Es imposible preverlo. Fue enviado a Bloemfontein para que se ocupase de
+cierta munición naval abandonada en el fuerte. Sabemos que estuvo allí y que la
+vio en los vagones. A partir de ahí nada más se supo de Click –ni entonces ni
+después. Hace ya cuatro meses de ello y la situación continúa siendo la misma
+actualmente —dijo Pyecroft.
+—¿Cuáles eran sus marcas? —inquirió Hooper nuevamente.
+—¿Acaso ofrece el Ferrocarril una recompensa por traerlos de vuelta? —dijo
+Pritchard.
+—Si fuese así, ¿cree que hablaría de ello? —replicó Hooper molesto.
+—Parece usted muy interesado —dijo Pritchard con la misma sequedad.
+—¿Por qué le decían Click? —pregunté con la intención de eludir un incómodo
+receso en la conversación. Los dos hombres se miraron fijamente.
+—Porque un ascensor de munición —dijo Pyecroft—, le arrebató cuatro de sus
+dientes –de la parte inferior de la banda de babor, ¿no, Pritch?–. Las piezas de
+recambio que adquirió no estaban bien ajustadas, por así decir. Cuando hablaba
+rápido se le levantaban ligeramente de la base. De ahí “Click”. Decían de él que
+era un hombre superior, que es como entre los marineros llamamos a un tipo alto,
+moreno, mestizo y que habla con elegancia.
+—Cuatro dientes falsos en la mandíbula inferior izquierda —dijo Hooper con la
+mano hundida en el bolsillo del chaleco—. ¿Tenía tatuajes?
+—Mire —se arrancó Pritchard incorporándose—. Le estamos muy agradecidos
+por su gentil hospitalidad, pero quizá nos hayamos equivocado al aceptarla.
+Miré a Pyecroft en busca de auxilio. A Hooper no tardaron en subírsele los
+colores.
+—Si el marino gordo que ocupa ahora el castillo de proa fuese tan amable de
+echar el ancla una vez más, quizá pudiésemos hablar como caballeros –por no
+decir como amigos —sugirió Pyecroft—. Él piensa que usted, señor Hooper, es un
+emisario de la Ley.
+—Únicamente deseo hacer notar que cuando un caballero exhibe una
+curiosidad tan peculiar –o, mejor diría, floreciente– en lo que respecta a las
+marcas identificativas como este nuestro amigo…
+—Señor Pritchard —intervine—, yo respondo por el señor Hooper.
+—Y tú pedirás disculpas a todos —dijo Pyecroft—. Eres un hombrecillo grosero,
+Pritch.
+—Pero cómo iba yo… —empezó a decir, titubeando.
+—Ni lo sé ni me importa. ¡Discúlpate!
+El gigante miró alrededor desconcertado y fundió nuestras pequeñas manos
+en un enorme apretón, una a una.
+—Estaba equivocado —dijo con la mansedumbre
+de una oveja—. Mis sospechas eran infundadas. señor Hooper, le ruego acepte mis
+disculpas.
+—Hizo bien en procurarse un buen final —dijo Hooper—. Yo habría hecho lo
+mismo con un desconocido. Si no le importa, me gustaría oír un poco más de su
+señor Vickery. Le puedo asegurar que lo que diga estará a salvo conmigo.
+—¿Por qué desertó Vickery? —comencé, pero la sonrisa de Pyecroft me
+condujo a reformular la pregunta—: ¿quién era ella?.
+—Ella tenía un pequeño hotel en Hauraki, cerca de Aukland —dijo Pyecroft.
+—¡Dios mío! —rugió Pritchard al tiempo que se daba una manotada en la
+pierna—. ¡No me digas que era la señora Bathurst!.
+Pyecroft asintió lentamente y el Sargento hubo de convocar a todos los
+poderes de la oscuridad para que atestiguasen su desconcierto.
+—Hasta donde alcanzo a saber, la señora B. era la dama en cuestión.
+—Pero Click estaba casado —aulló Pritchard.
+—Y tenía una hija de quince años. Incluso llegó a enseñarme su fotografía.
+Aparte de eso, ¿te han importado alguna vez estos pequeños detalles? Porque a
+mí no.
+—¡Dios santo, vivo y observante!… La señora Bathurst… —Y con otro rugido—:
+puedes decir lo que te plazca, Pye, pero no conseguirás convencerme de que ella
+tuvo la culpa de todo. ¡Ella no es así!.
+—Si dijese lo que realmente me place, empezaría por llamarte estúpido y
+después prepararía tranquilamente el terreno para las altas presiones. Lo único
+que pretendo hacer es contar lo que sucedió. Además, por una vez estás en lo
+cierto. No fue ella la culpable.
+—No me impedirías creerlo así si realmente lo hubiese sido —fue la respuesta.
+Tanta fe depositada en un Sargento de Marines me interesó sobremanera.
+—No tiene importancia —bramé—. Dime qué aspecto tenía.
+—Era viuda —dijo Peycroft—. Enviudó muy joven y no volvió a conocérsele
+pareja. Tenía un hotelito cerca de Auckland para oficiales y suboficiales y siempre
+vestía de seda negra, y su cuello…
+—Usted preguntó por su aspecto —interrumpió Pritchard—. Déjeme darle un
+ejemplo. Yo estuve en Auckland por primera vez en el ‘97, al término de la misión
+del Marroquin, y como había sido ascendido me uní a los demás. Ella
+acostumbraba cuidar de nosotros y nunca perdió un solo penique por hacerlo.
+“Puede usted pagarme ahora”, decía, “o más tarde si le viene mejor. Sé que no
+permitirá que yo sufra. También puede enviarme el dinero cuando llegue a casa, si
+así lo prefiere”. Escuchen, caballeros, les digo que yo he visto a esa mujer
+despojarse en el bar de su propio reloj de oro y ofrecérselo a un contramaestre
+que había llegado a tierra sin el suyo y tenía que coger el último barco. “No sé
+quién es usted”, le dijo ella, “pero cuando ya no necesite el reloj encontrará en el
+puerto a muchas personas que me conocen. Devuélvamelo a través de una de
+ellas”. Y tanto le daba que valiese treinta libras como media corona. Ese pequeño
+reloj dorado, Pye, con el monograma azul en la parte de atrás. Pero, como iba
+diciendo, en aquel tiempo ella tenía una cerveza que no me sentaba nada mal –
+Slits, se llamaba. Debo haberme bebido unas cuantas botellas de esa cerveza a
+destajo mientras estuve en la bahía –bajando a tierra casi todas las noches.
+Apurando el bar hasta el final, como quien dice, una vez que nos quedamos a
+solas me dirigí a ella: “Señora B., la próxima vez que haga escala aquí quiero que
+recuerde que esto es para mi deleite personal –igual que usted es para mi deleite
+personal”. (Ella es de las que te dejan llegar tan lejos). “Igual que usted es para mi
+deleite personal”, dije. “Oh, gracias, Sargento Pritchard”, dice ella acariciándose
+con la mano el rizo que se oculta tras su oreja. ¿Recuerdas esa forma que tenía
+de hacerlo, Pye?.
+—Creo que sí —responde el marinero.
+—Ya lo creo. “Gracias, sargento Pritchard”, dice ella. “Lo menos que puedo
+hacer es reservarla para usted aunque luego cambie de opinión. No hay una gran
+demanda de ella por parte de la Flota”, dice, “pero para asegurarnos la pondré en
+la parte de atrás de la repisa”, y cortó un trozo de su cinta de pelo con aquel viejo
+cortapuros que tenía forma de delfín –¿lo recuerdas, Pye?– e hizo un nudo
+alrededor de las que quedaban –exactamente cuatro botellas. Eso fue en el ’97 –
+no, en el ’96. En el ’98 estuve en el Resiliente, operando en servicio completo en la
+Estación China. En mil novecientos uno estuve en el Cartujo, de vuelta otra vez en
+la Bahía de Auckland. Ni que decir tiene que me acerqué con los demás al bar de
+la Señora B. para ver cómo iban las cosas. Iban igual que siempre. (¿Recuerdas ese
+árbol grande que había en la acera junto al bar, Pye?). No dije nada en especial
+(había muchos de nosotros hablando con ella), y sin embargo me vio de
+inmediato.
+—No era difícil —me aventuré.
+—Pero espere, que la cosa no acaba ahí. Estaba aproximándome a la barra
+cuando escucho cómo ella le dice a su sobrina: “Ada, tráeme lo del Sargento
+Pritchard”. Y les aseguro, caballeros, que antes de que pudiese estrecharle la
+mano estaban esas cuatro botellas de Slits, anudadas por el cuello con la cinta de
+su pelo, puestas ya delante mía, y mientras extraía los tapones me miraba por
+debajo de las cejas con esa forma que ella tenía de mirar sin ver, y me dice:
+“Sargento Pritchard, espero que no haya cambiado de opinión en lo que respecta a
+sus deleites personales”. Ella era de esa clase de mujeres –¡incluso cinco años
+después!
+—Por alguna razón no soy capaz de imaginármela aún —dijo Hooper en tono
+simpático.
+—Ella... ella nunca vacilaba cuando se trataba de alimentar una utopía o de
+pisotear un escorpión en cualquier momento de su vida —añadió Pritchard con
+valentía.
+—Eso tampoco me ayuda. Mi madre es así, por ejemplo.
+El gigante se estremeció dentro del uniforme y elevó la mirada al techo.
+Pyecroft irrumpió de repente:
+—¿Con cuántas mujeres de todo el mundo has intimado, Pritch?.
+A Pritchard se le pusieron del color de la ciruela hasta los más insignificantes
+pelos de los que poblaban las diecisiete pulgadas de su cuello.
+—Con cientos —continuó Pyecroft—. Yo también. ¿Y a cuántas de ellas
+conservas en la memoria, dejando de lado a la primera y quizás a la última, e
+incluso puede que a una más?
+—A pocas, a unas maravillosas pocas por las que ahora pago tributo —dijo el
+Sargento Pritchard con alivio.
+—¿Y cuántas veces puedes haber estado en Aukland?
+—Una o dos —comenzó—. Qué sé yo, no más de tres veces en diez años. Pero
+puedo recordar cada una de las veces que vi a la Señora B.
+—También yo –y solo he estado en Aukland dos veces– recuerdo cómo se
+incorporaba y las palabras que pronunciaba y qué aspecto lucía. Ese es el secreto.
+No se trata necesariamente de belleza, digámoslo así, ni de buena conversación.
+Es exactamente Eso. Hay mujeres que permanecen en la memoria de un hombre
+con solo habérselas cruzado una vez por la calle, a pesar de que con la mayoría
+de ellas pudieras vivir un mes entero y en el siguiente servicio cuestionarte si
+hablaban o no en sueños, por explicarlo de alguna manera.
+—Así es —dijo Hooper—. Yo he conocido solamente a dos mujeres de tal
+naturaleza.
+—¿Y no fue culpa de ellas? —preguntó Pritchard.
+—En absoluto. Se lo aseguro.
+—¿Y qué sucede si un hombre es alcanzado por esa clase de mujeres, señor Hooper? —continuó Pritchard.
+—Que o bien se vuelve loco o sencillamente se redime —respondió pausado.
+—Ha dado en el clavo —dijo el Sargento—. Se nota que ha visto y aprendido
+muchas cosas a lo largo de su vida, señor Hooper. ¡Estoy hablando de usted!
+Pritchard dejó su botella.
+—¿Con qué frecuencia la veía Vickery? —pregunté.
+—Ese es el oscuro y maldito misterio —respondió Pyecroft—. Nunca me había
+topado con él hasta que coincidimos recientemente a bordo del Hierofante, ni
+había nadie en el barco que supiese mucho acerca de su vida. Él era lo que se
+dice un hombre superior. Me habló un par de veces sobre Auckland y la Señora B. a
+lo largo del viaje de ida. Más adelante se lo recordé. Si queréis saber mi opinión,
+creo que debe haber habido mucho entre ellos. Ahora bien, esto es solamente mi
+versión de lo acontecido, pues todo lo que sé es de segunda mano o incluso de
+más remota procedencia.
+—¿Cómo es eso? —dijo Hooper en tono categórico—. Debió usted haberlo visto
+u oído.
+—Sí —dijo Pyecroft—. Yo solía pensar que la vista y el oído son los únicos
+mecanismos reglamentarios para certificar la veracidad de los hechos, pero
+conforme nos vamos haciendo mayores nos volvemos cada vez más
+acomodadizos. Los cilindros se ralentizan, supongo… ¿Estuvo usted en Ciudad
+del Cabo en diciembre, cuando vino el Circo Phyllis?
+—No, estaba en el interior —respondió Hooper, algo molesto con el cambio de
+escenario.
+—Se lo pregunto porque traían un nuevo número de naturaleza científica
+llamado “Hogar y Amistad por Tres Peniques”.
+—Oh, se refiere al cinematógrafo –esas imágenes de combates de boxeo y
+barcos de vapor. Las he visto en el interior.
+—En efecto, el biógrafo o cinematógrafo es el invento al que me refiero. El
+puente de Londres con los ómnibus, un buque que transporta a las tropas a la
+guerra, infantes de marina desfilando en Portsmouth y el Plymouth Express
+haciendo su entrada en Paddington.
+—Las he visto todas. Las he visto todas —repitió Hooper impacientemente.
+—Los del Hierofante llegamos justo antes de la semana de Navidad y
+conseguir un permiso fue algo sencillo.
+—Yo creo que un hombre se cansa de Ciudad del Cabo más rápidamente que
+de cualquier otro lugar en la estación. Vamos, si incluso Durban imita mejor a la
+Naturaleza. Estuvimos allí en Navidad —comentó Pritchard.
+—Como dijo nuestro Doctor al Sobrecargo, no puedo afirmar con exactitud no
+ser un devoto de los peris hindúes. La verdad es que el Circo Phyllis no era una
+mala alternativa después de las prácticas de tiro con mosquete en Mozambique.
+No pude dormir las dos o tres primeras noches a causa de lo que podríamos
+llamar un embrollo con nuestro Teniente de Torpedos en el compartimento
+sumergido, donde un ímpetu de arrogancia del Oeste había dado al traste con un
+giróscopo; pero recuerdo que Vickery tomó tierra con nuestro Carpintero Rigdon –
+el viejo Farero, lo llamábamos. Por regla general el Farero nunca abandonaba el
+barco a menos que lo bajasen con un torno, pero cuando se iba solía regresar
+cabeceando como un lirio cubierto de rocío. Aquella noche lo contuvimos allá
+abajo. Aun así, las cosas que llegó a decir sobre Vickery como digno compañero
+para un Oficial de su capacidad cúbica, antes de que consiguiésemos serenarlo,
+fueron lo que yo llamo corrosivas.
+—Yo he estado con el Farero en el Temible —dijo el Sargento—. Es un
+personaje donde los haya.
+—La noche siguiente entré en Ciudad del Cabo con Dawson y Pratt, pero justo
+en la puerta del Circo me topé con Vickery. “¡Oh!”, dice, “eres el hombre que ando
+buscando. Ven y siéntate a mi lado. Es por aquí el acceso a las localidades de un
+chelín”. De inmediato me di la vuelta, en protesta porque los asientos de tres
+peniques se adaptaban mejor a lo que podrían llamarse mis finanzas. “Vamos”,
+insiste Vickery, “que pago yo”. Naturalmente abandoné a Pratt y a Dawson en
+previsión de los tragos que intuía emparejados con los asientos. “No”, me dice él
+cuando se lo insinúo, “ahora no. Ahora no. Después tantos como desees, pero
+ahora te quiero sobrio para la ocasión”. Coincidió justo entonces que su cabeza
+quedase atrapada bajo el haz de luz de una farola, y la percepción que de ella tuve
+contribuyó a mitigar mi sed en buen grado. No me malinterpretéis. No me
+asustaba. Tan solo me inquietaba. No puedo explicar a qué se parecía, pero ese
+era el efecto que ejercía sobre mí. Si queréis saber más, me recordaba a esas
+cosas embotelladas que venden en las herboristerías de Plymouth, conservadas
+en vino. Esas cosas blancas y arrugadas –anteriores a la vida, podría decirse.
+—Tienes una mente animal, Pye —comentó el Sargento mientras volvía a
+encender su pipa.
+—Quizá tengas razón. Estábamos en primera fila y “Hogar y Amistad” no tardó
+en dar comienzo. Vickery me tocó en la rodilla cuando arrancó la función. `“Si ves
+algo que llame tu atención”, dice, “házmelo saber”; luego continuó chasqueando la
+dentadura. Vimos el puente de Londres y todas esas cosas, y resultó ser de lo
+más interesante. Nunca antes había visto nada igual. Podía oírse el zumbido de
+una pequeña dinamo, pero las imágenes eran reales –vivas y en movimiento.
+—Las he visto —dijo Hooper—. Ni que decir tiene que proceden del propio objeto
+en sí.
+—Después vimos cómo el Correo del Oeste entraba en Paddington sobre la
+gran cortina de la linterna mágica. Al principio el andén estaba vacío y los mozos
+de maleta esperando. Luego llegó la locomotora, de frente, y las mujeres sentadas
+en primera fila dieron un respingo al ver cómo se dirigía directamente hacia ellas.
+Entonces se abrieron las puertas y los pasajeros bajaron y los mozos se ocuparon
+del equipaje –como la vida misma. Solamente cuando alguien se aproximaba
+demasiado a los espectadores acababa saliéndose del cuadro, por así decir. Yo
+estaba cada vez más interesado. Todos nosotros lo estábamos. Vi a un anciano
+con peluquín recogiendo un libro que había dejado caer cuando, muy lentamente,
+desde la retaguardia de un par de mozos de maleta –portando un pequeño retículo
+y mirando alternativamente a uno y otro lado– emergió la figura de la Sra.
+Bathurst. Reconocería su andar entre el de cien mil mujeres. Ella no dejaba de
+avanzar y nos miraba fijamente con esa mirada cegajosa a la que Pritch se refería
+antes. Caminó y caminó hasta que desapareció del cuadro, igual que danza una
+sombra sobre una vela, y entonces oí a Dawson vocear desde los asientos de
+atrás: “¡Jesucristo! ¡Si es la Señora Bathurst!”.
+Hooper tragó saliva y se inclinó hacia adelante con determinación.
+—Vickery volvió a tocarme en la rodilla. Estaba chasqueando sus cuatro
+dientes postizos con la mandíbula descolgada, como si se tratase de un
+moribundo al final de su agonía. “¿Estás seguro?” me dice. “Seguro”, le contesto,
+“¿no escuchaste a Dawson decirlo? Vamos, que es ella en persona”. “Yo ya estaba
+convencido de ello”, dice, “pero te traje para asegurarme. ¿Me acompañarás otra
+vez mañana?”.
+»“De buena gana”, digo. “Será como un reencuentro con viejos amigos”.
+“Sí”, dice abriendo su reloj, “algo parecido. Me faltan veinticuatro horas
+menos cuatro minutos para volver a verla. Vayamos a echar un trago”, dice. “Te
+vas a reír, pero eso ya no me hace efecto”. Salió meneando la cabeza y
+tropezando con los pies de la gente como si estuviese ya borracho. Yo esperaba
+tomar algo rápido y regresar sin demora para no perderme el número de los
+elefantes amaestrados. En su lugar, Vickery dispuso navegar por la ciudad a todo
+trapo visitando un bar cada tres minutos, aproximadamente, según el horario de
+Greenwich. Yo no soy un bebedor, aunque aquí los presentes –en este punto me
+hizo un guiño inolvidable– puedan haberme sorprendido en alguna ocasión más o
+menos imbuido de fragancias alcohólicas. No obstante, cuando bebo me gusta
+hacerlo con el ancla echada y no a máxima velocidad. Esa especie de depósito
+que hay detrás del gran hotel de la colina –¿cómo lo llaman?»
+—El Reservorio Molteno —sugerí, y Hooper asintió con la cabeza.
+—Eso fue lo más lejos que él llegó. Caminamos hasta allí y bajamos después
+atravesando los Jardines –soplaba viento del sudeste– para terminar junto a los
+muelles. Luego tomamos la carretera de Salt River y en cada bar que nos salía al
+paso Vickery entraba sudoroso. No se fijaba en lo que bebía ni comprobaba
+siquiera el cambio. Únicamente caminaba y bebía y sudaba a mares. Entendí
+entonces por qué el viejo Farero había regresado en las condiciones en que lo
+hizo, pues a Vickery y a mí nos había llevado dos horas y media completar esa
+maniobra errática y cuando estuvimos de vuelta en la estación no quedaba en mí
+un solo átomo seco.
+—¿Te dijo algo? —preguntó Pritchard.
+—La suma total de su conversación entre las 7.45 p.m. y las 11.15 p.m. se
+redujo a: “Tomémonos otra”. Y fue la mañana y la tarde un día, como dicen las
+Escrituras… Por abreviar la narración, me limitaré a apuntar que estuve yendo a
+Ciudad del Cabo durante cinco noches seguidas con Master Vickery. En aquella
+época debo haber cubierto unas cincuenta millas alrededor de la zona y haberme
+bebido dos galones de cada uno de los peores licores con que se comercia al sur
+del Ecuador. El proceso era siempre el mismo. Asientos de un chelín para ambos,
+cinco minutos de proyección y puede que cuarenta y cinco segundos de la Señora B.
+caminando hacia nosotros con esa mirada cegajosa en sus ojos y el retículo en la
+mano. Después nos íbamos y bebíamos hasta que llegaba la hora de tomar el
+tren.
+—¿Qué pensó usted? —inquirió Hooper mientras sus dedos palpaban el
+bolsillo de su chaleco.
+—Varias cosas —dijo Pyecroft—. En realidad aún no he dejado de pensar en
+ello. ¿Loco? El hombre era un maldito lunático –debe haberlo sido durante meses,
+quizás años–. Yo algo sé sobre maníacos, como cualquiera en el Servicio. He sido
+compañero de tripulación de un patrón loco y de un Teniente Primero lunático –
+aunque no a la misma vez, gracias al Cielo–. Podría darle ahora mismo los
+nombres de tres capitanes que debieran estar encerrados en un manicomio, pero
+no tengo intención de entrometerme con los trastornados a menos que empiecen a
+repartir golpes a diestro y siniestro con baquetas y manivelas de cabrestante. Una
+sola vez me la jugué con Master Vickery. “Me pregunto qué estará haciendo ella en
+Inglaterra”, me dice. “¿No te da la sensación de que pudiese estar buscando a
+alguien?”. Esto fue nuevamente en los Jardines, con el viento soplando del
+sudeste mientras hacíamos nuestra desesperada ronda. “Me busca a mí”, dice
+parándose en seco bajo una farola y tableteando los dientes. Cuando no estaba
+bebiendo, en cuyo caso todos sus dientes chasqueaban sobre el vidrio, las cuatro
+piezas postizas castañeteaban igual que el telégrafo de Marconi. “Sí, ella me está
+esperando”, dijo reanudando la marcha muy sosegada y afectuosamente, como
+quien dice. “En adelante, señor Pyecroft –continuó–, le agradecería que restringiese
+sus comentarios a los tragos que compartimos. De lo contrario”, dice, “por más que
+me doliese al tratarse de usted, podrían declararme culpable de asesinato. ¿Lo
+comprende?”, dice. “Perfectamente”, digo, “incluso quizá te tranquilice saber que,
+en tal caso, las posibilidades de que te maten son exactamente las mismas de que
+yo sea descubierto”. “Claro que no”, dice, “lo que temo es que puedas caer en la
+tentación”.
+»Nos encontrábamos bajo la farola que hay junto al arco, al final de los
+Jardines, por donde pasan los tranvías. Entonces le dije: “Suponiendo que el
+asesinato hubiera sido consumado –o incluso cometido en grado de tentativa–,
+creo que estarías aún tan terriblemente afectado que tu captura por parte de la
+policía –a la que, por cierto, tendrías que dar las oportunas explicaciones– sería en
+gran medida inevitable”. “Mejor”, dice pasándose las manos por la frente. “Mucho
+mejor”, dice, “porque tal como estoy ahora, Pye, no es tan seguro que pudiese
+explicar casi nada”. Aquellas fueron las únicas palabras que recuerdo haberme
+cruzado con él durante nuestros paseos.
+—¡Vaya paseos! —dijo Hooper—. ¡Oh, Dios mío, vaya paseos!.
+—Eran continuos —apuntó Pyecroft en tono serio—, pero no vi acechar el peligro
+hasta que el Circo hubo partido. Fue entonces cuando empecé a temer que, al
+haber sido despojado de su estimulante, él pudiese reaccionar contra mí con –
+pongamos por caso– la ayuda de un hacha. Es por ello que, luego de la última
+función y del húmedo paseo que la continuó, intenté mantenerme todo lo apartado
+que pude de mi oficial superior a bordo en el ejercicio de su cargo. No es así de
+extrañar que me mostrase tan interesado cuando el centinela me informó, mientras
+yo atendía mis obligaciones, de que Click había pedido ver al capitán. Por regla
+general los suboficiales no suelen abusar del tiempo del capitán, pero Click
+permaneció más de una hora detrás de aquella puerta. Lo sé porque durante el
+desempeño de mis tareas no perdí contacto visual con ella en ningún momento.
+Vickery salió el primero, saludándome con la cabeza y sonriendo. Esto me
+sorprendió sobremanera dado que, después de haber visto su cara durante cinco
+noches consecutivas, no esperaba ya más cambio en ella que en un condensador
+en el infierno, como quien dice. El capitán apareció más tarde. Como ningún signo
+podía leerse en su rostro hube de recurrir a su timonel, que llevaba ocho años con
+él y lo conocía mejor que a las señales navales. Lamson, que así se llamaba el
+timonel, viró un par de veces en la dirección del viento a poca velocidad y se
+inclinó hacia mí visiblemente preocupado. “Parece triste”, dice Lamson. “Alguien
+acabará en la horca. Solamente una vez antes he visto esa expresión en su cara,
+cuando las mirillas fueron arrojadas por la borda del Fantástico”. Lanzar las mirillas
+por la borda, señor Hooper, equivale a un motín en estos días de degeneración. Lo
+hace generalmente un fogonero para atraer la atención de las autoridades y del
+Western Morning News. Naturalmente, la noticia circuló por la cubierta inferior y
+nos vimos obligados a dar un repaso en privado a nuestras estrechas conciencias.
+No obstante, salvo una camisa de uno de los marineros que, según un fogonero
+de segunda clase, había caído por sí sola en su petate, nada decisivo salió a la
+luz. El capitán iba por ahí ondeando la señal de “asistencia a ejecución pública”,
+por así decir, pero no había cadáver alguno en el penol. Almorzó en la playa y
+regresó con la cara reglamentaria de siempre alrededor de las 3 p.m. Así fue como
+Lansom perdió toda credibilidad por haber suscitado una falsa alarma. La única
+persona que podía haber atado cabos correctamente era un tal Pyecroft, cuando
+supo que el Sr. Vickery iría esa misma tarde a ocuparse de cierta munición naval
+que había sido abandonada en el Fuerte Bloemfontein después de la guerra.
+Ningún destacamento recibió órdenes de acompañar a Master Vickery. Él mismo
+se había autodesignado para la misión.
+El marinero emitió un silbido penetrante.
+—Eso pensé yo —dijo Pyecroft—. Nos hicimos a tierra en el cúter y me pidió que
+nos dirigiésemos a la estación. Podía oírse perfectamente cómo castañeteaban
+sus dientes, pero por lo demás parecía más bien feliz. “Puede que te guste saber”,
+dice, deteniéndose frente a la entrada delantera del Almirantazgo, “que el Circo
+Phyllis dará una función en Worcester mañana por la noche, lo que significa que
+aún podré verla una vez más. Has tenido mucha paciencia conmigo”, me dice.
+»—Mira, Vickery —le repliqué—, esto ya se ha vuelto insoportable para mí.
+Guárdate tus secretos. Por lo que a mí respecta, no quiero saber más.
+“¡Oye!”, dijo, “¿de qué puedes quejarte? Lo único que has tenido que hacer
+es observar. Que se trate de mí”, dice, “no tiene nada que ver. Tengo una última
+cosa que añadir antes de que nos estrechemos la mano. Recuerda”, dice –
+estábamos entonces junto a la puerta del Almirante que daba al jardín–, “recuerda
+que no soy un asesino, pues mi legítima mujer murió durante el puerperio seis
+semanas después de que yo partiese. Al menos de ese cargo debo quedar libre”,
+dice.
+»—¿Qué es entonces lo que has hecho? —pregunté—. ¿Qué hay del resto?
+“El resto”, dice, “es silencio”, y me estrechó la mano y entró tableteando los
+dientes en la estación de Ciudad de Simon.»
+—¿Llegó a detenerse en Worcester para ver a la Señora Bathurst? —pregunté.
+—Nadie lo sabe. Se presentó en Bloemfontein, vio la munición en los vagones
+y luego desapareció. Se largó –o desertó, si prefieres decirlo así– a dieciocho
+meses de licenciarse y, si no me mintió acerca de su esposa, era un auténtico
+hombre libre. ¿Qué te parece?
+—¡Pobre diablo! —dijo Hooper—. ¡Verla de ese modo cada noche! Me pregunto
+qué habrá sido de él.
+—Esa idea me ha torturado durante muchas e interminables noches.
+—Aun así, yo juraría que la Señora B. nada tuvo que ver con este asunto —dijo el
+Sargento, impasible.
+—No. Cualquiera que fuese el error o el engaño, él fue el responsable, de eso
+estoy seguro. Estuve mirándolo a los ojos durante cinco noches seguidas. La
+verdad es que no me entusiasma navegar por Ciudad del Cabo con el viento del
+sudeste que sopla estos días. Aún puedo oír el chasquido de aquellos dientes.
+—Ah, aquellos dientes —dijo Hooper, y su mano se hundió en el bolsillo del
+chaleco una vez más—. Los dientes postizos duran toda la vida. Puede uno
+informarse de ello en cualquier juicio por asesinato.
+—¿Qué crees que sabía o que hizo el capitán? —pregunté.
+—Nunca apunté en esa dirección —respondió Pyecroft desvergonzadamente.
+Todos nos paramos a reflexionar y tamborileamos los dedos sobre las
+botellas vacías de cerveza mientras los excursionistas, quemados por el sol,
+mojados y cubiertos de arena, pasaron por delante de la puerta cantando “La
+madreselva y la abeja”.
+—Es guapa la chica de la capellina —dijo Pyecroft.
+—¿Nunca circuló su descripción? —intervino Pritchard.
+—Te preguntaba antes de que llegasen estos caballeros —me dijo Hooper—, si
+conocías Wankies, de camino al Zambesi, al norte de Buluwayo.
+—¿Pasaría él por allí, intentando alcanzar ese lago —cómo se llama? —dijo
+Pritchard.
+Hooper sacudió la cabeza y continuó:
+—Hay un tramo peculiar de línea en esa
+zona. Transcurre a través de un espeso bosque de teca —una variedad de caoba,
+realmente— a lo largo de setenta y dos millas en las que no hay una sola curva. He
+tenido un tren descarrilado allí veintitrés veces en cuarenta millas. Estuve hace un
+mes relevando a un inspector enfermo. Me dijo que vigilase a una pareja de
+vagabundos en el bosque.
+—¿Dos? —dijo Pyecroft—. No envidio entonces a ese otro hombre si…
+—Tenemos montones de vagabundos allí desde la guerra. El inspector me dijo
+que los encontraría en el apartadero de M’Bindwe esperando para ir al norte. Él les
+había dado algo de comida y quinina. Yo subí a un tren de reparación. Estuve
+pendiente de ellos. Los vi varias millas adelante, esperando en el bosque. Uno de
+ellos estaba de pie junto a la vía muerta y el otro lo observaba acuclillado.
+—¿Qué hizo con ellos? —dijo Pritchard.
+—No había mucho que pudiese hacer salvo enterrarlos. Se había
+desencadenado una tormenta en la teca y ambos estaban tiesos y más negros
+que el carbón. Como lo está oyendo: puro carbón. Se desintegraron cuando
+intentamos moverlos. El hombre que permanecía de pie tenía la dentadura
+postiza. La vi refulgir entre la negrura. También él se desmoronó, igual que el
+amigo que lo observaba en cuclillas, ambos empapándose bajo la lluvia. Ambos
+carbonizados. Y –de ahí que pregunte por las marcas justo ahora– el de la
+dentadura postiza tenía tatuados en los brazos y en el pecho una corona y el ancla
+de la Marina Real con las letras M. V. encima.
+—Yo lo he visto —replicó Pyecroft velozmente—. Es como él dice.
+—Pero, ¿no estaba carbonizado? —dijo Pritchard estremeciéndose.
+—¿Han visto alguna vez cómo aflora, blanca, la escritura en una carta
+quemada? Bien, pues así fue. Los enterramos en la teca y yo me quedé con…
+Pero él era amigo de ustedes dos, caballeros.
+El señor Hooper sacó la mano del bolsillo del chaleco. Estaba vacía.
+Pritchard se cubrió la cara con las manos durante un momento, como un niño
+que quisiera protegerse de la amenaza de lo desagradable.
+—¡Y pensar en ella en Hauraki! —murmuró— con su cinta del pelo sujetando
+mis cervezas. “Ada”, le decía a su sobrina… ¡Oh, Dios mío!
+“En una tarde veraniega, cuando florece la madreselva
+y la Naturaleza entera parece en reposo,
+bajo el celador, al dulce aroma de la flor,
+se sentó una señorita a la vera de su esposo—
+cantaban los excursionistas mientras esperaban en Glengariff a que llegase su
+tren.
+—Bueno, no sé qué opináis vosotros —dijo Pyecroft—, pero después de haber
+visto su cara durante cinco noches consecutivas, yo me inclino a terminar lo que
+nos queda de cerveza y agradecer a Dios que esté muerto.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

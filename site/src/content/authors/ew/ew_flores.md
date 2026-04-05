@@ -1,0 +1,135 @@
+---
+layout: story
+title: Flores para Marjorie
+slug: ew_flores
+source: https://www.literatura.us/idiomas/ew_flores.html
+tags:
+  - ew_flores
+  - ew
+---
+Eudora Welty
+(Jackson, Mississippi, 1909-2001)
+Flores para Marjorie
+(“Flowers for Marjorie”)
+A Curtain of Green and Other Stories, 1941
+Era de los modestos, los tímidos, los de cabello pajizo; uno de esos que preferían siempre esperar a un lado. Con la cabeza baja, veía la hilera de pies que descansaban junto a los E suyos. Más allá estaba la base llena de inscripciones del surtidor que se alzaba con un rumor atribulado hacia la claridad del día. Los pies formaban una uve, inmóviles todos. Luego, al final del banco, uno de ellos empezó a golpear en el suelo, despacio. Hizo una insinuación a un envoltorio de chicle de un rosa delicado que pasó volando.
+Él no levantó los ojos. Cuando el papel se acercó y arremetió contra su pie, escupió porque tuvo cierta sensación de que le invitaba a hacerlo y lo apartó de un puntapié. Llevaba un palillo en la boca.
+Alguien habló.
+—¿Irás a la manifestación de las dos?
+Howard no miró más arriba de las arrugadas rodilleras de pana que estaban frente a las suyas.
+—¿Manifestación…?
+El insípido palillo se le pegaba a los labios; lo que dijo fue confuso.
+Pero rompió al fin el palillo con los dientes y lo escupió. Aterrizó en la hierba como una tiendecita de campaña. Le sorprendió el hecho, y su limpieza y destreza escupiendo. Y aquella cosita espantó a todas las palomas. Le dolieron los ojos cuando de repente alzaron el vuelo arremolinándose, como si una gran cuchara las revolviera en la claridad del sol. Los cerró sobre sus batientes alas de cambiante ópalo.
+Y luego, con los ojos cerrados, tuvo que pensar en Marjorie. Ahora, como algo que hubiera desechado, pensar en ella era siempre como una ola que le golpeaba cuando estaba cansado, una ola que increíblemente surgía del estancamiento y la depresión cuando él se sentaba en el parque, cerniéndose sobre su cabeza, palpitando, cayendo y volviendo sin dejar nada tras de sí.
+Se levantó, miró la posición del sol y, lentamente, inició el regreso hacia ella.
+Jadeaba por la subida de los cuatro tramos de escaleras, y su mano asió el picaporte en la penumbra del pasillo. En cuanto abrió la puerta se encogió de hombros y tiró el sombrero sobre la cama; así Marjorie no le preguntaría cómo le había ido cuando fue a buscar trabajo a Columbus Circle; aquel día no había vuelto para informarse.
+Nada se dijeron, y él se sentó en el sofá con las manos sobre las rodillas. Luego, antes de mirarla a los ojos, se fijó en la silla de la habitación que nadie usaba; allí estaba el abrigo de Marjorie con una flor en la solapa. Soltó una silenciosa carcajada desesperada que se convirtió en tos.
+—He dado una vuelta a la manzana —dijo Marjorie— y mira lo que he encontrado.
+También ella miraba solo el pensamiento, llena de orgullo. Era amarillo claro. Lo ha encontrado y ya está, pensó Howard, pero se sobresaltó interiormente, como si ella hubiera desplegado algún poder del espíritu. Él tenía que limitarse a sentarse y mirarla fijamente, las manos en los bolsillos, buscando una cerilla.
+Marjorie se sentó en el pequeño baúl que había junto a la ventana, el brazo rollizo apoyado en el alféizar; el cabello, suave y corto, se hinchaba y agitaba de vez en cuando como puntas de cintas sobre la mano torcida donde descansaba la cabeza. Resultaba difícil recordar, en aquella ciudad de mujeres oscuras, nerviosas, chillonas, que en Victory, Mississippi, todas las chicas eran como Marjorie, y que Marjorie era, a su vez, como la casa de él… ¿O la de ella? Algunas veces, Howard se sentía perdido en aquella pequeña habitación. Ahora Marjorie le parecía a menudo remota; tal vez fuera el exceso de vida de su cuerpo redondeado, que le impedía advertir ya la vida aislada y solitaria que la rodeaba, la agobiante vida que la rodeaba. Él solo podía mirarla… Su aliento silbó un poco entre los labios entreabiertos, al agitarse en un desasosiego momentáneo.
+Howard bajó los ojos y una vez más vio el pensamiento. Brillaba, una flor amarilla abierta con vetas y bordes rojo oscuro. Sobre el azul celeste del viejo abrigo de Marjorie, en la visión ansiosa de Howard empezó a perder su identidad del tamaño de una flor y a asumir las curvas graduales de una montaña en el horizonte de un desierto, convirtiéndose las venas en gargantas, los delicados bordes en los gigantescos labios gastados de un cráter dormido. Le dio un vuelco el corazón…
+Sacó el pensamiento del abrigo de Marjorie y arrancó los pétalos, los desparramó por el suelo y los pisoteó.
+Marjorie le miraba en silencio y, poco a poco, él comprendió que no había hecho nada, que solo había tenido una terrible visión. El pensamiento brillaba aún en el abrigo, al igual que las palomas volaban aún en el parque cuando él tenía hambre. Se retrepó en el sofá, temblando, con el deseo y la piedad que le habían abrumado, y dijo ásperamente:
+—¿Cuánto falta para que salgas de cuentas?
+—Oh, Howard.
+Oh, Howard… así era Marjorie. La suavidad, el reproche… ¿cómo podría parar aquello de una vez?
+—¿Qué has dicho? —le preguntó.
+—Oh, Howard, ¿es que no puedes hacer tú mismo las cuentas? No haces más que preguntarlo…
+—Tomó una bocanada de aire y dijo—: Será dentro de tres meses…, a finales de agosto.
+—Estamos en mayo —le dijo él. ¡Era casi una advertencia!—. Estamos en mayo.
+—Mayo, junio, julio, agosto —enumeró los meses.
+—¿Estás segura… ¿Estás segura de que será cuando dices? —La miró.
+—Pues claro, Howard, esas cosas pasan siempre cuando tienen que pasar. Nada me impedirá tener el niño, eso es seguro… —Las lágrimas afluyeron lentamente a sus ojos.
+—¡No llores, Marjorie! —gritó él—. ¡No llores, no llores!
+—Aunque tú no lo quieras —concluyó ella.
+Él dio un puñetazo en el viejo tapizado granate del sofá. Sentía que la emoción trepaba rápidamente por su cuerpo, con su perfecta y extraña agilidad. Impotente, cerró los ojos.
+—Espero que encuentres trabajo antes, Howard —dijo ella.
+Él se levantó, asombrado: que sea como ella dice. Miró la habitación de forma inquisitiva, agobiado por la ternura, y sacó con delicadeza el pensamiento del abrigo.
+Con él en la mano, se acercó a ella y se dejó caer sobriamente en el suelo, a su lado. Tenía los ojos muy abiertos. Le dio la flor.
+Ella murmuró:
+—Hace tanto que no estamos juntos.
+Y apoyó su mano tranquila y cálida en su cabeza, cubriendo la raya de su cabello, sujetándolo a su lado, mientras él aspiraba profundas bocanadas del olor a trébol de su piel tensa y sus muslos hinchados.
+¡No es posible!, pensaba él. El tictac del despertador barato sonaba cada vez más fuerte, mientras hundía la cara contra ella, sintiendo una desesperación nueva a cada momento en la suavidad marcada por el tiempo y el pulso de su cuerpo acogedor.
+Pero ella hablaba.
+—Si te dieran aunque solo fuera un trabajo de peón durante los tres meses, podríamos apartar algo de eso para pagar quizá una enfermera, durante un tiempo, cuando llegue el niño…
+Se incorporó de un salto, los músculos tan alterados por las palabras de Marjorie como si hubieran lanzado un pico contra el pavimento de Columbus Circle en aquel instante. Sus agudas palabras apagaron la voz susurrante de ella:
+—¿Trabajo? —dijo él con dureza, apartándose de ella, hablando en voz muy alta desde el centro de la habitación, casi como si copiase la pose y el tono de los agitadores del parque—. ¿Cuándo trabajé por última vez? Hace un año… seis meses… allá en Mississippi… ¡Se me ha olvidado! ¡No es tan fácil como crees tú contar el tiempo! No sabría qué hacer ahora si me dieran trabajo. ¡Se me ha olvidado! Ya todo es pasado… Ya he dejado de creer en ello…, ya no volverán a darme trabajo… nunca…
+Se detuvo y, por un instante, brilló en su cara una expresión como si viera un espejismo.
+Quizá imaginara ante sí una división regular y constante del día y la noche, con el desayuno apareciendo por la mañana. Luego, con una risa leve, retrocedió más aún, hasta dar con la pared, alejándose todo lo posible de Marjorie, como si ella fuese desleal, ajena, como si estuviera aliada con otras fuerzas.
+—Vamos, Howard, ya ni siquiera tienes la esperanza de encontrar trabajo —cuchicheó ella.
+—Que vayas a tener un niño, que eso sea algo que ha de suceder, que no puedas andar siempre por ahí con un niño dentro, y que el niño vaya a nacer de verdad… ¡Eso no significa que vaya a suceder algo más ni que las cosas vayan a cambiar!
+Gritó estas palabras desesperadamente, apoyado en la pared.
+—¡Eso no significa que yo vaya a encontrar trabajo! ¡No significa que no vayamos a morirnos de hambre!
+Con un gesto de angustia había sacado el monedero de cuero del bolsillo y lo balanceaba violentamente hacia delante y hacia atrás.
+—¡Quizá no lo sepas, pero tú eres lo único en el mundo que no se ha detenido!
+El monedero, como un pendulito, aminoró el balanceo en su mano. Howard la miró atentamente y luego su boca se paralizó, abierta, y él se quedó allí, sosteniendo el monedero en las palmas de las manos lo más quietas posible.
+Pero Marjorie seguía sentada, sin el menor desaliento, con la cabeza vuelta hacia un lado. Su plenitud parecía no haber tocado jamás el cuerpo de él. Howard, en su lejanía, apoyado en la pared, contemplaba el mundo de seguridad y fertilidad y comodidad de ella, diferenciada para siempre, segura y esperanzada con el embarazo, como si le pareciese extraño también que este mundo no debiese sufrir.
+—¿Has podido comer algo? —le preguntaba ella.
+Se quedó asombrado, y enseguida la odió. ¡Desde su seguridad, le preguntaba por el hambre y la debilidad! Arrojó con fuerza el monedero, que golpeó el suelo como el cuerpo de un pájaro herido.
+Estaba vacío.
+Howard caminó con paso inseguro por la habitación y se acercó a la cocina. Cogió una cazuela torcida, limpia y pequeña y volvió a dejarla. La habían llevado con ellos a todas partes, de cuarto en cuarto. Su mano recorrió los objetos de la repisa como si estuviese ciego. Agarró el cuchillo grande.
+Empuñándolo con suavidad, se volvió hacia Marjorie.
+—¿Qué vas a hacer, Howard? —murmuró ella, con voz paciente y cantarina, la misma voz de tantas otras veces.
+Estaban ya los dos muy lejos, muy separados, remotos. Como el chispazo de un relámpago, él asió con fuerza el cuchillo y se lo hundió en el pecho.
+La sangre chorreó por el mango y cayó en la mano abierta que ella tenía en el regazo. ¡Qué extraño!, pensó él, perplejo. Ella seguía apoyada en el otro brazo, pero debía de haberse apoyado con demasiada fuerza en él, pues, al poco, la cabeza se le dobló lentamente hasta tocar con la frente el alféizar de la ventana. El cabello fue cayéndole desde atrás y, en un instante, le caía todo hacia delante. El brazo que tenía apoyado en el antepecho de la ventana, en posición alzada, estaba exactamente igual que antes. Tenía los dedos relajados, como si acabara de dejar caer algo. En las uñas tenía unas marcas como nubecillas blancas. Un perfecto equilibrio, pensó Howard mirando el brazo de Marjorie. Cuando bajó al fin la vista, la sangre lo cubría todo, el regazo de Marjorie era como un cuenco.
+Sí, sí, claro, pensó; pues todo parecía imposible. Fue a lavarse las manos. El tictac del reloj le infundía pavor, así que lo tiró por la ventana. Al cabo de un largo momento lo oyó chocar contra el patio.
+Con la cabeza palpitante de súbito dolor, se agachó y recogió el monedero. Al salir, cerró la puerta con cuidado.
+Allí en la ciudad el sol iluminaba las calles con rayos oblicuos. Se asentaba sobre un delgado gato gris que oteaba frente a un poste de barbero; al pasar Howard, el gato se lamió escrupulosamente, observándole. Él se enderezó bien el sombrero y cruzó entre un grupo de niños que se agolpaban en torno a una comba, cantando y saltando alrededor de él, con labios colgantes. Cruzó una calle y un mensajero le golpeó con la rueda de su bici, pero no le hizo daño. Siguió caminando por la Sexta Avenida bajo la sombra de los raíles elevados de la L, recolocándose el sombrero. Las pequeñas ráfagas de viento intentaban arrebatárselo y llevárselo. ¡Qué lejos habría tenido que ir para cazarlo!
+… Llegó junto a un grupo de personas que contemplaban una máquina en un escaparate. Hacía buñuelos muy despacio. Se acercó a la siguiente puerta, donde había otro escaparate lleno de estampas en colores de la Virgen María y casi todas las clases de pájaros y animales, y, debajo de estas, una estantería llena de cajitas grises de cartón que contenían lavabos y orinales en miniatura, artículos para bromas, y en la caja del centro una bombilla conectada a un tubo largo, con un letrero a lápiz: «¡Palpitador, el corazón de imitación! Demuéstrele que la ama». Un organillero se quitó el sombrero e interpretó «Valencia».
+Siguió su camino y en un portal vio al subastador inclinarse con gesto sugerente y blandir un par de palmatorias doradas a unos hombres que lanzaban bocanadas de humo directamente hacia las alas de sus sombreros. Pasó por otro lugar, con las mismas estampas de la Virgen prendidas con alfileres al paramento de la puerta, por si no las hubieran visto la primera vez. En una mesa polvorienta, junto a su mano, vio un pisapapeles que era una bola de cristal. Estiró la mano con tímida alegría y lo acarició, era muy pequeño y redondo. Contenía una pequeña escena compuesta con trozos de material de colores, una tierra clara bajo el cristal; le habría gustado estar allí. Le hizo sonreír: todo parecía empequeñecido, iluminado, floreciendo, no demasiado grande. Dio la vuelta a la bola con una especie de instinto, y con conmovida sumisión y piedad vio el paisaje inundado de nieve. Quedó un instante fascinado, y luego, al advertir de repente el gran tamaño de su persona, dejó el pisapapeles en su sitio y se quedó temblando en la puerta. Un transeúnte le puso en la palma abierta una moneda de veinticinco centavos.
+De repente se encontró en el túnel de un metro. A lo largo de la pared de azulejos se leía «Dios me ve, Dios me ve, Dios me ve, Dios me ve»… cuatro veces por donde él pasó. Leyó los carteles,
+«Entrada» y «Solo salida»; alguien había escrito «¡Cojones!» bajo ambas palabras. Se contempló en el espejo de una máquina de chicles y se enderezó el sombrero antes de entrar en el vagón.
+Una vez dentro miró por encima de las cabezas de los pasajeros las imágenes de los anuncios y vio varias parejas abrazadas y sonriendo. Pasó un vagabundo con bastón y cantó «Let Me Call You Sweetheart» como un ciego; también a él le dieron una moneda de veinticinco centavos. Cuando bajó del metro un guardia le dijo que anduviera con cuidado. Se sujetó el sombrero, allá abajo también soplaba el viento, silbaba por las vías tras los trenes. Subió las escaleras entre dos viejas y cálidas mujeres judías.
+Arriba, entró en un bar y bebió un whisky y, aunque no podía pagarlo, le sobraban cinco centavos del viaje en metro. Oyó a su espalda el rumor de una máquina tragaperras. Se acercó y se quedó un rato entre dos tipos de aspecto amistoso, y luego metió la moneda de cinco centavos. Las muchas monedas que brotaron repiqueteando por el agujero le hicieron marearse. Le cayeron por encima de las piernas y retrocedió contra la polvorienta cortina roja. Se le cayó al suelo el sombrero. Todos se abalanzaban a cogerlo, y algunos le dieron puñados de monedas y le invitaron a beber. Uno de ellos dijo:
+—Amigo, no deberías desatar el infierno de este modo.
+Era un sureño. Howard aceptó que todos bebieran y que su fortuna les perteneciese a todos.
+Pero después de caminar por la calle un rato, aún no se le ocurría adónde ir. Decidió probar en la oficina de empleo, con la señorita Ferguson. La señorita Ferguson le conocía, tenía la vieja costumbre de subir hasta allí a verla.
+Entró en la oficina. Vio a la señorita Ferguson a través de la puerta, escribiendo a máquina, como siempre.
+—¡Eh, señorita Ferguson! —dijo suavemente, echándose hacia delante con toda confianza.
+Luego se incorporó, dispuesto a quitarse el sombrero, pero ella siguió escribiendo a máquina.
+—¡Eh, señorita Ferguson!
+Entró en el despacho una mujer que no le conocía de nada.
+—¿Recibió usted la tarjeta avisándole de que viniera? —le preguntó.
+—Señorita Ferguson —repitió él, atisbando por un lado del brazo rojo de la mujer, para no dejar de mirarla.
+—La señorita Ferguson está ocupada —dijo la mujer del brazo rojo. ¡Si al menos pudiera contarle a la señorita Ferguson todo, todo lo que le había pasado en la vida!, pensaba Howard.
+Entonces la cosa se aclararía y la señorita Ferguson escribiría una nota en una tarjetita, y se la daría, le diría exactamente adónde podía ir y lo que podía hacer.
+Cuando la mujer del brazo rojo salió de la oficina, Howard intentó ganarse a la señorita Ferguson. A veces era muy comprensiva.
+Alguien me dijo que usted sabía escribir muy bien a máquina! —dijo con voz dulce, en tono de felicitación.
+La señorita Ferguson alzó la vista.
+—Sí, así es. Sé escribir a máquina —corroboró, y siguió haciéndolo.
+—Tengo que contarle una cosa —dijo Howard. Y sonrió.
+—En otra ocasión —contestó la señorita Ferguson por encima del rumor de las teclas—. Ahora estoy ocupada. Será mejor que se vaya a casa y la duerma, ¿eh?
+Howard dejó caer el brazo. Esperó e intentó impacientemente dar con una respuesta. Miró el dispensador de agua, donde flotaban diminutas burbujas de aire, pero no se le ocurrió nada.
+Levantó el sombrero con una extraña gallardía, que podría haber parecido orgullo.
+Adiós, señorita Ferguson!
+Y volvió a la calle.
+Siguió avanzando, alejándose. Era tarde cuando entró en una gran galería, y mientras pasaba detrás de alguien por un molinete libre, una mujer se acercó a él y dijo:
+—Es usted la persona diez millones que entra en Radio City, y hablará usted por una cadena nacional roja y azul de la NBC esta tarde a las seis en punto, hora de la costa este. ¿Cómo se llama usted, cuál es su dirección y su número de teléfono? ¿Está usted casado? Acepte estas rosas y la llave de la ciudad.
+Le dio una llave voluminosa y pesada y un ramo de rosas rojas. Intentó devolvérselas, pero ella no esperó ni un segundo. Un corro de hombres de rostros aguileños le apuntaban con sus cámaras y todos le fotografiaron, entre luces de flashes.
+—¿En qué trabaja usted?
+—¿Está usted casado?
+Casi en su misma cara, una mujer enorme, con plumosas pieles y con un alambrito marrón en un diente, escuchaba, y otros esperaban detrás de ella.
+Él buscó una salida, y cuando no miraban consiguió zafarse y salir corriendo.
+Bajó corriendo por la Sexta Avenida lo más deprisa posible, aterrado, las rosas balanceándose como cabezas en su brazo, la llave sobresaliendo en el costado. Con la mano libre se sujetaba firmemente el sombrero. Portales y cruces se quedaban atrás como en un borrón. Advirtió que pasaba junto a un restaurante, todo iluminado, pero ya era demasiado tarde para tener hambre. Solo quería llegar a casa. Le costaba trabajo ver, pero el tráfico parecía detenerse suavemente cuando él pasaba corriendo como un rayo; los caballos se detenían bajo los raíles de la L, y los vehículos se contraían con amabilidad, formando una especie de fuelle, delante de él. La gente parecía desvanecerse a su paso. Pensó que quizá estuviera muerto y ahora, al final, todo y todos le temiesen.
+Cuando llegó a su calle estaba sin aliento. Había niños jugando. Le tenían miedo y le dejaron pasar. Entró en el patio corriendo y, una vez allí, se paró en seco.
+Vio el despertador.
+Estaba en el suelo, con la esfera hacia abajo, y esparcidos a su alrededor en todas direcciones había muelles, ruedecillas y trozos de cristal. Se agachó y contempló las piececitas.
+Por fin subió las escaleras. Al principio intentó abrir la puerta con la llave de la ciudad. Pero la puerta no estaba cerrada con llave. Entró y miró hacia la ventana, y allí seguía Marjorie, sobre el pequeño baúl. Le llegó entonces la intensa fragancia de las rosas. Golpeó sus suaves pétalos. El brazo de Marjorie se había caído. Se había roto el equilibrio perfecto y su mano colgaba por fuera de la ventana, como para atrapar el viento.
+Luego Howard advirtió que todo se había detenido. Era exactamente como él había temido, exactamente como había soñado. Había tenido un sueño que se había hecho realidad.
+Retrocedió despacio, salió del cuarto y bajó corriendo las escaleras.
+La primera persona que vio en la esquina de la calle era un policía que miraba volar las palomas.
+Se acercó a él y se quedó a su lado.
+—¿Sabe usted lo que hay allí arriba, en aquella habitación? —preguntó al fin.
+Le turbaba preguntarle algo a un policía con aquellas flores tan hermosas en la mano.
+—¿Qué hay? —preguntó a su vez el policía.
+Howard inclinó la cabeza y hundió la cara en las rosas. —Una mujer muerta. Marjorie está muerta.
+Aunque la señal del cruce de calles estaba justo sobre sus cabezas, y en el aire donde las palomas volaban las campanadas de un reloj daban las seis, por un instante ni siquiera el policía pareció estar seguro de la hora y el lugar en que estaban, pues tuvo que mirar su reloj y las cosas que llevaba en el bolsillo.
+—¡Oh! ¡Caramba! —decía el policía mientras Howard, perplejo, miraba a un lado y a otro.
+Le observaba con firmeza, memorizando para siempre la indescriptible y polvorienta figura de grandes ojos grises y cabello pajizo.
+—Y supongo que las gotas rojas de sus pantalones son pétalos de rosa, ¿verdad?
+Al fin asió al hombre de mirada fija por el brazo.
+—No tengas miedo, muchachote. Yo subiré contigo —dijo.
+Dieron la vuelta y se encaminaron hacia la casa, codo con codo. Cuando las rosas se desprendieron de los dedos de Howard y fueron cayendo de cabeza a lo largo de la acera, las niñas corrieron a cogerlas furtivamente y se las pusieron en el pelo.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

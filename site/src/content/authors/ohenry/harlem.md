@@ -1,0 +1,97 @@
+---
+layout: story
+title: Una tragedia en Harlem
+slug: harlem
+source: https://www.literatura.us/idiomas/ohenry/harlem.html
+tags:
+  - harlem
+  - ohenry
+---
+O.
+Henry
+(William Sydney Porter)
+(North Carolina, 1862 -
+New York, 1910)
+Una tragedia en Harlem (1904)
+[Otro título en español: “Tragedia en Harlem”]
+(“A Harlem Tragedy”)
+Originalmente publicado en The World,
+Vol. 44, Núm. 14309 (1 de mayo de 1904);
+The Trimmed Lamp
+(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+Harlem. La señora Fink había entrado un momento en casa de la señora Cassidy, que vivía en el piso debajo del suyo.
+—¿Verdad que esto es magnífico? -dijo la señora Cassidy.
+Volvió el rostro con orgullo para que su amiga la señora Fink pudiese verlo. Tenía uno de los ojos casi cerrado, rodeado por un enorme moretón de un púrpura verdoso. También tenía un corte en el labio, que le sangraba un poco, y a ambos lados del cuello se veían marcas rojas de dedos.
+—Mi marido no me haría eso nunca —dijo la señora Fink, disimulando su envidia.
+—Pues yo no quisiera tener un marido que no me maltratase por lo menos una vez a la semana —declaró la señora Cassidy—. Eso demuestra que se ocupa de una. Claro que esta última dosis que me ha aplicado Joe no tiene nada de homeopática. Todavía estoy viendo las estrellas.
+—Sí, pero...
+—En cambio, todo el resto de la semana será el mejor hombre del mundo. Este ojo hinchado me valdrá lo menos una falda de seda y unas entradas para el teatro.
+La señora Fink comentó, exteriorizando complacencia:
+—Yo creo que mi marido es demasiado caballero para atreverse a pegarme.
+La señora Cassidy rió, mientras se aplicaba un ungüento al ojo.
+—¡No seas tonta, Maggie! Tú sientes celos de mí. Tu marido no tiene bastante decisión para darte en la cara. ¿No es cierto que en cuanto llega se sienta en una silla y practica cultura física con un periódico?
+La señora reconoció, con una inclianción de cabeza:
+—Es verdad que mi marido gusta de leer periódicos cuando vuelve a casa, pero desde luego no me convierte en una mártir por el capricho de divertirse.
+La señora Cassidy rió, con la risa satisfecha de la matrona segura y feliz. Con el aire de una Cornelia exhibiendo sus joyas, se aflojó el cuello del quimono y reveló otraatesorado amoratadura, de color castaño ribeteado de verde y naranja. Aquella contusión estaba ya casi curada, pero seguía siendo grata a la memoria.
+La señora Fink capituló. La luz grave de sus ojos dio paso a una expresión deadmiración envidiosa. Ella y la señora Cassidy habían sido compañeras de trabajo en la fábrica de cajas de cartón de la parte baja de la ciudad, antes de que las dos se casaran, un año atrás. Y ahora su marido y ella ocupaban el piso situado encima del de Mame y su hombre. Por lo tanto, sobraba darse aires de importancia con Mame.
+Preguntó con curiosidad:
+—¿Suele tu marido hacerte mucho daño?
+La señora Cassidy soltó un grito de deleite, con tono de soprano.
+—¡Daño! ¿Sabes lo que es que se nos caiga un paredón encima? Pues las palizas que recibo son una cosa como la que se siente cuando la sacan a una de entre las ruinas. Jack tiene un izquierdazo que vale entradas para dos funciones y un unos zapatos nuevos. Yun derechazo suyo no se enmienda con menos que con una excursión a Coney Island y seis pares de medias de seda.
+La señora Fink abrió mcuhos los ojos.
+—Pero ¿por qué te pega?
+—¿Eres tonta? —preguntó la señora Cassidy, con indulgencia—. Porque viene borracho. La cosa pasa generalmente las noches de los sábados.
+—¿Qué motivo le das? —preguntó la buscadora de conocimientos.
+—¿Acaso no estamos casados? Jack llega borracho y ¿no me tiene a mí a mano? ¿Hay otra persona a la que tenga derecho a pegar?
+—De todos modos...
+—A veces la causa es que la comida no está preparada y a veces es que ya lo está. Jack no anda mirando los motivos. Generalmente anda por las tabernas hasta que recuerda que está casado, y entonces vuelve a casa. Todos los sábados por la noche quito de en medio los muebles con partes salientes, para no abrirme la cabeza cuando é empieza a sacudir. Porque tiene una izquierda... A veces me doy por vencida en el primer asalto; pero cuando tengo ganas de divertirme durante la semana, o me apetece algún trapito nuevo, entonces me levanto para que me siga castigando. Y eso fue lo que hice anoche. Jack sabe que estoy deseando hace un mes una blusa de seda negra, y no me pareció que sólo un ojo morado bastase para ello. Te apuesto un helado, Mag, a que me la trae esta noche.
+La señora Fink se había entregado a profundas reflexiones. Después dijo:
+—Mi Mart no me ha pegado nunca. Como tú sabes, Mame, viene cansado y no se le ocurre decir ni una sola palabra. Tampoco me saca de casa nunca. Le gusta mucho la casa. Es un calientasillas. Me compra cosas, pero me las da con tan poca ganas, que no se las aprecio.
+La señora Cassidy pasó un brazo por la cintura de su amiga.
+—¡Pobrecita! —murmuró—. Claro que, desde luego, hay pocos como Jack. El matrimonio no sería un fracaso si todos fueran como él. Las casadas descontentas necesitan un hombre que vuelva a casa y las muela a palos y luego lo compense dándoles besos y comprándoles caramelos. Eso presta interés a la vida, ¿verdad? Yo necesito un hombre, muy hombre, que me dé de golpes cuando está bebido y que me abrace cuando no lo está. Dios me libre del marido que no sepa hacer eso.
+La señora Fink suspiró.
+Resonaron de pronto fuertes pisadas en el rellano. Un puntapié abrió la puerta y Jack Cassidy cruzó el umbral. Llevaba los brazos llenos de paquetes.
+Mame corrió a él y le abrazó. Su ojo sano despedía la amorosa luz de la doncella maorí cuando despierta de su desmayo en la cabaña del cortejador que la ha raptado después de hacerla perder el sentido con un gran mazazo.
+—¡Hola, chica! —vociferó Cassidy.
+Dejó los paquetes y levantó a su mujer del suelo, abrazándola a su vez fuertemente.
+—He comprado entradas para el teatro de Barnum y Bailey —dijo—, y si abres esos paquetes ahí encontrarás la blusa que...
+Volvióse a la visitante.
+—Buenas noches, señora Fink. No me había fijado en usted. ¿Cómo anda Mart?
+—Muy bien, Cassidy; gracias —respondió la señora Fink—. Y ahora me voy, porque él no tardará en llegar para la cena. Mañana te traeré el patrón que querías, Mame.
+Cuando la señora Fink estuvo en su cuarto rompió en un grito contenido. Un grito sin significación concreta, la clase de grito que sólo comprende una mujer, esto es, el más inmotivado y desesperado de los gritos que componen el repertorio de la congoja femenina.
+¿Por qué Martin no le pegaba nunca? Era tan corpulento y tan vigoroso como Jack Cassidy. ¿Acaso no la quería? Nunca disputaba con ella. Volvía a casa y allí permanecía, taciturno e inmóvil. Proveía a las necesidades de la despensa, pero desconocía que son las especias las que sazonan la vida.
+El barco de los sueños de la señora Fink se balanceaba en plena calma chicha. Su capitán, cuando no andaba trabajando, no se movía de la hamaca. ¡Si alguna vez hiciese retemblar las maderas con un recio golpe de pie en la toldilla! Y ella, que contara navegar tan alegremente, tocando en todos los puertos de las islas del placer... Pero ahora —conviene cambiar los símiles— estaba dispuesta a tirar la esponja, cansada ya y sin poder ostentar ni una sola contusión matrimonial, como su feliz compañera. Por un momento casi odió a la venturosa Mame, llena de rasguños y de moraduras, de abrazos y de regalos, en alegre y tormentoso viaje con el enamorado, brutal y pendenciero compañero de su vida.
+Fink llegó a las siete. Rezumaba todo él la maldición de la domesticidad. No tenía el menor deseo de errar fuera de su cómoda casita. Era el hombre que ya había tomado el tranvía, la serpiente que ha deglutido su presa, el árbol que permanece tal como cae.
+—¿Te gusta la cena, Mart? —preguntó su mujer, que había procurado esmerarse en ella.
+—¡Huuum! —respondió Fink.
+Después de comer tomó el periódico y se dispuso a leer, no sin quitarse antes los zapatos.
+Si un nuevo Dante se levantara habría de cantar cuál es el antro de eterna perdición que corresponde al hombre que se dedica a leer el periódico, en su casa, con los zapatos quitados. Las hermanas de la Caridad, que por razón de vínculos o deberes tienen que tolerar a un hombre con calcetines de seda, hilo, algodón o lana, y hasta sin ellos, ¿le tolerarían con los zapatos voluntariamente quitados?
+Al día siguiente se celebraba la fiesta del Trabajo. Durante toda una jornada solar ni Cassidy ni Fink tenían nada que hacer. El Trabajo triunfante se entregaba durante el día a otra clase de ocupaciones.
+A primera hora la joven Fink llevó a la Cassidy el patrón que ésta le pidiera. Mame se había puesto su blusa nueva de seda. Hasta su ojo amoratado parecía despedir un nuevo y festivo resplandor. Jack, fructuosamente contrito, había acordado con su mujer un plan para invertir la jornada entre parques, meriendas y cerveza en abundancia.
+Cuando la señora Fink volvió a su piso iba envidiosa e indignada. ¡Feliz Mame, con sus contusiones y el inmediato bálsamo que las curaba! Pero ¿por qué había Mame de tener el monopolio de la dicha? Seguramente Martin Fink valía tanto como Jack Cassidy. ¿Había su mujer de vivir siempre privada de caricias y tratos de favor?
+Una súbita y brillante idea acudió a la mente de la señora Fink. Ella enseñaría a Mame que hay otros maridos capaces de golpear y de ser tan cariñosos después, como el más presuntuoso de los Jack.
+La fiesta prometía ser sólo nominal para los Fink. Ella tenía en la cocina la ropa' sucia de dos semanas, acumulada en un par de tinas. El señor Fink, sin zapatos, leía el periódico. El Día del Trabajo no presagiaba nada bueno.
+A medida que la envidia progresaba en el alma de la Fink también se afincaba en ella una resolución audaz. Si su hombre no probaba, maltratándola, su varonilidad, privilegio y prerrogativas en materias conyugales, ella le obligaría a cumplir su deber.
+Fink encendió su pipa y se frotó pacíficamente un tobillo con su pie protegido solamente por los calcetines. Reposaba en el estado matrimonial como un trozo de fruta, no bien embebido, reposa en la superficie de un budín. Aquél era su monótono Elíseo: vivir con tranquilidad, absorbiendo letra impresa, mientras su mujer se afanaba con la cocina y la ropa sucia, y se llevaba los platos del desayuno, con sus agradables aromas, hasta la hora en que llegaban los de la comida. Muchas ideas estaban lejos de la cabeza de Jack Martin, pero ninguna tanto como la de golpear a su esposa.
+La señora Fink puso la tabla de lavar en el sumidero y abrió el grifo del agua caliente. Desde el piso de abajo llegó la alegre risa de la Cassidy. Aquello sonaba como un reto y una burla en los oídos de la abandonada esposa del otro piso.
+Había llegado la ocasión de la señora Fink.
+Volvióse súbitamente, como una furia, al hombre que leía.
+—¡Maldito haragán! —le gritó—. ¿Tengo yo que matarme a trabajar para un puerco como tú, que no sabe hacer otra cosa que pasarse el día holgazaneando en la cocina?
+Fink, mudo de sorpresa, soltó el periódico. Ella temió que la provocación hubiera sido insuficiente y él no le pegase. Entonces saltó hacia Mart y le descargó un rudo golpe en la cara con el puño cerrado. Y sintió, al hacerlo, tanto amor por él como no lo sintiera hacía largo tiempo.
+¡Ah, Martin Fink, levántate y entra en tu reino! ¡Si ella sintiera entonces el peso de la mano de su marido, sólo para probarla que la quería, que se ocupaba de ella! Fink se puso en pie. Su mujer le golpeó la otra mandíbula con un amplio movimiento de su otro brazo. Y cerró los ojos esperando el feliz y bendito momento de que él la tundiese a manotazos.
+Aguardó el choque, cerrados los ojos, pronunciando interiormente el nombre de Mart. Estaba ansiosa de sentirse ultrajada y vapuleada.
+En el piso inferior Jack Cassidy, con expresión avergonzada y contrita, ayudaba a su mujer a empolvarse la cara para poder salir y divertirse. Y arriba sonó la voz de una mujer que chillaba. Hubo rumor de pies, cayó una silla y se percibieron otras señales evidentes de conflicto doméstico.
+—¿Estarán peleándose Mag y Mart? —comentó Cassidy—. No sabía que eso les pasara nunca. ¿Debo subir y ver si necesitan un árbitro?
+Uno de los ojos de Mame resplandeció como un diamante. El otro brilló, por lo menos, como una piedra de bisutería.
+—No sé, no sé —dijo de esa manera ambigua tan propia de las mujeres—. Lo mejor será que yo suba primero a ver qué pasa.
+Y ascendió velozmente la escalera. Cuando su pie pisaba el descansillo la puerta de un piso se abrió y la señora Fink se precipitó fuera, como loca.
+La señora Cassidy cuchicheó, deleitada:
+—¿Por fin se ha decidido, Maggie?
+La señora Fink apoyó la cabeza en el hombro de su amiga y lloró desconsoladamente.
+Mame alzó delicadamente entre sus manos la cara d Maggie. Surcábanle las lágrimas, estaba alternamente enrojecida y lívida, pero su superficie aterciopelada y atractimente salpicada de pecas aparecía intacta. El ocioso puño de Fink no la había tocado.
+—Cuéntame, Maggie —rogó Mame—, si no quieres entre a preguntarle. ¿Te ha pegado?
+La señora Fink volvió a apoyar la cabeza, con desesperació en el pecho de Mame.
+—¡Por amor de Dios no abras esa puerta, Mame! Y no se lo cuentes a nadie... No, no me ha pegado. Pero está lavando. ¡Lavando la ropa!
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

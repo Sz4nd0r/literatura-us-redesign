@@ -1,10 +1,57 @@
 ---
 layout: author
-title: "Bonaparte\n      Gautreaux Piñeyro"
+title: Bonaparte Gautreaux Piñeyro
 slug: index
 source: https://www.literatura.us/bonaparte/index.html
 tags:
   - index
   - bonaparte
 ---
-¿Quién es Bonaparte Gautreaux Piñeyro? ![](/assets/images/foto.jpg) Nació el 9 noviembre de 1937 en Sabana de Chavón, La Romana. Sus más cercanos amigos le llamamos cariñosamente Cabito o K-bito. Ensayista, escritor, músico y periodista. Estudió dos años en la Facultad de Derecho de la Universidad de Santo Domingo y un año en la Escuela Periodismo de ese mismo alto centro de estudios; también en la Universidad Organización y Método (O&M) realizó estudios de administración y contaduría. Fue tambor mayor de la banda de música d Barahona y maestro de alfabetización en la cárcel pública de esa misma comunidad, trabajó como inspector de Rentas Internas; cónsul en La Guaira, Venezuela; secretario de la Comisión de Daños de Guerra; viceministro de la Presidencia del gobierno que encabezó el coronel Francisco Alberto Caamaño Deñó; asistente del presidente del Banco Nacional y de Seguros Pepín; redactor de Noti-Tiempo en Radio Comercial; administrador de Créditos Comerciales (Primera empresa que emitió tarjetas de crédito en el país); jefe de redacción del diario El Sol; redactor de El Nacional y posteriormente sub-jefe de redacción; director de la Revista Ahora; dirigió por muchos años, el suplemento Cultura del periódico El Nacional de ¡Ahora!; gerente comercial de Empresas Técnicas (Olivetti); organizador periódico Hoy; director del diario La Nación; presidente del Consejo de Radio Televisión Dominicana; administrador Transmisiones de Radio y Televisión de los Juegos Centroamericanos Santiago 1986; presidente Consejo Nacional de Drogas; coproductor de “La historia de la Noticia”, recuento semanal de radio en Radio Comercial; analista y crítico en Radio Onda Musical y en Matutino Super Q. En el haber bibliográfico de Bonaparte Gautreaux Piñeyro se encuentran varios títulos; de cuentos, Cuentos del Abuelo Julio, La ciudad clandestina y Los secretos del General; novelas, Al final del arcoíris, El viaje de Don Enrique y La muerte de Raquel Martínez; de ensayo, El tiempo de la tormenta, Caamaño, Bosch y el PRD (considerado el libro más vendido del año 1994); de historia, El gobierno de Caamaño; de memorias, Memorias de Medio Tiempo, La guerra de abril de 1965 y Santo Domingo, Guerra Patria 1965, Mi Memoria; Una visión personal, entre otras. Tiene varias obras inéditas listas para publicarse. Ha dictado importantes conferencias, tanto en el país como en el extranjero y ha escrito los impactantes artículos “Atisbando”, colección publicada en el periódico El Nacional. Ha sido jurado de importantes certámenes literarios de República Dominicana, especialmente en los premios anuales de literatura que organiza el Ministerio de Cultura y la Fundación Corripio. Nunca ha participado como miembro de ningún grupo literario. Bonaparte Gautreaux Piñeyro ha sido merecedor de importantes premios y reconocimientos a lo largo de su carrera, entre ellos podemos resaltar el Premio de Casa de Teatro en la categoría de cuentos y por igual el Movimiento Cultural Dominicano («A partir de esta noche» y «Sonámbulo»); Premio de la Cámara del Libro y Premio Nacional de Novela de la Universidad Nacional Pedro Henríquez Ureña. En el 2022 fue escogido a unanimidad por los miembros del jurado como Premio Nacional de Periodismo, el cual reconoce la trayectoria de vida de los profesionales de la comunicación. Ramón Saba, Trayectorias Literarias Dominicanas Periódico El Nuevo Diario, 16 de junio 2023, pág. 12 Bonaparte Gautreaux Piñeyro escribió un cuento breve que, en nuestra opinión, está entre los cinco o seis mejores cuentos breves escritos en español: EL FUSILAMIENTO FRUSTRADO El general enfermó de rabia cuando le dijeron que su orden no se podía cumplir. Le informaron que los presos se fugaron con la aurora y dijo: —Pues busquen a la Aurora ésa y afusílenla. Los cuentos que aparecen aquí aparecieron en La ciudad clandestina y los secretos del General, pero tiene, también, otra colección extraordinaria de cuentos: Cuentos del Abuelo Julio. ![](/assets/images/bookcover.jpg) CONTENIDO: Antología narrativa: El sonámbulo A partir de esta noche El testigo 
+
+## Biografía
+
+![](/assets/images/foto.jpg)
+
+**Bonaparte Gautreaux Piñeyro** nació el 9 noviembre de 1937 en Sabana de Chavón, La Romana. Sus más cercanos amigos le llaman cariñosamente Cabito o K-bito. Ensayista, escritor, músico y periodista.
+
+Estudió dos años en la Facultad de Derecho de la Universidad de Santo Domingo y un año en la Escuela Periodismo de ese mismo alto centro de estudios; también en la Universidad Organización y Método (O&M) realizó estudios de administración y contaduría.
+
+Fue tambor mayor de la banda de música de Barahona y maestro de alfabetización en la cárcel pública de esa misma comunidad. Trabajó como inspector de Rentas Internas; cónsul en La Guaira, Venezuela; secretario de la Comisión de Daños de Guerra; viceministro de la Presidencia del gobierno que encabezó el coronel Francisco Alberto Caamaño Deñó; asistente del presidente del Banco Nacional y de Seguros Pepín; redactor de Noti-Tiempo en Radio Comercial; administrador de Créditos Comerciales; jefe de redacción del diario *El Sol*; redactor de *El Nacional* y posteriormente sub-jefe de redacción; director de la *Revista Ahora*; dirigió por muchos años el suplemento *Cultura* del periódico *El Nacional*; gerente comercial de Empresas Técnicas (Olivetti); organizador del periódico *Hoy*; director del diario *La Nación*; presidente del Consejo de Radio Televisión Dominicana; administrador de Transmisiones de Radio y Televisión de los Juegos Centroamericanos Santiago 1986; presidente del Consejo Nacional de Drogas; coproductor de “La historia de la Noticia”; analista y crítico en Radio Onda Musical y en Matutino Super Q.
+
+En el 2022 fue escogido a unanimidad como Premio Nacional de Periodismo, reconociendo la trayectoria de vida de los profesionales de la comunicación.
+
+## Bibliografía
+
+### Cuentos
+- *Cuentos del Abuelo Julio*
+- *La ciudad clandestina*
+- *Los secretos del General*
+
+### Novelas
+- *Al final del arcoíris*
+- *El viaje de Don Enrique*
+- *La muerte de Raquel Martínez*
+
+### Ensayo e Historia
+- *El tiempo de la tormenta*
+- *Caamaño, Bosch y el PRD* (1994)
+- *El gobierno de Caamaño*
+
+### Memorias
+- *Memorias de Medio Tiempo*
+- *La guerra de abril de 1965*
+- *Santo Domingo, Guerra Patria 1965, Mi Memoria; Una visión personal*
+
+## Índice
+
+![](/assets/images/bookcover.jpg)
+
+### Antología narrativa
+- El sonámbulo
+- A partir de esta noche
+- El testigo
+
+### Cuentos breves
+- **El fusilamiento frustrado**
+  > El general enfermó de rabia cuando le dijeron que su orden no se podía cumplir. Le informaron que los presos se fugaron con la aurora y dijo:
+  > —Pues busquen a la Aurora ésa y afusílenla.

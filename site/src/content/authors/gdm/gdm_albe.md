@@ -1,0 +1,139 @@
+---
+layout: story
+title: El albergue
+slug: gdm_albe
+source: https://www.literatura.us/idiomas/gdm_albe.html
+tags:
+  - gdm_albe
+  - gdm
+---
+Guy de Maupassant
+(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
+El albergue (1886)
+(“L’auberge”)
+Originalmente publicado en Les Lettres et les Arts (1 de septiembre de 1886);
+Le Horla
+(París: Paul Ollendorff, 1887, 354 págs.)
+Como todas las hospederías de madera que se encuentran en los Hautes-Alpes, al pie de los glaciares, en esos rocosos y desnudos pasadizos que cortan las blancas cimas de las montañas, el albergue de Schwarenbach sirve de refugio a los viajeros que siguen el paso de la Gemmi.
+Permanece abierto durante seis meses, habitado por la familia de Jean Hauser; luego, cuando se acumulan las nieves, llenando el valle y haciendo impracticable el descenso a Loëche, las mujeres, el padre y los tres hijos se marchan, y dejan para guardar la casa al viejo guía Gaspard Hari con el joven guía Ulrich Kunsi, y Sam, el perrazo montañés.
+Los dos hombres y el animal permanecen hasta la primavera en esa cárcel de nieve, sin tener ante los ojos más que la inmensa y blanca pendiente del Balmhorn, rodeados de cumbres pálidas y brillantes, encerrados, bloqueados, enterrados bajo la nieve que asciende en torno a ellos, envuelve, aprisiona, aplasta la casita, se amontona sobre la techumbre, llega hasta las ventanas y tapia la puerta.
+Aquél era el día en que la familia Hauser iba a regresar a Loëche, pues tenían el invierno encima y el descenso se volvía peligroso.
+Tres mulos partieron por delante, cargados de hatos de ropa y de equipajes y conducidos por los tres hijos. Luego la madre, Jeanne Hauser, y su hija Louise se montaron en el cuarto mulo, y se pusieron a su vez en camino.
+El padre les seguía acompañado de dos guardas que tenían que escoltar a la familia hasta lo alto de la pendiente.
+Primero bordearon la laguna, helada ahora al fondo de la gran hondonada de rocas que se extiende delante del albergue, luego siguieron el valle blanco como una sábana y dominado por todas partes por las cumbres nevadas.
+Inundaba el sol aquel albo desierto refulgente y helado, encendiéndolo de una llama cegadora y fría; ningún signo de vida aparecía en aquel océano montañoso; ningún movimiento en aquella inmensa soledad; ningún ruido que turbara el profundo silencio.
+Poco a poco, el joven guía Ulrich Kunsi, un suizo alto de esbeltas piernas, dejó atrás a Hauser padre y al viejo Gaspard Hari para alcanzar al mulo que llevaba a las dos mujeres.
+La más joven le miraba llegar, parecía llamarle con su triste mirada. Era una joven campesina rubia, cuyas mejillas lechosas y pálidos cabellos parecían descoloridos por su larga permanencia en medio de los hielos.
+Una vez que hubo alcanzado a la bestia que la llevaba, apoyó una mano sobre la grupa y demoró el paso. La madre se puso a hablar con él, enumerando con infinitos detalles todas las recomendaciones que había que tener en cuenta en la hibernación. Era la primera vez que se quedaba allá arriba, mientras que el viejo Hari había pasado ya catorce inviernos bajo la nieve en el albergue de Schwarenbach.
+Ulrich Kunsi escuchaba, sin dar la impresión de entender, y miraba sin cesar a la muchacha. De vez en cuando respondía: “Sí, señora Hauser”. Pero parecía ausente y su sereno rostro permanecía impasible.
+Llegaron al lago de Daube, cuya vasta superficie helada se extendía, totalmente llana, al fondo del valle. A la derecha, el Daubenhorn mostraba sus negras rocas que se alzaban verticales al lado de las enormes morrenas del glaciar de Lœmmern que dominaba el Wildstrubel.
+Cuando se acercaban al puerto de la Gemmi, donde comienza la bajada a Loëche, descubrieron de repente el inmenso horizonte de los Alpes del Valais, de los que los separaba el profundo y amplio valle del Ródano.
+Había, a lo lejos, una multitud de blancas cumbres, desiguales, chatas o puntiagudas y relucientes bajo el sol: el Mischabel, con sus dos cuernos, el imponente macizo del Wissehorn, el amazacotado Brunnegghorn, la alta y temible pirámide del Cervin, ese asesino de hombres, y el Dent-Blanche, esa monstruosa coqueta.
+Luego, por debajo de ellos, en un inmenso pozo, al fondo de una sima pavorosa, vieron Loëche, cuyas casas parecían granitos de arena arrojados en esa grieta enorme que limita y cierra la Gemmi, y que se abre, allí abajo, al Ródano.
+El mulo se detuvo al borde del sendero que va, serpenteando con continuas vueltas y revueltas, fantástico y maravilloso, a lo largo de la montaña cortada a pico, hasta ese pueblecito casi invisible, a su pie. Las mujeres saltaron a la nieve.
+Los dos viejos les habían dado alcance.
+—Vamos —dijo Hauser padre—, adiós y ánimo, hasta el año que viene, amigos.
+Gaspard Hari repitió:
+—Hasta el año que viene.
+Se abrazaron. Luego la señora Hauser presentó, a su vez, las mejillas; y la muchacha hizo otro tanto.
+Cuando le llegó la vez a Ulrich Kunsi, murmuró al oído de Louise:
+—No olvidéis a los de ahí arriba.
+Ella respondió un “no” tan quedo que él lo intuyó sin oírlo.
+—Bueno, adiós —repitió Jean Hauser— y cuidaos mucho.
+Y, pasando por delante de las mujeres, inició el descenso.
+No tardaron en desaparecer los tres en el primer recodo del camino.
+Y los dos hombres iniciaron el regreso hacia el albergue de Schawarenbach.
+Caminaban despacio, cuesta tras cuesta, sin decirse nada. Se había acabado, se quedarían solos, cara a cara, cuatro o cinco meses.
+Luego Gaspard Hari se puso a contar su vida durante el invierno anterior. Se había quedado con Michel Canol, demasiado mayor ya para empezar de nuevo, pues durante esa larga soledad puede producirse algún accidente. No se habían aburrido, por lo demás; todo consistía en verle el lado bueno desde el primer día; y uno terminaba por inventarse distracciones, juegos, muchos pasatiempos.
+Ulrich Kunsi le escuchaba, con la mirada gacha, siguiendo en su imaginación a los que descendían hacia el pueblo por todas las recortaduras de la Gemmi.
+No tardaron en divisar el albergue, apenas visible, tan diminuto, un punto negro al pie de la monstruosa ola de nieve.
+Cuando abrieron, Sam, el perrazo de rizada pelambre, se puso a dar saltos en torno a ellos.
+—Vamos, hijo —dijo el viejo Gaspard—, ahora ya no tenemos a las mujeres y hay que preparar la cena, así que pela tú las patatas.
+Y los dos, sentándose en unos taburetes de madera, comenzaron a echar caldo a las sopas.
+La mañana del día siguiente le pareció larga a Ulrich Kunsi. El viejo Hari fumaba y escupía dentro del hogar, mientras el joven miraba por la ventana la deslumbrante montaña que había enfrente de la casa.
+Salió por la tarde y, rehaciendo el trayecto de la víspera, buscaba en el suelo el rastro de los cascos del mulo que había llevado a las dos mujeres. Luego, tras llegar al puerto de la Gemmi, se tumbó boca abajo al borde del abismo y contempló Loëche.
+No estaba aún el pueblo, en su pozo rocoso, sepultado por la nieve, por más que estuviera ya muy cerca, pero detenida en seco por los bosques de abetos que protegían los alrededores. Sus casas bajas parecían, desde allí arriba, piedras en un prado.
+La joven de los Hauser se encontraba, en aquel momento, en una de esas casas grises. ¿Cuál? Ulrich Kunsi estaba demasiado lejos para distinguir unas de otras. ¡Cuánto le hubiera gustado bajar mientras ello era aún posible!
+Pero el sol había desaparecido ya tras la gran cima del Wildstrubel; y el joven regresó. Gaspard Hari estaba fumando. Al ver de vuelta a su compañero, le propuso jugar una partida a las cartas; y se sentaron uno enfrente del otro a ambos lados de la mesa.
+Jugaron largo rato a un sencillo juego llamado la brisca, y luego, tras haber cenado, se acostaron.
+Los días siguientes fueron parecidos al primero, claros y fríos, sin nieve nueva. El viejo Gaspard se pasaba las tardes observando las águilas y las raras aves que se aventuran por aquellas cimas heladas, mientras que Ulrich volvía habitualmente al puerto de la Gemmi para contemplar el pueblo. Luego jugaban a las cartas, a los dados, al dominó, ganaban y perdían pequeños objetos para dar aliciente a la partida.
+Una mañana, Hari, tras levantarse el primero, llamó a su compañero. Una blanca nube algodonosa, movediza, enorme y ligera, se abatía sobre ellos, en torno a ellos, sin ruido, los sepultaba poco a poco bajo un tupido y sordo colchón de espuma. Ello duró cuatro días y cuatro noches. Fue preciso liberar puerta y ventanas, abrir un pasillo y hacer unos escalones para salir de entre aquel polvo de hielo que doce horas de helada había vuelto más duro que el granito de las morrenas.
+Entonces vivieron como prisioneros, sin aventurarse ya casi nunca fuera de su morada. Se habían repartido las tareas domésticas que cumplían regularmente. Ulrich Kunsi se ocupaba de la limpieza, de la colada, de todos los cuidados y de todos los trabajos de saneamiento. Era también quien cortaba la leña, mientras que Gaspard Hari se encargaba de la cocina y mantenía vivo el fuego. Sus labores, regulares y monótonas, se veían interrumpidas por las largas partidas de cartas o de dados. Nunca se peleaban, eran los dos tranquilos y plácidos. Tampoco nunca mostraban impaciencia, mal humor, ni soltaban palabras agrias, pues habían hecho provisión de resignación para esa hibernación en las cumbres.
+A veces, el viejo Gaspard cogía su rifle y se iba en busca de gamuzas; mataba alguna de tanto en tanto. Había entonces fiesta en el albergue de Schwarenbach y un gran festín de carne fresca.
+Una mañana, partió así. El termómetro del exterior marcaba dieciocho grados bajo cero. No había salido aún el sol, el cazador esperaba sorprender a los animales en las inmediaciones del Wildstrubel.
+Tras quedarse solo, Ulrich permaneció acostado hasta las diez. Era un dormilón nato; pero no se hubiera atrevido a entregarse de aquel modo a su inclinación en presencia del viejo guía siempre muy activo y madrugador.
+Desayunó sin prisas con Sam, que pasaba también sus días y sus noches dormitando delante del fuego; luego se sintió triste, incluso asustado de la soledad, y dominado por la necesidad de la diaria partida de cartas, como se está dominado por el deseo de un hábito invencible.
+Entonces salió para ir al encuentro de su compañero, que tenía que regresar a las cuatro.
+La nieve había nivelado todo el profundo valle, colmando las grietas, borrando los dos lagos, acolchando las rocas, formando, entre las altísimas cimas, una vastísima cuenca blanca regular, deslumbrante y helada.
+Hacía tres semanas que Ulrich no había vuelto al borde del abismo desde donde contemplaba el pueblo. Quiso volver allí antes de subir las pendientes que llevaban al Wildstrubel. Ahora también Loëche estaba bajo la nieve y resultaban ya irreconocibles las casas, enterradas bajo el pálido manto.
+Luego, torciendo a la derecha, llegó al glaciar de Lœmmern. Caminaba con su paso largo de montañero, golpeando con su bastón herrado la nieve tan dura como la piedra. Y buscaba con su mirada penetrante el puntito negro y móvil, a lo lejos, sobre aquel inmenso manto.
+Cuando estuvo al borde del glaciar, se detuvo, preguntándose si el viejo había tomado ese camino; luego echó a andar a lo largo de las morrenas con paso más rápido y más inquieto.
+Disminuía la luz; la nieve se volvía rosácea; soplaba un viento seco y helado en bruscas ráfagas sobre su superficie de cristal. Ulrich lanzó un grito de llamada agudo, vibrante, prolongado. La voz voló en el silencio sepulcral en que dormían las montañas; corrió a lo lejos, sobre las olas inmóviles y profundas de algodón helado, como un grito de ave sobre las olas del mar; luego se apagó y nadie le respondió.
+Echó a andar de nuevo. El sol se había puesto, allá lejos, tras las cimas que los reflejos del cielo empurpuraban aún; pero las profundidades del valle se tornaban grises. Y el joven tuvo de repente miedo. Le pareció que el silencio, el frío, la soledad, la muerte invernal de esos montes penetraban en él, iban a detener y helar su sangre, a enrigidecer sus miembros, a hacer de él un ser inmóvil y helado. Y echó a correr, huyendo hacia su morada. El viejo, pensaba, habría vuelto durante su ausencia. Debía de haber tomado otro camino; estaría sentado delante del fuego con una gamuza muerta a sus pies.
+No tardó en ver el albergue. No salía nada de humo de él. Ulrich corrió más rápido, abrió la puerta. Sam se precipitó hacia él para hacerle fiestas, pero Gaspard Hari no había vuelto.
+Espantado, Kunsi daba vueltas sobre sí mismo, como esperando descubrir a su compañero escondido en algún rincón. Luego encendió el fuego e hizo las sopas, esperando en todo momento ver volver al anciano.
+De vez en cuando, salía para mirar si aparecía. Había caído la noche, la noche macilenta de las montañas, la noche pálida, la noche lívida que iluminaba, al borde del horizonte, una media luna amarilla y fina presta a desaparecer tras las cumbres.
+Luego el joven volvía adentro, se sentaba, se calentaba los pies y las manos pensando en los posibles accidentes.
+Gaspard había podido romperse una pierna, caer en un hoyo, dar un paso en falso que le habría torcido el tobillo. Y permanecería tendido en la nieve, apresado, rígido por el frío, el alma llena de angustia, perdido, pidiendo quizá auxilio a gritos, llamando con toda la fuerza de su garganta en medio del silencio de la noche.
+Pero ¿dónde? La montaña era tan vasta, tan escabrosa, tan peligrosa en los alrededores, sobre todo en esa estación, que habrían hecho falta diez o veinte guías y caminar durante ocho días en todas direcciones para dar con un hombre en esa inmensidad.
+Ulrich Kunsi, sin embargo, se decidió a partir con Sam si Gaspard Hari no volvía entre medianoche y la una de la mañana.
+E hizo los preparativos.
+Metió víveres para dos días en una alforja, cogió sus botas con crampones, enrolló en torno a su cintura una larga cuerda, delgada y resistente, comprobó el estado de su bastón alpino y del pico que sirve para hacer escalones en el hielo. Luego esperó. El fuego ardía en el hogar; el perrazo roncaba ante la claridad de la llama; el reloj latía como un corazón con sus golpes regulares en su caja de madera sonora.
+Esperaba, aguzando el oído a los ruidos lejanos, estremeciéndose cuando un ligero viento rozaba la techumbre y los muros.
+Cuando el reloj dejó oír el tintineo de la una, se puso en pie, despertó a Sam, abrió la puerta y marchó en dirección al Wildstrubel. Durante cinco horas, subió, escalando rocas con la ayuda de sus crampones, cortando el hielo, avanzando siempre y a veces jalando, con el cabo de su cuerda, al perro que había quedado abajo de una escarpadura demasiado empinada. Serían en torno a las seis cuando alcanzó una de las cumbres adonde el viejo Gaspard iba a menudo en busca de gamuzas.
+Y esperó a que se hiciera de día.
+El cielo palidecía sobre su cabeza; y de repente un extraño resplandor, surgido de quién sabe dónde, iluminó de súbito el inmenso océano de las cimas pálidas que se extendían a cien leguas en torno a él. Se hubiera dicho que aquella vaga claridad surgía de la nieve misma para expandirse por el espacio. Las cumbres lejanas más altas se volvieron todas poco a poco de un rosa suave como el de la carne, y el rojo sol apareció detrás de los pesados gigantes de los Alpes berneses.
+Ulrich Kunsi reanudó su camino. Iba como un cazador, encorvado, observando los rastros, diciéndole a su perro:
+—Busca, gordinflón, busca.
+Ahora volvía a bajar la montaña, escrutando con la mirada las simas y a veces llamando, lanzando un grito prolongado, que no tardaba en morir en la muda inmensidad. Entonces pegaba el oído al suelo para escuchar; creía distinguir una voz, echaba a correr, llamaba de nuevo, no oía ya nada y se sentaba, agotado, desesperado. Hacia mediodía, desayunó y dio de comer a Sam, que estaba tan cansado como él. Luego reanudó su búsqueda.
+Cuando llegó la tarde, aún seguía caminando, tras haber recorrido cincuenta kilómetros de montaña. Como se encontraba demasiado lejos de su casa para regresar a ella, y demasiado fatigado para seguir andando por más tiempo, abrió un hoyo en la nieve y se acurrucó dentro de él con su perro, bajo una manta que se había traído. Y se acostaron el uno contra el otro, hombre y animal, calentando mutuamente sus cuerpos, pero, no obstante, helados hasta los tuétanos.
+Ulrich apenas si durmió, la mente asaltada por visiones, los miembros recorridos por escalofríos.
+Se estaba haciendo de día cuando se levantó. Tenía las piernas rígidas como barras de hierro, la moral baja como para gritar de angustia, el corazón palpitándole casi hasta el punto de hacerle desvanecerse de la emoción apenas le parecía que oía un ruido cualquiera.
+De repente pensó que también él moriría de frío en aquella soledad, y el miedo a una muerte semejante, acicateando su energía, despertó su vigor.
+Ahora descendía hacia el albergue, cayendo, levantándose, seguido de lejos por Sam, que cojeaba sobre tres patas.
+No llegaron a Schwarenbach hasta las cuatro de la tarde. La casa estaba vacía. El joven encendió el fuego, comió y se durmió, tan agotado que no pensaba ya en nada.
+Durmió largas horas con un sueño invencible. Pero de repente una voz, un grito, un nombre: “Ulrich”, sacudió su profundo sopor y le hizo levantarse. ¿Había soñado? ¿Era una de esas extrañas llamadas que cruzan por los sueños de las almas inquietas? No, oía aún ese grito vibrante, que había penetrado en su oído y se había quedado en su carne hasta en la yema de sus dedos nerviosos. Sin duda, habían gritado; habían llamado: “¡Ulrich!”. Había alguien allí, cerca de la casa. No cabía duda. Abrió, pues, la puerta y gritó: “¿Eres tú, Gaspard?” con toda la potencia de su garganta.
+Nadie respondió; ningún sonido, ningún murmullo, ningún gemido, nada. Era de noche. La nieve estaba muy pálida.
+Se había levantado viento, el viento helado que quiebra las piedras y no deja nada vivo en esas alturas abandonadas. Pasaba con bruscos soplos más desecadores y mortales que el viento de fuego del desierto. Ulrich gritó de nuevo:
+—¡Gaspard! ¡Gaspard! ¡Gaspard!
+Luego esperó. ¡Todo permaneció mudo en la montaña! Entonces, el espanto le hizo estremecerse hasta los huesos. Entró de un salto en el albergue, cerró la puerta y echó el cerrojo; luego cayó tiritando sobre una silla, convencido de que acababa de ser llamado por su compañero en el momento en que entregaba su espíritu.
+Estaba seguro de ello, como se está seguro de estar vivo o de comer pan. El viejo Gaspard Hari había agonizado durante dos días y tres noches en alguna parte, en un hoyo, en una de esas profundas barrancas inmaculadas cuya blancura es más siniestra que las tinieblas de los sótanos. Había agonizado durante dos días y tres noches, y acababa de morir hacía poco pensando en su compañero. Y su alma, apenas liberada, había volado hacia el albergue donde Ulrich dormía, y le había llamado merced a esa facultad misteriosa y terrible que poseen las almas de los muertos de perseguir a los vivos. Había gritado, esa alma sin voz, en el alma abrumada del durmiente; había gritado su último adiós, o su reproche, o su maldición sobre el hombre que no le había buscado lo bastante.
+Y Ulrich la notaba allí cerca, detrás del muro, detrás de la puerta que acababa de cerrar. Rodaba, como un ave nocturna que roza con su plumaje una ventana iluminada; y el joven extraviado estaba a punto de aullar de horror. Quería escapar y no se atrevía a salir; no se atrevía y ya no se atrevería, pues el fantasma permanecería allí, día y noche, en torno al albergue, mientras el cuerpo del viejo guía no fuera reencontrado y descansara en la tierra bendecida de un cementerio.
+Se hizo de día y Kunsi recuperó un poco de seguridad con el retorno luminoso del sol. Se preparó su comida, hizo unas sopas para el perro y a continuación se quedó sentado en una silla, inmóvil, el corazón torturado, pensando en el viejo tendido en la nieve.
+Luego, en cuanto la noche cubrió la montaña con sus sombras, le asaltaron nuevos terrores. Ahora andaba por la cocina oscura, apenas iluminada por la llama de una candela, andaba de un extremo al otro de la estancia, a grandes pasos, escuchando, escuchando si el grito espantoso de la noche pasada se escucharía de nuevo en el silencio lúgubre del exterior. ¡Y se sentía solo, el pobre miserable, como hombre alguno lo ha estado jamás! ¡Estaba solo en ese inmenso desierto de nieve, solo a dos mil metros por encima de la tierra habitada, por encima de toda morada humana, por encima de la vida que se agita, murmura y palpita, solo bajo el cielo helado! Le dominaban unas ganas locas de largarse donde fuera y como fuera, de bajar a Loëche arrojándose al abismo; pero ni siquiera se atrevía a abrir la puerta, convencido de que el otro, el muerto, le impediría el paso, para no quedarse tampoco él solo allá arriba.
+Hacia medianoche, cansado de andar, abrumado de angustia y de miedo, se amodorró finalmente en una silla, pues temía su cama como se teme un lugar encantado.
+Y de repente el grito estridente de la noche pasada le desgarró los oídos, tan sobreagudo que Ulrich extendió los brazos para rechazar al aparecido y cayó de espaldas con su asiento.
+Sam, despertado por el ruido, se puso a aullar como aúllan los perros espantados, y daba vueltas por la habitación buscando de dónde venía el peligro. Al llegar cerca de la puerta, olfateó por debajo, resoplando y aspirando con fuerza, la pelambre erizada, el rabo derecho y gruñendo.
+Kunsi, despavorido, se había levantado y, sujetando por una pata su silla, exclamó: “No entres, no entres, no entres o te mato”. Y el perro, excitado por esta amenaza, ladraba furioso contra el enemigo invisible que desafiaba la voz de su amo.
+Poco a poco, Sam se calmó y volvió a extenderse cerca del hogar, pero permanecía inquieto, la cabeza levantada, los ojos relucientes y gañendo entre sus patas.
+Ulrich, a su vez, recobró la razón, pero como se sentía desfallecer de terror, fue a buscar una botella de aguardiente en el aparador, y se tomó, una tras otra, varias copas. Sus ideas se volvían vagas; su valor se hacía más firme; una fiebre de fuego corría por sus venas.
+Apenas si probó bocado al día siguiente, limitándose a tomar alcohol. Y durante varios días seguidos vivió en un estado continuo de embriaguez, como un bruto. Apenas volvía a su mente el pensamiento de Gaspard Hari, empezaba a beber de nuevo hasta el momento en que se caía al suelo, abatido por la borrachera. Y allí se quedaba, con la cara contra el suelo, borracho perdido, los miembros molidos, roncando, de bruces. Pero apenas había digerido el líquido enloquecedor y abrasador, cuando el grito siempre el mismo “¡Ulrich!” le despertaba como una bala que atravesara su cráneo; y se enderezaba tambaleándose aún, extendiendo las manos para no caer, llamando en su ayuda a Sam. Y el perro, que parecía estar volviéndose loco como su amo, se precipitaba contra la puerta, la arañaba con sus uñas, la roía con sus largos colmillos blancos, mientras el joven, con el cuello doblado y la cabeza echada hacia atrás, se mandaba al coleto a grandes sorbos, como si fuera agua fresca tras una carrera, el aguardiente que no tardaría en volver a adormecer su mente, sus recuerdos y su miedo loco.
+En tres semanas dio buena cuenta de toda su provisión de alcohol. Pero esta borrachera continua no hacía sino amodorrar su espanto, que se despertó más furioso tan pronto como le fue imposible calmarlo. Entonces la idea fija, exasperada durante un mes de embriaguez, y creciendo sin cesar en la absoluta soledad, se hundía en él a la manera de una barrena. Y ahora andaba por su morada igual que una bestia por su jaula, pegando el oído a la puerta para escuchar si el otro estaba allí y desafiándole a través de la pared.
+Luego, en cuanto se amodorraba, vencido por la fatiga, oía la voz que le hacía ponerse en pie de un salto.
+Una noche, por fin, como los cobardes en las situaciones límites, se precipitó hacia la puerta y la abrió para ver al que le llamaba y obligarle a callarse.
+Recibió en pleno rostro un aire frío que le heló hasta los tuétanos, volvió a cerrar la hoja y echó el cerrojo, sin ver que Sam se había lanzado afuera. Luego, temblando, echó leña al fuego y se sentó delante para calentarse, pero de repente se estremeció, porque alguien arañaba la pared llorando.
+Gritó despavorido: “Vete”. Le respondió un lamento, prolongado y doliente.
+Entonces lo que le quedaba de razón sucumbió ante el pavor. Repetía “Vete” girando sobre sí mismo para dar con un rincón en el que esconderse. El otro, llorando en todo momento, pasaba a lo largo de la casa frotándose contra el muro. Ulrich se lanzó hacia el aparador de roble lleno de vajilla y de provisiones, y, levantándolo con una fuerza sobrehumana, lo arrastró hasta la puerta para hacer con él una barricada. Luego, amontonando uno sobre otro todos los muebles, los colchones, los somieres, las sillas, clausuró la ventana como se hace cuando asedia el enemigo.
+Pero el del exterior lanzaba ahora grandes gemidos lúgubres a los que el joven se puso a responder mediante gemidos parecidos.
+Y pasaron días y noches sin que dejaran de aullar uno y otro. El uno daba vueltas sin cesar alrededor de la casa y hurgaba con tal fuerza al pie de la pared con sus uñas que parecía querer demolerla; el otro, dentro, seguía todos sus movimientos, encorvado, el oído pegado contra la piedra, y respondía a todas sus llamadas con gritos espantosos.
+Una tarde, Ulrich no oyó ya nada; y se sentó tan roto de cansancio que no tardó en dormirse.
+Se despertó sin un recuerdo, sin un pensamiento, como si toda su cabeza se hubiera vaciado durante ese sueño extenuado. Tenía hambre y comió.
+Había terminado el invierno. El paso de la Gemmi resultaba practicable de nuevo; y la familia Hauser se puso en camino para volver a su albergue.
+Tan pronto como hubieron alcanzado la parte alta de la subida, las mujeres se montaron en su mulo y se pusieron a hablar de los dos hombres con los que iban a reencontrarse dentro de poco.
+Estaban extrañadas de que uno de ellos no hubiera bajado algunos días antes, tan pronto como el camino se había vuelto practicable, para dar noticias de su larga hibernación.
+Por fin divisaron el albergue cubierto y acolchado aún de nieve. La puerta y la ventana estaban cerradas; un humillo salía del tejado, lo cual tranquilizó a Hauser padre. Pero, al acercarse, vio en el umbral un esqueleto de animal despedazado por las águilas, un gran esqueleto que yacía de costado.
+Todos lo examinaron.
+—Debe de ser Sam —dijo la madre. Y llamó—: Eh, Gaspard.
+Un grito respondió en el interior, un grito agudo, que se hubiera dicho lanzado por una bestia. Hauser padre repitió:
+—Eh, Gaspard.
+Se dejó oír otro grito semejante al primero.
+Entonces, los tres hombres, el padre y los dos hijos, trataron de abrir la puerta. Ésta resistió. Cogieron del establo vacío una larga viga a modo de ariete y la lanzaron con gran ímpetu. La madera crujió, cedió, las tablas volaron hechas pedazos; luego un gran ruido estremeció la casa y vieron dentro, detrás del aparador derribado, a un hombre de pie, con unos cabellos que le llegaban hasta los hombros, una barba hasta el pecho, unos ojos brillantes y unos harapos sobre el cuerpo.
+No le reconocían, pero Louise Hauser exclamó:
+—Es Ulrich, mamá.
+Y la madre comprobó que era Ulrich, aunque sus cabellos fueran blancos.
+Él les dejó acercarse; se dejó tocar; pero no respondió nada a las preguntas que le hicieron; y hubo que llevarle a Loëche, donde los médicos constataron que se había vuelto loco.
+Y nadie supo jamás qué se había hecho de su compañero.
+La joven Hauser estuvo a punto de morir ese verano de una enfermedad de languidez que atribuyeron al frío de la montaña.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,190 @@
+---
+layout: story
+title: Un pecho de mujer
+slug: pecho
+source: https://www.literatura.us/idiomas/tommaso/pecho.html
+tags:
+  - pecho
+  - tommaso
+---
+Tommaso Landolfi
+(Pico, Italia, 1908 - Ronciglione, Italia, 1979)
+Un pecho de mujer (1975)
+(“Un petto di donna”)
+A caso
+(Milán: Rizzoli, 1975, 198 págs.)
+Seguía con la mirada a la muchacha, que se movía insegura por el borde de la acera y que parecía disponerse a cruzar la calle. Era una soberbia muchacha, elegante, no tanto por su modo de vestir como por su cuerpo: largas piernas esbeltas pero del grosor justo, pelvis estrecha, hombros delicados y encima de todo una hermosa cabeza de cabellos negros, a la que correspondía una carita menuda, tierna, ambarina. La seguía (con la mirada), sobre todo, a causa de su pecho, que no parecía oprimido por el clásico y mortificante indumento, sino que saltaba libre al compás de su paso. Alrededor, gorjeos, pitidos y aromas de primavera. Y yo miraba a la muchacha y sólo pensaba: “¡Ese pecho!”, y no sabía ni me atrevía a añadir nada más a mis pensamientos. Pero seguí mi camino, que me llevaba a pasar a su lado.
+Ya se había decidido, había puesto el pie en la calzada. Un coche llegaba velocísimo con peligro de atropellarla. Estando yo a su lado, con poco más que un gesto pude sujetarla por la tela del hombro y tirar de ella violentamente hacia atrás y, posiblemente, salvarla. Se volvió hacia mí entre asombrada y estupefacta, aún no consciente del peligro corrido, mientras, y en vano, intentaba sondear la profundidad de aquellos ojos.
+—¡Dios mío! —dijo con una voz extrañamente fuerte—. ¿Qué… qué ha pasado?
+—Nada de particular. Venía un coche y…
+—¡Usted me ha salvado!
+—No exageremos. Tal vez la habría atropellado, tal vez no, pero para mayor seguridad…
+—Seguro que me habría atropellado.
+—Si eso es lo que piensa… De todos modos, no ha pasado nada.
+—No, no. Usted me ha salvado. Ahora me doy cuenta de ello.
+—Está bien. Pues me alegro.
+—Espere. Debo darle las gracias.
+—Ya lo hizo, implícitamente.
+—No, no. No es suficiente.
+—Déjelo estar. Además, suponiendo que de verdad le hubiera salvado la vida, ¿está segura de que es y será una ventaja para usted?… ¿Es feliz?
+—Sí, bueno, no, pero eso no tiene nada que ver.
+—¿Cómo que no tiene nada que ver? Me parece que eso es lo importante.
+—No. Eso no salda, no extingue, la deuda que he contraído con usted, al menos por lo que respecta a sus intenciones.
+—Por lo que respecta a mis intenciones, como usted las llama, de acuerdo, pero en ese caso peor para ellas. A fin de cuentas me dolería haber salvado una vida infeliz.
+—¡Oh! ¿Quién podría preferir la muerte a una vida aunque sea infeliz?
+—Mucha gente.
+—Sí, admitámoslo, pero yo no soy de ese tipo de gente, y, además, mi vida no es precisamente infeliz.
+—Pues entonces mejor.
+—¡Ah! Para usted es muy fácil. ¿Es que no lo entiende? Con eso mi deuda no necesita de sus buenas intenciones para ser tal.
+—Resígnese, tampoco es tan grave. En el peor de los casos, usted perdone.
+—Sigue sin entenderlo. Yo no puedo soportar las deudas, me dan una sensación de culpa y ansiedades de todo tipo.
+—¡Egoísta!
+—Puede ser. El hecho es que debo pagarle lo más pronto posible y no pensar más en ello…
+Aunque un tanto singular, nuestra conversación se parecía, en el fondo, a las más o menos agradables frases al uso entre hombre y mujer en sus recíprocos tanteos. Pero, por mi parte, yo no me proponía nada: en el fondo, una sola cosa, un solo objeto me interesaba de aquella muchacha.
+—¡Ah! —continuó—. Si pudiera a mi vez hacer algo por usted…
+Y aquí, como traído por los pelos, respondía de repente:
+—Si se empeña usted, puede hacer algo.
+—¿Ah, sí? ¿Y qué?
+—Me da vergüenza decirlo.
+—¿Qué? ¿Cómo? ¿Tan feo es?
+—Al contrario, es una cosa bellísima.
+—Pues dígala, tenga valor.
+—Hum… No, no puedo.
+—¡Oh, se lo ruego! Mire, me liberaría de toda obligación… Además, está excitando mi curiosidad, y esto sí que es egoísta: soy una mujer.
+—¿De veras quiere usted darme carta blanca?
+—¿Cómo no? Eso es precisamente lo que quiero.
+—¿Se trate de lo que se trate?
+—Bueno… Si no se trata de algo deshonesto o irracional.
+—Deshonesto, bueno, depende de cómo uno lo considere.
+—¡Oh! ¡Qué desasosiego me provoca usted! Adelante, está bien: se trate de lo que se trate.
+—¿Y si luego…?
+—¡Oh, Dios! ¿Quiere usted hacerme morir? ¡Adelante, adelante!
+—Bueno, pero que quede claro que usted lo habrá querido.
+—Sí, claro. Lo acepto todo, lo prometo todo. ¿Está satisfecho? Pues adelante.
+—¿Todo?
+—¡Sí, sí, sí!
+—Pues bien, a cambio de mi presunto salvamento usted debería…
+—¿Debería?
+—Permitirme…
+—¿Permitirle?… ¡No me haga esperar más!
+—Besarle un pezón.
+Estaba pálida: me miraba fijamente. Dijo:
+—¿Cuál?
+—¿Eh? ¿Cómo dice? —exclamé desconcertado.
+—Digo, ¿cuál? —confirmó—, ¿el derecho o el izquierdo?
+—A fin de cuentas… para mí…
+—No es lo mismo.
+—¿Ah, no? ¿Por qué?
+—Tienen una distinta sensibilidad —explicó en tono convincente.
+—Entonces… el izquierdo, el del corazón.
+Me miraba fijamente. Sufría visiblemente y, por lo que yo sabía, desproporcionadamente. En todo caso no era un sufrimiento alegre para mí, como había podido figurármelo (y ello, indirectamente, denunciaba lo profundo de su carácter). De nuestra relación, establecida como un juego, yo no obtenía ninguna diversión. Aquel sufrimiento tampoco era embarazo ni pudor físico, sino más bien algo incomprensiblemente amargo.
+Por último, dijo con dureza:
+—Está bien.
+—¿Está bien? ¿Seguro?
+—Pues claro. Ya habrá comprendido que no acostumbro a echarme atrás. Además, está mi interés como deudora… Bueno, ¿dónde?
+—¿De verdad, usted…?
+—Oiga usted. Sí, de verdad. ¿O son todos ustedes iguales, que cuando se les concede algo que ustedes mismos pidieron pierden el valor?
+—¿Valor? No hace falta mucho.
+—¿Está seguro?
+—No sé qué quiere decir usted —repliqué involuntariamente más serio—. Quería decir que si todo esto iba a costarle demasiado… A fin de cuentas, es una broma.
+—¿Usted cree?… Bueno, ¿dónde?
+—¿O sea, qué dónde podríamos… hacerlo?
+—Sí.
+—Veamos, si de verdad lo quiere…
+—¡Ahora soy yo la que quiero! Pero no le falta razón, lo quiero. No hay otra salida y mi acreedor espera.
+—Pero yo soy un acreedor benévolo.
+—Y locuaz… ¿Dónde?
+—En mi casa está mi mujer.
+—Lo suponía. Entonces venga a la mía.
+—¿A su casa? ¿Vive sola?
+—Sí, naturalmente. No hay ningún peligro para hombres respetables. Está a dos pasos de aquí.
+—Bueno. Vamos.
+—Vamos.
+Y sin decir nada más echó a andar por una rampa de la ciudad vieja, pasó bajo tres bóvedas y se detuvo ante una casa de aspecto más que modesto.
+—Aquí es. Venga.
+Escalas empinadas de piedra gris y porosa; inevitable olor de aguas sucias o de carnes sobrantes del día anterior y hoy estofadas, cancioncillas radiofónicas. Sin embargo, el interior del pequeño piso parecía menos desalentador. El vestíbulo no tenía ventanas pero por una puerta abierta se veía un comedorcito inundado de sol. Cada objeto (divanes con franjas y lunares y cosas así) conservaba una curiosa y rancia impronta y desprendía un cierto olor especial. Toda la casa estaba como petrificada.
+—Así me la dejó mi madre al morir.
+La verdad es que no todos los objetos ni toda la casa eran así. En el comedorcito una gran mesa chapeada, un anónimo mueble de serie, reflejaba el ardiente rayo de sol. En la mesa un vaso de cristal a puntas de diamante con ramitas y hojas pintadas (del arbusto llamado “miseria”),
+—Siéntese ahí… no, allí. ¿Quiere beber algo?
+—No es necesario.
+—Ya. ¿De qué serviría?… Entonces, ¿vamos?
+—Si usted cree.
+Estaba erguida junto a la ventana, al sol. Vaciló… ¡Ah! ¿Por fin vacilaba? En realidad no vacilaba de acuerdo con mis esperanzas sino por cualquier otro motivo que se me escapaba y que ya me excitaba.
+—¿Me desnuda usted o me desnudo yo?
+—Mire… No querría ponerle las manos encima, no es eso lo que deseaba.
+—Pero deseaba besarme o besar…
+—Sólo con la boca.
+—Sí, comprendo. Todo esto no tendría sentido si no me desnudase yo. Nada se consumaría si no me desnudase yo.
+—“Consumar” es una palabra muy seria. Usted es inteligente. ¿No lo será de manera equivocada o incauta?
+—Podría ser, podría ser. Claro que soy inteligente, lo bastante como para morir cien veces al día… Entonces, me desnudo. Preste atención y cóbrese cumplidamente. Después yo seré libre… y desesperada.
+—¡Pero qué cosas dice!
+—Espere un momento y lo verá.
+Empezó a desnudarse con estudiada lentitud. Primero se quitó la capa, luego se sacó por debajo el vestido (negro), y se quedó grácil, seductora, entre encajes baratos, los brazos desnudos y la plenitud del suspirado pecho. De sus axilas salían pelos brillantes no menos procaces que los ocultos, pues no uno sino tres, cuatro, tal vez cinco lugares dolientes y protegidos tienen las mujeres, contando los labios con su irresistible vello.
+—Entonces, ¿seguimos?
+—¡Sí, por Dios! —fue mi grito excitado.
+Cada vez más lentamente bajó el tirante izquierdo de la combinación, sosteniendo esta última (único diafragma, como sabía, a mi primer deseo) con una mano. Volvió a mirarme tétrica y con una expresión interrogativa, como esperando algún gesto mío de impaciencia. Luego quitó la mano dejando caer el ligero tejido y, por fin, el cordial pecho izquierdo tuvo nuevo nacimiento y libertad.
+—Ahí lo tiene —añadió con desolada sencillez.
+Un pecho. ¿Pero era un pecho de mujer ese algo que, desnudo y abyecto, abyectamente desnudo, desnudamente abyecto, estaba ante mí en la luz dorada? Al contrario, soeces arrugas marcaban hacia la punta aquella pálida carne, hinchada, pero como si estuviera enferma. Marchita, enferma, parecía la aréola que en un pecho verdaderamente femenino tiene viveza de encía y aquí estaba rodeada de largos pelos negros. Y como último horror, como última ignominia, en el sitio del pezón (suprema gala) había una especie de oscura y fláccida grieta, semejante a la boca de un viejo desdentado.
+—Éste es el del corazón.
+—Éste es el del corazón —repitió ella con histérica alegría, casi en llanto—. Pero es justo que le enseñe también el otro. Mire.
+En efecto, descubrió el otro también, que era hermano del uno.
+—Pues bien —continuó—. ¿Aún tiene ganas de besarme en este, mire, en este punto? ¡Animo! Estoy aquí, no me echo atrás, le he dicho. Estoy dispuesta a pagar mi deuda.
+Por mi parte, yo ya había decidido. Ignoraba, es cierto, por qué ella estaba reducida a aquel estado y por ello de qué modo concreto o por qué medio debía ofrecerle consuelo, pero sobre la necesidad, sobre la urgencia de hacerlo no tenía la menor duda. ¿Había sido un vulgar accidente lo que la había afeado en uno de los lugares en que habría debido acampar más triunfante su orgullo de hembra? ¿O era el irresponsable decreto de una suerte gratuitamente maligna? Poco importaba. En breve, acabé abandonándome al curso de mis sentimientos, tan distintos de los previstos.
+—Claro que tengo ganas de besarla, y precisamente ahí donde usted dice. Venga.
+—¡Al diablo! —exclamó brutalmente sin moverse—. ¿Es que yo me merezco la injuria de su piedad, yo, que me he mostrado a usted, y bien puedo decirlo, que me he dado como ninguna otra habría sabido? Ya ve —siguió febrilmente—, ya ve si soy una mujer que paga hasta el último céntimo, pero conténtese con esto sin echarme en cara su piedad. Nadie le obliga a besar un pezón… que no existe. Nadie me obliga a mí a sentir, a través de su beso asqueado, más hiriente mi humillación… Diga. ¿Es qué la cuenta no está ya saldada?
+—¿Pero de qué piedad me habla? —me opuse un poco desmayadamente—. Usted se engaña. No se trata de piedad.
+—¿De qué entonces?
+—Mire… Ante todo, ¿no puede admitir que, siguiendo un deseo nuestro, una imagen pueda sustituir a otra o, mejor, la imagen de antes durar más allá de su propia ruina? “Símbolo de busca” la llama, aunque poco alegremente, alguien. Allí en la calle me sentí atraído por su pecho saltarín, y éste podría para mí no ser distinto al que me imaginé, podría no llegar a serlo a pesar de todo y a despecho de toda posterior apariencia… ¿Me explico? ¿Comprende algo de mis confusas palabras?
+—Sí, comprendo. Comprendo que nunca hubo piedad mejor motivada, más solícita y consoladora que la suya. Se lo agradezco, sí, de nuevo tengo que estarle agradecida.
+—¡No, no es eso!
+—Sí que lo es, si reflexiona sobre ello y suponiendo que sea sincero. A menos que usted sea una especie de pervertido.
+¿Pervertido? En cierto sentido, tal vez. Pues la verdad es que mi inicial repugnancia se iba transformando en una avidez, no sé si triste o legítima. Deseaba con todas mis fuerzas coger con mi boca aquel pobre pecho. Cogerlo con la boca bestialmente. Quién sabe si al chuparlo no podría persuadir al oculto pezón y con su irrumpir devolver la paz, en parte, a aquella mujer humillada. Pero, claro, también podía desear otra cosa.
+—¿Y si lo fuese? —repliqué al fin—. ¿Si fuese una especie de pervertido?
+Estaba ante mí con la pechera de la combinación caída. Criatura sin culpa ultrajada por el Alguien. Ofendida, amargada y maleada hasta el punto de haber llegado a exhibir su vergüenza a un desconocido. Pero a mi frase (y no ciertamente por su mérito), de improviso…
+No olvidaré la luz que encendió sus ojos. Luz de improviso dulce, confiada.
+—¿Usted un…? —murmuró palideciendo—. No —gritó—. ¡Sería demasiado hermoso! No estoy acostumbrada, no estoy acostumbrada a nada semejante. ¿Una coincidencia tan afortunada? ¡Imposible!
+Era sencillo, pero de momento no comprendí. Al darse cuenta de ello, prosiguió.
+—En ese caso yo podría tener esperanza. Para uno al menos yo sería una mujer. Ya no tendría que rechazar horrorizada, ni tragarme la piedad de ese uno. El me querría tal como soy al encontrar en mí, precisamente, su propio placer. No tendría que vencer su propia náusea, al contrario, me desearía. ¡Oh, Dios! ¡Me de-se-a-ría!
+Y ahora, habiendo por fin oído, a mí sólo me habría faltado decir: “¡Animo! Yo soy ese uno”. Pero, por el contrario, el mismo sentimiento un poco perverso que ahora mismo me había empujado hacia su carne obscena me empujó a una cruel y tortuosa investigación, cuyo motivo aparente podía ser tanto el propósito de agotar mi excitación como llegar al fondo de su amargura (permitiéndole descargarse). Para empezar, y con manifiesta inconsciencia:
+—Pero todos la desean.
+—¡Vestida! —sollozó en obvia respuesta.
+—¿Por qué? ¿Es que acaso le ha ocurrido…?
+—Sí, me ha ocurrido. Me han pedido amor con ojos naturalmente brillantes, y cuando…
+—¿Y fueron muchos?
+—No, claro. Uno, uno sólo y me bastó.
+—¿Quién?
+—¡Quién! ¿Quiere su nombre y su dirección?
+—No, disculpe. ¿Qué clase de hombre?
+—Bello, joven… amado. Aún iba a la escuela. Todavía llevaba apoyados en las caderas paquetes de inútiles libros, pero ya tenía estos muslos largos, mi talle ya se había soltado, mi pecho ya se había hinchado. Mi pecho, ya ve, éste… Y lo amaba por su belleza, por la terca voluntad de dominio que encerraba en sí, pero también por su extraviado deseo, es decir, por mí misma. Lo amaba sin conocerme, sin valorar el infranqueable estridor que puede producirse entre nosotros y los demás, como si el hecho de que yo fuera de un cierto modo debiera resultarme garantía suficiente de mi derecho a la vida, de mi felicidad… Aquella noche llovía. También él llevaba sus libros, que dejó en el mostrador de un puesto de periódicos cerrado bajo cuyo tejado habíamos buscado refugio. Y me miró. Y yo, ignorante, yo, ignorante… No lejos, entre los plátanos del jardín público, el quiosco de la música. Lo alcanzamos. Anochecía. Anocheció del todo durante nuestros escarceos. Y quiso desnudarme el pecho, este pecho.
+—¿Qué dijo?
+—¡Nada, nada! ¿Qué tenía que decir? Es más, me besó hasta donde yo le permití hacerlo.
+—¿Y?
+—¡Santo Dios! Sus preguntas no tienen ningún sentido. Nada, sólo que sus besos me bastaron para siempre.
+—¿Por qué? Dígamelo todo.
+—¡Qué bueno es usted! Sin duda quiere librarme de mí misma… Sus besos estaban llenos de asco, eso fue todo, y yo los sentí de ese modo. ¡Nada más, nada más! —rió locamente—. Y desapareció o, más bien, yo desaparecí.
+En efecto, no había nada más que decir. Había obtenido de ella su última humillación, que, por lo demás, esperaba que le hiciera bien y ahora, a mi vez, me tocaba seguir adelante, tocar el fondo.
+—Venga aquí.
+Seguía allí, con el busto desnudo, semejante a una gran Diana cazadora cuyo artífice, insatisfecho, hubiera querido destruirla arrojando contra ella el martillo. Al tener la combinación metida, en parte, en la cintura, la falda se había subido un poco descubriendo algo de los muslos por ella misma alabados. Volvió a mirarme insegura, pero ya sin rastro de su dolorosa perversidad (lo que representaba ya un gran resultado).
+—¿Lo dice en serio?
+—Venga.
+Dio tímidamente un paso: el decisivo, por ser, además, el primero. Pero ahora el problema era si yo sabría con mi beso no alarmarla de nuevo y no volverla a arrojar a su infierno. Porque, en verdad, ¿de qué estaba hecho mi ansioso deseo de besar su deformidad? De asco, sin embargo, aunque trastornado, exaltado o sublimado y casi prenda de socorro. ¿De modo que de nuevo sabría ocultarle a ella su fundamental e infamante naturaleza?… Pero, por otra parte, ese mismo asco parecía necesario como parte integrante de mi perversión, que, a su vez, era para aquella mujer, como si dijéramos, la única garantía, la única posible orientación de su alma capaz de excluir la piedad y de establecer una relación no mentida… Al final ya no comprendía nada. Me confié al azar.
+Avanzó otro paso, se echó en mis brazos. La tomé por la cintura o, mejor, por los huesos de las caderas.
+—¡Qué piernas tan largas y pálidas!
+—Sí. ¿Son bonitas, eh? —Aunque no carente del todo de amargura, su tono ya era femenino.
+—¡Y qué cabellos!
+—Sí, sí. Vivos, suaves, brillantes, ¿no?
+—¡Qué boca!
+—Apuesto a que es de coral —bromeó algo cansadamente, pero con indulgencia—. ¿A que es generosa y prometedora? Claro, todo lo demás está en su sitio y como debe ser.
+—Cállese y acérquese más.
+—¿Más cerca que así? ¿Cómo podría?
+—En seguida lo verá.
+La volví ligeramente para que me ofreciese aquel siniestro pecho izquierdo, el cual (yo sentado y ella de pie) quedó así a la altura de mis labios, a medio palmo… ¿Y por qué seguía vacilando? No había más que arrojarse de cabeza al abismo, olvidándolo todo, no concediéndose tiempo para temer ni siquiera por ella… El indecente pezón oculto o nunca manifiesto y que mi imaginación suponía como un obsceno animal anidado en la grieta de una resquebrajada muralla, parecía acecharme desafiante desde su cubil, mientras algo así como un deslumbramiento me hacía ondear ante los ojos la absurda figura de la muchacha medio desnuda… No obstante, yo, tranquilo, quería todo eso precisamente. ¿Por qué entonces sentía en una parte misteriosa por mí mismo discutido que ese beso mío era cada vez más indiscutible? ¿No estaba yo a punto de experimentar, con la turgencia de la buena acción cumplida, la acre sensación de la violación y, tal vez también, deleites ignotos y preciosos?
+La besé. Ni siquiera a ella misma. Besé allí, allí. Tampoco sé bien lo que pasó en mí: demasiado, seguro que algo abrumador, que precipitaba sobre mí estrepitosas apariencias o sentimientos. Sé que ella murmuraba:
+—¡Ah! ¿Es verdad? ¿Entonces es verdad?
+Y a mi beso la sentí responder con todas sus fibras.
+Bueno, pues el resto, naturalmente, no cuenta. Si aludo a él es por gusto o, tal vez, por indagar ociosamente cuánto el consiguiente puede comprometer al antecedente en los castillos de naipes de nuestros afectos.
+Ella era de nuevo presa de la esperanza, pero tanto vale decir en seguida que ya en ese punto tuve vergüenza y remordimiento de mi mezquino éxito. En efecto, reflexionemos un poco: la esperanza es un sentimiento falaz por naturaleza. Y no basta: ella cometió el grave error de encariñarse conmigo, cuando está claro que estos mínimos episodios de nuestra vida no tienen ni pueden tener historia. A largo plazo, ¿qué iba a hacer yo con ella y, principalmente, ella conmigo? Todo acaba mal, ya se ha dicho, y así todo se resquebrajó, como la “frágil muralla” de su pecho.
+Parece como si tuviéramos que contentarnos con gozos ambiguos, errados y, por añadidura, fugaces.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

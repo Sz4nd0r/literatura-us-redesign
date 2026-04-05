@@ -1,0 +1,57 @@
+---
+layout: story
+title: Los baños de aire
+slug: km_aire
+source: https://www.literatura.us/idiomas/km/km_aire.html
+tags:
+  - km_aire
+  - km
+---
+Katherine
+Mansfield
+(Nueva Zelandia, 1888 -
+Francia, 1923)
+Los baños de aire (1911)
+(“The Luft Bad”)
+Originalmente publicado en The New Age (24 de marzo de 1911);
+In A German Pension
+(Londres: Stephen Swift and Company, 1911, 251 págs.)
+Creo que el aspecto algo grotesco del lugar se debía a las sombrillas.
+Cuando entré por primera vez en aquel recinto y vi a mis compañeras de baño paseando por la arena casi en cueros, pensé que las sombrillas daban al ambiente una pincelada de «Pequeño Negro Sambo».
+Eran de algodón color verde y el mango terminaba en una cabeza de loro, rabiosamente roja. Las bañistas las mantenían por encima de sus cabezas con una ridícula dignidad, mucho más ridícula si se tiene en cuenta que sólo tapaban una pequeñísima parte de su cuerpo con un pedazo de ropa poco mayor que un pañuelo de bolsillo.
+En «Luft Bad» no había árboles. El terreno era completamente llano. Había unas cuantas casetas de madera, dos columpios y pocas cosas más. Paseábamos o bien nos sentábamos en pequeños grupos, y la mayor parte del tiempo lo invertíamos en criticar los defectos de conformación de nuestras vecinas, que lo sucinto de sus atavíos dejaba generosamente al descubierto.
+Una alta tapia de madera cercaba completamente el recinto. Por encima de la misma se divisaban los pinos que flanqueaban el camino que conducía a «Luft Bad». Al otro lado de la tapia, a mano derecha, se hallaba la sección de hombres. A través de un intersticio entre dos tablones podíamos observarles haciendo gimnasia, levantando unas enormes pesas, mientras entonaban canciones no aptas para todos los oídos. Sus atuendos, excepto las sombrillas, se diferenciaban poco de los nuestros.
+Confieso que, el primer día, la posibilidad de mostrar mis piernas completamente al desnudo me tenía sumamente avergonzada. No me atrevía a salir de la caseta hasta que una de las habituales del lugar, una dama con la que había jugado al ajedrez algunas veces, me llamó a través de los delgados tabiques de madera.
+Hice de tripas corazón, salí y me uní a uno de los grupos.
+A los pocos instantes de estar allí sentada, una dama húngara de aspecto imponente comenzó a hablar de la magnífica tumba en que estaba enterrado su segundo marido.
+—Es una cripta —decía— con unas primorosas rejas negras. Y tan espaciosa que podría pasearme perfectamente por su interior. Hay una hermosa fotografía nuestra, enmarcada por una corona que me envió el hermano de mi primer marido. Yo voy con frecuencia a visitarla: los sábados por la tarde, especialmente, constituye una agradable excursión.
+Se levantaba de repente, se colocaba las manos a la espalda, aspiraba profundamente seis o siete veces y volvía a sentarse.
+—Su agonía fue algo horrible —añadió—; me refiero a la de mi segundo marido. El primero se fue al otro mundo en muy poco tiempo, pero el segundo estuvo muriéndose durante setenta y siete horas. Yo no dejé de llorar ni un instante, desde luego...
+Una joven rusa, con unos hermosos rizos que le caían sobre la frente, se volvió hacia mí.
+—¿Sabe usted bailar la danza de «Salomé»? —me preguntó—. Yo la bailo bastante bien.
+—¡Qué estupendo! —contesté.
+—¿Quiere que la baile ahora mismo? ¿Le gustaría verlo?
+Sin esperar mi respuesta se puso en pie y por espacio de diez minutos realizó una serie de sorprendentes contorsiones. Cuando acabó la «danza», estaba sin aliento.
+—¿No es magnífico? —exclamó—. Además, ahora estoy completamente sudada y una ducha me sentará muy bien.
+Enfrente mío había una mujer morena que permanecía tumbada de espaldas, completamente inmóvil, con los brazos por debajo de la nuca.
+—¿Hace mucho tiempo que viene usted aquí? —le pregunté.
+—¡Oh, sí! Paso largas temporadas en este lugar —me contestó—. Esto forma parte de mi tratamiento. Me alimento exclusivamente de hortalizas y de nueces, y tengo la sensación de que mi espíritu es cada día más vigoroso y más puro. La mayoría de la gente vive en condiciones horribles, respirando un aire lleno de miasmas e ingiriendo alimentos nocivos para su cuerpo y para su alma. Lo que me extraña es que no haya más enfermos y más locos de los que ya existen. Yo procuro vivir de una manera sencilla. —Señaló una pequeña bolsa que tenía a su lado—: Una lechuga, una zanahoria, una patata y un puñado de nueces, constituyen una alimentación racional. Lo como todo crudo, tal como sale de la tierra, incontaminado y fresco.
+—¿Y no toma nada más en todo el día? —me asombré.
+—Agua. Y, algunas veces, si me despierto durante la noche, un plátano. —Se volvió de lado y se apoyó sobre un codo—. Usted come demasiado y se está perjudicando de un modo horrible —prosiguió—. ¡Es vergonzoso! ¿Cómo puede esperar que se encienda en usted la Llama del Espíritu bajo esos montones de carne superflua?
+Yo deseaba que dejara de mirarme y estaba a punto de levantarme y marcharme de allí cuando una muchacha muy joven, que llevaba un collar de cuentas de coral, se unió a nosotras.
+—La pobre Frau Hauptmann no ha podido venir hoy —manifestó—. Tiene los nervios completamente destrozados. Ayer se excitó mucho escribiendo dos tarjetas postales.
+—Está algo delicada —intervino la húngara—, pero es una mujer sumamente agradable. Lo que le falta a la pobre Fancy es un poco de energía. Es incapaz de imponerse a sus hijas para que dejen de usar esos descarados trajecitos que llevan a todas horas. Se sientan en cualquier banco y cruzan sus piernas de un modo sumamente desvergonzado y provocativo, enseñando los muslos. ¿Adonde han ido ustedes esta tarde, Fräulein Anna?
+—¡Oh! —dijo el Collar de Coral—. Herr Oberleutnant me invitó a acompañarle a Lansdorff. Necesitaba comprar algunos huevos. En ocho huevos consiguió que le rebajaran un penique. Es indudable que sabe cómo hay que regatearles a los campesinos.
+—¿Es usted americana? —me preguntó de repente la Dama Vegetariana.
+—No.
+—Entonces, es usted inglesa, ¿verdad?
+—Bueno, no del todo...
+—Tiene que ser usted una de las dos cosas, no puede ocultarlo. La he visto pasear sola muchas veces. Además, usted...
+Me puse en pie y me dirigí hacia uno de los columpios. El aire, de una tibia dulzura, me excitaba de un modo delicioso. Por encima de mi cabeza, unas nubes blancas discurrían perezosamente por el azul del cielo. De los pinos cercanos llegaba un perfume selvático, en tanto que sus ramas se balanceaban suavemente al impulso de la brisa. Yo me sentía ligera, libre y feliz. Y, sobre todo, ¡tan joven!
+—¿No sabe usted —me gritó alguien— que el ejercicio del columpio es muy perjudicial para el estómago? Un amigo mío estuvo tres semanas sin poder retener la comida a consecuencia de la excitación que le producía el columpiarse...
+Renuncié definitivamente a continuar allí y fui a vestirme.
+Ahora creo que las sombrillas son lo único que presta algún atractivo al «Luft Bad». Y, si alguna vez me da por ir allí, me envuelvo en el impermeable de mi marido y me siento en un rincón, lo más escondida posible.
+Y puedo asegurar que no es porque me sienta avergonzada, ni mucho menos, de enseñar mis piernas.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

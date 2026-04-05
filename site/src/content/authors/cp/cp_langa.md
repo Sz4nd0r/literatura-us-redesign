@@ -1,0 +1,29 @@
+---
+layout: story
+title: La Langa
+slug: cp_langa
+source: https://www.literatura.us/idiomas/cp_langa.html
+tags:
+  - cp_langa
+  - cp
+---
+Cesare Pavese
+(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
+La Langa
+(“La Langa”, 1941)
+Originalmente publicado en Il Messaggero de Roma (5 de octubre de 1941)
+y en Il Secolo XIX de Génova (1 de noviembre de 1941);
+reproducido en Feria d’agosto (1946)
+Tutti i racconti (2002)
+Yo soy un hombre muy ambicioso y dejé de joven mi pueblo, con la idea fija de convertirme en alguien. Mi pueblo son cuatro barracas y mucho barro, pero lo cruza la carretera provincial donde jugaba de niño. Como —repito— soy ambicioso, quería recorrer el mundo y, llegado a los parajes más lejanos, volverme y decir en presencia de todos: “¿No habéis oído nombrar nunca esas cuatro casas? Pues bien, ¡yo vengo de allá!”. Ciertos días estudiaba con mayor atención de la normal el perfil de la colina, después cerraba los ojos y fingía estar ya camino adelante evocando con pelos y señales el conocido paisaje.
+Así anduve por el mundo y tuve cierta suerte. No puedo decir que me haya convertido en alguien, no más que cualquier otro, porque conocí tantos que —unos por un motivo, otros por otro— han llegado a ser alguien que, si aún estuviera a tiempo, dejaría de buen grado de devanarme los sesos en pos de esas quimeras. Actualmente mi ambición siempre insomne me sugeriría distinguirme, si acaso, con la renuncia, pero no siempre uno puede hacer lo que quisiera. Baste con decir que viví en una gran ciudad e hice incluso muchos viajes por mar, y un día que me encontraba en el extranjero estuve en un tris de casarme con una chica guapa y rica, que tenía mis mismas ambiciones y me quería mucho. No lo hice porque hubiera debido establecerme allá y renunciar para siempre a mi tierra.
+En cambio, un buen día regresé a casa y volví a visitar mis colinas. De los míos no quedaba ya nadie, pero los árboles y las casas estaban, y también alguna cara conocida. La carretera provincial y la plazuela eran mucho más angostas de como las recordaba, más a ras de tierra, y lo único que no había menguado era el lejano perfil de la colina. Las tardes de aquel verano, desde el balcón del hotel, miré con frecuencia la colina y pensé que en todos aquellos años no me había acordado de enorgullecerme de ella como había proyectado.
+Me ocurría ahora, si acaso, jactarme con viejos paisanos del mucho camino que había recorrido y de los puertos y las estaciones por donde había pasado. Todo esto me inspiraba una melancolía que no experimentaba hacía tiempo, pero que no me desagradaba.
+En estos casos uno suele casarse, y por el valle corría, en efecto, la voz de que había regresado para elegir mujer. Diversas familias, incluso campesinas, se hicieron visitar para que viese a sus hijas. Me gustó que en ningún caso trataran de parecer distintos de como los recordaba: los aldeanos me llevaron a la cuadra y sacaron de beber a la era, los burgueses me acogieron en la salita en desuso y estuvimos sentados en círculo entre los pesados cortinajes aunque era verano. Tampoco estos me desilusionaron: ocurría que en ciertas hijas que bromeaban cohibidas reconocía las inflexiones y las miradas que había visto chispear en las ventanas o en los umbrales cuando era chiquillo. Pero todos decían que era una gran cosa acordarse del pueblo y volver como hacía yo, y alababan las cosechas y la bondad de la gente y del vino. Hasta el carácter de los paisanos, un carácter singularmente bilioso y taciturno, era citado e ilustrado interminablemente, tanto que me hacía sonreír.
+No me casé. Comprendí enseguida que si me llevaba conmigo a la ciudad una de aquellas chicas, incluso la más despierta, habría tenido mi pueblo en casa y no habría podido ya recordarlo como ahora me apetecía de nuevo. Cada una de ellas, cada uno de aquellos campesinos y propietarios, eran solo una parte de mi pueblo, representaban un chalet, una finca, una ladera sola. Y, en cambio, yo lo tenía en la memoria todo junto, yo mismo era mi pueblo: bastaba con que cerrase los ojos y me concentrase, no ya para decir: “¿Conocéis aquellas cuatro casas?”, sino para sentir que mi sangre, mis huesos, mi aliento, todo estaba hecho de aquella sustancia y que al margen de mí y de aquella tierra no existía nada.
+No sé quién ha dicho que cuando se es niño es preciso andar con cuidado al hacer proyectos, porque estos se cumplen siempre en la madurez. Si eso es cierto, una vez más significa que todo nuestro destino está ya impreso en nuestros huesos, antes aún de que tengamos la edad de la razón.
+Por mi parte, estoy convencido de ello, pero a veces pienso que siempre es posible cometer errores que nos obligarán a traicionar ese destino. Por eso tanta gente se equivoca al casarse. En los proyectos del chiquillo jamás hay nada, evidentemente, a este respecto, y la decisión se toma arriesgando el propio destino. En mi pueblo se burlan de quien se enamora; a quien se casa, lo alaban, siempre que no mude en nada su vida.
+Reanudé pues mis viajes, prometiendo en el pueblo que volvería pronto. En los primeros tiempos lo creía, de tan nítidos como estaban en mi cerebro las colinas y el dialecto. No tenía necesidad de contraponerlos con nostalgia a mis ambientes habituales. Sabía que estaban allá, y sobre todo sabía que yo venía de allá, que todo lo que de aquella tierra importaba estaba encerrado en mi cuerpo y en mi conciencia. Pero ahora han pasado años y he aplazado tanto mi regreso que casi no me atrevo a coger aquel tren. En mi presencia mis paisanos comprenderían que los he burlado, que los he dejado charlar sobre las virtudes de mi tierra solo para recuperarla y llevármela conmigo. Comprenderán ahora toda la ambición del chiquillo que habían olvidado.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

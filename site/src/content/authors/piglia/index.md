@@ -7,4 +7,28 @@ tags:
   - index
   - piglia
 ---
-¿Quién es Ricardo Piglia? ![](/assets/images/rp.jpg) Ricardo Piglia nació en Adrogué, provincia de Buenos Aires en 1941. Profesor, narrador, crítico literario, guionista. Ha sido profesor en la Universidad de Buenos Aires, en la Universidad de Princeton, en la Universidad de California en Davis. También dirigió la revista Literatura y Sociedad. En 1967, su colección de cuentos La invasión mereció una Mención Especial en el VII Concurso de Casa de las Américas (el jurado estaba intregrado por Mario Benedetti, Enrique Lihn, Jesús Díaz y Dalmiro Sáenz). En 1995 elaboró el texto de una ópera, con música de Gerardo Gandini, basada en su novela La ciudad ausente (1992). En 1997, recibió el Premio Planeta por su novela Plata quemada (el jurado estaba integrado por Augusto Roa Bastos, Mario Benedetti, Tomás Eloy Martínez y María Esther de Miguel). Murió el 6 de enero de 2017 en Buenos Aires. Novela: Respiración artificial (1980). Prisión perpetua (nouvelles, 1988). La ciudad ausente (1992). Plata quemada (1997). Blanco nocturno (2010). Relatos: La invasión (1967). Nombre falso (1975). Ensayos Crítica y ficción (1986). La Argentina en pedazos (1993). Formas breves (1999). Diccionario de la novela de Macedonio Fernández (2000). Antologías: Las fieras (Antologia del policial argentino, 1999). ÍNDICE: Narrativa: La invasión (1967): Tarde de amor La pared Una luz que se apaga En el terraplén La honda Mata Hari 55 Las actas del juicio Mi amigo La invasión Tierna es la noche Nombre falso (1975): Nota preliminar El fin del viaje El Laucha Benítez cantaba boleros La caja de vidrio La loca y el relato del crimen El precio del amor Nombre falso Respiración artificial (1980): Capítulos 1 y 2 Blanco nocturno (2010): Capítulos 1 y 2 (Primera Parte, Capítulo 1 (PDF)) Antología personal (2014): Cuentos morales: El gaucho invisible La nena El Laucha Benítez Un pez en el hielo El joyero 
+
+¿Quién es Ricardo Piglia?
+
+![](/assets/images/rp.jpg)
+
+Ricardo Piglia nació en Adrogué, provincia de Buenos Aires en 1941. Profesor, narrador, crítico literario, guionista. Ha sido profesor en la Universidad de Buenos Aires, en la Universidad de Princeton, en la Universidad de California en Davis. También dirigió la revista Literatura y Sociedad. En 1967, su colección de cuentos La invasión mereció una Mención Especial en el VII Concurso de Casa de las Américas (el jurado estaba intregrado por Mario Benedetti, Enrique Lihn, Jesús Díaz y Dalmiro Sáenz).
+
+En 1995 elaboró el texto de una ópera, con música de Gerardo Gandini, basada en su novela La ciudad ausente (1992). En 1997, recibió el Premio Planeta por su novela Plata quemada (el jurado estaba integrado por Augusto Roa Bastos, Mario Benedetti, Tomás Eloy Martínez y María Esther de Miguel). Murió el 6 de enero de 2017 en Buenos Aires. Novela: Respiración artificial (1980). Prisión perpetua (nouvelles, 1988). La ciudad ausente (1992). Plata quemada (1997). Blanco nocturno (2010). Relatos: La invasión (1967).
+
+Nombre falso (1975). Ensayos Crítica y ficción (1986). La Argentina en pedazos (1993). Formas breves (1999). Diccionario de la novela de Macedonio Fernández (2000). Antologías: Las fieras (Antologia del policial argentino, 1999).
+
+ÍndiceNarrativa
+ La invasión (1967):
+Tarde de amor La pared Una luz que se apaga En el terraplén La honda Mata Hari 55
+
+Las actas del juicio Mi amigo La invasión Tierna es la noche Nombre falso (1975):
+
+Nota preliminar El fin del viaje El Laucha Benítez cantaba boleros La caja de vidrio La loca y el relato del crimen El precio del amor Nombre falso Respiración artificial (1980):
+Capítulos 1 y 2
+
+Blanco nocturno (2010):
+Capítulos 1 y 2 (Primera Parte, Capítulo 1 (PDF))
+
+Antología personal (2014):
+Cuentos morales: El gaucho invisible La nena El Laucha Benítez Un pez en el hielo El joyero

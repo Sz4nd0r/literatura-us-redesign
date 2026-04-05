@@ -1,0 +1,128 @@
+---
+layout: story
+title: Matías el telegrafista
+slug: matias
+source: https://www.literatura.us/onetti/matias.html
+tags:
+  - matias
+  - onetti
+---
+Juan
+Carlos Onetti
+(Montevideo, 1909 - Madrid,
+1994)
+Matías el telegrafista
+Originalmente publicado en Macedonio (Buenos Aires), 1970
+Cuando en casa de María Rosa, Jorge Michel contó una vez más, ante varios testigos, la historia o sucedido a Atilio Matías y María Pupo, sospeché que el narrador había llegado a un punto de perfección admirable, amenazado sin dudas por la declinación y la podredumbre en previsibles, futuras reiteraciones.
+Por eso, sin propósito mayor, intento transcribir ahora mismo la versión referida para preservarla del tiempo; de sobremesas futuras.
+El sucedido, que no es relato ni roza la literatura, es, más o menos, éste:
+Para mí, ya lo saben, los hechos desnudos no significan nada. Lo que importa es lo que contienen o lo que cargan; y después averiguar qué hay detrás de esto y detrás hasta el fondo definitivo que no tocaremos nunca. Si algún historiador atendiera el viaje del telegrafista quedaría satisfecho consignando que durante el Gobierno de Iriarte Borda, el paquebote «Anchorena» partió del puerto de Santa María con un cargamento de trigo y lana destinado a países del este de Europa.
+No mentiría; pero la mejor verdad está en lo que cuento aunque, tantas veces, mi relato haya sido desdeñado por anacronismos supuestos.
+El viaje habrá durado unos noventa días y tal vez pueda, con algún trabajo, recitar el rol de la tripulación; el nombre de él, del telegrafista, se me olvidó en el principio, arrastrado por un odio supersticioso. Lo bautizo Aguilera en esta página para contar cómodo. Del nombre de ella, aunque no llegué a verla, no me olvidaré nunca: María Pupo, de Pujato, departamento de Salto.
+—Qué querés. Se llama apenas María Pupo —como decía el telegrafista. Aguilera.
+«A la luz de las estrellas es forzoso navegar», empezó a cantar alguno una mañana, mientras blanqueaba una puerta y de inmediato se corrió la infección, todos canturreando lo mismo, usando la frase como saludo, respuesta, broma y consuelo. A la luz de las estrellas es forzoso navegar. Misteriosamente, la tonada lograba ser más estúpida que la letra.
+Usted, uno, cuando le llega la hora de siempre es de amanecer, trepa la planchada con un rollo obligadamente azul golpeando desafiante en el lomo, insomne, hambriento pero con náuseas, todavía un poco borracho y vigilando los movimientos de la cerveza tibia en el estómago, atento también al lento desvanecer del recuerdo, cara, pelo, piernas, mano contraída y maternal de la puta que le tocó en suerte bajo un techo de lata ondulante. Son los ritos, no más, una tímida, inflada prepotencia, tradición marinera.
+Y usted, uno, ya pesado de pronósticos sobre la suerte del carguero y las peripecias húmedas, muestra documentos y saludos humildes mientras examina, casi sin mover los ojos, las caras novedosas y va tanteando lo que ellas pueden ofrecerle como ayuda, molestia o desgracia.
+Reunidos, hipócritas y propensos a la paciencia, escuchamos al capitán que habló de patria, sacrificios y confianza. Hombre discreto y aburrido levantó un brazo, nos deseó un buen viaje y nos pidió, sonriendo, que procuráramos darle un buen viaje también a él.
+Estábamos tan agradecidos porque no había bobeado más de tres minutos, que hicimos, firmes, la venia militar en un barco mercante y balamos un hurra.
+Corrí para asegurarme al gringo Vast como compañero de cabina. Pero era tarde, los lugares habían sido distribuidos un día antes y en la puerta de mi vomitario, encontré una tarjeta con dos nombres: Jorge Michel-Atilio Matías.
+Bañados y frescos, era inevitable que estuviéramos a las siete y treinta frente a frente, cada uno sentado en su cucheta, cada uno con la inutilidad pesada de las quietas manos de hombre entre las rodillas. De manera que Matías, el telegrafista —«tengo que irme en seguida al puesto»— tosió sin flemas, y dijo:
+(Era, y para siempre, diez años más viejo que yo; tenía la nariz larga, los ojos sin sosiego, una boca fina y torcida de ladrón, de tramposo, de adicto a la mentira, un cutis protegido del sol desde la pubertad, una blancura conservada en la sombra del chambergo. Pero encima de todo esto, como un abrigo permanente, hacía flotar la tristeza, la desgracia, la mala suerte encarnizada. Era pequeño, frágil, con bigotes caídos y suaves).
+—Tengo que tomar turno —repitió.
+Pero faltaba media hora para su idiotez de recibir telegramas sin sentido y teníamos una botella de ron puertorriqueño entre uno y otro.
+Mi primer embarque no tuvo otro origen que la necesidad de moverse. Este tercer embarque era distinto: era la huida por tres meses de La Banda, del patronazgo inverosímil del Multi, de las genuflexiones exactas de gente que yo había respetado y, en algunos casos, querido.
+Bajo la luz débil teníamos el ron, los vasos, los cigarrillos, mi ancla azul tatuada en el antebrazo.
+Dentro de media hora. De modo que Aguilera, Matías el telegrafista, dijo el principio de la verdad que él creía indudable, sin necesidad de presiones. Cautelosamente protegido por una fantástica desdicha empeñada en su ruina, algo habló, hizo confesión.
+Faltaban veinte minutos para empezar su guardia cuando balbució el olor del ron mientras hablaba. No era, lo supo él mismo, algo que pudiera clasificarse como manía de persecución, poner de lado y pasar a otra cosa. Porque, escuchen, Matías dijo, aproximadamente, o yo le estuve mirando en la cara triste —con su firme mueca de indignación infantil— las palabras que se le atoraban sin ser pronunciadas. Por ejemplo:
+—Usted conoce Pujato —entre seguridad y pregunta—. Usted que conoce Pujato, se tiene que dar cuenta de la diferencia y la estafa, entre el gris y el verde, por lo menos. Fue la Dirección de Telecomunicaciones y aquí le puedo mostrar los documentos, uno por uno, con el orden de las fechas, que por algo se me ocurrió guardar. Dirección Nacional o General de Telecomunicaciones. Llamado primero: llámase a concurso para proveer vacantes, creaciones, de radiotelegrafistas en el orden nacional. No le niego que yo tenía un amigo que manejaba el Morse, receptaba y transmitía con tanta facilidad y sin siquiera darse cuenta, como usted respira o camina o cuenta cosas. También de Pujato el amigo y por siglos de años telegrafista de la estación de ferrocarril. Con felicitaciones de los ingleses en cada inspección. Pujato, no se olvide, casi sin superior como la misma Santa María. Y el amigo quería jubilarse y dejarme el puesto como herencia de amistad. Así que en cuanto supo del aviso primero, aquí lo tienes, me dijo, el puesto es tuyo, se puso a practicarme y mucho antes del plazo reglamentario yo oía en Morse y movía los dedos en Morse. No era piano, no importaba que los hubiera estropeado, los dedos, en el trabajo de la chacra.
+Lo que había era un empleo de telegrafista en la estación de ferrocarril de Pujato. Lo que había era Pujato en paz hasta el fin de la vida. Pujato y mi casamiento con María, que no le hablo porque son cosas sagradas para un hombre.
+Pero de Pujato sí, una palabra que ya se lo dice todo. Ponga el dedo donde quiera: una mañana, una tarde. Alguna vez, quién sabe, en la misma madrugada. Pujato verde y amarillo, los chacareros mandando trigo y maíz con los camiones que algunos vuelcan a granel, hasta los silos cerca de la estación, pidiendo día, turno y vagones. Yo ahí, que les resuelvo los problemas con el Morse, mitad fastidiado, mitad divertido, nunca fastidiado de veras. Yo, y míreme como me vi, telegrafista y dueño, casado con María, que puede residir en la misma estación o estarme esperando en un chalet junto a la carretera.
+Usted lo ve, puede vernos, Pujato, mi señora y yo. Ahora vea el otro documento, que es el tercero, y el cuarto, donde está la trampa. Por el tercero, entre más de doscientos aspirantes yo quedo clasificado y dueño. Y en el cuarto documento, diez meses después, me mandan a radiotelegrafiar un barco, éste, tan lejos de todo lo que le dije. Alemania, Finlandia, Rusia, tantos nombres que tuve que aprender creyendo siempre que nada tenían que ver conmigo, ni en la escuela ni después.
+—Qué quiere que haga —desafió Matías el telegrafista—. ¿Que esté contento?
+Lo dejé ir, siguió con el ron, me dormí sospechando enfermedades. A las seis de la mañana me despertaron con las adocenadas palabras groseras y muertas; foguista o fogonero bajé hasta mi infierno sin ver a Matías y casi olvidado.
+Alguien dispuso para los días siguientes que ocupáramos el camarote en horas distintas y apenas nos viéramos separados por la mesa larga del almuerzo. De modo que el destino vigiló atento la existencia de Matías y me obligó a postergar mi réplica optimista y cristiana, mi alborada del gracioso hasta pocas horas antes de Hamburgo, calor, pequeñas faltas de disciplinas, odios imprecisos, salivazos por palabras.
+Ya dije o pensé que era una historia de embarcados y sólo ellos podrán entenderla de verdad. Agrego, sin disculpa, que muchas veces, en puertos o verdadera tierra firme quise explicar y convencer que todos, ciudadanos, montañeses y labriegos de llanura somos embarcados. Muchas veces y fracasando siempre.
+Esto se dice para que ustedes se acerquen a comprender por qué desde que el barco salió del puerto de Santa María empecé a sentir la indiferencia, el desvío, el mal cubierto desprecio de los tripulantes, de mis amigos de otros viajes.
+Tal vez exagere porque las palabras son siempre así, nunca exactas, un poco más o un poco menos. Pero sí, estoy seguro, saludos más cortos, silencios soportados con paciencia, sonrisas sin ojos, conversaciones desviadas.
+Porque yo, sin otra culpa que la de vivir en el camarote que me habían impuesto, era para ellos el amigo de Matías el telegrafista, el socio del fracaso, la sombra de la mala suerte.
+Y de nada me servía burlarme de Matías frente a ellos y el mismo Matías. La enfermedad, el destino enemigo del hombre de Pujato se me habían contagiado —ellos lo creían o sospechaban— y era prudente imponerme el cordón sanitario, la cuarentena. De modo que injustamente tuve que sentirme emparentado con Atilio Matías y navegar a su lado en un mar de hostilidad y persecuciones. Él, Matías el telegrafista, desde su principio hasta su fin; yo, durante un viaje de tres meses.
+—Y fíjese adonde nos mandan —me dijo en algún encuentro inevitable—. Nos mandan al frío, un frío de muerte tan distinto al que tenemos, un suponer, en un invierno de Pujato. Piense en la piecita del radiotelegrafista en la estación del ferrocarril, con mate hirviendo y el brasero y algún amigo con temas de verdad para conversar, que a lo mejor trajo una botella de grapa, aunque yo no soy tomador.
+Y era inútil exagerar el número de veces que yo había hecho el mismo rumbo, los mismos puertos, en idéntico raes del año.
+—Mire que ahora en Finlandia mismo, en Hamburgo, en Bakú, la gente anda en mangas de camisa y las mujeres en los balnearios esperan la luz de la luna para bañarse desnudas.
+No me creía, simplemente; le estaba prohibido aceptar la bondad del verano y alzaba los hombros para sacudirse toda posibilidad de optimismo. Ni siquiera contestaba; yo le sabía pensar: María Pupo, Pujato, o al revés.
+Por allá arriba del incendio de las calderas alguien llevaba con escrúpulo al día, a la hora, el diario de bitácora. El mío era distinto, como siempre sucede en Hamburgo.
+Cuando en la rada, una mañana casi mediodía de verano, caminé enérgico para buscar la parada de tranvías, oigo los pasos persecutorios, la voz resuelta:
+—Oiga, Michel. ¿Usted para dónde va?
+—Para el otro lado. Estoy enfermo de ganas de Sanpauli. Mujeres y algo más fuerte que cerveza para olvidarme que soy un embarcado, y que otra vez mañana de noche las calderas. Pero usted, Matías, va al hotel Kaiser, le oí decir. Tiene que cruzar la calle, va para el otro lado, toma otro tranvía.
+Estuvo bamboleando la sonrisa que se opone, aceptando, sin embargo, a la mala suerte. Debe ser fácil si uno se acostumbra. Después dijo y no llegaba ningún tranvía:
+—Hágame un favor.
+—No —le dije—, me voy a Sanpauli, tengo hambre de Sanpauli y si quiere venga.
+Fue inútil, porque él no me oyó, porque él, Matías, llevaba años en el ejercicio de la desesperación impura.
+—Usted puede hacerme un favor y después va y se emborracha. No se lo dije en toda la navegación, pero hoy es el cumpleaños de María. Si me ayuda le mando un telegrama.
+—Perdone. ¿Por qué no manda un radio desde el barco? ¿Por qué no se vuelve y lo manda?
+Ni siquiera me miró. Hizo una sonrisa mientras caminaba y me habló paciente, de padre a hijo:
+—Catorce. El artículo catorce prohíbe toda comunicación de carácter personal, salvo situaciones de gravedad manifiesta que deben contar con el visto bueno por escrito del capitán o el jefe de estación.
+—Claro, perdone —traduje.
+Desde donde estábamos no se podía ver la ciudad; apenas unas torres cuadradas metidas en el sol. Pero yo la estaba oliendo, le sentía el gusto en la boca seca y puedo jurar o prometer que Sanpauli me llamaba. Pero no; su desdicha, la de Matías el telegrafista, fue más poderosa que mi hambre de humo y venga lo que venga junto a una enorme mesa redonda. Vencieron Pujato y María Pupo.
+—¿Telégrafos? —empecé, para ceder y cubrir la vergüenza—. Sí, aquí cerca, dos cuadras, tenemos uno.
+—Entonces, si me acompaña. Es un momento. Fíjese que no hablo el idioma y usted sí se defiende.
+De manera que caminamos hacia Correos y Telégrafos, a cada paso más lejos de Sanpauli.
+Consideremos, entonces, que la fraulein del mostrador de Telégrafos había nacido allí, cuarenta o cincuenta años atrás, y que los anteojos, las arrugas, la boca en media luna blanca y amarga, la mismísima voz de macho pederasta eran, como su alma, un producto de suelo miserable, de amor absurdo por el trabajo y la eficiencia, de una fe indestructible acrecida por el misterio que prometían y vedaban las letras T.T.
+Así, y con rapidez satisfactoria, desde el dialecto pujatense, atravesando mi inglés de marinero, hasta el alemán perfecto de la fraulein, el mensaje decía, traducido, algo como María Pupo. Pujato. Santa María. Felicidades te desea Matías.
+Ella lo escribió con tres carbónicos, cobró tres marcos o cuatro y nos dio copia y recibo.
+Estábamos otra vez en la calle y era el tiempo del hambre del almuerzo, y todos los tranvías se pusieron a correr hacia Sanpauli y sus promesas. Ahora la voz no estaba saliendo de Matías el telegrafista, sino de mi hambre, mi debilidad, mi apaciguada nostalgia. La voz decía:
+—Oiga, Michel. ¿Usted entiende de grafología?
+—En un tiempo jugué a que sabía. Pero nunca supe de verdad.
+—Pero, claro, usted sabe o por lo menos se da cuenta. Piense en la cara de la mujer.
+—No.
+—Sí, también a mí me repugna. Tres marcos cuarenta y un marco es más que un dólar. Y ni siquiera pasó el telegrama a máquina, lo escribió con birome y aquí tenemos la copia. Mire un poco, aunque siga porfiando que no entiende.
+En un cruce de calles, en el temor de que la tarde empiece con los estómagos vacíos. Quise pegarle y no pude, dije palabras sucias y lo llevé de un brazo.
+Todo, cualquier cosa; pero siempre en Hamburgo, en la más increíble esquina, habrá un delicatessen esperando. Cerveza y platitos escandinavos. Ahí, sobre la mesa, sostenida abierta por los pulgares de Matías estaba la copia del telegrama a María Pupo, Pujato.
+—Fíjese con calma —dijo Matías—. Primero, la mujer, la cara de mal bicho atravesado que usted comparte conmigo.
+Tomé cerveza, me llené la boca con mariscos de nombre ignorado y me rendí a una súbita, irresistible admiración por la inteligencia sutil de Matías, revelada a cambio de cuarenta y seis días de quemarme las manos en las tripas del barco, consciente de que en la misma cáscara, sobre la misma ola, separado apenas por chapas delgadas de acero y madera, viajaba la tristeza inconsolable del hombre de la radio.
+—La cara para empezar —siguió Matías— y ahora tenemos la grafología, y aunque usted me porfíe que no entiende, las dos cosas se juntan y son indiscutibles. Resultado, y disculpe, que la gringa esa me quiere joder. Más claro: que ya me jodió y se quedó con el dinero, que no me importa porque tengo mucho, y no mandó ningún telegrama. Por la cara, por la grafología, y porque yo soy radiotelegrafista diplomado y algo entiendo de esas cosas.
+El inglés de los embarcados es un idioma universal; y siempre sospeché que algo semejante ocurre con el whisky en toda latitud y altura, se trate de alegría, desdicha, cansancio, aburrimiento. Matías estaba loco y yo no tenía a nadie próximo para unirlo al asombro y regocijo del descubrimiento. De modo que asentí moviendo la cabeza, aparté la jarra de cerveza y pedí whisky. Lo servían así: una botella, un balde con pedazos de hielo, un sifón.
+Y yo no tenía un amigo para susurrarle la locura deslumbrante de Matías que había decidido callarse por un tiempo, tragar frutos del mar y cerveza.
+Seguía siendo casi el mismo: diez años más viejo que yo, la nariz larga, los ojos inquietos, una boca fina y torcida de ladrón, de tramposo, de adicto a la mentira, pequeño, frágil, con bigotes caídos y suaves. Pero ahora había enloquecido o ahora mostraba sin pudor una locura antigua y encubierta.
+Era ya de tarde cuando decidí interrumpirle las reiteraciones respecto a caras, intuiciones, tildes sobre las letras.
+—A la luz de las estrellas es forzoso navegar —le dije—. Y como usted tiene tanto dinero, lo mejor, lo único que puede hacer, si aprecia respetuosamente el cumpleaños de su novia, lo único que puede hacer es caminar de vuelta al monstruo T.T. y pedir comunicación telefónica con Pujato.
+—Desde Hamburgo —preguntó amargo, con la ironía sin gracia de los perseguidos.
+—Desde Hamburgo y por T.T. Lo hice mil veces. Se oye mejor que si usted hablara desde la misma Santa María.
+Su lucha era entre la esperanza y la incredulidad atávica. Burlándose, se golpeó el rollo de billetes en el bolsillo del pantalón y me dijo: «Bueno, vamos», como si desafiara a un niño.
+Fuimos, yo apenas borracho y él con la resolución de que fuera demostrada, de una vez y para siempre y para él mismo, que toda máscara de la felicidad le había sido negada desde el principio de los días y que nada podría atenuar aquella su maldición particular de que sacaba orgullo y distinción bastantes para continuar viviendo.
+Las oficinas telefónicas funcionaban en el mismo edificio de los telégrafos, de la solterona que había estafado a Matías en algo así como tres marcos cuarenta guardándose por revancha y avaricia las palabras de feliz cumpleaños para María Pupo, Pujato.
+Pero los teléfonos estaban en otra ala, a la izquierda; uno remolcó al otro hasta llegar al mostrador, a la rubia delgada, joven y sonriente con ganas. Era una T.T.
+Dije, traduje, expliqué y ella me miraba lentamente y sin fe verdadera. Dije otra vez, silabeando, demostrándole sinceridad y una paciencia adecuada al paso del tiempo hasta el fin del mundo.
+Dudaba, ella, y terminó aceptando, blanqueándose la cara con la sonrisa exagerada y tal vez dolorosa. Es cierto que, todavía, vaciló un momento antes de la creencia y nos pidió:
+—Un momento, por favor —antes de saludar con la cabeza y abandonarnos el mostrador para desaparecer, también ella, tan joven, detrás de puertas y cortinas, más allá de la gran T.T.
+Luego apareció un T. T. mayor con anteojos rodeados de oro delgado y nos preguntó si era verdad lo que encontraba imposible:
+—Esta coincidencia, señores…
+Yo supe. No puedo saber qué pasaba dentro de Matías, de qué modo iba acomodando las postergaciones a su destino personal preferido. Yo estaba, dije, un poco borracho y brillante. Soportando otros interrogatorios, otros T.T. progresivamente mayores. Y yo repetí con candor, sin dudas, las respuestas correctas, porque al fin tuvimos, también nosotros, el privilegio de empujar cortinas y atravesar puertas hasta enfrentar al T.T. mayor, el verdadero y definitivo.
+Estaba, ya de pie, detrás de un escritorio enano, de madera negra, en forma de media herradura. Ayudado por el calor, el whisky de dos años, la locura recién llegada de Matías, pude creer un momento que el hombre nos estaba esperando desde que salimos de Santa María. Era alto y grueso, el hombre que fue campeón en las canchas de la Universidad de Greifswald y abandonó el deporte dos años atrás.
+Rubio, rojo, pecoso, amable y repugnante.
+—Señores —dijo. Yo simulé creer—. Me han dicho que quieren una ligazón telefónica con América del Sur.
+—Ya —dije, y nos pidió que usáramos las sillas.
+—Con América del Sur —repitió sonriéndole al techo.
+—Pujato, señor, en Santa María —le dije volviéndome para mirar a Matías y pedirle apoyo.
+Pero no había nada por ese lado. La locura del telegrafista había preferido, con astucia o rebelión definitiva, una expresión de ausencia, unos ojos vacíos, unos bigotes de seda, mustios y ajenos, estremecidos por el viento de la refrigeración. Él, Matías, no participaba, sólo era un testigo atento, zumbón, seguro de la derrota, indiferente, lejano.
+El hombre corpulento recitaba rodeado por la semiherradura de su mesa. Era mayor que nosotros, y muy pronto la alegría fraternal de su discurso se fue transformando en decencia y hastío.
+Ya estaba rodeado de funcionarios con expresiones dichosas y todos tomábamos café mientras él explicaba que la T.T. Telefunken, de la cual era un simple engranaje, acababa de poner a punto una nueva línea de comunicaciones entre Europa y Sudamérica; y que esta ocasión, la estremecida nostalgia de Matías, debía ser celebrada porque el llamado de amor que pretendíamos era el primero que iba a cumplirse, en realidad, aparte, claro, de las innumerables pruebas de los técnicos.
+Cuando se echó hacia atrás levantando un brazo vimos que toda la pared a sus espaldas era un enorme planisferio en el cual los rigores de la geometría decorativa no respetaban los caprichos de las costas. Y volvió a sonreír para decirnos que la celebración agregaba, a las tazas de café su carácter de gratuito, no más de tres minutos.
+Asentí con entusiasmo, dije palabras de gracias y felicitación, mientras pensaba que todo aquello era normal, que las inauguraciones siempre habían sido gratuitas para mí, mientras miraba la cara furtiva del telegrafista, su expectación acusadora.
+Hubo una pausa y el hombre grande empujó uno de los teléfonos hasta Matías. Era blanco, era negro y era rojo.
+Matías continuó inmóvil; y, si una burla puede ser seria, había burla en su perfil escurrido y en su voz.
+—María no tiene teléfono —dijo—. Llame usted, Michel. Llama al almacén y les pide que la busquen aunque no sé qué horas serán. Pregúnteles porque en una de esas es muy tarde y está durmiendo.
+Quería decir Pujato duerme. Hablé con el gerente, consultamos con Greenwich y supimos que apenas empezaba a ponerse el sol en Santa María. Mugidos de terneros por el lado de Pujato, las barreras de la estación cayendo con pereza y chirridos para esperar el tren de las 18.15 rumbo adentro, capital.
+Entonces, lento por premoniciones que actuaban como artritis, pensando en la libertad y Sanpauli, alargué el brazo y traje el teléfono hasta casi tocarme el pecho. Rígido, sin mirar nada que estuviera en la habitación, Matías habló con mis manos.
+—Es el 314 de Pujato. El almacén. Usted pide que la llamen.
+Luego de concretar instrucciones con el alemán principal hablé con la operadora. Con paciencia y reiteración el problema no fue difícil.
+No sé cada cuántos segundos y durante cuántos minutos la mujer me estuvo diciendo: «No se retire; llamando», o palabras equivalentes. Y entonces hasta el mismo Matías tuvo que alzar los ojos y apreciar el milagro que se iba extendiendo en la pared que era un planisferio. Vimos encenderse, allí mismo, en Hamburgo, la diminuta lámpara enrojecida; vimos otra que iluminaba Colonia; vimos sucesivamente, a veces con parpadeos, otras nuevas con una segura velocidad inverosímil; París, Burdeos, Alicante, Argel, Canarias, Dakar, Pernambuco, Bahía, Río, Buenos Aires, Santa María. Un tropiezo, un vaivén, la voz de otra señorita; «No se retire, llamando a Pujato, tres uno cuatro».
+Y por fin: Villanueva hermanos, Pujato. Era una voz tranquila y gruesa, de indiferencia y primer vermut. Pedí por María Pupo y el hombre prometió llamarla. Esperé sudoroso, resuelto a ignorar a Matías hasta el fin de la ceremonia, mirando el mundo iluminado con puntos de incendio detrás de la cara ancha, la sonrisa feliz del gerente rodeada, derecha, izquierda, por las sonrisas respetuosamente menores de los robots de la T.T. Telefunken.
+Hasta que hubo María Pupo en el teléfono y dijo: «Habla María Pupo, quién es».
+Soy inocente. Hablé amistoso pero nada atrevido, expliqué que su novio, Atilio Matías, deseaba saludarla desde Hamburgo, Alemania. Pausa y la voz de contralto de María Pupo, atravesando el mundo y los ruidos temblorosos de sus océanos:
+—Por qué no te vas a joder a tu madrina, guacho de mierda.
+Colgó el teléfono rabiosa y las lamparitas rojas se fueron apagando velozmente, en orden inverso al anterior, hasta que la pared planisferio volvió a incrustarse en las sombras y tres continentes confirmaron en silencio que Atilio Matías tenía razón.
+1970
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

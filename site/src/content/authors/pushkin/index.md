@@ -7,4 +7,55 @@ tags:
   - index
   - pushkin
 ---
-¿Quién es Aleksandr Pushkin? ![Aleksandr Pushkin](/assets/images/pushkin.jpg) Aleksandr Sergeyevich Pushkin (Александр Сергеевич Пушкин) es un narrador, poeta y dramaturgo, considerado como el mejor poeta ruso y el máximo representante del romanticismo en Rusia. Nació en Moscú, el 6 de junio (26 de mayo en el calendario juliano) de 1799. Su padre pertenecía a una de las familias más antiguas de la nobleza, por entonces empobrecida y alejada de la corte; la madre era nieta materna de Abraham Hannibal, un abisinio que fue regalado de niño a Pedro el Grande, y, por su abuela paterna, descendiente de la nobleza alemana y escandinava. Pushkin había sido confiado a enfermeras y tutores franceses, así que, hasta los diez años, la mayor parte del tiempo hablaba francés; tan sólo se familiarizó con el idioma ruso a través de la comunicación con los siervos domésticos y con su niñera. Realizó sus estudios en el Liceo Imperial de Tsárskoye Seló (creado por Alejandro I para los hijos de la aristocracia), cerca de San Petersburgo, entre 1811 y 1817. Su educación estuvo fuertemente influenciada por las enseñanzas liberales e individualistas kantianas de Alexander Petrovich Kunitsyn, y por el pensamiento de la Ilustración francesa, particularmente de Diderot y de Voltaire. Cuando Pushkin terminó la escuela, como parte de la primera clase de graduación del prestigioso Liceo, recitó su controvertido poema “Вольность. Ода” [Oda a la Libertad”]. En 1820, publicó su primer poema largo, Руслан и Людмила (“Ruslan y Ludmila”), con mucha controversia tanto por su tema como por su estilo. Estos y otros poemas, así como el compromiso de Pushkin con la reforma social y su posición literaria radical, enfurecieron al gobierno y fue exiliado de la capital, en mayo de 1820. Fue al Cáucaso y Crimea; luego a Kamianka y Chișinău, en Moldavia, donde estuvo hasta 1823, y donde escribió dos poemas románticos: Кавказский пленник [“El cautivo del Cáucaso”] y Бахчисарайский фонтан [“La fuente de Bakhchisaray”]. En 1823, Pushkin se mudó a Odessa, donde nuevamente se enfrentó con el gobierno, que lo envió al exilio en la finca rural de su madre, en Mikhailovskoye, cerca de Pskov. Allí vivió desde 1824 hasta 1826. Sin poder publicar y bajo la estricta vigilancia de la policía política del zar, Pushkin escribió la obra de teatro Борис Годунов (Boris Godunov), escrita en 1825, pero no pudo obtener permiso para publicarla hasta cinco años después, en 1831. En Mikhailovskoye también empezó a escribir su novela en verso Евгеній Онѣгинъ (Eugene Onegin), la cual fue serializada entre 1825 y 1832, y publicada en 1833. Después del levantamiento decembrista (1825), Pushkin se reunió con el zar Nicolás I, y obtuvo su liberación del exilio, aunque el zar retendía el control estricto de todo lo que Pushkin publicara y no podía viajar sin permiso. Entonces empezó a trabajar como el Consejero Titular de los Archivos Nacionales. En 1829, Pushkin viajó a través del Cáucaso hasta Erzurum para visitar a amigos que luchaban en el ejército ruso durante la Guerra Ruso-Turca. A finales de 1829, quería emprender un viaje al extranjero, y solicitó el permiso; pero recibió una respuesta negativa de Nicolás I, el 17 de enero de 1830. El 18 de febrero de 1831, Pushkin se casó, en Moscú, con Natalia Goncharova. El zar entonces le dio el título más bajo de la corte, Caballero de la Cámara, y Pushkin sintió que el zar tenía la intención de humillarlo. El matrimonio tuvo cuatro hijos: Maria (1832-1919), Alejandro (1833-1914), Grigory (1835-1905) y Natalia (1836-1914). Ese mismo año, Pushkin conoció a Nikolai Gógol. Cinco años después, en 1836, fundó la revista Современник [“El Contemporáneo”), donde publicaría algunos de los cuentos más famosos de Gógol. En 1836, Pushkin estaba endeudando y circulaban rumores de que su esposa le era infiel. El 4 de noviembre, desafió a un duelo a Georges d’Anthès (también conocido como Dantes-Gekkern); pero el padre adoptivo de d’Anthès pidió que el duelo se retrasara dos semanas. El duelo fue cancelado, y el 17 de noviembre, d’Anthès le propuso matrimonio a Natalia Goncharova, la hermana de Natalia Goncharova; el matrimonio no resolvió el conflicto. Georges d'Anthès continuó persiguiendo a Natalia Goncharova en público. Después que Pushkin enviara una carta insultante al padre adoptivo de d’Anthès, Jacob van Heeckeren. hubo otro desafío. E el duelo con d’Anthès tuvo lugar el 27 de enero en el río Negro. D'Anthès disparó primero: la bala entró en la cadera de Pushkin y penetró en el abdomen. Dos días después, el 29 de enero (10 de febrero) a las 14:45, Pushkin murió de peritonitis. Apenas tenía 37 años. ÍNDICE: Narrativa: Повести покойного Ивана Петровича Белкина [Cuentos del difunto Iván Petróvich Belkin] (1931): —El duelo [El disparo] (1831) —La nevasca [La tempestad de nieve] (1831) —El sepulturero (1831) —El maestro de postas (1831) —La señorita campesina (1831) Otros, inconclusos: —El negro de Pedro el Grande (1827) —Historia del pueblo de Goriújino (1837) —Róslavlev (1836) —Dubrovsky (1841) —La dama de pique [La dama de espadas] (1834) —Kirdzhalí (1834) —Noches egipcias (1837) —La hija del capitán (1836) —Viaje a Arzrum durante la campaña de 1827 (1836) Fragmentos: —Los invitados estaban llegando a la dacha… (1828-1830) —Novela en cartas (1829) —Estábamos pasando la tarde en la dacha… (1835) 
+
+¿Quién es Aleksandr Pushkin? ![Aleksandr Pushkin](/assets/images/pushkin.jpg) Aleksandr Sergeyevich Pushkin (Александр Сергеевич Пушкин) es un narrador, poeta y dramaturgo, considerado como el mejor poeta ruso y el máximo representante del romanticismo en Rusia. Nació en Moscú, el 6 de junio (26 de mayo en el calendario juliano) de 1799. Su padre pertenecía a una de las familias más antiguas de la nobleza, por entonces empobrecida y alejada de la corte; la madre era nieta materna de Abraham Hannibal, un abisinio que fue regalado de niño a Pedro el Grande, y, por su abuela paterna, descendiente de la nobleza alemana y escandinava.
+
+Pushkin había sido confiado a enfermeras y tutores franceses, así que, hasta los diez años, la mayor parte del tiempo hablaba francés; tan sólo se familiarizó con el idioma ruso a través de la comunicación con los siervos domésticos y con su niñera. Realizó sus estudios en el Liceo Imperial de Tsárskoye Seló (creado por Alejandro I para los hijos de la aristocracia), cerca de San Petersburgo, entre 1811 y 1817. Su educación estuvo fuertemente influenciada por las enseñanzas liberales e individualistas kantianas de Alexander Petrovich Kunitsyn, y por el pensamiento de la Ilustración francesa, particularmente de Diderot y de Voltaire.
+
+Cuando Pushkin terminó la escuela, como parte de la primera clase de graduación del prestigioso Liceo, recitó su controvertido poema “Вольность. Ода” [Oda a la Libertad”]. En 1820, publicó su primer poema largo, Руслан и Людмила (“Ruslan y Ludmila”), con mucha controversia tanto por su tema como por su estilo. Estos y otros poemas, así como el compromiso de Pushkin con la reforma social y su posición literaria radical, enfurecieron al gobierno y fue exiliado de la capital, en mayo de 1820. Fue al Cáucaso y Crimea; luego a Kamianka y Chișinău, en Moldavia, donde estuvo hasta 1823, y donde escribió dos poemas románticos: Кавказский пленник [“El cautivo del Cáucaso”] y Бахчисарайский фонтан [“La fuente de Bakhchisaray”].
+
+En 1823, Pushkin se mudó a Odessa, donde nuevamente se enfrentó con el gobierno, que lo envió al exilio en la finca rural de su madre, en Mikhailovskoye, cerca de Pskov. Allí vivió desde 1824 hasta 1826. Sin poder publicar y bajo la estricta vigilancia de la policía política del zar, Pushkin escribió la obra de teatro Борис Годунов (Boris Godunov), escrita en 1825, pero no pudo obtener permiso para publicarla hasta cinco años después, en 1831. En Mikhailovskoye también empezó a escribir su novela en verso Евгеній Онѣгинъ (Eugene Onegin), la cual fue serializada entre 1825 y 1832, y publicada en 1833.
+
+Después del levantamiento decembrista (1825), Pushkin se reunió con el zar Nicolás I, y obtuvo su liberación del exilio, aunque el zar retendía el control estricto de todo lo que Pushkin publicara y no podía viajar sin permiso. Entonces empezó a trabajar como el Consejero Titular de los Archivos Nacionales. En 1829, Pushkin viajó a través del Cáucaso hasta Erzurum para visitar a amigos que luchaban en el ejército ruso durante la Guerra Ruso-Turca. A finales de 1829, quería emprender un viaje al extranjero, y solicitó el permiso; pero recibió una respuesta negativa de Nicolás I, el 17 de enero de 1830.
+
+El 18 de febrero de 1831, Pushkin se casó, en Moscú, con Natalia Goncharova. El zar entonces le dio el título más bajo de la corte, Caballero de la Cámara, y Pushkin sintió que el zar tenía la intención de humillarlo. El matrimonio tuvo cuatro hijos: Maria (1832-1919), Alejandro (1833-1914), Grigory (1835-1905) y Natalia (1836-1914). Ese mismo año, Pushkin conoció a Nikolai Gógol. Cinco años después, en 1836, fundó la revista Современник [“El Contemporáneo”), donde publicaría algunos de los cuentos más famosos de Gógol.
+
+En 1836, Pushkin estaba endeudando y circulaban rumores de que su esposa le era infiel. El 4 de noviembre, desafió a un duelo a Georges d’Anthès (también conocido como Dantes-Gekkern); pero el padre adoptivo de d’Anthès pidió que el duelo se retrasara dos semanas. El duelo fue cancelado, y el 17 de noviembre, d’Anthès le propuso matrimonio a Natalia Goncharova, la hermana de Natalia Goncharova; el matrimonio no resolvió el conflicto. Georges d'Anthès continuó persiguiendo a Natalia Goncharova en público.
+
+Después que Pushkin enviara una carta insultante al padre adoptivo de d’Anthès, Jacob van Heeckeren. hubo otro desafío. E el duelo con d’Anthès tuvo lugar el 27 de enero en el río Negro. D'Anthès disparó primero: la bala entró en la cadera de Pushkin y penetró en el abdomen. Dos días después, el 29 de enero (10 de febrero) a las 14:45, Pushkin murió de peritonitis. Apenas tenía 37 años.
+
+ÍndiceNarrativa
+ Повести покойного Ивана Петровича Белкина [Cuentos del difunto Iván Petróvich Belkin] (1931): —El duelo [El disparo] (1831) —La nevasca [La tempestad de nieve] (1831) —
+
+El sepulturero (1831)
+—
+
+El maestro de postas (1831)
+—
+
+La señorita campesina (1831)
+Otros, inconclusos: —
+
+El negro de Pedro el Grande (1827)
+—
+
+Historia del pueblo de Goriújino (1837)
+—
+
+Róslavlev (1836)
+—
+
+Dubrovsky (1841)
+—La dama de pique [La dama de espadas] (1834) —
+
+Kirdzhalí (1834)
+—
+
+Noches egipcias (1837)
+—
+
+La hija del capitán (1836)
+—Viaje a Arzrum durante la campaña de 1827 (1836) Fragmentos: —Los invitados estaban llegando a la dacha… (1828-1830) —
+
+Novela en cartas (1829)
+—Estábamos pasando la tarde en la dacha… (1835)

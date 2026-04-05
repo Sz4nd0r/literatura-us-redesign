@@ -1,0 +1,141 @@
+---
+layout: story
+title: La mujer
+slug: mujer
+source: https://www.literatura.us/idiomas/lessing/mujer.html
+tags:
+  - mujer
+  - lessing
+---
+Doris Lessing
+(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
+La mujer (1957)
+(“The Woman”)
+The Habit of Loving
+(Londres:
+MacGibbon and Kee, 1957, 278 págs.);
+(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
+Los dos caballeros de edad avanzada aparecieron en la terraza del hotel en el mismo instante. Se detuvieron y reprimieron los movimientos que insinuaran su deseo de retirarse. Su primera mirada, involuntaria, expresaba sorpresa, incluso preocupación. Entonces dejaron que sus ojos intercambiaran un prolongado y formal atisbo de odio antes de alejarse el uno del otro.
+Inspeccionaron la terraza. ¡Problema! Solo una de las mesas quedaba todavía al sol. Se dirigieron muy tiesos hacia ella, apartaron las sillas y se sentaron. Desplegaron los periódicos a la vez y los alzaron a modo de cortina.
+Una bonita camarera se acercó tranquilamente a tomar nota de lo que iban a tomar. Los dos periódicos permanecieron inmóviles. Por el borde de uno de ellos, herr Scholtz pidió un vino caliente; al amparo del otro, el capitán Forster, de Inglaterra, eligió té con leche.
+Cuando la camarera regresó con las bebidas, dispuestas con esmero sobre bandejas de metal similares, las dos paredes de texto fueron derrumbándose poco a poco. Mientras sus ojos azules dirigían al oponente un agresivo destello de incomodidad, el capitán Forster dijo a la joven que la tarde era agradable. Herr Scholtz comentó, con afable camaradería, que era una lástima que una muchacha tan bonita no pudiera disfrutar de una tarde así. Herr Scholtz consideró que había vencido, a juzgar por la mirada jactanciosa que lanzó al inglés. Sin embargo, Rosa respondió a ambos comentarios con una sonrisa afable pero indiferente y se alejó hacia la baranda, donde se apoyó, impasible, dándoles la espalda.
+Remover el azúcar y sorber el vino resultaban tareas difíciles con aquellos rígidos papeles por medio. Primero herr Scholtz, y después el capitán, los plegaron y los colocaron sobre la mesa. Sin dejar de eludir los ojos del otro contemplaron las montañas, que Rosa tapaba en parte.
+Llevaba una blusa blanca con los hombros bajos, una falda negra con un minúsculo delantal blanco y unos elegantes zapatos rojos. Eran aquellos hombros lo que ambos caballeros miraban fijamente. Tosían, tamborileaban con los dedos en la mesa, entornaban los ojos con aire sentimental al contemplar las montañas, volvían a fijarse en Rosa. De vez en cuando sus ojos estaban a punto de encontrarse, pero los apartaban velozmente. Dado que no podían pelearse, el civismo les exigía que hablaran. Sí, la conversación parecía inminente.
+Habían llegado la misma mañana, una semana atrás, y les dieron sendas habitaciones, una frente a la otra, al final de un largo pasillo. La temporada casi había acabado y el hotel estaba medio vacío. Por eso Rosa disponía de todo el tiempo que le reclamaba herr Scholtz: pidió toallas más grandes, otros almohadones, un vaso de agua. Pero pronto la campana empezó a repicar al otro lado del pasillo, y ella se excusó y se apresuró hacia el capitán Forster, que también estaba insatisfecho con lo que habían dispuesto para su comodidad. Antes de que hubiera acabado con él, la campana de herr Scholtz ya estaba sonando de nuevo. Entre los dos mantuvieron a Rosa ocupada hasta el mediodía, y ella no insinuó ni en una ocasión, con su habitual cordialidad, que tenía otros deseos que satisfacer en este mundo que ajustar la lámpara de lectura del capitán Forster o llevar cigarrillos y periódicos a herr Scholtz.
+Aquella primera tarde, el capitán abrió casualmente la puerta de su habitación y se encontró con que podía ver el interior de la estancia de enfrente, con Rosa junto a la ventana, sonriendo, en lo que le pareció una deliciosa claudicación ante herr Scholtz, que acercaba la mano hacia el codo de ella. La mano se retiró. Herr Scholtz, con el entrecejo fruncido, cruzó la habitación y cerró la puerta indignado, como si el capitán tuviera la culpa de que hubiera quedado abierta… Pero los dolorosos celos del capitán amainaron casi al instante, ya que Rosa salió por la puerta con una sonrisa de perfecta indiferencia y le deseó un buen día.
+Esa noche, ya muy tarde, se oyeron pasos rápidos por el pasillo. Las dos puertas se abrieron con sigilo a la vez, y Rosa, a medio camino entre ambas, sonrió tranquilamente primero a herr Scholtz y después al capitán; ambos se dirigieron una mirada despectiva cuando ella hubo pasado y cerraron de un portazo.
+Al día siguiente, herr Scholtz preguntó a Rosa si le gustaría subir con él en el funicular cuando fuese su tarde libre. Pero lamentablemente ya estaba comprometida. Al día siguiente fue el capitán Forster quien le hizo la misma invitación.
+Ese primer incidente se repitió otra vez. Una noche en que, ya tarde, Rosa pasaba por el pasillo camino de su cama, las dos puertas volvieron a abrirse con cautela y los dos rostros insistentes aparecieron de nuevo. En esa ocasión ella se detuvo, sonrió con educación y les deseó buenas noches. Después bostezó. Fue un gesto pequeño pero muy bien calculado. Ambos caballeros se consolaron pensando que el rival se lo merecía. Herr Scholtz consideró que el capitán se había mostrado ridículamente torpe, mientras que este pensó que la actitud de herr Scholtz con respecto a Rosa era asquerosamente presuntuosa y ufana. Ambos consiguieron retirarse a sus camas con filosofía.
+A partir de entonces se pudo ver a herr Scholtz conversando con una viuda bien conservada de unos cincuenta años que, por desgracia, debía retirarse a su habitación a las nueve de la noche por razones de salud, y por lo tanto no podía ir a bailar con él, que tantas ganas tenía. El capitán Forster tomaba el té cada tarde en un café en el que servía una camarera encantadora que podría haber sido la hermana de Rosa.
+Los dos caballeros se observaban en el comedor y ambos cambiaban de acera si veían que el otro se acercaba. Había una mirada en ellos que daba a entender que Suiza —por lo menos a final de temporada— ya no era lo que había sido.
+No obstante, ambos seguían siendo gallardos. Y había que verlos observando la escena social de flirteos y fracasos y éxitos con la serena autoridad de los que están bien acreditados por su larga familiaridad con ello para evaluar y expresar opiniones. Hombres de peso, lo eran; hombres de principios; hombres que esperaban respeto.
+Y ahora… ahí estaban, sentados a cada lado de esa mesa a última hora de la tarde, con las montañas frente a ellos, moteadas de blanco y marrón y el verde de la tierna primavera, con el sol que, con timidez pero de un modo delicioso, los rodeaba con sus brazos; ¿seguro que tenían derecho a sentirse agraviados? El capitán Forster —un militar delgado, alto, de bronceado delicado, pulcro, bien peinado— todavía era apuesto, no cabía duda. Y herr Scholtz —corpulento, rotundo, cordial, con infinitos recursos fruto de la experiencia—, ¿no era evidente que valía para algo más que las confidencias a la hora del té de una viuda de cincuenta años?
+Era injusto tener sesenta años con una tarde de primavera así; en especial con Rosa a unos pocos pasos de distancia, encogiéndose de hombros con esa blusa bordada escotada.
+Y casi como si disfrutara con la crueldad, Rosa dejó de tararear y se inclinó hacia delante en la baranda. Con qué vivacidad gesticulaba y gritaba a la calle, donde un chico guapo, desde abajo, la saludaba y le respondía. Rosa lo vio alejarse a grandes zancadas, y después suspiró y se dio la vuelta, con una sonrisa ensoñada en el rostro.
+Allí estaban herr Scholtz y el capitán Forster, y la miraron con una comprensión llena de resentimiento.
+Rosa entornó rabiosa sus ojos azules, y su boca se dibujó afilada y fría, en terrible contraste con la ternura del momento anterior. Lanzó miradas gélidas a uno y a otro y volvió a bostezar. Esta vez fue un bostezo enorme, desdeñoso y prolongado; se dio unos golpecitos con la palma de la mano en la boca para enfatizarlo y expulsó el aire con una larga nota descendiente que, sin embargo, interrumpió pronto, como para dar a entender que ni siquiera tenía tiempo que perder con esa pequeña demostración. Luego pasó por delante de ellos haciendo crepitar el estampado almidonado y repiqueteando con los tacones. Y entró en el hotel.
+La terraza estaba vacía. Mesas de colores alegres, sillas de rayas, sombrillas floreadas; todo quedaba al fresco de la sombra, salvo la minúscula esquina donde estaban sentados los dos caballeros. En el mismo instante, movidos por un mismo impulso, se levantaron y arrastraron la mesa hacia el último foco de rayos dorados. Y entonces se miraron el uno al otro y rieron con franqueza.
+—¿Le apetece una copa? —preguntó herr Scholtz en inglés, y su sonrisa se tensó, consciente de un estoicismo arrepentido. Después de un instante de incertidumbre, durante el cual el capitán Forster pareció considerar que el estoicismo era un signo de derrota demasiado temprano, respondió:
+—Sí, sí, gracias; me apetece.
+Herr Scholtz alzó la voz con aspereza y Rosa salió de dentro, dispuesta a ponerse a la defensiva. Pero herr Scholtz ya no era un pretendiente. Pidió vino sin mirarla, como un señor ante el criado, como un hombre que solía dar empleo a los trabajadores. Y el capitán Forster era la viva imagen de un exquisito caballero.
+Cuando volvió a aparecer con el vino la camaradería entre ambos era tan profunda que bien podrían haber dicho en voz alta lo estúpido que era permitir que el sólido compañerismo entre hombres se malograra, aun durante una semana, a causa del ridículo encanto de las mujeres. Se reían a carcajadas de algún chiste. O mejor dicho, herr Scholtz se estaba desternillando; una buena carcajada desde las profundidades de un placer vigoroso. La risa del capitán Forster era ligeramente nerviosa; brotaba de la parte posterior de su garganta y sugería que la afable simpatía bávara de herr Scholtz estaba muy bien, pero que en cualquier relación siempre había lugar para las dudas.
+No tardó en revelarse que durante la guerra —la Primera Guerra Mundial, se entiende— habían sido enemigos en el mismo sector del frente por las mismas fechas. Herr Scholtz había sufrido heridas en el brazo. Lo descubrió, lo extendió y lo sostuvo debajo de la nariz del capitán, para que viese la gran cicatriz blanca. ¿Quién podía saber si había sido el capitán el que había asestado ese golpe —indirectamente, por supuesto— treinta y cinco años atrás? Pero no se trataba de eso. Durante la Segunda Guerra Mundial estuvieron a punto de destinar al capitán Forster al norte de África, donde sin duda habría tenido el placer de combatir contra herr —por ese entonces Oberst-leutnant— Scholtz. Pero las vicisitudes de la guerra lo enviaron a la India. Señalaban estas felices coincidencias con la mayor armonía por ambas partes, y si la risa del capitán tendía a aparecer un momento después de la de herr Scholtz, ello podía atribuirse con facilidad a las inevitables diferencias de temperamento. Antes de que hubiera pasado media hora mandaron a Rosa por la segunda botella de vino de un profundo color carmesí.
+Cuando regresó, dejó los vasos, la botella, y estaba a punto de retirarse cuando lanzó una mirada al capitán y se detuvo. La expresión de su rostro invitaba sin duda a observarla. Herr Scholtz solo estaba comentando, con esa simpatía sonriente y familiar, cuánto lamentaba que los «accidentes de la historia» —una frase que provocó que el rostro del capitán se tensara muy ligeramente— los hubieran convertido en enemigos en el pasado. Esperaba que en el futuro lucharan codo a codo, camaradas de armas enfrentados al único enemigo común posible… Pero entonces herr Scholtz calló, lanzó una mirada veloz al capitán y, después de una pausa muy breve, dijo que era un hombre de paz, un hombre modélico: producía innumerables tubos de pasta dentífrica para que llegaran a los cuartos de baño de su país, y no le pedía a la vida más que poder seguir haciéndolo. Además, ¿no había renunciado a su título militar, el de Oberst-leutnant, como prueba de su carácter profundamente civil?
+Como Rosa seguía ante ellos, contemplándolos con una mirada que solo podría calificarse de ambigua, herr Scholtz le preguntó con un tono insulso qué quería. Pero Rosa no quería nada. Después de preguntar si había algo más que pudiera hacer por los caballeros, se dirigió al fondo de la terraza, se inclinó sobre la baranda y se quedó mirando hacia abajo, a la calle, por donde el apuesto joven tal vez volvería a pasar.
+En ese instante se produjo una pausa. La mirada de ambos caballeros se posó dolorosamente en ella. Igual de doloroso resultaba el esfuerzo por retirarla. Entonces, como si recordaran que cualquier disputa personal era mucho más peligrosa que las nacionales, se sumieron con determinación en airosas reminiscencias. ¡Cuán agradable, decía esa efusiva sonrisa masculina, cuán agradable era estar ahí sentado en la acogedora, alegre y pequeña Suiza, cuán grato resultaba el compañerismo relajado después de un enfrentamiento así, después de esas hostilidades obviamente sin significando! Ciudadanos del mundo: eso es lo que eran, y no menos; seres humanos que disfrutaban de la amistad civilizada entre iguales. Y cada vez que herr Scholtz o el capitán sucumbían a la fatal atracción y dirigían la mirada hacia el fondo de la terraza, la retiraban rápidamente y mostraban sus dientes en una sonrisa, como una muestra más de amistad para con el otro lado de la mesa.
+Pero el destino no tenía la menor intención de que esta armonía perdurara. Así, los cuchillos volvieron a desenfundarse de forma aciaga. El joven apareció por el final de la calle y, sonriente, hizo gestos a Rosa. Ella se inclinó hacia delante, con los brazos sobre la baranda, viva imagen de una vergonzosa coquetería, meciendo arriba y abajo un talón por detrás y agitando el cabello hacia delante para ocultar la franqueza de su reacción.
+Allí estaba aún después de que él se hubiera alejado canturreando, siguiéndolo con la mirada. La servilleta almidonada que llevaba en el brazo refulgía a la luz solar; su luminoso delantal blanco resplandecía; sus abundantes rizos rubios relucían. Ahí estaba, bajo los últimos rayos del sol, y volvía la mirada hacia sus propios pensamientos, cantando para sí con dulzura, como si estuviera sola.
+Se había olvidado por completo de la existencia de herr Scholtz y el capitán Forster.
+El capitán y el ex Oberst-leutnant habían agotado, según parecía, sus recuerdos comunes. Uno carraspeaba; el otro, herr Scholtz, daba golpecitos fastidiosos en la mesa con el anillo.
+El capitán tiritaba.
+—Está refrescando —dijo, puesto que habían quedado ya bajo la sombra de la lánguida tarde. Inició un movimiento, como si fuera a levantarse.
+—Sí —respondió herr Scholtz. Pero no se movió. Durante un rato estuvo golpeteando la mesa con el anillo, lo que dio grima al capitán. Herr Scholtz sonreía. Era una sonrisa que anunciaba una nueva pauta en el drama. Sin duda. Y sin duda el capitán la reprobaba de antemano. Un tipo descarado, pensaba, realmente escandaloso y vulgar. Miró con impaciencia hacia el salón interior, donde probablemente se estaba caliente y tranquilo.
+Herr Scholtz comentó:
+—Siempre disfruto viniendo a este sitio. Vengo siempre aquí.
+—¿Ah, sí? —preguntó el capitán, dándole pie a pesar de sí mismo. Se preguntaba por qué herr Scholtz estaba hablando de repente en alemán. Herr Scholtz tenía un inglés excelente, que aprendió cuando lo destinaron a Inglaterra durante la última etapa de la Segunda Guerra Mundial. El capitán Forster ya lo había alabado por ello. En cambio, su alemán no era ni mucho menos tan fluido.
+Pero herr Scholtz tendría sus motivos; estaba hablando su propia lengua, y en un tono demasiado alto, cabría añadir. El capitán Forster lo miraba perplejo y le prestaba atención.
+—Me resulta especialmente agradable venir a este lugar —comentó herr Scholtz en ese tono de voz elevado, como si le hablara a un interlocutor íntimo que estuviera bastante sordo—, por los recuerdos felices que guardo de él.
+—¿En serio? —inquirió el capitán Forster, escuchándolo con nerviosa atención. Herr Scholtz, sin embargo, hablaba muy despacio, como muestra de consideración hacia él.
+—Sí —dijo herr Scholtz—. Durante la guerra, por supuesto, para nosotros dos era zona prohibida, pero ahora…
+El capitán lo interrumpió de repente:
+—De hecho, yo le tengo mucho cariño. Vengo cada año siempre que puedo.
+Herr Scholtz inclinó la cabeza, en un gesto que admitía que el capitán Forster tenía el mismo incontestable derecho que él, y prosiguió:
+—Asocio a él mis recuerdos más agradables; a lo mejor le gustaría…
+—Pero, por supuesto —se apresuró a asentir el capitán Forster. Dirigió una mirada involuntaria hacia Rosa; herr Scholtz hablaba con la vista fija en la espalda de la joven. Ella había dejado de canturrear. El capitán Forster se dio cuenta de la situación y al instante se sonrojó. Miró a herr Scholtz con gesto de protesta. Pero ya era demasiado tarde.
+—Tenía dieciocho años —dijo herr Scholtz en voz muy alta—. Dieciocho. —Hizo una pausa, y por un instante pareció resucitar, a la luz de su sonrisa triste y nostálgica, el encantador e ingenioso joven que sin duda había sido a esa edad—. Mis padres me dieron permiso, por primera vez, para irme solo de vacaciones. En contra de la voluntad de mi madre, pero mi padre, por otro lado…
+En este punto, el capitán Forster no pudo evitar una sonrisa que reconocía ese fenómeno internacional, los dulces celos de las madres.
+—Y estuve aquí diez días, completamente solo. ¡Imagínese!
+El capitán Forster, amablemente, se lo imaginó, pero casi al instante le interrumpió:
+—Es curioso, pero yo viví la misma experiencia. Aunque tenía veinticinco.
+Herr Scholtz exclamó:
+—¡Veinticinco! —Se contuvo en seco, ocultó su sorpresa y se encogió de hombros como diciendo: hay que ser comprensivo. Entonces continuó hablando a la atenta espalda de Rosa—. Estuve en este mismo hotel. Invierno. Vacaciones de invierno. Había una mujer… —Se quedó en silencio; sonrió—. ¿Cómo podría describirla?
+Pero el capitán no parecía muy dispuesto a ayudarlo. Incómodo, miraba con el entrecejo fruncido hacia Rosa. Su expresión era muy clara: ¿en serio tiene que hacerlo?
+Por lo visto herr Scholtz no se dio cuenta.
+—Yo no era, ni siquiera en esos tiempos, lo que llamaríamos tímido; ¿entiende? —El capitán hizo un gesto con los hombros que sugería que ser tímido a los dieciocho no era un problema, mientras que a los veinticinco…—. Era hermosa, hermosa —continuó con entusiasmo herr Scholtz—. Y sin duda era rica, una mujer de mundo; y su ropa…
+—Claro —dijo el capitán.
+—Estaba sola. Me contó que estaba aquí por cuestiones de salud. Su marido, por desgracia, no había podido venir, por razones de trabajo. Y yo también estaba solo.
+—Claro —dijo el capitán.
+—Incluso a esa edad no me sorprendió demasiado el rumbo de los acontecimientos. Una mujer de treinta años… un marido no mucho mayor que ella… y era hermosa… e inteligente… Ah, ¡era magnífica!
+Esto último casi lo dijo a gritos, y vació su copa con nostalgia mirando siempre a la espalda de Rosa.
+—¡Ah…! —suspiró emocionado—. Debo confesárselo. Todo eso ya fue muy agradable, pero ahora viene lo mejor. Escuche. Transcurrió una semana. ¡Y qué semana! La quise como nunca he querido a nadie…
+—Claro —dijo el capitán, inquietándose. Pero herr Scholtz prosiguió.
+—Y entonces una mañana me despierto y estoy solo.
+Herr Scholtz se encogió de hombros y lanzó un gemido.
+El capitán se dio cuenta de que herr Scholtz se estaba entusiasmando con su propio gozo. Esa historia solo beneficiaba a medias a Rosa. Ese gemido de gran dramatismo, herr Scholtz debería dedicarse al teatro, pensó molesto el capitán.
+—Pero dejó una carta, y cuando la leí…
+—¿Una carta? —le interrumpió el capitán.
+—Sí, una carta. Me dio las gracias de tal modo que las lágrimas asomaron a mis ojos. Lloré.
+Cualquiera podría haber jurado que en aquel instante los sensibles ojos alemanes se inundaron de lágrimas, y el capitán Forster apartó la mirada y preguntó nervioso:
+—¿Qué decía en la carta?
+—Contaba lo mucho que odiaba a su marido. Se había casado con él en contra de su voluntad, para complacer a sus padres. En aquella época era algo común. Y se había prometido a sí misma que nunca tendría un hijo de él. Pero ella deseaba una criatura…
+—¿Qué? —exclamó el capitán. Ahora estaba inclinado sobre la mesa, atento a cada sílaba.
+Tal reacción le pareció inapropiada a herr Scholtz, que respondió secamente:
+—Sí, así fue. Esa fue mi suerte, amigo mío.
+—¿Cuándo sucedió? —inquirió ansioso el capitán.
+—¿Disculpe?
+—¿Cuándo fue? ¿En qué año?
+—¿En qué año? ¿Tiene alguna importancia? Me explicó que había podido arreglar esas vacaciones gracias a su mala salud, pero con el objeto de venir sola y encontrar al hombre adecuado como padre de su criatura. Me escogió a mí. Fui su elección. Y ahora me lo agradecía y volvía con su marido. —Herr Scholtz se interrumpió, triunfal, y miró a Rosa. Ella no se movió. No era posible que se hubiera perdido una sola de las palabras. Entonces miró al capitán. Pero el rostro del capitán estaba colorado y parecía muy perturbado.
+—¿Cómo se llamaba? —gritó el capitán.
+—¿Que cuál era su nombre? —Herr Scholtz se quedó en silencio—. Bueno, seguro que debió de usar un nombre falso, ¿no? —inquirió. Al ver que el capitán no respondía, dijo con firmeza—: No me cabe la menor duda, amigo mío. Y yo no sabía su dirección. —Herr Scholtz tomó un pequeño sorbo de vino, y luego otro. Miró pensativo al capitán durante un momento, como si se estuviera preguntando si podía confiar en que se comportara según las reglas, y después continuó—: Me dirigí al director del hotel, que me dijo que no tenía información alguna. La dama había partido de improviso esa misma mañana temprano, sin dejar ninguna dirección. Yo estaba desesperado. Puede imaginárselo. ¡Quería salir corriendo tras ella, encontrarla, matar a su marido, casarme con ella! —Herr Scholtz se rió con una indulgencia risueña, arrepentida, de las locuras de juventud.
+—Tiene que recordar el año —insistió el capitán.
+—Pero, amigo mío… —Herr Scholtz retomó la palabra, muy molesto, después de una pausa—. ¿Qué importancia tiene, después de todo?
+El capitán Forster dirigió una mirada fría a Rosa y habló en inglés:
+—Tal como le sucedió a usted, lo mismo me sucedió a mí.
+—¿Aquí? —preguntó educadamente herr Scholtz.
+—Aquí.
+—¿En este valle?
+—En este hotel.
+—Bueno —dijo herr Scholtz encogiéndose de hombros, y elevando aún más el tono de voz añadió—: Bueno, mujeres; ya sabe, mujeres. A los dieciocho, por supuesto; tal vez incluso a los veinticinco. —Y asintió con indulgencia hacia su oponente—. Incluso a los veinticinco, tal vez uno puede tomarse esas cosas como un milagro que solo le sucede a uno. Pero ¿a nuestra edad…?
+Se quedó en silencio, como si esperara, en contra de toda esperanza, que el capitán recuperara la compostura.
+Pero el capitán se había quedado sin habla.
+—Se lo diré, amigo mío —continuó herr Scholtz, saboreando de buen humor la historia—. Se lo diré: me desquicié. Pensé que iba a enloquecer. Quería matarme. Recorrí las calles de todas las ciudades en las que estuve, escudriñando cada rostro. Me fijaba en las fotografías de los periódicos: actrices, señoras de la alta sociedad. Seguía a mujeres que había visto fugazmente por la calle, y cada vez pensaba que podría ser ella. Pero no —dijo herr Scholtz con dramatismo, y apoyó la mano sobre la mesa, de modo que el anillo volvió a sonar—. ¡No, nunca, nunca salió bien!
+—¿Qué aspecto tenía? —preguntó en inglés el capitán, agitado; sus ojos angustiados buscaban los ojos, en ese momento ya muy irritados, de herr Scholtz.
+Herr Scholtz apartó la silla ligeramente hacia atrás, miró hacia Rosa y dijo en voz alta en alemán:
+—Bueno, era hermosa, tal y como le he dicho. —Hizo una pausa para pensar—. Y era aristócrata.
+—Sí, sí —respondió con impaciencia el capitán.
+—Era alta, muy delgada, con un cuerpo hermoso, ¡hermoso! Tenía el cabello negro, ya sabe, ¡negro, negro! Y ojos oscuros, y dientes hermosos. —Y mirando a Rosa, a gritos y despechado, añadió—: No era para nada una pueblerina. Uno tiene gusto.
+Con una incomodidad extrema, el capitán volvió su mirada hacia la rolliza pueblerina Rosa. Dijo intencionadamente en inglés, incluso a esas alturas:
+—La mía era bella. Alta y bella. Una chica encantadora. ¡Encantadora! —recalcó con una mirada feroz—. Debía de ser inglesa.
+—Lo cual sin duda la honraba —comentó herr Scholtz con una sonrisa.
+—Fue en 1913 —insistió el capitán, y añadió—: ¿Ha dicho que tenía el cabello negro?
+—Con toda certeza. Hubo esa ocasión, pero no fue mi única historia. —Se rió—. Tuve tres hijos con mi esposa, una buena mujer. Ya murió, por desgracia. —De nuevo las lágrimas acudieron a sus ojos. Y la indignación del capitán se intensificó. Pero herr Scholtz se había rehecho y seguía hablando—: Con lo que yo me pregunto, ¿cuántos hijos más, aparte de esos tres? A veces veo a algún muchacho por la calle con el que guardo cierto parecido y me pregunto: ¿será mi hijo? Sí, sí, amigo mío, es una pregunta que todo hombre debe plantearse en alguna ocasión, ¿no cree? —Inclinó la cabeza hacia atrás y soltó una carcajada, no sin cierto regusto de arrepentimiento.
+El capitán no habló al instante. Después dijo, en inglés:
+—Todo eso está muy bien. Pero aquello me sucedió, sucedió. —Su tono era el de un colegial insolente, y herr Scholtz se encogió de hombros—. Me sucedió aquí. En este hotel.
+Herr Scholtz reprimió su enfado, miró a Rosa y, por primera vez desde el comienzo de tan lamentable incidente, su voz descendió a un tono razonable y habló en inglés:
+—Bueno —dijo con ironía transparente, una ligera sonrisa y un leve encogimiento de hombros—, bueno, si fuéramos honrados, ¿deberíamos decir que esto es algo que le sucede a todo hombre? O incluso mejor: de no ser así, ¿deberíamos inventarlo?
+Y ahora, le dijo con la mirada al capitán, y ahora, ¡por Dios!, por el bien de la decencia, por la solidaridad masculina, por el bien de nuestra dignidad a los ojos de esta muchacha, que tanto nos ha herido a ambos, ¡cálmese, amigo, y piense un momento lo que está diciendo!
+Pero el capitán era olvidadizo.
+—No —insistió—. No. Hable por usted. Sucedió. Aquí. —Hizo una pausa y anunció, con dificultad—: Yo nunca me casé.
+Herr Scholtz se encogió de hombros por fin y se quedó en silencio. Después gritó:
+—Fräulein, fräulein, ¿me cobra? —Era el momento de poner fin a todo aquello.
+Rosa no se volvió de inmediato. Se pasó la mano por el cabello que le caía hacia la espalda. Se alisó el delantal. Cogió la servilleta del antebrazo y la colocó con esmero en el otro. Entonces se volvió y se dirigió, sonriente, hacia ellos. Era evidente que pretendía que se notara su sonrisa.
+—¿Desea usted pagar? —le preguntó a herr Scholtz. Habló un inglés deliberadamente pausado, y el capitán se sobresaltó y parecía bastante incómodo. Pero herr Scholtz se adaptó enseguida y respondió en inglés:
+—Sí, pago yo.
+Le dio la nota y sacó el cambio del monedero que llevaba debajo del delantal. Después de haber dejado la última moneda en la mesa, se quedó justo delante de ellos, lanzó hacia abajo una sonrisa, a ambos por igual, y sugirió en inglés:
+—¿Tal vez la dama se tiñera el cabello para satisfacer las preferencias de ambos? —Y entonces se rió. Se echó el pelo hacia atrás y soltó una resuelta risotada de entusiasmo.
+Herr Scholtz aceptó la derrota con ecuanimidad y esbozó una sonrisa triste, agradecida.
+El capitán estaba en su silla, rígido, y los miraba a ambos con ardiente hostilidad, aferrándose a sus propios y auténticos recuerdos.
+Pero Rosa siguió riéndose de él hasta que, rozándolos a ambos con su vestido, abandonó la terraza.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

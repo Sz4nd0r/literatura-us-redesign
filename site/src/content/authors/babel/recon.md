@@ -1,0 +1,56 @@
+---
+layout: story
+title: Reconciliación
+slug: recon
+source: https://www.literatura.us/idiomas/babel/recon.html
+tags:
+  - recon
+  - babel
+---
+Isaac Babel
+(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)
+Reconciliación (1923)
+[“Continuación de la historia de un caballo”]
+(“Продолжение истории одной лошади”)
+Originalmente publicado, como “Тимошенко и Мельников” [Tymoshenko y Melnikov],
+en Известия Одесского губисполкома
+[Boletín del Comité Ejecutivo Provincial de Odessa] (13 de abril de 1923);
+reimpreso en Красная новь, 3 (abril-mayo de 1924), págs. 28-29;
+Конармия [Caballería] [roja]
+(Moscú-Leningrado: Editorial del Estado, 1926, 170 págs.)
+Cuatro meses hacía que Savitski había
+despojado a Chlebnikof, el comandante del primer escuadrón, de su semental
+blanco. Chlebnikof había dejado el ejército después. Hoy recibió Savitski una
+carta de él:
+Yo no guardo ya rencor a la caballería de
+Budienny. Yo sé lo que he sufrido en el ejército y guardo el recuerdo en el
+corazón, más puro que un santuario. Y la masa trabajadora del territorio de
+Vitebsk, donde soy presidente del Consejo Revolucionario, le envía a usted,
+compañero Savitski, héroe famoso, su saludo proletario: “¡A la revolución
+mundial!”, y desea que el consabido semental blanco le lleve todavía
+muchos años por caminos suaves para bien de la amada libertad y de la república
+fraterna. Todo lo cual vigilaremos con ojo avizor, especialmente la
+administración en los pueblos...
+Contestación de Savitski:
+¡Fiel compañero Chlebnikof!
+La carta que me has escrito es muy
+laudable para la causa común, sobre todo si se tiene en cuenta el dolor con que
+tú te tapaste los ojos con tu propia piel y saliste de nuestro Partido
+Comunista Bolchevique. Nuestro Partido Comunista, compañero Chlebnikof, es un
+férreo cortejo de guerreros que derraman su sangre en las primeras filas, y
+cuando fluye sangre por el hierro ya no hay bromas: se trata de vencer o morir.
+Eso pasa con nuestra causa común, cuyo triunfo no presenciaré yo, pues la lucha
+es dura y cada dos días tengo que reponer los efectivos de mis jefes. Hace
+treinta días y treinta noches que cubro con la retaguardia, expuesto al
+inminente fuego de la artillería y de la aviación enemigas, el invencible
+primer regimiento de caballería. Ha muerto Tardy, ha muerto Luchmanikof, ha
+muerto Lykoschenko, ha muerto Gulevof, ha muerto Trunof, y el semental blanco
+ya no está conmigo; de manera que no puedes contar, compañero Chlebnikof, toda
+vez que la fortuna de la guerra es versátil, con ver otra vez a tu querido
+comandante de división Savitski. Como suele decirse, nos veremos en el cielo;
+pero como para los viejos no debe haber allá arriba un cielo sino un verdadero
+burdel, y como para gonorrea, bastante tenemos ya en la tierra, es probable que
+no nos veamos más. De manera que consérvate bien, compañero Chlebnikof.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

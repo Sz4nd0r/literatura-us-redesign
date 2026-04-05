@@ -1,0 +1,161 @@
+---
+layout: story
+title: Asesinato
+slug: js_ase
+source: https://www.literatura.us/idiomas/js_ase.html
+tags:
+  - js_ase
+  - js
+---
+John Steinbeck
+(27 de febrero, 1902 – 20 de diciembre, 1968)
+Asesinato (1934)
+(“The Murder”)
+Originalmente publicado en la revista The North American Review (abril 1934);
+The Long Valley
+(Nueva York: The Viking Press, 1938, 303 págs.)
+Sucedió hace años en el distrito de Monterrey, en California. El Cañón del Castillo es uno de los muchos valles que atraviesa la cordillera de Santa Lucía, entre cortaduras y riscos abruptos. Del cañón parten multitud de arroyuelos que parecen tallados en la roca viva, cañones disimulados bajo espesos robledales y vaguadas tapizadas de salvia grisácea. Al fondo del cañón de Santa Lucía se alza un formidable castillo de piedra, almenado y adornado con majestuosos torreones, como las fortalezas que dejaron los Cruzados en la ruta de sus conquistas. Pero una detenida visita al castillo basta para revelar que no se trata de una fábrica de arquitectura, sino del caprichoso resultado de la erosión natural del agua y del viento a través de los siglos. Desde lejos sus bastiones ruinosos, sus puentes levadizos, sus altas torres y sus aspilleras góticas se distinguen claramente, sobre todo si el espectador deja volar un poco su fantasía.
+Más abajo del lugar que ocupa el castillo, casi en el fondo del cañón, se halla el edificio de un viejo rancho, con su granero de troncos podridos y recubiertos de musgo y su semiderruido establo. La casa está abandonada desde hace tiempo; las puertas, moviéndose sobre sus goznes herrumbrosos, gimen y retumban las noches en que el viento baja con fuerza desde el castillo. Pocos viajeros visitan la casa. A veces una pandilla de chiquillos recorren sus habitaciones, asomándose a todos los rincones y desafiando a gritos a los fantasmas en los que dicen no creer.
+Jim Moore, el propietario de aquellas tierras, no quiere que nadie ronde la casa abandonada. Sale a caballo de su nuevo domicilio, más abajo del valle, y ahuyenta a los traviesos invasores. En todas las cercas hay letreros de “Prohibido el paso” que hacen que los curiosos se mantengan a distancia. Más de una vez he pensado en prender fuego al viejo edificio, pero parece haber algo especial en aquellas puertas gimientes y en aquellas ventanas de rotos cristales que hacen que sean salvadas de la destrucción. Porque si quemara la casa destruiría una parte importante de su vida, y sabe que cuando va a la ciudad del brazo de su esposa, regordeta pero todavía hermosa, la gente se vuelve a mirarlos con respeto y admiración.
+Jim Moore nació en la vieja casa y creció en ella. Conocía muy bien todos los maderos del establo y cada una de las vigas del granero. Sus padres murieron antes de que él cumpliera los treinta años. Había celebrado su mayoría de edad dejándose la barba. Al quedarse solo vendió todos los cerdos y decidió no tener nunca ninguno. Luego compró un toro de Guernesey para mejorar su ganado y empezó a acostumbrarse a visitar Monterrey los sábados por la noche, emborrachándose y divirtiéndose en compañía de las escandalosas bailarinas del Tres Estrellas.
+Al cabo de un año se casó con Jelka Sepic, una muchacha yugoeslava, hija de un tranquilo y modesto granjero del Cañón del Pino. A Jim no le gustaba mucho la familia de su mujer, con tantísimos hermanos y primos, pero sí la belleza de Jelka. Tenía unos ojos grandes e interrogadores que recordaban los de una gacela. Su nariz era fina y delicada y sus labios gruesos y blandos. La piel aterciopelada de Jelka era siempre una maravillosa sorpresa para Jim, quien olvidaba su encanto durante el día para volver a descubrirlo maravillado cada noche. Además, era tan paciente y cariñosa y un ama de casa tan perfecta que Jim no podía recordar sino con disgusto las palabras de su suegro el día de la boda. El viejo, que había bebido más cerveza de la que cabía en su cuerpo, dio a Jim un codazo en las costillas, mientras sonreía y sus ojuelos casi desaparecían entre los pliegues de su rostro hinchado y enrojecido.
+—No seas tonto, muchacho, Jelka es eslava. No es como una chica americana. Si se porta mal, pégale. Y si es buena demasiado tiempo, pégale también. Yo le he pegado a mi mujer y mi padre le pegaba a mi madre. Es eslava, no lo olvides. Necesita que el hombre le enseñe el látigo de vez en cuando.
+—Yo no sería capaz de pegar a Jelka —había contestado Jim.
+Su suegro soltó una risita y volvió a darle con el codo.
+—Te digo que no seas tonto. Con el tiempo lo comprenderás.
+Jim no tardó en descubrir que, efectivamente, Jelka era muy distinta de las chicas americanas. Era tranquila y apacible. Nunca hablaba primero, esperando a que lo hicera él para contestar a sus preguntas. Estaba pendiente de cuanto decía su marido como si se tratara de las Sagradas Escrituras. Cuando llevaban casados algún tiempo, era imposible para Jim encontrar algún deseo expresable en relación con su vida doméstica, porque todo había sido previsto por Jelka antes de que él pensara en pedirlo. Era una esposa como había pocas, pero resultaba imposible establecer un compañerismo con ella. Nunca hablaba. Sus grandes ojos seguían todos sus movimientos, y cuando él sonreía, ella sonreía también. Sus labores de punto y de costura eran interminables. A veces le parecía a Jim que tenía en Jelka a un útil animal doméstico, y acariciaba su nuca suave siguiendo los mismos impulsos que le llevaban a acariciar el largo cuello de su caballo.
+Como ama de casa Jelka era extraordinaria. Jim podía llegar a la hora más intempestiva con la certeza de que encontraría la cena preparada y caliente. Ella lo contemplaba mientras comía, retirándole los platos en cuanto estaban vacíos, y llenándole el vaso cuando lo apuraba.
+Al principio de estar casados él solía explicarle todo lo que sucedía en la granja, pero ella se limitaba a sonreír con la expresión de quien desea mostrarse agradable pero no entiende de qué le hablan.
+—El alazán se ha herido en la alambrada de espino —decía él.
+—Sí —contestaba ella sin que fuera posible adivinar si sentía algún interés por el asunto.
+Jim no tardó en comprender que no había manera de intimar con Jelka. Ella vivía una vida aparte, remota y completamente fuera de su alcance. La barrera que encontraba en el fondo de sus ojos Jim no podía derribarla, porque no era voluntaria ni tampoco hostil.
+Por la noche acariciaba sus negros cabellos y sus hombros dorados, increíblemente suaves. Cuando se abrazaban con cariño, aunque Jelka dejaba por un momento de ser indiferente y distante, seguía manteniendo incólume su personalidad, incomprensible e inescrutable.
+—¿Por qué no me hablas? —preguntaba él con frecuencia. —¿Es que no quieres hablarme?
+—Sí —decía ella—. ¿Qué quieres que diga? —Hablaba perfecto inglés, pero su mentalidad no era americana.
+Al cabo de un año, Jim empezó a desear la compañía de otras mujeres, sus conversaciones intrascendentes, su obscena vulgaridad, y hasta sus insultos soeces. Entonces volvió a la ciudad, a beber y a divertirse en el Tres Estrellas. Allí era siempre bien recibido porque era simpático, honrado y risueño.
+—¿Dónde está tu mujercita? —le preguntaban.
+—En casa, zurciendo calcetines —contestaba, provocando la risa de todos.
+Los sábados por la tarde ensillaba un caballo y cogía un rifle por si veía algún gamo en el camino.
+—¿No te importa quedarte sola? —preguntaba, invariable.
+—No; no me importa.
+Entonces preguntaba él:
+—¿Y si viniese alguien?
+Los ojos de Jelka se iluminaban un momento. Luego sonreía, diciendo:
+—Lo echaría de aquí.
+—Estaré de vuelta mañana a mediodía. No me gusta cabalgar de noche. —Se daba cuenta de que ella sabía a dónde iba, pero nunca la oyó protestar.
+—Tendrías que tener un hijo —le dijo Jim en cierta ocasión.
+Su rostro se había transformado visiblemente al oír aquellas palabras.
+—Algún día Dios me escuchará —contestó.
+Jim la compadecía por su soledad. Si visitara a las mujeres de los demás ranchos del cañón se sentiría menos sola, pero no parecía agradarle la idea. Una vez al mes uncía los caballos al carro y se iba a pasar una tarde en compañía de su madre y de la caterva de primos y primas que vivían con ella.
+—Supongo que te divertirás mucho —le decía Jim—. Ha blarás ese idioma endiablado durante toda la tarde y te reirás con las payasadas de tu primo el gigante. Si algo pudiera echarte en cara, sería el tener una familia de extranjeros. —Recordaba haberla visto bendecir el pan con la señal de la cruz antes de introducirlo en el horno, y arrodillarse junto a la cama por las noches, con las manos juntas, mirando una imagen que ocupaba una hornacina del cuarto.
+Un caluroso sábado de junio, Jim estaba segando en el llano. El día se le hacía interminable, y no tuvo concluido el trabajo hasta las seis en punto. Entonces guardó la segadora en el cobertizo y dio suelta a los caballos para que pastaran libremente. Cuando entró en la cocina, Jelka servía la cena. Jim se lavó manos y cara antes de sentarse a la mesa.
+—Estoy muy cansado —declaró—. Sin embargo, me parece que me iré a Monterrey. Esta noche habrá luna llena.
+Ella sonrió sin decir nada.
+—Voy a decirte lo que se me ha ocurrido —siguió hablando él—. Si quisieras venir, podría preparar el carro y nos iríamos los dos.
+Ella sonrió otra vez y movió la cabeza.
+—No; las tiendas estarán cerradas. Prefiero quedarme aquí.
+—Está bien. Me iré solo. No creía que iría y he soltado todos los caballos. Tal vez pueda encontrar alguno cerca de aquí. ¿Estás segura de que no quieres ir?
+—Si fuera más temprano y las tiendas estuvieran abiertas... pero no podemos llegar antes de las diez.
+—Si es por eso... a caballo podríamos estar allí a las nueve y media.
+Ella sonrió de nuevo y Jim le preguntó, intrigado:
+—¿En qué piensas?
+—¿En qué pienso? Me parece que esa pregunta me la has hecho cada día desde que nos casamos.
+—Sí, pero dime, ¿en qué piensas? —insistió él, con cierta irritación.
+—Pues... pienso en los huevos que empolla la gallina negra. —Se levantó para acercarse al calendario—. Estarán incubados mañana o tal vez el lunes.
+Era ya de noche cuando Jim terminó de afeitarse y de ponerse la camisa limpia y las botas nuevas. Jelka, entretanto, había fregado y secado los platos. Cuando Jim atravesó la cocina vio que había pasado la lámpara a la mesita junto a la ventana y se había sentado a zurcir unos calcetines.
+—¿Por qué te sientas ahí? —le preguntó—. No es tu sitio de costumbre. A veces haces cosas muy raras.
+Ella levantó los ojos de su labor.
+—Es por la luna —contestó con dulzura—. Has dicho que esta noche habría luna llena. Quiero verla.
+—¡Mira que eres tonta! Desde esa ventana no verás la luna. Creía que sabías orientarte mejor.
+Ella sonrió levemente.
+—Entonces me asomaré a la ventana del dormitorio.
+Jim se puso el sombrero negro y salió. Entró un momento en el establo obscuro y vacío y cogió una brida y un bocado. Cuando estuvo en mitad del prado se detuvo y silbó con fuerza. Los caballos dejaron de pastar y empezaron a acercarse, deteniéndose a unos metros de distancia. Con cautela fue aproximándose al bayo hasta estar a su lado y acariciarle el lomo. Entonces le puso los arreos y la silla, apretando la cincha con destreza. Cogiendo la brida condujo al animal hacia la casa. Por encima de las montañas iba apareciendo un resplandor anaranjado. La luna llena saldría antes de que el valle hubiera perdido totalmente la luz diurna.
+En la cocina Jelka seguía trabajando junto a la ventana. Jim se dirigió a un rincón y cogió su carabina del treinta, treinta. Mientras introducía unos cartuchos en la recámara, dijo:
+—Ya empieza a verse el resplandor de la luna. Si quieres verla será mejor que salgas fuera. Me parece que esta noche estará muy roja.
+—Dentro de un momento —contestó ella—. Deja que acabe este zurcido. —Entonces él se acercó y le acarició el cabello sedoso.
+—Buenas noches. Probablemente estaré de regreso mañana a mediodía. —Sus negros ojos lo siguieron hasta que salió de la habitación.
+Jim introdujo el rifle en la funda, montó y obligó al caballo a tomar el camino que descendía hacia el cañón. A su derecha, por encima de las montañas cada vez más negras, ascendía el disco gigantesco y enrojecido de la luna. Las luces combinadas del lento crepúsculo y de la rojiza luna daban una misteriosa perspectiva a las siluetas de los árboles, cuyas sombras parecían de terciopelo. De los ranchos próximos llegaban hasta Jim los ladridos de los perros y el canto de los gallos que debían suponer que el alba estaba próxima. Jim puso al trote su montura y el ruido de los cascos se lo devolvió el eco desde el castillo, a sus espaldas. Pensó en May, la alegre rubia del Tres Estrellas, en Monterrey.
+—Llegaré tarde —pensó—, y alguien estará ya con ella.
+Había recorrido una milla cuando oyó los cascos de otro caballo que se acercaba. Un jinete apareció en el recodo, deteniéndose.
+—¿Eres tú, Jim?
+—Sí. Hola, George.
+—Iba a tu casa. Quería decirte... ¿recuerdas el manantial que está en la parte alta de mis tierras?
+—Sí, desde luego.
+—Pues verás: he estado allí esta tarde. He encontrado una hoguera recién apagada y los restos de un ternero. El cuero estaba entre las cenizas, mas al sacarlo he visto que llevaba tu marca.
+—¡Diablos! —exclamó Jim—. ¿Y dices que el fuego era reciente?
+—La tierra todavía estaba caliente. De anoche, supongo. Mira, Jim, yo no puedo acompañarte, porque me voy a la ciudad, pero he pensado que era mejor advertirte para que eches un vistazo.
+Jim preguntó con calma:
+—¿Tienes idea de cuántos hombres debían ser?
+—No. No me fijé en las huellas.
+—Está bien. Creo que lo mejor será ir a verlo. También yo iba a la ciudad, pero si rondan ladrones de ganado, les pararé los pies. Si no te importa, George, desearía atravesar tus propiedades.
+—Te acompañaría, pero tengo que estar forzosamente en la ciudad esta noche. ¿Llevas armas?
+—Sí, desde luego. Un rifle. Y gracias por el aviso.
+—No hay de qué. Puedes pasar por donde quieras. Buenas noches. —El vecino obligó a su caballo a volverse y se alejó hacia Monterrey.
+Durante unos momentos Jim permaneció inmóvil, mirando su sombra. Sacó el rifle de la funda, soltó el seguro y colocó el arma atravesada en el arzón de la silla. Luego se apartó del camino hacia la izquierda, subió la empinada ladera, atravesando un bosquecillo de encinas antes de adentrarse en una garganta lateral.
+Tardó media hora en llegar al campamento abandonado. Recogió del sudo la cabeza destrozada del ternero y le palpó la lengua intentando calcular por su rigidez el tiempo que llevaba muerto. A la luz de una cerilla examinó la marca de su hierro en el cuero medio quemado. Por último volvió a montar y cabalgó por la cresta de los montes hasta penetrar en terrenos que le pertenecían.
+Un viento cálido soplaba de poniente. La luna iba perdiendo su tono rojizo a medida que ascendía por el cielo. En las cumbres desnudas aullaban los coyotes y los perros de los ranchos les contestaban a coro desde el fondo del valle.
+Jim siguió un rumor de cencerros y encontró a su ganado paciendo tranquilamente en un altozano. Unos ciervos se habían acercado al rebaño y no parecieron asustarse al ver el caballo. Jim escuchó atentamente por si el viento le traía rumor de cascos o voces de hombres.
+Eran más de las once cuando decidió regresar a su casa. Rodeó la torre occidental del castillo rocoso, quedando oculto bajo su inmensa sombra durante un rato, hasta surgir de nuevo al otro lado, a la luz de la luna. Desde allí veía el tejado de su granja. Una de las ventanas brillaba refulgente bajo un rayo de luna.
+Los caballos levantaron las cabezas al atravesar Jim el prado. Había llegado a la valla del corral cuando oyó que un caballo piafaba en el establo. Detuvo su montura. Escuchó atentamente unos segundos y el ruido se repitió. Entonces Jim desmontó, amartillando el rifle silenciosamente.
+Se asomó al establo. Estaba completamente en tinieblas, pero oía el ruido de las quijadas de un caballo que masticaba heno. Entró de puntillas hasta que estuvo junto al pesebre, y entonces encendió un fósforo. Un caballo, ensillado y embridado, estaba comiendo tranquilamente en el establo. El animal dejó de masticar y volvió la cabeza para mirar la luz.
+Jim apagó el fósforo y salió rápidamente. Sentándose al borde del abrevadero, contempló el agua. Le costaba tanto pensar que tenía que hacerlo en voz alta para comprender el significado de sus ideas.
+—¿Debo mirar por la ventana? No, porque mi sombra se proyectaría dentro de la habitación.
+Miró el rifle que tenía en la mano. En muchos sitios estaba gastado y brillante, porque había sido usado con mucha frecuencia.
+Por fin, decidido, se levantó dirigiéndose a la casa. En los escalones de la entrada se esforzó por no hacer el menor ruido, probando los peldaños antes de apoyar en ellos todo su peso. Los tres perros del rancho salieron corriendo del granero y describieron vueltas a su alrededor, antes de volverse en silencio a sus rincones.
+La cocina estaba obscura, pero Jim sabía dónde estaban los muebles. Adelantando una mano fue tocando sucesivamente la mesa, el respaldo de una silla, el toallero... Atravesó la estancia tan silenciosamente que él mismo sólo podía oír su respiración y el tic-tac del reloj en su bolsillo.
+La puerta del dormitorio estaba abierta y un rectángulo de luz de luna se proyectaba en el suelo de la cocina. Jim llegó por fin a la puerta y se asomó con cautela.
+El lecho estaba enteramente iluminado. Jim vio a Jelka acostada boca arriba, cubriéndose los ojos con un brazo desnudo. No pudo ver quién era el hombre, porque tenía la cabeza vuelta hacia el otro lado. Jim contempló la escena largo rato, conteniendo la respiración. Por último Jelka se movió en sueños y el hombre volvió la cabeza y emitió un suspiro. Era el primo de Jelka, su estúpido y gigantesco primo.
+Jim se volvió en redondo y atravesando la cocina, salió al exterior. Se acercó al abrevadero y se sentó de nuevo en el borde. La luna se reflejaba, blanquísima, en el agua obscura en que flotaban briznas de paja, mosquitos muertos y la espuma verdosa del limo, que parecía de encaje.
+Seca, roncamente, emitió unos sollozos entrecortados. Luego guardó silencio, como asombrado, porque su pensamiento estaba muy lejos de allí, entre la hierba de las cumbres y las ráfagas del viento cálido del verano.
+Acudió a su mente la imagen de su madre, sosteniendo un cubo para recoger la sangre de un cerdo que su padre había degollado. Para que no se mancharan sus ropas, se mantenía lo más apartada posible.
+Introdujo una mano en el agua y rompió la imagen de la luna en mil fragmentos danzantes. Se humedeció la frente con las manos chorreantes y se incorporó. Esta vez no actuó con tanta cautela, limitándose a atravesar la cocina de puntillas, deteniéndose en el umbral del dormitorio. Jelka movió el brazo y entreabrió los ojos. Inmediatamente los abrió del todo, sobresaltada. Jim la miró; su rostro carecía de expresión. Una gota de humedad apareció bajo su nariz, rompiéndose luego sobre el labio superior.
+Jim amartilló el rifle. El ruido metálico resonó por toda la casa. El hombre dormido se agitó inquieto. Las manos de Jim temblaban visiblemente. Se echó la carabina a la cara y la sujetó con fuerza. Encima del punto de mira veía el cuadro blanco entre las cejas y el nacimiento del pelo del intruso. El cañón del arma osciló un momento, inmovilizándose por fin.
+El disparo rasgó el aire. Jim, mirando todavía por el visor del rifle, vio que la cama entera se estremecía bajo el impacto. Un orificio diminuto y negro había aparecido en la frente del que dormía. Pero el proyectil había salido al exterior por la parte posterior de la cabeza derramando sangre y masa encefálica sobre la almohada.
+El primo de Jelka emitió un sonido ahogado. Sus manos asomaron sobre el embozo como enormes arañas blancas, que corretearon inciertas un momento, antes de quedarse inmóviles.
+Jim se volvió a mirar a Jelka. Estaba gimiendo débilmente, sin apartar de él la mirada. Parecía un perro castigado.
+Jim giró en redondo, presa de inexplicable pánico. Una vez fuera de la casa, volvió junto al abrevadero. Tenía un amargo sabor en la boca y le parecía que el corazón iba a estallarle. Se quitó el sombrero y metió la cabeza en el agua. Luego, inclinándose, vomitó en el suelo. Oía a Jelka moverse por la casa. Seguía gimiendo en tono muy bajo. Jim se irguió, sintiéndose súbitamente débil y enfermo.
+Atravesó el corral y salió al prado. Su caballo, todavía ensillado, acudió en respuesta a su silbido. De modo automático le apretó la cincha, montó y se alejó hacia el valle. Su sombra le seguía en silencio. La luna parecía haberse detenido en lo alto, mientras los perros ladraban con monotonía.
+A primera hora de la mañana entró en el patio un carro tirado por dos caballos, espantando a las gallinas. El sheriff y el juez de paz acompañaban a Jim Moore. Su bayo trotaba detrás del carro. El sheriff detuvo el vehículo y todos saltaron al suelo.
+—¿Tengo que entrar? —preguntó Jim—. Estoy muy cansado y me parece que no podría resistirlo.
+El juez se mordió el labio inferior, meditabundo.
+—Bueno, supongo que no es necesario. Ya nos encargaremos nosotros de todo.
+Jim se dirigió al abrevadero.
+—Por favor —pidió—. Adecenten un poco el cuarto, ¿quieren? Ya se pueden imaginar cómo estará.
+Los otros penetraron en la casa.
+Minutos después salieron llevando el cuerpo rígido del muerto. Lo depositaron en el carro. Jim se acercó a ellos.
+—¿Tengo que ir con ustedes?
+—¿Dónde está su esposa, señor Moore? —preguntó el sheriff.
+—No lo sé —contestó—. Por ahí... en algún rincón.
+—¿Está seguro de que no la mató también?
+—No. Ni siquiera la toqué. Esta tarde la buscaré y la haré volver. Es decir, si no es preciso que vaya ahora con ustedes.
+—Tenemos su declaración —contestó el juez—. Además, creo que también tenemos ojos, ¿no es cierto, Will? Claro está que en realidad hay contra usted una acusación de asesinato, pero no será tenida en cuenta. Es la costumbre en esta parte del país. Pero sea bondadoso con su esposa, señor Moore.
+—No le haré nada —contestó Jim.
+Vio cómo se alejaba el carricoche y se volvió hacia la casa, dejando profundas huellas en el polvo. El sol era fuerte en el mes de junio y Jim tenía el rostro bañado en sudor.
+Entró en la casa, de donde salió poco después empuñando un recio látigo de los que empleaba para conducir reses. Atravesó el patio y penetró en el granero. Cuando subía la escalera del altillo, oyó el débil sollozo que recordaba el llanto de un perro castigado.
+Cuando Jim salió de nuevo del granero, llevaba a Jelka sobre un hombro, como un fardo. La depositó en el suelo junto al abrevadero. Su negra cabellera estaba llena de briznas de paja. La espalda de la blusa se veía manchada de sangre.
+Jim mojó un pañuelo y le lavó la sangre reseca de los labios, que se había mordido ferozmente. Luego le arregló un poco el pelo, lavándole el rostro. Sus ojos negros seguían todos los movimientos que hacía su marido.
+—Me haces daño —protestó—. Mucho daño.
+Él asintió, muy serio.
+—Todo el que puedo sin llegar a matarte.
+El sol era insoportable. Unas moscas revoloteaban, atraídas por el olor de la sangre.
+Los labios tumefactos de Jelka intentaron sonreír.
+—¿Has desayunado alguna cosa?
+—No —contestó Jim—. Nada.
+—Entonces te freiré unos huevos. —Con gran esfuerzo se puso en pie.
+—Déjame que te ayude —dijo él—. Te quitaré la blusa, porque se te está pegando a la espalda. Si te la quitas tú, te dolerá mucho.
+—No, no; ya me la quitaré yo misma. —Su voz sonaba extraña, casi irreconocible. Sus ojos obscuros lo miraron con ternura durante unos momentos, antes de volverse y desaparecer cojeando en el interior de la casa.
+Jim se quedó esperando, sentado en el borde del abrevadero. Vio que una columna de humo empezaba a salir por la chimenea, ascendiendo verticalmente hasta desvanecerse a gran altura. Momentos después oyó que Jelka lo llamaba desde la ventana de la cocina.
+—Ven, Jim. Ya está listo tu desayuno.
+Cuatro huevos fritos y cuatro gruesas lonchas de tocino ahumado le esperaban en un plato.
+—El café estará listo en seguida —dijo ella.
+—¿Y tú; no comes?
+—No, todavía no. Ahora no podría.
+Jim comió con apetito. Cuando terminó, alzó la mirada para contemplar a su mujer. Se había peinado cuidadosamente y se había puesto una blusa blanca y limpia.
+—Esta tarde iremos a la ciudad —dijo él, limpiándose la boca con la servilleta—. Tengo que encargar madera para levantar una nueva casa más abajo, en el cañón.
+Ella miró fugazmente la puerta cerrada del dormitorio, y luego a su marido.
+—Sí —murmuró—. Me parece una buena idea —. Al cabo de unos momentos, añadió—: ¿Volverás a pegarme... por esto?
+—No; por esto, nunca más.
+Jelka sonrió. Fue a sentarse junto a él, y Jim, conmovido, le acarició el pelo y la nuca.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,57 @@
+---
+layout: story
+title: Las murallas de Anagoor
+slug: anagoor
+source: https://www.literatura.us/idiomas/buzzati/anagoor.html
+tags:
+  - anagoor
+  - buzzati
+---
+Dino Buzzati
+(Belluno, Italia, 1906 - Milán, 1972)
+Las murallas de Anagoor (1953)
+(“Le mura di Anagoor”)
+Originalmente publicado en el periódico Corriere della Sera (7 de junio de 1954);
+Sessanta racconti
+(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)
+En el interior de Tibesti, un guía indígena me dijo que si quería ver las murallas de la ciudad de Anagoor él se ofrecía a acompañarme. Miré en el mapa, pero la ciudad de Anagoor no aparecía. Ni siquiera en las guías turísticas, que suelen ser tan ricas en detalles, se la mencionaba.
+—¿Qué clase de ciudad es esa que no aparece señalada en los mapas? —pregunté.
+—Es una ciudad grande, riquísima y poderosa —respondió él—, pero en los mapas no aparece señalada porque nuestro Gobierno la ignora, o finge ignorarla. Actúa de forma independiente y no obedece. Vive por su cuenta y ni siquiera los ministros del rey pueden entrar en ella. No tiene comercio alguno con otros países, ya sean cercanos o lejanos. Está cerrada. Vive desde hace siglos dentro del recinto de sus sólidas murallas. Quizá el hecho de que nadie haya salido nunca de ella significa que allí la gente vive feliz, ¿no?
+—Los mapas —insistí yo— no registran ninguna ciudad que se llame Anagoor, lo que hace suponer que es una de las muchas leyendas de este país. Probablemente sólo sea uno más de los espejismos que la reverberación del desierto crea, nada más.
+—Nos conviene partir dos horas antes de que amanezca —dijo el guía, que se llamaba Magalon, fingiendo no haberme oído—. Con su coche, mi señor, veremos Anagoor hacia mediodía. Vendré a recogerle a las tres de la mañana.
+—Una ciudad como la que tú describes estaría registrada en los mapas con un círculo doble y su nombre estaría escrito en letras mayúsculas. Sin embargo, no encuentro ninguna referencia de una ciudad llamada Anagoor, que evidentemente no existe. A las tres estaré preparado, Magalon.
+A las tres de la mañana, con los faros del coche encendidos, partimos más o menos en dirección sur por las pistas del desierto y, mientras fumaba un cigarrillo tras otro con la esperanza de entrar en calor, vi a mi izquierda iluminarse el horizonte y justo después salió el sol, que comenzó a dar de lleno sobre el desierto hasta que todo estuvo caliente y trémulo, tanto que en derredor se veían lagos y pantanos en los que se reflejaban nítidamente las rocas, aunque en realidad no hubiera ni una gota de agua, sólo arena y piedras incandescentes.
+Pero el coche corría con muy buena voluntad, y a las once y treinta y siete minutos de la mañana, Magalon, que iba sentado a mi lado, dijo:
+—Ahí las tiene, señor —y, efectivamente, vi las murallas de la ciudad, que se extendían de forma ininterrumpida a lo largo de kilómetros y kilómetros, con una altura de entre veinte y treinta metros; eran de color amarillento y, aquí y allá, estaban dominadas por atalayas.
+Al acercarme, observé que en varios puntos, justo al pie de las murallas, había campamentos: tiendas miserables, tiendas de ricos señores en forma de pabellón y coronadas por banderas.
+—¿Quiénes son? —pregunté.
+Y Magalon me explicó:
+—Es gente que espera entrar y vivaquea delante de las puertas.
+—Ah, ¿es que hay puertas?
+—Hay muchísimas, grandes y pequeñas, quizá más de cien, pero el perímetro de la ciudad es tan vasto que entre una y otra hay una gran distancia.
+—¿Y cuándo abren esas puertas?
+—No las abren casi nunca. Pero se dice que algunas se abrirán. Esta noche o mañana, o dentro de tres meses, o dentro de cincuenta años, no se sabe: en esto reside precisamente el gran secreto de la ciudad de Anagoor.
+Habíamos llegado. Nos detuvimos delante de una puerta que parecía de hierro macizo. Junto a ella había mucha gente esperando: beduinos descarnados, mendigos, mujeres cubiertas con velos, monjes, guerreros armados hasta los dientes, e incluso un príncipe con su pequeño séquito personal. De vez en cuando, alguno de ellos golpeaba con un mazo la puerta, que retumbaba.
+—Lo hacen —dijo el guía— para que los de Anagoor, al oír los golpes, vengan a abrir. De hecho existe la idea generalizada de que si no se llama nadie abrirá jamás.
+Me entró una duda:
+—Pero ¿se sabe a ciencia cierta que al otro lado de la muralla hay alguien? ¿No puede ser que la ciudad ya esté muerta?
+Magalon sonrió:
+—Todas las personas que vienen aquí por primera vez tienen el mismo pensamiento. También yo, durante algún tiempo, dudé de que alguien viviera dentro de la ciudad. Pero existen pruebas de que sí. Algunas noches, en condiciones favorables de luz, se pueden divisar los humos de la ciudad, que suben directamente al cielo como otros tantos incensarios. Señal de que hay hombres viviendo dentro y de que encienden fuegos para cocinar. Y además hay un dato muy significativo: hace tiempo abrieron una de las puertas.
+—¿Cuándo?
+—La fecha, para ser sinceros, es incierta. Hay quien dice que hace un mes o un mes y medio, otros en cambio consideran que se trata de un hecho muy lejano, de hace dos, tres o incluso cuatro años, alguno incluso lo atribuye a la época en que reinaba el sultán Ahm-er-Ehrgun.
+—¿Y cuándo reinó Ahm-er-Ehrgun?
+—Hace aproximadamente tres siglos… Pero tú eres muy afortunado, mi señor… Mira, aunque sea mediodía y el aire abrase, se ven algunos humos.
+A pesar del calor, una repentina excitación se había propagado en el heterogéneo campamento. Todos habían salido de las tiendas y señalaban con el dedo dos trémulas espirales de humo gris que se alzaban en el aire inmóvil al otro lado de las murallas. Yo no entendía una palabra de las agitadas voces que se superponían, pero era evidente que reinaba el entusiasmo, como si aquellas dos pobres columnas de humo fueran lo más maravilloso de la creación y prometieran una próxima felicidad a las personas que las miraban. Algo que me parecía exagerado por las siguientes razones:
+En primer lugar, la aparición de las columnas de humo no significaba en absoluto una mayor probabilidad de que aquella puerta se abriera, por lo cual no era ningún motivo de alegría.
+En segundo lugar, si, como era probable, tanto alboroto era oído desde dentro de las murallas, disuadiría de abrir a la gente de la ciudad, en lugar de animarla.
+En tercer lugar, aquellas columnas de humo no demostraban tampoco que Anagoor estuviera habitada. De hecho, ¿no podía tratarse de un incendio casual debido al tórrido sol? O bien, lo que era bastante más probable, quizá fueran fuegos encendidos por ladrones que habían entrado por algún agujero secreto de las murallas para saquear la ciudad muerta y deshabitada. Era muy extraño, pensaba yo, que aparte de las columnas de humo, no se hubiera observado ningún otro síntoma en Anagoor: ni voces, ni músicas, ni aullidos de perros, ni centinelas o curiosos en el borde de las murallas.
+Entonces dije:
+—Dime, Magalon: cuando abrieron esa puerta de la que hablas, ¿cuánta gente consiguió entrar?
+—Sólo un hombre —contestó él.
+—¿Y los demás fueron rechazados?
+—No había más gente. Se trataba de una de las puertas más pequeñas e inadvertidas por los peregrinos. Aquel día no había nadie esperando. Hacia el anochecer llegó un viandante y llamó. No sabía que aquélla era la ciudad de Anagoor, no esperaba que dentro hubiera algo especial, sólo pedía un refugio para pasar la noche. No sabía nada de nada, se encontraba allí por casualidad. Quizá le abrieron sólo por eso.
+En cuanto a mí, he esperado casi veinticuatro años fuera de las murallas. Pero la puerta no se ha abierto. Y ahora regreso a mi pueblo. Al ver mis preparativos, los peregrinos del campamento me dicen moviendo la cabeza:
+—¡Eh, amigo, cuántas prisas! ¡Ten un poco de paciencia, caramba! Tú le pides demasiado a la vida.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

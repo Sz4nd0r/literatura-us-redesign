@@ -1,0 +1,146 @@
+---
+layout: story
+title: El baño
+slug: rc_elbano
+source: https://www.literatura.us/idiomas/rc_elbano.html
+tags:
+  - rc_elbano
+  - rc
+---
+Raymond
+Carver
+(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
+El baño
+[Otro título en español: “Algo sencillo y bueno”]
+(“The Bath”)
+Originalmente publicado en Columbia (1981);
+What We Talk About When We Talk About Love (1981);
+incluído, con modificaciones, como “A Small, Good Thing”, Cathedral (1983);
+aparece, en versión manuscrita, en Beginners (2009)
+y Collected Stories (2009)
+El sábado por la tarde la madre fue en coche a la pastelería del centro comercial. Después de mirar un álbum con fotografías de pasteles pegadas en las hojas, encargó uno de chocolate, el preferido de su hijo. Era una tarta adornada con una nave espacial y una plataforma de lanzamiento bajo una cascada de blancas estrellas. El nombre, SCOTTY, iría escarchado en verde como si fuera el nombre de la nave.
+El pastelero le escuchó con circunspección cuando ella le contó que Scotty iba a cumplir ocho años. Era un hombre mayor, y llevaba un delantal harto curioso: una pesada prenda cuyas cintas le pasaban bajo los brazos y le rodeaban la espalda y volvían de nuevo al frente, donde acababan en un enorme nudo. Seguía secándose las manos en la parte delantera del delantal mientras escuchaba a la mujer, y sus ojos húmedos le observaban con atención los labios mientras ella estudiaba las tartas y hablaba.
+Le permitió tomarse el tiempo necesario. No tenía prisa.
+La madre eligió la tarta de la nave, y a continuación dio su nombre y su teléfono. Lo único que el pastelero se dignó contestar fue que la tarta estaría lista el lunes por la mañana, con tiempo suficiente para la fiesta, que era por la tarde. Ninguna broma, sólo ese mínimo intercambio, la información más escueta, nada que no fuera necesario.
+El lunes por la mañana, el niño se dirigía a pie hacia el colegio. Andaba junto a otro chico, y se iban pasando una bolsa de patatas fritas. El chico del cumpleaños intentaba sonsacar a su amigo acerca del regalo que le haría por la tarde.
+En un cruce, y sin mirar, el chico del cumpleaños se bajó del bordillo de la acera, y en un abrir y cerrar de ojos fue arrollado por un coche. Cayó de costado, con la cabeza sobre la cuneta; sus piernas, sobre la calzada, se movían como si estuvieran subiendo por un muro.
+Su compañero se quedó allí quieto, sosteniendo la bolsa de patatas fritas, preguntándose qué hacer, si acabarse las patatas o seguir andando hacia el colegio.
+El chico del cumpleaños no lloraba. Pero tampoco tenía ganas de decir nada. Ni siquiera contestó cuando su compañero le preguntó qué se sentía cuando a uno le atropellaba un coche. El chico del cumpleaños se levantó y echó a andar en dirección a su casa, y su amigo le hizo adiós con la mano y siguió camino del colegio.
+El chico le contó a su madre lo que le había pasado. Se sentaron los dos en el sofá. Ella le cogió las manos y se las puso en el regazo. Y así estaban cuando el chico apartó las manos del regazo de su madre y se tendió de espaldas en el sofá.
+Naturalmente no hubo fiesta de cumpleaños. El chico del cumpleaños estaba en el hospital y su madre permanecía a la cabecera de su cama. Esperaba a que su hijo despertara. El padre llegó a toda prisa de la oficina. Se sentó al lado de la madre. Ahora ambos aguardaban a que su hijo recuperara la conciencia. Transcurrieron varias horas, y luego el padre se fue a casa a tomar un baño.
+El hombre iba en su coche en dirección a casa. Conducía más rápido que de costumbre. Hasta entonces su vida había sido bastante amable. Trabajo, paternidad, familia. El hombre había tenido suerte y era feliz. Pero el miedo le hizo desear tomar un baño.
+Tomó la vereda de entrada. Se quedó sentado dentro del coche tratando de que le respondieran las piernas. Su hijo había sido atropellado por un coche y ahora estaba en el hospital, pero se iba a poner bien. El hombre se bajó del coche y fue hasta la puerta principal. El perro ladraba y el teléfono estaba sonando. Y siguió sonando mientras el hombre abría la puerta y palpaba la pared en busca del interruptor.
+Levantó el auricular. Exclamó:
+—¡Acabo de llegar!
+—Aquí hay una tarta que no han recogido.
+Esto fue lo que repuso la voz al otro lado de la línea.
+—¿De qué me habla? —preguntó el padre.
+—La tarta —insistió la voz—. Dieciséis dólares.
+El hombre mantenía el auricular pegado al oído y trataba de entender. Contestó:
+—No sé de qué me habla.
+—No me venga con ésas —dijo la voz.
+El hombre colgó el teléfono. Fue a la cocina y se sirvió un trago de whisky. Luego llamó al hospital.
+El estado de su hijo seguía siendo el mismo.
+Mientras el agua llenaba la bañera, el hombre se enjabonó la cara y se afeitó. Estaba en la bañera cuando volvió a oír el teléfono. Salió de un salto y corrió por la casa diciéndose: «Estúpido, estúpido», porque si se hubiera quedado en el hospital no se encontraría ahora en esta situación. Levantó el auricular y gritó: «¡Diga!»
+La voz dijo:
+—La tengo preparada.
+El padre llegó al hospital después de media noche. Su mujer seguía sentada en la silla, junto a la cabecera. Alzó la vista hacia su marido y volvió a mirar a su hijo. De un aparato situado sobre la cama colgaba una botella con un tubo que descendía hasta el niño.
+—¿Qué es eso? —preguntó el padre.
+—Glucosa —respondió la madre.
+El hombre apoyó la mano en la nuca de su mujer.
+—Va a volver en sí —la animó.
+—Lo sé —asintió la mujer.
+Al poco, el hombre sugirió:
+—Vete a casa. Me quedaré yo.
+Ella movió la cabeza.
+—No.
+—Vamos —insistió él—. Ve a casa un rato. No te preocupes. Está dormido, eso es todo.
+Entró una enfermera. Les saludó con un movimiento de cabeza mientras se dirigía hacia la cama. Sacó el brazo izquierdo del niño de debajo de las mantas y le puso los dedos en la muñeca. Luego volvió a meterlo bajo las mantas y escribió algo en la tablilla adosada a la cama.
+—¿Cómo está? —quiso saber la madre.
+—Estacionario —contestó la enfermera. Y añadió—: El doctor volverá a pasar pronto.
+—Le estaba diciendo que podría ir a casa a descansar un poco —le explicó el hombre—. Cuando el doctor haya pasado.
+—Sí, claro —dijo la enfermera.
+La mujer objetó:
+—Veremos lo que dice el doctor.
+Se llevó la mano a los ojos e inclinó la cabeza hacia adelante.
+La enfermera concedió:
+—Claro.
+El padre miró a su hijo: Bajo las mantas, el menudo pecho subía y bajaba. Sintió un miedo aún mayor. Empezó a sacudir la cabeza. Mientras lo hacía se habló a sí mismo. Se dijo: el niño está bien. En lugar de dormir en casa, duerme aquí. El sueño es igual en un sitio que en otro.
+El médico entró en el cuarto. Estrechó la mano del hombre. La mujer se levantó de la silla.
+—Ann —dijo el médico, y la saludó con un movimiento de cabeza. Luego añadió—: Veamos cómo está.
+Se acercó a la cama y tocó la muñeca del niño. Le alzó un párpado y luego el otro. Apartó hacia abajo las mantas y le auscultó el corazón. Presionó el cuerpo del niño con los dedos. Aquí y allá. Fue hasta el pie de la cama y estudió el cuadro. Anotó la hora, escribió algo y luego observó al padre y a la madre.
+El médico era un hombre físicamente atractivo. Tenía la piel fresca y tostada. Vestía traje con chaleco, corbata de color vivo, camisa con gemelos.
+La madre se dijo a sí misma: viene de algún acto en el que había público. Le han impuesto alguna medalla.
+El médico explicó:
+—No es para dar saltos de júbilo, pero tampoco hay que preocuparse. Despertará muy pronto. —Volvió a mirar al niño—. Sabremos más cuando recibamos los análisis.
+—Oh, no —se lamentó la madre. El médico dijo:
+—Suelen darse casos semejantes.
+El padre preguntó:
+—¿No lo llamaría coma, entonces?
+El padre miró al médico y aguardó.
+—No, no quiero llamarlo así —dijo el médico—. Está durmiendo. Es un sueño reparador. El cuerpo hace lo que tiene que hacer.
+—Está en coma —aseguró la madre—. En una especie de coma.
+El médico insistió:
+—Yo no lo llamaría así.
+Tomó las manos de la mujer y les dio unas palmaditas. Luego estrechó la mano del marido.
+La mujer puso los dedos sobre la frente del niño y los mantuvo en ella unos minutos.
+—No tiene fiebre, al menos —afirmó. Luego añadió—: No sé. Tócale la cabeza.
+El hombre puso los dedos sobre la frente del niño. Y comentó:
+—Seguramente es normal que esté así.
+La mujer siguió de pie unos instantes más, mordisqueándose el labio. Luego fue hasta su silla y se sentó.
+El marido se sentó a su lado en otra silla. Quería añadir algo, pero no encontró palabras adecuadas a la situación. Cogió la mano de su mujer y se la puso sobre las rodillas. Cuando lo hizo, se sintió mejor. Le hizo sentir que expresaba algo. Siguieron así un breve lapso, mirando al niño, en silencio. De cuando en cuando el hombre apretaba la mano de su esposa, que al cabo la retiró de la suya.
+—He rezado —dijo ella.
+—Yo también —coincidió él—. Yo también he rezado.
+Volvió a entrar una enfermera; comprobó el goteo de la botella.
+Entró un médico y pronunció su nombre. Llevaba mocasines.
+—Vamos a bajarlo para hacerle más radiografías —aclaró—. Y queremos examinarle con el scanner.
+—¿El scanner? —preguntó la madre. Estaba de pie, entre el médico y la cama.
+—No es nada —minimizó él.
+—Dios mío —exclamó ella.
+Entraron dos enfermeros. Traían una especie de camilla con ruedas. Desconectaron el tubo y, con suavidad, pasaron al niño a la camilla.
+No trajeron al niño a su cuarto hasta después del amanecer. El padre y la madre entraron en el ascensor tras los enfermeros. Subieron y llegaron a la habitación. Una vez más, ambos tomaron asiento junto a la cama.
+Esperaron todo el día. El niño no despertaba. El médico vino de nuevo y examinó otra vez al chico y salió del cuarto después de repetir las mismas cosas de la víspera. Entraron enfermeras. Entraron médicos. Entró un ayudante del laboratorio y le extrajo muestras de sangre.
+—No lo entiendo —le dijo la madre al asistente.
+—Son órdenes del doctor —explicó el asistente.
+La madre fue hasta la ventana y miró el aparcamiento. Coches con los faros encendidos llegaban y partían. Se quedó allí, con las manos sobre el alféizar. Y se decía a sí misma: nos está pasando algo, algo muy grave.
+Tenía miedo.
+Vio como un coche se paraba y subía en él una mujer con un largo abrigo. Imaginó que era aquella mujer. Imaginó que se alejaba de allí en aquel coche rumbo a cualquier otro lugar.
+El médico entró en el cuarto. Parecía más bronceado y saludable que nunca. Fue hasta la cama y examinó al chico. Concluyó:
+—Sus constantes son buenas. Todo está bien.
+La madre se lamentó:
+—Pero sigue dormido.
+—Sí —asintió el médico.
+El marido señaló:
+—Está agotada. Está muerta de hambre.
+El médico aconsejó:
+—Debería descansar. Debería comer algo. Ann...
+—Gracias —dijo el marido.
+Se dieron la mano, y el médico les dio unas palmaditas en el hombro. Luego salió.
+—Creo que uno de los dos debería ir a casa a ver cómo están las cosas —sugirió el hombre— Hay que dar de comer al perro.
+—Llama a algún vecino —propuso la esposa—. Alguien lo hará si se lo pides.
+La mujer trató de pensar en quién. Cerró los ojos y trató simplemente de pensar. Al poco decidió:
+—A lo mejor lo hago yo misma. A lo mejor, si no estoy aquí mirándole, vuelve en sí. A lo mejor no despierta porque estoy aquí mirándole.
+—Puede que sea eso —concedió el marido.
+—Me iré a casa y tomaré un baño y me cambiaré de ropa.
+—Creo que es precisamente eso lo que debes hacer —la animó el hombre.
+La mujer cogió su bolso. Su marido la ayudó a ponerse el abrigo. Se dirigió hacia la puerta, y se volvió. Miró al niño, y luego al padre. El hombre hizo un gesto afirmativo con la cabeza y sonrió.
+Pasó el cuarto de enfermeras y llegó al final del pasillo, donde al doblar la esquina vio una pequeña sala de espera. Había en ella una familia, estaba sentada en sillas de mimbre. Un hombre en camisa caqui, con una gorra de béisbol echada hacia la coronilla; una mujer corpulenta en bata y zapatillas; una chica en vaqueros, con docenas de ensortijadas trenzas. La mesa estaba atestada de envoltorios de papel encerado y de espuma de estireno y de cucharillas de café y de bolsitas de sal y pimienta.
+—Nelson —la abordó la mujer—. ¿Se trata de Nelson? Sus ojos se agrandaron.
+—Dígame, señora —insistió—. ¿Se trata de Nelson?
+Intentaba levantarse de la silla. Pero el hombre la sujetaba por el brazo.
+—Vamos, vamos —la tranquilizó el hombre.
+—Lo siento —se disculpó la madre de Scotty—. Estoy buscando el ascensor. Tengo a mi hijo en el hospital. No encuentro el ascensor.
+—Está por allí —indicó el hombre, y señaló con el dedo la dirección correcta.
+—A mi hijo lo ha atropellado un coche —explicó la madre de Scotty—. Pero se pondrá bien. Está conmocionado, aunque puede que también esté en una especie de coma. Eso es lo que nos preocupa, lo del coma. Voy a salir un rato. Quizá tome un baño. Pero mi marido se ha quedado con él. Cuidándole. Es posible que cuando me vaya haya algún cambio. Mi nombre es Ann Weiss.
+El hombre se movió en su silla. Sacudió la cabeza.
+—Nuestro Nelson... —empezó.
+Tomó la vereda de entrada. El perro salió corriendo de la parte de atrás de la casa. Corría en círculos sobre la hierba. La mujer cerró los ojos y dejó que su cabeza descansara sobre el volante. Escuchó el ralentí del motor.
+Se apeó y fue hasta la puerta. Entró y encendió las luces y puso agua para hacer té. Abrió una lata y dio de comer al perro. Se sentó en el sofá con una taza de té.
+Sonó el teléfono.
+—¡Sí! —exclamó—. ¡Diga!
+—¿La señora Weiss? —preguntó una voz de hombre.
+—Sí —contestó ella—. Soy la señora Weiss. ¿Se trata de Scotty?
+—Scotty —dijo la voz—. Se trata de Scotty —siguió la voz—. Tiene que ver con Scotty, sí.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

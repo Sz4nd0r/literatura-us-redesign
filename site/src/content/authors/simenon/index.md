@@ -7,4 +7,177 @@ tags:
   - index
   - simenon
 ---
-¿Quién es George Simenon? ![George Simenon](/assets/images/simenon.jpg) George [Joseph Christian] Simenon nació en Lieja, Bélgica, el 13 de febrero de 1903 y murió en Lausana, Suiza, el 4 de septiembre de 1989. Su padre, Désiré Simenon, trabajaba en una oficina de contabilidad en una compañía de seguros. Entre 1908 y 1914, Simenon asistió al Institut Saint-André. En septiembre de 1914, poco después del comienzo de la Primera Guerra Mundial, comenzó sus estudios en el Collège Saint-Louis, un colegio jesuita; pero, en junio de 1918, Simenon decidió poner fin a sus estudios, y ni siquiera tomó los exámenes de fin de año. Entonces trabajó en diversos trabajos ocasionales de muy corto plazo, hasta que en enero de 1919, antes de cumplir los 16 años, empieza a trabajar, como reportero, en La Gazette de Liège, un periódico editado por Joseph Demarteau. Con el seudónimo “G. Sim”, escribió más de 150 artículos. Mientras era empleado de La Gazette de Liège, comenzó a enviar historias a Le Matin, y comienza (junio 1919) a escribir su primera novela, Au Pont des Arches, la cual publicaría dos años después, en 1921, bajo su seudónimo “G. Sim”. Entre 1921 y 1934 usó un total de 17 seudónimos mientras escribía 358 novelas y cuentos. En 1922, muere Désiré Simenon, y el escritor usó la muerte de su padre para mudarse a París, y en poco tiempo se familiarizó con la ciudad, sus bares, hoteles baratos y sus restaurantes, y los los parisinos de la clase trabajadora ordinaria. Escribiendo bajo numerosos seudónimos, descubre que su creatividad podía pagar enormes dividendos financieros. En 1930, el comisario Maigret, el personaje más famoso inventado por Simenon, hizo su primera aparición en una pieza en Detective, escrita a petición de Joseph Kessel. El comisario Maigret protagonizará una serie de 76 novelas policíacas. Durante la Segunda Guerra Mundial, Simenon vivió en Vendée. La conducta de Simenon durante ese período no es del todo clara: fue denunciado como colaborador por los agricultores locales, mientras que al mismo tiempo, la Gestapo sospechaba que era judío. También, Simenon negoció los derechos cinematográficos de sus libros con estudios alemanes durante la ocupación —razón por la que fue sentenciado, en 1950, a un período de cinco años durante el cual se le prohibió publicar cualquier obra nueva. Entre 1945 y 1955, Simenon vivió en los Estados Unidos y Canadá. Primero en Quebec, Canadá, después en Anna Maria Island cerca de Bradenton, Florida; en Nogales, Arizona; en California; y en Shadow Rock Farm, en Lakeville, Connecticut. Mientras estaba en los Estados Unidos, Simenon aprendió a hablar inglés con relativa facilidad. Simenon regresó a Europa en 1955, primero viviendo en Francia (principalmente en la Costa Azul) hasta que se estableció en Suiza. Aunque nunca vivió en Bélgica después de 1922, siguió siendo ciudadano belga durante toda su vida. En 1978, Marie-Jo, la hija que Simenon tuvo con Denyse Ouimet, se suicidó en París a la edad de 25 años, un evento que conmovió al creador del comisario Maigret. En 1984, Simenon se sometió a cirugía por un tumor cerebral y tuvo una buena recuperación. Pero en los años siguientes, sin embargo, su salud empeoró. Murió mientras dormía por causas naturales la noche del 4 de septiembre de 1989 en Lausana. ÍNDICE: —La noche de los siete minutos Les dossiers de l’Agence «O» (1943): —La jaula de Emilio (1941) —La choza de madera (1941) —El hombre desnudo (1941) —La detención del músico (1941) —El estrangulador de Moret (1941) —El anciano del lapicero (1941) —Los tres botes de la Caleta (1941) —La florista de Deauville (1941) —El billete de metro (1941) —Emilio en Bruselas (1941) —El prisionero de Lagny (1941) —El club de las Damas Ancianas (1941) —El doctor Tan-Pis (1941) —El chantaje de la Agencia O (1941) Le Petit Docteur (1943): —La astucia del Doctorcito (1939) —La señorita del vestido azul pálido (1939) —Un grito de mujer (1939) —El fantasma del Señor Marbe (1940) —Los casados del 1.º de diciembre (1940) —El muerto caído del cielo (1940) —El Holandés afortunado (1940) —El pasajero y su negro (1940) —La pista del pelirrojo (1940) —El almirante ha desaparecido (1940) —El timbre de alarma (1940) —El castillo del arsénico (1940) —El enamorado de las pantuflas (1941) Les nouvelles enquêtes de Maigret (1944): —La barca de los ahorcados (1936) —El caso del bulevar Beaumarchais (1936) —La ventana abierta (1936) —Señor Lunes (1936) —¡Jeumont, 51 minutos de parada! (1936) —Pena de muerte (1936) —El rastro de la vela (1936) —Calle Pigalle (1936) —Un error de Maigret (1937) —El enamorado de la señora Maigret (1939) —La anciana de Bayeux (1939) —La Posada de los ahogados (1936) —Stan, el asesino (1938) —La Estrella del Norte (1938) —Tempestad sobre la Mancha (1938) —La señorita Berthe y su amante (1938) (L’improbable Monsieur Owen) (1938) — No editado en lengua castellana (Ceux du Grand Café) (1938) — No editado en lengua castellana El notario de Chateauneuf (Le notaire du Châteauneuf) (1938) Maigret les petits cochons sans queue/ (1950): —Maigret y los cerditos sin rabo (1946) —Bajo pena de muerte (1946) —El sastrecillo y el sombrerero (1948) —Un tal Monsieur Berquin (1947) —La escala de buenaventura (1946) —El hombre en la calle (1940) [Otra traducción:] —Ese hombre por las calles (1940) —La subasta (1941) —El luto de Fonsine (1945) —Madame Cuatro y sus hijos (1945) 
+
+¿Quién es George Simenon? ![George Simenon](/assets/images/simenon.jpg) George [Joseph Christian] Simenon nació en Lieja, Bélgica, el 13 de febrero de 1903 y murió en Lausana, Suiza, el 4 de septiembre de 1989. Su padre, Désiré Simenon, trabajaba en una oficina de contabilidad en una compañía de seguros. Entre 1908 y 1914, Simenon asistió al Institut Saint-André. En septiembre de 1914, poco después del comienzo de la Primera Guerra Mundial, comenzó sus estudios en el Collège Saint-Louis, un colegio jesuita; pero, en junio de 1918, Simenon decidió poner fin a sus estudios, y ni siquiera tomó los exámenes de fin de año.
+
+Entonces trabajó en diversos trabajos ocasionales de muy corto plazo, hasta que en enero de 1919, antes de cumplir los 16 años, empieza a trabajar, como reportero, en La Gazette de Liège, un periódico editado por Joseph Demarteau. Con el seudónimo “G. Sim”, escribió más de 150 artículos. Mientras era empleado de La Gazette de Liège, comenzó a enviar historias a Le Matin, y comienza (junio 1919) a escribir su primera novela, Au Pont des Arches, la cual publicaría dos años después, en 1921, bajo su seudónimo “G.
+
+Sim”. Entre 1921 y 1934 usó un total de 17 seudónimos mientras escribía 358 novelas y cuentos. En 1922, muere Désiré Simenon, y el escritor usó la muerte de su padre para mudarse a París, y en poco tiempo se familiarizó con la ciudad, sus bares, hoteles baratos y sus restaurantes, y los los parisinos de la clase trabajadora ordinaria. Escribiendo bajo numerosos seudónimos, descubre que su creatividad podía pagar enormes dividendos financieros. En 1930, el comisario Maigret, el personaje más famoso inventado por Simenon, hizo su primera aparición en una pieza en Detective, escrita a petición de Joseph Kessel.
+
+El comisario Maigret protagonizará una serie de 76 novelas policíacas. Durante la Segunda Guerra Mundial, Simenon vivió en Vendée. La conducta de Simenon durante ese período no es del todo clara: fue denunciado como colaborador por los agricultores locales, mientras que al mismo tiempo, la Gestapo sospechaba que era judío. También, Simenon negoció los derechos cinematográficos de sus libros con estudios alemanes durante la ocupación —razón por la que fue sentenciado, en 1950, a un período de cinco años durante el cual se le prohibió publicar cualquier obra nueva.
+
+Entre 1945 y 1955, Simenon vivió en los Estados Unidos y Canadá. Primero en Quebec, Canadá, después en Anna Maria Island cerca de Bradenton, Florida; en Nogales, Arizona; en California; y en Shadow Rock Farm, en Lakeville, Connecticut. Mientras estaba en los Estados Unidos, Simenon aprendió a hablar inglés con relativa facilidad. Simenon regresó a Europa en 1955, primero viviendo en Francia (principalmente en la Costa Azul) hasta que se estableció en Suiza. Aunque nunca vivió en Bélgica después de 1922, siguió siendo ciudadano belga durante toda su vida.
+
+En 1978, Marie-Jo, la hija que Simenon tuvo con Denyse Ouimet, se suicidó en París a la edad de 25 años, un evento que conmovió al creador del comisario Maigret. En 1984, Simenon se sometió a cirugía por un tumor cerebral y tuvo una buena recuperación. Pero en los años siguientes, sin embargo, su salud empeoró. Murió mientras dormía por causas naturales la noche del 4 de septiembre de 1989 en Lausana.
+
+Índice—La noche de los siete minutos Les dossiers de l’Agence «O» (1943): —
+
+La jaula de Emilio (1941)
+—
+
+La choza de madera (1941)
+—
+
+El hombre desnudo (1941)
+—
+
+La detención del músico (1941)
+—
+
+El estrangulador de Moret (1941)
+—
+
+El anciano del lapicero (1941)
+—
+
+Los tres botes de la Caleta (1941)
+—
+
+La florista de Deauville (1941)
+—
+
+El billete de metro (1941)
+—
+
+Emilio en Bruselas (1941)
+—
+
+El prisionero de Lagny (1941)
+—
+
+El club de las Damas Ancianas (1941)
+—El doctor Tan-
+
+Pis (1941)
+—
+
+El chantaje de la Agencia O (1941)
+
+Le Petit Docteur (1943):
+—
+
+La astucia del Doctorcito (1939)
+—
+
+La señorita del vestido azul pálido (1939)
+—
+
+Un grito de mujer (1939)
+—
+
+El fantasma del Señor Marbe (1940)
+—Los casados del 1.º
+
+de diciembre (1940)
+—
+
+El muerto caído del cielo (1940)
+—
+
+El Holandés afortunado (1940)
+—
+
+El pasajero y su negro (1940)
+—
+
+La pista del pelirrojo (1940)
+—
+
+El almirante ha desaparecido (1940)
+—
+
+El timbre de alarma (1940)
+—
+
+El castillo del arsénico (1940)
+—
+
+El enamorado de las pantuflas (1941)
+Les nouvelles enquê
+
+tes de Maigret (1944):
+—
+
+La barca de los ahorcados (1936)
+—
+
+El caso del bulevar Beaumarchais (1936)
+—
+
+La ventana abierta (1936)
+—
+
+Señor Lunes (1936)
+—¡Jeumont, 51 minutos de parada! (1936) —
+
+Pena de muerte (1936)
+—
+
+El rastro de la vela (1936)
+—
+
+Calle Pigalle (1936)
+—
+
+Un error de Maigret (1937)
+—
+
+El enamorado de la señora Maigret (1939)
+—
+
+La anciana de Bayeux (1939)
+—
+
+La Posada de los ahogados (1936)
+—
+
+Stan, el asesino (1938)
+—
+
+La Estrella del Norte (1938)
+—
+
+Tempestad sobre la Mancha (1938)
+—
+
+La señorita Berthe y su amante (1938)
+(L’improbable Monsieur Owen) (1938) — No editado en lengua castellana (Ceux du Grand Café) (1938) — No editado en lengua castellana El notario de Chateauneuf (Le notaire du Châteauneuf) (1938) Maigret les petits cochons sans queue/ (1950): —
+
+Maigret y los cerditos sin rabo (1946)
+—
+
+Bajo pena de muerte (1946)
+—
+
+El sastrecillo y el sombrerero (1948)
+—
+
+Un tal Monsieur Berquin (1947)
+—
+
+La escala de buenaventura (1946)
+—
+
+El hombre en la calle (1940)
+[Otra traducción:] —
+
+Ese hombre por las calles (1940)
+—
+
+La subasta (1941)
+—
+
+El luto de Fonsine (1945)
+—
+
+Madame Cuatro y sus hijos (1945)

@@ -1,0 +1,44 @@
+---
+layout: story
+title: General desconocido
+slug: general
+source: https://www.literatura.us/idiomas/buzzati/general.html
+tags:
+  - general
+  - buzzati
+---
+Dino Buzzati
+(Belluno, Italia, 1906 - Milán, 1972)
+General desconocido (1961)
+(“Generale ignoto”)
+Originalmente publicado en el periódico Corriere della Sera (30 de abril de 1961);
+Il Colombre
+(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)
+En un campo de batalla, uno de aquellos de los que nadie se acuerda, allá en la página 47 del atlas con una gran mancha amarillenta y algunos nombres llenos de haches desperdigados por aquí y por allí, durante una eventual prospección geológica el otro día se encontró nada menos que un general.
+Yacía bajo una delgada capa de arena —probablemente transportada por el viento en el transcurso de estos años ahora ya tan numerosos. A pesar de haber sido un general, yacía como cualquier pobre desdichado, como el último de los soldados de a pié, como un vagabundo sin patria, como un camello muerto de sed, o como un mendigo maldecido. Porque las diferencias sólo existen mientras vivimos, hablamos, alardeamos, cada cual desempeñando su papel. Y luego todo termina. Somos todos iguales en la posición idéntica de la muerte: tan simple, tan adaptada a las condiciones requeridas para la eternidad.
+Descripción: un esqueleto más bien deteriorado, mal conservado y, sin embargo, todavía con todos sus huesos; aproximadamente un metro setenta y dos de estatura, sin fracturas, sin orificios; las mandíbulas entreabiertas, como si le hubiera costado respirar (a propósito: un diente de oro).
+Además: jirones desteñidos del uniforme de campaña, ya con la consistencia de una telaraña; restos presumiblemente de botas, de cinturón, y también de guantes; un par de lentes de sol o de miope. En suma, nada extraordinario. Y los geólogos, todos técnicos, hombres de formación positivista, no hubieran hecho revuelo si en el lugar correspondiente a las clavículas no hubieran habido dos charreteras plateadas, con dos franjas también de plata; sobre el cráneo, un casco con una fina greca dorada; a la altura del pecho, muchas medallas de plata y bronce sostenidas por cintitas que conservaban aún sus bellos colores (no habían medallas de oro).
+Uno de los obreros lanzó una imprecación de sorpresa; otro dijo ¡oh!; un tercero profirió aún más exclamaciones. Y, de pronto, el ingeniero: “¡Cuidado, sobre todo los mozos!, no toquen nada.” Porque había oído hablar de ciertos antiguos tesoros enterrados, y sabía cuán delicados y frágiles se vuelven con el tiempo. De hecho, no hubo necesidad ni de tocar éste.
+Hacía un calor terrible; 9 h 40, pero ya el sol estaba alto, los obreros que trabajaban en las excavaciones sudaban a mares, y todas las cosas de los alrededores parecían bailotear en el aire ardiente. Mientras tanto, la brisa del mar cercano soplaba en ráfagas intermitentes, con ese aroma franco que tanto bienestar produce.
+Al contacto de este aire vivo, auténtico, fuerte y primordial, los testigos vieron entonces que las charreteras, las medallas y las cintitas se disolvían en microscópicas partículas, en un impalpable polvo plateado que fue rápidamente esparcido por el viento. En dos minutos, no subsistía de tanta gloria sino el casco de metal.
+Pero el ingeniero, un hombre muy capaz, había tomado fotos inmediatamente con la cámara que siempre llevaba en bandolera, para que existiese un documento probando que realmente se trataba de un general y no de cualquier pobre tipo.
+Sea como fuere, el ingeniero geólogo y todo su equipo se quedaron rígidos como postes, no sabían qué decir. Este desdichado esqueleto les causaba una curiosa impresión y, por lo tanto, se quedaban papando moscas sin malicia: ya las habían visto de todos los colores.
+Los obreros no sabían nada o casi nada de la guerra que se había desarrollado en aquel sitio. Todos ellos eran mozos que tenían entre veinte y veinticinco años, ¡figúrese usted! El ingeniero sabía algo más del tema, pero su ventaja era escasa: también él era apenas un muchachito cuando se luchó tan encarnizadamente allá arriba, y bien que se burlaba de esas historias. Sin embargo, todos comprendieron inmediatamente que se trataba de un general, un hombre muy importante en su tiempo.
+Con las precauciones del caso, buscaron alrededor de las costillas, el esternón, las vértebras y los fémures, si subsistía cualquier documento de identificación, una carta, una foto, o un pase, en fin: cualquier cosa tangible. Pero nada, ni rastro de nombre, ni iniciales, ni ningún otro indicio. Un general: eso era todo.
+Los hombres de hoy en día, los jóvenes de brazos fuertes como robles, los ingenieros acostumbrados a los misterios de la electrónica y la automatización, no tienen ni el tiempo ni la inclinación de sentirse conmovidos por un muerto. No vacilan delante de un pajarillo asfixiado; delante de un gato aplastado, esparcido como mantequilla sobre la carretera por los neumáticos de algún camión; a veces, ni siquiera delante del niño ahogado en el arroyo, del padre o la madre, si éstos llegaran a hacer un drama.
+¡Pero esto! Lo peor de todo, un general cuyo nombre nadie conoce, de quién nadie se acuerda; a quién nadie hace compañía; sin ordenanza, sin automóvil personal, sin sonar de trompetas, y eh aquí que el viento se ha llevado hasta sus medallas y lo ha dejado tan desnudo como un perro.
+Por el amplio contorno del cinturón se podía deducir que había sido un hombre muy corpulento; la cincuentena ya bien cumplida, seguramente salido de la Escuela de Guerra, autor de notables monografías, especialista en logística, casado como corresponde con una señorita de la aristocracia: un ser de gran espíritu, amigo de las artes, conversador brillante, oficial de extraordinaria trayectoria. Y, de hecho...
+Constelado de medallas conmemorando todas las batallas que ya has perdido, excepto la que habrás de librar mañana; pero justo entonces, también estarás muerto. A derecha e izquierda, sobre tus hombros ligeramente redondeados de gordura, llevabas charreteras plateadas, brillantes como el espejismo de la gloria. Y ahora no las luces más. ¿Quién sería el que te las otorgó?
+Huesito en forma de flauta, peroné gracioso y capaz, tú que diste tantas satisfacciones cuando aún descansabas sobre el estribo, vibrante de fervor marcial al son de las fanfarrias, ¡soñando en esas victorias heroicas que se encuentran en los libros de texto al revisar la historia!
+Huesito en forma de cetro, frágil hoy como un palito de pan crocante, ¿qué ordenas? Probablemente tú fuiste el último afectado en tu propósito evidente de controlar un vasto sector. “Es un jefe competente”, decía la gente. Y ahora yaces aquí.
+¿Es que no existe trompeta capaz de tocar una salva por el general X?
+No, no existe. Los generales jamás han caído simpáticos a la gente común, y ahora menos que nunca.
+—¡Éste ha debido tener tremenda barriga! —observa maliciosamente un obrero, señalando al yacente. Todos se echan a reír. Hasta el viento, que se mofa silbando por los arbustos de los alrededores, totalmente cubiertos de espinas y magras hojas afelpadas.
+¿Por qué el pobre soldadito desconocido o el portaestandarte despierta aún piedad a pesar de todo lo sucedido en estos últimos años, pero no el general?
+Los generales no sienten hambre, porque su mesa personal es la principal preocupación del ordenanza. Los generales no llevan calzado de cuero cocido que se agrieta martirizando los pies. Los generales no tienen una amiga lejana cuyo asiduo recuerdo los haga llorar de desamparo al caer la noche. Los generales no tienen mamá que los espere sentada inclinada junto al fuego, levantando la vista por momentos para mirar su fotografía, allá sobre la cómoda. Y por eso la gente no los quiere; y uno no siente piedad por ellos.
+Los generales no mueren de espaldas al mundo bajo el infierno de la artillería, de las bombas y de la metralla, sin que nadie se aperciba hasta que tan sólo un comunicado señale la pérdida. (Éste es una excepción a tal regla.) Y por eso la gente no los quiere; y uno no siente piedad por ellos.
+¡Cuán difícil es ser general, sobre todo muerto! En otro momento, sí, hubo que asistir a una ceremonia e inclusive un monumento. Pero, ¿y ahora? Ahora, cuando mucho, se hace una mueca y ¡vamos!... ¡a la basura!, olvidado.
+Entonces, de hecho, uno de los obreros comenzó a empujar arena con el pié para rellenar la excavación y cubrir por lo menos al desdichado. Luego, después de haber recogido sus herramientas, saltó con los otros al jeep que arrancó inmediatamente, y encendió un cigarrillo.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -7,4 +7,76 @@ tags:
   - index
   - lp
 ---
-¿Quién es Luigi Pirandello? ![Luigi Pirandello](/assets/images/lp.jpg) Luigi Pirandello es un dramaturgo, narrador y poeta italiano que escribe con humor las contradicciones a las que está siempre expuesto el ser humano, perdido en el mundo absurdo y gris de la existencia cotidiana. Aunque sus mayores contribuciones fueron sus obras de teatro —de hecho sus farsas trágicas son consideradas precursoras del teatro del absurdo—, en sus narraciones se pueden encontrar las claves de su obra dramática. Pirandello nació en una familia de clase alta en Villaseta de Càvusu (llamada actualmente Xaos), un suburbio pobre de Girgenti (Agrigento, una ciudad en el sur de Sicilia), el 28 de junio de 1867. Su padre pertenecía a una familia adinerada, involucrada en la industria del azufre, y su madre era descendiente de una familia de la clase profesional burguesa de Agrigento. En 1880, la familia Pirandello se mudó a Palermo; allí, en la capital de Sicilia, fue donde Luigi completó su educación secundaria. Pirandello luego se inscribió en la Universidad de Palermo en los departamentos de Derecho y Letras. En 1887, después de haber elegido definitivamente el Departamento de Letras, Pirandello se mudó a Roma para continuar sus estudios. En Roma, Pirandello tuvo la oportunidad de visitar asiduamente los numerosos teatros de la capital: Il Nazionale, Il Valle, il Manzoni. Pirandello tuvo un conflicto con un profesor de latín, se vio obligado a abandonar la Universidad de Roma y se fue a Bonn —la estancia en Bonn duró dos años. El 21 de marzo de 1891 recibió su doctorado en Filología Románica con una disertación en alemán sobre el dialecto de Agrigento: Sonidos y Desarrollos de Sonidos en el Habla de Craperallis. Después de una breve estadía en Sicilia, regresó a Roma. En 1894 publicó su primera colección de cuentos, Amori senza Amore y se casó con Antonietta Portulano, una chica tímida y retraída de una buena familia de origen Agrigentino, educada por las monjas de San Vincenzo, siguiendo la sugerencia de su padre. Pirandello intensificó sus colaboraciones con periódicos y revistas como La Critica y La Tavola Rotonda en las que publicó, en 1895, la primera parte del Dialoghi tra Il Gran Me e Il Piccolo Me. Desde 1897 enseñó literatura italiana en el Istituto Superiore di Magistero di Roma y ​​en la revista Marzocco publica varias páginas más del Dialoghi. En 1898, con Italo Falbo y Ugo Fleres, fundó el semanario Ariel, en el que publicó la obra de un acto L’Epilogo (más tarde, La Morsa) y algunas novelas cortas (La Scelta, Se ...). El final del siglo XIX y principios del XX fue un período de productividad extrema para Pirandello. En 1900, publicó en Marzocco algunas de sus novelas (Lumie di Sicilia, La Paura del Sonno) y, en 1901, la colección de poemas Zampogna. En 1902 publicó la primera serie de Beffe della Morte e della Vita y su segunda novela, Il Turno. En 1903, la inundación de las minas de azufre de Aragona, en la que su padre Stefano había invertido no solo una enorme cantidad de su propio capital sino también la dote de la esposa de Luigi (Antonietta), precipitó el colapso de la familia y le causó graves dificultades económicas y una fuerte depresión. Pirandello, que inicialmente albergaba pensamientos de suicidio, intentó remediar la situación lo mejor que pudo aumentando el número de sus lecciones en italiano y alemán y pidiendo una compensación de las revistas a las que había regalado libremente sus escritos y colaboraciones. En la revista New Anthology, dirigida por G. Cena, la novela que Pirandello había estado escribiendo en esta horrible situación comenzó a aparecer en episodios. El título fue Il fu Mattia Pascal, posiblemente basada en esa traumática experiencia. Fue un éxito inmediato y rotundo. Traducido al alemán en 1905, esta novela allanó el camino a la notoriedad y fama que permitió a Pirandello publicar para los editores más importantes como Treves, con quien publicó, en 1906, otra colección de 14 cuentos Erma Bifronte. En 1908 publicó un volumen de ensayos titulado Arte e Scienza y el importante ensayo L’Umorismo, en el que inició el legendario debate con Benedetto Croce que continuaría con mayor amargura y veneno en ambos lados durante muchos años. En 1909, la primera parte de I Vecchi e I Giovani se publicó en episodios. También en 1909, Pirandello comenzó su colaboración con la prestigiosa revista Corriere della Sera en la que publicó los cuentos Mondo di Carta, La Giara y, en 1910, Non è una cosa seria y Pensaci, Giacomino!. En este punto, Pirandello era ya un escritor famoso. En 1911, mientras continuaba la publicación de novelas y cuentos, Pirandello terminó su cuarta novela, Suo Marito, republicada póstumamente (1941), y completamente revisada en los primeros cuatro capítulos, con el título Giustino Roncella nato Boggiòlo. El trabajo que absorbió la mayor parte de sus energías en este momento fue la colección de cuentos La Vendetta del Cane, Quando s’è capito il giuoco, Il treno ha fischiato, Filo d’aria y Berecche e la guerra. Todos fueron publicados de 1913 a 1915 y ahora se consideran clásicos de la literatura italiana. Cuando Italia ingresó en la Primera Guerra Mundial, el hijo de Pirandello, Stefano, se ofreció para el servicio y fue tomado prisionero por los austro-húngaros. Stefano regresó a casa cuando terminó la guerra. En 1919 Pirandello hizo colocar a su esposa en un asilo. La separación de su esposa, le causó un gran sufrimiento a Pirandello. Ella nunca salió del manicomio. En 1921, la Compagnia di Dario Niccomedi organizó, en el Valle di Roma, la obra, Sei personaggi in cerca d'autore. Fue un fracaso. El mismo drama, sin embargo, fue un gran éxito cuando se presentó en Milán, en 1922. Su acercamiento al partido fascista en los años veinte causó un gran desazón entre sus lectores y en la ciudadanía italiana. En 1925, Pirandello, con la ayuda de Mussolin, asumió la dirección artística y la propiedad del Teatro d’Arte di Roma, fundado por el Gruppo degli Undici. Y si bien logró el premio Nobel en 1934 como el reconocimiento de su valor como novelista y autor teatral, esto no ha dejado de empañar su imagen. Pirandello murió solo, en su casa, en Via Bosio, Roma, el 10 de diciembre de 1936. ÍNDICE: Relatos —Limones de Sicilia (1900) —Con otros ojos (1901) —Una voz (1904) —El otro hijo (1905) —La Corona (1907) —Mundo de papel (1909) —La tinaja (1909) —No es algo serio (1910) —¡Piénsatelo, Giacomino! (1910) —La tragedia de un personaje (1911) —Cuando se ha entendido el juego (1913) —La venganza del perro (1913) —El tren ha silbado (1914) —Hilo de aire (1914) —Berecche y la guerra (1915) —La señora Frola y el señor Ponza, su yerno (1917) —Cuando se comprende (1918) 
+
+¿Quién es Luigi Pirandello? ![Luigi Pirandello](/assets/images/lp.jpg) Luigi Pirandello es un dramaturgo, narrador y poeta italiano que escribe con humor las contradicciones a las que está siempre expuesto el ser humano, perdido en el mundo absurdo y gris de la existencia cotidiana. Aunque sus mayores contribuciones fueron sus obras de teatro —de hecho sus farsas trágicas son consideradas precursoras del teatro del absurdo—, en sus narraciones se pueden encontrar las claves de su obra dramática. Pirandello nació en una familia de clase alta en Villaseta de Càvusu (llamada actualmente Xaos), un suburbio pobre de Girgenti (Agrigento, una ciudad en el sur de Sicilia), el 28 de junio de 1867.
+
+Su padre pertenecía a una familia adinerada, involucrada en la industria del azufre, y su madre era descendiente de una familia de la clase profesional burguesa de Agrigento. En 1880, la familia Pirandello se mudó a Palermo; allí, en la capital de Sicilia, fue donde Luigi completó su educación secundaria. Pirandello luego se inscribió en la Universidad de Palermo en los departamentos de Derecho y Letras. En 1887, después de haber elegido definitivamente el Departamento de Letras, Pirandello se mudó a Roma para continuar sus estudios.
+
+En Roma, Pirandello tuvo la oportunidad de visitar asiduamente los numerosos teatros de la capital: Il Nazionale, Il Valle, il Manzoni. Pirandello tuvo un conflicto con un profesor de latín, se vio obligado a abandonar la Universidad de Roma y se fue a Bonn —la estancia en Bonn duró dos años. El 21 de marzo de 1891 recibió su doctorado en Filología Románica con una disertación en alemán sobre el dialecto de Agrigento: Sonidos y Desarrollos de Sonidos en el Habla de Craperallis. Después de una breve estadía en Sicilia, regresó a Roma.
+
+En 1894 publicó su primera colección de cuentos, Amori senza Amore y se casó con Antonietta Portulano, una chica tímida y retraída de una buena familia de origen Agrigentino, educada por las monjas de San Vincenzo, siguiendo la sugerencia de su padre. Pirandello intensificó sus colaboraciones con periódicos y revistas como La Critica y La Tavola Rotonda en las que publicó, en 1895, la primera parte del Dialoghi tra Il Gran Me e Il Piccolo Me. Desde 1897 enseñó literatura italiana en el Istituto Superiore di Magistero di Roma y ​​en la revista Marzocco publica varias páginas más del Dialoghi.
+
+En 1898, con Italo Falbo y Ugo Fleres, fundó el semanario Ariel, en el que publicó la obra de un acto L’Epilogo (más tarde, La Morsa) y algunas novelas cortas (La Scelta, Se ...). El final del siglo XIX y principios del XX fue un período de productividad extrema para Pirandello. En 1900, publicó en Marzocco algunas de sus novelas (Lumie di Sicilia, La Paura del Sonno) y, en 1901, la colección de poemas Zampogna. En 1902 publicó la primera serie de Beffe della Morte e della Vita y su segunda novela, Il Turno.
+
+En 1903, la inundación de las minas de azufre de Aragona, en la que su padre Stefano había invertido no solo una enorme cantidad de su propio capital sino también la dote de la esposa de Luigi (Antonietta), precipitó el colapso de la familia y le causó graves dificultades económicas y una fuerte depresión. Pirandello, que inicialmente albergaba pensamientos de suicidio, intentó remediar la situación lo mejor que pudo aumentando el número de sus lecciones en italiano y alemán y pidiendo una compensación de las revistas a las que había regalado libremente sus escritos y colaboraciones.
+
+En la revista New Anthology, dirigida por G. Cena, la novela que Pirandello había estado escribiendo en esta horrible situación comenzó a aparecer en episodios. El título fue Il fu Mattia Pascal, posiblemente basada en esa traumática experiencia. Fue un éxito inmediato y rotundo. Traducido al alemán en 1905, esta novela allanó el camino a la notoriedad y fama que permitió a Pirandello publicar para los editores más importantes como Treves, con quien publicó, en 1906, otra colección de 14 cuentos Erma Bifronte.
+
+En 1908 publicó un volumen de ensayos titulado Arte e Scienza y el importante ensayo L’Umorismo, en el que inició el legendario debate con Benedetto Croce que continuaría con mayor amargura y veneno en ambos lados durante muchos años. En 1909, la primera parte de I Vecchi e I Giovani se publicó en episodios. También en 1909, Pirandello comenzó su colaboración con la prestigiosa revista Corriere della Sera en la que publicó los cuentos Mondo di Carta, La Giara y, en 1910, Non è una cosa seria y Pensaci, Giacomino!.
+
+En este punto, Pirandello era ya un escritor famoso. En 1911, mientras continuaba la publicación de novelas y cuentos, Pirandello terminó su cuarta novela, Suo Marito, republicada póstumamente (1941), y completamente revisada en los primeros cuatro capítulos, con el título Giustino Roncella nato Boggiòlo. El trabajo que absorbió la mayor parte de sus energías en este momento fue la colección de cuentos La Vendetta del Cane, Quando s’è capito il giuoco, Il treno ha fischiato, Filo d’aria y Berecche e la guerra.
+
+Todos fueron publicados de 1913 a 1915 y ahora se consideran clásicos de la literatura italiana. Cuando Italia ingresó en la Primera Guerra Mundial, el hijo de Pirandello, Stefano, se ofreció para el servicio y fue tomado prisionero por los austro-húngaros. Stefano regresó a casa cuando terminó la guerra. En 1919 Pirandello hizo colocar a su esposa en un asilo. La separación de su esposa, le causó un gran sufrimiento a Pirandello. Ella nunca salió del manicomio. En 1921, la Compagnia di Dario Niccomedi organizó, en el Valle di Roma, la obra, Sei personaggi in cerca d'autore.
+
+Fue un fracaso. El mismo drama, sin embargo, fue un gran éxito cuando se presentó en Milán, en 1922. Su acercamiento al partido fascista en los años veinte causó un gran desazón entre sus lectores y en la ciudadanía italiana. En 1925, Pirandello, con la ayuda de Mussolin, asumió la dirección artística y la propiedad del Teatro d’Arte di Roma, fundado por el Gruppo degli Undici. Y si bien logró el premio Nobel en 1934 como el reconocimiento de su valor como novelista y autor teatral, esto no ha dejado de empañar su imagen.
+
+Pirandello murió solo, en su casa, en Via Bosio, Roma, el 10 de diciembre de 1936.
+
+ÍndiceRelatos —
+
+Limones de Sicilia (1900)
+—
+
+Con otros ojos (1901)
+—
+
+Una voz (1904)
+—
+
+El otro hijo (1905)
+—
+
+La Corona (1907)
+—
+
+Mundo de papel (1909)
+—
+
+La tinaja (1909)
+—
+
+No es algo serio (1910)
+—¡Piénsatelo, Giacomino! (1910) —
+
+La tragedia de un personaje (1911)
+—
+
+Cuando se ha entendido el juego (1913)
+—
+
+La venganza del perro (1913)
+—
+
+El tren ha silbado (1914)
+—
+
+Hilo de aire (1914)
+—
+
+Berecche y la guerra (1915)
+—
+
+La señora Frola y el señor Ponza, su yerno (1917)
+—
+
+Cuando se comprende (1918)

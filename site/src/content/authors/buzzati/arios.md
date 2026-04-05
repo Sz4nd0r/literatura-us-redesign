@@ -1,0 +1,38 @@
+---
+layout: story
+title: Los reciarios
+slug: arios
+source: https://www.literatura.us/idiomas/buzzati/arios.html
+tags:
+  - arios
+  - buzzati
+---
+Dino Buzzati
+(Belluno, Italia, 1906 - Milán, 1972)
+Los reciarios (1947)
+[Otro título en español: “Los gladiadores”]
+(“I reziarii”)
+Originalmente publicado en el periódico Corriere della Sera (19 de octubre de 1947);
+El desplome de la Baliverna
+(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)
+Monseñor estaba solo en el campo. Se acercó a un seto y, con un palito, sacó de su tela a una gran araña: era joven, sólida, magnífica; delicados dibujos de colores exquisitos adornaban el arco de su abdomen. El bichito, sacado con su propio hilo, se balanceaba suspendido en el vacío, sin comprender qué le estaba pasando.
+En una abertura cercana del mismo seto, se encontraba otra araña, todavía más formidable. Se parecía a Moloc, o quizá incluso al dragón, la serpiente ancestral, que recibe también el nombre de Satanás. Saciada e inmóvil, reinaba con toda su magnificencia en aquel trocito de mundo. Con el fin de realizar un experimento, monseñor, con un gesto decidido, echó dentro de la red a la primera araña, que quedó adherida y atrapada.
+Al hombre ni siquiera le dio tiempo a verlo. La gran araña parecía dormir, pero se lanzó rapidísima sobre la intrusa y la envolvió de inmediato con sus plateadas gasas de baba. No hubo lucha. En unos instantes la primera araña quedó completamente inmovilizada.
+Atardecía, el campo estaba en calma, el sol se ponía lentamente sobre las montañas, haciendo brillar la telaraña con sus diminutos dibujos. Todo había vuelto a la paz de antes. En medio de la tela, la gigantesca araña permanecía inmóvil, como aletargada. Más abajo, colgaba el envoltorio con la enemiga dentro. ¿Habría muerto? De vez en cuando sus dos patas anteriores temblaban de forma casi imperceptible.
+Hasta que, de pronto, la prisionera se soltó. No hizo esfuerzos visibles, no dio ninguna sacudida. ¿Habría descifrado el secreto, meditando dentro de la trampa? Salió del atolladero, apareció intacta, se encaminó sin prisa por uno de los hilos radiales que sujetaban la red. Date prisa, muévete —pensó monseñor—; ¿quieres que te vuelva a atrapar? Pero la araña se tomaba su tiempo.
+Moloc, envarada en su trono, no pestañeó. ¿Había habido un pacto entre las dos? La más grande podía por ejemplo haber dicho a la otra: si consigues liberarte, te perdonaré, o algo parecido. De hecho, permaneció quieta como una estatua, fingiendo no enterarse, renunciando. Y ya la otra volvía a internarse en el follaje.
+Monseñor, sin embargo, fue más rápido y consiguió retirar de la planta a la araña fugitiva, teniendo cuidado de no hacerle daño. La hizo oscilar dos o tres veces como un péndulo y luego la lanzó delicadamente por segunda vez a la red.
+Y por segunda vez la giganta saltó. En un santiamén estuvo sobre la otra y, abriendo los ojos, trató de envolverla. Hubo una breve lucha. La menor había quedado atrapada en la red y no podía volverse para luchar de frente. De alguna forma, no obstante, se defendía, retorciéndose hacia atrás. Poco después, quedó inmóvil en esta posición tan desventajosa.
+Sin embargo, las ataduras eran mucho menos perfectas que antes. En el reto inicial, la araña mayor había malgastado su baba y ya no le quedaba casi nada. Tuvo que limitarse a un atado muy elemental, dejando grandes espacios entre las mallas. En ese momento, detrás de monseñor se movió algo de color negro, tal vez un pájaro, una hoja al caer, una culebra. Se volvió sobresaltado pero el campo estaba completamente desierto. La araña vencedora no volvió enseguida a su trono. Esta vez trabajaba con mucho afán en torno al cuerpo de la prisionera y le mordía lentamente el dorso para envenenarla. La otra lo soportaba, resignada, y parecía no sufrir.
+Después de maltratarla durante largo rato, volvió al centro de la red, pero luego pareció arrepentirse y se puso a mordisquearla de nuevo. Así hasta tres veces. A la tercera, la prisionera sacó sus pinzas por una rendija de la red que la encerraba y agarró al vuelo una pata de su verdugo.
+Moloc fue presa de la agitación, abandonó a la víctima y trató de retirarse. Pero la otra resistía con furia. Le estiraba la pata hasta el espasmo, un poco más y se la habría roto. Hasta que a la prisionera le fallaron las fuerzas y sus pinzas cedieron.
+Con la duda de que alguien le estuviera observando por la espalda, monseñor se volvió de nuevo. Pero detrás de él no había nadie, salvo la campiña, la puesta de sol y una nube amarilla con una especie de brazo muy largo, parecido a una advertencia. ¿Dirigida a él, quizá?
+Cojeando, la araña grande volvió a subir a su estrado, con una abyecta consternación. Parecía dominada por el temor a haber sido envenenada. Con mucho cuidado empezó a acariciarse la pata que su adversaria le había agarrado. Se la alisaba con las otras siete, se la llevaba a la boca y parecía lamerla, después la estiraba para comprobarla, como hacemos los humanos después de habernos hecho alguna torcedura. Parecía una madre con su hijo. Al cabo de unos minutos, sin embargo, empezó a tranquilizarse. Para ver si su pata podía seguir pinzando, la comprobaba ahora en los mismos hilos de la red, casi como si tocara el arpa. Después, con desagradable embelesamiento, se la volvía a acariciar.
+Finalmente, ya consolada, volvió al feroz trabajo con más ensañamiento si cabe. Su pinza se hundió en el abdomen de la víctima, cortándolo como si fuera un abrelatas. Y de las grietas comenzó a manar un líquido espeso y blanquecino.
+En ese momento, mientras el sol moría, el desmesurado brazo de la nube, suspendido sobre el valle, se volvió vivo y ardiente, reflejándose sobre el mundo. Incluso el seto, dentro de sus limitadas posibilidades, resplandecía. Y sin embargo, ahora todo había vuelto a una quietud incluso mayor que la de antes, porque, de las dos arañas al acecho que había hacía un momento, sólo quedaba una, inmóvil y absorta como si no hubiera pasado nada. La otra había dejado de ser araña, era un capullo inerte y flácido; incluso el derrame viscoso de sus vísceras comenzaba a coagularse. Pero aquello no era todavía la muerte: encogidas como estaban en la bolsita, las dos patas anteriores se movían unas décimas de milímetro.
+Una calesa pasó por la carretera cercana, el caballito trotaba alegremente y desapareció hacia el norte. Después, al otro lado del río, monseñor oyó cantar a una campesina con turbador abandono. Estaba solo. Con la precisión de un cirujano, rompió las ataduras con la ayuda de un palito y liberó al bichito torturado. Después lo depositó sobre una hoja.
+Allí quedó la criatura, completamente lisiada, manteniendo la postura que antes había tenido en su prisión, como si hubiera estado enyesada, a causa de la invasora parálisis. Después intentó caminar y cayó de lado. Las ocho patitas palpitaban suavemente al mismo ritmo, como invocando: la abandonada, la inocente, el cordero de Dios.
+De rodillas en el prado, monseñor se inclinaba sobre aquel dolor irremediable. ¡Dios mío, qué había hecho! Había bastado muy poco, un juego, un pequeño experimento, para destruir una vida. Mientras pensaba esto, se dio cuenta de que la araña lo miraba: algo duro y punzante subía hasta él desde sus ojitos inexpresivos. Y también se dio cuenta de que el sol se había puesto: los árboles y los setos se volvían misteriosos entre la neblina, esperando. ¿Y ahora quién se movía a su espalda? ¿Quién susurraba en voz baja su nombre? No parecía haber nadie.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

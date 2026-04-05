@@ -7,4 +7,55 @@ tags:
   - index
   - kate
 ---
-¿Quién es Kate Chopin? ![Kate Chopin](/assets/images/kc.jpg) Kate Chopin es una narradora estadounidense, precursora de la narrativa regionalista y feminista. Es, probablemente, una de las más importantes narradoras regionalista de los Estados Unidos. Nacida Katherine O’Flaherty, Kate Chopin nació en St. Louis, Missouri, el 8 de febrero de 1850, la tercera de cinco hermanos. Su padre, Thomas O’Flaherty, era un exitoso hombre de negocios que había inmigrado a los Estados Unidos desde Galway, Irlanda; su madre, Eliza Faris, era de ascendencia francocanadiense. Su padre murió en 1855, cuando ella tenía tan solo cinco años, y sus hermanas murieron en la infancia; tan solo sobrevivió su medio hermano (del primer matrimonio de su padre), quien moriría a los veinte años. En 1855 ingresó en la St. Louis Academy of the Sacred Heart; después de una pausa entre 1863 y 1865 (en ese período, en la casa, aprendió francés, estudió música e historia), se graduó, con del Sacred Heart Convent de St. Louis, en 1868, sin ninguna distinción particular. Fue criada como católica romana, en las tradiciones francesa e irlandesa. Tenía una relación muy cercana con su madre y su abuela y fue una ferviente lectora de cuentos de hadas, poesía y narrativa clásica y contemporánea. En 1863 murió su bisabuela y su medio hermano George, quien era un soldado confederado. El 8 de junio de 1870 se casó, en St. Louis, con Oscar Chopin, un miembro de la comunidad criolla francesa de St. Louis. Tuvieron una luna de miel en Alemania, Suiza y Francia, y cuando la pareja regresó, se instalaron en Nueva Orleans, donde vivía su esposo. Entre 1871 y 1879, la familia tuvo seis hijos. Oscar Chopin, inicialmente en el negocio de algodón como corredor, decidió ser fabricante, y nueve años después, en 1879, el negocio fracasó, y la familia se mudó a Cloutierville, en el sur de de Natchitoches Parish, Luisiana, para administrar pequeñas plantaciones y una tienda general. Su esposo murió en 1882, dejando una deuda de 42.000 dólares. Chopin trató de seguir el negocio de la plantación y la tienda general, sin mucho éxito, y dos años más tarde lo vendió. Con el apoyo económico de su madre, Chopin regresó a St. Louis. Su madre murió al año siguiente. A sugerencias del obstetra y amigo de la familia, el Dr. Frederick Kolbenheyer, empieza a escribir. En 1890, publicó, en una edición privada, su primera novela, At Fault, sobre una joven viuda y las limitaciones sexuales de las mujeres. A principios de la década de 1890, sus cuentos, artículos y traducciones empiezan a publicarse en publicaciones periódicas, incluido el periódico St. Louis Post-Dispatch y la revista Vogue, y en varias revistas literarias, como Atlantic Monthly y Criterion. En 1894, publicó Bayou Folk, una colección de veintitrés cuentos, en su mayoría publicados en publicaciones periódicas. El libro tuvo un éxito moderado y obtuvo atención nacional. Tres años después, en 1897, publicó su segunda colección de cuentos, A Night in Acadie. En 1899 publicó su segunda novela, The Awakening. Un grupo limitado de críticos de periódicos opinaron favorablemente sobre la novela, pero la recepción de la crítica fue en gran medida negativa. En general, los críticos consideraron que el comportamiento de los personajes de la novela era ofensivo. La novela fue ampliamente prohibida y quedó descatalogada durante varias décadas; se volvió a publicar en la década de 1970, y ahora se le considera un clásico de la ficción feminista. La publicación de su próxima novela fue cancelada, y quizás desanimada por la crítica, Chopin se dedicaría a escribir cuentos. En realidad, Chopin nunca ganó mucho dinero con sus obras; sobrevivió con la herencia de su madre, la cual invirtió localmente en Louisiana y St. Louis. El 20 de agosto de 1904, mientras visitaba la Feria Mundial de St. Louis, sufrió una hemorragia cerebral. Murió dos días después. Apenas tenía 54 años. ÍNDICE: Narrativa: Bayou Folk (1894): —X. El hijo de Désirée (1893 —XXI. La bella Zoraida (1894) A Night in Acadie (1897): —II. Athénaïse (1896) —V. Arrepentimiento (1895) —XIX. Una mujer respetable (1894) Otros cuentos: —Más sabia que un Dios (1889) —Un asunto indecoroso (1891) —Historia de una hora [Relato de una hora] [En el espacio de una hora] (1894) —Lilas (1896) —Un par de medias de seda (1897) —El Ciego (1897) —La tormenta (1898*) 
+
+¿Quién es Kate Chopin? ![Kate Chopin](/assets/images/kc.jpg) Kate Chopin es una narradora estadounidense, precursora de la narrativa regionalista y feminista. Es, probablemente, una de las más importantes narradoras regionalista de los Estados Unidos. Nacida Katherine O’Flaherty, Kate Chopin nació en St. Louis, Missouri, el 8 de febrero de 1850, la tercera de cinco hermanos. Su padre, Thomas O’Flaherty, era un exitoso hombre de negocios que había inmigrado a los Estados Unidos desde Galway, Irlanda; su madre, Eliza Faris, era de ascendencia francocanadiense.
+
+Su padre murió en 1855, cuando ella tenía tan solo cinco años, y sus hermanas murieron en la infancia; tan solo sobrevivió su medio hermano (del primer matrimonio de su padre), quien moriría a los veinte años. En 1855 ingresó en la St. Louis Academy of the Sacred Heart; después de una pausa entre 1863 y 1865 (en ese período, en la casa, aprendió francés, estudió música e historia), se graduó, con del Sacred Heart Convent de St. Louis, en 1868, sin ninguna distinción particular. Fue criada como católica romana, en las tradiciones francesa e irlandesa.
+
+Tenía una relación muy cercana con su madre y su abuela y fue una ferviente lectora de cuentos de hadas, poesía y narrativa clásica y contemporánea. En 1863 murió su bisabuela y su medio hermano George, quien era un soldado confederado. El 8 de junio de 1870 se casó, en St. Louis, con Oscar Chopin, un miembro de la comunidad criolla francesa de St. Louis. Tuvieron una luna de miel en Alemania, Suiza y Francia, y cuando la pareja regresó, se instalaron en Nueva Orleans, donde vivía su esposo. Entre 1871 y 1879, la familia tuvo seis hijos.
+
+Oscar Chopin, inicialmente en el negocio de algodón como corredor, decidió ser fabricante, y nueve años después, en 1879, el negocio fracasó, y la familia se mudó a Cloutierville, en el sur de de Natchitoches Parish, Luisiana, para administrar pequeñas plantaciones y una tienda general. Su esposo murió en 1882, dejando una deuda de 42.000 dólares. Chopin trató de seguir el negocio de la plantación y la tienda general, sin mucho éxito, y dos años más tarde lo vendió. Con el apoyo económico de su madre, Chopin regresó a St.
+
+Louis. Su madre murió al año siguiente. A sugerencias del obstetra y amigo de la familia, el Dr. Frederick Kolbenheyer, empieza a escribir. En 1890, publicó, en una edición privada, su primera novela, At Fault, sobre una joven viuda y las limitaciones sexuales de las mujeres. A principios de la década de 1890, sus cuentos, artículos y traducciones empiezan a publicarse en publicaciones periódicas, incluido el periódico St. Louis Post-Dispatch y la revista Vogue, y en varias revistas literarias, como Atlantic Monthly y Criterion.
+
+En 1894, publicó Bayou Folk, una colección de veintitrés cuentos, en su mayoría publicados en publicaciones periódicas. El libro tuvo un éxito moderado y obtuvo atención nacional. Tres años después, en 1897, publicó su segunda colección de cuentos, A Night in Acadie. En 1899 publicó su segunda novela, The Awakening. Un grupo limitado de críticos de periódicos opinaron favorablemente sobre la novela, pero la recepción de la crítica fue en gran medida negativa. En general, los críticos consideraron que el comportamiento de los personajes de la novela era ofensivo.
+
+La novela fue ampliamente prohibida y quedó descatalogada durante varias décadas; se volvió a publicar en la década de 1970, y ahora se le considera un clásico de la ficción feminista. La publicación de su próxima novela fue cancelada, y quizás desanimada por la crítica, Chopin se dedicaría a escribir cuentos. En realidad, Chopin nunca ganó mucho dinero con sus obras; sobrevivió con la herencia de su madre, la cual invirtió localmente en Louisiana y St. Louis. El 20 de agosto de 1904, mientras visitaba la Feria Mundial de St.
+
+Louis, sufrió una hemorragia cerebral. Murió dos días después. Apenas tenía 54 años.
+
+ÍndiceNarrativa
+ Bayou Folk (1894):
+—X. El hijo de Désirée (1893 —
+
+XXI. La bella Zoraida (1894)
+
+A Night in Acadie (1897):
+—II. Athénaï
+
+se (1896)
+—
+
+V. Arrepentimiento (1895)
+—
+
+XIX. Una mujer respetable (1894)
+- Otros
+
+cuentos
+- —
+
+Más sabia que un Dios (1889)
+—
+
+Un asunto indecoroso (1891)
+—Historia de una hora [Relato de una hora] [En el espacio de una hora] (1894) —
+
+Lilas (1896)
+—
+
+Un par de medias de seda (1897)
+—
+
+El Ciego (1897)
+—La tormenta (1898*)

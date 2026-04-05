@@ -2,8 +2,8 @@
 
 {% block content %}
 <article>
-  <header>
-    <h1>{{ title }}</h1>
+  <header class="p-2">
+    <h1 class="title_style">{{ title }}</h1>
   </header>
   
   <div class="reader-content" id="reader-story">
@@ -11,7 +11,7 @@
   </div>
 
   <hr>
-  <p><a href="/content/authors/{{ tags[1] }}/">Volver al autor</a></p>
+  <p><a href="/content/authors/{{ tags[1] }}/" class="link_style">Volver al autor</a></p>
 </article>
 {% endblock %}
 

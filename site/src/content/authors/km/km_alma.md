@@ -1,0 +1,129 @@
+---
+layout: story
+title: Un alma moderna
+slug: km_alma
+source: https://www.literatura.us/idiomas/km/km_alma.html
+tags:
+  - km_alma
+  - km
+---
+Katherine
+Mansfield
+(Nueva Zelandia, 1888 -
+Francia, 1923)
+Un alma moderna (1911)
+(“The Modern Soul”)
+Originalmente publicado en The New Age (22 de junio de 1911);
+In A German Pension
+(Londres: Stephen Swift and Company, 1911, 251 págs.)
+—Buenas tardes —dijo Herr Professor estrechándome la mano—. ¡Qué tiempo más admirable! Acabo de volver de una jira en el bosque. Les estuve entreteniendo con el trombón. No puede imaginar qué acompañamiento más adecuado son los pinos para el trombón. Suspiran con tanta delicadeza ante fuerzas tan tenaces, como hice notar en una conferencia que di en Franckfurt sobre los instrumentos de viento. ¿Permite que me siente en el banco a su lado, gnädige Frau?
+Se sentó y, tirando del bolsillo de atrás de su levita, sacó una bolsa blanca de papel.
+—Cerezas —explicó sonriendo y con expresivos movimientos de cabeza—. No hay nada como las cerezas para producir saliva abundante después de tocar el trombón. Sobre todo tras el Ich Liebe Dich, de Grieg. Ese soplo sostenido en liebe me deja la garganta como el papel de lija. ¿Quiere unas? —añadió agitando la bolsa ante mí.
+—Prefiero vérselas comer a usted.
+— ¡Ja, ja! —cruzó las piernas, sujetando la bolsa de las cerezas con las rodillas a fin de tener libres las manos.
+—Psicológicamente comprendo su negativa. Es debida a su innata delicadeza femenina, que prefiere sensaciones etéreas... ¿O será que no le gusta comer gusanos? Todas las cerezas tienen gusanos. En cierta ocasión hice un experimento muy interesante con un colega de la Universidad. La apuesta era con cuatro libras de las mejores cerezas, y no encontramos ni un solo espécimen sin gusanos. ¿Qué quiere usted? Como le hice observar a mi amigo después, en suma se reduce a esto: si uno quiere satisfacer sus deseos naturales, ha de ser lo suficientemente fuerte para ignorar los hechos de la Naturaleza. ¿No será esta conversación demasiado profunda para usted? Tengo tan pocas ocasiones de abrir mi corazón a una mujer, que fácilmente olvido con quién estoy hablando.
+Le miré divertida.
+—¡Vea ésta qué gorda! —exclamó Herr Professor—, casi no se puede comer de un bocado. Es tan bonita, que merecía colgarla en la cadena del reloj como un dije —se comió la cereza y escupió el hueso a una distancia increíble. Pasando por encima del caminillo del jardín, fue a caer en el macizo de flores. Vi que había quedado muy satisfecho de su hazaña—. ¡Cuánta fruta he comido sentado en este banco! —suspiró—: albaricoques, peras, cerezas. Un buen día ese macizo se va a convertir en un bosquecillo de árboles frutales. Le dejaré coger toda la fruta que quiera sin cobrarle nada.
+Me mostré agradecida, pero sin exageración.
+—Esto me hace recordar —añadió dándose un golpecito con el dedo a un largo de la nariz— que el gerente de la pensión me entregó esta tarde después de la comida la factura de la semana. Es casi imposible admitirlo. Ya sé que usted no lo va a creer. Me ha cargado extra un miserable vaso de leche que tomo en la cama por las noches para prevenir el insomnio. Por supuesto, no lo he pagado. Pero lo trágico del caso es que ahora no puedo esperar ya que la leche me sirva de soporífero; mi apacible estado de ánimo respecto a ella ha quedado totalmente destruido. Me pondría malo solamente con intentar sondear ese abismo de avaricia, en un hombre tan adinerado como el gerente de una pensión. Piense en mí esta noche, cuando deje caer somnolienta su cabeza en la almohada —él dejó caer al suelo la bolsa vacía y la pisó con los talones—, piense en mí, que estaré pasándolo muy mal.
+Dos damas salieron a las gradas de la puerta de la pensión y permanecieron asidas del brazo mirando al jardín. Una de ellas, anciana y descarnada, llevaba un vestido cubierto casi totalmente con guarniciones de abalorios negros, y una bolsa de mano de satén. La otra, joven y esbelta, iba vestida de blanco, y llevaba unas flores color malva de guisante de olor adornando con gusto exquisito sus rubios cabellos.
+El profesor recogió presuroso los pies, y se enderezó en el asiento estirándose el chaleco.
+—Las Godowska —murmuró—. ¿Las conoce? La madre padece una enfermedad interna, y la hija es actriz. Fräulein Sonia tiene un alma muy moderna. Creo que le va a resultar muy simpática. Ahora ha de cuidar de su madre. Pero ¡qué temperamento! Una vez la describí en su álbum de autógrafos como una tigresa con una flor en el pelo. ¿Me dispensa usted? Si logro convencerlas, se las presentaré.
+—Voy a ir a mi habitación —dije.
+Pero el profesor se levantó y me amenazó en broma con el dedo.
+—Mire —dijo—, somos amigos y por eso voy a hablarle con toda confianza. Creo que van a encontrar un poco «significativo» que usted se retire cuando ellas se acercan, sobre todo después de haber estado sentada a solas conmigo en la semiobscuridad del crepúsculo. Ya sabe usted lo que es la gente. Sí, lo debe saber tan bien como yo.
+Me encogí de hombros, observando de reojo que, mientras el profesor había estado hablando, las Godowska habían avanzado a través del césped hacia nosotros, quedando frente al profesor cuando se puso en pie.
+—Buenas tardes —gorjeó Frau Godowska—. Qué tiempo más admirable. Me ha hecho casi sentir la fiebre del heno.
+Fräulein Godowska no dijo nada. Arrancó una rosa del huerto en cierne, y luego estrechó la mano de Herr Professor con gesto majestuoso.
+Me presentó:
+—Es la amiguita inglesa de quien les he hablado. Poco conocida en nuestros medios. Estuvimos comiendo cerezas juntos.
+—¡Qué delicioso! —suspiró Frau Godowska—. Les estuvimos observando, mi hija y yo, desde la ventana de nuestra alcoba. ¿Verdad, Sonia?
+Sonia absorbió mi forma visible y externa con una mirada intensa y espiritual. Luego repitió el gesto majestuoso en honor mío. Los cuatro nos sentamos en el banco con ese aire ligeramente inquieto de los pasajeros instalados en un coche de tren en espera de la señal de partida.
+Frau Godowska estornudó.
+—No sé si será la fiebre del heno —observó apresurándose a sacar el pañuelo de su bolsa de satén—, o quizá sea el relente. Sonia, hija mía, ¿hay relente?
+Fräulein Sonia alzó el semblante hacia el cielo con los ojos semicerrados.
+—No, mamá, no noto frío en el rostro. ¡Oh!, mire, Herr Professor, golondrinas en vuelo. Son como una pequeña bandada de pensamientos japoneses, ¿verdad?
+—¿Dónde? —preguntó Herr Professor—. ¡Ah!, sí. Ya las veo, junto a la chimenea de la cocina. Pero ¿por qué dice japoneses? ¿No podría compararlos con la misma exactitud a una pequeña bandada de alados pensamientos alemanes? —Y volviéndose hacia mí—. ¿Hay golondrinas en Inglaterra?
+—Creo que hay algunas en ciertas épocas del año. Pero sin duda no tienen el mismo valor simbólico para los ingleses. En Alemania...
+—No he estado nunca en Inglaterra —me interrumpió Fräulein Sonia—, pero tengo muchos amigos ingleses. Son tan fríos... —al decirlo se estremeció.
+—Sangre de pez —estalló Frau Godowska—. Sin alma, sin gracia, sin corazón. Pero no hay quien iguale sus géneros para vestir. Hace veinte años que pasé una semana en Brighton, y la gorra de viaje que compré allí aún no se ha gastado. Sonia, es esa con que envuelves la botella del agua caliente. Mi llorado esposo, tu padre, Sonia, sabía muchas cosas de Inglaterra. Pero cuanto más la conocía más me hacía observar: «Inglaterra no es sino una isla de carne de vaca nadando en un templado golfo de salsa.» ¡Qué manera más ocurrente de decir las cosas! ¿Lo recuerdas, Sonia?
+—No olvido nada de lo que oigo, mamá —repuso ésta.
+—Eso es una prueba de su vocación, sn Adige Frau —dijo Herr Professor—. Pero yo me pregunto, y esto es una interesantísima especulación: la memoria, ¿es un bien o (excuse la palabra) una maldición?
+Frau Godowska tenía la mirada perdida en la lejanía, pero las comisuras de su boca se contrajeron hacia abajo y su piel se arrugó. Se había puesto a llorar.
+—Ach Gott! [¡Dios mío!]. Bueno, señora, ¿qué es lo que he dicho? —exclamó Herr Professor.
+Sonia tomó la mano de su madre.
+—¿Sabe usted? —dijo—. Esta noche hay en la cena zanahoria en dulce y tarta de nueces. ¿Quieren que entremos a ocupar nuestros sitios? —mientras su mirada oblicua y trágica nos acusaba al profesor y a mí.
+Los seguí por el césped y subimos las gradas. Frau Godowska iba murmurando:
+—Un hombre tan admirado, tan querido...
+Con su mano libre, Fräulein Godowska se arreglaba la garniture de guisantes de olor.
+«A las ocho treinta de la noche, velada en el salón a beneficio de los niños católicos desamparados. Artistas: Fräulein Sonia Godowska, de Viena, Herr Professor Windberg, con su trombón, Frau Oberlehrer Weidel y otros.»
+Este aviso fue colgado del cuello de una melancólica cabeza de ciervo colocada en el comedor. Le caía como un babero rojo y blanco, lo que hizo que, en los días precedentes al acontecimiento, el profesor, siempre que pasaba, le hiciera reverencias, deseándole buen apetito. Hasta que nos cansamos de la gracia y dejamos que se la celebrara el camarero, ya que él cobraba por ser complaciente con los huéspedes.
+El día señalado, las damas casadas surcaban la pensión ataviadas como sillones tapizados, y las solteras como los faldellines de cretona de una mesita tocador. Frau Godowska prendió en el centro de su bolso una rosa, y puso otro capullo semi oculto entre los intrincados pliegues del blanco antimacasar que cruzaba su seno. Los caballeros llevaban ropas negras, corbata de seda blanca y ramitas de helecho en el ojal de las solapas, que les cosquilleaban el mentón.
+El piso fue encerado de nuevo, se dispusieron bancos y sillas y se prendió del techo una hilera de banderitas ensartadas en un hilo que con las corrientes de aire flameaban con todo el entusiasmo de un día de colada familiar.
+Quedó convenido que yo me sentaría al lado de Frau Godowska y que Herr Professor y Sonia se nos unirían después de ejecutar sus números en la velada.
+—Eso le hará sentirse como si fuera uno de los ejecutantes —decía el profesor jovialmente—. Es una lástima que Inglaterra no sea un país de músicos. Pero no importa. Esta noche va a oír algo bueno. Durante los ensayos hemos descubierto una nidada de talentos.
+—¿Y qué piensa usted recitar, Fräulein Sonia?
+Se alisó el cabello hacia atrás.
+—No lo sé nunca hasta el último momento. Cuando salgo a escena, me quedo recogida unos instantes y entonces tengo la sensación de que algo me hiere aquí —colocó la mano sobre el broche de su collar—, entonces las palabras acuden.
+—Sonia, amor mío, agáchate un poco —le dijo en voz baja su madre—. Se te está viendo el imperdible de la falda por detrás. ¿Quieres que salgamos fuera un momento para arreglártelo, o te lo arreglas tú misma?
+Sonia se ruborizó y se enfadó mucho.
+—¡Ay, mamá!, no digas esas cosas. Ya sabes lo sensible que soy para las más leves impresiones de incomprensión en circunstancias como ésta. Preferiría que se me resbalara la falda hasta el suelo.
+—¡Sonia, corazón mío!
+Tintineó una campanilla.
+El camarero entró a abrir el piano y con el azoramiento de aquel instante sacudió las teclas con una espantosa servilleta que llevaba bajo el brazo, sin darse cuenta de que no era aquello lo más apropiado. Frau Oberlehrer subió a la tarima seguida de un caballero muy joven que se sonó dos veces antes de arrojar su pañuelo a las profundidades del piano.
+Sí, sé que tú no tienes amor por mí.
+Y no tienes nomeolvides.
+Ni amor, ni corazón, ni nomeolvides.
+Cantó Frau Oberlehrer con una voz que parecía venir de su olvidado túmulo y que no le pertenecía.
+—Ach! ¡qué dulce! ¡qué delicado! —exclamamos, aplaudiendo cordialmente.
+Ella saludó como diciendo: «¿Verdad que sí?, y se retiraron. El caballerito sorteando la cola de ella y con cara de mal genio.
+Se cerró el piano y en el centro del entarimado colocaron un sillón. Fräulein Sonia se desplazó hacia él. Silencio sensacional. Entonces es probable que la alada saeta hiriera el broche de su cuello. Nos suplicó que no fuésemos al bosque en ropa de excursión, sino tan levemente vestidos como posible fuera, y que nos acostáramos a su lado en lecho de agujas de pino. Su voz fuerte, levemente áspera, llenó toda la sala. Apoyando los brazos en el respaldo del sillón, movía sólo las muñecas. Estábamos estremecidos y silenciosos. A mi lado, Herr Professor, anormalmente serio y con los ojos saltones, se tiraba de las guías del bigote. Frau Godowska adoptó esa actitud peculiar de despego de los padres que están orgullosos de sus hijos. La única alma que no respondió a la llamada, fue la del camarero. Recostado ocioso contra el muro del salón se limpiaba las uñas con el filo del programa, haciendo ver que no estaba de servicio.
+—¿Qué le parece? —me gritó Herr Professor al amparo de una tumultuosa salva de aplausos—. ¡Temperamental! Ahí la tiene. Es una llama en el corazón de una azucena. Siento que voy a tocar bien. Ahora me corresponde a mí. Estoy inspirado. Fräulein Sonia —añadió cuando la dama volvió donde nosotros estábamos, pálida y envuelta en su largo chal—, usted es mi inspiración. Esta noche será el alma de mi trombón. Va usted a ver.
+A nuestra derecha y a nuestra izquierda la gente se inclinaba para susurrar en la nuca de Fräulein Sonia su admiración. Ella saludaba con el mejor de los estilos.
+—Siempre tengo éxito —me dijo—. Fíjese, actuando soy yo de verdad. En Viena, cuando interpretaba a Ibsen, me junté con tantos ramos de flores, que hasta el cocinero tenía tres en su cuarto. Pero aquí es difícil. Falta magia. ¿No se da cuenta? No hay ese misterioso perfume que emana, casi como una cosa visible, del alma del público vienes. Mi espíritu desfallece por falta de él.
+Se inclinó hacia delante apoyando la barbilla en la mano.
+—Desfallece —repitió.
+El profesor apareció con el trombón, sopló en él, se lo acercó a un ojo, se remangó los puños de la camisa y se revolcó en el alma de Sonia Godowska. Causó tal sensación, que fue llamado de nuevo para tocar una danza bávara, que él mismo reconoció debió ser tomada como un ejercicio de gimnasia respiratoria más bien que como realización artística. Frau Godowska llevó el compás con el abanico.
+A continuación el caballerete vociferó en voz de tenor que amaba a alguien «con sangre en el corazón y mil congojas». Fräulein Sonia representó una escena de envenenamiento con la colaboración de un frasco de píldoras de su madre, siendo remplazado el sillón por una chaise longue. Una joven rascó algo arrullador en un violín poco maduro y Herr Professor realizó el postrer rito expiratorio en el altar de las criaturas desamparadas tocando el Himno Nacional.
+—Ahora tengo que acostar a mamá —murmuró Fräulein Sonia—. Pero después daré un paseo. Es indispensable que deje un momento en libertad a mi espíritu. ¿Por qué no viene conmigo a dar una vuelta hasta la estación?
+—Bien. Llame a la puerta de mi cuarto cuando esté lista.
+Así, el alma moderna y yo nos encontramos juntas bajo las estrellas.
+—¡Qué noche! —dijo—. ¿Conoce aquel poema de Safo donde habla del reflejo de sus manos en las estrellas? Soy curiosamente sáfica. Y lo más notable es que, no sólo soy sáfica, sino que en todas las obras de todos los grandes escritores, y especialmente en sus cartas inéditas, encuentro algún toque, algún indicio de mí, alguna semejanza, algún trozo de mí misma, como un millar de reflexiones de mis propias manos en un negro espejo.
+—¡Qué cosa más molesta! —exclamé.
+—No sé qué entiende usted por molestia. Es más bien la maldición de mi genio.
+De pronto se interrumpió mirándome fijamente:
+—¿Conoce usted mi tragedia?
+Moví negativamente la cabeza.
+—Mi tragedia es mi madre. Viviendo con ella, vivo dentro del féretro de mis abortadas aspiraciones. Oiría lo del imperdible de esta noche. Puede parecerle insignificante, pero estropeó mis tres primeros ademanes. Fueron...
+—¡Empalados en su imperdible! —sugerí.
+—Exacto. Y cuando estamos en Viena, soy víctima de las formas, ¿comprende? Me perezco por lo selvático y por las cosas apasionadas, pero mami dice: «Haz el favor de preparar primero la medicina.» Recuerdo que una vez me enfurecí y arrojé la jarra del lavabo por la ventana. ¿Sabe lo que me dijo? «Sonia, no me opongo a que tires las cosas por la ventana con tal de que...»
+—¿De que escogiese algo más pequeño? —sugerí.
+—No... «con tal de que me lo adviertas antes». Humillante. Y no veo ninguna posibilidad de luz en esta obscuridad.
+—¿Por qué no se incorpora a una compañía en tournée y deja en Viena a su madre?
+—¿Cómo? ¿Dejar a mi pobre madrecita enferma y viuda en Viena? Antes de eso me mataría. Amo a mi madre como a nadie en el mundo, como a nadie y a nada. ¿Cree posible que ame uno a su propia tragedia? «De mis grandes sufrimientos saco mis pequeñas canciones», ¿se trata de Heine o de mí?
+—Ah —dije alegremente—, pues eso está muy bien.
+—¿Cómo va a estar bien?
+Sugerí que podíamos dar la vuelta. Regresamos.
+—A veces pienso que la solución está en el matrimonio —dijo Fräulein Sonia—. Si yo encontrara un hombre modesto, apacible, que me adorase y cuidase de mi mamá, un hombre que pudiera ser como un almohadón para mí, ya que el genio no puede esperar hallar su pareja, entonces me casaría. Se habrá fijado en que el profesor tiene conmigo atenciones muy señaladas.
+—¡Oiga, Fräulein Sonia! —dije muy complacida de mi idea—, ¿por qué no casa al profesor con su mamá?
+Cruzábamos ante una peluquería y Fräulein Sonia me asió del brazo.
+—¡Oh! —balbuceó—. ¡Qué crueldad! Me voy a desmayar. ¡Casarse mi mamá antes que yo! ¡Qué indignidad! Me voy a desmayar. Y ahora mismo. Yo estaba asustada.
+—No puede usted hacer eso —le dije sacudiéndola—. Vamos a la pensión y allí se desmaya todo lo que quiera. Pero aquí no; están cerradas todas las tiendas y no se ve a nadie. No sea boba, por favor.
+—Aquí y nada más que aquí —dijo indicando el sitio exacto, y, dejándose caer bonitamente, quedó; tendida e inmóvil.
+—Muy bien —dije—. Desmáyese, pero hágalo de prisa.
+Ella no hizo el menor movimiento. Inicié el regreso, y aunque de vez en cuando volvía la cabeza siempre veía el obscuro bulto del alma moderna tendido ante el escaparate de la peluquería. Por último corrí y arranqué de su habitación a Herr Professor.
+—Fräulein Sonia se ha desmayado —dije enfadada.
+—¡Dios mío! ¿Dónde? ¿Cómo?
+—Ante la peluquería del paseo de la estación.
+—¡Jesús, María y José! ¿No había agua por allí? —cogió una cantimplora—, ¿ni nadie atendiéndola?
+—Nadie.
+—¿Dónde está mi abrigo? No me importa coger un resfriado al pecho. Lo cogeré con gusto... ¿Está preparada para venir conmigo?
+—No —dije—, que le acompañe el camarero.
+—Pero ha de ser una mujer. No soy tan grosero como para tratar de desabrocharle el corsé...
+—Las almas modernas no usan corsé —dije.
+Salió corriendo y oí sus pasos que hacían retemblar la escalera.
+Cuando bajé a la mañana siguiente para almorzar, hallé dos sitios vacíos. Fräulein Sonia y Herr Professor habían salido a hacer una excursión por el bosque.
+Me sorprendí.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

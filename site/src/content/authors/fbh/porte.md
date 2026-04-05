@@ -1,0 +1,148 @@
+---
+layout: story
+title: El elegante de La Puerta
+slug: porte
+source: https://www.literatura.us/idiomas/fbh/porte.html
+tags:
+  - porte
+  - fbh
+---
+Francis Bret Harte
+(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
+El Elegante de la Puerta (1880)
+(“A Gentleman of La Porte”)
+Originalmente publicado en la revista Belgravia [Londres], 42 (julio de 1880), págs. 50-59;
+reimpreso en New York Sun, 2:1-3 (4 de julio de 1880)
+y San Francisco Argonaut (17 de julio de 1880);
+Stories and Poems and Other Uncollected Writings
+[vol. XX de The Writings of Bret Harte, Standard Library Edition]
+(Boston y Nueva York: Houghton Mifflin Company, 1886, 432 págs.), págs. 197-214.
+Traducción: Revista Hispania [número suelto],
+6, Núm. 88 (15 de octubre de 1902), págs. 419-424,
+con ilustraciones de R. Navarro.
+También era minero. Durante el invierno de 1851 le encontró un grupito de exploradores que franqueó las nieves desembocando en un pequeño valle, que más adelante tomó el nombre de La Puerta. Era su único habitante. Por espacio de tres meses había vivido sin comer más que dos galletas por día y alguno que otro pedazo de bacalao. Habitaba en una choza construida con troncos y maleza, y a pesar de todo, estaba alerta, dispuesto a cualquier eventualidad, valiente y rebosando cumplimientos.
+Dejemos la palabra a Enrique Symes, jefe de los exploradores, el cual da cuenta de su primera entrevista en los siguientes términos:
+—Señores, le vimos de improviso al dar vuelta a una roca... a tanta distancia... En cuanto nos vió, metióse en su choza, y al poco rato vino a recibirnos con un enorme sombrero de copa en la cabeza, alto como el tubo de una chimenea, y provisto—¡me muero de risa!—de guantes... Era un señor alto, flaco, con los carrillos hundidos, no sin razón, y el rostro pálido, gracias a su régimen y a sus raciones de hambre. Saludó con un aire y un ademán que...¡vamos!... afectaban distinción y nos dijo:
+—¡Me alegro mucho de conocer a ustedes, caballeros! Supongo que habrán tropezado ustedes con algunas dificultades para llegar hasta aquí. ¿Quieren ustedes aceptar un cigarro?
+Y diciendo y haciendo sacó del bolsillo una petaca llena de dibujos que contenía dos cigarros habanos.
+—¡Siento el no tener más! —dijo.
+—¿No fuma usted? —le pregunté.
+—Pocas veces —me contestó mintiendo como un sacamuelas, porque aquella misma tarde le vi con una pipa ennegrecida entre los dientes, en la que chupaba como un recién nacido en un viverón.
+—Tengo estos cigarros para obsequiar a los viajeros que pasan por aquí —añadió.
+—Sin duda se dan cita en estos parajes las gentes más elegantes —dijo Bill Parker con gravedad, paseando su mirada desde los guantes al tubo de chimenea, no sin haberles hecho antes una seña a sus compañeros.
+—De vez en cuando pasa por aquí algún indio —contestó.
+—¡Indios!
+—Sí, buenas gentes. Son personas pacificas. Dos o tres veces han tenido la amabilidad de traerme caza, pero no he querido aceptarla, porque estos pobres diablos llevan una vida bastante dura.
+...Al llegar aquí, caballeros, conviene advertir a ustedes, que nosotros éramos gente pacífica y poco amiga de bronca; pero los buenos y honrados indios nos habían atacado más de una vez, y el mismo Parker había dejado entre sus manos algunas partes de su cuero cabelludo, cosa que le obligaba a cubrirse la cabeza con hojas verdes como un busto romano. Esto nos hizo creer que aque amable desconocido se divertía a costa nuestra.
+Bill Parker dirigióse hacia él, y midiéndole con la mirada, le preguntó con tono guasón:
+—¿Conque dice usted que los indios son
+pacíficos y que le ofrecen su caza?
+—Eso es —contestó el solitario.
+—¿Y que usted no lo ha aceptado?
+— ¡Claro!
+—¿Y cómo lo han consentido? —añadió Bill con suavidad—. ¡Cuanto daño les habrá hecho la negativa de usted?
+Efectivamente, en la cara se les veía pintado el disgusto.
+—¡Bueno! Y ahora ¿podríamos saber quien es usted?
+—¡Ustedes dispensen! —dijo el desconocido—. ¡Se me había olvidado! Y sin más ni más sacó del bolsillo un tarjetero, y tomando de él un pedacito de cartulina rectangular, se la entregó a Bill, añadiendo:
+—Aquí tiene usted mi tarjeta.
+Bill la tomó y leyó en alta voz:
+—J. Frott Kentucky —. ¡Vaya una tarjeta bonita! —dijo.
+—Me alegro mucho de que sea del agrado de usted, contestó el desconocido.
+—Supongo que las cincuenta y una que le quedan a usted serán todas tan lindas como ésta. Una baraja de ases y sotas.
+El desconocido no contestó ni una sola palabra, pero dió un paso atrás.
+Bill añadió:
+—¿Aquí, quién se burla de quién, señor J. Frott, de Kentucky?
+—[No sé qué es lo que usted quiere decir! —contestó el solitario, al mismo tiempo que sus mejillas se coloreaban como el recipiente de una pipa encendida.
+—Pues yo se lo explicaré a usted. ¿A qué viene toda esa comedia de los guantes de piel? ¿Qué se propone usted con tanta monada? ¿Para qué toma usted ese aspecto de saltimbanqui? Y en último término, ¿quién es usted?
+Irguióse el desconocido y dijo:
+—Toda persona bien nacida, como yo, sépalo usted bien, no gusta de tener cuestiones en su propia casa!
+Después quitóse el sombrero, hizo una profunda reverencia y se dispuso a retirarse, al mismo tiempo que Bill, dándole un puntapié geométricamente aplicado, metió su bota número diez por la copa del tubo de chimenea con la misma facilidad con que un volatinero pasa por dentro de un aro de papel. Después de esto no recuerdo exactamente lo que pasó. ¡Señores! sólo un hombre sería capaz de referirlo con todos los pelos y señales, y ese hombre no ha hablado nunca. El valle se sintió sacudido por una tromba. Yo sólo vi cosas que se movían mucho, y un torbellino de polvo. Ni un grito, ni un tiro. Fué tan súbito, tan imprevisto, que ningún rewólver hubiese podido acudir al llamamiento. Cuando recobré el sentido me encontré acostado sobre la maleza y con sólo media camisa en el cuerpo; en los bolsillos llevaba lo menos tres libras de grava y de piedras y la cabeza la tenía bastante sucia. Al levantar los ojos vi a Bill montado en un nogal y a más de veinte pies sobre mi cabeza.
+—Capitán —me dijo con algún recelo—, ¿ha terminado el cataclismo?
+—¿Qué dices?
+—Esta convulsión de los elementos ¿ha terminado?
+—Pero...
+—Es que —añadió Bill—, en el mismo momento en que se ha producido el fenómeno eléctrico, acababa de tener una cuestión con un desconocido y quisiera darle explicaciones.
+Y sin más ni más, bajó del árbol más tierno que un cordero, entró en la choza y salió mano a mano con el desconocido, dibujándose una sonrisa de recién nacido en su fisonomía.
+De esta manera entramos en relaciones con el elegante de La Puerta.
+No respondo en absoluto de la exactitud de todos los detalles narrados por el capitán. Es probable que haya en ellos su poco de exageración; pero el lector prudente hará bien si acepta, con algunas reservas, el notable cataclismo que se menciona. Sin embargo de todo, es cosa averiguada que la fuerza física del hombre de La Puerta le valió el libre ejercicio de sus monomanías y el que ya no le gastasen ninguna broma sus contemporáneos. Públicamente se le otorgó esta concesión. Un día un recién llegado, hombre bromista, recibió la noticia de la muerte de un pariente lejano y tuvo el capricho de adornarse el sombrero con una gasa. La imprudencia le costó el pagar el gasto hecho por todos los que se hallaban reunidos en la taberna de Parker.
+—Me parece, señores, se atrevió a decir, que hay una gran contradicción en establecer un impuesto sobre el legítimo testimonio de mi dolor, cuando se tolera un verdadero despiltarro de guantes amarillos como el que hace este caballero que se halla presente. No es que yo me niegue a pagar el consumo, pero bueno es hacer constar que el reglamento de la tertulia y la manera como se observa, son dos cosas distintas.
+Aquel llamamiento dirigido a la mayoría, que todo el mundo respetaba, evitó al elegante de La Puerta el dar una contestación. El presidente, representado por el tabernero señor William Parker, tomó la palabra.
+—Joven —dijo con severidad—, cuando usted lleve guantes amarillos tan honradamente como este caballero, y sepa hacerlos brillar como rayos en los cuatro puntos cardinales, tendrá derecho a hablar; y entonces, además, podrá enarbolar la camisa a media asta, en señal de luto, si así lo tiene a bien.
+Aplaudió el concurso, y el bueno del muchacho pagó la cuenta y hasta se ofreció a quitarse la gasa, cosa que el elegante de La Puerta no quiso consentir.
+Y, sin embargo, ni la cara ni la musculatura de éste, denunciaban un terrible poder. Las largas extremidades, mal soldadas, se movían con una lentitud tarda y automática, que excluía toda idea de una actividad peligrosa. Al final de sus interminables brazos colgaban las manos con la palma vuelta hacia fuera. Al andar volvía los pies hacia dentro como si descendiese de los aborígenes en línea recta. En su rostro no había nada agresivo: era pálido y flaco, y la sonrisa, que muy de tarde en tarde se dibujaba en la boca, parecía más bien la prueba de consideración otorgada por la educación a las bromas de los otros, que la explosión íntima de una alegría que no le era natural. Sus cabellos lacios y negros y sus salientes pómulos, aumentaban su semejanza con la raza india, y ofrecían notable contraste con dos ojos desmesurados, que parecían no tener nada de común con el resto de la fisonomía. Eran de color azul claro, muy poco salientes y sosos, de manera que no expresaban nada de cuanto el elegante pensaba y hacía o tenía la intención de hacer. Hasta estaban en desacuerdo con sus modales, su manera de hablar y lo extraño de su traje. Algunos decían, así por broma, que en una riña había perdido los ojos con que le dotó la Naturaleza, y después, de prisa y corriendo, los había reemplazado con los de su adversario.
+Si la casualidad le hubiese hecho conocer al elegante aquella ingeniosa explicación, probablemente se habría contentado con darle un mentís, sin fijarse en que la cosa no tenia el más pequeño viso de verosimilitud, porque, como acabo de decir, estaba completamente desprovisto de todo sentido humorístico y de toda apreciación de lo cómico. En una reunión donde los sucesos más tristemente dramáticos se comentaban en un tono eternamente humorista, y en donde el entretenimiento favorito consistía en darse bromas pesadísimas, aquella particularidad era tanto más de extrañar, porque iba unida a una sinceridad infantil que desconcertaba a sus interlocutores.
+—Me parece, le dijo un día a un sujeto muy conocido en La Puerta, que para probar el carácter disputador de William Peghammer decía usted un día que pasaba las noches en claro disputando con los papafigos. He sabido por su propia boca que esto no es verdad y yo mismo he pasado una noche en el campo en compañía suya sin ver semejante cosa; de todo lo cual he sacado en consecuencia que usted
+ha mentido.
+El resultado inmediato de tan severo comentario fué el enfrenar la imaginación de los bromistas cuando estaban en su presencia y crear a su alrededor un respetuoso aislamiento.
+Hallándose, como se hallaba, tan identificado con el origen del campamento, participó Frott de su creciente prosperidad. En virtud de sus derechos como primer propietario de la mina El Aguila
+disfrutaba de ciertos productos que le permitían vivir sin trabajar, satisfaciendo sus gustos sencillos y económicos. Su lujo principal consistía en llevar la ropa blanca sin la más pequeña mancha y en hacer regalos de un valor más sentimental que intrínseco. Un día le ofreció a un amigo íntimo un bastón sacado de una vid silvestre nacida donde se descubrió el primer filón de la mina; el puño era el del último bastón que usó su padre y la contera del último dollar que Frott había llevado a California.
+—A pesar de todo, dijo indignado el propietario de semejante obsequio, anoche cuando traté de jugármelo en casa de Robinsón por valor de cinco dollars, ninguno de los camaradas quiso aceptar la apuesta, y con la mejor buena educación del mundo me dijeron que se me prohibía el continuar jugando, y es que en este campamento no se respetan ya ni las cosas más sagradas.
+Cuando la colonia de La Puerta llegó a la plenitud de su prosperidad y de su florecimiento, le eligieron juez de paz por unanimidad. Era digna de verse la majestad con que llenaba sus nuevas funciones, pero bien pronto se observó con estupor que era muy indulgente en la aplicación de las penas y de las multas.
+—La ley os impone, le decía al culpable, diez días de cárcel o diez dollars de multa. Si desgraciadamente no poseyeseis tal cantidad, supongo que el escribano os la facilitará.
+Nunca el escribano dejó de entregar la cantidad deseada, la cual le reembolsaba el juez. Tan sólo una vez un delincuente rebelde, bien por pura travesura, bien porque no quisiese que su condena cargase sobre las costillas del juez, se negó a pedir prestada la suma y quiso que le llevasen a la cárcel, que era un pequeño edificio de hormigón que servía al mismo tiempo de archivo. Cuentan, y no sin fundamento, que una vez terminado el despacho, encaminóse la autoridad a la cárcel, vistiendo una camisa de deslumbrante blancura y guantes amarillos; que después de examinar con énfasis algunos legajos, llamó al carcelero y le dió orden de traer una botella de whisky y una baraja. Cuentan más, y aunque compatible con la buena voluntad del juez, el detalle es, sin embargo, algo atentatorio a la dignidad de la ley. Parece que en una larga partida de juego, dedicada a hacer más llevadero el aburrimiento del reo, el carcelero perdió un mes de su sueldo y el juez un año de los emolumentos de su cargo. Aquella bondad habría podido acarrearle algún peijuicio en el ejercicio de sus funciones, si no hubiese aprovechado la ocasión de desplegar inofensiva mente todos sus recursos musculares.
+Un abogado de Sacramento, tan joven como hábil, fué a defender una causa civil ante el juez de paz, y seguro de ganar la causa en primera instancia, no se cuidó de disimular el poco caso que hacía del juez, y puso de relieve en el discurso su desdén. El juez le dejó acabar sin interrumpirle, pero unas ligeras rosetas coloreaban apenas sus salientes pómulos. Voy a copiar otra vez las palabras de un testigo ocular.
+—Fue cosa de ver en aquel momento a nuestro juez, pues tan luego como enarboló la bandera roja, que quería decir ¡Peligro!, volvióse tranquilamente a aquel insecto de Sacramento, y dijo: “Joven, ya sabe usted que podría imponerle una multa de cincuenta dólares por desacato a la autoridad” —“Está usted en su derecho,” contestó el insecto venenoso, zumbando como un moscardón, “y creo que no ha de faltarme dinero para pagarlo”. —“Déjeme usted acabar”, replicó el elegante con cierta dulce melancolía. “No es esa mi intención. Soy partidario de la libertad de la lengua y de las manos”. Y, sin añadir palabra, levantóse, descompúsose, por decirlo así, extendió su mano, grande como la de la Providencia, cogió al insecto, lo suspendió en el aire y arrojóle por la ventana a veinte pasos de distancia. —“Continúa la vista”, dijo volviendo a tomar asiento, con sus grandes ojos redondos y claros, apagados y dulces como si nada hubiese sucedido.
+Si las manías originales del elegante no hubiesen tenido peores consecuencias, todo se habría podido tolerar. Por desgracia para él, se presentó un incidente en aquel mismo tribunal que le había visto salir triunfante, y, al menos por el momento, dió al traste con su popularidad. Una mujer de antecedentes dudosos y de gran libertad de acción, diosa encargada del manejo de la rueda de la fortuna en la principal casa de juego de La Puerta, acudió en queja contra cierto número de ciudadanos que habían invadido a viva fuerza el local, haciendo pedazos los ingeniosos mecanismos de su aparato. Su abogado pronunció una hábil lamentación, y un caballero, que no era su marido, le prodigó los testimonios de la más grande simpatía. No obstante aquella inapreciable cooperación, perdió el pleito. Probóse claramente el delito de defraudación, y los jurados, antes de abandonar el salón, dieron su veredicto favorable a los invasores. El juez volvió sus plácidos ojos hacia los jurados y les preguntó:
+—¿Han pronunciado ustedes su última palabra?
+—Aunque usted opinase lo contrario, señor juez, no volveríamos atrás —contestó el que llevaba la voz con una familiaridad menos irreverente que jovial.
+—Escribano, redacte usted la orden de detención —dijo Frott con mucha parsimonia—, y luego extienda mi dimisión de juez.
+Levantóse y dejó su sillón. Muchos ciudadanos influyentes trataron inútilmente de contenerlo, alegando la mala fama de la reclamante y la poca importancia del asunto. También fué inútil el que los jurados le dijesen que consideraban como un insulto su dimisión. El juez volvióse rápidamente hacia el que representaba a los jurados, y con las mejillas coloradas, de una manera amenazadora le dijo:
+—No entiendo nada de cuanto usted me dice.
+—Pues decía solamente —contestó con rapidez—, que no vale la pena de discutir más tiempo —y echó a andar acto continuo, siguiendo a sus colegas, que huían tan de prisa como se lo permitía el decoro de su posición oficial.
+El juez Frott ya no volvió a tomar asiento en el tribunal.
+Al cabo de un mes el elegante estaba sentado en un banco, a La puerta de su casa y a la sombra de un cedro gigantesco, situado casi en el mismo sitio donde le vimos por primera vez. Comenzaba el crepúsculo, cuando descubrió el contorno de una mujer y oyó su voz. Al principio dudó y después se colocó un ancho lente de oro, que era la única bagatela que le había quedado. No conocía a la mujer, pero su voz era la de aquella que había pedido justicia en aquel último y memorable proceso que él había presidido. Aquella voz era la de la señorita Clotilde de Montmorency. Pero ante todo apresurémonos a decir que esta señorita, de origen anglo—sajón, no sabía una palabra de francés, de manera que su sonoro nombre formaba parte de la farsa de la casa de juego que regentaba, y, según el concepto denigrante de la colonia, debía haberlo tomado en el extranjero.
+—Desearía saber —dijo la señorita Clotilde, sentándose con mucho desparpajo al lado del elegante— ...quiero decir que Jaime Woods y yo desearíamos saber qué perjuicios ocasiona a usted... su dimisión.
+Al ser interrogado de semejante manera por aquella súbita aparición, Frott no comprendió bien de lo que se trataba y preguntó con cierta turbación:
+—¿Con quién tengo el honor de hablar?
+—Supongo que las palabras de usted no son sino una manera discreta de decirme que no me ha visto nunca, que no me conoce, ó, mejor aún, que no desee conocerme, le contestó la señorita Montmorency con afectada calma y amontonando con la contera de la sombrilla algunas hojas secas, como si tratase de ocultar su emoción. Soy la señorita de Montmorency y venía a decirle a usted que tanto Jacobo como yo, creemos que fio es justo el que usted pierda su posición por culpa nuestra, supuesto que usted se puso de nuestra parte cuando aquellos malditos jurados dieron su veredicto falso y amañado en contra mía. Jacobo me ha dicho que averiguase qué perjuicios le ocasiona a usted su dimisión, porque cree que podría indemnizarle. Esto me ha dicho Jacobo y crea usted que es hombre formal de quien puede usted fiarse. Hay que hacerle justicia.
+—Me parece que no he comprendido bien —dijo el juez con mucha calma.
+—¡Vaya, vaya! —exclamó la señorita Clotilde con mal disimulada amargura—. Ya se lo había indicado yo a Jacobo, cuando le dije : Estoy segura de que el juez no le comprendería a usted como no me comprenderá a mí. Es un hombre tan orgulloso que nos enviará a paseo. El jueves dió conmigo de manos a boca en la calle é hizo como que no me había visto. Ni siquiera me devolvió el saludo.
+—Señorita —se apresuró a decir el elegante—, puedo asegurarle a usted que padece un error, y debe creerme. La verdad es, y casi no me atrevo a confesármelo a mí mismo, que he perdido mucho la vista.
+Y al llegar aquí se detuvo suspirando. La señorita Montmorency le miró y encontró su rostro pálido y descompuesto. Con la rápida intuición de las mujeres aceptó como una excusa aquella cortedad de vista y le perdonó la desvergüenza con que ahora la miraba. Las mujeres todo lo soportan de un hombre, aunque sea feo, menos lo que no pueden explicarse.
+—Vamos, ¿es de veras que no me conoció usted? —le dijo algo dudosa.
+—Me parece que no —contestó Frott sonriéndose.
+Calló élla, pero al cabo de un rato añadió:
+—¿De manera que el día de la audiencia no me vió usted en el tribunal?
+El juez se puso como una amapola.
+—Si he de decir la verdad... sólo vi una forma vaga.
+La señorita Clotilde le interrumpió en seguida.
+—Pues llevaba un sombrero de paja forrado de majenta, con el ala doblada a un lado... lo mismo que éste, y las bridas también de color majenta...—Y al mismo tiempo alargaba su cuello redondo y torneado para enseñar el sombrero...—¿No se acuerda usted?...
+—Sí... es decir... me parece...
+—Y un traje de seda Pompadour... a flores... —añadió con insistencia.
+Frott se sonrió vagamente, pero con mucha galantería. La señorita Clotilde se convenció de que no había parado mientes en su traje seductor. Dispersó las hojas amontonadas y rayó el suelo con la contera de la sombrilla.
+—¿De suerte que usted no me ha visto nunca?
+—Así, bien, jamás.
+—Voy a hacerle a usted una pregunta —dijo la señorita de Montmorency bruscamente—, ¿por qué ha presentado usted su dimisión?
+—Porque no podía continuar formando parte de un tribunal que acababa de dictar una sentencia tan inicua como la que por boca del jurado la condenó a usted —contestó Frott con mucha viveza.
+——Repita usted eso, hijo mío —exclamó la señorita Clotilde con una admiración tan sincera que le quitaba al epíteto todo cuanto tenía de demasiado familiar.
+El juez repitió muy cortesmente toda la parte más sustanciosa de su discurso, pero bajo otra forma.
+La señorita de Montmorency permaneció un momento callada y luego añadió:
+—¡Luego eso no fué por mí!...
+—No sé... —contestó el juez algo turbado.
+—Hable usted claro; ¿fue por mí o no fue por mí por lo que obró usted de aquella manera?
+—¡No! —contestó el juez, dando a su palabra cierto aspecto de amabilidad.
+Nuevo silencio. La señorita de Montmorency hacía equilibrios con la sombrilla sobre la punta del pie.
+—¡Perfectamente! —dijo al fin—. ¿Pero qué le he de contestar a Jacobo?
+—¿A quién?
+—A Jacobo.
+—¿Al marido de usted?
+La señorita Clotilde, con un movimiento seco, casi hizo saltar el muelle del brazalete, y acto continuo añadió con sequedad:
+—No he dicho que fuese mi marido.
+—Usted perdone...
+—He dicho Jacobo Woods, un hombre de verdadero crédito... Me dijo que viniese a preguntarle al juez qué se hallaría dispuesto a aceptar de nosotros. No se trata de seducirle, de corromperle, ni de nada que se le parezca. Hablando con franqueza, la causa está terminada y usted no es juez. Vengo solo a rogarle que nos procure la satisfacción de que su conducta no ha de servirle de perjuicio. No es posible expresar la cosa con más claridad. Así me lo ha encargado, y yo cumplo mi comisión. Sin embargo, ya sé lo que usted va a contestarme, porque lo tenía previsto.
+“¡Claro! Va usted a incomodarse y quizás esté ya furioso, porque usted tiene demasiado orgullo para aceptar un dólar nuestro. Quizás prefiera usted morirse de hambre. Quizás nos envíe usted a Jacobo y a mí a los quintos infiernos; pero, ¡qué diablo! Todo me es igual”.
+Cuando había llegado a este grado de arrebato, rápidamente, sin razón ni motivo, por medio de una reacción tan brusca como sorprendente, echóse a llorar de una manera tan ilógica como todo lo demás. Dejóse caer de nuevo en el banco, del cual se había levantado, y cubrióse el rostro con ambas manos adornadas con guantes de hilo, sin abandonar por eso la sombrilla que formaba un ángulo agudo con la cabeza. No fué pequeña su estupefacción cuando el juez, poniéndole una mano sobre el hombro, le quitó con la otra la sombrilla y la dejó tranquilamente a su lado sobre el banco.
+—Se equivoca usted, señorita —dijo con respetuosa gravedad—: está usted completamente equivocada, si por acaso cree que su oferta me inspira algo que no sea el agradecimiento, pero por lo mismo que es tan generoso como excéntrico, usted misma comprende que es inaceptable. ¡No! Déjeme usted creer que al cumplir con los deberes de magistrado he merecido la estimación de usted, y que al llenar hoy mis deberes de hombre la conservaré.
+La señorita Clotilde le miró, pareciendo como que trataba de aclarar aquellas francas y leales palabras, pero se contentó con decir:
+—¿Me ve usted bien a esta luz y a esta distancia? Póngase usted los anteojos.
+El rostro de la señorita no estaba muy lejos del del juez. ¿He dicho que era un rostro bonito? Lo había sido en otro tiempo; pero la señorita Clotilde conservaba bastante belleza para envolver la rueda de la fortuna que manejaba con un encanto peligroso y seductor que multiplica el riesgo de los jugadores. Aquella era precisamente la temible combinación de gracia y de azar que había encendido la cólera de La Puerta al despertar sus recelos.
+Los ojos eran hermosísimos, y es posible que Frott no hubiese nunca visto tan cerca otros tan brillantes y expresivos. Levantó la cabeza preocupado y con rubor. No sé si por instintiva buena educación o por introducir un tercero en aquel diálogo difícil, añadió:
+—Supongo que usted le dirá a su amigo... a ese señor... que aun cuando agradezco su ofrecimiento, lo rechazo.
+—Si alude usted a Jacobo, debo decirle que se ha marchado al Este. No se preocupe usted del asunto que ya lo arreglaré yo con él.
+Después de una nueva pausa, que tal vez aprovecharon los dos para pensar en la ausencia de Jacobo, dijo la señorita de Montmorency:
+—Cúidese usted la vista, porque me alegraré mucho de que me conozca usted cuando nos volvamos a ver.
+Se separaron. El juez la encontró muchas veces y la conoció. Al cabo de algún tiempo corrió entre los habitantes de La Puerta un rumor extraño, que sacudió los cimientos de la colonia desde las vertientes de las colinas hasta las entrañas de las minas. El juez Frott se había casado en San Francisco con Juana Thompson, conocida por Clotilde de Montmorency. Durante algunas horas rugió sobre la población una tempestad de ira. Hablóse de complot y de conspiración. Se dijo que la renuncia al cargo de juez era el precio con que había comprado la mano de aquella mujer y la modesta fortuna que poseía. Inventóse una novela patética a propósito de Jacobo Wood, su último amante, víctima de la doble traición de Frott y de la señorita Clotilde. Nombróse una comisión para dirigirle una carta de pésame y de simpatía a aquel hombre que tres meses antes habían querido sacrificar a su venganza, aplicándole la ley de Lynch. Por último, calmóse la efervescencia, cuando el capitán Enrique Symes, que conocía el asunto, dijo:
+—Hay un detalle, señores, que no tienen ustedes presente y que no hay que olvidar, por su mucha importancia. El mismo día que esta mujer se presentó al juez de San Francisco para formalizar los esponsales, acababa de salir de casa del médico, el cual le había declarado que Frott estaba completamente ciego y que no tenía cura. Señores: cuando una mujer como esta renuncia a su pasado, a su comercio y a un hombre de dinero como Jacobo Wood, para casarse con un ciego sin dinero, sólo porque un día la defendió, es decir, por agradecimiento, Dios me perdone si aseguro que no creo haya un solo hombre con derecho para pronunciar una palabra contra élla. Si el juez ha podido olvidar o perdonar ciertas debilidades que se les atribuyen para dejarse atrapar y cuidar por ella, eso es cuenta suya, pero permítanme ustedes que les diga, aleccionado como estoy por la experiencia, que no procede, no estando como no está uno en su piel, mezclarse en los asuntos privados del elegante de La Puerta.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,71 @@
+---
+layout: story
+title: El día que fuimos perros
+slug: perros
+source: https://www.literatura.us/elena/perros.html
+tags:
+  - perros
+  - elena
+---
+Elena Garro
+(Puebla, México, 1916 - Cuernavaca, 1998)
+El día que fuimos perros
+La semana de colores
+(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)
+El día que fuimos perros no fue un día cualquiera, aunque empezó como todos los días. Despertamos a las seis de la mañana y supimos que era un día con dos días adentro. Echada boca arriba, Eva abrió los ojos y, sin cambiar de postura, miró a un día y miró al otro. Hacía ya rato que yo los había abierto y que, para no ver la inmensidad de la casa vacía, la miraba a ella. ¿Por qué no nos habíamos ido a México? Todavía no lo sé. Pedimos quedarnos y nadie se opuso a nuestro deseo. La víspera, el corredor se llenó de maletas: todos huían del calor de agosto. Muy temprano las maletas se fueron en un carricoche de caballos; sobre la mesa quedaron las tazas de café con leche a medio beber y la avena cuajada en los platos. Cayeron sobre las losas del corredor los consejos y las recomendaciones. Eva y yo los miramos desdeñosas. Éramos dueñas de los patios, los jardines y los cuartos. Cuando tomamos posesión de la casa, nos cayó encima un gran peso. ¿Qué podíamos hacer con los arcos, las ventanas, las puertas y los muebles? El día se volvió sólido, el cielo violeta se cargó de papelones oscuros y el miedo se instaló en los pilares y las plantas. En silencio deambulamos por la casa y vimos nuestros pelos convertirse en harapos. No teníamos nada que hacer, ni nadie a quién preguntarle qué hacer. En la cocina, los sirvientes se acurrucaron alrededor del brasero, para comer y dormitar. No se tendieron las camas; nadie regó los helechos, ni levantó las tazas sucias de la mesa del comedor. Al oscurecer, los cantos de los criados nos llegaron cargados de crímenes y penas y la casa se hundió en ese día, como una piedra en una barranca muy honda.
+Despertamos decididas a no repetir la víspera. El nuevo día brillaba doble e intacto. Eva miró los dos días paralelos que brillaban como dos rayas escritas en el agua. Después, contempló el muro, en donde estaba Cristo con su túnica blanca. Pasó luego los ojos al otro cuadro, que mostraba la imagen de Buda envuelto en su túnica naranja, pensativo, en medio de un paisaje amarillento. Entre los dos cuadros que vigilaban su cabecera Eva había colocado un recorte de periódico con una fotografía en la que una señora de boina se paseaba en una lancha. «La Krupskaia en el Neva» decía el pie de la fotografía.
+—Me gustan los rusos —dijo Eva, y en seguida palmoteó para llamar a los criados. Nadie acudió a su llamado. Nos miramos sin sorpresa. Eva palmoteaba desde uno de los días y sus palmadas no llegaban al día de la cocina.
+—Vamos a husmear —me dijo.
+Y saltó a mi cama para mirarme de cerca. El pelo rubio le cubría la frente. De mi cama salió al suelo, se puso un dedo en los labios y penetró con cautela por el día que avanzaba paralelo al otro. Yo la seguí. Nadie. El día estaba solo y era tan temible como el otro. Los árboles quietos, el cielo redondo, verde como una pradera tierna, sin nadie también, sin un caballo, sin un jinete, abandonado. Del pozo salía el calor de agosto, que había provocado la huida a México. Echado junto a un árbol estaba Toni. Ya le habían puesto la cadena. Nos miró atento y vimos que él estaba en nuestro día.
+—Es bueno Toni —dijo Eva y le acarició la boca abierta.
+Después se echó junto a él y yo me eché del otro lado.
+—¿Ya desayunaste, Toni?
+Toni no contestó, sólo nos miró con tristeza. Eva se levantó y desapareció entre las plantas. Volvió corriendo y se echó otra vez junto a Toni.
+—Ya les dije que preparen la comida para tres perros y ninguna gente.
+Yo no pregunté nada. Junto a Toni la casa había perdido peso. Por el suelo del día caminaban dos hormigas; una lombriz se asomó por un agujerito, la toqué con la punta de un dedo y se volvió un anillo rojo. Había pedazos de hojas, trocitos de ramas, piedras minúsculas y la tierra negra olía a agua de magnolia. El otro día estaba a un lado. Toni, Eva y yo, mirábamos sin miedo sus torres gigantescas y sus vientos fijos de color morado.
+—Tú, ¿cómo vas a llamarte? Busca tu nombre de perro, yo estoy buscando el mío.
+—¿Soy perro?
+—Sí, somos perros.
+Acepté y me acerqué más a Toni, que movió la cabeza disgustado. Recordé que él no se iría al cielo: yo correría su misma suerte. «Los animales no van al cielo». Nuestro Señor Jesucristo no había puesto en el cielo un lugar para perros. El señor Buda tampoco había puesto un lugar en el Nirvana para perros. En la casa era muy importante ser bueno para ganar el cielo. No podíamos ahorrar, ni matar animales; éramos vegetarianos y los domingos tirábamos el domingo por el balcón, para que lo recogiera alguien y aprendiéramos a no guardar nada. Vivíamos al día. La gente del pueblo husmeaba por los balcones de la casa: «Son españoles», decían y nos miraban de soslayo. Nosotros no sabíamos que no éramos de allí porque allí estábamos ganando el cielo, cualquiera de los dos: el blanco y azul o el naranja y amarillo. Ahora en ninguno de los dos había lugar para nosotros tres. Los alquimistas, los griegos, los anarquistas, los románticos, los ocultistas, los franciscanos y los romanos, ocupaban los anaqueles de la biblioteca y las conversaciones de la mesa. Tenían un lugar aparte los Evangelios, los Vedas y los poetas. Para los perros no había más lugar que el pie del árbol. ¿Y después? Después estaríamos tirados en cualquier llano.
+—Ya encontré mi nombre.
+—¿Ya? —Eva se enderezó curiosa.
+—Sí: Cristo.
+Eva me miró con envidia.
+—¿Cristo? Es buen nombre de perro.
+Eva acomodó la cabeza sobre las patas delanteras y cerró los ojos.
+—También yo encontré el mío —dijo enderezándose de pronto.
+—¿Cuál?
+—¡Buda!
+—Es muy buen nombre de perro.
+Y el Buda se echó junto al Toni y empezó a gruñir de gusto.
+Nadie vino a visitar el día de Toni, del Cristo y del Buda. La casa estaba lejos, metida en su otro día. Las campanadas del reloj de la iglesia no indicaban nada. El suelo empezó a volverse muy caliente: las lombrices entraron en sus agujeros, los pinacates buscaron los lugares húmedos debajo de las piedras, las hormigas cortaron hojas de acacia, que les servían de sombrillas verdes. En el lugar de los perros había sed. El Buda ladró con impaciencia para pedir agua, el Toni lo imitó y en seguida el Cristo se unió a los ladridos. Por un caminito lejano aparecieron los pies de Rutilio calzados con huaraches. Traía tres jarros llenos de agua. Indiferente, le puso un jarro a Toni, miró al Cristo y al Buda y les colocó un jarro cerca del hocico. Rutilio acarició las cabezas de los perros y ellos agradecidos movieron los rabos. Fue difícil beber agua con la lengua. Más tarde el criado viejo trajo la comida en una olla y la sirvió en una cazuela grande. El arroz de los perros tenía huesos y carne. El Cristo y el Buda se miraron atónitos: ¿los perros no son vegetarianos? El Toni levantó el labio superior, gruñó feroz desde sus colmillos blancos y cogió con presteza los pedazos de carne. El Cristo y el Buda metieron el hocico en la cazuela y comieron el arroz mojado como engrudo. Toni terminó y soñoliento miró a sus compañeros que comían a lengüetadas. Después, también ellos se recostaron sobre sus patas delanteras. El sol quemaba, el suelo quemaba y la comida de los perros pesaba como una bolsa de piedras. Se quedaron dormidos en su día, apartados del día de la casa. Los despertó un cohete que venía del otro día. Siguió un gran silencio. Alertas, escucharon la otra tarde. Estalló otro cohete y los tres perros echaron a correr en dirección al ruido. El Toni no pudo avanzar en la carrera, porque la cadena lo retuvo junto al árbol. El Cristo y el Buda saltaron por encima de las matas rumbo al portón.
+—¿Dónde van, mocosas desgraciadas? —les gritó Rutilio desde el otro día.
+Los perros llegaron al zaguán; les fue difícil abrir el portón, los cerrojos estaban muy altos. Al fin, salieron a la calle iluminada por el sol de las cuatro de la tarde. La calle brillaba esplendorosa como una imagen fija. Las piedras relucían en el polvo. No había nadie. Nadie, sino los dos hombres bañados en sangre, abrazados en su lucha. El Buda se sentó en el filo de la acera y los miró con los ojos muy abiertos. El Cristo se acomodó muy cerca del Buda y también los miró con asombro. Los hombres se quejaban en el otro día: «¡Ya vas a ver!»… «¡Ajay! ¡Hijo de la chingada!»… Sus voces sofocadas venían desde muy lejos. Uno detuvo la mano del que llevaba la pistola y con la mano libre le tatuó el pecho con su cuchillo. Estaba abrazado al cuerpo del otro y, como si las fuerzas no le alcanzaran, se deslizaba hacia el suelo en el abrazo. El hombre de la pistola aguantaba firme, de pie en la tarde esplendorosa. Su camisa y sus pantalones blancos se llenaban de sangre. Con un movimiento liberó su mano presa y puso la pistola en la mitad de la frente de su enemigo arrodillado. Un ruido seco partió en dos a la otra tarde, y abrió un agujero en la frente del hombre arrodillado. El hombre cayó boca arriba y miró al cielo con fijeza.
+—¡Cabrón! —exclamó el hombre de pie sobre las piedras, mientras sus piernas seguían lloviendo sangre. Luego también él levantó los ojos para mirar al mismo cielo, y al cabo de un rato los volvió hacia los perros, que a dos metros de distancia, sentados en el borde de la acera, lo miraban boquiabiertos.
+Todo quedó quieto. La otra tarde se volvió tan alta, que abajo la calle quedó fuera de ella. A lo lejos aparecieron varios hombres con fusiles. Venían como todos los hombres, de blanco, con los sombreros de palma sobre la cabeza. Caminaban con lentitud. El golpe de sus huaraches resonaba desde muy lejos. En la calle no había árboles para amortiguar el ruido de los pasos; sólo muros blancos, contra los cuales retumbaban cada vez más cerca las pisadas, como redoble de tambores en día de fiesta. El estruendo se detuvo de golpe, cuando llegaron junto al hombre herido.
+—¿Tú lo mataste?
+—Yo mismo, pregúntenle a las niñas.
+Los hombres miraron a los perros.
+—¿Ustedes lo vieron?
+—¡Guau! ¡Guau! —contestó el Buda.
+—¡Guau! ¡Guau! —respondió el Cristo.
+—Pues llévenselo.
+Se llevaron al hombre y de él no quedaron más rastros que la sangre sobre las piedras de la calle. Iba escribiendo su final, los perros leyeron su destino de sangre y se volvieron a mirar al muerto.
+Pasó un tiempo, el portón de la casa seguía abierto, y los perros absortos, sentados en el borde de la acera, seguían mirando al muerto. Una mosca se asomó a la herida de su frente, después se limpió las patas y se fue a los cabellos. Al cabo de un instante volvió a la frente, miró la herida y se limpió las patas otra vez. Cuando la mosca volvió a la herida, llegó una mujer y se tiró sobre el muerto. Pero a él no le importó ni la mosca ni la mujer. Impávido siguió mirando al cielo. Vinieron otras gentes y se inclinaron a mirar sus ojos. Empezó a oscurecer y el Buda y el Cristo siguieron allí, sin moverse y sin ladrar. Parecían dos perros callejeros y nadie se ocupaba de ellos.
+—¡Eva! ¡Leli! —gritaron desde muy arriba. Los perros se sobresaltaron.
+—¡Ya van a ver cuando lleguen sus padres! ¡Ya van a ver!
+Rutilio los metió a la casa. Colocó una silla en el corredor, muy cerca de la pared y se sentó solemne a ver a los perros, que, echados a sus pies, lo miraban atentos. Candelaria trajo un quinqué encendido y pavoneándose se volvió a la cocina. Al poco rato los cantos inundaron la casa de tristeza.
+—¡Por su culpa yo no puedo ir a cantar…! ¡Maldosas! —se quejó Rutilio.
+El Cristo y el Buda lo escucharon desde el otro día. Rutilio, su silla, el quinqué y el muerto, estaban en el día paralelo, separado del otro por una raya invisible.
+—Ya van a ver, vendrán las brujas a chuparles la sangre. Dicen que les gusta mucho la sangre de los «güeros». Le voy a decir a Candelaria que deje las cenizas encendidas, para que ellas se calienten las canillas. Del brasero irán a su cama a deleitarse. ¡Eso merecen por canijas!
+El fogón con las cenizas encendidas, Candelaria, Rutilio, los cantos y las brujas, pasaban delante de los ojos de los perros como figuras proyectadas en un tiempo ajeno. Las palabras de Rutilio circulaban por el corredor sin fondo de la casa y no los tocaban. En el suelo del día de los perros, había cochinillas que se iban a dormir. El sueño de las cochinillas era contagioso y el Cristo y el Buda, acurrucados sobre sus patas delanteras, cabecearon.
+—¡Vengan a cenar!
+Los sentaron en el suelo de la cocina, en el círculo de criados que bebían alcohol, y les dieron un plato de frijoles con longaniza. Los perros se caían de sueño. Antes de ayer todavía cenaban avena con leche y el gusto de la longaniza les produjo náuseas.
+—¡Llévatelas a la cama, parecen borrachas!
+Los pusieron en la misma cama, apagaron el quinqué y se fueron. Los perros se durmieron en el otro día, al pie del árbol, con la cadena al cuello, cerca de las hormigas de sombrilla verde y las lombrices rojas. Al cabo de un rato despertaron sobresaltados. El día paralelo estaba allí, sentado en la mitad del cuarto. Los muros respiraban ceniza ardiente, por las rendijas las brujas espiaban las venas azules de sus sienes. Estaba todo muy oscuro. En una de las camas estaba el muerto con la frente abierta; a su lado, de pie, el hombre tatuado chorreaba sangre. Muy lejos, en el fondo del jardín, dormían los criados; la ciudad de México, con sus padres y con sus hermanos, quién sabe dónde estaba. En cambio, el otro día estaba allí, muy cerca de ellas, sin un ladrido, con sus muertos fijos, en la tarde fija, con la mosca enorme asomándose a la herida enorme y limpiándose las patas. En el sueño, sin darnos cuenta, pasamos de un día al otro y perdimos al día en que fuimos perros.
+—No te asustes, somos perros…
+Pero Eva sabía que ya no era verdad. Habíamos descubierto que el cielo de los hombres no era el mismo que el cielo de los perros.
+Los perros no compartían el crimen con nosotros.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,259 @@
+---
+layout: story
+title: Odour of Chrysanthemums
+slug: odour
+source: https://www.literatura.us/idiomas/dhl/odour.html
+tags:
+  - odour
+  - dhl
+---
+D. H. Lawrence
+(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
+Olor a crisantemos (1911)
+(“Odour of Chrysanthemums”)
+Originalmente publicado en la revista The English Review (julio 1911);
+The Prussian Officer and Other Stories
+(Londres: Duckworth and Co., 1914, 310 págs.)
+1
+La pequeña locomotora, la número cuatro, venía rechinando, a trompicones desde Selston, con siete vagones cargados. Apareció por la curva con sonoras amenazas de velocidad, pero el potro al que había asustado entre las aulagas que aún brillaban mortecinas en la cruda tarde pudo adelantarla a medio galope. Una mujer, que subía por las vías hacia Underwood, se retiró contra la cerca, apartó la cesta a un lado y contempló cómo la plataforma de la máquina avanzaba. Los vagones traqueteaban ruidosos al pasar, uno a uno, con movimiento lento e inevitable, mientras ella permanecía insignificante y atrapada entre los negros vagones y la cerca; luego tomaron la curva hacia el soto, donde las marchitas hojas de roble caían silenciosas, mientras los pájaros, picoteando los rojos escaramujos al lado de la vía, lanzaban su vuelo hacia el crepúsculo que se había ido extendiendo sigilosamente por el soto.
+En el campo abierto, el humo de la máquina iba adhiriéndose a la espesa hierba. Los campos estaban lóbregos y abandonados, y en la franja pantanosa que conducía al embalse de la mina, lleno de cañas, las aves habían abandonado ya su curso entre los alisos para anidar en el corral de alquitrán.
+El patio de la mina surgía más allá del embalse, llamas como rojas heridas que lamiesen sus costados de ceniza en la estancada luz de la tarde. Justo más allá se elevaban las largas y estrechas chimeneas y los toscos y negros castilletes de extracción de la mina de Brinsley. Las dos ruedas giraban rápidas contra el cielo y la bobinadora dejaba oír sus cortos espasmos. Los mineros estaban subiendo de la mina.
+La locomotora pitó cuando entró en el gran nudo de líneas férreas al lado de la mina, donde había filas de vagones estacionados.
+Los mineros, solos, en filas intermitentes o en grupos iban pasando como sombras divergentes rumbo a sus casas. A un lado de ese acanalado terreno de vías muertas había, como agazapada, una casita, tres escaleras más abajo de donde se encontraba la pista de ceniza.
+Una parra grande y argentosa se encaramaba sobre la casa como para derribar las tejas con sus garras. Alrededor del patio con suelo de ladrillo crecían unas cuantas primaveras mortecinas.
+Más allá, el jardín bajaba hasta el lecho de un arroyo cubierto de matorrales. Había algunos manzanos con ramas abundantes y unas cuantas coles hechas jirones. Al lado del sendero caían hacia abajo unos cuantos crisantemos de color rosa, como telas colgando de los matorrales.
+Una mujer salió agachándose del gallinero, recubierto de trapos en medio del jardín. Cerró y echó el candado a la puerta, después se irguió tras sacudirse el delantal blanco.
+Era una mujer alta y de porte imperioso, guapa, con cejas negras muy marcadas. El suave cabello negro mostraba una raya perfecta. Durante un rato se quedó quieta de pie mirando a los mineros que iban por la vía. Luego se volvió hacia el arroyo. Tenía el rostro tranquilo y decidido, la boca cerrada con desilusión. Tras un momento llamó:
+—¡John! —No contestó nadie. Entonces esperó y dijo claramente—: ¿Dónde estás?
+—¡Aquí! —contestó la irritada voz de un niño entre los matorrales.
+La mujer miró de un modo intenso al crepúsculo.
+—¿Estás en el arroyo? —preguntó severamente.
+Como respuesta, el chico se asomó por entre las cañas de frambueso que crecían como látigos. Era un niño pequeño y fornido de unos cinco años. Se quedó quieto y desafiante.
+—¡Oh! —dijo la madre conciliadora—. Creí que estabas allí abajo, en la arroyada. Recuerda lo que te dije…
+El chico no se movió ni contestó.
+—Ven, vamos adentro —dijo ella más cariñosa—, está anocheciendo. Por la vía viene la locomotora del abuelo.
+El chico avanzó despacio con gesto lento y taciturno. Llevaba los pantalones y el chaleco de una tela demasiado dura y recia para su tamaño. Era evidente que habían sido recortados de una prenda de hombre.
+Mientras se dirigían a la casa, el niño arrancó unos ramos desmadejados de crisantemos y tiró los pétalos a puñados por el camino.
+—No hagas eso. Eso no está bien —dijo la madre. Se quedó quieto y ella, compasiva de repente, arrancó una rama con tres o cuatro flores pálidas y se las llevó a la cara.
+Cuando madre e hijo llegaron al patio, su mano vaciló y en vez de tirar las flores se las puso en el delantal. Ambos se quedaron al pie de los tres escalones mirando, a través del entramado de las vías, a los mineros que regresaban a sus casas. La llegada del pequeño tren era inminente. De pronto la máquina apareció tras la casa y se detuvo al otro lado de la verja.
+El maquinista, un hombre bajo con barba gris y redondeada, se asomó desde la cabina por encima de la mujer.
+—¿Tienes una taza de té? —dijo de modo alegre y franco. Era su padre.
+Entró en la casa a prepararlo. Al poco rato volvió.
+—No vine a verte el domingo —comenzó diciendo el hombre de la barba cana.
+—No te esperaba —dijo la hija.
+El maquinista hizo una mueca de vergüenza; luego, recuperando su alegre y ligero humor, dijo:
+—¡Ah! ¿Entonces ya lo has oído? Bueno, ¿y qué piensas?
+—Creo que es demasiado pronto —contestó ella.
+Ante la breve censura de la hija, el hombrecillo hizo un gesto de impaciencia y dijo melosamente, aunque con peligrosa frialdad:
+—Bueno, ¿y qué va a hacer uno? No es vida para un hombre de mi edad sentarse frente al fuego del hogar solo, como un extraño. Y si me voy a volver a casar, cuanto antes mejor. ¿Qué le importa a nadie?
+La mujer no contestó, sino que dio media vuelta y volvió a entrar en la casa. El hombre se quedó de pie en la cabina, a la defensiva, hasta que ella volvió con una taza de té y un trozo de pan con mantequilla en un plato. Subió los escalones metálicos y se quedó de pie al lado de la plataforma de la silbante máquina.
+—No era necesario que trajeras pan con mantequilla —dijo su padre—, es suficiente con la taza de té. —Sorbió con agrado—. Está muy bueno. —Volvió a dar varios sorbos y añadió—: He oído que Walter cogió otra borrachera.
+—¿Cuándo no lo ha hecho? —respondió ella con amargura.
+—Oí decir que en el Lord Nelson presumía de que se iba a gastar todo el dinero antes de volver a casa: era medio soberano.
+—¿Cuándo? —preguntó la mujer.
+—El sábado por la noche. Y sé que es cierto.
+—Es muy posible —sonrió ella amargamente—: solo me da veintitrés chelines.
+—¡Sí! Está muy bien eso de que un hombre no sepa hacer otra cosa con el dinero más que convertirse en un animal —dijo el hombre de la barba canosa.
+La mujer bajó la cabeza. Su padre dio el último sorbo de té y le entregó la taza.
+—¡Sí! —suspiró limpiándose la boca—. ¡Qué bien me siento, qué bien!
+Puso la mano en la palanca. La pequeña máquina se tensó y gruñó, y el tren salió dando tumbos hacia el cruce. La mujer miró de nuevo hacia la red de vías. La oscuridad se iba esparciendo entre las vías y los vagones. Los mineros todavía pasaban dirigiéndose hacia sus casas en sombríos grupos grises. La bobinadora latía deprisa con breves pausas. Elizabeth Bates contempló el cansado flujo de hombres y luego entró en la casa. Su marido no había llegado.
+La cocina era pequeña y estaba iluminada con la luz de la lumbre; las brasas rojas, amontonadas, alumbraban la boca de la chimenea. Toda la vida de la habitación parecía estar contenida en el cálido y blanco hogar, y en el guardafuego metálico que reflejaba el fuego rojo. El mantel estaba puesto para la cena. Las tazas centelleaban en la sombra. Al fondo, en los primeros peldaños de la escalera de la habitación, el niño, sentado, peleaba con una navaja y un trozo de madera. Estaba casi escondido en las sombras, solo sus movimientos eran visibles. Eran las cuatro y media, solo tenían que esperar a que el padre llegase para cenar. Mientras la madre observaba la pequeña y sorda lucha del hijo con la madera, se veía a sí misma en el silencio y en el empeño del niño; veía al padre en la indiferencia del chico hacia todo lo que no fuera él mismo. Parecía preocupada por su marido. Probablemente habría pasado de largo por la casa, delante de su propia puerta, para ir a tomar un trago antes de entrar, mientras en la espera la cena se le enfriaba y se le pasaba.
+Echó una mirada al reloj y después cogió las patatas para escurrirlas en el patio. Los campos y el jardín, más allá del arroyo, estaban envueltos en una oscuridad incierta. Cuando se levantó con la olla en las manos dejando tras de sí el sumidero que emanaba vapor en la noche, vio encendidas las lámparas amarillas a lo largo del camino que iba hacia el monte, más arriba de las vías y el campo.
+De nuevo se quedó mirando a los hombres, ahora cada vez menos, que volvían a sus hogares. En la casa el fuego se iba consumiendo y la habitación se había teñido de un color rojo oscuro. La mujer puso la olla en la repisa de la chimenea y colocó el pudín cerca del horno. Luego se quedó de pie inmóvil. Unos pasos ágiles, decididos, rápidos y gratos resonaron en la puerta. Alguien sujetó el pomo un momento, luego entró una niña y comenzó a quitarse la ropa de calle, arrastrando con el sombrero sobre sus ojos una masa de rizos que iban del dorado al castaño.
+La madre la regañó por volver tarde de la escuela y le advirtió que en adelante tendría que quedarse en casa durante los oscuros días de invierno.
+—¿Por qué, madre? ¡Si apenas está anocheciendo! La lámpara no está encendida y padre no ha llegado todavía.
+—No, pero ya son las cinco menos cuarto. ¿Le has visto en alguna parte?
+La niña se puso seria. Miró a la madre con grandes y pensativos ojos azules.
+—No, madre, no le he visto. ¿Por qué? ¿Ha pasado de largo hacia Old Brinsley? No creo, porque no le he visto.
+—¡Ya se habrá ocupado él de eso! —dijo la madre con amargura—. Habrá tenido cuidado de que no le vieras. Puedes estar segura de que está sentado en el Prince of Wales. Si no, no se retrasaría tanto.
+La niña miró a la madre conmovedoramente.
+—Madre, vamos a ir cenando nosotros, ¿no? —dijo.
+La madre llamó a John a la mesa. Abrió la puerta una vez más y miró hacia la oscuridad de las vías. Todo estaba desierto. Ya no se oían las bobinadoras.
+—Quizá —se dijo— se haya quedado a terminar algo.
+Se sentaron a cenar. John, en un extremo de la mesa cerca de la puerta, estaba casi perdido en la oscuridad. Sus rostros estaban ocultos unos de otros. La niña se agachó frente al guardafuego moviendo despacio una rebanada de pan ante la lumbre. El muchacho, con su rostro como una mancha oscura sobre las sombras, estaba sentado mirándola, transfigurada por el rojo resplandor.
+—Creo que es hermoso mirar el fuego —dijo la niña.
+—¿Sí? —dijo su madre—, ¿por qué?
+—Es tan rojo y está tan lleno de cuevecitas. Uno se siente bien y se puede oler.
+—Hay que mantenerlo —dijo la madre— porque si viene tu padre empezará a quejarse y dirá que el fuego nunca está encendido cuando un hombre llega sudando de la mina y que sin embargo el bar siempre está caliente.
+Hubo un silencio hasta que el niño dijo quejándose:
+—¡Date prisa, Annie!
+—Pero ¿qué estoy haciendo? No puedo hacer que el fuego vaya más deprisa, o ¿sí?
+—¡Ella pone la tostada y así va más lento! —protestó el niño.
+—¡No seas tan mal pensado, niño! —dijo la madre.
+En la oscuridad la habitación se llenó pronto del crujiente sonido de las bocas al masticar. La madre comió muy poco. Se bebió el té resuelta y se quedó pensativa. Cuando se levantó, su enfado era evidente por la rígida inflexibilidad de la cabeza. Contempló el pudin en el guardafuego y exclamó:
+—Es una vergüenza que un hombre ni siquiera vaya a su casa a cenar. No sé por qué me ha de importar si se le quema la cena hasta quedar en cenizas. ¡Pasar por su misma puerta y marcharse directamente al bar! Y aquí me quedo yo sentada, esperándole con la cena preparada.
+Salió afuera por carbón. Según arrojaba trozos de carbón en el fuego rojo, las sombras iban deshaciéndose en las paredes hasta que la habitación quedó en una absoluta oscuridad.
+—¡No veo! —gruñó el invisible John. La madre rió a su pesar.
+—El camino de la boca sí lo sabes, ¿no? —dijo ella. Y colocó el recogedor de la basura fuera. Cuando volvió a entrar como una sombra tapando la chimenea, el chico repitió protestando con mal humor:
+—¡No veo!
+—¡Dios mío! —gritó la madre enfadada—, eres tan pesado como tu padre cuando hay un poco de oscuridad.
+No obstante, cogió un trozo de papel del fajo que había en la repisa de la chimenea y se puso a encender la lámpara que colgaba del techo, en medio de la habitación. Cuando extendió el cuerpo hacia arriba, su figura apareció redondeada por la maternidad.
+—¡Oh, madre! —exclamó la niña.
+—¿Qué? —dijo la madre deteniéndose en el momento en que iba a colocar el cristal sobre la llama. El reflector de cobre brilló hermosamente sobre ella, mientras estaba de pie con el brazo levantado, volviendo el rostro hacia la hija.
+—¡Tienes una flor en el delantal! —dijo la niña como con un breve éxtasis ante ese acontecimiento tan poco común.
+—¡Madre mía! —exclamó la mujer aliviada—. Se podría pensar que se quemaba la casa.
+Volvió a colocar el cristal de la lámpara y esperó un momento antes de subir la luz de la mecha. Se vio una sombra pálida flotando en el suelo, vagamente.
+—¡Déjame olerla! —dijo la niña extasiada aún, acercándose a ella y apoyando la cara en la cintura de la madre.
+—No seas tonta —dijo la madre subiendo la llama de la lámpara. La luz reveló su tensión de tal modo que casi no pudo soportarlo. Annie todavía estaba apoyada en su cintura. Irritada, la madre se quitó las flores de las cintas del delantal.
+—¡Oh, madre, no te las quites! —gritó Annie, sujetándole la mano e intentando colocarle de nuevo el ramito.
+—¡Qué tontería! —dijo la madre, volviéndose. La niña se acercó los pálidos crisantemos a la boca, murmurando:
+—¡Qué bien huelen!
+La madre esbozó una pequeña risa.
+—No —dijo—, para mí no. Hubo crisantemos cuando me casé, cuanto tú naciste, y la primera vez que le trajeron borracho llevaba crisantemos oscuros en el ojal de la solapa.
+Miró a los niños. Los ojos y los labios entreabiertos de los niños estaban ensimismados. La madre se sentó meciéndose en silencio durante un rato. Después miró el reloj.
+—¡Las seis menos veinte! —Y con un tono de despreocupación delicada y amarga continuó—: No, si no vendrá hasta que le traigan. Se quedará allí. Pero ya puede venir envuelto en toda la suciedad de la mina que yo no voy a lavarle. Ya puede acostarse en el suelo. ¡Qué tonta he sido, qué tonta! Y esto es para lo que he venido aquí, a este sucio agujero de ratas, y todo para que pase por la mismísima puerta de largo. Dos veces la semana pasada. Ahora ya está empezando…
+Guardó silencio y se levantó a quitar la mesa.
+Los niños jugaron durante una hora o más, concentrados, con gran imaginación, unidos por el miedo a la ira de la madre y aterrados ante la llegada del padre.
+La señora Bates estaba sentada en la mecedora cosiendo una camiseta de franela gruesa de color crema, lo que producía un sonido sordo y herido cuando rasgaba los rebordes. Trabajaba afanada en su costura, oyendo a los niños, y su enfado iba aletargándose; apoyó la cabeza para descansar, abriendo los ojos de vez en cuando y mirando fijamente, con los oídos atentos. A veces hasta su enfado venía a menos y se encogía, y la madre suspendía la costura, siguiendo los pasos que resonaban fuera en los trozos de madera entre los raíles; levantaba la cabeza para hacer callar a los niños mientras escuchaba los pasos, pero de nuevo se recuperaba y los pasos seguían de largo y los niños continuaban en su mundo de juegos.
+Pero al fin Annie suspiró y dejó de jugar. Miró el tren de zapatillas y dejó de jugar. Se volvió lastimeramente a su madre:
+—¡Mamá! —Pero no le salieron las palabras.
+John salió de debajo del sofá arrastrándose como una rana. La madre levantó la vista hacia ellos.
+—¡Sí —dijo ella—, mírate las mangas!
+El chico las levantó para observarlas, sin decir nada.
+Entonces alguien gritó fuera en las vías con una fuerte voz, y el suspense se erizó en la habitación, hasta que dos personas pasaron de largo por la casa, charlando.
+—¡Es hora de acostarse! —dijo la madre.
+—Si padre todavía no ha llegado —Annie se quejó entre sollozos.
+Pero la madre estaba muy enfadada.
+—¡No importa, ya le traerán cuando esté como un tronco! —Quería decir que no habría ninguna escena desagradable—. ¡Y ya puede dormir en el suelo hasta que se despierte; supongo que después de esto no irá a trabajar mañana!
+Limpió la cara y las manos de los niños con una manopla. Estaban callados. Cuando se pusieron los pijamas rezaron, aunque el niño lo hizo a regañadientes.
+La madre bajó la vista hacia ellos, miró la sedosa mata marrón de rizos en la nuca de la niña, la oscura cabecita del niño, y su corazón estalló en cólera contra el padre que les causaba tanto pesar a los tres. Los niños escondían las caras entre las faldas de la madre como buscando alivio.
+Cuando la señora Bates bajó, la habitación estaba extraordinariamente vacía, con una tensión de espera. Volvió a coger su costura y dio unas cuantas puntadas sin levantar la cabeza. Mientras tanto su cólera se teñía de temor.
+2
+El reloj dio las ocho y la mujer se levantó de pronto, dejando la costura sobre la silla. Se dirigió a los escalones de la puerta, la abrió y se quedó escuchando. Después salió y echó el cerrojo de la puerta.
+Se oyó algo arrastrarse en el patio y se asustó, aunque sabía que tan solo se trataba de las ratas que invadían el lugar. La noche era muy oscura. En el enorme tramo de vías, como abultado por los vagones, no había rastro de luces, solo allá a lo lejos se podían ver unas cuantas luces amarillas, y la mancha roja del patio de la mina en la noche. Comenzó a caminar más deprisa por los lados de la vía, luego, cruzando las vías convergentes, llegó a la cerca con verjas blancas que daban al camino. Entonces el miedo que la había dominado disminuyó. Algunas gentes caminaban hacia New Brinsley; vio las luces de las casas; veinte yardas más adelante estaban los grandes ventanales del Prince of Wales, cálido y luminoso, y se podían oír claramente las fuertes voces de los hombres.
+¡Qué tonta había sido pensando que le podía haber pasado algo! Simplemente estaría allí bebiendo, en el Prince of Wales. Vaciló. Hasta ahora no había ido nunca a buscarle y jamás iría. De modo que continuó caminando hacia la larga y dispersa hilera de casas que permanecían negras en la carretera. Entró en un pasaje situado entre las pobres viviendas.
+—¿El señor Rigley…? ¡Sí…! ¿Quería verle…? No, no está en este momento.
+Una mujer fuerte se asomó desde una oscura cocina y miró desconfiada a la otra mujer sobre la que caía una luz mortecina que salía a través de las persianas de la cocina.
+—¿Es usted la señora Bates? —preguntó con un tono teñido de respeto.
+—Sí. Me preguntaba si estaría en casa su marido. El mío no ha llegado todavía.
+—¿Todavía no? ¡Ah! Jack vino, cenó y se ha marchado. Ha salido media hora antes de acostarse. ¿Ha ido usted al Prince of Wales?
+—No…
+—Claro, no ha querido… No es agradable. —La otra mujer era comprensiva. Se hizo una pausa tensa—. Jack no me dijo nada de su marido —comentó.
+—¡No! Supongo que estará allí metido.
+Elizabeth Bates dijo esto con amargura y temeridad. Sabía que la vecina, al otro lado del patio, estaba en la puerta de su casa, pero no le importó. Y cuando se marchaba:
+—Espere. Iré y le preguntaré a Jack a ver si sabe algo —dijo la señora Rigley.
+—Oh, no, no quisiera causarle molestias…
+—Sí, iré si usted entra un momento y vigila a los chicos para que no bajen y se quemen.
+Elizabeth Bates, protestando, entró. La otra mujer se disculpó por el estado del cuarto. La cocina estaba como para disculparse. Había batas, pantalones y ropa interior de los niños sobre el sofá y el suelo, y era un basurero de juguetes por todas partes. Sobre el negro mantel americano había migas de pan, trozos de pastel, cáscaras y líquidos derramados y una tetera con té frío.
+—¡Bah! La nuestra está igual —dijo Elizabeth Bates mirando a la mujer, no a la casa. La señora Rigley se puso un chal por la cabeza y salió deprisa diciendo:
+—¡No tardaré nada más que un minuto!
+La otra tomó asiento notando con cierta desaprobación el desorden general de la habitación. Entonces comenzó a contar los zapatos de diferentes números que estaban esparcidos por el suelo. Había doce. Suspiró y se dijo: No me extraña, mirando al basurero. Se oyeron dos pares de pies arrastrándose en el patio, y los Rigley entraron. Elizabeth Bates se levantó. Rigley era un hombre alto de grandes huesos. Su cabeza era particularmente huesuda. A lo largo de la sien tenía una cicatriz azul causada por una herida en la mina, una herida en la que el carbón se había puesto azul como un tatuaje.
+—¿Aún no ha ido a casa? —preguntó el hombre sin saludar, pero con deferencia y comprensión—. No podría decirle dónde está, porque allí no está —dijo moviendo la cabeza hacia el Prince of Wales.
+—Quizá haya ido al Yew —dijo la señora Rigley.
+Hubo otra pausa. Era evidente que Rigley quería quitarse algo de la cabeza.
+—Yo le dejé terminando la faena —empezó a decir—. Hacía diez minutos que había tocado el pito para el fin de turno cuando salimos y yo le pregunté: «¿Vienes Walt?», y él dijo: «Marchaos vosotros, yo solo tardaré un minuto», de modo que salimos del pozo Bowers y yo, y pensamos que vendría detrás con el otro grupo.
+Se quedó perplejo, como si estuviera contestando a la acusación de haber abandonado a su compañero. Elizabeth Bates, ahora de nuevo convencida de un desastre, se apresuró a tranquilizarle:
+—Seguro que se ha ido al Yew Tree, como usted dice. No es la primera vez. Ya me he enfadado por lo mismo en anteriores ocasiones. Vendrá a casa cuando le traigan.
+—¡Ay, pobrecilla, qué pena! —se lamentó la otra mujer.
+—Iré a casa de Dick, a ver si está allí —se ofreció el hombre, temeroso de parecer alarmado y de tomarse algunas libertades.
+—Oh, no quisiera molestarle tanto —dijo Elizabeth Bates con énfasis, pero él se dio cuenta de que su ofrecimiento la alegraba.
+Mientras trastabillaban en la entrada, Elizabeth Bates oyó a la esposa de Rigley que corría por el patio y abría la puerta de su vecina. Ante aquello, toda la sangre del cuerpo pareció golpearle el corazón.
+—¡Cuidado! —dijo Rigley—. Ya he dicho que tengo que arreglar estos agujeros porque alguien va a romperse una pierna.
+Ella se recompuso y empezó a caminar rápidamente al lado del minero.
+—No me gusta dejar a los chicos en la cama cuando no hay nadie en casa —dijo ella.
+—¡No, claro! —contestó él con cortesía. Pronto llegaron a la entrada de la casa.
+—¡Bien! Apenas tardaré. No se alarme, todo irá bien —dijo el compañero.
+—¡Muchas gracias, señor Rigley! —dijo ella.
+—¡De nada! —tartamudeó él alejándose—. No tardaré mucho.
+La casa estaba tranquila. Elizabeth Bates se quitó el sombrero y el chal y arregló la alfombra. Tenía prisa por adecentar la casa. Sabía que alguien podía venir. Cuando terminó, se sentó. Eran las nueve y algo. Se asustó del jadeo de la bobinadora allá en la mina y del agudo chirrido de la soga en los frenos al descender. De nuevo sintió el doloroso estremecimiento de su sangre y se puso la mano en el costado mientras decía en voz alta:
+—¡Dios mío, que solo se trate del capataz de las nueve que baja! —dijo como en un reproche.
+Se quedó quieta escuchando. A la media hora ya estaba agotada.
+—¿Por qué estoy preocupándome tanto? —se dijo a sí misma con lástima—. Así solo lograré hacerme daño.
+Volvió a coger la costura.
+A las diez menos cuarto oyó unos pasos. ¡Una sola persona! Esperó a que la puerta se abriera. Era una mujer mayor con sombrero negro y un chal negro de lana: su suegra. Tenía unos sesenta años, era pálida, de ojos azules y con el rostro lleno de arrugas y marcado por el sufrimiento. Cerró la puerta y se dirigió a su nuera, lamentándose:
+—¡Ay! Lizzie. ¿Qué vamos a hacer? ¿Qué vamos a hacer? —gimió.
+Elizabeth se irguió rápidamente.
+—¿Qué pasa, madre? —preguntó.
+La mujer mayor se sentó en el sofá.
+—No lo sé, niña. No puedo decir nada. —Meneaba la cabeza despacio. Elizabeth permaneció sentada observándola, preocupada y nerviosa.
+—No lo sé —replicó la abuela, suspirando profundamente—. Mis penas no se acaban nunca, nunca. Las cosas por las que he pasado, creo que ya son suficientes… —Lloraba sin secarse las lágrimas que le corrían por la cara.
+—Pero madre —la interrumpió Elizabeth—, ¿qué quiere decir? ¿Qué sucede?
+La abuela se limpió los ojos. Dejó de llorar ante la pregunta tan directa de Elizabeth. Se secó las lágrimas lentamente.
+—¡Pobre hija, pobrecita! —gimió—. No sé qué vamos a hacer, no sé… y estando tú así… es algo… ¡desde luego!
+Elizabeth esperó.
+—¿Está muerto? —preguntó, y ante sus propias palabras el corazón se le estremeció violentamente, aunque sintió un leve rubor de vergüenza ante la categórica exageración de su pregunta. Sus palabras asustaron a la anciana, haciéndole casi recuperar el control.
+—¡No digas eso, Elizabeth! Espero que no sea algo tan terrible; no, que el Señor no haga caer eso sobre nosotros, Elizabeth. Jack Rigley llegó justo cuando estaba tomándome un vaso de leche antes de irme a la cama y me dijo: «Será mejor que vaya a la casa de su hijo, señora Bates. Walt ha tenido un accidente. Será mejor que vaya y espere con ella hasta que le llevemos allí». No me dio tiempo a preguntarle nada más antes de que se marchara. Me puse el sombrero y me vine directamente. Y pensé: «Esa pobre criatura, si alguien llega y se lo dice de repente, no se sabe qué podría pasar». No debes preocuparte, Lizzie, ya sabes qué puede pasar. ¿De cuántos meses estás? ¿Seis meses o cinco, Lizzie? Sí —la anciana movió la cabeza—, el tiempo pasa, ¡cómo pasa el tiempo!
+Los pensamientos de Elizabeth estaban en otra parte. Si estaba muerto, ¿podría arreglárselas con la pequeña pensión y con lo que ella pudiera ganar? Hizo cuentas rápidamente. Si estaba malherido —no lo llevarían al hospital—, ¡qué carga tan grande sería cuidarle! Pero quizá conseguiría alejarlo de la bebida y de sus odiosas consecuencias. Lo conseguiría solo mientras estuviese enfermo. Las lágrimas estaban a punto de brotarle ante esa posibilidad. Pero ¿qué lujo sentimental era ese que se estaba permitiendo? Se puso a pensar en los niños. Bajo cualquier circunstancia ella les era absolutamente necesaria. Ellos eran asunto suyo.
+—¡Ay! —repitió la anciana—. Si parece que fue ayer cuando me trajo el primer sueldo… ¡Sí! Era un buen muchacho, Elizabeth. Lo era a su manera. No sé por qué se convirtió en semejante problema, no sé. En casa era un muchacho feliz, tan lleno de vitalidad… Pero no hay duda de que ha creado muchos problemas. Espero que el Señor le perdone y pueda encontrar el buen camino. Espero que así sea. Lo espero. Tú has tenido muchos problemas con él, Elizabeth. Los has tenido. Pero conmigo fue un muchacho alegre, te lo puedo asegurar. No sé cómo…
+La anciana continuó divagando en voz alta, un sonido monótono e irritante, mientras Elizabeth pensaba detenidamente; se sobresaltó cuando oyó la bobinadora jadear deprisa y los frenos chirriando. Luego la máquina se oyó más lenta, y los frenos no hicieron ruido. La anciana no se dio cuenta. Elizabeth esperó en suspenso. La suegra seguía hablando y callándose de vez en cuando.
+—Pero él no era tu hijo, Lizzie. Y en eso hay una diferencia. Fuera lo que fuese, recuerdo cuando era pequeño y aprendí a conocerle y a perdonarle. Una tiene que perdonarles…
+Eran las diez y media y la anciana estaba diciendo: «Pero hay problemas desde el principio hasta el fin y nunca se es demasiado viejo para eso…», cuando resonó la verja y se oyeron unos pasos pesados en los escalones.
+—Ya voy yo, Lizzie, déjame que vaya yo —dijo la anciana, levantándose. Pero Elizabeth estaba ya en la puerta. Era un hombre con ropa de la mina.
+—Ya le traen, señora —dijo. A Elizabeth se le paró el corazón por un momento. Luego volvió a palpitarle casi ahogándola.
+—¿Está… está mal? —preguntó.
+El hombre desvió la mirada hacia la oscuridad.
+—El médico dice que llevaba horas muerto. Él le vio en la cabina de lámparas.
+La anciana, que estaba justo detrás de Elizabeth, se dejó caer en una silla y cruzó las manos llorando: «¡Oh, mi niño, mi niño!».
+—¡Cállese! —dijo Elizabeth con el entrecejo súbitamente fruncido—. Estese callada, madre, va a despertar a los niños: no querría que bajasen ahora por nada del mundo.
+La anciana gemía en voz baja, meciéndose. El hombre se marchaba. Elizabeth dio un paso adelante.
+—¿Qué pasó? —preguntó.
+—Bueno, yo no puedo decirlo con seguridad —contestó el hombre incómodo—. Estaba terminando una faena y se habían ido sus compañeros, cuando un montón de carbón se le vino encima.
+—¿Y le aplastó? —preguntó temblando la viuda.
+—No, cayó de espaldas. No le tocó la cara. Quedó encerrado. Parece que se asfixió.
+Elizabeth se retiró. Oyó a la anciana gritando tras ella:
+—¿Qué… qué dicen que fue?
+El hombre respondió más alto: «Se asfixió». Entonces la anciana sollozó en voz alta y esto alivió a Elizabeth.
+—¡Oh, madre! —dijo poniendo una mano sobre la anciana—, ¡no despierte a los niños, no les despierte!
+Lloró un poco sin darse cuenta mientras la anciana continuaba meciéndose y sollozando. Elizabeth recordó que iban a traerle a casa y que debía prepararlo todo. Le pondrán en la salita, se dijo a sí misma, quedándose por un momento pálida y perpleja.
+Luego encendió una vela y entró en la pequeña habitación. El aire estaba frío y húmedo, pero no se podía hacer fuego porque no había chimenea. Colocó la vela y miró alrededor. La luz de la vela se reflejaba en los vasos de cristal, en los dos jarrones que contenían algunos crisantemos rosas y en la madera de caoba oscura. Había un olor a crisantemos frío y letal en la habitación. Elizabeth se quedó mirando las flores. Desvió la mirada y calculó si habría sitio para ponerle en el suelo entre el canapé y el aparador. Apartó las sillas a un lado. Habría sitio para ponerle en el suelo y pasar por los lados. Luego recogió el viejo mantel rojo y otro trapo viejo y los extendió en el suelo para preservar un trozo de alfombra. Comenzó a temblar al salir de la salita; sacó una camisa limpia del armario y la puso a calentar. Durante todo aquel tiempo su suegra seguía meciéndose y llorando.
+—Tendrá que quitarse de ahí, madre —dijo Elizabeth—. Van a traerle aquí. Siéntese en la mecedora.
+La anciana se levantó mecánicamente y se sentó al lado del fuego, continuando con sus lamentos. Elizabeth entró en la despensa a buscar otra vela. Y allí, mientras estaba en la pequeña despensa de azulejos desnudos les oyó llegar. Se quedó quieta en la puerta de la despensa, escuchando. Les oyó pasar junto a la casa y bajar con torpeza los tres escalones, una confusión de pisadas que se arrastraban y voces entrecortadas. La anciana estaba en silencio. Los hombres estaban ya en el patio. Entonces Elizabeth oyó a Matthews, el jefe de la mina, que dijo:
+—¡Ve tú primero Jim! ¡Con cuidado!
+Se abrió la puerta y las dos mujeres vieron a un minero que entraba de espaldas a la habitación, sujetando un extremo de la camilla en la que se podían ver las suelas claveteadas de las botas del muerto. Los dos hombres que llevaban la camilla se pararon: el que estaba a la cabeza del muerto se agachó en el dintel de la puerta.
+—¿Dónde le dejamos? —preguntó el jefe, un hombre bajo y de barba blanca. Elizabeth tomó fuerzas y salió de la despensa con la vela apagada.
+—En el saloncito —dijo.
+—Por allí, Jim —señaló el jefe de la mina, y los hombres que llevaban la camilla retrocedieron hasta el pequeño cuarto. El abrigo con el que habían cubierto el cuerpo se cayó cuando pasaron entre las dos puertas, y las mujeres vieron a su hombre desnudo hasta la cintura, como cuando trabajaba. La anciana comenzó a gemir en voz baja, horrorizada.
+—Poned la camilla a un lado —ordenó el jefe— y vestidle, y ponedle sobre los manteles. ¡Cuidado ahora…! ¡Mirad lo que hacéis…!
+Uno de los hombres había volcado uno de los jarrones con crisantemos. Lo miró aturdido y dejaron la camilla en el suelo. Elizabeth no miró a su marido. Tan pronto como pudo entrar en el cuarto, fue y recogió los trozos del jarrón y las flores.
+—Esperen un momento —dijo.
+Los tres hombres esperaron en silencio mientras ella secaba el agua con un trapo.
+—¿Eh? ¡Qué faena, qué faena! —decía el jefe frotándose la frente preocupado y perplejo—. ¡Nunca he visto una cosa igual en mi vida, nunca! ¡No tenía por qué haberse quedado, no había visto una cosa así jamás! Le cayó a un lado, limpiamente, y le cercó. Ni medio metro de espacio. Y aun así ni un moratón.
+Bajaba la vista hacia el hombre muerto, tumbado boca abajo, desnudo hasta la cintura, todo sucio de carbonilla.
+—Asfixiado —dijo el doctor—: es el accidente más terrible que jamás he visto. Parece como hecho a propósito. Le pasó por un lado y le encerró como en una ratonera. —E hizo un gesto tajante hacia abajo con la mano.
+Los mineros que estaban cerca de pie asintieron con la cabeza como en un comentario desesperado.
+El horror del suceso se erizaba sobre todos ellos.
+Entonces oyeron arriba la voz de una niña que gritaba:
+—¡Mamá, mamá! ¿Quién es? Mamá, ¿quién es?
+Elizabeth se precipitó al pie de la escalera y abrió la puerta:
+—¡A dormir! —le ordenó bruscamente—. ¿Por qué gritas? A dormir ahora mismo. ¡No pasa nada!
+Entonces comenzó a subir las escaleras. Se podía oírla pisando las maderas y el suelo de argamasa en el pequeño dormitorio. Podían oírla claramente.
+—¿Qué pasa ahora? ¿Qué te pasa, tontita? —Su voz estaba agitada, y denotaba una suavidad irreal.
+—Creía que habían llegado unos hombres —dijo la voz quejosa de la niña—. ¿Ha llegado ya papá?
+—Sí, le han traído. No hay de qué preocuparse. Ahora, a dormir como una niña buena.
+Su voz podía oírse en el dormitorio y ellos esperaron hasta que tapó a los niños con la ropa de la cama.
+—¿Está borracho? —preguntó tímida y débilmente la niña.
+—¡No, no… no, tan solo está dormido!
+—¿Está dormido abajo?
+—Sí, y no hagas ruido.
+Hubo un rato de silencio, y luego los hombres oyeron de nuevo a la niña asustada:
+—¿Qué es ese ruido?
+—No es nada. Te digo que no es nada, ¿de qué te preocupas?
+El ruido eran los gemidos de la abuela. Ella estaba ajena a todo, sentada en su mecedora y gimiendo. El capataz le puso la mano en el brazo y le pidió:
+—Chist… Chist…
+La anciana abrió los ojos y le miró. La interrupción la sobresaltó, y parecía sorprendida.
+—¿Qué hora es? —dijo la quejosa y débil voz de la niña en una última pregunta antes de quedarse tristemente dormida.
+—Las diez —respondió la madre más suavemente. Luego debió de agacharse y besar a los niños.
+Matthews hizo un gesto a los hombres para que se fueran. Se pusieron las gorras y cogieron la camilla. Evitando pisar el cuerpo, salieron de la casa de puntillas. Ninguno de ellos habló hasta que estuvieron lejos de los niños, que podían despertarse.
+Cuando Elizabeth bajó, se encontró a su madre sola sobre el suelo del salón, inclinada sobre el cuerpo del muerto, las lágrimas cayendo sobre él.
+—Debemos prepararle —dijo la esposa. Puso agua a calentar; volvió, se arrodilló a sus pies y comenzó a desabrochar los nudos de los cordones de las botas. La habitación estaba húmeda y lóbrega con una sola vela, de modo que tuvo que inclinar el rostro hasta el suelo. Por fin logró sacarle las pesadas botas y las puso a un lado.
+—Ahora tiene usted que ayudarme —le dijo a la anciana. Juntas desnudaron al hombre.
+Cuando se pusieron de pie y le vieron yacente con la inocente dignidad de la muerte, las dos mujeres se quedaron quietas a causa del temor y del respeto. Por un momento permanecieron inmóviles, mirando hacia abajo; la anciana lloriqueaba. Elizabeth se sintió anulada. Vio cuán absolutamente inviolable yacía en sí mismo. Ella no tenía nada que ver con él. No podía aceptarlo. Agachándose puso una mano sobre él como reclamándole. Todavía estaba caliente, pues en la mina, donde había muerto, hacía calor. La madre tenía el rostro escondido entre las manos y murmuraba de una forma incoherente. Sus viejas lágrimas le caían una tras otra como gotas de hojas mojadas; la madre no lloraba, simplemente le caían lágrimas. Elizabeth estrechó el cuerpo de su marido con las mejillas y los labios. Parecía estar escuchando, preguntando, tratando de conseguir alguna conexión con él. Pero no podía. Él la apartaba. Era inexpugnable.
+Se levantó y fue a la cocina, donde vertió agua caliente en una palangana, cogió jabón, unos paños y una toalla suave.
+—Tengo que lavarle —dijo. Entonces la anciana madre se irguió, se levantó y observó a Elizabeth mientras esta cuidadosamente le lavaba la cara, frotando con cuidado y con empeño el gran bigote rubio sobre la boca. Tuvo un miedo sin fondo, así que procedió a lavarle como si le estuviese administrando los sacramentos. La anciana dijo celosa:
+—¡Déjame secarle! —Y se arrodilló al otro lado, secándole lentamente mientras Elizabeth le lavaba, rozando de vez en cuando con su gran sombrero negro la cabeza oscura de la nuera. Se afanaron las dos en silencio durante un largo rato. En ningún momento olvidaban que aquello era la muerte, y el tacto del cuerpo muerto del hombre les producía extrañas sensaciones, diferentes sensaciones a cada una de ellas; les embargaba un gran temor. La madre se sentía negada en su vientre, había sido aniquilada; la esposa sentía la profunda soledad del alma humana, el niño que llevaba dentro como un peso separado de ella.
+Finalmente todo había terminado. Él era un hombre de cuerpo gallardo y su rostro no mostraba huellas de la bebida. Era rubio, fornido, de finos miembros. Pero estaba muerto.
+—¡Dios le bendiga! —susurró la madre, siempre mirándole a la cara y hablando por puro terror—. Querido muchacho… ¡Dios te bendiga! —hablaba con un débil y sibilante éxtasis de miedo y amor materno.
+Elizabeth volvió a inclinarse hacia el suelo, puso la cara contra su cuello y tembló y se estremeció. Pero de nuevo tuvo que apartarse. Él estaba muerto y la carne viva de ella no tenía lugar contra la de él. El miedo y el cansancio la embargaron; se sentía tan vana… Así había pasado su vida.
+—¡Blanco como la leche, tierno como un bebé de doce meses! ¡Dios te bendiga, querido mío! —murmuró la anciana para sí—. Ni una marca, claro, limpio y blanco, hermoso como siempre fue de niño —murmuró con orgullo. Elizabeth mantenía el rostro oculto.
+—¡Se ha ido en paz, Lizzie, como dormido! ¿No es hermoso el cordero? Sí, ya estará en paz. No tendría este aspecto si no hubiese encontrado la paz consigo mismo. ¡El cordero, mi querido cordero! ¡Tenía una risa tan sonora! ¡Me encantaba oírsela! Tenía una risa tan alegre, Lizzie, como un niño…
+Elizabeth levantó la mirada. La boca del hombre estaba hundida hacia atrás, ligeramente abierta bajo el bigote. Los ojos, a medio cerrar, no parecían vidriosos en la oscuridad. La vida con su humeante brillo se había alejado de él, le había dejado separado y totalmente ajeno a ella. Y ella sabía cuán extraño le resultaba. En su vientre sentía un miedo helado por este alejado y extraño ser con quien había vivido como en una sola carne. ¿Era esto lo que significaba todo? Un completo e intacto estado de separación, oscurecido por el calor de vivir. Apartó la cabeza con miedo. El rostro era demasiado letal. No había nada entre ellos y sin embargo habían estado unidos, intercambiando repetidamente su desnudez. Cada vez que él la había poseído, habían sido dos seres aislados, distantes como ahora. Él no era más responsable que ella. El niño era como hielo en su seno. Porque mientras miraba al muerto, su mente fría y distante decía claramente: ¿Quién soy yo? ¿Qué he estado haciendo? He estado luchando con un marido que no existía. Él era el que existía. ¿Qué mal he hecho? ¿Con quién he estado viviendo? Ahí está la realidad, este hombre. Y su alma se desvanecía de miedo, ella sabía que nunca le había visto, él nunca la vio, se habían encontrado en la oscuridad, sin saber a quién encontraban y con quién luchaban. Y ahora ella le veía y se quedaba en silencio al verle. Porque había estado equivocada. Había dicho que él era algo que no era; creía haberle conocido. Mientras, él había estado siempre lejos, viviendo como ella no había vivido, sintiendo como ella no había sentido jamás.
+Con miedo y vergüenza miró el cuerpo desnudo que ella había conocido mal. Y él era el padre de sus hijos. El alma se arrancó de su cuerpo y se quedó aparte. Miró el cuerpo desnudo y sintió vergüenza, como si hubiera renegado de él. Después de todo, eso era él. Le pareció horrible. Miró su rostro y después volvió el suyo contra la pared. Porque la mirada de él era otra distinta a la suya. Ella le había negado lo que era, ahora lo veía claro. Le había rechazado tal como era. Y esta había sido su vida y la de él. Se sentía agradecida a la muerte que restauraba la verdad. Y sabía que ella no estaba muerta.
+Y durante todo este tiempo estallaba en dolor y pena por él. ¿Cuánto había sufrido? ¡Qué trecho de dolor para este hombre desesperado! Estaba rígido a causa de la angustia. No había podido ayudarle. Había sido cruel, este hombre desnudo, este otro ser, y ella no podía repararlo. Además estaban los niños, pero los niños pertenecían a la vida. Este hombre muerto ya no tenía nada que ver con ellos. Él y ella tan solo fueron canales por los que había brotado la vida para crear a los niños. Ella era madre, pero ahora sabía cuán horrible había sido ser esposa. Y él, muerto ahora, cuán horrible debió de sentir el ser esposo. Presintió que en el otro mundo sería un extraño para ella. Si se encontraban allí en el más allá, tan solo sentirían vergüenza de lo que había existido antes. Los niños habían llegado a través de ellos por alguna misteriosa razón. Pero los niños no les habían unido. Ahora que él estaba muerto, ella sabía cuán eternamente distante estaba de ella. Vio cerrado un episodio de su vida. Ambos se habían negado en vida. Ahora él se había ido. Una angustia la sobrecogió. Todo había terminado; entre ellos no había habido nunca esperanza, ni siquiera antes de que él muriera. Sin embargo, él había sido su marido, pero ¡qué poco!
+—¿Tienes ya la camisa, Elizabeth?
+Elizabeth dio media vuelta sin contestar, aunque se esforzó por llorar y comportarse como su suegra esperaba. Pero no podía, estaba reducida al silencio. Entró en la cocina y volvió con la prenda.
+—Está oreada —dijo, cogiendo la camisa de algodón por aquí y por allí para ver si estaba oreada. Casi sintió vergüenza al sujetarle; qué derecho tenía ella o cualquiera a ponerle las manos encima; pero el tacto de ella era un tacto humilde sobre su cuerpo. Fue difícil vestirle. Estaba tan pesado e inerte. Un miedo terrible la inundó durante todo el rato: que él pudiera estar tan pesado y tan inerte, insensible, distante… El horror de la distancia entre ellos era demasiado para ella. ¡Era un abismo tan infinito por el que debía mirar…!
+Por fin todo se acabó. Le cubrieron con una sábana y le dejaron tumbado, con el rostro amortajado. Cerró con llave la puerta del saloncito por miedo a que los niños le vieran allí tumbado.
+Entonces, sintiendo paz en lo más profundo de su corazón, salió a ordenar la cocina. Sabía que se sometía a la vida, que era su dueña inmediata. Pero de la muerte, su último amo, se apartaba con miedo y vergüenza.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

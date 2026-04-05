@@ -1,0 +1,66 @@
+---
+layout: story
+title: El crimen perfecto
+slug: am_crimen
+source: https://www.literatura.us/idiomas/am/am_crimen.html
+tags:
+  - am_crimen
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+El crimen perfecto
+[Otros títulos en español: “Crimen prefecto”, “El delito perfecto”]
+(“Il delitto perfetto”)
+Racconti romani
+(Milán: Bompiani, 1954, 439 págs.)
+Era más fuerte que yo: cada vez que conocía a una muchacha se la presentaba a Rigamonti, y él, con regularidad, me la birlaba. Quizás lo hacía para demostrarle que también yo tenía suerte con las mujeres; o quizás porque no conseguía pensar mal de él, y todas las veces, pese a la traición anterior, volvía a caer en considerarlo un amigo. Y si, por lo menos, hubiera hecho las cosas con algo de delicadeza, de educación; pero se comportaba como un prepotente, como si yo no existiera. Llegaba incluso a hacerle la corte a la muchacha en presencia mía, a darle citas en mi propia cara. En estos casos, ya se sabe, siempre es la persona educada la que sale perdiendo; mientras que él no tenía escrúpulos para actuar a su antojo, yo callaba, en cambio, por temor a faltar al respeto a la señorita provocando una discusión. Una o dos veces protesté, pero tímidamente, porque no sé expresar mis sentimientos, y cuando por dentro soy puro fuego, por fuera me quedo tan frío que nadie pensaría que estoy encolerizado. ¿Saben que me contestó?
+—La culpa es tuya y no mía... Si la muchacha me ha preferido a mí, señal de que sé comportarme mejor que tú.
+Era verdad; como también era verdad que él, físicamente, es mejor que yo. Pero un amigo se reconoce precisamente por el hecho de que deja en paz a las mujeres del amigo.
+En resumen, después de que me gastó la misma broma tres o cuatro veces, empecé a odiarlo con tanta fuerza que, en el bar donde trabajábamos, aunque estaba detrás del mostrador con él y sirviendo con él a los mismos clientes, procuraba siempre ponerme de perfil o de espaldas para no verlo. Ahora ya no pensaba casi en las afrentas que me había hecho, sino en él, en cómo era, y advertía que ya no podía soportarlo. Odiaba su cara lozana y estúpida, con la frente baja, los ojos pequeños, la nariz gruesa y curvada, labios llenos y ligeramente sombreados por un bigote. Odiaba sus cabellos, que le formaban una especie de casco negro y brillante, con dos mechones que partiendo de las sienes le llegaban hasta la nuca. Odiaba sus brazos peludos, que ostentaba al maniobrar, de pie, con la máquina del café. Sobre todo, me fascinaba su nariz: ancha en la base, arqueada, gruesa, pálida en medio del rostro rubicundo, como si la fuerza del hueso hubiera tensado la piel. Pensaba a menudo en largarle un puñetazo en plena nariz y oír el hueso, ¡crac!, rompiéndose bajo el puño. Sueños, porque soy bajo y menudo, y Rigamonti habría podido derribarme con un solo dedo.
+No sabría decir cómo se me ocurrió matarlo; quizás una noche que fuimos juntos a ver una película americana que se llamaba “Un crimen perfecto”. Yo, en realidad, al principio no quería matarlo de veras, sino sólo imaginar cómo me las arreglaría para hacerlo. Me gustaba pensar en ello por la noche antes de dormirme, por la mañana antes de levantarme de la cama y, si acaso, de día, cuando en el bar no había nada que hacer y Rigamonti, sentado en un taburete, tras el mostrador, leía el periódico, inclinando sobre la página su cabeza untada. Yo pensaba: “Ahora cojo la maza de romper el hielo y le doy en la cabeza”; pero así, como jugando. En resumen, era como cuando uno se enamora y durante todo el día piensa en la mujer y fantasea que le haría esto o le diría aquello. Sólo que mi enamorado era Rigamonti, y el placer que otros sacan al imaginarse besos y caricias yo lo encontraba al soñar con su muerte.
+Siempre como en un juego, y porque me causaba mu cho placer, me imaginé un plan con todos sus detalles Pero luego, una vez formulado este plan, me acometió la tentación de aplicarlo, y esta tentación era tan fuerte que no pude resistir más y decidí pasar a la acción. Pero quizás no decidí nada y me encontré en plena acción cuando todavía creía que fantaseaba. Digo esto para que se vea que, como ocurre en amor, hice todo naturalmente, sin esfuerzo, sin voluntad, casi sin darme cuenta.
+Comencé, pues, a decirle, entre una y otra taza de café que conocía a una muchacha muy guapa, que esta vez no se trataba de una de las consabidas muchachas que me gustaban a mí y que luego él me birlaba, sino de una muchacha que había puesto sus ojos en él y que no quería a nadie más. Esto se lo repetí día tras día una semana seguida, añadiendo siempre nuevos detalles sobre aquel amor tan ardiente y fingiendo que yo estaba celoso. El, primero, se hizo el indiferente, y decía:
+—Si me ama, que venga al bar... La invitaré a café.
+Pero luego empezó a cansarse. De vez en cuando, fingiendo bromear, me preguntaba:
+—Oye..., ¿y aquella muchacha?... ¿Me sigue amando?
+Y yo le contestaba:
+—¡Y hasta qué punto!
+—¿Y qué dice?
+—Dice que le gustas muchísimo.
+—Pero ¿por qué?... ¿Qué es lo que le gusta de mí?
+—Todo: la nariz, el pelo, los ojos, la boca, la forma en que manejas la máquina del café..., todo, ya te digo...
+En suma, precisamente todas las cosas que yo odiaba en él, y por todas las que sería capaz de matarlo, fingía que eran las que habían enamorado a aquella muchacha de mi invención. Él sonreía y se hinchaba como un pavo porque era vanidoso y se creía quién sabe qué. Se veía que su cabecita no hacía más que pensar en ello y que quería conocer a la muchacha; sólo el orgullo le impedía pedírmelo. Hasta que, un día, dijo, fastidiado:
+—Oye... O me la presentas..., o es mejor que no me vuelvas a hablar de ella.
+Yo esperaba estas palabras, e inmediatamente le di una cita para la noche siguiente.
+Mi plan era muy sencillo. A las diez cerrábamos, pero en el bar se quedaba el patrón hasta las diez y media, haciendo las cuentas. Yo llevaría a Rigamonti al pie del terraplén del ferrocarril de Viterbo, allí cerca, diciéndole que la muchacha nos esperaba en aquel sitio. A las diez y cuarto pasaba el tren, y yo, aprovechándome del ruido, le disparaba a Rigamonti con una “Beretta” que había comprado hacía algún tiempo en la Plaza Vittorio. A las diez y veinte volvía al bar a recoger un paquete que había olvidado, y así me veía el patrón. A las diez y media, como máximo, estaba ya en la cama en la portería del edificio donde el portero me alquilaba un catre para la noche. Este plan lo había copiado en parte de la película, sobre todo en lo referente a la combinación de la hora y del tren. Incluso podía no salir bien, en el sentido de que me descubriesen. Pero entonces me quedaba la satisfacción de haber desahogado mi pasión. Y yo, por aquella satisfacción, me sentía dispuesto incluso a ir a la cárcel.
+Al día siguiente tuvimos mucho trabajo, porque era sábado, y me vino muy bien, porque así él no me habló de la muchacha y yo no pensé en ello. A las diez, como de costumbre, nos quitamos las chaquetas de tela y, despidiéndonos del patrón, salimos por debajo del cierre metálico, medio echado. El bar se encontraba en la avenida que lleva al Acqua Acetosa, justo a un paso del ferrocarril de Viterbo. A esa hora, las últimas parejas habían abandonado la colinita del parque de la Rimembranza y por la avenida oscura, bajo los árboles, no pasaba nadie. Era abril, con aire ya suave y un cielo que poco a poco se aclaraba, aunque no se veía todavía la luna.
+Nos encaminamos por la avenida; Rigamonti, muy contento, me daba las acostumbradas palmadas protectoras en los hombros, y yo, rígido, con la mano en el pecho, sobre la pistola que guardaba en el bolsillo interior de la cazadora. Al llegar al cruce dejamos la avenida y nos adentramos por un sendero herboso, a espaldas del terraplén de la vía férrea. Allí, por culpa del terraplén, estaba más oscuro que en otros lugares, y también había contado incluso con esto. Rigamonti caminaba delante y yo tras él. Cuando llegamos al lugar designado, en la cercanía de una farola, dije:
+—Ha dicho que la esperemos aquí... Verás como llega dentro de un momento.
+Él se paró, encendió un cigarrillo y dijo:
+—Como mozo de bar eres discreto... Pero como rufián eres insuperable.
+En suma, continuaba ofendiéndome.
+Era un paraje verdaderamente solitario, y la luna, que se alzaba a nuestras espaldas, iluminaba toda la llanura bajo nosotros, empañada por un relente blanco, sembrada de manchones oscuros y de montones de detritus, con el Tíber serpenteando allá abajo, curva tras curva, y que parecía de plata. Me pareció que me estremecía a causa del relente y le dije a Rigamonti, más por mí que por él:
+—Sabes, minuto más o minuto menos... Está sirviendo y tiene que esperar a que sus amos salgan.
+—No, ahí está —replicó él.
+Entonces me volví y vi que venía a nuestro encuentro, por el sendero, una figura negra de mujer.
+Luego me dijeron que aquél era un lugar frecuentado por esas mujeres para buscar clientes; pero yo no lo sabía, y de momento casi pensé que no me había inventado a la muchacha y que de verdad existía. Entre tanto, Rigamonti, muy seguro de sí mismo, iba a su encuentro, y yo lo seguía maquinalmente. A los pocos pasos la mujer salió de la sombra y, a la luz de la farola, la vi. Y casi me dio miedo. Tendría unos sesenta años, con ojos pasmados pintados todo alrededor de negro, el rostro enharinado, la boca roja, cabellos revoloteantes y una cinta en torno al cuello. Era precisamente una de esas que buscan los sitios más oscuros para no dejarse ver, y verdaderamente no se comprende, tan viejas y gastadas están, cómo se las arreglan para encontrar aún clientes. Pero Rigamonti, antes de verla bien, le había preguntado ya, con su habitual desfachatez:
+—¿Nos esperaba, señorita?
+—Claro que sí —respondió ella, no menos desfachatada.
+Por fin él la vio y comprendió su error. Retrocedió un paso, dijo, inseguro:
+—Bueno, lo siento, esta noche no puedo... Pero ahí está mi amigo.
+Dio un salto hacia un lado y desapareció terraplén abajo. Comprendí que Rigamonti había pensado que yo quería vengarme presentándole, después de tantas hermosas muchachas, a un monstruo de aquella clase; y también comprendí que mi crimen perfecto se esfumaba. Miré a la mujer, que me decía, pobrecilla, con una sonrisa que parecía la mueca de una máscara de Carnaval:
+—Rubito, ¿me das un cigarrillo?
+Y me dio pena de ella, de mí, y quizás también de Rigamonti. Había sentido tanto odio, y ahora, no sé cómo, el odio se había descargado. Y se me llenaron los ojos de lágrimas y pensé que gracias a esa mujer no me había convertido en un asesino. Le dije:
+—No tengo cigarrillos, pero toma esto. Si la revendes, puedes sacar hasta mil liras —y le puse en la mano la “Beretta”.
+Después salté yo también por el terraplén, corriendo hacia la avenida. En ese momento pasó el tren de Viterbo, un vagón tras otro, con todas las ventanillas iluminadas, esparciendo chispas rojas en la noche. Me detuve a mirarlo mientras se alejaba; y luego escuché el ruido hasta que se apagó; y finalmente, me volví a casa.
+Al día siguiente, en el bar, Rigamonti me dijo:
+—¿Sabes? Ya había comprendido que me ocultabas algo... Pero no importa... Como broma ha estado bien.
+Yo lo miré y me di cuenta de que ya no lo odiaba, aunque seguía siendo el mismo, con la misma frente, los mismos ojos, la misma nariz, los mismos cabellos; los mismos brazos peludos que ostentaba siempre de la misma manera al maniobrar la máquina del café. Me sentí de pronto más ligero, como si el viento de abril, que agitaba la cortina de la puerta del bar, hubiera soplado en mi interior. Rigamonti me dio dos tacitas de café para que las llevara a dos clientes que se habían sentado al sol, en las mesas de fuera, y yo, mientras las cogía, le dije en voz baja:
+—¿Nos vemos esta noche?... He invitado a Amelia.
+Él tiró bajo el mostrador el café usado, llenó las medidas de café recién molido, liberó un poco de vapor y después respondió sencillamente, sin rencor:
+—Lo siento, pero esta noche no puedo.
+Salí con las tacitas; y me di cuenta de que estaba desilusionado porque él no venía esta noche y no me robaba a Amelia, como a todas las demás.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

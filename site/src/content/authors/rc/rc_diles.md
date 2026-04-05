@@ -1,0 +1,154 @@
+---
+layout: story
+title: Diles a las mujeres que nos vamos
+slug: rc_diles
+source: https://www.literatura.us/idiomas/rc_diles.html
+tags:
+  - rc_diles
+  - rc
+---
+Raymond
+Carver
+(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
+Diles a las mujeres que nos vamos
+(“Tell the Women We’re Going”)
+Originalmente publicado en Sou’wester (1971);
+What We Talk About When We Talk About Love (1981);
+aparece, en versión manuscrita, en Beginners (2009)
+y Collected Stories (2009)
+Bill Jamison había sido siempre el mejor amigo de Jerry Roberts. Ambos habían crecido en la zona sur, cerca del viejo parque de atracciones. Habían ido juntos a la escuela primaria y luego a la secundaria, y más tarde entraron juntos en Eisenhower, donde hicieron cuanto estuvo en su mano para tener el mayor número de profesores comunes, se intercambiaron camisas y suéteres y pantalones con pinzas, y salieron y fornicaron con las mismas chicas, e hicieron todas esas cosas que suelen salir al paso normalmente.
+En el verano conseguían trabajos juntos: macerar melocotones, recoger cerezas, deshebrar lúpulo, cualquier cosa que les proporcionase algo de dinero y en donde no hubiera que soportar a un patrón al acecho. Y compraron un coche a medias. El verano anterior a su último curso, juntaron el dinero y se compraron un Plymouth rojo del 54 por 325 dólares.
+Lo compartieron. Y todo salió perfectamente.
+Pero Jerry se casó antes de que finalizara el primer semestre, y abandonó los estudios para tomar un empleo fijo en el centro comercial Robby’s.
+En cuanto a Bill, también él había salido con la chica. Carol, se llamaba, y se llevaba muy bien con Jerry, y Bill iba a visitarlos siempre que podía. Tener amigos casados le hacía sentirse más mayor. Solía ir a almorzar o a cenar, y escuchaban a Elvis o a Bill Haley y los Comets.
+Pero a veces Carol y Jerry empezaban a ponerse a tono sin importarles que Bill estuviera delante, y entonces Bill se levantaba y se excusaba y se iba andando hasta la estación de servicio Dezorn’s a tomarse una Coca-Cola, pues en el apartamento de Jerry no había más que una cama abatible en la sala de estar. O bien ellos se metían en el cuarto de baño, y Bill se iba a la cocina y fingía interesarse por la alacena o el frigorífico mientras trataba de no escuchar.
+Así que Bill empezó a no ir tan a menudo; y, después de graduarse en junio, consiguió un empleo en la fábrica Darigold y se alistó en la Guardia Nacional. Al cabo de un año tenía a su cargo su propia ruta lechera y mantenía relaciones formales con Linda. De modo que Bill y Linda iban a visitar a Jerry y Carol, y bebían cerveza y oían discos.
+Carol y Linda se llevaban bien, y a Bill le halagó que Carol le dijera —así, confidencialmente— que Linda era una «auténtica persona».
+También a Jerry le gustaba Linda.
+—Es estupenda —comentó Jerry.
+Cuando Bill y Linda se casaron, Jerry fue el padrino de boda. La fiesta, naturalmente, fue en el Donnelly Hotel, y Jerry y Bill se cogieron del brazo y se bebieron el ponche de un trago y se despacharon a gusto con toda clase de diabluras. Pero en determinado momento, en medio de toda aquella alegría, Bill miró a Jerry y pensó en lo mucho que había envejecido, pues tenía veintidós años y aparentaba muchos más. Para entonces tenía ya dos hijos y había ascendido en Robby’s a adjunto a la gerencia, y había otro retoño en camino.
+Se veían todos los sábados y domingos, y más a menudo si había una fiesta. Cuando hacía buen tiempo, Bill y Linda iban a casa de Jerry, y asaban perritos calientes en la barbacoa, mientras dejaban a los niños en la piscina portátil que Jerry había conseguido por cuatro perras —al igual que tantas otras cosas— en el centro comercial donde trabajaba.
+Jerry tenía una bonita casa. Estaba sobre una colina desde donde se divisaba el Naches. Había otras casas en las cercanías, pero no muy próximas. A Jerry le iban las cosas a pedir de boca. Cuando Bill y Linda y Jerry y Carol se reunían, lo hacían siempre en casa de Jerry, pues era él quien tenía la barbacoa y los discos y la chiquillería que no paraba de dar la lata.
+Sucedió un domingo en casa de Jerry.
+Las mujeres estaban en la cocina preparando las cosas. Las hijas de Jerry jugaban en el jardín. Lanzaban una pelota de plástico a la piscinita, chillaban y se metían a chapotear detrás de ella.
+Jerry y Bill, echados en las tumbonas del patio, bebían cerveza y descansaban.
+Bill llevaba el peso de la conversación: hablaba de gente que conocían, de Darigold, del Pontiac Catalina de cuatro puertas que pensaba comprarse.
+Jerry miraba fijamente el tendedero, o el Chevy descapotable del 68 que estaba en el garaje. Bill pensó que Jerry iba a acabar por quedarse ensimismado, mirando como miraba todo el tiempo fijamente y sin decir esta boca es mía.
+Bill se movió en su tumbona y encendió un cigarrillo. Preguntó:
+—¿Te sucede algo, muchacho? Quiero decir... ya sabes.
+Jerry acabó su cerveza y aplastó la lata. Se encogió de hombros.
+—Ya sabes —dijo.
+Bill asintió con la cabeza.
+Luego Jerry propuso:
+—¿Qué tal si nos damos una vuelta?
+—Me parece perfecto —aprobó Bill—. Les diré a las mujeres que nos vamos.
+Tomaron la carretera del río Naches rumbo a Gleed. Conducía Jerry. El día era cálido y soleado, y el aire azotaba el interior del coche.
+—¿Adónde vamos? —preguntó Bill.
+—Vamos a echar unas partidas de billar.
+—Estupendo —celebró Bill. Se sentía mucho mejor viendo a Jerry animado.
+—Hay que salir de vez en cuando —se justificó Jerry. Miró a Bill—. ¿Me entiendes, no?
+Sí, Bill le entendía. Le gustaba ir con los compañeros de la fábrica a jugar en la liga de bolos del viernes por la noche. Le gustaba irse un par de veces a la semana después del trabajo a tomarse unas cervezas con Jack Broderick. Sabía que los jóvenes tienen que salir de vez en cuando.
+—Al pie del cañón —dijo Jerry mientras tomaba la pista de grava que conducía al Rec Center.
+Entraron. Bill sostuvo la puerta para que pasara Jerry, y al pasar Jerry le dio un puñetazo suave en el estómago.
+—¡Qué hay, gente!
+Era Riley.
+—¿Eh, cómo están, chicos?
+Riley salía de detrás de la barra sonriendo abiertamente. Era un hombre corpulento. Llevaba una camisa hawaiana de manga corta que le colgaba fuera de los tejanos. Riley repitió:
+—¿Cómo están, chicos?
+—Venga, calla y ponnos un par de Olys —pidió Jerry,
+guiñando un ojo a Bill—. ¿Y tú cómo estás, Riley? —preguntó Jerry.
+Riley continuó:
+—¿Cómo les va, chicos? ¿Dónde se han metido? ¿Tienen algún lío de faldas? La última vez que te vi, Jerry, tenías a la parienta de seis meses.
+Jerry se quedó quieto unos instantes, y pestañeó.
+—¿Qué hay de esos Olys? —insistió Bill.
+Se sentaron en unos taburetes cerca de la ventana. Jerry comentó:
+—¿Qué local es éste, Riley, sin una sola chica un domingo por la tarde?
+Riley rió. Contestó:
+—Imagino que están todas en la iglesia rezando para conseguir un macho.
+Se tomaron cinco latas de cerveza cada uno y tardaron dos horas en jugar tres partidas de turnos y dos de billar ruso. Riley, sentado en un taburete, hablaba y miraba cómo jugaban. Bill no paraba de mirar primero su reloj y luego a Jerry.
+Bill saltó:
+—¿Bueno, en qué piensas, Jerry? Repito, ¿en qué piensas?
+Jerry acabó la lata, la aplastó y se quedó un momento dándole vueltas en la mano.
+Una vez en la carretera, Jerry empezó a pisarle a fondo: a veces ponía el coche a ciento treinta y ciento cuarenta kilómetros por hora. Acababan de adelantar a una vieja furgoneta cargada de muebles cuando vieron a las dos chicas.
+—¡Mira eso! —exclamó Jerry, reduciendo la marcha—. Ya haría yo algo con ellas.
+Jerry siguió como una milla y salió de la carretera.
+—Volvamos —propuso—. Intentémoslo.
+—Joder —dudó Bill—. No sé.
+—Yo les haría algo —insistió Jerry.
+Bill remoloneó:
+—Sí. Pero no sé...
+—Joder, venga —le apremió Jerry.
+Bill miró el reloj y luego miró en torno. Dijo:
+—Suelta el rollo tú. Yo estoy desentrenado.
+Jerry hizo sonar la bocina mientras giraba en redondo.
+Cuando se acercó a la altura de las chicas redujo la velocidad. Hizo entrar el Chevy en el arcén. Las chicas siguieron pedaleando en dirección opuesta, pero se miraron una a otra y rieron. La que ocupaba el borde de la pista era alta y esbelta y tenía el pelo oscuro; la otra era rubia y más menuda. Ambas llevaban shorts y blusas que dejaban al descubierto la espalda.
+—Putas —masculló Jerry.
+Esperó a que pasaran los coches para cruzar y tomar la dirección contraria.
+—La morena es para mí —decidió. Añadió—: La pequeña es tuya.
+Bill se echó hacia atrás en su asiento y se tocó el puente de las gafas de sol.
+—Esas no van a hacer nada —auguró.
+—Pronto las tendrás a tu lado —le contradijo Jerry.
+Cruzó la autopista y dio marcha atrás.
+—Prepárate —anunció.
+—Hola —dijo Bill cuando alcanzaron las bicicletas—. Me llamo Bill.
+—Muy bonito —dijo la morena.
+—¿Adonde van? —preguntó Bill.
+Las chicas no respondieron. La pequeña rió. Siguieron pedaleando y Jerry siguió conduciendo.
+—Eh, venga. ¿Adonde van? —insistió Bill.
+—A ningún sitio —contestó la pequeña.
+—¿Y dónde es ningún sitio?
+—Ya te gustaría saberlo —coqueteó la pequeña.
+—Te he dicho mi nombre —respondió Bill—. ¿Cuál es el tuyo? Este se llama Jerry.
+Las chicas se miraron y rieron.
+Apareció un coche a la zaga. El conductor tocó el claxon.
+—¡A la mierda! —gritó Jerry.
+Aceleró hasta despegarse de las bicicletas y dejó que el coche lo adelantara. Luego retrocedió hasta situarse al lado de las chicas.
+Bill propuso:
+—Nos damos un paseo. Las llevamos adonde quieran. Lo prometo. Tienen que estar cansadas de darles a los pedales. Tienen pinta de cansadas. No es bueno el exceso de ejercicio. Y menos para las chicas.
+Las chicas rieron.
+—¿Lo ven? —continuó Bill—. Ahora venga, díganos cómo se llaman.
+—Yo soy Barbara, y ésta es Sharon —dijo la menuda.
+—¡Perfecto! —exclamó Jerry—. Ahora entérate de a dónde van.
+—¿Adonde van? —quiso saber Bill—. ¿Eh, Bárbara?
+La chica rió.
+—A ninguna parte —respondió—. Por la carretera.
+—¿Pero por la carretera adónde?
+—¿Te importa que se lo diga? —le preguntó a su amiga.
+—No, me da igual —contestó la amiga—. Me da exactamente igual. No voy a ir a ninguna parte con nadie —resolvió la chica llamada Sharon.
+—¿Adónde van? —insistió Bill—. ¿Van a Picture Rock?
+Las chicas rieron.
+—Allí es donde van —aseguró Jerry.
+Apretó el acelerador del Chevy, adelantó a las chicas y se metió en el arcén: ahora habrían de pasar a su lado.
+—No sean así —dijo Jerry. Y les instó—: Venga. Si ya hemos sido presentados —argumentó.
+Las chicas pasaron de largo.
+—¡No las voy a morder! —bromeó Jerry.
+La morena miró hacia atrás. A Jerry le pareció que le miraba con ojos propicios. Pero con una chica nunca se sabe.
+Jerry volvió como un rayo a la calzada; de los neumáticos salieron disparados guijarros y tierra.
+—¡Nos veremos! —les gritó Bill al pasar a su lado.
+—Está en el bote —comentó Jerry—. ¿No has visto la mirada que me ha echado la muy guarra?
+—No sé —dudó Bill—. Quizá sería mejor que volviéramos a casa.
+—¡Pero si está hecho! —dijo Jerry.
+Salió de la carretera y se detuvo bajo unos árboles. La carretera se bifurcaba allí, en Picture Rock, de donde partía un ramal para Yakima y otro para el Naches, Enumclaw, el puerto de Chinook y Seattle.
+A unos cien metros de la autopista se alzaba una alta e inclinada masa de roca negra, parte integrante de una cadena poco elevada de colinas llenas de senderos y pequeñas cuevas, en cuyas paredes podían verse numerosas inscripciones indias. El lado escarpado de la roca daba a la carretera, y sobre él había escritas cosas como éstas: NACHES 67 — LOS WILDCATS DE GLEED — JESÚS NOS SALVA — DERROTAD A YAKIMA — ARREPENTIOS.
+Se quedaron dentro del coche, fumando. Los mosquitos trataban de picarles en las manos.
+—Cómo me gustaría tener una cerveza —exclamó Jerry—. Iría a beberme una.
+—Y yo —coreó Bill, y miró el reloj.
+Cuando divisaron a las chicas, Jerry y Bill salieron del coche. Se apoyaron sobre la aleta delantera.
+—Recuerda —dijo Jerry, apartándose del coche—. La morena es mía. Tú te encargas de la otra.
+Las chicas dejaron las bicicletas en el suelo y tomaron uno de los senderos. Desaparecieron tras un recodo y volvieron a aparecer un poco más arriba. Ahora estaban allí, quietas, y miraban hacia abajo.
+—¿Para qué nos siguen, eh chicos? —gritó la morena.
+Jerry tomó el sendero.
+Las chicas se volvieron y se alejaron de nuevo a buen paso. Bill fumaba un cigarrillo, y se paraba de vez en cuando para dar una honda chupada. Cuando llegaron a un recodo, miró hacia atrás y vio el coche.
+—¡Muévete! —le instó Jerry.
+—Ya voy —respondió Bill.
+Siguieron subiendo. Pero Bill tuvo que recobrar el resuello. Ya no podía ver el coche. Tampoco la carretera. A su izquierda pudo ver una franja del Naches, que se extendía hacia abajo como una tira de papel de aluminio.
+Jerry dijo:
+—Vete a la derecha y yo iré de frente. Les cortaremos el paso a esas calientapollas.
+Bill asintió con la cabeza. Jadeaba demasiado para poder hablar.
+Siguió subiendo durante un rato; el sendero empezó a descender y a encaminarse hacia el valle. Bill miró y vio a las chicas. Se habían puesto en cuclillas tras un saliente del terreno. Tal vez estaban sonriendo.
+Bill sacó un cigarrillo. Pero no pudo encenderlo. Entonces vio a Jerry. Y después de aquello, ya no importaba.
+Lo que Bill había querido era joder con ellas. O verlas desnudas. Pero tampoco le habría importado mucho que la cosa no saliera.
+No llegó a saber lo que quería Jerry. Pero todo empezó y acabó con una piedra. Jerry utilizó la misma piedra con las dos chicas: primero con la que se llamaba Sharon y luego con la que se suponía que le tocaría a Bill.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

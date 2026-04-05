@@ -1,0 +1,35 @@
+---
+layout: story
+title: El pasillo del gran hotel
+slug: hotel
+source: https://www.literatura.us/idiomas/buzzati/hotel.html
+tags:
+  - hotel
+  - buzzati
+---
+Dino Buzzati
+(Belluno, Italia, 1906 - Milán, 1972)
+El pasillo del gran hotel
+(“Il corridoio del grande albergo”)
+La boutique del mistero
+(Milán: Arnoldo Mondadori Editore, 1968, 226 págs.)
+Después de volver a mi habitación ya muy tarde, estaba a medio desnudarme cuando sentí necesidad de ir al servicio.
+Mi habitación estaba casi al final de un pasillo interminable y escasamente iluminado; aproximadamente cada veinte metros, tenues lámparas violáceas proyectaban haces de luz sobre la alfombra roja. Justo a la mitad, delante de una de estas lamparillas, se hallaban, de una parte, la escalera y, de otra, la puerta acristalada de dos hojas del baño.
+Poniéndome una bata, salí al pasillo, que estaba desierto. Y había llegado casi al servicio cuando me topé de frente con un hombre también en bata que, surgido de las sombras, provenía de la parte opuesta. Era un señor alto y grueso con una redonda barba a lo Eduardo VII. ¿Tenía el mismo objetivo que yo? Como suele suceder, hubo un instante de embarazo, por poco chocamos. El hecho es que a mí, vaya a saber por qué, me entró vergüenza de entrar en el retrete estando él delante y pasé de largo como si me dirigiera a otro lugar. Y él hizo lo mismo.
+A los pocos pasos, no obstante, me di cuenta de la estupidez que había hecho. Pero en realidad, ¿qué otra cosa podía hacer? Había dos posibilidades: o seguir hasta el final del pasillo y luego volver atrás con la esperanza de que el señor de la barba, entre tanto, se hubiera ido. (Pero nadie me decía que éste tuviera que entrar en una habitación, dejando así el campo libre; quizá él también quisiera ir al servicio y, al encontrarme, le hubiera entrado vergüenza, exactamente igual que me había pasado a mí, y ahora se encontraba en mi misma embarazosa situación. Por lo cual, volviendo sobre mis pasos, me exponía a encontrármelo otra vez y a quedar como un imbécil aún mayor.)
+O bien –segunda posibilidad– esconderme en el hueco, bastante profundo, de una de tantas puertas, escogiendo una poco iluminada, y desde allí espiar el campo hasta estar seguro de que el pasillo estaba completamente despejado. Y eso hice, antes de haber analizado la situación a fondo.
+Sólo cuando me encontré agazapado como un ladrón en uno de aquellos estrechos huecos (era la puerta de la habitación número 90) empecé a razonar. Antes que nada, si la habitación estaba ocupada y el cliente daba en entrar o salir, ¿qué pensaría al encontrarme escondido allí, delante de su puerta? Peor: ¿cómo descartar que aquella habitación no fuese justamente la del señor de la barba? Y éste, si regresaba, me cortaría el camino sin remisión. Y no sería menester ningún recelo especial para que mi maniobra le pareciera harto extraña. Quedarse allí, en definitiva, era una imprudencia.
+Poco a poco asomé la cabeza para explorar el corredor. Completamente vacío de un extremo a otro. Ni un rumor, ni un ruido de pasos, ni el eco de una voz humana, ni un chirrido de una puerta que se abriese. Era el momento: salí de mi escondite y, con pasos desenvueltos, me encaminé hacia mi habitación. De paso, pensaba, entraría un momento en el servicio.
+Pero en aquel preciso instante, y me di cuenta de ello demasiado tarde para poder volver a ocultarme, el señor de la barba, que evidentemente se había hecho las mismas reflexiones que yo, salía del hueco de una de las puertas del fondo, quién sabe si la mía, y venía decididamente a mi encuentro.
+Por segunda vez, con embarazo todavía mayor, nos encontramos delante del servicio; y por segunda vez ninguno de los dos se atrevió a entrar, sintiendo vergüenza de que el otro lo viera; ahora sí que había un verdadero riesgo de hacer el ridículo.
+Así, maldiciendo para mis adentros los miramientos humanos, me encaminé, derrotado, a mi habitación. Cuando llegué, antes de abrir la puerta, me volví a mirar: al fondo, en la penumbra, entreví al de la barba, que, simétricamente, entraba en su habitación; y se había vuelto a mirar hacia donde estaba yo.
+Me sentía furioso. Pero ¿no tendría quizá yo la culpa? Intentando leer, en vano, un periódico, esperé más de media hora. Luego abrí la puerta con cautela. En el hotel reinaba un gran silencio, como en un cuartel abandonado; y el pasillo estaba más desierto que nunca. ¡Por fin! Salí disparado, ansioso de llegar al baño.
+Pero en el otro extremo, con una sincronía impresionante, como si hubiera intervenido la telepatía, también el señor de la barba se deslizó fuera de su habitación y, con una agilidad insospechada, avanzó hacia el retrete.
+Por tercera vez nos encontramos frente a frente delante de la puerta de cristales esmerilados. Por tercera vez ambos disimulamos, por tercera vez pasamos ambos de largo sin entrar. La situación era tan cómica que habría bastado nada, un gesto, una sonrisa, para romper el hielo y echarlo todo a risa. Pero ni yo ni, probablemente, él, teníamos ningunas ganas de reírnos; al contrario; una furiosa exasperación, una vaga sensación de pesadilla, como si fuera todo una maquinación urdida misteriosamente por alguien que nos aborreciera, azuzaba.
+Como en mi primera salida, acabé por escurrirme en el hueco de una puerta desconocida y esconderme allí a la espera de los acontecimientos. Lo que ahora me convenía, cuando menos para limitar los daños, era aguardar a que el barbudo, apostado sin duda como yo en el otro extremo del pasillo, saltase de su trinchera en primer lugar: entonces lo dejaría avanzar un buen trecho y sólo en el último momento saldría también yo; esto, con el objeto de toparme con él ya no delante del servicio, sino mucho más hacia aquí, de forma que, superado el encuentro, quedara en libertad de actuar sin enojosos testigos. Y si en cambio él, antes de encontrarme, se decidía a entrar en el baño, tanto mejor; satisfecha su necesidad, se retiraría luego a su habitación y no respiraría ya en toda la noche.
+Asomando apenas un ojo de la jamba (a causa de la distancia no podía ver si el otro hacía lo mismo), permanecí al acecho largo tiempo. Cansado de estar de pie, en un momento dado acabé poniéndome de rodillas sin interrumpir ni por un momento mi vigilancia. Pero el hombre no se decidía a salir. Y, sin embargo, estaba ahí todo el rato, escondido, en las mismas condiciones que yo.
+Oí dar las dos y media, las tres, las tres y cuarto, las tres y media. No podía más. Por fin, me dormí.
+Me desperté con los huesos molidos cuando eran ya las seis de la mañana. De momento, no recordaba nada. ¿Qué había pasado? ¿Por qué estaba tirado allí en el suelo? Luego vi a otros como yo, en bata, acurrucados en los huecos de los cientos y cientos de puertas, dormidos: uno de rodillas, otro sentado en el suelo, otro adormilado de pie, como los mulos; pálidos, destrozados, como después de una noche de batalla.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

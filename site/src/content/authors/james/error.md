@@ -1,0 +1,307 @@
+---
+layout: story
+title: Un error trágico
+slug: error
+source: https://www.literatura.us/idiomas/james/error.html
+tags:
+  - error
+  - james
+---
+Henry James
+(Nueva York, 1843 - Londres, 1916)
+Un error trágico (1864)
+[Otro título en español: “Una tragedia del error”]
+(“A Tragedy of Error”)
+Originalmente publicado, anónimo, en la revista Continental Monthly,
+Vol 5, Núm. 2 (febrero de 1864);
+The Complete Tales of Henry James [póstumo]
+[edited with anintroduction by Leon Edel]
+(Londres: Rupert Hart-Davis, 1962-64, Vol. 1, págs 23-47)
+I
+Un bajo faetón inglés estaba detenido frente a la puerta de la estafeta de Correos de una ciudad portuaria francesa. Sentada en él estaba una dama, con el velo echado y con una sombrilla pegada a su rostro. Mi relato comienza cuando un caballero sale de la estafeta y le entrega una carta. El caballero permaneció unos instantes de pie junto al carruaje antes de subirse. Ella le entregó su sombrilla para que la sostuviese y a continuación se retiró el velo descubriendo una hermosa faz. La pareja parecía despertar un gran interés entre los transeúntes, muchos de los cuales los observaban fijamente e intercambiaban elocuentes miradas. Las personas que estaban mirando en ese momento vieron cómo el rostro de la joven palidecía mientras sus ojos recorrían la carta. Su compañero también lo vio, e inmediatamente se sentó junto a ella, tomó las riendas y condujo el carruaje velozmente por la calle principal de la ciudad, cruzando el puerto hasta una carretera abierta que bordeaba el mar. Aquí aflojó la marcha. La dama estaba recostada, con el velo nuevamente echado y la carta desplegada sobre su regazo. Su actitud era casi de inconsciencia y el caballero pudo observar que tenía los ojos cerrados. Con esa convicción, se apoderó súbitamente de la carta y leyó lo que sigue:
+Southampton, 16 de julio de 18—
+Mi querida Hortense:
+Verás por el matasellos que estoy mil leguas más cerca de casa que la última vez que escribí, pero apenas tengo tiempo para explicar el cambio. M.P— me ha concedido un inesperado congé. Después de tantos meses de separación, podremos pasar unas semanas juntos. ¡Alabado sea el Señor! Hemos llegado de Nueva York esta mañana, y he tenido la gran suerte de encontrar un barco, el Armorique, que zarpa directo a H—. El correo parte sin demora, pero nosotros probablemente estemos detenidos unas horas por la marea; así que esta carta te llegará un día antes de mi arribada; el capitán calcula que llegaremos el jueves temprano. ¡Ah, Hortense, qué lento pasa el tiempo! Tres días completos. Si no te escribí desde Nueva York fue porque no estaba dispuesto a atormentarte con una expectativa que, de ser así, me atrevo a suponer, encontrarías demasiado larga. Adiós. ¡Por un cálido reencuentro! Tuyo devoto,
+C. B.
+Cuando el caballero dejó de nuevo la carta sobre el regazo de su compañera, su rostro estaba casi tan pálido como el de ella. Permaneció unos instantes mirando al vacío con la vista perdida, y sus labios abortaron una maldición. Entonces sus ojos se volvieron sobre su acompañante. Tras unos momentos de indecisión, durante los cuales aflojó hasta tal punto las riendas que el caballo redujo el paso, la tocó suavemente en el hombro:
+—Vaya, Hortense —dijo él en un tono amable—, ¿qué ha pasado, te has quedado dormida?
+Hortense abrió lentamente los ojos y, observando que habían dejado atrás la ciudad, se retiró el velo. Sus facciones estaban agarrotadas por el miedo.
+—Lee esto —dijo ella tendiéndole la carta.
+El caballero cogió la misiva y fingió leerla de nuevo.
+—¡Ah!, Monsieur Bernier regresa. ¡Estupendo! —exclamó.
+—¿Cómo, estupendo? —preguntó Hortense—. No debemos bromear en momentos tan críticos, querido.
+—Cierto —dijo él— será un encuentro solemne. Dos años de ausencia es mucho tiempo.
+—¡Oh, cielos! No seré capaz de mirarle a la cara —sollozó Hortense, rompiendo a llorar.
+Se cubrió el rostro con una mano y tendió la otra hacia la de su amigo, pero él estaba sumido en un sopor tan profundo que no percibió el movimiento. De repente, volvió en sí alertado por sus sollozos.
+—Vamos, vamos —dijo, en el tono propio de quien trata de convencer a otro para hacerle dudar de un peligro del que él mismo no se siente muy seguro, pero frente al cual, la indiferencia de un amigo, le aliviaría—. ¿Y qué, si viene?, no tiene por qué enterarse de nada. No estará más que unos días y embarcará de nuevo tan confiado como llegó.
+—¡Qué no tiene por qué enterarse de nada!, me sorprendes. Cada lengua que le dé la bienvenida, con sólo pronunciar bon jour, se moverá a un compás que le revelará conducta tan reprochable.
+—¡Bah!, la gente no piensa en nosotros tanto como imaginas. Tú y yo, n’est-ce-pas?, tenemos poco tiempo para preocuparnos por las los defectos de nuestros vecinos. Pues nadie está libre de pecado, para bien o para mal. Si un barco naufragara contra aquellas rocas mar adentro, los pobres diablos que tratasen de alcanzar tierra firme flotando sobre los restos de los mástiles no dirigirían demasiadas miradas a aquellos que se baten con las olas junto a ellos. Sus ojos están fijos en la orilla, y toda su preocupación sería su propia salvación. En la vida, todos somos náufragos a la deriva en un tempestuoso mar, luchando por alcanzar una terra firma de salud, de amor o de placer. El rugir de las olas que levantamos en nuestro derredor y la espuma que arrojamos sobre nuestros ojos nos ensordece y nos ciega frente a los actos y palabras de nuestros semejantes. Con tal que podamos ponernos a salvo, ¿a qué preocuparnos por ellos?
+—Ay, pero ¿si no lo logramos? Cuando hemos perdido nuestras propias esperanzas, tratamos de hundir a los demás. Colgamos piedras de molino de sus cuellos y nos sumergimos en los más sucios fondos en busca de cantos que lanzarles. Amigo mío, no eres capaz de sentir los disparos que no se dirigen a ti. No es de ti de quien la ciudad murmura, sino de mí: una pobre mujer se arroja desde aquel muelle y muere ahogada antes de que una amable mano tenga tiempo de hacerla recapacitar, y su cadáver flota sobre la superficie a la vista de todo el mundo. Cuando su marido se aproxima para ver qué significa esa muchedumbre, ¿le faltarán amigos gentiles para darle la buena nueva de la muerte de su esposa?
+—Mientras que la mujer sea suficientemente ligera para flotar, Hortense, no se le da por muerta. Sólo cuando se hunde más allá del alcance de la vista, se pierden las esperanzas.
+Hortense permaneció un momento en silencio, mirando el mar con los ojos hinchados.
+—Louis —dijo finalmente— estábamos hablando metafóricamente: estoy a punto de ahogarme, literalmente.
+—¡Tonterías! —dijo Louis—, un reo se declara “inocente” y, si ha de colgarse, lo hace en la prisión. ¿Qué dicen los periódicos?, la gente habla ¿no?, ¿no puedes tú hablar igual que ellos? Una mujer se equivoca desde el momento en que retiene su lengua y rehúsa luchar. Y eso es lo que tú haces demasiado a menudo. Ese pañuelo es casi como una bandera blanca.
+—Seguro que estoy equivocada —dijo Hortense con aire indiferente—, acaso sea así.
+Hay momentos de dolor en los que determinados aspectos del objeto de nuestra angustia parecen tan irrelevantes como aquellos otros completamente ajenos a ellos. Los ojos de ella seguían fijos en el mar. Hubo otro silencio.
+—¡Oh, mi pobre Charles! —murmuró, y finalmente—: ¡A qué clase de corazón regresas!
+—Hortense. El caballero hizo como si no la hubiese escuchado, aunque, a una tercera persona le habría parecido que fue precisamente porque le había oído por lo que dijo: No necesito decirte que jamás se me ocurriría traicionar nuestro secreto. Pero te garantizo que mientras Monsieur Bernier permanezca en su hogar, ningún otro mortal pronunciará una sola palabra sobre este asunto.
+—Qué más da —susurró Hortense—. No podremos estar diez minutos juntos sin que él lo adivine todo.
+—Oh, en cuanto a eso —dijo secamente su compañero— es cosa tuya.
+—¡Monsieur de Meyrau! —chilló la dama.
+—Me parece —continuó el otro— que, con tales garantías, he cumplido con mi parte.
+—¡Tu parte! —sollozó Hortense.
+Monsieur de Meyrau no contestó pero con un fuerte chasquido del látigo envió al caballo al galope por el camino. No se dijo nada más. Hortense permanecía recostada en el carruaje con el rostro sepultado en un pañuelo, gimiendo. Su compañero sentado, erguido, con el ceño fruncido y los dientes firmemente apretados, miraba fijamente hacia delante y, con eventuales latigazos, mantenía el caballo a un frenético paso. Un caminante podría haberle tomado por un raptor escapando con su víctima, exhausta por la resistencia. Los viajeros para quienes eran conocidos, podrían, acaso, haber percibido un profundo significado en esta accidental analogía. De este modo, dando un détour, regresaron a la ciudad. Cuando Hortense llegó a casa, subió directamente a un minúsculo tocador en la segunda planta y se encerró en él. El cuarto se encontraba en la parte trasera de la casa, y su doncella, quien en ese momento se hallaba caminando por el amplio jardín que se extendía hasta el mar, donde había un embarcadero para botes de escaso calado, la vio echar las cortinas y apagar las luces, vistiendo aún su sombrero y su capa. Permaneció sola un par de horas. A las cinco en punto, un poco antes de la hora a la que normalmente era requerida para vestir de noche a su señora, la doncella llamó a la puerta de Hortense y ofreció sus servicios. La señora respondió, desde el interior, que tenía una migraine,y que no se vestiría.
+—¿Le preparo algo a la señora? —preguntó Josephine—; ¿una tisana, un caldo, alguna cosa?
+—Nada, nada.
+—¿Cenará la señora?
+—No.
+—La señora no debería acostarse en ayunas.
+—Tráigame una botella de vino,... o de brandy.
+Josephine obedeció. Cuando regresó, Hortense estaba esperando en el umbral de la puerta y, como una de las contraventanas había sido momentáneamente abierta, la mujer pudo ver que, aunque el sombrero de su señora había sido arrojado sobre el sofá, aún no se había desprendido de la capa y su rostro estaba muy pálido. Josephine estimó que no debía mostrarse compasiva ni formular más preguntas.
+—¿No tomará nada más la señora? —se atrevió a preguntar mientras le entregaba la bandeja.
+La señora negó con la cabeza, y cerró y echó la llave a la puerta. Josephine permaneció de pie por un momento; desconcertada, indecisa, a la escucha. No percibió ningún ruido. Al final, lentamente, se inclinó y aplicó su ojo a la mira de la cerradura. Esto es lo que vio: su señora se había aproximado hasta la ventana abierta y permanecía de pie, de espaldas a la puerta, mirando hacia el mar. Mantenía la botella asida por el cuello en una mano, que colgaba lánguidamente a lo largo de costado; la otra descansaba en un vaso a medio llenar que se encontraba junto a una carta abierta, en una mesa situada a su lado. Mantuvo esta posición hasta que Josephine se cansó de esperar. Pero justo cuando empezaba a perder la esperanza de ver recompensada su curiosidad, la señora levantó la botella y el vaso, y llenó por completo este último. Josephine observó entonces con mayor fruición. Hortense lo alzó contra la luz y lo sostuvo así un momento antes de apurarlo por completo.
+Josephine no pudo contener un silbido involuntario. Pero su sorpresa se convirtió en asombro cuando vio a su señora a punto de tomar un segundo vaso. Hortense lo dejó, no obstante, antes de apurarlo, como si un repentino pensamiento la hubiese golpeado, y cruzó apresuradamente la habitación. Se inclinó frente a una vitrina y sacó un pequeño vaso ópera. Con él regresó a la ventana, lo puso frente a sus ojos y de nuevo dedicó unos momentos a mirar hacia el mar. Josephine no pudo entender el propósito de este proceder. El único resultado que pudo apreciar fue que su señora dejó repentinamente los impertinentes sobre la mesa y se dejó caer sobre un sillón, cubriéndose el rostro con las manos. Josephine, incapaz de contener su asombro mucho tiempo, bajó apresuradamente a la cocina.
+—Valentine, ¿qué demonios puede pasarle a la señora? —le dijo a la cocinera—, no quiere cenar nada y está apurando vasos de brandy; hace un momento estaba mirando hacia el mar con unos impertinentes, y ahora está hecha un mar de lágrimas con una carta abierta sobre el regazo.
+La cocinera, que se encontraba mondando patatas, alzó la vista y le hizo un expresivo guiño.
+II
+Al dar las seis en punto, Josephine y Valentine estaban todavía sentadas discutiendo sobre las posibles causas y consecuencias del hecho insinuado por esta última. De repente, la campanilla de Madame Bernier sonó. Josephine estuvo encantada de contestar. Se encontró con su señora cuando ésta bajaba las escaleras, peinada, envuelta en su capa y con el velo echado, sin visos de agitación, pero con el rostro muy pálido.
+—Voy a salir —dijo Madame Bernier—, si el señor vizconde viniese, dígale que estoy en casa de mi suegra y ruéguele que me espere hasta que regrese.
+Josephine le abrió la puerta a su señora y permaneció de pie observándola mientras cruzaba el patio.
+—En casa de su suegra —murmuró la doncella—, ¡vaya desvergüenza!
+Cuando Hortense llegó a la calle, se dirigió, no a través de la ciudad hacia el casco viejo, donde esa anciana dama —la madre de su marido— vivía, sino que tomó una dirección bien diferente. Siguió el camino del muelle, que discurría paralelo al puerto, hasta llegar a una zona muy concurrida, principalmente por pescadores y barqueros. Al llegar allí se retiró el velo. Empezaba a anochecer. Caminaba procurando no atraer la atención y escrutando minuciosamente la concurrencia en medio de la cual se encontraba. Su atuendo era sencillo, de suerte que no había nada en su apariencia que solicitase la atención; sin embargo, si por alguna razón a un transeúnte se le hubiese ocurrido fijarse en ella, la intensidad contenida con la cual examinaba a cada persona con quien se cruzaba le habría impresionado inevitablemente. Su comportamiento era el de quien trata de reconocer a un viejo amigo al que no ve hace tiempo o, quizás, mejor dicho, el de quien busca a un viejo enemigo entre una multitud. Finalmente, se detuvo frente a un tramo de escalera, al pie del cual había un embarcadero para media docena de botes, empleados en ocasiones para transportar pasajeros entre los dos extremos del puerto cuando se cerraba el puente levadizo para la navegación. Estando allí, de pie, fue testigo de la siguiente escena: Un hombre tocado con un gorro de pescador de lana roja, estaba sentado en la parte alta de la escalinata, fumando una pipa de caño corto, con el rostro vuelto hacia el agua. Al girar la cabeza, su vista se fijó en un mocoso que cruzaba apresuradamente el muelle en dirección a una lúgubre casa de vecindad cercana, con una jarra en los brazos.
+—¡Eh, rapaz! —gritó el hombre—, ¿qué tienes ahí? Ven aquí.
+El chiquillo miró hacia atrás pero, en lugar de obedecer, aceleró el paso.
+—¡Que el diablo te lleve, te he dicho que vengas! —repitió el hombre enfadado— ...o te retorceré tu miserable cuello, ¿es que no vas a obedecer a tu propio tío?
+El chico se detuvo y se dirigió hacia su pariente con aire de arrepentimiento, volviendo la cabeza varias veces hacia la casa, como apelando a alguna autoridad superior.
+—¡Vamos, date prisa o tendré que ir a buscarte! —prosiguió el hombre—. ¡Venga!
+El muchacho avanzó hasta quedarse a unos pasos de la escalinata y allí se paró en seco, y se puso a observar cautelosamente al hombre aferrando con fuerza la jarra.
+—Date prisa, pequeño miserable, acércate más.
+El joven mantuvo, empero, un imperturbable silencio y permaneció inmóvil. Bruscamente, su sedicente tío se inclinó hacia delante y con un amplio movimiento de su brazo agarró la bronceada muñeca del chico y lo atrajo hacia él.
+—¿Por qué no vienes cuando se te llama? —preguntó al tiempo que agarraba con su otra mano la desgreñada mata de pelo del infante, y sacudía su cabeza hasta hacerle tambalearse—. ¿Por qué no viniste, pequeño salvaje maleducado?, ¿Eh?, ¿eh?, ¿eh? — preguntó acompañando cada interrogación con una nueva sacudida.
+El chico no respondió. Intentaba por todos los medios volver la cabeza, a despecho de la furia del hombre y transmitir alguna llamada de auxilio a la casa.
+—Vamos, deja de retorcer la cabeza. Mírame y contéstame: ¿qué hay en esa jarra? Y no mientas.
+—Leche.
+—¿Para quién?
+—Para la abuelita.
+—Que la cuelguen.
+El hombre lo soltó y arrebató la jarra de los débiles brazos del chico, la inclinó hacia la luz e inspeccionó su contenido, se la llevó a los labios y la apuró. El chico, aunque ya libre, no retrocedió. Permaneció observando cómo su tío daba cuenta de la jarra. Después, mirándole a la cara le dijo:
+—Era para el crío.
+El hombre vaciló por un instante. Pero el chico pareció tener una premonición del resentimiento de su pariente, y por ello, apenas terminó de decirlo, retrocedió corriendo como una flecha justo a tiempo de evitar el jarrazo que le lanzó el hombre y que fue a estrellarse en sus talones. Cuando perdió de vista al muchacho, se volvió de nuevo hacia el mar, se colocó la pipa entre los dientes, frunció el ceño y murmuró algo que a Madame Bernier le sonó muy parecido a “Ojalá se ahogara ese niño”. Hortense fue muda espectadora de este minúsculo drama. Cuando terminó, se volvió y desanduvo sus pasos unos veinte metros con la mano en la cabeza. Después caminó muy erguida y se dirigió al hombre:
+—Buen hombre —dijo en un tono amable—. ¿Es usted el patrón de alguno de estos botes?
+El hombre levantó la vista hacia ella. En un instante, la pipa estaba fuera de la boca y en su lugar había una amplia sonrisa. Se levanto llevándose la mano a la gorra.
+—Lo soy, señora, a su servicio.
+—¿Podría llevarme a la otra orilla?
+—No necesita un bote; el puente esta bajo —dijo uno de sus compañeros al pie de la escalera, mirando en dirección al puente.
+—Lo sé —dijo Madame Bernier—, pero desearía ir al cementerio, y un bote me evitaría caminar casi un kilómetro.
+—El cementerio está cerrado a esta hora.
+—Allons, deja en paz a la señora —dijo el hombre al que se dirigió inicialmente—. Por aquí, señora mía.
+Hortense se sentó en la popa del bote. El hombre cogió los remos.
+—¿Cruzamos directamente? —preguntó el hombre.
+Hortense miró en derredor.
+—Es una bonita tarde —dijo—, ¿por qué no me lleva hasta el faro y en el camino de regreso me deja en el punto más cercano al cementerio?
+—Muy bien —replicó el barquero—. Quince sueldos —dijo, y comenzó a remar vigorosamente.
+—Allez, le pagaré bien —dijo Hortense.
+—Quince sueldos es la tarifa —insistió el hombre.
+—Déme un agradable paseo y le daré cien —dijo Hortense.
+Su acompañante no dijo nada. Evidentemente trataba de actuar como si no hubiese oído la observación. El silencio era probablemente la forma más digna de recibir una promesa demasiado munificente para no ser sino una broma. El silencio se mantuvo por algún tiempo, roto únicamente por el batir de los remos y por los sonidos procedentes de la costa y de las naves próximas. Madame Bernier estaba sumida en un profundo escrutinio, a hurtadillas, del rostro del barquero. Era un hombre de unos treinta y cinco años, de rostro obstinado, cruel y sombrío. Estos indicios estaban, quizás, exagerados por la pesada monotonía de su tarea. Sus ojos no mostraban ya ese destello de picardía que habían transparentado cuando estaba tan empressé en el ofrecimiento de sus servicios, su rostro era mejor entonces, esto es, si el vicio es mejor que la ignorancia. Decimos que un rostro se “ilumina” con una sonrisa; y de hecho, ese breve titilar hace los oficios de una vela en una habitación oscura. Proyecta un rayo de luz sobre la sombría tapicería de nuestras almas. El semblante de los pobres conoce generalmente pocas variaciones. Existe una vasta clase de seres humanos cuya fortuna se restringe a un único cambio de expresión o, quizás, mejor dicho, a una única expresión. ¡Ah, yo! ¡Los rostros que visten la desnudez o harapos; cuyo reposo es anquilosamiento, cuya actividad, vicio; ¡ignorantes en sus peores momentos, infames en los mejores!
+—No reme tan fuerte —dijo finalmente Hortense—. ¿No sería mejor que se tomase un respiro?
+—La señora es muy amable —dijo el hombre, apoyándose sobre los remos—. Pero si me ha contratado por horas —añadió con esa despiadada sonrisa de nuevo en su rostro— no debería pescarme holgazaneando.
+—Supongo que su trabajo es muy duro —dijo Madame Bernier.
+El hombre sacudió levemente la cabeza, como para dar a entender la insuficiencia de cualquier suposición para captar el verdadero alcance de su trabajo.
+—Me he levantado a las cuatro de la mañana, llevo acarreando fardos y cajas en el muelle y navegando con mi bote desde entonces, sudando, sin cinco minutos de descanso. C’est comme ça. A veces le digo a mi amigo, creo que me voy a dar un chapuzón en la ensenada para ver si me seco un poco. ¡Ja, ja, ja!
+—Y, por supuesto, no ganará usted mucho —dijo Madame Bernier.
+—Menos que nada. Lo justo para mantenerme lo suficientemente orondo para dar de comer al hambre.
+—¿Cómo?, ¿no le llega siquiera para la comida precisa?
+—Precisa es una palabra muy elástica, señora. Puede reducirla hasta el punto de que el grado superior a nada signifique lujo. Mi alimento preciso es a veces aire enrarecido. Si no me privo de él, es porque no puedo.
+—¿Es posible ser tan desdichado?
+—¿Quiere saber qué he comido hoy?
+—Dígamelo —dijo Madame Bernier.
+—Un pedazo de pan negro y un arenque en salazón es todo lo que ha pasado por mi gaznate en las últimas doce horas.
+—¿Por qué no se busca otro trabajo, una ocupación más apropiada?
+—Si tuviese que morir esta noche —prosiguió el hombre sin hacer caso de la pregunta—, cual un hombre cuyas ansias de auto-compasión le conducen más allá de las señales de auxilio, ¿qué quedaría para enterrarme? Con estas ropas que llevo podría comprarme una buena caja, por el precio de este viejo y desarrapado traje, que no me ha durado siquiera un año, podría conseguir un ataúd que durara más de cien años. La bonne idée!
+—¿Por qué no busca otro trabajo en el que paguen mejor? —repitió Hortense.
+El hombre dejó de nuevo los remos.
+—¿Un trabajo mejor pagado? Tengo que trabajar para conseguir trabajo. Tengo que ganármelo también. Un trabajo significa un salario. Cuento con la esperanza de un trabajo para la próxima semana como la mejor parte de mis gastos para el sábado noche. Hacer rodar cincuenta toneles desde el barco hasta el almacén significa dos cosas: treinta sueldos y cincuenta barriles más para descargar al día siguiente. Así que una mano rota o un hombro dislocado significan veinte francos para el boticario y bon jour a mi negocio.
+—¿Está casado? —preguntó Hortense.
+—No, doy gracias. No he sido maldecido con esa dicha. Pero tengo una vieja madre, una hermana y tres sobrinos que dependen de mí. La anciana mujer es demasiado vieja para trabajar; la chica es demasiado perezosa y los pequeños son demasiado jóvenes. Pero ninguno de ellos es demasiado joven o demasiado viejo para no tener hambre, allez. ¡Que me aspen si no soy un padre para todos ellos!
+Hubo una pausa. El hombre había retomado los remos. Madame Bernier permanecía sentada sin moverse, examinando la fisonomía de su vecino. El agonizante sol daba de lleno sobre la cara del hombre, cubriéndola de una brillante luz. Las facciones de la dama quedaban oscurecidas contra el cielo de poniente, lo que la hacía indiscernible para su compañero.
+—¿Por qué no abandona este lugar? —dijo finalmente ella.
+—¡Abandonarlo!, ¿cómo? —contestó, mirándola con la basta avidez con la que la gente de su clase recibe propuestas que rozan sus intereses, incluyendo las sugerencias filantrópicas, esa ansia desconfiada con la cual la experiencia les ha enseñado defender su propia parte del trato, la única clase de propuesta con la que ella les había familiarizado.
+—Ir a otra parte —dijo Hortense.
+—¿Adónde, por ejemplo?
+—A un nuevo país, América.
+El hombre estalló en una sonora carcajada. La cara de Madame Bernier reveló evidencias de un mayor interés en el juego de sus rasgos que en esa turbación que generalmente acompaña a la conciencia del ridículo.
+—¡Ése sí que es un proyecto digno de una dama! Si encuentra un apartamento amueblado, lá-bas, no podría desear nada mejor. Pero nada de saltos en el vacío. América y Argelia son bonitas palabras para atiborrar estómagos vacíos cuando estás holgazaneando al sol, sin trabajo, igual que cuando llenas tu pipa de tabaco y dejas que el humo ascienda formando volutas alrededor de tu cabeza. Pero se desvanecen tras un buen chuletón y una botella de vino. Cuando la tierra sea tan llana y el aire tan puro que la costa americana pueda divisarse desde aquel muelle, entonces prepararé mi hato. No antes.
+—¿Teme, entonces, arriesgarse?
+—Yo no temo nada, moi. Pero tampoco soy un necio. No quiero darles un puntapié a mis sabots hasta no tener un buen par de zapatos. Puedo caminar descalzo aquí, pero no quiero encontrarme agua donde esperaba pisar tierra firme. En cuanto a América, ya he estado allí.
+—¡Ah!, ¿ha estado allí?
+—He estado en Brasil, México, California y en las Indias occidentales.
+—¡Ah!
+—También en Asia.
+—¡Ah!
+—Pardieu, en China y la India. ¡Oh, he visto todo el mundo! He doblado tres veces el Cabo.
+—¿Ha sido marino, entonces?
+—Sí, señora, catorce años.
+—¿En qué barco?
+—Pobrecita, en medio centenar.
+—¿Franceses?
+—Franceses, ingleses y españoles, la mayoría españoles.
+—¿Sí?
+—Sí, en buena hora.
+—¿Cómo es eso?
+—¡Oh, fue una vida de perros! Habría ahogado a cualquier perro que me hubiese jugado la mitad de las malas pasadas que solía presenciar.
+—¿Y nunca tuvo que intervenir en alguna usted mismo?
+—Pardon, lo di todo. Fui tan buen español y tan valiente como cualquiera. Medí mi cuchillo con los mejores, y lo desenvainé tan rápido y lo hundí tan profundo como ellos. Le enseñaría las cicatrices si no fuera una dama. Pero le aseguro que podría encontrar sus gemelas en el pellejo de docenas de españoles.
+Los recuerdos le hicieron remar con renovado vigor. Hubo un breve silencio.
+—Cree usted —dijo Madame Bernier al cabo de unos minutos—, recuerda Usted, quiero decir, ¿recuerda usted si alguna vez mató a un hombre?
+Hubo un momentáneo flaqueo en los remos del barquero. Le dirigió una repentina mirada a su pasajera, quien sin embargo permanecía aún lo suficientemente oscurecida por su posición como para resultar indistinguible. El tono de su interrogatorio había trascendido la pura y simple curiosidad. Vaciló unos instantes, y luego ofreció una de esas conscientes, prudentes, ambiguas sonrisas que pueden ocultar bien la asunción criminal de algo más que la verdad o el rechazo culpable de ésta.
+—Mon Dieu! —dijo encogiéndose de hombros—. ¡Hay una cuestión!... Nunca maté a nadie sin una razón.
+—Por supuesto que no —dijo Hortense.
+—Si bien una razón en Sudamérica, ma foi! —añadió el barquero —, no sería una razón aquí.
+—Supongo que no. ¿Cuál podría ser una razón allí?
+—Bueno, si hubiera matado a un hombre en Valparaíso, y no digo que lo hiciera, cuidado, sería porque mi cuchillo habría ido más lejos de lo que pretendía.
+—Pero ¿por qué habría de desenfundarlo?
+—No lo hice. Pero si lo hubiera hecho, habría sido porque él lo desenfundó primero contra mí.
+—¿Y por qué habría hecho él eso?
+—Ventrebleu!, por tantas razones como barcos hay en el puerto.
+—¿Por ejemplo?
+—Bueno, porque me hubiesen dado a mí el puesto que él buscaba en una tripulación.
+—¿Por cosas como ésa? ¿Es posible?
+—Oh, por cosas más nimias: por una docena de naranjas que me hubiera dado una muchacha que anteriormente se las había prometido a él.
+—¡Qué extraño! —dijo Madame Bernier con una estridente risa—. Un hombre que te guarda un resentimiento de esa clase sería capaz de acercarse y apuñalarte, supongo, como si tal cosa.
+—Exacto. Te clava un cuchillo en la espalda hasta la empuñadura escupiéndote una maldición, y cinco minutos más tarde está partiendo un melón con ese mismo cuchillo mientras entona una cancioncilla.
+—Y cuando una persona tiene miedo, o vergüenza, o de algún modo se siente incapaz de vengarse por sí mismo, ¿debe él (o puede que sea una mujer), debe ella buscar a alguien que lo haga en su lugar?
+—Parbleu!, pobres diablos a la espera de ese tipo de encargos son tan abundantes en toda la costa sudamericana como los commissionaires en las esquinas de este país. —El barquero estaba claramente sorprendido por la fascinación que acerca de tan infame tema se había apoderado de una dama tan elegante; pero teniendo, como se puede observar, una lengua dispuesta, es posible que el placer que encontraba en ser capaz de complacer la curiosidad de la dama y en escucharse a sí mismo fuesen aún mayores—. Y allí abajo —continuó— nunca olvidan una deuda. Si un tipo no te ajusta cuentas un día, lo hará otro, el odio de los españoles es como el sueño perdido, puedes aplazarlo un tiempo, pero al final te pasa factura. Los bribones siempre mantienen sus promesas... Un enemigo a bordo es tremendamente divertido, es como dos toros encerrados en un mismo ruedo, no puedes permanecer quieto ni medio minuto, si no es contra la barrera. Incluso cuando traba amistad contigo, su acogida nunca es de fiar. Provocarle es como beber de una jarra de peltre. Y es así en todas partes. Deja que tu sombra se cruce una sola vez en el camino de un español, y él siempre la verá ahí. Si no ha vivido nunca fuera de esas malditas cuadriculadas ciudades europeas, no puede imaginarse cómo son las cosas en una de esas ciudades portuarias sudamericanas, la mitad de la población esperando tras la esquina a la otra mitad. Pero no veo que sea mucho mejor aquí, donde unos vigilan a otros. Allí te encuentras un asesino a cada paso, aquí un sergent de ville... En todo caso, la vida là-bas solía recordarme, más que cualquier otra cosa, a la navegación por un canal de aguas poco profundas, donde no sabes qué infernal roca puede hacerte encallar. Todo el mundo tiene cuentas pendientes con sus vecinos, como las tienen las señoras con sus fournisseurs; y, ma foi, ésas son las únicas cuentas que saldan. El capitán del Santiago puede que me pague algún día de éstos por los bonitos calificativos que le jalée cuando nos despedimos, pero seguro que nunca me pagará el salario que me debe.
+Una corta pausa siguió a esta exposición de las virtudes de los españoles.
+—Entonces, ¿usted no ha mandado al otro mundo a nadie? —continuó Hortense.
+—¡Oh, claro que sí!... ¿Se siente horrorizada?
+—En absoluto. Sé que el hecho es a menudo justificable.
+El hombre permaneció en silencio un instante, acaso sorprendido, y lo siguiente que dijo fue:
+—¿Es usted española?
+—En ese sentido, quizás lo sea —respondió Hortense.
+Su compañero guardó de nuevo silencio. La pausa se prolongó. Madame Bernier lo rompió con una pregunta que mostró que los pensamientos de ambos habían estado siguiendo el mismo curso.
+—¿Cuál sería una razón suficiente en este país para matar a alguien?
+El barquero lanzó una fuerte carcajada sobre el agua. Hortense se envolvió bien con su manto.
+—Me temo que no la hay.
+—¿No existe el derecho de legítima defensa?
+—Por supuesto, y eso es algo de lo que yo debería saber. Pero es una defensa que ces messieurs du Palais podrán dejar en nada.
+—En Sudamérica y esos países, cuando un hombre te hace la vida imposible, ¿qué puedes hacer?
+—Mon Dieu! Supongo que matarle.
+—¿Y en Francia?
+—Supongo que suicidarte. ¡Ja!, ¡ja!, ¡ja!
+En ese momento habían alcanzado el extremo del gran rompeolas, que terminaba en un faro; el límite, por una parte, del interior del puerto. El sol se había puesto.
+—Ya estamos en el faro —dijo el barquero—; está oscureciendo, ¿regresamos?
+Hortense se incorporó en su sitio unos instantes, y permaneció así mirando hacia el mar.
+—Sí —dijo finalmente—, puede regresar, despacio.
+Cuando el bote hubo girado, se sentó de nuevo en la misma posición, y extendió una de sus manos más allá del borde del bote, garabateando en la superficie del agua mientras avanzaban y fijando la mirada en las largas ondas. Finalmente, alzó la vista hacia su compañero. Ahora que su rostro reflejaba las últimas luces del poniente, el hombre pudo ver que estaba mortalmente pálida.
+—Debe de resultarle duro arreglárselas en la vida —dijo ella—. Estaría encantada de poder ayudarle.
+El hombre se puso en marcha y la miró fijamente unos instantes. ¿Sería porque esa observación no encajaba con la expresión que podía discernir tenuemente en sus ojos? A continuación se llevó la mano a la gorra.
+—Madame es muy amable. ¿Qué haría para ayudarme?
+Madame Bernier le sostuvo la mirada.
+—Confiaré en usted.
+—¡Vaya!
+—Y le recompensaré.
+—¿Sí? ¿Madame tiene un trabajo para mí?
+—Un trabajo —asintió Hortense.
+El hombre no dijo nada, esperando aparentemente una explicación. Su rostro mostraba esa leve irritación que sienten las naturalezas inferiores cuando se las intriga.
+—¿Es usted un hombre valiente?
+La luz pareció llegar en esta pregunta. La pronta expansión de sus rasgos la contestó. No puedes tocar determinados asuntos con un inferior sino mediante el sacrificio de las barreras que te separan de él. Hay pensamientos y sentimientos y vislumbres y prefiguraciones de pensamientos que nivelan todas las desigualdades de clase.
+—Soy lo bastante valiente —dijo el barquero— para cualquier cosa que usted quiera que haga.
+—¿Es lo bastante valiente como para cometer un crimen?
+—No de balde.
+—Si le pidiera que pusiese en peligro su tranquilidad de espíritu, que arriesgase su seguridad personal por mí, indudablemente no sería como un favor. Le daría diez veces el peso en oro de cada gramo en que la carga de su conciencia se viese incrementada por mi causa.
+El hombre le dirigió una dura y prolongada mirada en la penumbra.
+—Sé lo que quiere que haga —dijo finalmente.
+—Muy bien, —dijo Hortense—. ¿Y lo hará?
+Continuó mirándola fijamente. Ella le devolvía la mirada como una mujer que ya no tiene nada más que ocultar.
+—Exponga el caso.
+—¿Conoce un navío llamado el Armonique, un barco de vapor?
+—Sí; viene de Southampton.
+—Llegará mañana temprano. ¿Podrá cruzar la barra?
+—No, no hasta el mediodía.
+—Eso pensaba. Espero a una persona: un hombre.
+Madame Bernier parecía incapaz de continuar, como si hubiese perdido la voz.
+—¿Y bien? —preguntó su compañero.
+—Él es la persona. —Calló de nuevo.
+—La persona que...
+—La persona de la que me gustaría deshacerme.
+Se hizo el silencio durante unos instantes. El barquero fue el primero en hablar.
+—¿Tiene un plan?
+Hortense asintió.
+—Escuchémoslo.
+—La persona en cuestión —dijo Madame Bernier— estará impaciente por desembarcar antes del mediodía. La casa a la que regresa estará a la vista desde el navío si, como usted dice, permanece anclado. Si puede tomar un bote, seguro que desembarcará. Eh bien!, ya me comprende.
+—¡Ajá!, quiere decir mi bote, este bote.
+—¡Oh, Dios!
+Madame Bernier se levantó de su sitio, distendió los brazos y se dejó caer de nuevo, enterrando el rostro entre sus rodillas. Su acompañante levantó rápidamente los remos y puso las manos sobre los hombros de la mujer.
+—Allons donc, en nombre del diablo, no se derrumbe —dijo él—; llegaremos a un acuerdo.
+Arrodillado en el suelo del bote y sosteniéndola con su abrazo, logró levantarla aun cuando su cabeza permanecía inclinada.
+—¿Quiere que acabe con él en el bote?
+No hubo respuesta.
+—¿Es un hombre mayor?
+Hortense negó levemente con la cabeza.
+—¿De mi edad?
+Ella asintió.
+—Sapristi!, no es tan fácil.
+—No puede nadar —dijo Hortense, sin levantar la vista—. Él..., él es cojo.
+—Nom de Dieu! —El barquero dejó caer las manos. Hortense levantó rápidamente la vista—. ¿Han visto pantomima? No importa —añadió finalmente el hombre—, eso servirá como señal.
+—Mais oui. Además de eso, pedirá que le lleven a la mansión Bernier, la casa cuya parte trasera da al mar, en la prolongación del gran muelle. Tenez, casi se puede ver desde aquí.
+—Conozco el lugar —dijo el barquero, y se quedó callado, como si se formulase y contestase él mismo una pregunta.
+Hortense estaba a punto de interrumpir el hilo de pensamientos que se daba cuenta que él estaba siguiendo, cuando él se le adelantó.
+—¿Cómo puedo estar seguro de lo mío?
+—¿Se refiere a su recompensa? He pensado en ello. Este reloj es un anticipo de lo que podré y estaré encantada de entregarle después. Su caja está cubierta de perlas por valor de dos mil francos.
+—Il faut fixer la somme —dijo el hombre sin tocar el reloj.
+—Depende de usted.
+—Bien. Sabe que tengo derecho a pedir un precio más alto.
+—Desde luego. Fije una cifra.
+—Únicamente en el supuesto de una gran suma consideraría su propuesta. Songez donc, es un ASESINATO lo que me está pidiendo.
+—El precio, diga el precio.
+—Tenez —continuó el hombre—, la caza furtiva es siempre arriesgada. Las perlas en este reloj son tan caras porque llegar hasta ellas puede costar la vida de un hombre. Usted quiere que yo sea su pescador de perlas. Que así sea, pero me tiene que garantizar un descenso seguro, se trata de un descenso, sabe, ja, me tiene que proporcionar una escafandra segura; un pequeño agujero para respirar mientras hago mi trabajo; sólo en pensar en mi gorra llena de napoleones.
+—Mi buen hombre, no deseo decirle ni escuchar sutilezas. Solamente quiero saber el precio. No estoy regateando por un par de gallinas. Proponga una cantidad.
+El barquero por entonces había retomado ya su sitio y sus remos. Se estiró para dar un largo y lento impulso, lo que le llevó cara a cara con su tentadora. Mantuvo esta posición; el cuerpo inclinado hacia delante y los ojos fijos en el rostro de Madame Bernier, durante unos segundos. Tal vez, afortunadamente para el propósito de Hortense en ese momento —había ayudado a menudo a sus propósitos ya antes— era una mujer bella. Un rostro poco agraciado habría hecho hincapié en la absolutamente repulsiva naturaleza de la negociación. Repentinamente, con un rápido y convulso movimiento, el hombre completó la remadura.
+—Pas si bête! Proponga una usted.
+—Muy bien —dijo Hortense—, si así lo desea. Voyons: le daré lo que puedo. Tengo joyas por valor de quince mil francos. Se las daré o, si pueden suponerle un problema, su valor en metálico. En casa tengo, en una caja, mil francos en oro. También serán suyos. Pagaré su pasaje y su equipamiento a América. Tengo amistades en Nueva York. Les escribiré para que le consigan un trabajo.
+—Y les concederá su colada a mi madre y a mi hermana, ¿hein? ¡Ja! ¡ja! Joyas, quince mil francos; que con mil más hacen dieciséis; pasaje a América, en primera clase, quinientos francos; equipamiento, ¿qué entiende exactamente Madame por eso?
+—Todo lo necesario para que pueda salir adelante là bas.
+—¿Un certificado escrito de que no soy un asesino? Ma foi, sería mejor no despojarme de esa imagen, me ha sido de una gran ayuda, al menos a este lado de charco. Pongamos veinticinco mil francos.
+—Muy bien; pero ni uno más.
+—¿Puedo confiar en usted?
+—¿No lo estoy haciendo yo? Tiene suerte de que no me permito a mí misma pensar en lo que estoy haciendo.
+—Quizás en eso estemos igualados. Ninguno de los dos podemos permitirnos darle importancia a ciertas posibilidades. Tranquila, yo también confiaré en usted. ...Tiens! —añadió el barquero, ya estamos junto al muelle. A continuación, con un solemne y fingido toque de su gorra añadió—: ¿Todavía desea Madame visitar el cementerio?
+—Vamos, rápido, déjeme bajar —dijo Madame Bernier impaciente.
+—En cierto modo, ya hemos estado entre los muertos —porfió el barquero mientras le ofrecía su mano.
+III
+Eran más de las ocho cuando Madame Bernier llegó a su casa.
+—¿Ha venido Monsieur de Meyrau? —preguntó a Josephine.
+—Sí, señá; y al enterarse de que Madame estaba fuera, dejó una nota, chez Monsieur.
+Hortense encontró una carta lacrada sobre la mesa del vetusto despacho de su marido. Decía lo siguiente:
+Me quedé muy triste al ver que no estabas. Tenía algo que decirte. He aceptado una invitación para cenar y pasar la noche en C—, pensando que me sentaría bien. Por la misma razón he decidido coger el toro por los cuernos, y subir a bordo del vapor a mi regreso para dar la bienvenida a Monsieur Bernier —el privilegio de un viejo amigo. Me han dicho que el Armorique anclará al otro lado de la barra al amanecer. ¿Qué opinas?, aunque es demasiado tarde para hacérmelo saber. Celebra mi savoir faire —lo harás, en todo caso, al final. Verás como eso suavizará los problemas.
+—¡Maldición!, ¡maldición! —siseó Madame cuando hubo leído la nota—. ¡Dios me libre de mis amigos!
+Fue de un lado al otro de la habitación varias veces y al final comenzó a hablar sola entre murmullos, como suele hacer la gente en momentos de emociones intensas—: ¡Bah! Nunca se levanta al amanecer, se quedará dormido, especialmente después de la cena de esta noche. El otro llegará antes que él... ¡Oh, pobre cabeza mía, has sufrido demasiado para fracasar al final!
+Josephine reapareció para ofrecerse a ayudar a su señora a desvestirse. Esta última, en su deseo de tranquilizarse, preguntó lo primero que se le ocurrió:
+—¿Estaba Monsieur de Meyran solo?
+—No, señora; otro caballero le acompañaba; Monsieur de Saulges, creo. Vinieron en un coche de caballos, con dos baúles de viaje.
+Aunque hasta el momento he considerado mejor, seguramente desde un exagerado temor a atrincherarme en el terreno de la ficción, relatarles lo que esta pobre mujer hacía y decía en lugar de lo que pensaba, debo ahora revelarles lo que pasaba por su mente en ese momento: “¿Será un cobarde?, ¿irá a abandonarme?, o simplemente, ¿va a pasar estas últimas horas jugando y bebiendo? Tendría que haberse quedado junto a mí. ¡Ah!, amigo mío, qué poco haces por mí, cuando tanto hice por ti!; quien comete un crimen, y (¡que el cielo me ayude!), ¡se suicida por ti!... Pero supongo que él sabe lo que más le conviene. En todo caso, saldrá de juerga hasta tarde”.
+Cuando la cocinera llegó esa noche, Josephine, que se había quedado levantada esperándola, le dijo:
+—No te puedes hacer idea del aspecto que tiene Madame. Parece diez años mayor que esta mañana. ¡Virgen Santa, qué día ha debido de tener!
+—Espera a mañana —dijo la oracular Valentine. Más tarde, cuando las mujeres subieron a la alcoba, advirtieron una luz por debajo de la puerta de Hortense, y durante la noche Josephine, cuya habitación estaba sobre la de Madame, y quien no pudo dormir (por simpatía, permítasenos decir), oyó movimientos debajo, lo que indicaba que su señora estaba incluso más desvelada que ella.
+IV
+Había bastante ajetreo en torno al Armonique cuando ancló fuera de la bahía de H—, con las primeras luces del día siguiente. Un caballero, con abrigo, bastón y una pequeña bolsa de viaje, se puso a la altura del vapor en un pequeño bote pesquero y lo abandonó para subir a bordo.
+—¿Se encuentra Monsieur Bernier a bordo? —preguntó a uno de los oficiales, el primer hombre con el que se encontró.
+—Creo que ha desembarcado, señor. Vino un barquero preguntando por él hace unos minutos, y creo que se lo ha llevado.
+Monsieur de Meyrau reflexionó unos instantes. Después cruzó al otro extremo del buque, mirando hacia tierra. Inclinándose sobre el macarrón vio un bote vacío amarrado a la escalera de mano que subía por el costado del buque.
+—Este bote va a la ciudad, ¿no? —preguntó a uno de los marineros que andaba ocioso.
+—Sí, señor.
+—¿Dónde está el patrón?
+—Supongo que estará aquí en unos instantes. Lo vi hablando con uno de los oficiales justo hace un momento.
+De Meyrau descendió por la escalerilla y se sentó en la popa del bote. Mientras el marinero al que acababa de dirigirse estaba pasándole su bolsa, un rostro con gorra roja se asomó por encima de los macarrones.
+—¡Buen hombre! —gritó De Meyrau—, ¿es éste su bote?
+—Sí, señor, a su servicio —respondió el de la gorra roja que llegó a la parte superior de la escalerilla, y estudió detenidamente el bastón y el baúl de viaje del caballero.
+—¿Puede llevarme a la ciudad, a la casa de Madame Bernier, al final del nuevo muelle?
+—Claro, señor —dijo el barquero deslizándose por la escalerilla—. Es usted justo el caballero a quien buscaba.
+* * *
+Una hora más tarde Hortense Bernier salió de la casa, y comenzó a atravesar lentamente el jardín en dirección a la terraza desde la que se divisaba el mar. Las sirvientas, al bajar temprano, la habían encontrado levantada y vestida, o mejor dicho, aparentemente no se había desvestido, ya que llevaba las mismas ropas que la noche anterior.
+—Tiens! —exclamó Josephine al verla—, Madame envejeció diez años ayer, y ha envejecido otros diez durante la noche.
+Cuando Madame Bernier llegó al centro del jardín se detuvo, y permaneció inmóvil unos instantes, en actitud de escucha. A continuación, articuló un terrible grito. Vio cómo de la parte baja de la terraza emergía una figura y se dirigía hacia ella cojeando, con los brazos extendidos.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,473 @@
+---
+layout: story
+title: Noche de fiesta
+slug: cp_fiesta
+source: https://www.literatura.us/idiomas/cp_fiesta.html
+tags:
+  - cp_fiesta
+  - cp
+---
+Cesare Pavese
+(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)
+Noche de fiesta
+(“Notte di festa”, 1937)
+Publicado póstumamente en Notte di festa (1956)
+Tutti i racconti (2002)
+I
+Hasta la era lisa y dura como una mesa de mármol ascendía el fresco del atardecer. A los pies de una colina, cuando el sol apenas había caído por el otro lado, la tierra parecía
+aclararse con luz propia, una luz fresca y silenciosa, que salía de las piedras y de las cosas desnudas. En el aire inmóvil, detrás del establo, estallaba a ratos desde lejanas colinas,
+meciéndose en el viento, un estruendo de música bailarina, que parecía una risa de gargantas vibrantes.
+Los mozos arrastraban los pies descalzos sobre la fresca dureza del suelo, barriendo con escobas de ramas el último trozo de la era. Con miradas torvas, los dos aprovechaban
+el instante en que el padre doblaba la cabeza en el tonel y ¡zas!, un zurriagazo en las orejas del otro. Un tercero, también descalzo y con pantalones largos, estaba sentado en el
+murete y anudaba con una corteza de sauce sus ramas desbarajustadas. A cada rato le caía el cabello sobre los ojos, y se lo quitaba sacudiendo la cabeza. Ante un crujido más fuerte
+de los otros dos miró de soslayo hacia el padre que, con la sotana arremangada, continuaba inclinado sobre el tonel removiendo con el bastón, y le gritó al más pequeño:
+—Dale mojado en mierda.
+Había otro tonel abierto en la era, y también de este salía un tufo caliente y fuerte que se suavizaba al ascender en el crepúsculo. El muchacho levantó la rama, para sumergirla,
+pero se le cayó de la mano. El padre se había enderezado, con la cara roja, y se limpiaba las manos en el delantal de arpillera; el otro mozo escapaba mugiendo:
+—Padre, Rico me quiere ensuciar, padre.
+El padre puso mala cara y se volvió hacia el que estaba sentado.
+—Eres tú la piedra de escándalo —le voceó, levantando el dorso de la mano hacia la frente para enjugarse el sudor y deteniéndose a medio camino—. Siempre eres tú,
+Biscione. ¿Qué haces ahí sentado? Habéis cenado ya, ¿no? ¿Se os hincha el vientre? Para hacer abono valemos todos, pero para amasarlo se os caen los brazos. Ánimo, barred la
+era, que se hace de noche.
+—La era está lista —dijo Biscione, sin moverse.
+Dobló entonces por el sendero del muladar el profesor, con la chaqueta al hombro, abrochándose el cinturón de los pantalones.
+—Qué fresco más agradable hace aquí —rezongó caminando pegado al muro del establo, donde la era no estaba batida. Fue a sentarse en la pileta de la bomba, una pileta
+seca y llena de trapos, y extendió las piernas, aspirando por las narices y entrecerrando los ojos.
+—Mire aquí cómo avanzan las hormigas —decía el padre, encorvado hacia el suelo—. Mira tú, Biscione. También ellas van de fiesta. Cómo corren. Notan que habrá maíz. Ya les
+daremos nosotros maíz.
+—Descanse un momento, padre —prorrumpió el profesor, llenando una pipa—, y escuche cómo tocan. Parece que lo que suena es el cielo límpido; el mismo viento toca música
+esta noche.
+Biscione estaba parando a los otros dos en el montón de ramas. El padre se volvió al profesor y se acercó entre los toneles.
+—Mal viento el que nos ha traído esta música. Y usted habla del cielo. Quien quiera encontrar a nuestros chicos tiene que ir a buscarlos entre las barracas. Tiro al blanco y
+casetas de fieras, fieras y tiro al blanco. ¿Cuántos han venido hoy a clase?
+—Dos.
+—Muy bien. Y los padres aún son peores. Comen y beben, beben y bailan. Si al menos escucharan la música... ¿Quiere creer que ayer pasaba yo por la plaza para subir al
+ayuntamiento y vi (eran las seis de la tarde) a esa..., esa maestra de la estación (tendrá ya sus años, profesor), que del brazo de su padre (de su padre, le digo) subieron a la atracción
+esa de los cochecitos y comenzaron a girar hacia delante y hacia atrás, gritando, saltando contra los otros coches, topando como animales? Imagínese lo que sucede en esos
+automóviles por la noche. Me han dicho que uno se ha aplastado la mano entre dos coches.
+El profesor miraba el humo de su pipa con una sonrisa desvaída, y, al otro lado, como en un espejo nublado, los dos mozos que ataban ramas. Biscione había desaparecido.
+—No juzguemos, padre. No todos los solteros son penitentes como nosotros.
+—Pero ya la oye usted —rezongó el padre, sacándose un pitillo de la sotana y mordiéndolo con fuerza—, ya la oye usted a la juventud que regresa toda la noche por la carretera,
+de una cuneta a otra, con unas trompas que no se tienen en pie, vomitando todas las enormidades que saben, y las que no saben, dando patadas en nuestra verja, como si fuera la
+posada. Y no faltan siquiera las mujeres.
+—Eso quiere decir que por la Virgen de septiembre una hermosa procesión lavará también la verja.
+—¡Si eso bastara! —bufó el padre—. Esos gitanos de las barracas se han olido el negocio y no saldrán tan pronto del valle. Son como, con perdón, este estiércol del preparado:
+al meter una vez las manos, ya no se va el olor.
+Y el padre volvió a restregarse los puños contra el saco que le colgaba del cuello. Eran gruesos puños pardos, estriados de negro en los pliegues, bajo las uñas, en las muñecas.
+Parecían de madera o de pulpa rugosa. Por debajo de la arpillera le salían los pies descalzos, nudosos también, enterrados y retorcidos como raíces.
+—No es malo ese olor —soltó el profesor, impasible—. No debe de ser desagradable a primera hora de la mañana, esparcido en medio de los surcos.
+—Si fuera bosta de vaca, estaría de acuerdo —replicó el padre—. Pero este hace llorar los ojos. Calienta tanto y es tan ácido que ni siquiera sirve de abono.
+El profesor chupó la pipa.
+—Para mí es una señal del privilegio y la miseria de nuestra condición. En nuestro cuerpo hay un elemento diabólico, la mala voluntad, que envenena incluso lo que expelemos. La
+acidez es del espíritu. —Y echó una ojeada entre el humo, socarrón, a la cara descamada del padre.
+—Nada más fácil —dijo el padre—, nada más fácil... ¡Biscione! ¿Están listas las escobas? ¿Dónde se ha metido ese sinvergüenza?
+Mientras Rico y el otro se adelantaban, blandiendo largos fajos de ramas de aliso, Biscione reapareció a la carrera, haciendo como que se subía aún los pantalones. El padre fue
+hacia él mirándolo fijamente y lo agarró por la muñeca. Biscione tenía casi su estatura, pero era grácil y más pálido.
+—Estabas fumando, ¿eh? —le soltó el padre, acercándole el rostro—. ¿De dónde sacas el dinero?
+Sin responder, Biscione forcejeaba con el brazo prisionero y con el otro intentaba abrocharse los pantalones.
+—¿Estabas fumando? —repitió el padre, sin soltarlo—. No es necesario que disimules. Se nota por el olfato. ¿De dónde sacas el dinero?
+Biscione no respondía.
+—Recogerá las colillas —dijo el profesor desde la bomba.
+—Qué colillas ni qué ocho cuartos. Colillas las suyas, que las he llegado a encontrar. —El padre dio un respingo—. Me vende cestos de melocotones, si es que no hace algo
+peor. Pero ¿tú no sabes que eso es robarle al Señor? ¿No lo sabes? —Y le registró los bolsillos jadeando y tironeándole del brazo. No encontró nada—. ¡A los dieciséis años! Estos
+son los pobrecitos que recogemos por caridad. El superior dice que son tontos. Que abandonados a sí mismos dormirían en las cunetas, que acabarían mal. ¡Tú eres tan tonto como
+el profesor y como yo! Sí que acabarás en una cuneta, si no peor. ¡Vagabundo! —Y le arreó una bofetada—. Vuelve a escaparte de noche por San Roque. —Y le arreó otra—. ¡No
+sabes lo que haces! —Y de una patada del pie desnudo lo empujó a tres pasos—. Recoge una rama y trabaja, Biscione. Te va bien ese nombre.
+Pero Biscione, impulsándose desde el suelo al que se había dejado caer, estuvo a punto de saltar sobre el padre. Se le vio temblar, levantar los brazos, agarrarse la tela y la piel
+de un costado, y doblarse hacia delante. El padre, indignado, estaba muy tieso, a la expectativa, y la sotana le había caído sobre los talones por detrás. Biscione escupió, gruñó, luego
+volvió la cabeza y todo el cuerpo y echó a correr hasta que desapareció detrás de los establos.
+El profesor se había levantado y blandía la pipa en una mano.
+El padre se quedó con la boca abierta como a punto de gritar; después, sacudiéndose, se volvió a los otros.
+—¿Están listas las escobas? Al tonel. Los músicos malos ni siquiera paran para el avemaría. Adelante, vosotros.
+El profesor volvió a sentarse. El aire límpido y vítreo comenzaba a oscurecerse atenuando y aislando los ruidos, que parecían todos más frescos y apagados bajo el lago del cielo.
+Las colinas estaban negras y se veían lejanas tras el murmullo de las moreras al otro lado del montículo. Aquellos estallidos de música llegaban ahora aéreos, frecuentes,
+remolineando en el aire tranquilo, liberándose en el cielo del tumulto, de la furia y del vino de los que nacían, puro sonido ultrahumano como el del viento.
+Sobre la pálida dureza de la era trapaleaban los pies desnudos. Los dos mozos se inclinaron delante del tonel preparados con las ramas de aliso. No se veían ya las caras,
+parecían atentos a un juego. El padre se plantó detrás del tonel, espatarrado con sus calzoncillos pálidos, y agarró con los brazos abiertos la boca. Como un luchador dio una
+sacudida al grueso barril, balanceándolo para enjuagarlo. Gritó:
+—Preparados.
+Los dos mozos estaban en tensión. Entonces empujó el tonel hacia delante, dirigiendo la boca entre los dos, hacia la era. Lo equilibró un instante así, oblicuo, y luego más
+despacio, con cautela, lo dejó caer hacia delante, acompañándolo, doblándose y jadeando, tensando los brazos, la espalda, los jarretes, rechinando los dientes anhelante. Delante de
+él, entre los dos mozos empezó a correr aquel líquido negruzco, con un ímpetu espumoso. Cayó en lluvia como aceite y formaba charcos. Los dos chicos habían saltado hacia atrás.
+—Debajo, vosotros —rugió el padre con los músculos tensos—, debajo, dentro, estiraos.
+Y entonces los dos se doblaron y movieron las ramas. Caía un batacazo tras otro y se formaba un chaparreo espumoso salpicando cazcarrias por todas partes. Habían saltado
+también con los pies y se debatían a porfía, levantando en lo alto las escobas silbantes, bajándolas enseguida porque goteaban, cerrando los ojos y apartando la nariz, rozándose a
+veces en el golpe, sordos y obsesionados.
+—Asesinos —chillaba el padre en el esfuerzo—. Asesinos, basta, que llueve. Dad de lado. Así os la comierais toda... Dad de lado, con cariño..., arrastradla... ¡Ay! —Y gargajeaba
+expectorando, siempre curvado sobre el tonel, siempre clavado a aquella urna que vertía, vertía inexorable y lenta, el preparado.
+Hasta el profesor llegaban tufaradas casi líquidas, casi palpables, de aquel hedor, y el hombre sentía la cabeza atontada, los ojos y la nariz le picaban, la música lejana
+retumbaba, y lo invadía un ansia de descalzarse, de desnudarse, de arrojarse él también con la barbita al viento, entre las rociadas y saltar y gritar. Pero no pestañeó, salvo por las
+lágrimas que le brotaron de los ojos pasmados.
+Los dos mozos se habían calmado ya. Bajo la voz del padre daban ahora unos pasitos compungidos, encorvados, y con la larga escoba irreconocible hacían lentos barridos
+gorgoteantes disolviendo los espumarajos, arrastrándolos lejos, vigilándose mutuamente. Al escurrir el tonel entre la neblina, el padre se había agachado hasta el suelo, y formaban
+una sola masa.
+—Este olor, padre, se sube a la cabeza como el mosto —dijo en la sombra el profesor, escupiendo.
+—Somos todos un poco responsables de él.
+II
+Rico dejó el farol en el alféizar de la ventana y miró en el almacén. Las grandes masas de sombra bailaron un poco con la llama, todo vaciló en un terremoto rojizo, y luego las
+ristras de ajos colgadas, las amarillas mazorcas deshojadas el año anterior, la pila hinchada de los sacos de trigo se calmaron y aparecieron, inciertos.
+—Está aquí, duerme.
+Los dos mozos descalzos entraron pisando el suelo de tierra batida tras dejar la luz en la ventana.
+—El padre quería que nos lavásemos —jadeó en un bisbiseo Rico—. Yo tengo sueño; mejor dejo los pies fuera del jergón.
+—Como te coja el padre, ya verás la que te lía. Mira a Biscione, que hoy se ha rebelado —gruñó Gosto, en voz baja.
+—Eres un asno. Biscione lo hace todo adrede. Mira lo que le ha hecho. Nada. Biscione se escapó y se vino a dormir. Y así no trabajó más. Siempre que Biscione se gana unas
+patadas, nos quedamos trabajando los dos solos. Cuando había que cavar en el jardín, hizo lo mismo. Luego el padre lo perdonó, pero de momento el que cavó fui yo. Tú estabas
+entonces en la viña.
+Rico sacudió el farol para apagarlo. A la luz de las tambaleantes llamas surgieron los tres jergones alineados contra la pared; sobre el último, descosido, estaba de bruces con
+las piernas juntas y el torso desnudo Biscione, con los pálidos brazos cruzados bajo la cara. No se había movido, ni siquiera con el berrido de Gosto, ni con el crujido de las hojas
+secas de los jergones. Entre una gran oscilación de sombras, Gosto hizo el gesto de tirarle una piedra, y torció la boca.
+—No —susurró Rico mientras el almacén se precipitaba en las tinieblas con su soplo.
+Se oyeron los jadeos de los cuerpos que se estiraban, el gemido crepitante de los jergones, gruñidos, un suspiro, y luego la gran ventana reapareció de par en par en la incierta
+penumbra.
+Por la ventana, en la noche fresca, volvió a resonar cercanísimo y remoto un clamor de música, límpido y atenuado al tiempo. Pareció jadear con el viento; cesó de pronto; regresó
+confuso entre el canto estridente de los grillos; fue cubierto por una voz vigorosa, quién sabe dónde, que se puso a cantar; luego la voz se perdió, murió en la noche y la oleada de
+sonidos se alejó entre los árboles.
+—Rico —gruñó Gosto—, apestas que es un dolor.
+—Eres tú el que apesta. Yo he estado corriendo por el prado para lavarme los pies.
+—No ha sido suficiente, Rico. Aún no había rocío.
+—El padre te regañará mañana. Ya lo verás. Tú no eres Biscione.
+—Yo, mañana —dijo Gosto, ahogando la voz contra el jergón—, le pido al padre que me deje ir a bañarme a la Piana. Ha dicho que, si no nos escapamos a escondidas, una vez
+nos dejará. Sé de un laguito fresco como el pozo, adonde van las chicas. Las he visto ya una vez, solo en camisa. Le digo que nos llevamos los calzones y luego nos acercamos
+corriendo al baño de las chicas. El padre nos dejará ir para lavarnos, si nos llevamos los calzones, y así nos quedaremos lo que queramos.
+—¿Cómo te las has arreglado para ver a las chicas, Gosto? No se dejan.
+—Hay cañas en la arena del río; se puede llegar cerca sin que se den cuenta. Pídeselo también tú al padre, así nos dejará. Tú también necesitas lavarte.
+—Eres un asno, Gosto. La era está ya terminada; mañana recogemos el maíz. Vienen los jornaleros y salimos al campo antes del amanecer. ¡Mañana mismo nos va a dejar ir!
+Llevaremos tantos cestos a cuestas que quien se bañará será la camisa. Hasta Biscione tendrá que trabajar mañana.
+Gosto gruñó un suspiro y se dio la vuelta estrepitosamente. En el almacén hormigueaban chillidos, roeduras, aleteos. Biscione no se movía.
+—Iremos otra vez, y con Biscione —bisbiseó Rico. Y, tras un silencio—: ¿Las chicas van siempre?
+—Si viene también Biscione el padre se dará cuenta. Hoy ya se ha rebelado. Es muy capaz de ponerse a hablar con las chicas, y entonces, yo no voy —rezongó Gosto.
+—¿Cómo son las chicas? ¿Se ve?
+—No, porque se quedan con la camisa. Pero se ven las piernas. Las mayores las tienen blancas como la mantequilla.
+—Biscione vio una vez una con un hombre, cuando fue a pisar la uva de los Rossi. Dice que estaban echados detrás de unas zarzas al atardecer, en el Pradón, y hacían como los
+perros. Oyó que la mujer reía.
+—¿Cuándo?
+—El año pasado, por la fiesta del Rosario.
+—Es un pecado de Biscione. ¿Por qué no se lo dijo al padre? ¿Tenemos que confesarnos solo nosotros?
+—Y después el hombre se marchó y la mujer lo vio a él y dice que se dejó abrazar en la hierba. —La vocecita jadeante de Rico prorrumpió en una risa sofocada.
+—¡Huy! —bramó Gosto, aplastando la boca en la almohada.
+—Biscione una vez me dio un cigarrillo —prosiguió Rico, quedo.
+—¿Fumaste?
+—Claro.
+De nuevo el torbellino lejano de la música resonó entre los árboles. Rico esperó a que muriese entre las vocecitas de los grillos, y después repitió absorto:
+—Claro. Y me dijo que al padre no le sale bocio solo porque fuma. Ya ves el profesor, que fuma en pipa: no tiene bocio como tú. Deberías fumar para curarte. Yo fumaré para que
+no me salga.
+—Pero Biscione no lo ha tenido nunca.
+—Porque fuma, justamente. Me ha dicho que el padre no nos deja fumar porque así nos saldrá bocio también a nosotros y nadie nos dará trabajo fuera de aquí.
+—Pero las mujeres, que no fuman, no todas tienen bocio.
+—Con las mujeres es distinto. Y además, una vez por la carretera pasó una en un coche, viniendo de Canelli, y vi que fumaba.
+Tras un silencio, formando apenas las palabras, Gosto dijo:
+—Verás como esta noche no se escapa, como el domingo. Si el padre se da cuenta no lo deja volver a entrar. Por eso hoy le ha respondido al padre.
+—Biscione se escapa cuando quiere y vuelve siempre —dijo Rico, firmemente—, aunque lo andes espiando como el domingo.
+—Pero se había ido a bailar.
+—Burro. ¿Cómo quieres que dejen entrar a alguien descalzo? Fue a ver el barracón de las fieras, y dice que hay otras muchas cosas, pero que esa es la más bonita.
+—¿De verdad?
+—Hay una mujer vestida como si estuviera desnuda, con un bañador brillante, que espera en la puerta y llama a la gente. Dentro se oye al león que salta en su jaula y al domador
+que pega con una horquilla en los hierros para que se dé la vuelta. Dice que lanza unos aullidos como el trueno. Todos van a verlo. Biscione no podía entrar porque cuesta cincuenta
+céntimos, pero dice que desde fuera se oye todo, hasta al domador que habla con el león y a la mujer cuando baila. Hasta se siente el olor a selvático del estiércol: no tiene nada que
+ver con el nuestro. Luego Biscione, cuando cerraron, habló con el domador. Dice que lleva botas y brazaletes de cuero. Es un húngaro que entiende a los leones como si fueran
+bueyes. Fue un momento al tiro al blanco y disparó cuatro tiros con flechitas, todos en el centro. Luego dice que reía y hablaba con las chicas en húngaro, y la mujer fue desnuda así,
+con aquel bañador, a buscarlo y él corrió detrás de ella con el látigo hasta el vagón donde duermen.
+—¿De verdad la mujer lleva solo un bañador? —bramó Gosto bajito en el silencio.
+III
+Se oyó una explosión más fuerte de la música y Biscione levantó la cabeza sobresaltado. En la noche desierta aquel alboroto achispado estaba solo, en el viento. Permaneció
+inmóvil con los ojos muy abiertos, y pronto distinguió las paredes inmensas, la pesadilla vaga de los utensilios, de los sacos y las mazorcas colgadas. Desde el jergón mugía la
+pesada respiración de Gosto.
+Biscione se levantó con cautela y saltó por la ventana. Fuera, la noche era fresca y alta. Alzó la mirada entre los árboles llenos de estrellas, para asegurarse de que no fuera tarde.
+No oyó cantar a los grillos. Corrió ligero a través del patio hasta la puertecita del padre. Al correr tenía una mano apretada sobre la pernera de los pantalones.
+Cuando llegó a la puerta, miró a su alrededor con la frente gacha, aguzando el oído. Bajo el fragor que cedía lejano sobre el viento, la música había cesado. No se oía nada, ni
+siquiera el goteo de la bomba. Se echaba en falta el clamor de un borracho en la carretera, el aullido de un perro, algo; y en cambio la noche parecía toda vacía, suspendida, hostil, y
+zumbaba en los oídos de Biscione, como expectante.
+Un grillo se puso a cantar. Entonces Biscione se soltó un poco el cinturón y sacó el hocino. Lo blandió un instante en la penumbra del muro. La gran hoja truncada estaba fría, pero
+la lisa empuñadura de cuerno, rota en lo alto, conservaba la tibieza de los pantalones. Biscione se la pasó riendo por la mejilla y el hielo le hizo estremecerse. Luego la movió en el
+aire con el brazo silencioso. Si el padre hubiera tenido bocio como Gosto, ya estaría desgarrado. Biscione se acordó de cuando había cortado en dos aquella culebra. Qué golpe. Y
+los dos pedazos no dejaban de saltar. A Biscione se le escapó un gañido.
+Empujó la puertecita. Estaba cerrada. Hijo de puta, no se fía de nadie, bisbiseó retrocediendo, y corrió a la ventana. Estaba abierta, de par en par. Biscione se asomó y le
+pareció que no oía nada en aquella oscuridad. Los grillos chirriaban con fuerza. No se oía otra cosa. Si no lo despiertan los grillos, no lo despierta nadie. Con tal de que no se pongan
+a gritar ahora los borrachos. De la oscuridad llegó un leve crujido —quizá la madera con el viento— y a Biscione se le escapó el hocino de la mano. Lo recogió al vuelo, casi en el
+suelo, con un gemido de dolor: al doblarse, se había golpeado la frente en el alféizar. Le pareció que todo se hundía —la noche, las estrellas— en la oscuridad. Cayó de rodillas bajo la
+ventana y se quedó atontado, apretándose el chichón, jadeando quedo.
+Nada se movió en el cuarto. Señor nuestro, haz que no me haya oído. Luego se levantó, a la escucha. Saltó por la ventana.
+Con los pies sobre las frías baldosas avanzó a ciegas, cerrando los ojos para acostumbrarse más pronto. Se detuvo de repente, al percibir un aullido en la noche, lejano.
+Apretando el hocino aguzó la vista en la oscuridad. Se volvió hacia la ventana. En la penumbra divisó las primeras baldosas de debajo del alféizar, una silla en el rincón, el armario
+vagamente. Se volvió; ahí estaba la mancha pálida de la cama. Contuvo el aliento y avanzó otro paso. Saltó la luz y lo inundó allí mismo.
+Erguido en la cama, con una pierna en el suelo, el padre, con el cabello erizado, abría mucho los ojos y en una mano tenía aún el interruptor. El camisón abierto le dejaba al
+descubierto la pierna huesuda, extendida entre las mantas rechazadas, para buscar el suelo. Levantó la mano izquierda del pecho y la extendió hacia Biscione, que se metió a toda
+prisa el hocino dentro de los pantalones.
+—¿Qué buscas, asesino?
+Biscione agitaba la cabeza hacia todas partes para coger carrerilla y saltar al patio, salvarse en la oscuridad. Pero sintió que el gélido hocino le resbalaba por la pierna y se le
+enredaba en el pie.
+—No escaparás —gritaba el padre, saltando de la cama, con el camisón blanco flotando—, no escaparás mientras yo viva. ¿Qué es lo que querías descerrajar? —Se le echó
+encima y lo sacudió. Biscione se retorció, tratando de curvarse—. Quieto ahí. Quieto ahí. De noche nos volvemos más ladrones. ¿Qué tienes en los pies? —Biscione trató de arrojarse
+al suelo, apretando los dientes y gruñendo. Pero el padre lo empujó de un puñetazo e inclinándose recogió el apero, que había caído ruidoso—. Bandido. A medianoche y con un
+hocino. ¿Qué querías descerrajar aquí con esto? ¿Ya te entrenas con las herramientas del oficio?
+—No quería descerrajar a nadie —respingó Biscione, agarrado a la parte trasera de la mesa, donde había acabado jadeante.
+—Una de dos: con el hocino o se descerraja o se mata. Para ti aún no había nadie que matar; ¿qué buscabas aquí dentro?
+Se miraron a la luz cruda, deslumbrados: el padre, torvo, desgreñado, con aquel camisón que parecía habérselo arrojado encima el viento; Biscione, jadeante, flojo como los
+pantalones que tiraban de él hacia el suelo. Se miraron mudos. Una sonrisa huraña pasó por los labios de Biscione. Hasta en el hueco de la garganta tenía pelos el padre.
+Los ojos del padre relampaguearon ante aquella sonrisa. Se sacudió, como con un temblor. Volvió la cabeza hacia todos los lados, atolondrado. Luego alzó los ojos con una
+mirada airada, cambió de mano el hocino y se santiguó de un modo bien manifiesto, liándose al unir las manos. Biscione estaba atento, con la frente gacha.
+—No te muevas —rezongó rápido el padre. Corrió a la ventana y miró fuera. Luego cerró. Regresó a la cama y buscó sus calzoncillos—. No te muevas —repitió amenazante.
+Dejó el hocino en la mesita de noche; se puso los calzoncillos forzándolos con las prisas, y después buscó la sotana. Se la pasó por la cabeza, rapidísimo, reapareciendo para
+mirar prontamente a Biscione, que, sin separarse de la mesa, se había apoyado en ella y seguía cada gesto del padre con la sombra de risa de antes.
+—No hay de qué reírse, majadero —soltó el padre, echándosele encima, ya vestido.
+Biscione se dobló de lado, como para parar un golpe.
+—Y ahora, arrodíllate.
+Pero Biscione se irguió, con las manos en la mesa, sin dejar de mirar al padre.
+—Arrodíllate —rugió el padre, alzando el puño—. Arrodíllate, insensato, que podrías morir esta noche.
+Biscione se dejó resbalar al suelo y golpeó las baldosas con las rodillas. Vio los pies nudosos del padre y, mirando de reojo hacia arriba, los indignados ojos arqueados.
+—Me arrepiento, Señor Dios mío...
+—Me arrepiento, Señor Dios mío...
+—... del horrendo pensamiento que he tenido...
+—... del horrendo pensamiento que he tenido...
+—... contra mi benefactor...
+—... contra mi benefactor...
+—... y os doy las gracias por haberme salvado...
+—... y os doy las gracias por haberme salvado...
+—... con vuestra infinita misericordia...
+—... con vuestra infinita misericordia...
+—... de la muerte del alma...
+—... de la muerte del alma.
+—Ahora santíguate y reza el acto de contrición.
+Biscione unió las manos sobre el pecho, dobló la cabeza y empezó a susurrar para sí, devotamente. El padre tenía el brazo extendido encima de él, acompañándolo. Cuando
+Biscione levantó vacilante la cabeza, le trazó en la frente, severo, la absolución.
+—Menos mal —dijo jadeando—. Esperemos que te sirva. El sábado te confesarás de nuevo con los otros, ¿entendido? Y entonces harás confesión general y veremos qué te
+mereces. Rezarás cinco padrenuestros, avemarías y glorias todas las noches, hasta el sábado.
+Biscione se había levantado y se golpeaba, con las manos cruzadas, en los brazos, mirando inquieto al padre, que se secaba la frente.
+—Vagabundo, ¿era esta la que querías descerrajar? ¿No sabes que solo pensarlo es pecado mortal? Demos gracias al Señor que ha querido salvarme y salvarte. Pero ¿qué es
+lo que te ha dado? Ni tú mismo lo sabes. ¿Todo porque no te dejo fumar?
+Biscione, siempre inquieto, lo dejó hablar, luego, mirando la ventana cegada, soltó huraño:
+—El sábado ya no estaré.
+—¿Cómo?...
+—Ya se lo he dicho, padre. Me marcho de aquí.
+—¿Adónde quieres ir?
+—Ya encontraré algún sitio, pero aquí no me quedo.
+—Pero ¿adónde quieres ir, vagabundo? ¿Con lo que has hecho y harás? ¿Así te arrepientes, así cambias de costumbres? Dios te escucha, bribón. Y si no estás con el padre,
+¿con quién quieres estar? ¿De veras quieres morir en una cuneta? ¿Precisamente mañana, que empieza la recolección, y con el pecado mortal en el buche? Déjalo, Biscione, no
+tienes necesidad de escapar: ante mí estás perdonado, pero Dios te llama a rendir cuentas y a cambiar de vida.
+—Me marcho porque aquí somos animales.
+—¿Cómo animales?
+—Animales. Dígale lo que quiera a Rico y a Gosto, delante de quien quiera; pero a mí, en presencia del profesor, no me llame idiota y muerto de hambre. Yo trabajo como los
+demás, más que los demás porque no soy un idiota; pero cuando he acabado, he acabado, y quiero descansar, como descansa el profesor y descansan todos, y, si me apetece,
+fumar y pasear por el pueblo cuando termina la jornada, como todos los jornaleros. De lo de esta noche me arrepiento y no volveré a hacerlo, pero no seré tan idiota como para
+trabajar más para quien no me paga.
+—Biscione —gritó el padre—, ¿te has arrepentido y sigues pensando en la paga? ¿Así temes a Dios? ¿A tu edad?
+—Yo no quería robarle nada —prosiguió Biscione—, y si soy joven la culpa no es mía. Trabajo como cualquiera, cuando llega el momento, y quiero que me paguen igualmente.
+—Pero y lo que comes, lo que duermes, lo que llevas encima, ¿no es bastante paga?
+—No es bastante, no. De comer también le da a los jornaleros. Y les da de beber vino y a nosotros no. Dormir no cuesta. Y los pantalones se los dan a usted ya rotos, por caridad.
+Rico, que es más bajo, cabía en los suyos dos veces y los tuvo que cortar. Yo no estoy contento.
+El padre fue lentamente hacia la ventana y la abrió. Entró el calor sofocante, un hálito mórbido de noche. En el corral se alargó, incierto, el rectángulo de luz dentro del vago fragor
+de la noche, recorrido por escalofríos de ruidos sordos y por trinos lejanos.
+—Oye, Biscione, has nacido con la desgracia a cuestas; fuera no tienes familia, no tienes a nadie, vienes del hospicio. No pienses ahora en el profesor. Vosotros no sois los hijos
+de los señores que vienen a clase. Aquí encontráis una casa, aprendéis un oficio, tenéis delante un buen ejemplo. ¿Por qué no te contentas? ¿Por qué no se lo agradeces al Señor?
+¿Crees, acaso, que fuera de aquí encontrarás trabajo, a tu edad, sin nuestra ayuda? Encontrarás desgracias, vicios y tentaciones. Lo que sabes hacer lo has demostrado esta noche.
+Amenazarías a algún otro, que esa vez te tomaría en serio.
+—El mundo está lleno de gente que amenaza y se hace respetar. Cuando uno tiene su paga, no sufre tentaciones.
+—Mira, Biscione, para tu desgracia no eres tonto, pero el Señor te habría amado más si te hubiera hecho nacer bobo. Para las labores del campo es una suerte ser pobres de
+espíritu y no mirar más allá de los propios bueyes, dándole las gracias al Señor por esa poca hacienda...
+—Tampoco usted, padre, es bobo, y no existen solo las labores del campo.
+El padre se acercó aguzando la vista.
+—¿Qué otros trabajos?
+—Hay uno en la Piana que gana cuatro liras diarias cuidando de los caballos de los juegos de cañas. Un poco de paja mañana y tarde y llevarlos al pilón. Ya está de acuerdo para
+ir con ellos a Alba.
+—Ahí tienes el demonio —rugió el padre, saltando—. Los caballos de la barraca, todo el día rodando, ir a Alba, llevar una vida de gitanos. No, si debía haber pensado que la cosa
+venía de ahí... Esas son las fiestas y las consecuencias que traen. ¿Te dieron ellos ese buen consejo de antes? Te has arrepentido igual que yo, pues sí que te has arrepentido...
+Vagabundo. Te atreves a hablar de paga. La paga la recibe quien trabaja, no quien anda por los caminos tocando y bailando. Y si fuera solo eso. ¿Qué más milagros te han hecho
+esperar?
+—Los milagros los hace usted, padre. ¿Quién habla de tocar y bailar?
+—Pero, vagabundo de mierda, ¿no sabes que son todos escapados de casa y delincuentes? Si con la vida que llevas aquí eres ya tan cabrón, ¿qué harás con esa gente?
+El padre agitaba los brazos congestionado, imponiendo la voz sobre un aullido de perros y de borrachos, que se oía en aquel momento al otro lado de los árboles de la carretera.
+También Fido se había puesto a ladrar y a hacer silbar el largo alambre al que estaba atado junto a la verja. De pronto el padre corrió a la ventana y escrutó fuera. Refunfuñó un poco
+con voz ronca y regresó hacia Biscione, negando con la cabeza.
+—Ahí tienes los frutos de esa existencia —dijo con acidez, en voz más baja—. ¿Es eso lo que quieres hacer? Tienes madera, la tienes. Pero ándate con ojo, que no hay como
+ser listo para dejarse enredar por alguien más listo aún. No serías el primero a quien desloman y, acabada la fiesta, de patitas en la calle sin darle un cuarto.
+—En todas partes es difícil conseguir que paguen, y por eso no pido más que medio jornal. Media paga hasta la vendimia, y comida y cama. Porque soy joven. Cuando llegue la
+siembra volveremos a hablar. Domingos libres y permiso para salir, cuando el trabajo no apriete.
+Biscione miraba al padre a la cara y tenía ahora las manos hundidas en la cintura sobre el vientre desnudo.
+—Te doy los domingos, si no te quedas con la paga e inviertes tu parte en las siembras. Pero antes oiremos al superior —dijo el padre.
+—El domingo sin paga es como la misa sin vino. Y el superior es usted. Soy demasiado joven para invertir mi dinero en la tierra. Quiere decir que el sábado me confieso con
+usted.
+El padre se tiró de los nudillos de los dedos.
+—Es hora de dormir, Biscione. Hablaremos con el superior. Estas cosas no se acuerdan de noche y no puedo...
+—O de noche o de día. Basta entenderse. Puede decir que me he escapado y he vuelto para la recolección, y que se necesitaban brazos y usted me ha empleado a jornal. Para
+quitarme de las tentaciones. ¿Hay algo que no marcha?
+El padre fue despacio a coger el hocino en la mesilla de noche y regresó a la mesa.
+—Maldito Biscione, te lo merecerías en la cabeza. —Se lo tendió, diciendo—: Vete a dormir y ponlo en su sitio.
+—De acuerdo, padre. —Y se metió la hoja en la cintura. Luego se volvió, miró alrededor y regresó decidido a la mesa—. Pero esta es una misa sin vino, padre.
+—¿Qué pasa?
+—Los tratos remojados son los mejores. —Y no se movió.
+—Caray con el vagabundo —estalló el padre—. ¿A estas horas? ¿No te fías, precisamente tú?
+Pero fue al armario y sacó una garrafa con un vaso. Volvió a la mesa y sirvió el vino tinto.
+—Tómalo tú, que yo mañana digo misa. Y ya es medianoche pasada.
+Mientras Biscione bebía, por la ventana retumbó otro griterío y patadas contra la chapa de la verja, que los delirantes aullidos de Fido apenas tapaban.
+IV
+Desde el velador de hierro al que se había sentado, el profesor escuchó morir estrepitosamente la última pieza en la plaza, más vibrante y clamorosa que nunca. El estruendo de
+los trombones tapó el silbido de los clarinetes, arreciaron los platillos, se recogieron y extendieron las trompetas en un tañido lacerante, y todo enmudeció inesperadamente, en una
+vocinglería queda y bullente, como si la voz de la música cayese a tierra zumbando tras llegar a la cima.
+En la noche fresca ablandada por el vino se reanudó el ir y venir de los parroquianos. En la tarbea, estremecida con las vociferaciones, se ahogaba uno. Con el griterío, que
+sacudía el colchón de humo, se exprimía el sudor. Hacían corro en las mesas carreteros con fajas de lana roja, viejos aldeanos con el sombrero sobre los ojos, mozalbetes
+desaliñados, con vasos en la mano, labios prominentes, dando manotazos en la mesa, chillidos; había cartas tiradas, charcos de vino. Fuera estaba la fiesta, rediós.
+Desde su sitio junto a la puerta, el profesor se refrescaba acercando las manos al botellín vacío de cerveza, con su sonrisa enfurruñada, apoyado en la pared. Entre las
+penumbras y las espaldas se movía la brusca sirvienta. Era alta y huesuda, de rotundas caderas, y al servir botellas o garrafas mostraba una mueca desdeñosa, como si el vino y la
+fiesta, todo, fuese un asco. Saltaban sus caderas cada vez que se enderezaba y el profesor entrecerraba los ojos.
+Más allá de la puerta, donde el profesor veía caer la luz rojiza de la lámpara colgada del arquitrabe, había comenzado una riña entre dos aldeanos de voces sonoras. No se
+movían; entre la vocinglería crepitante de cornetas y gritos y el inmenso e interminable pataleo, solo se oían insultos roncos, trabajosos, como los jadeos de una pareja de bueyes.
+Continuaron un rato, tercos, entre gritos lejanos que se buscaban y ruidos sordos, hasta que la sirvienta se acercó al umbral y empezó a renegar, chillona, para echarlos a otra parte.
+Entonces se hizo un gran silencio, en el cual solamente se alzó quién sabe dónde un furioso trompeteo, y los dos aldeanos, empujando a la sirvienta, entraron con pasos enredados,
+cogidos gravemente del brazo y se dirigieron a una mesa del fondo.
+La sirvienta se quedó un instante en la puerta, con las caderas a dos palmos de la mejilla del profesor, estirando el cuello en la luz roja para mirar la penumbra blanqueada por
+oscilantes llamitas de acetileno. Se asomó también el profesor a echar una ojeada entre las caderas y la jamba; la sirvienta se inclinó brusca y le miró las manos con cara arisca y
+graznando:
+—Disculpe.
+—Quita usted el aire —farfulló el profesor.
+—No es aire lo que falta —replicó la otra, saltando ante una llamada.
+Al adentrarse la noche, el fragor externo se hacía menos ensordecedor. Solo algún chinchín perdido de música levantaba aún cabeza en el confuso ruido moribundo y,
+reanimándolo, moría. Pero se apagaban las lámparas y la plaza se despoblaba. Comenzaban a lo lejos, por los caminos de las colinas, vagos clamores que se tambaleaban en el
+viento. En la tarbea había menos gente y más humo, más olor de vino y un ronco charloteo.
+El profesor había encendido la pipa metiéndosela entre los dientes sanos y lo miraba todo a través de aquel humo, con los ojos pequeños. La sirvienta se había sentado al otro
+lado de la puerta, vuelta hacia fuera, echando ojeadas inquietas al arrastrar de pies, una manaza clavada en las rodillas salientes. Su mueca eran arrugas de cansancio.
+En cierto momento la iluminó una sonrisa. Había aparecido en la puerta otra mujer, arrebujada hasta los pies en una capa oscura que se apretaba contra el seno, de rostro rubio,
+enardecido y descompuesto. Vaciló en el umbral y sonrió a la sirvienta.
+—Adele —dijo.
+Adele, apartando las rodillas, la dejó pasar entre ella y la mesa a sentarse en el rincón.
+—Se acabó —suspiró la rubia, abandonándose contra la pared con los ojos cerrados—. Estoy más cansada que un caballo.
+Adele sonreía con sonrisa huesuda.
+—¿Y crees que yo no? —dijo sin mover la boca. Luego se levantó para marcharse, y se detuvo en la puerta, buscando fuera con la vista.
+—No hay prisa, Adele, esta noche ni siquiera tengo ganas de leche. Esta noche hay olor por todas partes; qué tufo aquí dentro. Gritan y apestan como animales. Estos, por lo
+menos, no saben lavarse.
+Mientras alargaba las piernas bajo la mesa aparecieron unos escarpines de color rosa y, al resbalar un lienzo de la capa, unas mallas rosa que continuaban ajustadas hasta el
+seno. Así recogida en el deshecho envoltorio parecía desnuda, con una postiza desnudez sin vida.
+—¿Sigues esperando a ese, Adele? —preguntó desfallecida, mirando el humo a media altura.
+Adele se volvió vivamente.
+—Me pregunto por qué las otras veces salta del carro cuando aún es por la tarde, y no se quita de alrededor, se sienta ahí donde estás, y me tiene muertecita de sueño oyéndolo
+hasta que amanece, comiendo y bromeando y si le hiciera caso me sacaría a bailar...
+La rubia escuchaba frunciendo el labio superior sobre los dientes, con la barbilla alzada, resentida.
+—... Llega San Roque, y no le veo el pelo. Sigue adelante con su carro, borracho, anda por todas las posadas del valle, duerme al raso, pero mientras hay fiesta y un puesto, por
+aquí no pasa ni que lo maten. Va a beber por todas partes, pero aquí no. Figúrate si voy a esperarlo. Pero yo pregunto: ¿el vino no es igual en todas partes? ¿Qué más le daría venir
+aquí? E incluso le costaría menos.
+—Los hombres no reparan en gastos cuando quieren divertirse —dijo la rubia bajito—. Y no les gusta el vino de casa. Si por lo menos no volvieran cuando por la mañana no se
+atreven a aparecer, les duele la cabeza y nos hablan lloriqueando. Las estúpidas somos nosotras, que encima les damos café.
+—Aún no me he casado y no puedo mandar en él —refunfuñó Adele—. Pero si llega ese día, el café se lo muelo en la cabeza a ese vagabundo. En las cunetas tendrá que dormir
+conmigo.
+La otra apenas sonrió.
+—Créeme, que caí en eso: si ahora se avergüenza y se va lejos a beber, cuando esté casado ya no le dará vergüenza.
+La rubia abrió la capa y se abanicó con una punta las flacas mejillas. Envainada en aquel rosa desvaído, con los ligeros cabellos agitados con su gesto, los labios demasiado
+rojos fruncidos para soplar, parecía una figura de calendario en el rincón humoso, y desde algún corrillo de la estancia la miraban juntando las cabezas y confabulando. El profesor,
+soplando su pipa en otra dirección, no dejaba de mirar a hurtadillas y escuchar, y tragaba, discreto, la saliva.
+—Para mí todo el año es San Roque —jadeaba la rubia—. Y nosotros estamos siempre por las cunetas, por los caminos, en un carro que baila y que se moja con la lluvia. Tu
+carretero al menos se va solo y lo esperas en paz. No te toca andar detrás de él día y noche, y sin conocer a nadie en ningún sitio como nosotros, con dos bestias despóticas por toda
+compañía, que se ensucian y comen, se ensucian y comen, todo el día, todo suyo, y hay que limpiarlas y alimentarlas, porque si no enferman, y nosotros no comemos. Él no piensa
+más que en sus bestias y si llueve hay que salir a taparles la jaula, si no hay dinero hay que encontrarlo para ellas, si me naciera un niño se lo comerían ellas...
+El profesor no pestañeó.
+—... Y, sin embargo, lo aguantaría todo si no fuese por esta peste —continuaba aquel jadeo—. Hace seis años que no huelo más que esta peste. Y la gente apesta en todas
+partes: música, follón, caras coloradas, borrachas, gente que abre la boca, gente que grita, que bebe. Si es en verano, olor a sudor, si es en invierno, olor a cuadra. Hasta en la cama
+lo siento muchas noches. Es él quien me lo trae; él, que en cuanto nos paramos corre a inflarse de vino, a frotarse con todos, y aunque no pase la noche en las zanjas el olor a salvaje
+lo tiene ya en la piel, apesta más que el león...
+Adele se había abalanzado hacia la puerta ante el fragoroso traqueteo de un carro y la rubia continuaba, dirigiéndose al profesor:
+—... Hay noches que no entiendo cómo me las arreglo para dormir a su lado: daría igual dormir en la jaula, pero debe de ser que ahora también yo apesto. ¿Por qué estoy aquí
+dentro, por ejemplo, por qué? —Miró a su alrededor, desencajando los ojos—. Vino y sudor. No hay más que borrachos. Dame la leche, Adele. Apesto también yo, apesto.
+El profesor golpeó la pipa en el hueco de la mano y se enjugó la frente, sin responder.
+Adele se volvió desde la puerta y miró atolondrada a la rubia.
+—Ha pasado —exhaló en un soplo.
+—¿Quién? ¡Ah, tu carretero! Pues ya ves.
+—Pero iban cuatro y le pegaban latigazos al caballo. Estaban ya borrachos y van a beber más.
+La rubia le cogió la mano, contraída sobre la mesa, y le dijo sin descomponerse:
+—Consuélate, Adele; el mío, y eso que está casado, esta noche ha dejado incluso a los leones a medio espectáculo. Me tocó darles latigazos a mí. Y me desahogué. Era como si
+le pegara a él y me vengara de toda esta suciedad. Quién sabe en qué estado regresará mañana; las mujeres de este pueblo no os laváis. Ea, ve a buscarme la leche.
+Cuando Adele se hubo alejado, torva, el profesor se aclaró la garganta y dijo de pronto:
+—¿No le dan calor esas mallas?
+La rubia lo miró de soslayo, abrió la capa bajando los ojos hacia el seno, y respondió:
+—¿Quiere que vaya sin ellas?
+Tras un silencio, el profesor prosiguió:
+—No me parece que usted huela.
+—¿Y qué sabe usted? —soltó la rubia.
+Cuando Adele regresó con el tazón, la rubia le preguntó soñolienta:
+—¿Te ha puesto alguna vez las manos encima ese señor?
+Adele miró de mala manera al profesor, que abría mucho los ojos, y descubriendo los dientes como un caballo, torció la boca.
+—¿Ese de ahí? Es el profesor; está con los curas.
+La rubia, dilatando los ojos mientras bebía, ocultó una pálida mueca con el tazón.
+—Quería estar segura —dijo gravemente cuando hubo terminado. Después se recogió la capa sobre los hombros—. Si quiere, caballero, vamos a tomar el fresco. Estas mallas
+me dan mucho calor, en efecto.
+V
+El padre apagó la luz y salió al patio a oscuras. Bajo los árboles que ocultaban la carretera, oyó a Fido gañir, y hasta sobre su cabeza vibraba el alambre sacudido. Llamó con un
+jadeo, y el perro, catapulta oscura, le cayó encima, moviéndose, con las patas sobre la barriga.
+—Tranquilo, Fido —susurró el padre—. También a ti se te ha metido el diablo en el cuerpo. Tranquilo. En noches como esta debes estar en casa.
+Restregándose contra su mano, Fido le alargaba el cuello para que lo soltase y gañía con desasosiego. El padre rechazó sus patas y se apartó repitiendo:
+—Tranquilo. Vigila y da buen ejemplo.
+Tironeando el alambre, Fido intentaba alcanzar la sombra oscura que se iba, y medio estrangulado, cayendo, debatiéndose, lanzaba sumisos ladridos.
+El padre fue a la ventana del almacén y buscó a tientas el farol. Lo encendió, doblándose hasta el suelo, y después se irguió con la mano tendida, arrojando una luz repentina en la
+gran habitación, sobre los jergones. Se alborotaron las grandes sombras y un picante olor a hierba seca, mierda y sudor golpeó el rostro del padre.
+—No se han lavado, palurdos.
+Los cuerpos semidesnudos, destapados, temblaban amarillos y aplastados. Rico dormía ovillado y retorcido con la cara en el jergón, y asomaba un codo doblado. Gosto, con los
+pantalones desabrochados sobre el vientre desnudo, miraba al techo con la boca abierta, emitiendo un farfulleo por el bocio hinchado y pardusco, como una teta que lo ahogara. En el
+último jergón estaba Biscione, tendido de lado, también con pantalones, con los párpados apretados, arrugados a la luz.
+—Ese está tan dormido como yo —gruñó el padre. Por primera vez se dio cuenta de que las mejillas de Biscione mostraban aquí y allá manchas rojas de pelusilla. O quizá fuera
+un reflejo de aquella luz.
+Bamboleó en lo alto el farol, pasando la mirada por los sacos, por las mazorcas secas, por las hojas de hoz amontonadas en un rincón, y le llegó en la noche inmóvil el clamor
+amortiguado de una canción de alguna alquería remota, una voz grave y vigorosa que no desentonó en el silencio y murió poco a poco, alejándose. Aquel al menos festejaba a San
+Roque solo.
+Sacudiéndose, el padre bajó el farol y se volvió al establo. En el ala oblicua de la alquería, bajo el henil, se alargaba el muro bajo, blanco y ciego, del establo. El padre dobló la
+esquina y, levantando el farol, empujó la madera pulida de la portezuela.
+Todo estaba inmóvil en la grave penumbra. Los dos bueyes rumiaban tumbados con abandono sobre el estiércol, más allá del escalón. Aletearon apenas las orejas ante la
+repentina afluencia de luz y continuaron mirando al vacío, con los grandes morros moviéndose al ritmo igual y silencioso de las mandíbulas.
+El padre dejó el farol en la ventana baja. Al otro lado de la reja el círculo de luz descubrió la tierra dura de la era, aquí y allá oscurecida y agrumada por la humedad reciente. En
+cambio, desde las moreras un muro de tinieblas limitaba la era.
+Empuñando la horca, el padre se acercó al peldaño y le dio un golpecito al buey en el lomo. El animal volvió la testuz, pacífico, con un tintineo de cadena. Entonces el padre lo
+pinchó con la horca para que se levantase, y chirriando, bufando, tropezando en el pesebre con el morro, el buey se irguió sobre las rodillas anteriores y después, meneando la cola,
+alzó las grandes ancas enlodadas.
+—Puerco —dijo el padre—. Eres más sucio que los mozos de cuadra.
+Afirmando el pie desnudo en el escalón, clavó la horca en el estiércol, junto a las pezuñas, donde la paja estaba toda empapada, y levantó una gran tira negruzca. Sosteniendo el
+mango con las dos manos, fue hacia el barril del fondo y descargó allí la horca, con un suspiro de alivio. Regresó luego con una horconada de paja, que echó y removió bajo el buey.
+En cuanto el padre hubo acabado, el animal, sin dejar de mover la mandíbula, dobló las patas y se tumbó de nuevo. Durante todo el tiempo el otro buey miró al vacío, sin dejar de
+masticar.
+En la sofocante tibieza, el padre se acercó a la ventana, apagó el farol y miró hacia fuera entre las barras, a la oscuridad. De la incierta extensión de la era subía envuelto en las
+tinieblas el tufo aún no disuelto en la frescura de la noche. Recibía entonces el rocío, bajo el cual debía impregnar el terreno y endurecerlo sin grietas. Inquieto, el padre echó un último
+vistazo a las masas pálidas de los bueyes, que apenas se recortaban en la sombra, y, acercándose a la puerta, quitó la viga atravesada en los batientes y se escurrió fuera. Había
+avanzado un paso para tantear con el pie el espacio batido cuando, a la luz ambigua de las estrellas, entrevió una figura humana que se movía sobre el terraplén del muladar
+buscando el sendero.
+—¿Quién va? —exclamó.
+Tras un instante de silencio, la sombra inmóvil dijo:
+—No hay modo de jugársela, padre. Soy yo.
+Y saltó a la era. Pisando la tierra batida, se acercó ligero hacia el padre, quien apenas tuvo tiempo de gritarle:
+—¡Por el borde, profesor! —Y ya lo tenía al lado.
+—No importa —dijo él, pataleando—. Lodo, estiércol y rocío son los elementos de la noche.
+—Sí que importa —estalló el padre—, me estropea la tierra batida con los zapatos. ¿Va a dar una vuelta a estas horas? Lo creía dormido hace tiempo, arriba.
+El profesor miró a su alrededor aspirando por la nariz. Alzó la cabeza al cielo negro y volvió a aspirar, ruidosamente. Miró la sombra oscura del padre, que se había movido hacia
+la ventana del establo. Oyó raspar una cerilla y, al repentino resplandor, lo vio avanzar por la era, protegiendo con la mano la bailoteante llamita, e inclinarse hacia el suelo,
+sosteniendo descalzo la sotana, para examinar el estado del terreno.
+—¿Y usted, padre, se acuesta o madruga? —preguntó impertérrito, con una vibrante jocundidad en la voz.
+—Me parece que usted ha pasado la noche en blanco —llegó el refunfuño de la respuesta. La escasa luz se meneó desesperada y, al rebotar, las tinieblas, más negras, se
+cerraron alrededor—. ¿No se ha acostado? —jadeó la voz, enderezándose.
+—Demasiado follón de borrachos y de fiesta, demasiados cantos de grillos, demasiado calor —fue la respuesta tumultuosa—. A propósito —prosiguió—, no me daba cuenta de
+que los grillos han parado y que casi hace frío; ¿por qué será?
+—Es que estamos ya cerca del alba —observó acercándosele el padre.
+—¿Es posible? Qué pronto se pasan las noches en verano.
+—Especialmente por San Roque. Eso dicen los jornaleros que de mañana se duermen en los surcos.
+—Pues yo no tengo sueño, pero sí mucho apetito. Ya no tengo sueño, me parece que he descubierto que la noche estimula todos los sentidos.
+—Por eso de noche se suele dormir.
+—Es una lástima, padre.
+Ahora ambos distinguían en la penumbra los opacos perfiles de las cosas. Apoyados contra la pared pedregosa del establo, tenían frente a sí la baja extensión de la era,
+oscurecida al fondo por la albarrada del primer campo alto que las negras moreras coronaban. Más allá de las moreras la colina inmensa, ascendente, se revelaba solo como un vacío
+de estrellas, una zona desierta del cielo. Una ligera brisa agitaba, estimulante, el áspero tufo nocturno y las hojas la acompañaban quedas, crujiendo.
+—Yo me siento aquí —dijo el profesor—. Espero al alba. —Y se metió la pipa en la boca, apoyado en la bomba—. Total, no puede tardar.
+El padre caminaba de un lado a otro en medio de la era, dedicándose a probar bajo las plantas desnudas la humedad persistente de ciertos trechos.
+—Si el sol de la mañana me encuentra estos lagos —rezongaba entre dientes—, me los agrieta como vidrio. Malditos chicos, en vez de repartirlo hicieron una pasta. —Y se
+chupaba el dedo pulgar, escupiendo enseguida, y lo levantaba para probar la brisa.
+—Qué paz esta noche —apuntaba el profesor, entre humo—. No refunfuñe, padre.
+—Maldito Biscione.
+—Pero usted, padre, que presencia siempre el alba, ¿por qué no me ha dicho nunca lo hermosas que son estas horas nocturnas? ¡Tan misteriosas y tranquilas! Es otro mundo.
+Todo ha mudado de cara y todo vive en secreto. Ocurren las cosas más extrañas. Se disfruta solo con respirar. Uno se siente más grande, en el bien y en el mal. Se está bien solo y
+se está bien acompañado. Hasta este hedor sienta bien, es fresco y tibio, es vigoroso, es humano. Y pensar que de noche se cometen crímenes. Qué absurdo es el mundo. Puede
+ocurrir cualquier cosa de noche.
+—¿No lo sabía?
+—Hasta ahora no había recordado que de niño lo sabía. Pero entonces me daba miedo la oscuridad.
+—Oiga, profesor —dijo el padre, plantándose en la era—, me parece que a usted el aire fresco le hace el efecto del vino. Hasta ayer lo tenía por abstemio.
+El profesor se quedó un momento mirando la pipa, luego desgranó una risita ronca.
+—En efecto —farfulló gargajeando—, en efecto: he bebido un vino, el vino que se bebe solo de noche..., el vino de la meditación —agregó, mirándolo—. Estoy contento de estar
+en el mundo, padre —prosiguió de improviso, levantando la cara y blandiendo la pipa—. ¿Usted nunca tiene ese contento?
+—Por San Roque no, todo el año, y si me hubiera pedido consejo, no le diría que buscara la paz y el silencio esta noche. ¿Dónde los ha encontrado?
+El profesor escupió al suelo.
+—No los he buscado, vinieron a mí —dijo lento y convencido, y por su rostro, que ya afloraba entre la neblina, pasó una mueca de orgullo.
+El padre se encogió de hombros. Luego volvió ansioso la cabeza hacia la colina, que se recortaba negra sobre el cielo pálido, y aspiró de nuevo el viento.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

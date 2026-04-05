@@ -1,24 +1,32 @@
 :root {
-  --paper-color: #fcfaf2;
-  --text-dark: #1a1a1a;
-  --accent: #3b82f6;
+  --paper-color: oklch(96% 0.01 85);
+  --paper-dark: oklch(93% 0.015 85);
+  --text-main: oklch(22% 0 0);
+  --text-muted: oklch(45% 0.01 85);
+  --accent-color: oklch(35% 0.12 250);
+  --border-color: oklch(91% 0.01 85);
   --serif-font: 'Merriweather', serif;
   --sans-font: 'Inter', sans-serif;
+  --title-font: 'Playfair Display', serif;
+  --quote-font: 'EB Garamond', serif;
+  --ui-font: 'Inter', sans-serif;
+  --meta-font: 'Work Sans', sans-serif;
 }
 
 html {
   scroll-behavior: smooth;
+  font-size: 16px;
 }
 
 body {
   font-family: var(--sans-font);
   background-color: var(--paper-color);
   background-image:
-    radial-gradient(#d1d1d1 0.5px, transparent 0.5px),
-    radial-gradient(#d1d1d1 0.5px, #fcfaf2 0.5px);
-  background-size: 20px 20px;
-  background-position: 0 0, 10px 10px;
-  color: var(--text-dark);
+    radial-gradient(rgba(0, 0, 0, 0.03) 0.5px, transparent 0.5px),
+    radial-gradient(rgba(0, 0, 0, 0.03) 0.5px, var(--paper-color) 0.5px);
+  background-size: 24px 24px;
+  background-position: 0 0, 12px 12px;
+  color: var(--text-main);
 }
 
 .font-serif {
@@ -28,7 +36,7 @@ body {
 /* Custom Paper Effect */
 .paper-edge {
   position: relative;
-  background: white;
+  background: var(--paper-color);
 }
 
 .paper-edge::after {
@@ -53,11 +61,21 @@ main {
   font-size: 1.15rem;
   line-height: 1.8;
   max-width: 700px;
+  min-width: 244px;
   margin: 0 auto;
-  background: white;
-  padding: 4rem;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
-  border: 1px solid #f0f0f0;
+}
+
+#reader-story {
+  padding: 0 2rem;
+}
+
+picture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid var(--border-color);
+  margin-bottom: 2rem;
+  padding: 0.5rem;
 }
 
 .reader-content p {

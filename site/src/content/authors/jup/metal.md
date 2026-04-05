@@ -1,0 +1,76 @@
+---
+layout: story
+title: El sabor del metal
+slug: metal
+source: https://www.literatura.us/idiomas/jup/metal.html
+tags:
+  - metal
+  - jup
+---
+John Updike
+(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)
+El sabor del metal (1967)
+(“The Taste of Metal”)
+Originalmente publicado en la revista The New Yoker (11 de marzo de 1967)
+Too Far to Go: The Maples Stories
+(Nueva York: Fawcett Publications, 1979, 256 págs.)
+El metal, estrictamente hablando, no sabe a nada; su presencia en la boca se percibe como una disciplina, como un «No» dicho a otros sabores. Cuando Richard Maple, después de muchos días de dolores, llagas y alguna que otra extracción, se puso fundas en los molares que le quedaban y puentes en los huecos, el oro le resultaba frío al contacto con las mejillas y su regularidad enmascaraba agujeros y asperezas que habían sido una especie de espejo en el cual su lengua se había reconocido a sí misma. El viernes de la cementación final fue a una pequeña fiesta. Mientras bebía una variedad de líquidos que sabían muy parecidos, pasó de no sentirse del todo él (sus dientes nativos habían sido reducidos a muñones de dentina) a sentirse un poco más él. El cambio de tonalidad que se extendía por su cráneo cada vez que cerraba la mandíbula se correspondía tal vez con esa claridad exacerbada que se apodera de la mente después de una conversión religiosa. Vio a sus compañeros de fiesta con una nueva luminosidad, una agudeza visual que, como la de una cámara, era específica y de enfoque limitado. Sólo podía ver a una persona a la vez, y se descubrió concentrándose menos en su mujer, Joan, y más en Eleanor Dennis, la esposa de largas piernas de un agente de bonos municipales.
+La nitidez de Eleanor tenía que ver con el dato legal de que ella y su marido estaban «separados». Había ocurrido hacía poco; la ausencia de él en la fiesta era patente. Eleanor, en el curso de una vida que ella describía como una serie de luchas atroces por sobrevivir, había desarrollado esos modales sociales estridentes que convierten una tragedia privada en comedia pública; pero aquella noche su agitación no se había trasmutado de manera completa. Permanecía atenta a un eco que no estaba allí y cruzaba y descruzaba las piernas nerviosa. Sus piernas eran hermosas y vívidas, y tan largas que, después de medianoche, cuando empezaron los juegos, se subió la breve falda y dio una patada al dintel de la puerta. El anfitrión sostuvo un vaso de agua en la frente. Richard, mientras hacía el pino, cayó por equivocación hacía delante, encantado con su embriagada molicie, que interpretaba como un comentario irónico sobre la carne hecho por sus nuevos dientes de metal. Era todo mortalidad; todo erosión porosa, a excepción de las estrellas dentro de su cabeza, un cúmulo sideral impenetrable en el cenit de su lento girar.
+Su mujer se acercó a él con una cara intacta y admonitoria como la esfera de un reloj. Era hora de irse a casa. Y Eleanor necesitaba que la llevaran. Los tres, más la anfitriona con sus pendientes de aro y la falda pantalón manchada de café, fueron hasta la puerta y se encontraron con una tormenta de nieve. Hasta donde alcanzaba la vista, los copos caían en atropellada multitud en la susurrante noche color lavanda.
+—Que Dios nos bendiga a todos —dijo Richard.
+La anfitriona sugirió que condujera Joan.
+Richard la besó en la mejilla y probó el metal de su pendiente de aro y se sentó al volante. Su coche era un Corvair nuevecito; ni se le pasaba por la cabeza dejárselo conducir a nadie. Joan reptó al asiento trasero, gruñendo para subrayar la incomodidad física, y Eleanor acomodó serenamente su abrigo, su bolso de mano y sus piernas en el espacio junto a Richard. El motor cobró vida. Richard se sentía vigorosamente arropado: Eleanor estaba a su lado, Joan detrás de él, Dios sobre su cabeza, la carretera bajo sus pies. La nieve que caía a toda velocidad rompía —explosiva, crisantémica— contra los faros del coche. En una pequeña pendiente, las ruedas patinaron, un ruido impreciso, reconfortante, como el de enfundarse un impermeable.
+En la oscuridad nudosa iluminada por la aguja verde del velocímetro, Eleanor, mostrando una porción generosa de rodilla, habló largo y tendido de su marido separado.
+—No tenéis ni idea —dijo—. Vivís los dos tan protegidos que no tenéis ni idea de lo que son capaces los hombres. Yo tampoco lo sabía. No quiero parecer desconsiderada, me dio nueve años razonables y ni se me ocurriría castigarlo con las horas de visita de los niños, como harían algunas mujeres. Pero ¡cómo es ese hombre! ¿Sabéis lo que tuvo la desfachatez de decirme? Me dijo nada menos que, cuando estaba con otra mujer, a veces cerraba los ojos y pensaba que era yo.
+—A veces —dijo Richard.
+Su mujer dijo a su espalda:
+—Cariño, ¿eres consciente de que la carretera está resbaladiza?
+—Es el reflejo de los faros —le dijo.
+Eleanor cruzó las piernas y las volvió a cruzar. La mitad de un muslo centelleó en el íntimo resplandor verde. Siguió hablando:
+—¡Y los viajes que se pegaba! Yo no entendía por qué había una ciudad que no hacía más que emitir bonos. Empezó a darme pena el alcalde, pensé que iban a entrar en bancarrota. Cuando lo pienso ahora, me doy cuenta de lo buena que era, siempre ocupada con los niños y la casa, siempre al teléfono con el contratista o el fontanero y la compañía de gas intentando que terminaran la cocina nueva a tiempo para Acción de gracias, cuando vendría a visitarnos la tontísima de su madre. Afilaba el cuchillo de trinchar poco menos que una vez al día. Gracias a Dios que esa etapa de mi vida se ha terminado. Fui a ver a su madre, supongo que en busca de compasión, y, toda indignada, me preguntó qué le había hecho a su hijo querido. Los niños y yo comimos solos sándwiches de atún y fue el primer Acción de gracias que disfruté en toda mi vida, la verdad.
+—Siempre me cuesta —dijo Richard—, al trincharlo, encontrar la articulación de la cadera.
+Joan dijo:
+—Cariño, sabes que nos acercamos a esa curva horrible, ¿verdad?
+—Deberías ver trinchar a mi suegro. Tris, zas, zas, tris. Se te hiela la sangre.
+—Ah, y mi cumpleaños, nada menos… —dijo Eleanor dando sin querer una patada a la calefacción— lo pasó el muy cabrón con su queridita en un restaurante y me dijo, con la mayor seriedad (los hombres son increíbles) que de postre había pedido tarta. La noche en que me confesó esto se me cayó el mundo encima, pero no pude evitar reírme. Le pregunté si había pedido a los del restaurante que le pusieran una vela a la tarta. Me dijo que lo había pensado, pero que no había tenido el valor.
+La risa atenta de Richard quedó en suspenso cuando el coche derrapó en la curva. Una forma oscura, vertical había aparecido en el centro del parabrisas e intentó quitarla, pero el automóvil se mostró inmune al volante y, en lugar de obedecer, se acercó, como atraído por un imán, a un poste de teléfono que insistía, rígido, en mantenerse en el centro del parabrisas. El poste se hizo más grande. Las pequeñas astillas levantadas por los listones de los operarios sobresalieron en la luz de los faros y se produjo un golpe seco sorprendentemente inequívoco, teniendo en cuenta la naturalidad con la que había ocurrido. Richard notó la repentina resistencia al movimiento, el «No», y supo, aunque tenía los pensamientos profusamente envueltos en una indiferencia algodonosa, que había ocurrido algo que, en una reencarnación futura, lamentaría.
+—Serás capullo —le dijo Joan con la boca pegada a su oído—. Tu maravilloso coche nuevo. —Preguntó—: Eleanor, ¿estás bien? —Con entonación ascendente repitió—: ¿Estás bien?
+Sonó como una regañina.
+Eleanor rió en voz baja, avergonzada.
+—Estoy perfectamente —dijo—, sólo que no consigo mover las piernas.
+El parabrisas junto a ella se había convertido en una telaraña de luz, una explosión estelar.
+La radio estaba encendida o se había encendido sola, porque una música apacible, de meditación, fluía desde un reino situado en otro tiempo. Richard la identificó como una de las sonatas para oboe de Haendel. Reparó confusamente en que tenía las rodillas heridas. Eleanor se había deslizado hacia delante y parecía incapaz de descruzar las piernas. De forma inesperada, gimió. Joan preguntó:
+—Cariño, ¿no te diste cuenta de que ibas demasiado deprisa?
+—Soy muy tonto —dijo Richard.
+La música y la nieve caían copiosamente sobre ellos e imaginó que, si la sonata para oboe se tocara de atrás a delante, retrocederían de un salto desde el poste de teléfonos y estarían de nuevo en camino. Las escasas distancias a sus casas, antes medidas en minutos, se habían congelado y vuelto inmensas, como las que separan las galaxias.
+Usando las manos, Eleanor descruzó las piernas y se enderezó en su asiento. Encendió un cigarrillo. Richard, con un crujido de las rodillas, se bajó del coche e intentó liberarlo. Le dijo a Joan que se bajara del asiento trasero y se pusiera al volante. Sus movimientos eran torpes mientras entraban y salían de la oscuridad. Los faros seguían encendidos, pero con los haces de luz vueltos hacia dentro, mirándose. Al llevar el motor en la parte de atrás, el Corvair tenía la cabeza hueca. La cara, el rosto impasible de un insecto, estaba curvado inextricablemente alrededor del poste; el parachoques se había convertido en una mandíbula encajada. Cuando Richard empujó y Joan pisó el acelerador, las ruedas chirriaron en el aire. La noche suave y envolvente se extendió a su alrededor, sobre y más allá de la nieve. Ninguna luz en la ventana se había dado por enterada del accidente.
+Joan, que tenía conciencia social, preguntó:
+—¿Por qué no sale nadie a ayudarnos?
+Eleanor, la voz de la amarga experiencia, contestó:
+—Este poste causa tantos accidentes que es un incordio para el vecindario.
+Richard anunció:
+—Estoy demasiado borracho para hablar con la policía.
+El comentario quedó suspendido en la noche con la claridad de un neón.
+Pasó un coche grande, redujo la marcha, se detuvo. Se bajó una ventanilla y dejó salir una voz asustada de hombre.
+—¿Todo bien?
+—No exactamente —dijo Richard.
+Le complació su poder de expresarse con nitidez, incluso bajo presión.
+—Puedo acercar a alguien a un teléfono. Vuelvo de una partida de póquer.
+Una mentira, razonó Richard. De lo contrario, ¿por qué dar esa información? El rostro del chico tenía la palidez desdibujada del sexualmente exhausto. Con cuidado de sopesar cada palabra, Richard le dijo:
+—Hay una persona que no puede moverse y es mejor que me quede con ella. Si pudieras acercar a mi mujer a un teléfono, te lo agradeceríamos mucho.
+—¿A quién llamo? —preguntó Joan.
+Richard dudó entre la fiesta que acababan de dejar, la canguro que estaba en su casa y el marido de Eleanor, que vivía en un motel en la autovía 128.
+El chico contestó por él.
+—A la policía.
+Joan se subió al coche del desconocido, un Mercury rojo desvencijado. El coche se desvaneció en la nieve, que remitía. La tormenta no había sido más que una nevisca, una ilusión conjurada para administrar esta única reprimenda. Ni siquiera saldría en los periódicos del día siguiente.
+Richard sentía las rodillas como si tuviera témpanos presionándole la zona blanda debajo de las rótulas, donde el martillo del médico busca un reflejo. Se puso de nuevo al volante y apagó las luces. Apagó el motor. El cigarrillo de Eleanor resplandeció. Aunque aún tenía el cuerpo navegando en alcohol, no conseguía olvidar el sabor a metal en los dientes. Ese «No» tan sumamente seco: algo muy duro le había tocado a través de varias capas de irrealidad. Una vez, nadando en un rompiente, una gran ola lo había succionado. Toneladas de agua repentina lo habían encerrado y, con un brutal tirón descendiente, lo habían enviado a las profundidades de una amargura verde y despojado de su gravidez; su lucha se convirtió en nada, no era nada dentro de la ola. No había habido odio. Sencillamente, no le había interesado a la ola.
+Trató de disculparse ante la mujer a su lado en la oscuridad. Ésta dijo:
+—Por favor. Estoy segura de que no me he roto nada. Como mucho estaré unos días con muletas. —Rió y añadió—: Lo que pasa es que éste no es mi año.
+—¿Te duele?
+—No. En absoluto.
+—Seguramente estás en shock. Debes de tener frío. Voy a encender otra vez la calefacción.
+Richard estaba recuperando la sobriedad y empezaba a apoderarse de él un tedio infinito. Nunca más, en la vida, su coche sería nuevo, masticaría su propio esmalte dental, daría Eleanor patadas al aire con sus largas y bonitas piernas. Giró la llave de contacto y arrancó el motor en busca de calor. La radio volvió a sonar suavemente, todavía Haendel.
+Moviéndose desde las caderas con fuerza sorprendente, Eleanor se giró y lo abrazó. Sus mejillas estaban húmedas; el carmín tenía sabor industrial. Buscando su cintura, la pequeñez de sus pechos, Richard palpó entre capas de tela. Seguían uno en brazos del otro cuando la luz azul giratoria del coche patrulla los sorprendió.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

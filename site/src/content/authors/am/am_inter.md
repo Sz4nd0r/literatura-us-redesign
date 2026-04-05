@@ -1,0 +1,106 @@
+---
+layout: story
+title: El intermediario
+slug: am_inter
+source: https://www.literatura.us/idiomas/am/am_inter.html
+tags:
+  - am_inter
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+El intermediario (1951)
+(“Il mediatore”)
+Originalmente publicado en el periódico Il Corriere della Sera (18 de febrero de 1951);
+Racconti romani
+(Milán: Bompiani, 1954, 439 págs.)
+Al subir la escalinata del palacio, Antonio, el mayordomo, me advirtió:
+—No te hagas la ilusión de que vas a ganar mucho con la princesa, porque es avara como ella sola... Además, desde que se ha muerto su marido le ha entrado la manía de ocuparse de la administración y no nos deja en paz a nadie.
+—¿Es vieja? —pregunté, al azar.
+—¿Vieja? Es joven y guapa... Tendrá unos veinticinco años... Viéndola, parece un ángel... ¡Ay, las apaciencias engañan!
+—Bueno, podrá ser un diablo —contesté—, pero yo no quiero más que lo que me corresponde... Soy intermediario, la princesa tiene un apartamento para vender, yo se lo vendo, cobro mi porcentaje, y no hay más que hablar.
+—Oh, no es tan sencillo... Te va sacar el tuétano... Espera, voy a avisarla.
+Me dejó en la antesala y fue a avisar a la princesa, a quien él llamaba “excelencia”, como si hubiera sido un hombre. Esperé un buen rato en aquella antesala helada, de viejo palacio, con paredes cubiertas de tapices y una bóveda pintada al fresco. Finalmente Antonio vino a informarme de que Su Excelencia me esperaba. Atravesamos una serie de salones y luego, en un salón más grande que los otros, en el vano de una ventana, vi un escritorio; ante él estaba sentada la princesa, escribiendo.
+Antonio se le acercó respetuosamente, diciendo:
+—Aquí está el señor Proietti, Excelencia.
+Y ella contestó:
+—Acérquese, Proietti —sin levantar la vista.
+Cuando estuve a su lado pude mirarla a mis anchas, y tuve que reconocer que Antonio no había exagerado al compararla con un ángel. Tenía un rostro fino, blanco, delicado, dulce, con cabellos negros y unas largas pestañas negras que sombreaban sus mejillas. La nariz, levemente respingada, era delgada, transparente, como habituada a no oler más que perfumes. Tenía la boca pequeña, con el labio superior más grueso, parecida a una rosa. Bajé la mirada hacia su cuerpo: vestía de negro, con una chaqueta entallada; tenía caderas y pecho grandes, y una cintura de avispa, que se hubiera podido ceñir con dos manos. Escribía; su mano era blanca, delgada, elegante, con un diamante en el índice. Luego alzó los ojos hacia mí y vi que eran bellísimos: enormes, oscuros, al mismo tiempo aterciopelados y líquidos. Dijo:
+—Entonces, Proietti, ¿quiere que vayamos a ver el apartamento?
+Tenía una voz dulce, acariciadora. Balbucí:
+—Sí, princesa.
+—Venga, Proietti, por aquí —me dijo, tomando una gran llave de hierro.
+Volvimos a atravesar todos aquellos salones, y en la antesala ella le dijo a Antonio, que acudía para abrirle la puerta:
+—Antonio, dígales a los de abajo, los de la calefacción, que no echen más carbón... Se ahoga uno aquí dentro, hace mucho calor...
+Y yo me quedé asombrado, porque la antesala, igual que los salones, estaba helada. Empezamos a subir por la escalinata, ella delante y yo detrás, y mientras me precedía pude ver que tenía también un cuerpo muy bello: alta, delgada, con piernas muy rectas y aquel vestido negro que ponía de relieve la blancura de la nuca y de las manos. Subimos dos tramos de la escalinata y luego dos tramos más de una escalera de servicio, y finalmente, al fondo de una buhardilla, encontramos la escalera de caracol, de hierro, que llevaba al apartamento. Ella trepó por la escalerilla y subí detrás, bajando los ojos, porque sabía que habría podido mirarle las piernas y no quería, ya la respetaba como a la mujer a quien se ama. Entramos en el apartamento, que consistía, como vi en seguida, en dos grandes habitaciones con el suelo de ladrillo y ventanas profundamente encajadas en la pared, abiertas muy arriba, cerca del techo. Una tercera habitación, de forma circular, obtenida arreglando un belvedere, daba por medio de una puertaventana a un balcón con barandilla, suspendido sobre un enorme tejado de tejas oscuras. Ella abrió la puertaventana y salió al balcón, diciéndome:
+—Venga, Proietti, mire qué panorama.
+En efecto, la vista era muy hermosa; desde aquel balcón se divisaba toda Roma, con todos sus tejados, cúpulas y campanarios. Era un día sereno y, al fondo del cielo azul, entre un tejado y otro, se podía ver también la naranja de San Pedro. Yo miraba atónito el panorama, pero en realidad casi no lo veía y no pensaba más que en ella, como algo que me preocupaba y no podía olvidar. Entre tanto, ella había vuelto a entrar; y yo di media vuelta, preguntando mecánicamente:
+—¿Y los servicios...?
+—¿Quiere usted decir el baño...? ¡Aquí está!
+Se acercó a una portezuela que yo no había observado y me mostró un cuartito ciego, bajo y rectangular, en el que había colocado el baño. A la primera ojeada pude comprender que las porcelanas eran bastante ordinarias, como de casas populares. Ella cerró la portezuela del baño y, poniéndose en el medio de la habitación, con las manos en los bolsillos de la chaqueta, me preguntó:
+—Bien, Proietti... ¿Cuánto cree que podemos pedir?
+Estaba tan preocupado por su belleza y por el hecho turbador de encontrarme solo con ella en la buhardilla, que durante un momento no contesté nada, mirándola. Quizás ella se dio cuenta de lo que pasaba por mi cabeza, porque, golpeando el suelo con su pie pequeño y nervioso, añadió:
+—¿Se puede saber en qué está pensando?
+Dije, a toda prisa:
+—Estaba haciendo un cálculo... Son tres vanos... Pero no tiene ascensor, y el que lo compre tendrá que hacer algún arreglo... Digamos que tres millones y medio.
+—Pero, Proietti... —exclamó de inmediato, alzando la voz—, Proietti..., ¡yo quería pedir siete millones!
+Digo la verdad, durante un momento me quedé aturdido. Esta combinación de belleza y de sentido de los negocios me desconcertaba. Finalmente, balbucí:
+—Princesa, por siete millones nadie lo va a querer.
+—Pero esto no es el barrio de Parioli, tan vulgar... Este es un palacio histórico, en el centro de Roma...
+En suma, discutimos un buen rato, ella erguida en medio de la habitación y yo a buena distancia, para no caer en la tentación. Hablaba y hablaba, pero en realidad no pensaba más que en ella, y, a falta de algo mejor, me la comía con los ojos. Al final, a regañadientes, se dejó convencer por cuatro millones, que ya era una suma elevada. En efecto, calculando en un millón los trabajos que habría que hacer, poniendo también los impuestos y todo lo demás, el apartamento le saldría al comprador por casi seis millones. Yo, que tenía ya un cliente, le dije que el negocio estaba hecho y me marché.
+Al día siguiente me presenté en el palacio con un joven arquitecto, que precisamente estaba buscando algo pintoresco y excepcional. La princesa cogió su llave y nos mostró el apartamento. El arquitecto discutió un poco el precio pero al final aceptó la suma ya fijada: cuatro millones.
+Pero a la mañana siguiente, muy temprano, quizás antes de las ocho, mi mujer vino a despertarme diciéndome que la princesa estaba al teléfono. Casi no veía, de sueño, pero su voz, dulce y fina, al hablarme, me pareció una música. Escuché esa música en pijama, descalzo sobre el pavimento, mientras mi mujer se arrodillaba para meterme las zapatillas, y luego me echaba un abrigo sobre los hombros. No entendía gran cosa, o casi nada, pero de pronto, entre tantas palabras, dos llamaron mi atención: “... cinco millones”.
+Dije inmediatamente:
+—Princesa, nos hemos comprometido por cuatro millones... No podemos volvernos atrás...
+—En los negocios no existen compromisos..., o cinco millones o nada.
+—Pero, princesa..., el cliente se nos evapora.
+—No sea tontaina, Proietti..., cinco millones o nada.
+Digo la verdad, la palabra “tontaina” pronunciada por aquella voz no me pareció ni vulgar ni injuriosa; casi un cumplido. Dije que haría lo que deseaba y telefoneé de inmediato al cliente comunicándole la novedad. Lo oí exclamar, al otro extremo del hilo:
+—Ustedes no se andan con bromas, ¿eh?... ¡Un millón más de la noche a la mañana!
+—Qué quiere que le haga... Esas son las órdenes.
+—Bueno, ya veremos..., lo pensaré.
+—Entonces, me comunicará usted...
+—Sí, lo pensaré, ya veremos.
+Moraleja: no volvió a dar señales de vida. Comenzó entonces, por así decirlo, el período más íntimo de mis relaciones con la princesa. Me telefoneaba no menos de
+tres veces al día, y cada vez que mi mujer gritaba con ironía: “Es la consabida princesa”, me turbaba como si hubiera sido un telefonazo amoroso. ¡Sí, sí, amor! La
+princesa estaba apegada a los cuartos de una manera increíble; era interesada, avara, obstinada e ingeniosa, mucho peor que un usurero. Es preciso decir que en vez de corazón tenía una alcancía: no veía ni pensaba más que en el dinero. Además, cada día, por teléfono, inventaba algo nuevo para aumentar el precio, aunque fuera una nadería, cinco o diez mil liras. Hoy era el baño, en el que había que incluir el pago del plomero, mañana la vista, otro día el hecho de que el autobús paraba exactamente ante el portón del palacio, y así sucesivamente. Sin embargo, yo me mantenía firme en la cifra de cinco millones, que ya era enorme, hasta el punto de que los compradores, tan pronto la oían, desaparecían. Finalmente, por una afortunada casualidad, encontré al amateur: un milanés, industrial, que quería instalar en el apartamento a su querida. Era un hombre expeditivo y práctico, que conocía el mercado y el precio del dinero: de mediana edad, alto, con una cara alargada y morena y la boca llena de dientes de oro. Vino a ver el apartamento, examinó con cuidado todo y luego le dijo a la princesa, sin grandes cumplidos:
+—Es una ratonera; en Milán pondríamos aquí los lavaderos para la ropa... Si esto vale cinco millones, yo soy turco... Cuando haya hecho los trabajos necesarios, como rehacer el pavimento y los zócalos, abrir ventanas, cambiar esa porquería —e indicó las porcelanas del baño—, me vendrá a costar ocho millones... No importa, la ley del mercado se regula sobre la oferta y la demanda... Usted ha encontrado la persona que necesita este apartamento... y, por lo tanto, usted tiene razón.
+Pero actuó mal al soltar este discurso, franco y brutal, de hombre de negocios. Porque ella, tan pronto como se fue, me dijo, pesarosa:
+—Proietti, hemos cometido un gran error.
+—¿Cuál?
+—Pedir solamente cinco millones... Ese pagaría incluso siete.
+—Princesa —le contesté—, me temo que usted no ha entendido al tipo: es un hombre lleno de dinero, es cierto, y querrá mucho a su amante, no lo discuto; pero más no daría.
+—Usted no sabe lo que un hombre es capaz de hacer por la mujer amada —dijo, mirándome con sus hermosísimos ojos, en los que no había más que interés y dinero.
+Quedé confundido y le contesté:
+—Puede ser..., pero estoy convencido de lo contrario.
+Bueno, al día siguiente el milanés se presentó en el palacio con su abogado, y la princesa, tan pronto como nos sentamos, dijo:
+—Señor Casarighi, lo siento... Pero, pensándolo bien, no puedo darle el apartamento por la cifra de ayer.
+—¿Qué quiere decir?
+—Quiero decir que serían seis millones.
+Hubieran debido ver ustedes a Casarighi. Muy sencillamente, se levantó y dijo:
+—Princesa, he tenido el placer y el honor de saludarla —se inclinó y se fue.
+Dije, tan pronto como desapareció:
+—¿Ha visto usted? ¿Quién tenía razón?
+Pero ella, nada desconcertada, respondió:
+—Ya verá como acabamos encontrando comprador por seis millones.
+Me hubiera gustado mandarla al diablo, pero, por desgracia, estaba muy enamorado. Quizás precisamente porque estaba enamorado no noté la rareza del comprador que, por cinco millones y medio, encontré pocos días después. Ante la suma, realmente enorme, no rechistó. Era un señor del campo, un mocetón alto y grueso que parecía un oso, llamado Pandolfi. En seguida me resultó antipático, casi por un presentimiento. Cuando se lo presenté a la princesa comprendí de inmediato por qué no había protestado por el precio. Por lo pronto, al parecer, tenían un montón de amigos comunes. Y además él la miraba de cierta manera que no dejaba lugar a dudas. Examinamos, como de costumbre, las tres habitaciones y el baño, y después ella abrió la puerta-ventana para mostrarle el panorama. Yo me había quedado en la habitación y así pude observarlos. Ambos apoyaban las manos en la barandilla, y entonces vi que la mano de él se acercaba como por casualidad a la de ella, y luego se superponía, cubriéndola. Comencé a contar, despacio, y llegué hasta veinte. Veinte segundos de roce parecen poca cosa, pero prueben ustedes a contarlos. Al llegar a los veinte, ella, con naturalidad, liberó su mano y volvió a entrar en la habitación. Él dijo, en sustancia, que el apartamento le convenía y se marchó. Nos quedamos solos y ella, con descaro, me dijo:
+—¿Ha visto, Prioetti? Cinco y medio..., pero ya subiremos.
+A la mañana siguiente volví junto a ella, que me esperaba, como de ordinario, sentada ante su escritorio, en el salón. Me dijo, con vivacidad:
+—¿Sabe, Proietti, lo que he descubierto ayer mientras miraba el panorama con ese cliente suyo?
+Me hubiera gustado responder: “Que está enamorado de usted”, pero me contuve. Ella continuó:
+—He descubierto que desde un rincón se ve un buen trozo de Villa Borghese. Proietti, hay que machacar el hierro ahora que está caliente... Hoy le pediremos al señor Pandolfi seis millones y medio.
+¿Comprenden ustedes? Sabía que Pandolfi estaba enamorado de ella y quería especular con el hecho. Aquellos veinte segundos en que él había tenido su mano bajo la suya se los hacía pagar ahora en un millón, cincuenta mil liras por segundo. ¡Qué apetito! Pero esta vez comprendía que iba a obtener la suma y experimenté de pronto rabia, celos y disgusto, al mismo tiempo. Yo había sido el intermediario de un negocio, hasta entonces; pero ahora ella me hacía convertirme en intermediario de una intriga amorosa. Antes de que pudiera darme cuenta, le dije con fuerza:
+—Princesa, soy intermediario, pero no alcahuete —y, con la cara como un ascua, salí a la carrera.
+Oí que ella decía, nada ofendida:
+—Pero, Proietti..., ¿qué le pasa?
+Y aquella fue la última vez que sentí su voz, tan dulce.
+Meses después me encontré con Antonio, el mayordomo, y le pregunté:
+—¿Y la princesa?
+—Se casa.
+—¿Con quién? Apuesto a que se casa con aquel Pandolfi que le compró el ático.
+—¡Qué Pandolfi ni qué ocho cuartos!... Se casa con un príncipe meridional, un viejo chocho que podría ser su abuelo..., pero muy rico, dicen que posee media Calabria... En resumen, el agua va al mar.
+—¿Sigue tan bella?
+—Un ángel.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

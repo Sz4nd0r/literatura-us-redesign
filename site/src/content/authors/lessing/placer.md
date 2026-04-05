@@ -1,0 +1,179 @@
+---
+layout: story
+title: Placer
+slug: placer
+source: https://www.literatura.us/idiomas/lessing/placer.html
+tags:
+  - placer
+  - lessing
+---
+Doris Lessing
+(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
+Placer (1957)
+(“Pleasure”)
+The Habit of Loving
+(Londres:
+MacGibbon and Kee, 1957, 278 págs.);
+(Nueva York: Thomas Y. Crowell Company, 1957, 311 págs.)
+Había dos fiestas importantes, o momentos clave del año, para Mary Rogers. Comenzaba a prepararse para el segundo en cuanto guardaba los adornos navideños. Este año, estaba hojeando una revista de modas cuando su marido dijo:
+—¿Fantaseando con el sol, abuela?
+—No veo por qué no —replicó, un poco dolida—. Al fin y al cabo, ya han pasado cuatro años.
+—En realidad no creo que nos lo podamos permitir.
+Vio en el rostro de Mary una mirada que reconocía.
+Su amiga la señora Baxter, esposa del gerente, también había visto la revista, y comentó:
+—Supongo que este año irás de nuevo al sur de Francia, ahora que tu hija no te va a necesitar. —Agregó aquellas palabras que, por sí solas, lo justificaban todo—: Creo que nosotros seguiremos fieles a Brighton.
+Y Mary Rogers respondió, como siempre lo hacía:
+—No entiendo por qué la gente pasa las vacaciones en Gran Bretaña si por el mismo dinero puede ir al continente.
+Durante cuatro años había ido a Cornualles con su hija y sus nietos. Parecía que era un sacrificio en nombre de la familia, por la manera como lo contaba a sus amigas. Pero este año su hija se iba con la otra abuela, a Escocia, y todos lo sabían. Todos. Es decir, la señora Baxter, la señora Justin-Smith y la señora Jones.
+Mary Rogers compró hilos de vivos colores y los desparramó por la sala. Fuera, un febrero particularmente hostil sometía a la pequeña ciudad de las Midlands a un constante estremecimiento. La lluvia azotaba los cristales de las ventanas. Tommy Rogers vio los hilos pero no pronunció ni una palabra. Una semana después, no obstante, la vio probándose un traje de baño de lino blanco frente al espejo y exclamó:
+—Oye, abuela, no te cubre mucho las piernas, ya sabes…
+En aquel instante quedó claro que irían. Además, después de esos cuatro años la situación había cambiado en más de un sentido. Mary Rogers observó en silencio sus caderas y hombros frente al espejo, y pensó que bien podrían exhibirse. Las prendas que había confeccionado, no obstante, eran más bien sobrias, aunque elegantes. Las había estado cosiendo con constancia y esmero todas las noches de marzo, abril, mayo y junio. Era una buena costurera. Además, había estudiado diseño de modas en Londres durante unos cuantos meses felices, antes de casarse. En aquel entonces el mundo era diferente. Al hablar de ello ahora, con las mujeres de su círculo —la señora Baxter, la señora Justin-Smith y la señora Jones—, podía percibirse la diferencia. Y la señora Baxter decía, con su cordialidad habitual:
+—Ah, bueno, nadie, ninguna de nosotras sabe lo que nos depara el destino, cuando aún somos jóvenes.
+Tenían previsto partir a finales de julio. Una semana antes, Tommy Rogers le mostró a Mary un documento en el que figuraban algunas cifras. El dinero con que contaban nunca había sido tan escaso.
+—En fin, ya nos las arreglaremos —exclamó Mary, en tono incierto. A esas alturas, su mente vagaba ya entre paisajes de mar azul, cielo azul.
+—Quizá sería mejor que reserváramos en el Plaza.
+—Oh, no es necesario. Allí nos conocen.
+La noche antes de que se fueran convocaron una partida de bridge en casa de los Baxter en honor a la gentil pareja. Se pudo ver a Tommy Rogers dirigiendo una mirada incómoda a su esposa cuando comentó:
+—Hoy en día es tan barato viajar en avión que realmente no entiendo por qué…
+Y es que, como de costumbre, habían comprado billetes de tren, por supuesto.
+Superaron con éxito el cruce del canal, una noche en un hotel de París y no se equivocaron de tren.
+En apenas algunas horas verían el pequeño pueblo sobre el mar adonde habían llegado por primera vez veinticinco años atrás, para su luna de miel. Habían elegido aquel lugar porque Mary Hill había conocido, en aquellos círculos de artistas de los que había disfrutado, lamentablemente, un tiempo muy breve, a un escenógrafo de cierta reputación que tenía allí una casa de campo. Durante aquel mes que duró su luna de miel, pasaron una tarde muy amena en la casa de campo.
+A medida que el tren se acercaba, Mary buscaba con la mirada la casa, aislada en una colina sobre el mar. Pero ahora la colina estaba cubierta de pequeñas casas blancas, con postigos verdes y tejados rojos sobre el cálido verde sureño.
+—Por lo visto el lugar ha crecido bastante —exclamó Tommy. La estación también había crecido. Ahora había una extensa plataforma, y un edificio en condiciones. Y al dirigir la mirada hacia el mar, vieron un sinfín de tiendas, casinos y cafés. Hacía apenas cuatro años, había tan solo una tienda, un restaurante y un par de hoteles.
+—Bueno —dijo Mary con amargura—, si el lugar está lleno de turistas, no será lo mismo.
+Pero el sol brillaba y el mar se mecía y refulgía y las palmeras se alzaban a lo largo de la playa de arena blanca. Cargaron el equipaje cuesta abajo hacia el Plaza, sintiéndose como en casa.
+Al llegar a las puertas del Plaza, se miraron el uno al otro. El que antes había sido un modesto edificio, ahora se elevaba imponente, rodeado de marquesinas de vistosos colores y sombrillas de rayas.
+—El viejo Jacques se está extendiendo —dijo Tommy, y caminaron por el sendero de grava hacia el vestíbulo principal, en busca de Jacques, quien tan a menudo había salido a recibirlos.
+En recepción, Mary preguntó por monsieur Jacques, en un francés ceremonioso y correcto. El empleado sonrió y les explicó que lamentablemente el señor Jacques los había dejado hacía tres años.
+—Nos conocía bien —dijo Mary, con una voz que se volvía más aguda y con un matiz de queja—. Siempre encontraba una habitación para nosotros.
+Pero, por cierto, había una habitación para madame. Por supuesto. De inmediato, los empleados se apresuraron a recoger el equipaje.
+—¡Espere un segundo! —exclamó Tommy—. Espera. Pregúntale cuánto cuesta la habitación.
+Mary preguntó, de pasada, cuáles eran las tarifas actuales. Al recibir la información solicitada, dejó caer la mandíbula con todo su peso, y se la transmitió a Tommy. Dirigió una mirada de desconcierto al empleado, el cual, percatándose de la situación, se volvió cogió una carpeta y fingió que tenía asuntos que atender, para que la anciana pareja de ingleses pudiera considerarlo.
+Eso hicieron, en voz baja, rápida y algo airada.
+—No podemos, Mary. No hay nada que hacer. Tendríamos que regresar al cabo de una semana.
+—Pero siempre nos hemos hospedado aquí…
+Finalmente se volvió hacia el empleado, quien de inmediato le brindó una gran atención, y dijo, con una sonrisa tensa:
+—Me temo que el cambio de moneda nos dificulta las cosas. —Su malestar era tal que había pronunciado aquellas palabras en inglés; y fue en inglés como el empleado contestó, con gran amabilidad:
+—La entiendo perfectamente, madame. Quizá podría intentarlo en el Belle Vue, cruzando la calle. Allí reciben a muchos turistas ingleses.
+Los Rogers salieron, cargando su equipaje avergonzados por el pulcro camino de grava, entre vistosas mesas, donde había gente que ya estaba cenando. El sol había caído. Enfrente, el Belle Vue era un despliegue de luces. A Tommy Rogers no le sorprendió que Mary pasara por delante sin ni siquiera mirar el hotel. Habían sido huéspedes del Plaza durante muchos años, se habían sentido superiores al Belle Vue. Además, ¿no había dicho el empleado que estaba lleno de turistas ingleses?
+Dado que se trataba de Francia, y era temporada alta, la agencia de turismo estaba, por supuesto, abierta. Una atractiva mademoiselle lamentó que no hubieran hecho la reserva con anticipación.
+—Hace veinticinco años que venimos aquí —explicó Mary, obviando, por motivos justificados, los últimos cuatro años y otro lapso de cinco, cuando su hija era pequeña—. Nunca habíamos tenido que reservar.
+Es una pena, una verdadera pena, parecía decir mademoiselle con un gesto de hombros y sus hermosos ojos, que Saint Nichole se haya vuelto tan popular, tan atractivo. No había nada que lamentara más. Les sugirió el Belle Vue.
+Los Rogers caminaron nuevamente los diez metros que los separaban del Belle Vue, con la sensación de que estaban haciendo una última concesión al destino. El hotel estaba completo. Al regresar a la agencia, se les informó de que, afortunadamente, había una habitación disponible en una casa de campo en la colina. Los acompañaron hasta allí. Y esta vez fue mademoiselle quien fingió que tenía asuntos que atender, no con una carpeta sino contemplando el cielo estrellado y las tintineantes luces de los barcos sobre la bahía, mientras los Rogers lo consideraban. A estas alturas, el tono de voz no solo era elevado, sino que también denotaba enojo y exasperación. Por este cuarto —extremadamente pequeño, al fondo de una gran casa de campo, con suelo de piedra, sin alfombra; con una cama individual pero amplia, de las que Mary llamaba de estilo francés; con un armario que no era un armario, porque estaba lleno de estanterías, un fregadero y una pequeña cocina de gas— les pedían una suma que los llenó de incredulidad. Si deseaban agua caliente, como acostumbran los ingleses, tenían que calentarla al fuego en una olla.
+No obstante, como bien señaló mademoiselle, abandonando la contemplación de la exótica vista nocturna, tenía la ventaja de que podían cocinar.
+—Sugiero regresar al Plaza. Mejor una semana de confort que tres de esto —dijo Mary.
+Regresaron al Plaza, pero al llegar descubrieron que habían ocupado la última habitación, y no quedaba ninguna disponible.
+Ya eran casi las diez de la noche, y la infinitamente servicial mademoiselle los acompañó otra vez a la pequeña habitación de la casa de campo, por la que convinieron pagar más de lo que habían pagado en el Plaza cuatro años atrás a cambio de confort, buena comida y agua caliente. Además, tuvieron que pagar un depósito de más de diez libras por si decidían huir en mitad de la noche con la cama, el armario o las cucharitas de hojalata, o por si se negaban a pagar los recibos de la luz, el gas y el agua.
+Los Rogers se fueron a dormir de inmediato, agotados de tanto viaje y decepciones.
+Por la mañana, Mary aclaró que no tenía ninguna intención de cocinar en vacaciones, y tomaron el petit déjeuner en un café; pagaron el equivalente a doce chelines por dos tazas pequeñas de café y dos rosquillas y cambiaron de opinión. Iban a tener que cocinar en el cuarto.
+Hicieron un esfuerzo por mantener el buen humor, compraron comida fría para el almuerzo, la dejaron en la habitación y se prepararon para la diversión. Después de todo, el mar era azul, azul y resplandeciente. Y los rayos del sol eran cálidos y dorados. Y en definitiva, se trataba del sur de Francia, el lugar más bello de Europa, en eso siempre habían coincidido. Y en Inglaterra, según el Daily Telegraph, llovía a raudales.
+En la playa pasaron otro mal rato. Había sombrillas desplegadas de punta a punta, a lo largo y ancho de casi un kilómetro de playas de color plateado. Había cuerpos extendidos, asándose al sol, a centenares por metro cuadrado, una capa perfecta de carne dorada y caliente.
+—Han destrozado este lugar, lo han destrozado —exclamó Mary, al contemplar la desbaratada escena. No obstante, dio un paso firme sobre la arena y se desabrochó el vestido. Debajo llevaba un sobrio traje de baño negro; y no pasó por alto la mirada de su marido, que la observó aliviado. Le pareció injusto. Allí estaba, de pie, alto, muy delgado, rubio, bastante presentable con su absurdo slip de baño de veinte centímetros con un cordón a la cintura. Y allí estaba ella, una mujer corpulenta, tersa, de carne blanca; pero mayor, y con un traje de baño negro.
+Miró a su alrededor. A solo unos pasos, los brazos y piernas dorados pertenecientes a una media docena de varones y mujeres, parecían entrelazarse, enredarse. Las jóvenes no llevaban más que coloridos sujetadores de algodón y bragas. Tommy también las estaba mirando. Luego vislumbró, a menos de un metro, del otro lado, una mujer muy llena, de cabello canoso, de cuyo traje de baño blanco sobresalían carnes flácidas y pálidas. Mary le dirigió una mirada de feliz superioridad y se echó sobre la arena mientras se felicitaba a sí misma.
+La pareja de ingleses permaneció allí toda la mañana, dándose la vuelta una y otra vez sobre la arena como un par de arenques a la parrilla, porque sentían que su piel era una desgracia y una vergüenza. Cuando regresaron a la habitación para comer, descubrieron que un enjambre de hormigas negras se había apoderado de sus pedazos de carne fría. No lo lamentaron demasiado, ya que estaba claro que se habían excedido con el sol. Ambos estaban de color rojo escarlata y con molestias en los ojos. Se tumbaron a la sombra en la oscura habitación, y se dieron cuenta de que había sido una torpeza comportarse como dos aficionados, ¡precisamente ellos, que deberían haberlo sabido mejor que nadie! Esa tarde se quedaron en la cama, y al día siguiente también… Pasaron varios días. A veces, cuando el hambre se adueñaba de ellos, Mary se acercaba hasta el pueblo como podía para comprar comida fría; era imposible guardar provisiones en el cuarto por las hormigas. Después de comer, al instante lavaba los platos en la misma pila donde hacía la colada. Dos veces al día, Tommy salía del cuarto a regañadientes mientras Mary se aseaba centímetro a centímetro con el agua que había calentado en la olla. Luego le tocaba salir a ella para que Tommy hiciera lo propio. Después de estas indispensables medidas de higiene, regresaban a la cama, demasiado estrecha y se acomodaban para evitar cualquier contacto con el otro.
+Por fin, la incomodidad del cuarto, y el hecho de que su piel se recuperase, los empujó de nuevo rumbo a la playa, esta vez adecuadamente vestidos, por precaución. Tenían la piel hecha jirones. Al cabo de una semana, no obstante, su piel estaba bronceada y reluciente, lo cual les permitió ocupar sin vergüenza su lugar entre los otros cuerpos dorados y radiantes que se esparcían por la playa como cardúmenes de peces varados.
+Día tras día, los Rogers descendían el pronunciado camino hacia la playa, después de un copioso desayuno inglés a base de tocino y huevos, y pasaban allí la mañana entera. Toda la mañana tendidos al sol y luego toda la tarde, aunque a una distancia prudente de una colonia de ingleses, que estaban unos junto a los otros a unos cientos de metros.
+Observaban a los niños que gritaban y reían entre las imperturbables olas azules. Observaban a los grupos de adolescentes franceses que coqueteaban y se revolcaban en la arena, de un modo que, al menos a Mary, le parecía escandalosamente liberal. ¡Gracias al cielo que su hija se había casado joven y estaba a salvo, alejada del mal camino! No existía nada que hubiese podido convencer a Mary Rogers de la extrema respetabilidad de aquellos jóvenes. Sospechaba que pecaban de los vicios más escandalizadores y enrevesados. Resultaba increíble pensar que, en apenas unos años, un poderoso y apaciguador proceso social los convertiría en parejas francesas decentes, sanas, dedicadas con afán a procurar el bienestar de una o tal vez dos criaturas.
+Observaban también, admirados, a los nadadores más avezados que se zambullían entre las pequeñas olas mar adentro más allá del dique, con sus gafas, tubos y aletas.
+Estaban contentos.
+A eso era a lo que habían venido. A eso era a lo que aquellos cientos de miles de personas a lo largo de la orilla habían venido; a tenderse sobre la arena y sentir el sol sobre sus cuerpos calientes; a sentir también, en pequeñas dosis, las cálidas aguas azules que se secaban sobre sus cuerpos dejándolos pegajosos. El mar era muy salado y de un aroma tibio; olía a algo más que algas y sal, porque pasado el dique, los desagües de la ciudad arrojaban al mar sus indecentes depósitos, que se secaban sobre los cuerpos perfumados y aceitosos de los felices bañistas.
+A eso era a lo que habían venido.
+No obstante, no cabía ninguna duda de que las cosas habían sido muy distintas en el Plaza. Allí se levantaban tarde; tomaban sin prisas el café y las rosquillas; bajaban, o no, a la playa, para rendir culto al sol durante un par de horas; regresaban para un prolongado almuerzo; dormían, se daban un baño otra vez, disfrutaban de una cena aún más prolongada. Eso también recibía el nombre de vacaciones en el mar. Ahora la playa se había convertido realmente en el único lugar al que ir. De nueve a una, de dos a siete, los Rogers estaban en la playa. Eran, con creces, unas vacaciones en el mar.
+Alrededor del décimo día, cayeron en la cuenta de que ya habían consumido la mitad de su tiempo; y Tommy manifestó su inquietud, la sensación de que debía de haber algo más que eso, y se metió corriendo en una de esas tiendas nuevas y tan caras y apareció con unas gafas, unas aletas y un tubo de aire. Se disculpó ante Mary por dejarla sola y se zambulló y buceó hacia la bahía, con el aspecto —o al menos así lo percibió ella, con cierto desprecio— de un astronauta de tebeo. Tardó varias horas en regresar.
+—Esto es genial, abuela, deberías intentarlo —exclamó al salir del mar, absorto y fascinado. Esa tarde se quedó sola en la playa, haciendo un esfuerzo con la vista para intentar reconocer cuál de todos los periscopios era el de Tommy.
+Ensimismada como estaba en lo suyo, de pronto oyó que se dirigían a ella en inglés:
+—Siempre digo que soy una viuda submarina, yo también.
+Se volvió y vio a una joven menuda, sin duda inglesa, con bellos rizos rubios, traje de baño azul, bonitos ojos azules y buenas piernas estiradas sobre la arena tibia. Una joven inglesa. Sin embargo, su voz era —así lo decidió Mary— medianamente aceptable, a pesar de cierta risita nerviosa que le resultaba irritante. Mary se enterneció y, aun cuando uno de sus principios era que no iba a Francia para relacionarse con ingleses, le preguntó:
+—¿Su marido está allí?
+—Oh, nunca lo veo entre comidas —respondió la joven con una sonrisa, y se volvió a tumbar sobre la arena.
+Mary pensó que esta joven se parecía mucho a ella cuando tenía su edad; solo que, por supuesto, ella había sabido sacar partido de sí misma.
+Conversaron, en un tono de voz algo alterado por el sol y el mar, hasta que Tommy Rogers primero y luego el marido de la joven salieron del agua. El joven cargaba un gran pescado a sus espaldas, colgado de una especie de tridente. El entusiasmo que ello generó hizo que los cuatro compartieran el mismo metro cuadrado de arena durante unos minutos, en los que hicieron algunas propuestas prudentes.
+Al día siguiente, Tommy Rogers insistió en que su esposa debía ponerse las gafas y las aletas y probar suerte con el nuevo deporte. Los dos hombres y la joven Betty Clarke la llevaron hasta la bahía, como si fuera un barco con escolta. A Mary Rogers no le gustaba la sofocante sensación de las gafas al presionar su nariz. La velocidad que le daban las aletas la inquietaba, porque no era una gran nadadora. Pero no iba a quedar como una cobarde frente a aquella joven mujer que se desplazaba con tanta facilidad a su lado.
+Más allá de la bahía, sobre la agitada espuma blanca, se alzaba una pequeña isla, apenas un montículo de rocas rojizas y pardas. Alrededor de la isla, a un metro de profundidad, había algunas rocas sumergidas; y por encima de todas ellas flotaba la nueva raza de hombres rana, boca abajo, tridentes en posición, observando los peces que pasaban por allí. Cuando Mary se volvió para ver la costa a través de las gafas, le pareció muy lejana, y muy vulgar, nada especial, con sus sombrillas de rayas, aquellos cuerpos dorados tendidos en la arena y los niños que chapoteaban. Aquel era el otro mar. Esto era algo absolutamente distinto. Aquí estaban los aventureros, los exploradores del mar que miraban con desprecio las playas resguardadas.
+Mary yacía inmóvil sobre la superficie del agua, contemplando el mundo submarino. Aquel mundo inmenso, con grandes valles, pedregoso, se veía ondulante y verde a la luz del sol. Sobre un montículo de arena brillante —a unos diez metros de profundidad, le pareció— brotaba el césped verde, tan fresco y resplandeciente como si creciera en la costa bajo el sol. Si estiraba la mano hacia abajo, tenía la sensación de que casi podía tocarlo. Más lejos aún, frondosos manojos de algas se mecían y sacudían, todo un bosque marino. Mary flotaba sobre ellas, y al rozarle las rodillas y los hombros, con sus puntas suaves y prolongadas, sintió asco. Debajo de ella, ahora, un lecho de piedra, cubierto de espesa vegetación. Verdosas formas pálidas, que se inflaban como globos, o se agitaban cual serpentinas; delicadas flores y estrellas blanquecinas y pardas, que burbujeaban destellos plateados; suaves ubres o vejigas infladas de una delgada película blanca, que se bamboleaban y se dejaban llevar por el pausado movimiento submarino. Mary estaba fascinada: era un mundo nuevo. Pero también sentía cierta aversión. A sus oídos no llegaba otra cosa que el chapoteo y el estallido del oleaje y, a través de este, voces que parecían muy lejanas. Las rocas estaban ahora muy cerca. De pronto, justo debajo de ella, un delgado brazo moreno se extendió, buscó a tientas dentro de una oscura grieta de piedra, y sacó un manojo enroscado de carne grisácea. Mary nadó torpemente hacia la superficie, resbalando y lastimándose contra las rocas. Había sido arrastrada, sin saberlo, hacia el islote; y en las rocas que se hallaban sobre su cabeza vio a un grupo de jóvenes bronceados, semidesnudos, que gritaban y berreaban con entusiasmo porque habían matado al pulpo que habían capturado, golpeándolo repetidas veces contra una gran roca. Iban a comérselo —oyó decir Mary— para cenar. No, aquello era demasiado. Sintió pánico. Aquella repugnante cosa debió de haber estado pocos a centímetros por debajo de ella; ¡podría haberlo tocado! Trepó entre las piedras y buscó a Tommy, que estaba tumbado sobre una roca a unos cien metros de distancia, señalando algo que se encontraba debajo de la roca, mientras Francis Clarke se sumergía una y otra vez para cogerlo. Lo vio salir a la superficie con un pequeño pez de rayas, mientras Tommy y Betty Clarke proferían gritos de entusiasmo.
+Pero ella miraba al pulpo, que ahora estaba tirado sobre una roca como un trapo rasgado, gris y desflecado; llamó a su marido, le dio las gafas, las aletas y el tubo, y nadó despacio hacia la orilla.
+Se quedó allí. Nada iba a lograr que se moviera de allí.
+Ese mismo día, Tommy compró una pistola submarina. Mary se encontró a sí misma pensando, en primer lugar, que ya era un exceso que se gastaran más de cinco libras por esa estrafalaria habitación y, en segundo lugar, que en Navidad no se lo iban a pasar demasiado bien si seguían así.
+Transcurrieron un par de días. Mary pasaba sola todo el día. Betty Clarke, al parecer, solo se comportaba como una viuda de playa cuando le convenía, ya que le gustaba mucho más la isla de rocas rojas que la compañía de Mary. Sin embargo, a veces entablaba conversación con ella durante una media hora, para luego, con cualquier excusa, zambullirse en las olas azules, al reencuentro de los hombres.
+Al poco tiempo, Mary le dijo a Tommy, con aire despreocupado:
+—Solo quedan tres días para que nos vayamos.
+—Si hubiera probado el equipo antes —se lamentó él—. El año que viene estaré preparado.
+Pero por alguna razón, al pensar en el año siguiente Mary no sintió ningún entusiasmo.
+—No me parece que volver sea lo más adecuado —comentó—. Ahora que se ha puesto de moda, el lugar está destrozado.
+—Oh, está bien; cualquier otro sitio es bueno, con la condición de que haya rocas y peces.
+Al día siguiente, los dos hombres y Betty Clarke se quedaron en la isla pedregosa desde las siete de la mañana hasta la hora del almuerzo, al que a regañadientes dedicaron diez minutos, porque era peligroso nadar con el estómago lleno. Luego se marcharon otra vez hasta que la oscuridad cayó sobre el mar. Durante todo ese tiempo, Mary estuvo tumbada sobre la toalla en la playa, dándose la vuelta una y otra vez al sol. Imaginaba la expresión de la señora Baxter, que diría: «¡Has logrado un bronceado perfecto!». Y añadiría, inevitablemente: «Aquí no va a durarte mucho, ¿no crees?». Mary estaba, sin razón aparente, al borde de las lágrimas. ¿Qué le veía Tommy a esa gente?, se preguntaba. Y en cuanto al joven Francis, ¡jamás lo había oído hacer ningún comentario que no estuviera relacionado con el peso, la variedad o los caprichos de los peces!
+Aquella noche, Tommy le dijo que había invitado a la joven pareja a cenar en el Plaza.
+—Un poco precipitado por tu parte, ¿no te parece?
+—Oh, está bien, tengamos una comida como es debido por una vez. Solo nos quedan dos días más.
+Mary dejó pasar aquello de una «comida como es debido». Pero agregó:
+—Jamás hubiera pensado que eran la clase de personas con quienes harías amistad.
+Un halo de irritación ensombreció el rostro de Tommy.
+—¿Qué hay de malo en ellos?
+—En Inglaterra, no creo que…
+—Oh, ¡basta ya, Mary!
+En el amplio jardín del Plaza, donde cuatro años atrás comían tres veces al día como corresponde, encontraron una pequeña mesa justo sobre el mar. Había una orquesta y más camareros que comensales, o al menos eso parecía. Betty Clarke, por primera vez sin su traje de baño, resultó ser una joven sorprendentemente bella. Llevaba un vestido suelto, largo y blanco, que dejaba sus finos hombros dorados al descubierto, que resultó del agrado de Mary Rogers, y sus grandes ojos azules brillaban en su tez bronceada. Una vez más, Mary pensó: Si fuera veinte, bueno, veinticinco años más joven, pensarían que somos hermanas.
+En cuanto a Tommy, parecía de la misma edad que la joven pareja; no es justo, simplemente no es justo, pensó Mary. Se sentó y escuchó mientras hablaban de cómo calcular las distancias submarinas y de las ventajas de los distintos tipos de equipo.
+Intentaron sumarla a la conversación pero ella siguió sentada, callada y seria. Francis Clarke, concluyó, tenía un aspecto rígido y vulgar con ese traje, ya no era el apuesto y joven dios del mar de la playa. En cuanto a la joven, su risita entrecortada estaba poniendo nerviosa a Mary.
+Empezaban a sentirse incómodos. Betty mencionó Londres y los tres hablaron concienzudamente de la ciudad, mientras Mary se limitaba a decir sí y no.
+La joven pareja vivía en Clapham, al parecer; y visitaban la ciudad una vez al mes, para ver algún espectáculo.
+—Estos días hay un espectáculo muy bueno en cartel —comentó Betty—. El del Princess.
+—Últimamente no vamos nunca al teatro —dijo Tommy—. Son cinco horas de viaje en tren. De todos modos, no me gusta demasiado.
+—Habla por ti —dijo Mary.
+—Oh, sé que trabajas en la función de tarde siempre que puedes.
+Le dirigió una mirada tan irritada, que al instante los Clarke se miraron involuntariamente, y Betty replicó, con mucho tacto:
+—Me gusta ir al teatro; siempre es motivo de conversación.
+Mary se quedó en silencio.
+—Mi esposa —intervino Tommy— sabe un montón de teatro. Solía frecuentar las salas, todo ese tipo de cosas.
+—¡Pero qué interesante! —exclamó Betty con entusiasmo.
+Mary luchó contra la tentación, pero no logró vencerla.
+—El hombre que hizo los decorados para el espectáculo del Princess tenía una casa de campo aquí. Lo visitábamos a menudo.
+Tommy dirigió una mirada de estupor y advertencia a su esposa, y comentó:
+—Ojalá no usaran tanto ajo.
+—No vale la pena venir a Francia —dijo Mary—, si vas a comportarte como un inglés respecto a la comida.
+—Nunca preparas comida francesa en casa —agregó Tommy, de pronto—. ¿Por qué no lo haces, si te gusta tanto?
+—¿Cómo? Cuando lo hago, dices que no te gusta que mezcle la comida.
+—A mí tampoco me gusta el ajo —afirmó Betty, como si estuviera confesando un delito—. Debo decir que tengo ganas de volver a casa, donde se puede disfrutar de un plato de comida buena y sencilla.
+Esta vez, Tommy le dedicó una mirada suplicante a su esposa, pero ella inquirió:
+—¿Por qué no van a Brighton o algún sitio por el estilo?
+—Iría a Brighton con mucho gusto —explicó Francis Clarke—. O a Cornualles. Vaya si hay buena pesca en Cornualles. Pero Betty me trae a rastras. Francia está sobrevalorada, esa es mi opinión.
+—Da la impresión de que lo mejor sería que se quedaran en casa.
+Pero Francis no se dejó amedrentar por Mary Rogers.
+—En cuanto a los franceses —dijo en un tono agresivo—, no piensan en otra cosa que en su estómago. Si no están comiendo, están hablando del tema. Si dedicaran la mitad del tiempo que pasan comiendo a algo que valiera la pena, podrían sacar provecho de sí mismos, esa es mi opinión.
+—Algo como… ¿pescar?
+—Bueno, ¿y qué hay de malo en ello? O… por ejemplo… —En este punto decidió tratar el asunto con total seriedad—. Pues miren el gobierno que tienen, por ejemplo. Podrían hacer algo al respecto.
+Betty, que se puso colorada a pesar del bronceado, volvió la vista y soltó una fuerte carcajada, confundida.
+—Oh, bueno, hay que tener en cuenta lo que dice la gente. Francia causa furor.
+Se hizo un silencio. Todos esperaban que ya hubiera pasado el momento difícil. Pero no; y todo porque Francis Clarke parecía creer que era necesario aclarar ciertas cuestiones. Declaró, a modo de galanteo burlesco, respecto de su mujer:
+—Tiene metida entre ceja y ceja la idea del progreso.
+—Bueno —exclamó Betty—, tienes que reconocer que causa buena impresión. Y cuando el señor Beaker, el señor Beaker es su jefe —le explicó a Mary—, cuando le dijiste al señor Beaker durante el torneo de whist que te ibas al sur de Francia, quedó impresionado, digas lo que digas.
+Tommy hizo un gesto de absoluto desdén a su esposa y sonrió con sarcasmo.
+—Una mujer debe pensar en la carrera profesional de su marido —sentenció Betty—. Es cierto, ¿no? Y soy consciente de que he ayudado muchísimo a Francis. Estoy segura de que jamás habría conseguido ese aumento de no haber causado buena impresión. Además, se conoce a gente muy interesante. El año pasado hicimos amistad, bueno, nos relacionamos, si lo prefieren, con unas personas que viven en Ealing. De otro modo no habríamos tenido la oportunidad. El hombre se dedica al cine.
+—Es cámara —agregó Francis, para ser preciso.
+—Bueno, se dedica al cine, ¿no? Y nos invitó a una fiesta. ¿Y quién creen ustedes que estaba allí?
+—¿El señor Beaker? —preguntó Mary con delicadeza.
+—¿Cómo lo ha adivinado? Bueno, era obvio, ¿no? Y no me sorprendería que Francis pudiera dedicarse a comprar, ahora que saben que está familiarizado con los extranjeros. Debería aprender francés, ya se lo he dicho.
+—No hablo una palabra —reconoció Francis—. Y de todos modos, no lo soporto, es como si estuvieran balbuceando todo el rato.
+—Ah, pero la señora Rogers lo habla muy bien —exclamó Betty.
+—Está chiflada —dijo Francis, a modo de broma, moviendo la cabeza para señalar a su esposa—. Se pasa la mitad del año diseñando prendas para sus tres semanas de vacaciones junto al mar. Luego, la otra mitad, preparando los regalos de Navidad con cosas de aquí y de allá. Eso es todo lo que hace.
+—Oh, pero es un placer tan grande hacer regalos que tienen ese toque personal —afirmó Betty.
+—Si quieres desperdiciar tu tiempo, yo no te lo pienso impedir —sentenció Francis—. No te lo pienso impedir. Estás cavando tu propia tumba.
+—Nunca agradecen lo que se hace por ellos —dijo Betty, en un esfuerzo por contener el llanto, intentando convertir a la mujer mayor en su aliada—. Si no me hubiera esforzado de verdad, no podríamos conservar las amistades que hemos hecho…
+Pero a estas alturas, Mary Rogers ya se había puesto en pie.
+—Creo que ya es hora de que me vaya a dormir —dijo—. Buenas noches, señora Clarke. Buenas noches, señor Clarke. —Y se marchó sin mirar a su marido.
+Tommy Rogers se apresuró a levantarse de la mesa, pagó la cuenta, dio las buenas noches a la joven pareja con expresión de desconcierto, y fue tras su mujer. La alcanzó en un recodo del camino que iba hacia la casa. Las estrellas brillaban en lo alto; las palmeras se mecían sensuales en la suave brisa.
+—Me parece —exclamó enojado— que no ha sido muy amable por tu parte.
+—No tengo paciencia para ese tipo de cosas —respondió Mary. Su voz se oía fuerte y entrecortada, como conteniendo el llanto. Tommy la miró estupefacto, y mantuvo la compostura.
+Pero al día siguiente se fue a pescar. Para Mary, las vacaciones habían llegado a su fin. Decidió hacer las maletas y no bajó a la playa.
+Esa noche, Tommy dijo:
+—Nos han invitado a cenar.
+—Ve tú. Yo estoy cansada.
+—Claro que iré —aseguró él, con tono desafiante, y se marchó. No regresó hasta muy tarde.
+Tenían que tomar el tren muy temprano por la mañana. En la pequeña estación, se mezclaron, junto con su equipaje, entre una multitud de gente que lamentaba el fin de sus vacaciones. Pero Mary no lo lamentaba en absoluto. En cuanto llegó el tren, Mary se subió, mientras Tommy estrechaba la mano de decenas de ingleses que, al parecer, había conocido la noche anterior. Los jóvenes Clarke aparecieron en el último momento, corriendo en traje de baño, para despedirse. Mary se asomó por la ventanilla y los saludó fríamente, inclinando la cabeza, y continuó acomodando el equipaje. Luego, el tren arrancó y entonces entró su marido.
+El compartimiento estaba repleto y era la excusa perfecta para no hablar. El silencio, sin embargo, persistía. Al poco rato, Tommy la observaba con inquietud e hizo algunos comentarios acerca del clima, que empeoraba a medida que avanzaban hacia el norte.
+En París tenían cinco horas para matar el tiempo.
+Estaban caminando junto al río, cerca de la feria, cuando de pronto Mary se detuvo delante de una tienda de objetos de cerámica.
+—Esa vasija —exclamó, y su voz parecía renovada, vital—, esa vasija grande y roja, esa de allí, es perfecta para el árbol de Navidad.
+—Claro. Ve y cómprala, abuela —asintió él de inmediato, con profundo alivio.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

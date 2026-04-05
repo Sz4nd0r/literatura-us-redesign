@@ -8,19 +8,27 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@700;900&family=EB+Garamond:ital,wght@1,400&family=Work+Sans:wght@400;500&display=swap" rel="stylesheet">
 </head>
-<body class="bg-[#f4f1ea] text-[#2c2c2c] min-h-screen">
-  <header class="sticky top-0 z-50 bg-white shadow-xl py-4 px-8 border-b border-gray-100">
-    <div class="max-w-7xl mx-auto flex justify-between items-center">
+<body class="bg-[var(--paper-color)] text-[var(--text-main)] min-h-screen">
+  <header class="sticky top-0 z-50 bg-[var(--paper-color)] shadow-xl py-4 px-4 sm:px-8 border-b border-[var(--border-color)]">
+    <div class="max-w-7xl mx-auto flex justify-between gap-1 items-center">
       <h1 id="logo"><a href="/" class="text-2xl font-bold tracking-tight hover:text-gray-600 transition-colors">Literatura.us 2.0</a></h1>
       <nav>
-        <ul class="flex space-x-6 text-sm font-medium uppercase tracking-wider">
-          <li><a href="/" class="link_style">Inicio</a></li>
-          <li><a href="#" class="link_style">Quienes somos</a></li>
-          <li><a href="#" class="link_style">Aviso legal</a></li>
+        <ul id="navbar-menu" class="hidden sm:flex sm:space-x-6 flex-col sm:flex-row absolute sm:static top-full left-0 w-full sm:w-auto bg-[var(--paper-color)] sm:bg-transparent shadow-lg sm:shadow-none border-t border-[var(--border-color)] sm:border-0 mt-2 sm:mt-0 text-sm font-medium uppercase tracking-wider z-50">
+          <li><a href="/" class="link_style block px-4 py-3 sm:p-0">Inicio</a></li>
+          <li><a href="#" class="link_style block px-4 py-3 sm:p-0">Quienes somos</a></li>
+          <li><a href="#" class="link_style block px-4 py-3 sm:p-0">Aviso legal</a></li>
         </ul>
       </nav>
+      <!-- Hamburger button for mobile -->
+      <button id="navbar-toggle" class="sm:hidden ml-2 p-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-400" aria-label="Abrir menú de navegación">
+        <svg class="w-6 h-6 text-gray-700" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="4" y1="6" x2="20" y2="6" />
+          <line x1="4" y1="12" x2="20" y2="12" />
+          <line x1="4" y1="18" x2="20" y2="18" />
+        </svg>
+      </button>
     </div>
   </header>
 
@@ -31,15 +39,31 @@
   </main>
 
   <footer>
-    <a href="#" class="group bg-white p-1 w-[240px] border border-gray-200 shadow-sm hover:shadow-xl transition-all duration-300 rounded-none relative flex items-center justify-between">
-        <div class="absolute inset-x-0 bottom-0 h-1 w-full bg-gray-100 group-hover:bg-blue-600 transition-colors duration-300"></div>
-        <p class="text-lg font-serif font-bold text-zinc-950 ml-4 group-hover:text-blue-800 transition-colors">Vuelve arriba</p>
-        <span class="text-gray-300 group-hover:text-blue-600 group-hover:translate-y-1 transition-all mr-2">&uarr;</span>
+    <a href="#" class="postick_style" style="max-width:240px;">
+        <div class="line_style_bottom"></div>
+        <p class="text-lg font-serif font-bold text-zinc-950 ml-4">Vuelve arriba</p>
+        <span class="text-gray-300 mr-2">&uarr;</span>
     </a>
-    <p>&copy; 2026 Literatura.us 2.0 - Modernizando la <a  class="link_style" href="https://literatura.us">biblioteca personal</a> de <a class="link_style" href="https://paredes.us">Roberto Paredes</a>.</p>
+    <p class="citation_style mt-4">&copy; 2026 Literatura.us 2.0 - Modernizando la <a class="link_style" href="https://literatura.us">biblioteca personal</a> de <a class="link_style" href="https://paredes.us">Roberto Paredes</a>.</p>
   </footer>
 
   {% block scripts %}{% endblock %}
   <script src="/assets/js/styles.utilities.js"></script>
+  <script>
+    // Collapsible navbar for mobile
+    const toggleBtn = document.getElementById('navbar-toggle');
+    const menu = document.getElementById('navbar-menu');
+    if (toggleBtn && menu) {
+      toggleBtn.addEventListener('click', () => {
+        menu.classList.toggle('hidden');
+      });
+      // Optional: close menu when clicking outside (mobile UX)
+      document.addEventListener('click', (e) => {
+        if (!toggleBtn.contains(e.target) && !menu.contains(e.target) && !menu.classList.contains('hidden')) {
+          menu.classList.add('hidden');
+        }
+      });
+    }
+  </script>
 </body>
 </html>

@@ -1,0 +1,62 @@
+---
+layout: story
+title: Un ladrón afortunado
+slug: gdm_ladron
+source: https://www.literatura.us/idiomas/gdm_ladron.html
+tags:
+  - gdm_ladron
+  - gdm
+---
+Guy de Maupassant
+(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
+Un ladrón afortunado (1882)
+[Otro título en español: “El ladrón”]
+(“Le voleur”)
+Originalmente publicado en Gil Blas (21 de junio de 1882);
+Mademoiselle Fifi
+(París:Victor Havard, 1883, 320 págs.)
+Estaban sentados en el comedor de un hotel de Barbizón.
+—Si se lo cuento, no me van a creer.
+—Bueno, cuéntalo, de todos modos.
+—De acuerdo, se lo contaré. Pero antes desearía dejar bien sentado que mi historia es verdadera en todos sus puntos, por más inverosímil que parezca. Sólo los pintores no se sorprenderían, especialmente los viejos, porque han conocido esa época en que el espíritu burlón prevalecía de tal modo que estaba presente aun en las circunstancias más graves.
+Y el viejo artista empezó su relato:
+—Aquella noche habíamos cenado en casa de Soriel. Y cuando digo cenado, quiero decir que todos habíamos bebido más de la cuenta, Éramos tres jóvenes calaveras. Soriel (el pobre ha muerto ya), Le Poittevin, el pintor de marinas, y yo. Le Poittevin también está muerto.
+“Nos habíamos tumbado en el suelo de la pequeña habitación contigua al estudio, y el único de nosotros que no estaba borracho del todo era Le Poittevin. Soriel, que era el más loco de los tres, estaba tendido de espaldas, con los pies en alto apoyados en una silla, discurseando acerca de la guerra y de los uniformes del Imperio, cuando, de repente, se puso en pie, se acercó al armario donde guardaba sus cosas y sacó un uniforme de húsar y se lo puso. A continuación sacó un uniforme de granadero y dijo a Le Poittevin que se lo pusiera; Le Poittevin se resistía a hacerlo, de modo que nos vimos obligados a embutírselo a la fuerza. Le estaba tan ancho, que el pobre Le Poittevin parecía completamente perdido en su interior. Yo me disfracé de coracero. Tras pasarnos revista, Soriel exclamó: “Bien, muchachos. Ya que somos soldados, bebamos como soldados”.
+“La ponchera se llenó y se vació un par de veces. Estábamos cantando a pleno pulmón una vieja canción cuartelera, cuando Le Poittevin, que a pesar del ponche conservaba algo de lucidez, alzó una mano y dijo:
+“—¡Atención, muchachos! Estoy seguro de que alguien está andando por el estudio.
+“—¡Un ladrón! —gritó alegremente Soriel—. ¡Buena suerte!
+“Y la emprendió con la La Marsellesa:
+A las armas, ciudadanos…
+“Luego cogió varias armas de las panoplias que adornaban las paredes y nos equipó de acuerdo con nuestros uniformes. Yo recibí un mosquetón y un sable. A Le Poittevin le correspondió una enorme carabina con la bayoneta calada. Soriel, no encontrando lo que deseaba, cogió una pistola, se la puso al cinto y blandiendo un hacha de guerra en una mano abrió cautelosamente con otra la otra puerta del estudio. El ejército avanzó. Al llegar al centro de la habitación, Soriel se encaró con nosotros y nos dijo:
+“—Yo soy general. Tú (señalándome a mí) eres los coraceros, y debes impedir que el enemigo huya a la desbandada… es decir, vigilarás la puerta. Tú (señalando a Le Poittevin), eres los granaderos y me servirás de escolta.
+“Cumpliendo órdenes, me quedé junto a la puerta del estudio mientras la tropa avanzaba en misión de reconocimiento y desaparecía detrás de un gran lienzo a medio pintar. Al cabo de unos segundos oí un terrible ruido. Corrí con la vela en la mano para averiguar lo que había ocurrido y encontré a Le Poittevin apuntando con su bayoneta al pecho del general, en tanto que Soriel hacía voltear su hacha por encima de la cabeza de sus granaderos. Una vez descubierto el error, el general ordenó:
+“—¡Mucho cuidado, amigos!
+“Durante los veinte minutos siguientes exploramos el estudio de rincón a rincón, sin ningún resultado. De pronto, Le Poittevin dijo que nos habíamos olvidado de mirar en el armario. Como era bastante profundo, introduje la cabeza en él, alumbrando el interior con la vela. Retrocedí, estupefacto. ¡Un hombre, un hombre vivo, estaba de pie dentro del armario, mirándome con fijeza! Me recobré rápidamente y cerré con llave la puerta del armario. A continuación retrocedimos unos pasos para celebrar consejo.
+“Las opiniones estaban divididas. Soriel deseaba quemar al ladrón en el interior del armario. Le Poittevin sugirió dejarlo dentro hasta que muriese de hambre y yo propuse hacerle volar con dinamita. Finalmente, aceptamos la sugerencia de Le Poittevin y decidimos iniciar el asedio. Le Poittevin montó la primera guardia con su larga carabina al hombro, mientras Soriel y yo trasladábamos al estudio la ponchera y las pipas. Luego nos sentamos los tres ante el armario y bebimos a la salud del prisionero. Tras unos cuantos brindis, Soriel sugirió que debíamos sacar al ladrón del armario y echarle una ojeada.
+“¡Hurra!, grité. Empuñamos de nuevo las armas y nos dispusimos a abrir la puerta del armario. Finalmente lo conseguimos y Soriel, empuñando su descargada pistola, penetró el primero en la oscuridad del armario. Le Poittevin y yo le seguimos, aullando como locos y, después de una breve lucha en la oscuridad, sacamos al ladrón. Era un viejo cándido de aspecto miserable y pelo blanco, pobremente vestido. Le atamos de pies y manos y le obligamos a sentarse en una butaca. Durante todas estas operaciones no dijo ni palabra.
+“—Vamos a juzgar a este miserable —dijo Soriel, a quien el ponche había revestido de una gran solemnidad. Yo estaba tan borracho, que la cosa me pareció lo más natural del mundo. Le Poittevin fue nombrado defensor y yo fiscal. El preso fue condenado a muerte, pese a la defensa de su abogado.
+“—Ahora, le ejecutaremos —dijo Soriel—. No obstante, este hombre no puede morir sin arrepentirse de sus pecados —añadió, sintiéndose repentinamente escrupuloso—. Uno de nosotros irá a buscar a un sacerdote.
+“Yo objeté que era demasiado tarde, de modo que Soriel propuso que yo mismo actuara de sacerdote y le dijo al preso que debía confesarme todos sus pecados. El viejo estaba aterrorizado. Por primera vez, habló para preguntar qué clase de malvados éramos. Tenía una voz cascada.
+“—¡No pueden hacer eso conmigo! —gimió.
+“Soriel le obligó a ponerse de rodillas y, temiendo que no estuviera bautizado, vertió un vaso de ron sobre su cabeza, al tiempo que decía:
+“—¡Confiesa tus pecados! ¡Ha llegado tu última hora!
+“—¡Socorro! ¡Socorro! —empezó a gritar el viejo, rodando por el suelo y derribando todo lo que encontraba a su paso. Temiendo que pudiera despertar a los vecinos, le amordazamos.
+“—Vamos, terminemos de una vez —dijo Soriel en tono impaciente. Colocó el cañón de su pistola contra la sien del viejo y apretó el gatillo. Yo le imité, pero las armas estaban descargadas y no sucedió nada. Le Poittevin, que nos había estado contemplando en silencio, dijo:
+“—¿Tenemos realmente derecho a matar a este hombre?
+“—¡Le hemos condenado a muerte! —replicó Soriel.
+“—Sí, pero no tenemos ningún derecho a matar a un paisano. Debemos entregarle a las autoridades civiles.
+“Admitimos la fuerza del argumento y, como el viejo no podía andar, le atamos a una silla y Le Poittevin y yo cargamos con ella, mientras Soriel protegía la retaguardia. Así llegamos a la Comisaría. El jefe de policía, que nos conocía desde hacía tiempo y estaba acostumbrado a nuestras bromas, creyó que tratábamos de tomarle el pelo y se negó en redondo a admitir al preso. Soriel insistió, pero el jefe terminó poniéndose serio y nos dijo muy severamente que dejáramos ya de hacer el tonto y nos marcháramos a casa, sin complicar más la cosa. No nos quedaba otra alternativa que llevar de nuevo al viejo a casa de Soriel.
+“—¿Qué es lo que vamos a hacer con él? —pregunté.
+“—El pobre viejo debe estar terriblemente cansado —dijo Le Poittevin en tono compasivo.
+“En efecto, el viejo bandido parecía medio muerto y yo sentí una repentina compasión hacia él (el ponche, indudablemente); le libré de la mordaza.
+“—¿Cómo se encuentra, buen hombre? —le pregunté.
+“—¿Cómo voy a encontrarme después de lo que han hecho ustedes conmigo? —sollozó.
+“Aquello ablandó también a Soriel. Libró al viejo de sus ataduras y empezó a tratarle como a un viejo amigo. Inmediatamente preparamos un nuevo ponche. En cuanto estuvo preparado le ofrecimos un vaso al viejo, que se lo bebió de un solo trago. Un brindis siguió a otro brindis. El viejo bebía más que Soriel, Le Poittevin y yo juntos; pero, en cuanto amaneció, se puso en pie y dijo:
+“—Lo siento mucho, pero me veo obligado a despedirme de ustedes; tengo que volver a casa.
+“Le rogamos que quedara un rato más en nuestra compañía, pero se negó a complacernos. Profundamente entristecidos por su marcha, le acompañamos hasta la puerta. Soriel alumbraba el camino con la palmatoria, y cuando el viejo empezó a bajar las escaleras le advirtió cariñosamente:
+“—Abuelo, tenga usted cuidado al llegar al último escalón”.
+Todos nos reímos abiertamente cuando finalizó el narrador. Éste se puso de pie, encendió su pipa y agregó, mirándonos de frente:
+—Pero lo más curioso de mi historia es que es cierta.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

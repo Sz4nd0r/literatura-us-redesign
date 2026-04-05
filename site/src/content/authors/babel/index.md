@@ -7,4 +7,92 @@ tags:
   - index
   - babel
 ---
-¿Quién es Isaac Babel? ![Isaac Babel](/assets/images/ib.jpg) Isaac Emmanuilovich Babel (Исаак Эммануилович Бабель) es un narrador, periodista y traductor ruso, y uno de los mejores cuentistas rusos del siglo XX. Hablaba francés con fluidez, además de ruso, ucraniano y yiddish, y sus primeros relatos fueron escritos en francés, aunque ninguno de sus relatos en ese idioma sobrevivó. Nació el 13 de julio (o 12 de julio en el calendario juliano) de 1894, en Odesa, Ucrania, Imperio Ruso. Fue arrestado por el НКВД (Народный комиссариат внутренних дел) o el ministerio del interior de la Unión Soviética, el 15 de mayo de 1939, y acusado falsamente de terrorismo y espionaje. Menos de un año después, el 27 de enero de 1940, fue ejecutado. Apenas tenía 45 años. Autobiografía Nací en 1894 en Odesa, en el barrio de Moldavanka; soy hijo de un comerciante judío. Hasta los dieciséis años, a instancias de mi padre, estudié el hebreo, la Biblia y el Talmud. La vida en casa era difícil: de la mañana a la noche me hacían estudiar un sinfín de materias. Descansaba en la escuela, que llevaba el nombre de Primera Escuela Comercial “Emperador Nikolai I”, de Odesa. Allí estudiaban hijos de mercaderes extranjeros, de contratistas judíos, de polacos acaudalados, de viejos creyentes y muchos billaristas que rebasaron la edad escolar. En los recreos solíamos ir al pantalán del puerto, a jugar al billar en los cafés griegos, a las bodegas de Moldavanka, a beber vino besarabo barato. Tampoco olvidaré esa escuela porque en ella enseñaba francés M. Vadon. Era bretón y tenía, como todos los franceses, dotes literarias. Me enseñó su lengua, estudié con él los clásicos franceses, establecí contactos estrechos con la colonia francesa de Odesa y a los quince años comencé a escribir relatos en francés. Lo dejé dos años después: los paysans y las digresiones me salían sin gracia; sólo el diálogo se me daba. Terminada la escuela me desplacé a Kíev y en 1915 a Petersburgo. En Petersburgo lo pasé muy mal, no tenía certificado de residencia y me ocultaba de la policía en la calle Púshkinskaya, en un sótano habitado por un camarero desgarrado y borracho. En ese año de 1915 empecé a llevar mis creaciones a las editoriales, pero me echaban de todas partes. Todos los redactores (el difunto Izmáilov, Possé y otros), me aconsejaban que me emplease en alguna tienda; no les hice caso y a fines de 1916 llegué hasta Gorki. Lo debo todo a aquel encuentro y hoy pronuncio el nombre de Alexei Maxímovich con cariño y veneración. El insertó mis primeros relatos en Létopis (Летопись), en el número de noviembre de 1916 (a causa de estos relatos fui enjuiciado de acuerdo con el artículo 1001), él me enseñó cosas de extraordinaria importancia, y después, cuando se aclaró que mis dos o tres tolerables experimentos de adolescente habían sido una casualidad, que con la literatura no me salía nada y que escribía asombrosamente mal, Alexei Maxímovich me envió a que me mezclara entre el pueblo. Durante siete años —de 1917 a 1924— viví entre el pueblo. En ese período fui soldado en el frente rumano, serví en la Cheka, en el Comisariado de Instrucción Pública, en las expediciones de 1918 para acopio de alimentos, en el Ejército del Norte contra Yudénich, en el Primer ejército de caballería, en el Comité regional de Odesa, fui redactor en la imprenta número 7 de Odesa, periodista en Petersburgo y Tiflís, etc. Sólo en 1923 aprendí a expresar mis pensamientos de manera clara y sin explayarme mucho. Por eso dato el inicio de mi labor literaria en los comienzos de 1924, cuando en el número 4 de la revista Lef (ЛЕФ) aparecieron mis relatos: “La sal”, “La carta”, “La muerte de Dolgushov”, “El Rey” y otros. I. Babel ÍNDICE: Narrativa: Cuentos de Odesa [Одесские рассказы] (1931): —El Rey (1921) —Así se hacía en Odesa (1923) —Liubka la Cosaco (1924) —El padre (1924) —Historia de mi palomar (1925) —El primer amor (1925) —El fin del asilo (1925) Cuentos [Рассказы] (1932): —El despertar (1931) —En el sótano (1931) Favoritos [Избранное] (1957): —Di Grasso (1937) —El camino (1932) Favoritos [Избранное] (Moscú) (1966): —Shabos-najmú (1916) —Fróim Grach Favoritos [Избранное] (Kemerovo) (1966): —Mamá, Rimma y Ala —Con la emperatriz (1922) —Mis primeros honorarios Конармия [Caballería] [roja] (1926): —La hija [“Pasando por el Zbruch”] (1924) —La iglesia de Novogrado (1923) —La carta (1923) —El embaucador (1923) —La muerte del bautista (1923) —El sol de Italia (1924) —Guedalye (1924) —Mi primer ganso (1923) —El rabino (1924) —Las abejas [“Camino a Brody”] (1923) —La estrategia de Majno (1923) —La muerte de Dolguschof (1923) —Budienny ordena [“El Comandante de la Segunda Brigada”] (1923) [“Sandy el Cristo”] —El yugo [“Biografía de Matvey Rodionych Pavlichenka”] (1924) —El cementerio de Kosin (1923) —Venganza [“Prishchepa”] (1923) —Historia de un caballo (1923) —El ventrílocuo [“Konkin”] (1924) —Tres mundos [“Berestechko”] (1924) —La sal (1923) —Una noche (1925) —Por un caballo [“Afonka Bida”] (1924) [“En la iglesia de San Valentín”] —Los aviadores [“Escuadrón Trunov”] (1925) —El diácono sordo [“Ivanov”] (1924) —Reconciliación [“Continuación de la historia de un caballo”] (1923) —La viuda (1923) —Un sueño [“Castillo”, “Zamosc”] (1924) —Traición (1923) [“Chesniki”] [“Después de la batalla”] —La canción (1925) —El hijo del rabino (1924) [“Argamak”] 
+
+## Biografía
+
+![Isaac Babel](/assets/images/ib.jpg)
+
+**Isaac Emmanuilovich Babel** (Исаак Эммануилович Бабель) es un narrador, periodista y traductor ruso, y uno de los mejores cuentistas rusos del siglo XX. Hablaba francés con fluidez, además de ruso, ucraniano y yiddish, y sus primeros relatos fueron escritos en francés, aunque ninguno de sus relatos en ese idioma sobrevivó.
+
+Nació el 13 de julio (o 12 de julio en el calendario juliano) de 1894, en Odesa, Ucrania, Imperio Ruso. Fue arrestado por el НКВД (Народный комиссариат внутренних дел) o el ministerio del interior de la Unión Soviética, el 15 de mayo de 1939, y acusado falsamente de terrorismo y espionaje. Menos de un año después, el 27 de enero de 1940, fue ejecutado. Apenas tenía 45 años.
+
+### Autobiografía
+
+Nací en 1894 en Odesa, en el barrio de Moldavanka; soy hijo de un comerciante judío. Hasta los dieciséis años, a instancias de mi padre, estudié el hebreo, la Biblia y el Talmud. La vida en casa era difícil: de la mañana a la noche me hacían estudiar un sinfín de materias. Descansaba en la escuela, que llevaba el nombre de Primera Escuela Comercial “Emperador Nikolai I”, de Odesa. Allí estudiaban hijos de mercaderes extranjeros, de contratistas judíos, de polacos acaudalados, de viejos creyentes y muchos billaristas que rebasaron la edad escolar.
+
+En los recreos solíamos ir al pantalán del puerto, a jugar al billar en los cafés griegos, a las bodegas de Moldavanka, a beber vino besarabo barato. Tampoco olvidaré esa escuela porque en ella enseñaba francés M. Vadon. Era bretón y tenía, como todos los franceses, dotes literarias. Me enseñó su lengua, estudié con él los clásicos franceses, establecí contactos estrechos con la colonia francesa de Odesa y a los quince años comencé a escribir relatos en francés. Lo dejé dos años después: los *paysans* y las digresiones me salían sin gracia; sólo el diálogo se me daba.
+
+Terminada la escuela me desplacé a Kíev y en 1915 a Petersburgo. En Petersburgo lo pasé muy mal, no tenía certificado de residencia y me ocultaba de la policía en la calle Púshkinskaya, en un sótano habitado por un camarero desgarrado y borracho. En ese año de 1915 empecé a llevar mis creaciones a las editoriales, pero me echaban de todas partes. Todos los redactores (el difunto Izmáilov, Possé y otros), me aconsejaban que me emplease en alguna tienda; no les hice caso y a fines de 1916 llegué hasta Gorki.
+
+Lo debo todo a aquel encuentro y hoy pronuncio el nombre de Alexei Maxímovich con cariño y veneración. El insertó mis primeros relatos en *Létopis* (Летопись), en el número de noviembre de 1916 (a causa de estos relatos fui enjuiciado de acuerdo con el artículo 1001), él me enseñó cosas de extraordinaria importancia, y después, cuando se aclaró que mis dos o tres tolerables experimentos de adolescente habían sido una casualidad, que con la literatura no me salía nada y que escribía asombrosamente mal, Alexei Maxímovich me envió a que me mezclara entre el pueblo.
+
+Durante siete años —de 1917 a 1924— viví entre el pueblo. En ese período fui soldado en el frente rumano, serví en la Cheka, en el Comisariado de Instrucción Pública, en las expediciones de 1918 para acopio de alimentos, en el Ejército del Norte contra Yudénich, en el Primer ejército de caballería, en el Comité regional de Odesa, fui redactor en la imprenta número 7 de Odesa, periodista en Petersburgo y Tiflís, etc. Sólo en 1923 aprendí a expresar mis pensamientos de manera clara y sin explayarme mucho.
+
+Por eso dato el inicio de mi labor literaria en los comienzos de 1924, cuando en el número de la revista *Lef* (ЛЕФ) aparecieron mis relatos: “La sal”, “La carta”, “La muerte de Dolgushov”, “El Rey” y otros.
+
+**I. Babel**
+
+## Índice
+
+### *Cuentos de Odesa* [Одесские рассказы] (1931)
+- El Rey (1921)
+- Así se hacía en Odesa (1923)
+- Liubka la Cosaco (1924)
+- El padre (1924)
+- Historia de mi palomar (1925)
+- El primer amor (1925)
+- El fin del asilo (1925)
+
+### *Cuentos* [Рассказы] (1932)
+- El despertar (1931)
+- En el sótano (1931)
+
+### *Favoritos* [Избранное] (1957)
+- Di Grasso (1937)
+- El camino (1932)
+
+### *Favoritos* [Избранное] (Moscú) (1966)
+- Shabos-najmú (1916)
+
+### *Favoritos* [Избранное] (Kemerovo) (1966)
+- Fróim Grach
+- Mamá, Rimma y Ala
+- Con la emperatriz (1922)
+- Mis primeros honorarios
+
+### *Caballería roja* [Конармия] (1926)
+- La hija ["Pasando por el Zbruch"] (1924)
+- La iglesia de Novogrado (1923)
+- La carta (1923)
+- El embaucador (1923)
+- La muerte del bautista (1923)
+- El sol de Italia (1924)
+- Guedalye (1924)
+- Mi primer ganso (1923)
+- El rabino (1924)
+- Las abejas ["Camino a Brody"] (1923)
+- La estrategia de Majno (1923)
+- La muerte de Dolguschof (1923)
+- Budienny ordena ["El Comandante de la Segunda Brigada"] (1923)
+- Sandy el Cristo
+- El yugo ["Biografía de Matvey Rodionych Pavlichenka"] (1924)
+- El cementerio de Kosin (1923)
+- Venganza ["Prishchepa"] (1923)
+- Historia de un caballo (1923)
+- El ventrílocuo ["Konkin"] (1924)
+- Tres mundos ["Berestechko"] (1924)
+- La sal (1923)
+- Una noche (1925)
+- Por un caballo ["Afonka Bida"] (1924)
+- En la iglesia de San Valentín
+- Los aviadores ["Escuadrón Trunov"] (1925)
+- El diácono sordo ["Ivanov"] (1924)
+- Reconciliación ["Continuación de la historia de un caballo"] (1923)
+- La viuda (1923)
+- Un sueño ["Castillo", "Zamosc"] (1924)
+- Traición (1923)
+- Chesniki
+- Después de la batalla
+- La canción (1925)
+- El hijo del rabino (1924)
+- Argamak

@@ -1,0 +1,86 @@
+---
+layout: story
+title: Con la cara hacia arriba
+slug: sc_cara
+source: https://www.literatura.us/idiomas/sc_cara.html
+tags:
+  - sc_cara
+  - sc
+---
+Stephen Crane
+(Newark, Nueva Jersey, 1871 - Badenweiler, Alemania, 1900)
+Con la cara hacia arriba (1900)
+(“The Upturned Face”)
+Originalmente publicado en Ainslee’s Magazine, March 1900,
+Vol. 5, Núm. 2 (marzo de 1900), págs. 108-110;
+Last Words
+(Londres: Digby, Long & Co., 1902, 320 págs.), págs. 52-58.
+I
+—¿Qué vamos a hacer ahora? —preguntó el ayudante, inquieto y agitado.
+—Enterrarlo —respondió Timothy Lean.
+Los dos oficiales bajaron la vista hacia el cuerpo de su compañero, que yacía tendido a sus pies. Tenía el rostro azulado; los ojos brillantes miraban al cielo. Por encima de las dos siluetas de pie, se oía el silbido de las balas, y en la cima de la loma, la postrada infantería Spitzbergen disparaba rítmicas descargas cerradas.
+—No crees que sería mejor... —empezó a decir el ayudante—. Podríamos dejarlo aquí hasta mañana.
+—No —dijo Lean—. No voy a poder sostener nuestra posición más de una hora. Tengo que retroceder y debemos enterrar al viejo Bill.
+—Por supuesto —replicó el ayudante de inmediato—. ¿Tus hombres tienen herramientas de trinchera?
+Lean gritó en dirección a la pequeña línea de fuego, y dos hombres se acercaron lentamente, con un pico y una pala. Se quedaron mirando en dirección a los tiradores apostados de Rostina. Las balas restallaban cerca de sus oídos.
+—Cava aquí —ordenó Lean, de mal humor.
+Los hombres, obligados a bajar la vista hacia el césped, empezaron a darse prisa y a sentir miedo pues no podían ver de dónde venían las balas. El golpe seco del pico golpeando contra la tierra resonaba entre el rápido estallido de las balas cercanas. Al poco rato, el otro soldado raso empezó a cavar con la pala.
+—Supongo —dijo el ayudante, despacio— que deberíamos buscar en la ropa... cosas.
+Lean asintió. Juntos, ensimismados en forma extraña, observaron el cadáver. Entonces, Lean agitó los hombros, como si se despertara de improviso.
+—Sí —respondió—, será mejor que veamos qué tiene.
+Se puso de rodillas y acercó las manos al cuerpo del oficial muerto. Pero las manos le temblaron sobre los botones de la chaqueta. El primer botón tenía un color rojo ladrillo debido a la sangre seca, y Lean, al parecer, no se atrevía a tocarlo.
+—Vamos, sigue —dijo el ayudante, con voz ronca.
+Lean extendió la mano rígida y sus dedos manipularon con torpeza los botones manchados de sangre. Por fin se levantó con la cara pálida. Encontró un reloj, un silbato, una pipa, una bolsa de tabaco, un pañuelo, un pequeño estuche de naipes, y papeles. Miró al ayudante. Se hizo un silencio. El ayudante sentía que se había portado como un cobarde al permitir que Lean llevara a cabo por sí solo la deprimente tarea.
+—Bueno —dijo Lean—. Eso es todo, creo. Tú tienes su espada y revólver.
+—Sí —respondió el ayudante, con una mueca. Pero entonces, con una furia inexplicable y repentina, se dirigió a los dos soldados rasos:
+—¿Por qué no se apuran con esa tumba? ¿Qué es lo que creen que están haciendo? Vamos, rápido, ¿me oyen? Nunca vi semejante estupidez...
+Al mismo tiempo que el ayudante gritaba en un arrebato de cólera, los dos hombres luchaban por su vida. En forma constante, por encima de sus cabezas, seguían silbando las balas.
+Terminaron de cavar la tumba. No era una obra de arte... tan solo un triste hueco de poco fondo. Lean y el ayudante se miraron de nuevo en un raro entendimiento silencioso.
+De pronto, el asistente lanzó una carcajada ronca y espeluznante. Era una risa terrible, como las que surgen de aquella parte del cerebro que se ve estimulada ante todo por la vibración de los nervios.
+—Bueno —le dijo a Lean, risueño—. Supongo que será mejor que lo arrojemos allí.
+—Sí —respondió Lean. Los dos soldados rasos esperaban agachados sobre sus herramientas.
+—Creo —siguió Lean— que sería mejor que nosotros mismos lo metamos adentro.
+—Sí —concedió el asistente. Y entonces, recordando que había obligado a Lean a registrar el cadáver, se inclinó con gran entereza y agarró al oficial muerto de la ropa. Lean se le acercó. Ambos pusieron especial cuidado en no rozar el cadáver con los dedos. Tiraron con fuerza; el cadáver se elevó, se movió de un lado a otro, se tambaleó y por fin se desplomó dentro de la tumba, y los dos oficiales, recobrando la postura, se miraron fijo uno a otro. Dieron un suspiro de alivio.
+—Creo que deberíamos... deberíamos decir algo. ¿Recuerdas el servicio funerario, Tim?
+—No suelen rezarlo hasta que no se cubre la tumba —respondió Lean.
+—¿Ah, no? —dijo el ayudante, disgustado por haber cometido ese error—. Ah, bueno —exclamó, de repente—, digamos... digamos algo... mientras nos pueda oír.
+—Está bien —contestó Lean—. ¿Te acuerdas del rezo?
+—No recuerdo ni una sola línea —dijo el ayudante.
+Lean se mostró muy indeciso:
+—Puedo repetir dos líneas, pero...
+—Bueno, hazlo —insistió el ayudante—. Hasta donde puedas. Peor es nada. Y las bestias esas ya nos tienen en la mira.
+Lean observó a sus dos hombres.
+—¡Atención! —vociferó una orden.
+Los soldados rasos se cuadraron con cara de gran aflicción. El ayudante bajó el casco hasta la rodilla. Lean, con la cabeza descubierta, se ubicó frente a la tumba. Los tiradores apostados de Rostina disparaban sin tregua.
+—Oh, Padre, nuestro amigo se ha sumergido en las aguas profundas de la muerte, pero su espíritu se ha elevado hacia Ti como surge la burbuja de los labios de los ahogados. Te suplicamos, oh, Padre, que repares en la pequeña burbuja flotante y...
+Lean, aunque ronco y pudoroso, había continuado sin vacilar hasta ese momento, pero se detuvo desesperado y miró el cadáver.
+El ayudante se movió, ansioso.
+—Y desde Tus majestuosas alturas... —empezó, y entonces él también se quedó callado.
+—Y desde Tus majestuosas alturas —continuó Lean.
+En forma repentina, el ayudante recordó una frase final del servicio funerario de Spitzbergen, y se aprovechó de ella con la actitud triunfante del hombre que lo ha recordado todo y puede proseguir.
+—Oh, Dios, ten piedad...
+—Oh, Dios, ten piedad... —coreó Lean.
+—Piedad —repitió el ayudante, y se paró en seco.
+—Piedad —siguió Lean. Pero entonces se vio embargado de un profundo sentimiento de violencia, y girando hacia sus dos hombres, les gritó con crueldad—: ¡Arrojen la tierra!
+El fuego de los tiradores de Rostina era certero y continuo.
+II
+Uno de los afligidos soldados rasos se adelantó con la pala. Levantó la primera palada, y por un instante de incomprensible vacilación, la mantuvo suspendida sobre el cadáver que, con el rostro azulado, lo miraba fijo desde la tumba. Entonces el soldado volcó la tierra sobre... sobre los pies.
+Timothy Lean sintió como si le hubieran quitado de pronto un enorme peso de encima. Por un instante temió que el soldado echara la tierra quizá sobre... sobre la cara. Pero la había volcado sobre los pies. Un gran punto a favor... ¡ja, ja!... la primera palada había caído en los pies. ¡Qué satisfacción!
+El asistente empezó a balbucear.
+—Bueno, claro... un hombre con el que hemos compartido tantas cosas durante todos estos años... imposible... no puedes dejar, como bien sabes, que tus íntimos amigos se pudran al aire libre en el campo. ¡Usted, siga echando tierra, por amor de Dios!
+Súbitamente el hombre con la pala se agachó. Con la mano derecha se apretó el brazo izquierdo y miró a su oficial a la espera de órdenes. Lean recogió la pala del suelo.
+—Vaya a la retaguardia —le dijo al hombre herido; y se dirigió al otro soldado—: Usted también, póngase a cubierto. Me encargaré de terminar este asunto.
+El hombre herido empezó a gatear en forma precipitada hacia la cima de la loma sin siquiera desviar la vista en dirección a las balas; el otro soldado lo siguió al mismo paso, pero con la diferencia de que miró ansioso hacia atrás por lo menos tres veces.
+Así suelen comportarse... a menudo... los heridos y los no heridos.
+Timothy Lean llenó la pala, dudó, y entonces en un movimiento parecido a una mueca de repugnancia, lanzó la palada a la tumba. Cuando la tierra cayó, hizo un ruido: ¡plaf! Lean hizo una pausa de inmediato y se secó la frente como un trabajador agotado.
+—Quizá nos equivocamos —intervino el ayudante. Lanzó una mirada tonta a su alrededor—. Tal vez hubiese sido mejor no enterrarlo justo en este momento. Pero, claro, si esperábamos hasta mañana el cuerpo habría estado...
+—¡Maldito seas! —exclamó Lean—. ¡Cierra el pico! No era el oficial de más alto rango.
+Volvió a llenar la pala y arrojó la tierra en el foso. La tierra siempre hacía ese ruido: ¡plaf! Durante un buen rato, Lean trabajó frenético, como un hombre que cava su propia salvación.
+En poco tiempo, solo quedó a la vista el rostro azulado. Lean llenó de nuevo la pala.
+—¡Dios mío! —le gritó al ayudante—. ¿Por qué no lo diste vuelta de algún modo cuando lo metiste allí? Esto... —entonces Lean empezó a tartamudear.
+El asistente comprendió. Hasta los labios se le pusieron lívidos.
+—¡Sigue, hombre, sigue! —exclamó, suplicante, casi gritando.
+Lean balanceó la pala hacia atrás. Esta se adelantó curvada como un péndulo. Cuando la tierra cayó, hizo un ruido: ¡plaf!
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

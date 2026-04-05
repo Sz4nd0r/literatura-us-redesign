@@ -1,0 +1,87 @@
+---
+layout: story
+title: Carrera de persecución
+slug: eh_carrera
+source: https://www.literatura.us/idiomas/eh_carrera.html
+tags:
+  - eh_carrera
+  - eh
+---
+Ernest
+Hemingway
+(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)
+Carrera de persecución (1927)
+(“A Pursuit Race”)
+Men Without Women
+(Nueva York: Scribner’s Sons, 1927, 232 págs.)
+William Campbell mantenía una carrera de persecución con un espectáculo de variedades desde Pittsburgh. En una carrera de persecución, en las carreras de bicicletas, los corredores salen a intervalos iguales uno tras otro. Corren muy deprisa porque generalmente la carrera se limita a una distancia breve, y si pierden velocidad otro corredor que vaya detrás y mantenga el ritmo acabará cogiéndolos. En cuanto un corredor es adelantado queda fuera de la carrera y debe bajarse de la bicicleta y salir de la pista. Si ninguno de los corredores es atrapado, el ganador de la carrera es el que se ha acercado más al otro. En la mayor parte de las carreras de persecución, si hay solo dos corredores, uno de los dos es adelantado al cabo de diez kilómetros. El espectáculo de variedades pilló a William Campbell en Kansas City.
+William Campbell había tenido la esperanza de ir un poco por delante del espectáculo de variedades hasta que llegaran a la costa del Pacífico. Siempre y cuando fuera delante del espectáculo de variedades como representante de la empresa, le pagaban. Cuando el espectáculo de variedades lo atrapo él estaba en la cama. Estaba en la cama cuando el director de la troupe entró en su habitación, y cuando el director hubo salido, William Campbell se dijo que igual le daba quedarse en la cama. Hacía mucho frío en Kansas City, y no tenía prisa por salir. No le gustaba Kansas City. Metió la mano bajo la cama y sacó una botella y bebió. Su estómago se sintió mejor. El señor Turner, el director del espectáculo de variedades, se había negado a beber.
+La entrevista de William Campbell con el señor Turner había sido un poco rara. El señor Turner había llamado a la puerta. Campbell había dicho: «¡Adelante!». Cuando el señor Turner entró vio ropa encima de una silla, una maleta abierta, la botella en una silla junto a la cama, y alguien echado en la cama completamente cubierto por las mantas.
+—Señor Campbell —dijo el señor Turner.
+—No puede despedirme —dijo William Campbell desde debajo de las mantas. Debajo de las mantas se estaba caliente y cobijadito y todo era blanco—. No puede despedirme por haberme bajado de la bicicleta.
+—Está borracho —dijo el señor Turner.
+—Oh, sí —dijo William Campbell, hablándole directamente a la sábana y sintiendo su textura en los labios.
+—Es usted un imbécil —dijo el señor Turner. Apagó la luz eléctrica. La luz había estado encendida toda la noche. Ahora eran las diez de la mañana—. Es usted un borracho y un imbécil. ¿Cuándo llegó a esta ciudad?
+—Llegué anoche —dijo William Campbell, hablándole a la sábana. Descubrió que le gustaba hablar a través de la sábana—. ¿Alguna vez ha hablado a través de una sábana?
+—No intente hacerse el gracioso. No es usted gracioso.
+—No intento hacerme el gracioso. Tan solo hablo a través de una sábana.
+—Desde luego que está hablando a través de una sábana.
+—Ya puede irse, señor Turner —dijo Campbell—. Ya no trabajo para usted.
+—Al menos eso lo sabe.
+—Sé muchas cosas —dijo William Campbell. Apartó la sábana y miró al señor Turner—. Sé lo suficiente para que no me importe mirarle. ¿Quiere saber lo que sé?
+—No.
+—Bien —dijo William Campbell—. Porque la verdad es que no sé nada. Hablaba por hablar. —Volvió a taparse con la sábana—. Me encanta estar bajo una sábana —dijo. El señor Turner estaba de pie junto a la cama. Era un hombre de mediana edad con una gran barriga y calvo, y tenía muchas cosas que hacer.
+—Debería dejarlo ahora mismo, Billy, y seguir una cura —dijo—. Yo se lo puedo arreglar si quiere.
+—No quiero seguir ninguna cura —dijo William Campbell—. No quiero ninguna cura. Soy totalmente feliz. Toda mi vida he sido completamente feliz.
+—¿Cuánto hace que está así?
+—¡Menuda pregunta! —William Campbell inhalaba y exhalaba a través de la sábana.
+—¿Cuánto tiempo lleva trompa, Billy?
+—¿Es que no he hecho mi trabajo?
+—Claro. Solo le he preguntado cuánto lleva trompa, Billy.
+—No lo sé. Pero ha vuelto mi lobo. —Tocó la sábana con la lengua—. Lo he tenido una semana.
+—Y un cuerno.
+—Oh, sí. Mi querido lobo. Cada vez que bebo sale de la habitación. No soporta el alcohol. Pobrecillo. —Daba vueltas con la lengua en la sábana—. Es un lobo encantador. Está igual que siempre. —William Campbell cerró los ojos e inhaló profundamente.
+—Necesita una cura, Billy —dijo el señor Turner—. El Keeley le gustará. No está mal.
+—El Keeley —dijo William Campbell—. No está lejos de Londres. —Cerró los ojos y los abrió, rozando la sábana con las pestañas—. Es que me encantan las sábanas —dijo. Miró al señor Turner—. Escuche, usted cree que estoy borracho.
+—Está borracho.
+—No, no lo estoy.
+—Está borracho y ha tenido delirium tremens.
+—No —dijo William Campbell, y se envolvió la cabeza con la sábana—. Querida sábana —dijo. Respiró suavemente contra ella—. Hermosa sábana. Me amas, ¿verdad, sábana? Todo está incluido en el precio de la habitación. Igual que en Japón. No —dijo—. Escuche, Billy, querido Billy el Escurridizo, tengo una sorpresa para usted. No estoy borracho. Estoy colocado hasta las cejas.
+—No —dijo el señor Turner.
+—Eche un vistazo. —William Campbell se subió la manga derecha de la chaqueta del pijama bajo la sábana y asomó el antebrazo—. Mire. —En el antebrazo, desde la muñeca hasta el codo, había pequeños círculos azules en torno a diminutos pinchazos azul oscuro. Los círculos casi se tocaban entre sí—. Es el nuevo descubrimiento —dijo William Campbell—. Ahora bebo de vez en cuando, solo para mantener al lobo fuera de la habitación.
+—Hay una cura para eso —dijo Billy el Escurridizo Turner.
+—No —dijo William Campbell—. No hay curas para nada.
+—No puede abandonar así como así, Billy —dijo Turner. Se sentó en la cama.
+—Cuidado con mi sábana —dijo William Campbell.
+—A su edad no puede abandonar y atiborrarse de eso simplemente porque está en un lío.
+—Hay una ley en contra de eso. Si es a lo que se refiere.
+—No, me refiero a que tiene que luchar contra ello.
+Billy Campbell acarició la sábana con los labios y la lengua.
+—Querida sábana —dijo—. Puedo besar esta sábana y ver a través de ella al mismo tiempo.
+—Deje ya lo de la sábana. Ahora no puede empezar a meterse eso.
+William Campbell cerró los ojos. Comenzaba a experimentar una ligera náusea. Sabía que esa náusea aumentaría poco a poco, sin que existiera el alivio de vomitar, hasta que hiciera algo para remediarla. Fue en ese momento cuando le sugirió al señor Turner que tomara un trago. El señor Turner declinó la invitación. William Campbell echó un trago de la botella. Era una medida temporal. El señor Turner lo observó. El señor Turner llevaba en esa habitación mucho más tiempo del que debiera, tenía muchas cosas que hacer; aunque diariamente se relacionaba con gente que tomaba drogas, esas cosas le horrorizaban, y le tenía mucho aprecio a William Campbell; no deseaba abandonarlo. Lo sentía mucho por él, y le parecía que una cura podría ayudarlo. Sabía que había buenos centros de desintoxicación en Kansas City. Pero tenía que irse. Se puso en pie.
+—Escuche, Billy —dijo William Campbell—. Quiero decirle algo. Le llaman Billy el Escurridizo. Eso es porque es usted capaz de escurrirse. A mí me llaman Billy a secas. Eso es porque nunca he podido escurrirme. Yo no puedo escurrirme, Billy. No puedo escabullirme. Me atrapa. Cada vez que lo intento, me atrapa. —Cerró los ojos—. No puedo escurrirme, Billy. Es terrible no poder escurrirte.
+—Sí —dijo Billy el Escurridizo Turner.
+—Sí ¿qué? —William Campbell se lo quedó mirando.
+—Lo que estaba diciendo.
+—No —dijo William Campbell—. Yo no decía nada. Habrá sido un error.
+—Decía algo acerca de escurrirse.
+—No. Es imposible que hablara de escurrirme. Pero escúcheme, Billy, y le contaré un secreto. Limítese a las sábanas, Billy. Aléjese de las mujeres y los caballos, y —se interrumpió— las águilas, Billy. Si ama a los caballos se encontrará con mierda de caballo, y si ama a las águilas se encontrará con mierda de águila. —Se calló y metió la cabeza bajo la sábana.
+—Tengo que irme —dijo Billy el Escurridizo Turner.
+—Si ama a las mujeres acabará metiéndose una dosis de esto —dijo William Campbell—. Si va con caballos…
+—Sí, ya lo ha dicho.
+—¿El qué?
+—Lo de los caballos y las águilas.
+—Oh, sí. Y si ama las sábanas. —Respiró sobre la sábana y restregó la nariz contra ella—. No sé qué pasa con las sábanas —dijo—. Acabo de empezar a amar esta sábana.
+—Tengo que irme —dijo el señor Turner—. Tengo mucho que hacer.
+—Está bien —dijo William Campbell—. Todo el mundo tiene que irse.
+—Será mejor que me vaya.
+—Muy bien, váyase.
+—¿Se encuentra bien, Billy?
+—No he sido más feliz en la vida.
+—¿Y se encuentra bien?
+—Estoy bien. Adelante, váyase. Yo me quedaré aquí un rato. A eso de mediodía me levantaré.
+Pero cuando a mediodía el señor Turner volvió a la habitación de William Campbell, lo encontró durmiendo, y como el señor Turner era un hombre que sabía cuáles son las cosas valiosas de la vida, no lo despertó.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

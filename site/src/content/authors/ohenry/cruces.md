@@ -1,0 +1,597 @@
+---
+layout: story
+title: Corazones y cruces
+slug: cruces
+source: https://www.literatura.us/idiomas/ohenry/cruces.html
+tags:
+  - cruces
+  - ohenry
+---
+O.
+Henry
+(William Sydney Porter)
+(North Carolina, 1862 -
+New York, 1910)
+Corazones y cruces (1904)
+(“Hearts and Crosses”)
+Originalmente publicado en Everybody’s Magazine, Vol. 11, Núm. 6 (diciembre de 1904);
+Heart of the West
+(Nueva York: McClure Co., 1907, 334 págs.)
+Baldy Woods alargó el brazo y cogió la botella. Siempre
+que Baldy se proponía algo, acostumbraba a…
+Pero no se trata ahora de la historia de Baldy. Se
+sirvió una tercera copa, cuyo contenido excedía en
+un centímetro al de la primera y al de la segunda.
+Baldy celebraba una consulta y había de mostrarse a
+la altura de su misión.
+—Yo en tu lugar sería rey —dijo con ademán tan
+decidido que le crujió la cartuchera y sus espuelas
+comenzaron a chirriar.
+Webb Yeager se echó atrás el típico sombrero, para
+alborotar todavía más su cabello pajizo, y, al no obtener
+de este recurso un resultado positivo, decidió
+seguir el líquido ejemplo de su ingeniosísimo amigo
+Baldy.
+—Por casarse con una reina, un hombre no ha de
+quedar necesariamente fuera de la baraja —dijo Webb
+resumiendo toda su queja.
+—Pues claro —añadió Baldy amable, sediento aún y
+muy solícito con respecto al relativo valor de los naipes—.
+Tienes derecho a ser rey. Yo, en tu caso, exigiría
+otra partida. Te han escamoteado alguna carta. Te
+diré lo que eres, Webb Yeaguer.
+—Dilo —rogó Webb con mirada esperanzada.
+—Eres un príncipe consorte.
+—Cuidado —alegó Webb—. Yo a ti todavía no te he
+insultado.
+—Pero si es un título —explicó Baldy—. Solo uno
+de tantos en la baraja. Trataré de explicártelo, Webb.
+Es… como una marca especial creada para determinados
+animales de Europa. Supón que tú, yo o un
+duque alemán cualquiera se case con una princesa
+de sangre real, y que nuestra mujer llegue, con el tiempo,
+a ser reina. ¿Somos reyes nosotros? Ni por casualidad.
+En la ceremonia de la coronación nos harán
+caminar junto al noveno gran chambelán de la cámara,
+y solo serviremos para aparecer en las fotografías
+y aceptar la responsabilidad de un posible príncipe
+heredero. No me parece justo. Te repito, Webb, que
+eres un príncipe consorte. Yo en tu lugar prepararía
+un manifiesto, un habeas corpus o cualquier cosa de
+esas, pero costara lo que costase…, sería rey —Baldy
+vació su vaso al llegar a este punto, para ratificar su
+teoría.
+—Baldy —dijo con solemnidad Webb—, tú y yo hemos
+atendido las vacas de un mismo rebaño durante
+años, hemos corrido por los mismos pastos y cabalgado
+por iguales caminos desde que éramos muchachos.
+Con nadie más que contigo hablaría de mis asuntos
+personales. Eras caballerizo del rancho Nopalito
+cuando me casé con Santa McAllister. Por aquel entonces
+era capataz, pero, ¿qué soy ahora? La verdad
+es que no pinto nada.
+—Cuando el viejo McAllister era rey del ganado en
+Texas occidental —prosiguió Baldy con demoníaca
+dulzura—, tenías cierta clase. Tu voz resultaba, en el
+rancho, casi tan importante como la suya.
+—Desde luego —admitió Webb—, pero cuando supo
+que le había echado el lazo a la propia Santa, todo acabó.
+Me relegó a los campos y me obligó a estar lo más
+lejos posible de la casa del rancho. Al morir el viejo,
+inventaron para Santa el apodo de Reina del Ganado.
+Yo…, digamos, que soy su jefe. Jefe del Ganado, nada
+más. Ella cuida del negocio y maneja el dinero. No puedo
+vender ni un novillo a unos excursionistas sin su
+permiso. Santa es la reina. Yo…, un don Nadie.
+—Pues yo, en tu caso, sería rey —repitió Baldy Woods,
+el monárquico—. Si un hombre se casa con una reina
+es natural que llegue a su misma jerarquía. Desde el
+chaparral al almacén de expedición, pasando por todas
+las secciones y departamentos. Todo ha de recorrerlo
+hasta situarse junto a ella. Muchos lo andan
+diciendo por ahí. Dicen que es muy raro que tú no
+pintes nada en Nopalito. Y conste que no quiero meterme
+con la señora Yeager. Es la mejor muchacha de
+Río Grande, pero un hombre ha de ser el dueño de su
+casa.
+En el moreno y dulce rostro de Yeager apareció una
+expresión de dolida melancolía. Con ella, su rubio
+cabello en desorden y sus tranquilos ojos azules, podía
+perfectamente pasar por un colegial a quien hubiese
+usurpado el primer puesto del equipo un compañero
+más joven y fuerte. Su alta estatura, su vigor
+y sus músculos, además de su cartuchera y sus pistolas,
+derrotaban la comparación.
+—¿Cómo dijiste, Baldy? —preguntó—. ¿Qué es lo
+que soy? ¿Un concierto de qué?
+—Un consorte —corrigió Baldy—. Un príncipe consorte.
+Algo así como un seudónimo en la baraja. Estás
+entre la sota y el nueve.
+Webb Yeager suspiró y cogió la correa de la funda
+de su winchester que estaba en el suelo.
+—Hoy mismo vuelvo al rancho a caballo —dijo con
+cierta indiferencia—. Tengo que preparar unos bichos
+para San Antonio; han de enviarse por la mañana.
+—Iré contigo hasta Dry Lake —manifestó Baldy—.
+Tengo que ver algunas bestias jóvenes en San Marcos.
+Ambos compañeros montaron sobre sus respectivas
+cabalgaduras y se alejaron al trote de la pequeña
+estación, en donde aquella calurosa mañana se habían
+reunido.
+Al llegar a Dry Lake, lugar en donde se separaban
+los caminos que debían seguir, se detuvieron para
+fumar un cigarrillo. Habían recorrido varias millas
+en silencio, solo al compás de los cascos de los caballos
+sobre la alfombra de césped del suelo, y el
+roce de los estribos de madera contra los matorrales
+y arbustos. Pero en Texas es difícil que una conversación
+no tenga continuidad. Se puede recorrer una
+milla de camino charlando y ocurrir una muerte o
+presentarse la ocasión de una comida sin que todo
+ello afecte las tesis tratadas.
+—Como recordarás, Baldy, hubo un tiempo en que
+Santa no se sentía tan independiente como ahora.
+No habrás olvidado los días en que el viejo McAllister
+se propuso apartarnos el uno del otro y en que Santa,
+cuando deseaba verme, me enviaba una señal
+convenida. El viejo Mac prometió convertirme en algo
+parecido a un colador, si me ponía a distancia de tiro
+del rancho. ¿Recuerdas la señal, Baldy? ¿Te acuerdas
+del corazón con la cruz en el centro?
+—¡Qué si me acuerdo! —gritó Baldy con astuta y
+maliciosa expresión—. Pues claro, coyote con cara de
+paloma. Parece que lo estoy viendo todo, redomado
+hipócrita. Los muchachos del campamento tuvieron
+que familiarizarse con los jeroglíficos. “El estómago
+con los dos huesos”, así decían ellos del signo. Aparecía
+en el camión que llegaba del rancho, dibujado
+con carbón en los sacos de harina y con lápiz en los
+periódicos. En cierta ocasión lo vi nada menos que
+en la espalda del nuevo cocinero que, desde el rancho,
+nos enviaba el viejo McAllister. ¡Que me ahorquen
+si miento!
+—El padre de Santa —lo interrumpió Webb en tono
+amable— la había hecho jurar que no me escribiría
+ni una palabra, y entonces a ella se le ocurrió lo de la
+señal. Un corazón con una cruz. Cuando deseaba
+verme dibujaba el signo no importaba en qué objeto
+del rancho que hubiese de llegar a mi poder. Yo, en
+cuanto lo veía, corría hacia ella siempre aprovechando
+la noche. Nos encontrábamos detrás de la cuadra
+pequeña.
+—Todos lo sabíamos, pero nunca los traicionamos.
+Estábamos de tu parte. Sabíamos por qué tenías siempre
+el caballo a punto, y en cuanto veíamos aparecer
+“el estómago y los dos huesos” en no importa qué
+parte del camino, teníamos la seguridad de que el
+pobre Pinto aquella noche devoraría millas en lugar
+de forraje. ¿Te acuerdas de Scurry, nuestro caballerizo
+intelectual, aquel muchacho universitario que por
+causa del alcohol terminó en el rancho? Pues bien,
+cuando veía aparecer la romántica llamada de socorro
+en cualquier cosa que procedía del rancho, alzaba
+una mano, la hacía ondear en el aire, así, de esta
+manera, y exclamaba: “Nuestro amigo Lee Andrews
+cruzará a nado nuevamente esta noche el golfo del
+infierno” —dijo Baldy.
+—La última vez que Santa me envió su mensaje
+—explicó Webb— fue porque estaba enferma. Vi la
+señal en cuanto llegué al campamento, y aquella noche
+galopé sobre Pinto a toda velocidad. No la encontré
+aguardando en el sitio de costumbre y entré en la
+casa. Tropecé en la puerta con el viejo McAllister,
+quien me dijo:“¿Vienes buscando la muerte? Pues
+por esta vez te perdono. Acabo de enviar a uno de los
+muchachos en tu búsqueda. Santa te necesita. Entra
+en esa habitación y habla con ella. Luego sal y
+ven a hablar conmigo”.
+“Santa estaba en la cama, muy enferma, pero al
+verme sonrió. Apreté su mano entre una de las mías
+y me senté en su cama sin tener en cuenta el barro,
+las espuelas, la suciedad… y todo lo demás.
+“—Te he estado oyendo cabalgar sobre el césped
+durante horas, Webb —dijo ella entonces—. Estaba
+segura de que vendrías. ¿Viste la señal? —añadió en
+un susurro.
+“—En cuanto llegué al campamento —le aseguré—.
+Precisamente en el saco de patatas y cebollas.
+“—Van siempre juntos en la vida —dijo Santa dulcemente—,
+siempre juntos.
+“—Sí —respondí—. Sobre todo en el estofado.
+“—Me refería a nuestro signo —protestó Santa—.
+Corazones y cruces. Amor y sufrimiento. ¿Cómo no
+lo comprendes?
+“El viejo doctor Musgrove estaba allí también, al
+parecer muy ocupado bebiendo whisky y abanicándose
+con un pay-pay. De pronto, Santa se durmió. El
+médico fue a poner una mano sobre su frente y añadió
+mirándome:
+“—Reconozco que eres un buen calmante, pero el
+tratamiento no te incluye como medicina para ser
+tomada a dosis. En cuanto a ella, estará mejor cuando
+despierte.
+“Al salir volví a encontrar a McAllister.
+“—Se ha dormido —dije—. Ahora, si quiere convertirme
+en colador, decídase y empiece. Puede hacerlo
+con tranquilidad. Dejé el revólver en la silla de mi
+caballo.
+“El viejo se echó a reír para responder:
+“—Llenar de plomo la cabeza del mejor ranchero de
+Texas no me parece buen negocio. ¿Dónde encontraría
+un capataz tan bueno como tú? Lo que me molesta
+y me hace desear usarte de blanco es la posibilidad
+de que fueses mi yerno. No eres, en mi opinión, pariente
+deseable, pero puedes seguir trabajando en el
+rancho Nopalito, si te quedas fuera del radio de acción
+que tiene esta casa desde su punto central. Vete
+arriba y échate un rato. Cuando hayas descansado
+volveremos a hablar del asunto”.
+Baldy Woods se encasquetó mejor el sombrero y
+estiró bien la pierna encima de su cabalgadura. Webb
+tiró de las riendas de su caballo que se agitó, ansioso
+por partir. Ambos amigos cambiaron un apretón de
+manos al estilo del oeste.
+—Adiós, Baldy —dijo Webb—, me alegro de haberte
+visto y de haber charlado contigo.
+Con súbito estallido, semejante al que pudiera producir
+una bandada de codornices al emprender el vuelo,
+los dos jinetes se alejaron al galope por distintas
+sendas. Habría recorrido unas cien yardas cuando, al
+alcanzar una pequeña loma desnuda de vegetación,
+Baldy tiró de las riendas y lanzó un grito. Seguidamente
+vaciló en su cabalgadura. De haber estado de
+pie habría sin duda caído al suelo, pero a caballo era
+maestro del equilibrio, se reía del whisky y despreciaba
+el propio principio de la gravedad.
+Al oír la llamada, Webb se volvió hacia atrás en su
+silla.
+—Yo, en tu lugar —gritó con estridente y perversa
+voz su amigo Baldy—, sería rey.
+A las ocho de la mañana siguiente, Bud Turner desmontó
+ante el rancho Nopalito y avanzó bamboleándose,
+con el consiguiente estruendo, hacia la galería.
+Bud era el individuo encargado de conducir las reses
+que habían de enviarse aquel día a San Antonio. La
+señora Yeager estaba en la galería regando una mata
+de jacinto plantada en una maceta de tierra roja.
+Su Majestad, McAllister, había legado a su hija
+muchas características especiales, por ejemplo: su
+decisión, su optimismo y valor, su tenaz seguridad
+propia y su orgullo por ser monarca reinante en aquel
+dominio de cascos y cuernos… El tiempo y el tono de
+McAllister fueron siempre allegro y fortissimo, y
+ambos sobrevivían en Santa, solo que en arreglo para
+clave femenina. Físicamente era la fiel imagen de
+aquella madre que hubo de abandonar los pastos del
+rancho por otros verdes más infinitos, antes de que
+el ganado del lugar ganase para este la categoría de
+reino. Tenía la misma figura delgada y fuerte de su
+madre, e igual belleza dulce y serena que suavizaba
+en ella la dureza de la típica mirada autoritaria y el
+aire de real independencia de los McAllister.
+Webb estaba de pie en el extremo final, dando órdenes
+a tres muchachos de distintos campamentos y
+equipos, que se habían trasladado a caballo al rancho
+en busca de instrucciones.
+—Buenos días —dijo Bud con seguridad—, ¿a quién
+dejo los bichos al llegar a la ciudad? ¿A Barber, como
+siempre?
+Responder a esta pregunta era antiguo privilegio de
+la reina. Las riendas principales del negocio, es decir, la
+compra, la venta y el estado de cuentas, quedaron siempre
+en las eficientes manos de ella. Solo el manejo del
+ganado quedaba por completo a cargo del esposo. En
+los días del rey, cuando vivía Su Majestad, McAllister,
+Santa actuaba de secretaria de papá, y en el futuro
+prosiguió su tarea con acierto y buenos beneficios. No
+obstante, esta vez, y antes de que ella pudiese hablar,
+el príncipe consorte dijo con calmuda decisión:
+—Llévalos a los corrales de Zimmerman y Nesbit.
+Días atrás arreglé el asunto con ellos y quedamos de
+acuerdo.
+Bud giró sobre sus talones.
+—¡Espera! —se apresuró a gritar Santa. Luego miró
+a su marido. Una total sorpresa se retrataba en sus
+firmes ojos grises—. Pero, ¿qué es esto, Webb? —preguntó
+con el ceño algo fruncido—. Nunca he trabajado
+con Zimmerman y Nesbit. Desde hace cinco años
+Barber se viene ocupando del ganado de este rancho,
+y no quiero prescindir de sus servicios —se interrumpió
+para volverse hacia Bud Turner y añadir—: Deja
+a Barber todo ese ganado.
+Su tono no podía ser más concluyente.
+Bud contempló imparcialmente un cántaro de agua
+que había cerca, se apoyó más sobre el otro pie y
+empezó a masticar una hoja de mesquite.
+—Quiero que esos bichos sean entregados a Zimmerman
+y Nesbit —dijo Webb con súbita expresión glacial
+en sus ojos azules.
+—¡Qué estupidez! —murmuró Santa impacientándose—.
+Será mejor que te vayas, Bud, si quieres estar
+en Little Elm a mediodía. Di a Barber que dentro
+de un mes enviaremos una nueva partida de reses.
+Bud se permitió una significativa ojeada en dirección
+a Webb, y tropezó con la mirada de este. Webb
+vio que en sus ojos se retrataba una demanda de
+perdón, pero también creyó adivinar la compasión en
+ellos.
+—Entregue ese ganado a… —comenzó a decir en
+tono sombrío.
+—A Barber —terminó con dureza Santa—. Y terminemos
+de una vez. ¿Qué esperas ahora, Bud?
+—Nada, nada, señora —respondió él.
+Lo dijo, pero siguió quieto allí, todavía un instante;
+el tiempo que habría empleado una vaca en mover
+tres veces la cola. Porque los hombres son aliados
+siempre y hasta los filisteos debieron de ruborizarse
+al arrastrar consigo a Sansón.
+—¡Ya oíste al jefe! —gritó Webb, irónico, quitándose
+el sombrero para inclinarse ante su esposa hasta rozar
+el suelo con el ala de aquel.
+—¡Webb! —dijo Santa molesta—, hoy te estás comportando
+como un estúpido.
+—Un estúpido cortesano, majestad —respondió
+Webb en voz baja y tono desacostumbrado—. ¿Qué
+otra cosa podías esperar de mí? Si me permites te
+diré algo: antes de casarme con la reina del ganado
+era un hombre. ¿Qué soy ahora? El hazmerreír de
+todos los campamentos de los alrededores. Pero ahora
+seré un hombre otra vez.
+Santa se acercó a mirarlo y dijo con calma:
+—No seas tonto, Webb. De ti nadie se ha burlado
+nunca. ¿Me meto en tu manejo del ganado? En cambio,
+conozco el negocio mucho mejor que tú. Aprendí
+de papá. Compréndelo.
+—Los reyes y reinas no me interesan, si a mí se me
+suprime del tablero. Cuido del ganado y tú llevas la
+corona. Prefiero ser primer canciller de un rancho de
+vacas, que lacayo en la corte de una soberana. El
+rancho es tuyo y las reses serán para Barber.
+Webb tenía el caballo atado a la barandilla. Fue al
+interior de la casa y salió llevando el rollo de mantas
+que solo cogía cuando iba a cabalgar largo rato. También
+llevaba una gran soga de cuero trenzado y un
+revólver que ató con cuidado sobre la silla de su cabalgadura.
+Algo pálida, Santa echó a andar tras él.
+Webb saltó sobre su montura. Su rostro dulce y serio
+carecía de expresión. Solo en sus ojos brillaba un
+resplandor obstinado.
+—Hay un rebaño de terneras y vacas cerca de la
+gruta de Hondo, en el Frío. Es necesario protegerlo,
+pues abundan los lobos por allí. Han muerto ya tres
+terneras. Olvidé dejar instrucciones concretas. Será
+mejor que encargues a Simms del asunto.
+Santa puso una mano sobre la brida del caballo y
+miró a su marido a los ojos.
+—¿Has decidido dejarme, Webb? —preguntó con
+calma.
+—Pienso ser un hombre otra vez —respondió él.
+—Deseo que tu maravilloso plan se cumpla —dijo
+ella con súbita frialdad. Luego le dio la espalda y entró
+en la casa.
+Webb Yeager cabalgó en dirección sudeste, por ruta
+tan recta como la topografía del oeste de Texas podía
+permitir, y con respecto a las noticias que acerca de
+su persona llegaron en el futuro al rancho Nopalito,
+fue como si al alcanzar la línea del horizonte, se lo
+hubiese tragado el cielo azul. Así, los días, con el domingo
+siempre a la cabeza, fueron formando algo
+parecido a escuadrones en sucesivo desfile semanal,
+mientras que las semanas, con la luna llena por capitán,
+se agrupaban en periódicas compañías llevando
+todas el mismo estandarte con esta inscripción:
+Tempus fugit. Por último, los meses avanzaron sin
+remedio hacia el inmenso campamento de los años,
+sin embargo, Webb Yeager no volvió a los dominios
+de la reina.
+Cierto día, un individuo llamado Bartholomew —de
+oficio pastor de ovejas y, por lo tanto, poco importante—
+que procedía de la región inferior de Río Grande,
+pasaba a caballo ante el rancho Nopalito y sintió hambre.
+No tardó en hallarse sentado a la mesa de tan
+hospitalaria mansión, a la hora de la comida del mediodía.
+Charlaba por los codos, cosa bien lógica, pues,
+además de gustarle hablar, tenía un auditorio con el
+oído atento a cuanto decía.
+—Señora Yeager —balbuceó—, el otro día en Rancho
+Seco, más allá de Hidalgo County, vi a un hombre
+que se llamaba como usted. Webb Yeager es su
+nombre. Acababan de nombrarlo encargado general.
+Un individuo alto, delgado, de pocas palabras. Tal
+vez sea pariente suyo, ¿no?
+—Mi marido —dijo Santa con amabilidad—. Rancho
+Seco hizo un buen negocio. El señor Yeager es el hombre
+que más entiende en ganado de todo el oeste.
+La desaparición de un príncipe consorte pocas veces
+desorganiza una monarquía. Su majestad, la reina
+Santa, había nombrado mayordomo del rancho a un
+individuo de toda su confianza llamado Ramsay, antiguo
+y fidelísimo vasallo de su padre. Y todo en el rancho
+Nopalito se conservó tranquilo, a excepción de la
+superficie de sus inmensas extensiones de césped, que
+alteraba y ondulaba alguna vez la fuerte brisa.
+Desde algunos años atrás, el rancho Nopalito realizaba
+experimentos con un ganado de especial raza
+inglesa, cuyos ejemplares miraban con desprecio aristocrático
+a las reses de largos cuernos de Texas. El
+resultado fue satisfactorio y a los animales de sangre
+azul se les reservaron pastos especiales. Su fama se
+había extendido por el chaparral, y en todo lugar por
+donde el hombre transitaba sobre una silla de montar.
+Solo entonces despertaron otros muchos ranchos
+para restregarse los ojos y mirar con desagrado creciente
+a sus animales de largos cuernos.
+Como consecuencia, un día determinado, cierto
+muchacho alegre y tostado por el sol, con un pañuelo
+de seda al cuello y el aire de eficiencia, bien
+equipado de revólver y acompañado por tres vaqueros
+mexicanos, se presentó en el rancho Nopalito
+llevando una misiva dirigida a la reina. Era una carta
+comercial y decía así:
+Señora Yeager
+Rancho Nopalito
+Muy señora mía:
+Por orden de los dueños de Rancho Seco, me dirijo
+a usted para adquirir cien cabezas de ganado de
+dos a tres años de edad, raza especial sussex
+de su propiedad. Si la operación le parece conveniente,
+sírvase entregar el ganado al portador con
+la seguridad de que el cheque correspondiente le
+será remitido sin tardanza.
+Muy atentamente la saluda,
+WEBBER YEAGER
+ENCARGADO GENERAL DE RANCHO SECO
+El negocio es el negocio aunque sea —por milagro se
+ha escrito sobre todo— en un reino.
+Aquella misma noche se trasladaron cien cabezas
+de ganado de los pastos especiales al corral más cercano
+al rancho, para ser entregados a la mañana siguiente.
+Cuando se hizo oscuro y el silencio reinaba en la
+casa, Santa Yeager se dejó caer sobre el lecho apretando
+la carta contra el pecho, llorando, repitiendo
+un nombre que el orgullo —no importa si de ella o si
+de él— había mantenido alejado de sus labios durante
+mucho tiempo. ¿Fue en realidad así? ¿O fue aquella
+una manera especial de archivar la misiva conservando
+su real equilibrio y su fuerza?
+Sigan haciéndose la pregunta si lo desean, pero la
+realeza es sagrada y hay que correr un velo. Sepan,
+sin embargo, lo que se expone a continuación:
+A medianoche, Santa salió misteriosamente del rancho;
+vestía algo sencillo y oscuro. Se detuvo un momento
+bajo las encinas. Los campos estaban en penumbras
+y la luna, de color naranja, parecía diluirse
+entre retazos de impalpable y escurridiza niebla. Sin
+embargo, el sinsonte silbaba en los altos ramajes, el
+aire tenía perfume de flores y un grupo de pequeños
+conejos, que casi parecían sombras, jugaban y corrían
+por un claro cercano como si estuvieran en un jardín
+de la infancia. Santa volvió la cara hacia el sudeste y
+echó unos besos al vacío, ya que en aquellos momentos
+nadie podía verla.
+Luego, se encaminó deprisa y en silencio hacia la
+herrería situada a unas cincuenta yardas de distancia.
+Lo que allí hizo solo puede ser imaginado, pero el
+caso es que la fragua brilló muy roja y se oyó un ligero
+martilleo, igual que el que pudiera producir Cupido
+al afilar las flechas de su arco.
+Por último salió; llevaba consigo en una mano un
+objeto de extraña forma, en la otra un hornito portátil
+de esos que suelen usarse para el marcaje de las
+57
+reses en los campamentos destinados a este menester.
+Con las dos manos así ocupadas, fue rauda, bajo
+la luz de la luna, hacia el corral del ganado sussex.
+Abrió la verja y entró en el corral. El ganado era
+casi todo color rojo oscuro, pero había entre las reses
+un toro blanco como la leche que se destacaba entre
+los demás.
+Santa cogió entonces en una mano algo que llevaba
+sobre el hombro, y que hasta entonces había permanecido
+en la sombra. Era un lazo que procedió a preparar,
+en forma adecuada, con la ayuda de la otra
+mano, para lanzarlo, por último, hacia las reses.
+El animal blanco era sin duda su objetivo. El lazo lo
+aprisionó por un cuerno y luego cayó al suelo. Al ser
+arrojado por segunda vez, se cerró alrededor de las
+patas delanteras del animal que se desplomó pesadamente.
+Santa cayó como una pantera sobre su presa,
+pero esta, al defenderse, la tiró como si fuese una
+brizna de hierba.
+La mujer arrojó el lazo por tercera vez mientras que
+el ganado, desvelado ahora, se agitaba por todos los
+extremos del corral como una masa uniforme saltando
+al unísono. El tiro ahora fue efectivo. La res blanca
+cayó al suelo otra vez. Sin darle tiempo a que se
+alzase, Santa ligó el otro extremo del lazo a un poste
+de la empalizada, haciendo un nudo sencillo y rápido
+para luego precipitarse sobre su víctima y ligar, con
+dos tiras de cuero, sus patas.
+No tardó más de un minuto en dejarlas atadas. Luego,
+se apoyó en la empalizada y quedó inmóvil por un
+espacio igual de tiempo, fatigada, jadeante.
+Por último corrió hacia el hornito que había dejado en
+el suelo, para volver enseguida llevando el hierro de
+marcaje, con extraña forma, completamente candente.
+Los berridos de la pobre bestia blanca, al serle aplicado
+el hierro, bien pudieron herir los nervios del oído
+y también las conciencias de los vecinos de Nopalito,
+pero no fue así. Siguieron durmiendo y, en medio de
+un profundo silencio nocturno, volvió Santa al rancho
+para tumbarse sobre el lecho y sollozar. Sollozar
+como si las reinas tuvieran corazón, al igual que tienen
+las sencillas esposas de los rancheros, y como si
+estuviera dispuesta a nombrar rey al príncipe consorte,
+si se presentase de pronto a caballo procedente
+de lejanas montañas.
+A la mañana siguiente el eficiente y decidido mensajero
+partió, en compañía de sus vaqueros, para conducir
+el seleccionado ganado sussex a través de los
+campos hasta Rancho Seco. El trayecto era de noventa
+millas, lo cual significaba un viaje de seis días,
+teniendo en cuenta que las reses habían de comer y
+beber en el camino.
+Los animales llegaron al lugar de destino un atardecer,
+cuando anochecía. El capataz del rancho contó
+el número de reses y se hizo cargo de ellas.
+A las ocho de la mañana siguiente, un hombre montó
+sobre su caballo para lanzarse al galope hacia el rancho
+Nopalito. Una vez ante la casa desmontó y se
+precipitó hacia el interior, con el consiguiente entrechocar
+de espuelas. Su caballo suspiró hondamente
+y, tragando espuma, inclinó la cabeza y cerró los ojos.
+Pero, ¿a qué perder el tiempo con Belshazzar, un
+pobre alazán lleno de pulgas? En la actualidad, sigue
+viviendo en el rancho Nopalito, corre libre por los
+pastos para caballos, y está gordo, mimado. Se le conserva
+como vestigio amado de muchas y muy largas
+correrías.
+El jinete entró en la casa. Alguien le echó los brazos al
+cuello y una voz de mujer, por cierto majestuosa, gritó:
+—¡Webb…! ¡Oh, Webb!
+—He sido un idiota —dijo Webber Yeager.
+—Calla —murmuró Santa. Y enseguida—: ¿Lo viste?
+—Lo vi —afirmó Webb.
+Solo Dios sabía de qué hablaban, pero todos van a
+saberlo si prosiguen con la lectura de los hechos.
+—Sigue siendo la reina del ganado, y olvida, si es
+que puedes, lo pasado. Me porté como un malvado
+coyote sarnoso.
+—Cállate —dijo Santa de nuevo poniendo uno de
+sus dedos en la boca de él—. Se acabaron las reinas
+aquí. ¿Es que no sabes quién soy? Hablas con Santa
+Yeager, primera dama de alcoba. Sígueme.
+Lo arrastró por la galería hasta entrar en la habitación
+de la derecha, en cuyo interior había una cuna
+con una criatura pequeña. Un chiquillo colorado y
+charlatán, aunque de lenguaje ininteligible, verdaderamente
+hermoso, babeaba de manera increíble a la
+propia vida.
+—Se acabaron las reinas en este rancho —volvió a
+decir Santa—. Aquí tienes al rey; con tus ojos, Webb.
+Vamos, arrodíllate y contempla a su alteza.
+No obstante, en este momento se oyó el entrechocar
+de unas espuelas por la galería, y una vez más
+entró, casi tambaleándose, Bud Turner, portador del
+mismo mensaje que lo llevó a aquel sitio un año atrás.
+—Buenos días. Tengo listos los bichos. ¿Hay que
+llevarlos a Barber, o…?
+Entonces vio a Webb y se interrumpió, boquiabierto.
+—Ba-ba-ba-ba-ba-ba —gritó el rey en su cuna, azotando
+el aire con los puños.
+—Ya oíste al jefe, Bud —dijo Webb Yeager con una
+amplia sonrisa burlona, repitiendo exactamente lo que
+había dicho un año atrás.
+Y esto fue todo, solo que cuando el viejo Kuinn,
+dueño de Rancho Seco, fue a examinar las reses del
+ganado sussex que había comprado al rancho Nopalito,
+vio algo que le hizo preguntar al nuevo encargado
+general.
+—¿Qué marca tienen los de Nopalito, Wilson?
+—Una S, una barra y una Y.
+—Lo que me suponía —admitió Kuinn—, pero, mira
+ese novillo blanco. Tiene otra marca. Fíjate…, un corazón
+con una cruz adentro. ¿Qué marca es esa?
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

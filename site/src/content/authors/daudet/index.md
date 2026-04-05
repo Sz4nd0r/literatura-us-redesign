@@ -7,4 +7,58 @@ tags:
   - index
   - daudet
 ---
-¿Quién es Alphonse Daudet? ![Alphonse Daudet](/assets/images/ad.jpg) Alphonse Daudet es un narrador, poeta y dramaturgo francés. Nació en el 13 de mayo de 1840, en Nîmes, entre el mar Mediterráneo y las montañas de Cévennes, en Francia. Su familia pertenecía a la burguesía; pero el negocio de la familia, que se dedicaba al comercio de la seda, fracasó y terminaron en ruinas, lo que conllevó el traslado a Lyon. Daudet tuvo una infancia deprimente. Después de sus estudios en Lyon, comenzó su carrera como maestro de escuela en Alès, Gard; pero la experiencia era intolerable, así que abandonó la enseñanza, el 1 de noviembre de 1857. Se refugió con su hermano Ernest Daudet, quien era periodista en París, y empezó a escribir poemas, los que publicó el año siguiente en Les Amoureuses (1858). Entonces obtuvo empleo en el periódico Le Figaro, y empezó a escribir obras de teatro. Charles Auguste Louis Joseph Demorny de Morny, el todopoderoso ministro de Napoleón III y presidente del cuerpo legislativo, lo designó para ser uno de sus secretarios, puesto que ocupó hasta la muerte de Morny, en 1865. En 1861, publicó La Double Conversion, una colección de cuentos en versos; pero el libro, de 63 páginas, no tuvo mucho éxito, aunque luego se publicaron tres ediciones (1873, 1887 y 1893). Después de este libro, con la excepción de algunos poemas ocasionales publicados en periódicos y en revistas, nunca más publicó poesía. Ya con un poco de reconocimiento como chroniqueur fantaisiste por sus columnas el periódico Le Figaro, Daudet publicó Le Roman du Chaperon-reouge, “scènes et fantaisies”, en 1862. El libro contenía seis relatos, y llamó la atención de escritores y críticos, incluyendo M. Jules Lemaître. Ese mismo año, con Michel Lévy Frères, publicó La Dernière Idole, una obra de teatro en un acto. La obra se presentó en el teatro Odéon, el 4 de febrero de 1862, mientras Daudet estaba en Argelia. La obra no fue un fracaso absoluto, pero no tuvo éxito. En 1863, dio a conocer una segunda edición ampliada (de 64 a 100 páginas) de Les Amoureuses y publicó Les Absents (43 páginas), un proverbio. Les Absents fue representada en la Opéra-Comique, el 26 de octubre de 1964 y el año siguiente se publicó como ópera cómica en un acto, con letras de Daudet y música de M. Ferdinand Poise. Dos obras de teatro, escritas con Ernest Lépine, serían representadas en 1865 y 1867: L’Œillet blanc (Théâtre-Français, 8 de abril de 1865) y Le Frère aîné (théâtre du Vaudeville, 19 de diciembre de 1867). En 1866, Daudet publicó Lettres de mon Moulin. Impressions et Souvenirs, una colección de relatos que aludían al molino de viento Saint-Pierren, en Fontvieille (Bouches-du-Rhone), Provenza. El libro fue una sensación. En 1867, Daudet se casó con la periodista, ensayista y poeta Julia Allard, autora de Impressions de nature et d’art (1879) y compilaciones de estudios literarios, escritos para el Journal Officiel, bajo el seudónimo “Karl Steen”. Un año más tarde, en 1868, publicó el primero de sus libros más extensos, Le Petit Chose, Histoire d’un Enfant, originalmente publicado, en entregas, en Petit Moniteur Universel, a partir del 27 de noviembre de 1866; pero no tuvo el mismo éxito. A la Le Petit Chose, Histoire d’un Enfant le siguieron la novela Tartarin de Tarascon (1872) y la obra de teatro, en tres actos, L’Arlésienne. También publicó Contes du lundi (1873), con éxito. Pero no fue hasta la publicación de Fromont jeune et Risler aîné (1874) que llegó el reconocimiento, ya no solo en Francia o en Inglaterra sino también a nivel universal. Su siguiente novela sobre un niño ilegítimo y mártir del egoísmo de su madre, Jack (1976), profundizó su reputación. Entonces, se dedicó principalmente a escribir novelas: Le Nabab (1877), Les Rois en exil (1879), Numa Roumestan (1881), Sapho (1884), L’Immortel (1888). Sin embargo, aunque Daudet adquirió fama y fortuna por sus novelas, los cuentos, escritos en su mayor parte antes de la fama, constituyen su obra vital. Como otros escritores franceses, Daudet tenía sífilis. Se sometió a varios tratamientos y operaciones dolorosas, sin éxito. Murió en París el 16 de diciembre de 1897. Apenas tenía 57 años. ÍNDICE: Narrativa: Lettres de mon Moulin (1869, 1879, 1884, 1887): —La diligence de Beaucaire (1968) —El secreto de maese Cornille (1866) —La cabra del señor Seguin (1866) —La arlesiana (1866) —La mula del Papa (1868) —El Faro de las Sanguinarias (1869) —La agonía del “semillante” (1866) —Los aduaneros (1873) —Los Viejos (1868) Ballades en prose: —I. La muerte del Delfín (1866) —II. El subprefecto en el campo (1866) —El hombre de la sesera de oro (1866) —El poeta Mistral (1866) [—Las tres misas (1875)] Contes du Lundi (1873, 1876, 1879, 1890): Première partie: La Fantaisie et l’Histoire: —La última clase (1873) —El niño espía (1876) —El sitio de Berlín (1876) —El mal zuavo (1873) —El prusiano de Belisario (1876) —El abanderado (1873) —Las hadas de Francia (1873) Deuxième partie: Tableaux parisiens: —Las tres misas (1875) Robert Helmont: études et paysages (1874): —El señor Achille (1872) —Wood’stown (1873) —Salvette y Bernadou (1873) —El Buen Dios de Chemillé, que no está ni a favor ni en contra (1872) La Belle-Nivernaise. Histoire d’un vieux bateau et de son équipage (1886): —El nuevo maestro (1886) 
+
+## Biografía
+
+![Alphonse Daudet](/assets/images/ad.jpg)
+
+**Alphonse Daudet** fue un narrador, poeta y dramaturgo francés, uno de los escritores más populares de su tiempo. Nació el 13 de mayo de 1840 en Nîmes. Tras el fracaso del negocio familiar de seda, se trasladó a Lyon y luego a París, donde se refugió con su hermano Ernest, también periodista.
+
+Su carrera literaria comenzó con el poemario *Les Amoureuses* (1858) y colaboraciones en el periódico *Le Figaro*. Trabajó como secretario de Charles de Morny, presidente del cuerpo legislativo de Napoleón III, hasta 1865. Aunque se inició con la poesía y el teatro, fue su colección de relatos *Lettres de mon Moulin* (*Cartas desde mi molino*, 1866) la que le dio fama universal por su frescura y evocación de la vida en la Provenza.
+
+Casado con la escritora Julia Allard, Daudet publicó novelas de gran éxito como *Tartarin de Tarascon* (1872), *Fromont jeune et Risler aîné* (1874) y *Jack* (1876). A pesar de su éxito como novelista, sus cuentos y relatos breves son considerados hoy como la parte más vital y perdurable de su obra. Sufrió de sífilis gran parte de su vida adulta y murió en París el 16 de diciembre de 1897, a los 57 años.
+
+## Índice
+
+### Cuentos
+
+#### *Cartas desde mi molino* (1869)
+- La diligencia de Beaucaire (1868)
+- El secreto de maese Cornille (1866)
+- La cabra del señor Seguin (1866)
+- La arlesiana (1866)
+- La mula del Papa (1868)
+- El Faro de las Sanguinarias (1869)
+- La agonía del «Semillante» (1866)
+- Los aduaneros (1873)
+- Los Viejos (1868)
+
+**Baladas en prosa**
+- I. La muerte del Delfín (1866)
+- II. El subprefecto en el campo (1866)
+- El hombre de la sesera de oro (1866)
+- El poeta Mistral (1866)
+- Las tres misas (1875)
+
+#### *Cuentos del lunes* (1873)
+
+**Primera parte: La fantasía y la historia**
+- La última clase (1873)
+- El niño espía (1876)
+- El sitio de Berlín (1876)
+- El mal zuavo (1873)
+- El prusiano de Belisario (1876)
+- El abanderado (1873)
+- Las hadas de Francia (1873)
+
+**Segunda parte: Cuadros parisienses**
+- Las tres misas (1875)
+
+#### *Robert Helmont: estudios y paisajes* (1874)
+- El señor Achille (1872)
+- Wood’stown (1873)
+- Salvette y Bernadou (1873)
+- El Buen Dios de Chemillé (1872)
+
+#### *La Belle-Nivernaise* (1886)
+- El nuevo maestro (1886)

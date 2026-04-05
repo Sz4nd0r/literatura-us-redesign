@@ -1,0 +1,161 @@
+---
+layout: story
+title: El hombre inmortal
+slug: hombre
+source: https://www.literatura.us/idiomas/dhl/hombre.html
+tags:
+  - hombre
+  - dhl
+---
+D. H. Lawrence
+(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
+El hombre inmortal (1927)
+(“The Undying Man”)
+Phoenix: The Posthumous Papers of D. H. Lawrence
+Ed. Edward D. MacDonald
+(Nueva York: Viking Press, 1936, 852 págs.), págs. 808-810.
+Hace mucho tiempo hubo en España dos
+hombres muy doctos, tan inteligentes y con tantos conocimientos que eran
+famosos en todo el mundo. Uno de ellos era llamado el rabino Moisés Maimónides,
+un judío —¡bendita sea su memoria!—, y al otro lo llamaban Aristóteles, un
+cristiano perteneciente a los griegos.
+Esos dos hombres eran grandes amigos,
+porque siempre habían estudiado juntos, y descubierto juntos muchas cosas. Por
+fin, al cabo de muchos años, descubrieron una cosa que habían perseguido
+especialmente. Descubrieron que si se toma una pequeña vena del cuerpo de un
+hombre, y se pone en un jarro de vidrio con ciertas hojas y plantas, empezará a
+crecer gradualmente, y seguirá creciendo y creciendo hasta convertirse en un
+hombre. Cuando ha crecido al tamaño de un niño, se puede sacar del jarro, y
+entonces vivirá y seguirá creciendo hasta convertirse en un hombre, un hermoso
+hombre que jamás morirá. Sería inmortal. Ya que, no habiendo jamás nacido,
+jamás moriría, sino que viviría por siempre. Ya que los hombres más sabios de
+la tierra le habrían hecho, y no habría tenido que nacer.
+Cuando estuvieron completamente seguros
+de que esto era cierto, el rabino Moisés Maimónides y el cristiano Aristóteles
+decidieron hacer realmente un hombre. Hasta entonces, sólo habían experimentado.
+Pero ahora harían el auténtico hombre inmortal.
+La cuestión era: ¿de quién tomar la
+pequeña vena? Porque el hombre del que se tomara moriría. De modo que, al
+comienzo, decidieron tomarla de un esclavo. Pero luego pensaron que un esclavo
+no era lo bastante bueno para servir de punto de partida al hombre inmortal.
+Así que decidieron pedir a alguno de sus fieles discípulos que se sacrificara.
+Pero aquello tampoco les pareció bien, porque podían de este modo obtener un
+hombre que no les gustara del todo, y al que no quisieran como origen del
+hombre que jamás moriría. Así que, finalmente, decidieron dejar la decisión a
+la suerte; reunieron a sus mejores y más doctos discípulos, y todos estuvieron
+de acuerdo en echar suertes. La suerte señaló a Aristóteles, y la pequeña vena
+se obtendría de su cuerpo.
+Así, Aristóteles tuvo que aceptar. Pero
+antes de que le cortaran del cuerpo la pequeña vena, Aristóteles pidió a
+Maimónides que le tomara la mano y le jurara, por sus manos enlazadas, que
+jamás se interferiría con el crecimiento de la pequeña vena, jamás, en ningún
+momento y de ninguna manera. Maimónides le tomó de la mano y juró. Y entonces a
+Aristóteles le cortó la pequeña vena del cuerpo el propio Maimónides.
+Así que entonces Maimónides, ya solo,
+tomó la pequeña vena y la colocó entre las hojas y las hierbas, según lo que
+habían descubierto, dentro de un gran jarro de vidrio; y cerró el jarro. Luego
+puso el jarro en un anaquel, en su propia habitación, donde nadie entraba sino
+él, y esperó. Pasaron los días, y él recitaba sus oraciones, caminando arriba y
+abajo por su habitación, y rezando en voz alta mientras caminaba, como hacen
+los judíos. Luego volvió a sus libros y a su química. Pero cada día miraba el
+jarro, para ver si la pequeña vena había cambiado. Durante mucho tiempo no
+cambió. De modo que pensó que aquello era en vano.
+Luego, finalmente, pareció cambiar, haber
+crecido un poco. El rabino Moisés Maimónides contempló el jarro, atónito, y se
+olvidó de toda otra cosa sobre la ancha tierra; perdido para todos y para todo,
+contemplaba el jarro. Y, finalmente, vio un tenue, muy tenue temblor en la
+pequeña vena, y supo que era un temblor de crecimiento. Cayó al suelo y quedó
+sin sentido, porque había visto el primer temblor del crecimiento del hombre
+inmortal.
+Cuando volvió en sí, la habitación estaba
+oscura, era casi de noche. Y el rabino Moisés Maimónides estaba asustado. No
+sabía de qué estaba asustado. Se puso en pie y miró hacia el jarro. Y le
+pareció que, en las tinieblas del anaquel, había un débil resplandor rojo, como
+el ascua más pequeña de una hoguera. Pero no desaparecía, como lo hace la
+última ascua de una hoguera mientras se la mira. Permanecía, y brillaba un
+tenue resplandor moribundo que no moría. Entonces supo que estaba viendo el
+resplandor de la vida del hombre inmortal, y tuvo miedo.
+Cerró con llave su habitación, a la que
+nadie entraba sino él, y salió a la ciudad. La gente le saludaba con venias y
+reverencias, porque era el más docto de los rabinos. Pero aquella noche todos
+le parecían muy lejos de él. Los veía pequeños, y, a sus ojos, hacían muecas
+como los monos. Y pensaba para sí: ¡todos morirán! ¡Hacen muecas de este modo,
+como los monos, porque todos morirán! ¡Sólo yo no moriré!
+Pero, mientras pensaba esto, le dio un
+vuelco el corazón, porque se dio cuenta de que también él moriría. Se quedó
+inmóvil en plena calle, a pesar de que llovía, y la gente pasaba
+respetuosamente por su lado, creyendo que estaba recitando alguna gran
+plegaria. Pero él sólo estaba encerrado en un único pensamiento: yo moriré, me
+disiparé, pero esa pequeña chispa roja que procede de Aristóteles, el
+cristiano, jamás morirá. Vivirá por siempre y para siempre, como Dios. Tan sólo
+Dios vive por siempre y para siempre. Pero este hombre del jarro también vivirá
+por siempre y para siempre, incluso esa chispa roja. Será un hombre, y vivirá
+por siempre y para siempre, igual que Dios. ¡No, mejor que Dios! ¡Ya que, sin
+duda, valer tanto como Dios, y ser un hombre y vivir, eso sería mejor incluso
+que ser Dios!
+El rabino Moisés Maimónides se sintió
+sobresaltado ante esa idea, como si le hubieran pinchado. E inmediatamente se
+puso a caminar por la calle en dirección a su casa, para ver si el resplandor
+rojo brillaba realmente. Cuando llegó frente a su puerta, se quedó inmóvil, con
+miedo a abrir. No podía abrir.
+Así que de repente profirió un tremendo
+grito dirigido a Dios, llamándole a que le ayudara y ayudara a su pueblo. Un
+tremendo grito pidiendo auxilio. Porque ellos eran el pueblo de Dios, el pueblo
+elegido de Dios. Aunque a los ojos de Moisés Maimónides hicieran muecas como
+los monos, eran hermosos a los ojos de Dios, y, en la otra vida, los mejores
+judíos, entre ellos, se sentarían en puestos altos, muy altos, en la eterna
+gloria de Dios.
+Este pensamiento fortaleció tanto a
+Maimónides que abrió la puerta y entró en su habitación. Pero volvió a
+inmovilizarse, como si su cuerpo hubiera sido atravesado por aquella extraña
+luz roja, no parecida a ninguna luz de Dios, que brillaba de un modo tan tenue
+y era, sin embargo, tan terrible y fuerte. “¡Terrible y fuerte! ¡Terrible y
+fuerte!” se murmuraba a sí mismo mientras caminaba arriba y abajo por su
+habitación. “¡Terrible y fuerte!” Siguió andando arriba y abajo. Y él mismo
+creía que estaba rezando. Estaba tan acostumbrado a rezar las oraciones
+rituales mientras caminaba por su habitación, que ahora creía que estaba
+rezando al solo y único Dios. Pero, de hecho, iba diciendo: “¡Terrible y fuerte!
+¡Terrible y fuerte!”
+Finalmente, quedó exhausto; y entonces su
+mujer llamó a la puerta y entró con la bandeja. Pero él le dijo que volviera a
+llevarse la bandeja, porque no comería en su habitación, sino que bajaría al
+comedor. Porque no podía comer en presencia de aquel pequeño resplandor rojo.
+De modo que hizo sus abluciones y bajó a
+comer. Y durmió en la habitación de huéspedes, porque no podía dormir en
+presencia del pequeño resplandor rojo. A decir verdad, no podía dormir en
+absoluto, sino que permanecía tendido, gimiendo en su espíritu, pensando en
+aquella pequeña luz roja que, sola entre todas las luces, no era la luz de
+Dios. Y él sabía que crecería y crecería, y sería un hombre, el más espléndido
+de ellos, un hombre que jamás moriría. Y todo el mundo pensaría: ¿Cuál es la
+más maravillosa de las cosas vistas y no vistas? Y entonces vendría el...
+(sin terminar)
+[Se inserta a continuación el final del
+cuento escrito en yiddish del que el fragmento anterior constituye una
+variación. N. del E.]
+...Al cabo de un tiempo, la pequeña vena
+en el jarro empezó a crecer, y el rabino Moisés Maimónides —¡bendita sea su
+memoria!— se dio cuenta de que el hombre que iba a crecer a partir de la
+pequeña vena y que viviría eternamente sería convertido en un dios por la
+gente: que la gente abandonaría al Dios vivo y serviría al hombre eterno,
+creado por Aristóteles y él mismo. Maimónides se sintió terriblemente desolado
+debido a esto; pero había dado su mano a Aristóteles jurando no interferirse en
+el crecimiento del hombre del jarro, impidiendo de este modo que la pequeña
+vena se convirtiera en el hombre eterno. Cuanto más percibibles fueron los
+signos de que la pequeña vena se convertía en un hombre, tanto más pesaroso y
+desolado se sintió Maimónides, porque ya no tenía dudas en cuanto a que la
+gente convertiría al hombre eterno en Dios, y lo serviría y lo adoraría.
+Después de muchos meses de reflexión, plegaria y ayuno, Maimónides llegó a una
+determinación. Dijo a los sirvientes que pusieran dentro de la habitación,
+donde oraba y estudiaba, y donde, sobre un anaquel, estaba el jarro con la
+pequeña vena, todas las gallinas y gallos de su casa. Luego, Maimónides se puso
+su largo manto de oraciones; y, como tenía la costumbre de caminar por la
+habitación mientras rezaba, en cuanto empezó a rezar los gallos y gallinas se
+asustaron por la ondulación del manto y se pusieron a saltar y volar por la
+habitación. Finalmente, un gran gallo saltó sobre el anaquel en el que estaba
+el jarro, y volcó el jarro. El jarro cayó al suelo y se rompió en pedazos. Y
+cuando Maimónides vio que la frágil criaturilla le apuntaba con un dedo, como
+señal de que había quebrantado su juramento a Aristóteles, Maimónides lloró
+amargamente, y todo el resto de su vida rezó por su perdón.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

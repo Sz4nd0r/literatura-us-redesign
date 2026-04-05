@@ -1,0 +1,79 @@
+---
+layout: story
+title: La corista
+slug: ac_corista
+source: https://www.literatura.us/idiomas/ac/ac_corista.html
+tags:
+  - ac_corista
+  - ac
+---
+Antón Chéjov
+(Ucrania, 1860 - Alemania, 1904)
+La corista (1886)
+(“Хористка”)
+Originalmente publicado, como “Una cantante”, en Fragmentos,
+Núm. 27 (5 de julio de 1886);
+Obras completas (vol. II, con el título actual)
+Un día, cuando era más joven y guapa y tenía mejor voz, estaba sentado en la planta baja de su dacha Nikolái Petróvich Kolpakov, su rendido admirador. Hacía un calor molesto y sofocante. Kolpakov acababa de comer, se había bebido una botella entera de un vino malo, estaba de mal humor y no se sentía bien. Los dos se aburrían y esperaban a que remitiese el calor para salir a dar un paseo.
+De pronto, inesperadamente, llamaron a la puerta. Kolpakov, que estaba sin levita y en zapatillas, se levantó y miró a Pasha con un gesto de interrogación.
+—Debe ser el cartero o quizás una amiga —dijo la cantante.
+Kolpakov no sentía reparos en que le viesen las amigas de Pasha o el cartero, pero, por si acaso, cogió su ropa y se marchó a la habitación contigua mientras Pasha iba a abrir la puerta. Con gran asombro, no vio en el umbral de la puerta ni al cartero ni a una amiga, sino a una desconocida, joven, hermosa y vestida con elegancia; a juzgar por su apariencia, era una mujer decente.
+La desconocida estaba pálida y respiraba con dificultad, como sofocada de subir una alta escalera.
+—¿Qué desea? —preguntó Pasha.
+La señora no contestó al momento. Dio un paso adelante, miró lentamente alrededor de la habitación y se sentó como si no pudiera mantenerse de pie por el cansancio o por sentirse indispuesta; luego movió un buen rato sus pálidos labios, tratando de decir algo.
+—¿Está mi marido en su casa? —preguntó por fin, levantando hacia Pasha sus grandes ojos, con los párpados enrojecidos y llorosos.
+—¿Qué marido? —murmuró Pasha y de pronto se asustó tanto que se le helaron las manos y los pies—, ¿Qué marido? —repitió, echando a temblar.
+—Mi marido… Nikolái Petróvich Kolpakov.
+—No…, no está, señora… No conozco a su marido.
+Hubo un silencio. La desconocida se pasó varias veces un pañuelo por los pálidos labios y, para vencer su temblor, contuvo el aliento. Pasha permanecía inmóvil ante ella, como petrificada, y la miraba asustada y perpleja.
+—¿Dice que no está aquí? —preguntó la señora, ya con voz firme y una extraña sonrisa.
+—Yo… no sé por quién pregunta.
+—Miserable, canalla, asquerosa… —balbuceó la desconocida, mirando a Pasha con odio y repugnancia— ¡Sí, sí… es una miserable. Me alegro mucho, mucho… de podérselo decir por fin a la cara!
+Pasha sentía que a esa dama vestida de negro, de ojos coléricos, y finos y blancos dedos, ella le producía una impresión pésima y repugnante, y se avergonzó de sus orondas y sonrosadas mejillas, de su nariz picada de viruelas, del flequillo en la frente, que nunca conseguía peinar hacia arriba. Le pareció que si fuese delgada, sin pintar y sin flequillo, habría podido ocultar que no era una mujer decente, y no le habría dado tanto miedo y vergüenza estar ante aquella señora desconocida y misteriosa.
+—¿Dónde está mi marido? —prosiguió la señora—. Me da igual que esté aquí o no, pero debo decirle a usted que se ha descubierto un desfalco y buscan a Nikolái Petróvich… Le quieren arrestar. ¡Mire lo que ha hecho!
+La señora se levantó y, muy agitada, empezó a deambular por la habitación. Pasha la miraba sin comprender nada a causa del miedo.
+—Hoy vendrán a buscarle y le arrestarán —dijo la señora sollozando, y en ese sollozo resonaban la ofensa y el enojo—, ¡Yo sé quién le ha llevado hasta esa horrible situación! ¡Infame, asquerosa! ¡Criatura repugnante que se vende al primero que llega! (La señora contrajo los labios en un rictus de desprecio y arrugó la nariz con asco). No tengo fuerzas… ¡Oigame, mujer miserable! No tengo fuerzas… ¡Usted es más fuerte que yo, pero hay quien saldrá en mi ayuda y en la de mis hijos! ¡Dios lo ve todo! ¡Él es justo! ¡Él la castigará por cada lágrima mía, por todas las noches sin dormir! ¡Llegará el día en que se acordará de mí!
+De nuevo se hizo el silencio. La señora deambulaba por la habitación retorciéndose las manos. Pasha seguía mirándola perpleja, sin comprender nada, esperando que hiciera algo terrible.
+—Yo, señora, no sé nada —exclamó, rompiendo a llorar.
+—¡Miente! —gritó la señora, mirándole con rabia a los ojos—. ¡Lo sé todo! ¡Hace tiempo que la conozco! ¡Sé que el mes pasado él ha venido a verla todos los días!
+—Bueno, ¿y qué? ¿Qué pasa si es así? Recibo muchas visitas, pero no obligo a nadie a venir. La gente es libre.
+—¡Le digo que se ha descubierto un desfalco! Él se ha llevado dinero de su trabajo. Para tener contenta a una… como usted, para tenerla contenta ha cometido un delito. Escuche —dijo la señora con tono firme, deteniéndose ante Pasha—. Usted no tiene principios, sólo vive para hacer el mal, ése es su fin, pero no puedo pensar que haya caído tan bajo que no le quede un poco de sentimiento. Él tiene mujer, hijos… Si le condenan y le envían a la cárcel, mis hijos y yo nos moriremos de hambre… ¡Compréndalo! Aunque hay un medio de salvarle a él y salvamos a nosotros de la miseria y la vergüenza. Si hoy entrego novecientos rublos, le dejarán en paz. ¡Son sólo novecientos rublos!
+—¿Qué novecientos rublos? —preguntó Pasha en voz baja—. Yo… yo no sé… No los he cogido.
+—No le pido los novecientos rublos… Usted no tiene dinero, además, no necesito su dinero. Le pido otra cosa… Los hombres suelen regalar joyas a las mujeres como usted. Devuélvame tan sólo los que le ha hecho mi marido.
+—¡Señora, nunca me ha regalado joyas! —exclamó Pasha, empezando a comprender.
+—¿Entonces, dónde está el dinero? Él ha malgastado su dinero, el mío y el dinero ajeno… ¿Dónde lo ha metido? Escúcheme, se lo ruego. Estaba excitada y le he dicho cosas desagradables. Le pido disculpas. Usted debe de odiarme, lo sé, pero si es capaz de sentir compasión, póngase en mi lugar. Se lo suplico, devuélvame las joyas.
+—Hum… —dijo Pasha encogiéndose de hombros—. De buena gana lo haría, pero que Dios me castigue si miento, no me ha regalado nada. Créame. De verdad. Aunque tiene usted razón —añadió turbada la cantante—: una vez me trajo dos cosas. Si quiere, se las doy.
+Pasha abrió un cajón del tocador y sacó una pulsera de oro hueco y una sortija con un rubí.
+—Tome —dijo, entregándoselas a la visitante.
+La señora se ruborizó; un temblor cruzó su rostro. Estaba ofendida.
+—¿Pero, qué me da? —dijo—. Yo no le pido una limosna, sino lo que no le pertenece… lo que usted, valiéndose de su situación, le ha sacado a mi marido… a ese hombre débil y desgraciado… El jueves, cuando la vi con mi marido en el muelle, llevaba broches y pulseras de valor. Así pues, de nada le valdrá hacerse la inocente conmigo. Se lo pido por última vez: ¿me da las joyas o no?
+—¡Por Dios, qué rara es usted! —dijo Pasha, que estaba a punto de enfadarse—. Le aseguro que, salvo este brazalete y esta sortija, no he visto nada de su Nikolái Petróvich. Él sólo me traía pasteles.
+—Pasteles… —exclamó haciendo una mueca la desconocida—. En casa los niños no tienen nada que comer y aquí trae pasteles. Entonces, ¿se niega a devolverme las joyas?
+Al no recibir contestación alguna, la señora se sentó meditabunda, fijando la mirada en un punto.
+—¿Y ahora qué hago? —murmuró para sus adentros—. Si no consigo novecientos rublos, él estará perdido, y los niños y yo también. ¿Mato a esta miserable o me pongo de rodillas ante ella?
+La señora se llevó el pañuelo a la cara y rompió a llorar.
+—¡Se lo pido por favor! —dijo entre sollozos—. Usted ha arruinado y ha echado a perder la vida de mi marido, sálvelo… Usted no siente lástima de él, pero los niños… los niños… ¿Qué culpa tienen los niños?
+Pasha se imaginó a unos niños pequeños en la calle llorando de hambre, y también rompió a llorar.
+—¿Qué puedo hacer, señora? Usted dice que soy una miserable y que he arruinado a Nikolái Petróvich. Le juro por Dios que no tengo nada de él… En nuestro coro, sólo Motia tiene un protector rico, todas las demás vivimos sin lujos. Nikolái Petróvich es un caballero culto y delicado, y yo aceptaba sus visitas. Nosotras no podemos negamos a recibir visitas.
+—¡Le pido por favor las joyas! ¡Deme las joyas! Lloro… me humillo… Si quiere, se lo pido de rodillas.
+Pasha gritó de miedo y movió los brazos. Sentía que aquella señora pálida y hermosa que se expresaba de modo sublime, como en el teatro, era capaz de ponerse de rodillas ante ella, y lo hacía precisamente por orgullo, por ser noble, para elevarse y humillar a la corista.
+—¡Está bien, le daré las joyas! —dijo Pasha, limpiándose las lágrimas— Pero no son de Nikolái Petróvich… Me las dieron otros. Si las quiere…
+Pasha abrió el cajón superior de la cómoda; sacó de él un broche de diamantes, un collar de corales, varios anillos y una pulsera y se los entregó a la dama.
+—Tome si quiere, pero sepa que de su marido no tengo nada. ¡Tómelas, hágase rica! —agregó Pasha, ofendida por la amenaza de ponerse de rodillas—. Y si usted es noble… su legítima esposa, cuide mejor de él. Eso es. Yo no le llamé, vino él por su cuenta…
+La señora, entre lágrimas, miró las joyas que le había entregado y dijo:
+—Esto no es todo… Esto no vale ni quinientos rublos.
+Pasha sacó impetuosamente de la cómoda un reloj de oro, una cigarrera y un par de gemelos y dijo levantando los brazos:
+—No tengo nada más… Registre, si quiere.
+La señora suspiró, con manos temblorosas envolvió las joyas en un pañuelo, y se fue sin decir nada y sin inclinar siquiera la cabeza.
+Se abrió la puerta de la habitación contigua y entró Kolpakov. Estaba pálido y sacudía nervioso la cabeza, como si acabara de tomar algo muy amargo. En sus ojos brillaban las lágrimas.
+—¿Qué regalos me ha hecho usted? —dijo Pasha abalanzándose sobre él— ¿Dígame cuándo?
+—Regalos… ¡Qué importa eso! —exclamó Kolpakov y sacudió la cabeza—. ¡Dios mío! ¡Ella ha llorado delante de ti, se ha humillado…!
+—¡Le pregunto que qué regalos me ha hecho usted! —gritó Pasha.
+—¡Dios mío! Ella, una mujer decente, orgullosa, pura… Y hasta quería arrodillarse ante… ¡ante esta zorra! ¡Y yo la he llevado a esta situación! ¡Yo lo he permitido!
+Se llevó las manos a la cabeza, lamentándose:
+—¡No! ¡Nunca me lo perdonaré! ¡Jamás! ¡Apártate de mí, asquerosa! —gritó, echándose atrás y estirando con repugnancia sus brazos temblorosos para separarse de Pasha— Ella quería arrodillarse… ¿Ante quién? ¡Ante ti! ¡Dios mío!
+Se vistió deprisa y apartándose de malas maneras de Pasha, se dirigió a la puerta y se fue.
+Pasha se echó en la cama y rompió a llorar vivamente. Sentía haber perdido sus cosas, que había entregado en un arrebato. Se sentía humillada. Recordó que tres años antes un comerciante le había golpeado sin motivo alguno y lloró aún más vivamente.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

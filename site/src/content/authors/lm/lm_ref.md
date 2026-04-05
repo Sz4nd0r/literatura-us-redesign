@@ -1,0 +1,78 @@
+---
+layout: story
+title: Referencial
+slug: lm_ref
+source: https://www.literatura.us/idiomas/lm_ref.html
+tags:
+  - lm_ref
+  - lm
+---
+Lorrie Moore
+(Glens Falls, NY, 1957 –)
+Referencial
+(2012)
+(“Referential”)
+Originalmente publicado en la revista The New Yorker (28 de mayo de 2012);
+Bark
+(Nueva York: Alfred A. Knopf, Inc., 2014, 192 págs.)
+Manía. Por tercera vez en tres años hablaron de forma frenética acerca de lo que podría ser un buen regalo para su hijo perturbado. Había muy pocas cosas que realmente pudieran llevar: casi todo se podía transformar en un arma, y por tanto había que dejar la mayoría de las cosas en la recepción y, después, previa petición, las traía un auxiliar alto y rubio, que miraba antes los objetos para calcular sus posibilidades lacerantes. Pete había llevado un cesto de mermeladas, pero estaban en frascos de cristal y por tanto no permitidas. «Se me había olvidado», dijo él. Estaban organizadas por colores, de la mermelada más brillante al camemoro y al higo, como si contuvieran los análisis de orina de una persona cada vez más enferma, y ella pensó: «Mejor que los confisquen». Encontrarían otra cosa que llevar.
+Para cuando su hijo cumplió doce años y había comenzado sus murmuraciones aturdidas y embelesadas, y había dejado de lavarse los dientes, Pete llevaba cuatro años en sus vidas, y ahora habían pasado otros cuatro años. El amor que sentían por Pete era largo y sinuoso, no exento de giros ocultos, pero sí de verdaderas paradas. Lo veían como una especie de padrastro. Quizá los tres habían envejecido juntos, aunque sobre todo se notaba en ella, con los vestidos negros que llevaba porque la hacían más delgada y el pelo encanecido sin teñir, a menudo recogido con mechones sueltos que parecían musgo español. Una vez que su hijo había sido desnudado, vestido con ropa de hospital e internado en el centro, ella también se quitó los collares, los pendientes, los fulares —todos sus aparatos prostéticos, le dijo a Pete, intentando ser divertida— y los puso en una carpeta de acordeón que se cerraba con cerrojo y que guardó debajo de su cama. No podía llevarlos cuando iba a verlo, así que no los llevaría nunca: una especie de solidaridad con su hijo, una especie de nueva viudedad añadida a la viudedad que ya poseía. A diferencia de otras mujeres de su edad (que se esforzaban demasiado, con lencería llamativa y joyas estridentes), ahora le parecía que ese afán era excesivo, e iba por el mundo como una amish, o quizá, todavía peor, cuando la luz despiadada de la primavera golpeaba su rostro, como un amish. ¡Si llegaba a vieja, que fuera una ciudadana completa del viejo mundo! «Para mí siempre estás preciosa», había dejado de decir Pete.
+Pete se había quedado sin trabajo con la nueva crisis económica. En un momento dado había estado a punto de vivir con ella, pero los profundos problemas de su hijo le habían hecho dar un paso atrás: pensaba que la quería pero no podía encontrar el amplio espacio que necesitaba para sí mismo en su vida o en su casa (y no culpaba a su hijo, ¿o sí?). Miraba con cierta codicia visible y agrias observaciones la habitación donde su hijo, cuando estaba en casa, vivía con mantas grandes, botes vacíos de helado, una Xbox y DVD.
+Ya no sabía adónde iba Pete, a veces durante semanas seguidas. Pensaba que era un acto de atención y cariño no preguntar, intentar que no le preocupara. Una vez se sentía tan hambrienta de contacto que fue al salón Trenza sin Estrés que había al lado de casa sólo para que le lavaran el pelo. Las pocas veces que había volado a Búfalo para ver a su hermano y a su familia, había escogido el cacheo y el detector en vez de pasar por el escáner en el control de seguridad el aeropuerto.
+«¿Dónde está Pete?», gritaba su hijo cuando ella iba sola a visitarlo, el rostro escarlata por el acné, hinchado y ancho por los efectos de medicamentos cambiados una y otra vez, y ella decía que Pete estaba ocupado aquel día, pero pronto, muy pronto, quizá la semana siguiente. Un vértigo maternal la asaltaba, la habitación daba vueltas y las cicatrices de los cortes en los brazos de su hijo parecían a veces deletrear el nombre de Pete en líneas delgadas, la pérdida de padres se dibujaba toscamente en un álgebra de piel. En el desbarajuste de la habitación, las líneas unidas y blancas parecían toscos garabatos en torno a una hoguera, como cuando los jóvenes tallaban con trazos rígidos las palabras AMOR y FOLLAR en mesas de merendero y árboles en los parques, con la o convertida en un cuadrado. La mutilación era un idioma. Y al revés. Los cortes hacían que su chico recibiera más cariño de las chicas, que también se habían cortado y pocas veces veían a un chico, y así se hizo popular en las sesiones de grupo, algo que no parecía importarle y que quizá ni notaba. Cuando nadie miraba se cortaba las plantas de los pies. También fingía leer los pies de las chicas como palmas, anunciando la llegada de desconocidos y el progreso hacia el romance —«¡piemances!» los llamaba— y los inconvenientes, y a veces veía las palabras que ellas habían cortado y señalado como su propio destino.
+Ahora ella y Pete iban a ver a su hijo sin las mermeladas, pero con un libro de bordes barbados sobre Daniel Boone, lo que estaba permitido, aunque su hijo creyera que contenía mensajes para él, aunque creyera que, si bien era una historia de una persona de hacía mucho tiempo, también era la historia de su propia tristeza y heroísmo frente a todo tipo de desierto, derrota y abducción donde su vida se podía extender sobre el libro, una noble armadura para la revelación de relatos sobre él. Habría claves en las palabras de las páginas con números que sumaban su edad: 97, 88, 466. Había otras veladas alusiones a su existencia. Siempre las había.
+Se sentaron juntos a la mesa de las visitas y su hijo apartó el libro e intentó sonreírles. Todavía quedaba dulzura en sus ojos, la dulzura con la que había nacido, aunque la furia pudiera brotar de ella de forma indiscriminada. Alguien había cortado su pelo rubio oscuro, o al menos lo había intentado. Quizá alguien del personal no quería que tuviera las tijeras cerca durante un periodo prolongado de tiempo y había cortado rápidamente, luego se alejaba de un salto, volvía a acercarse, agarraba y cortaba, después volvía a saltar. Por lo menos es lo que parecía. Era un pelo ondulado y había que cortarlo cuidadosamente. Ahora ya no bajaba en cascada sino que estaba cerca de la cabeza, y crecía en ángulos que no parecían importar a nadie, salvo a una madre.
+—¿Dónde has estado? —le preguntó su hijo a Pete, mientras le dirigía una mirada dura.
+—Buena pregunta —dijo Pete, como si elogiar la cosa fuese a hacer que desapareciera. ¿Cómo se podía estar bien de la cabeza en un mundo como aquél?
+—¿Nos echas de menos? —preguntó el chico.
+Pete no contestó.
+—¿Piensas en mí cuando observas los negros capilares de los árboles por la noche?
+—Supongo que sí. —Pete lo miró fijamente, como si no quisiera cambiar de posición en su asiento—. Siempre espero que estés bien y que te traten bien aquí.
+—¿Piensas en mi madre cuando miras las nubes y todo lo que contienen?
+Pete volvió a quedarse en silencio.
+Su hijo continuó, estudiando a Pete.
+—¿Has visto alguna vez cómo los gorriones matan a las crías de otros pájaros? ¿A las crías de los chochines, por ejemplo? Los he mirado por las ventanas. ¿Sabías que los gorriones pueden meterse en el nido del chochín y sacar a las crías de los nidos y estrellarlas contra el suelo con una fuerza que te habría parecido imposible para un gorrión? ¿Incluso para un gorrión asesino?
+—La naturaleza puede ser cruel —dijo Pete.
+—¡La naturaleza puede ser una película de terror! Pero el asesinato no es lo que uno espera de un gorrión. En el mundo puede encontrarse de todo, pero normalmente tienes que buscarlo. ¡Tienes que buscarlo! ¡Por ejemplo, tienes que buscarnos a nosotros! Estamos un poco escondidos pero un poco no. Se nos puede encontrar. Si buscas en los lugares evidentes, se nos puede encontrar. No hemos desaparecido, aunque quieras, estamos aquí para…
+—Ya basta —cortó a su hijo, que se volvió hacia ella con una expresión distinta.
+—Se supone que esta tarde habrá pastel porque hay un cumpleaños —dijo él.
+—¡Eso estaría muy bien! —dijo ella, sonriendo.
+—Sin velas, claro. O tenedores. Tendremos que coger el glaseado y ponérnoslo en los ojos para taparlos. ¿Has pensado alguna vez en ese momento de las velas en que el tiempo se detiene, aunque esos momentos se lleven el humo? Es como el fuego del amor que arde. ¿Alguna vez te has preguntado por qué tanta gente tiene cosas que no merece pero lo absurdas que son todas esas cosas, para empezar? ¿Crees que un deseo se puede hacer real si nunca nunca nunca jamás se lo cuentas a nadie?
+En el camino de vuelta a casa, ella y Pete no cruzaron palabra, y cada vez que miraba sus manos envejecidas, aferradas artríticamente al volante, los pulgares familiares abajo con su aire levemente simiesco, entendía de nuevo el lugar desesperado en el que estaban los dos, aunque las desesperaciones estaban separadas, no unidas, y sus ojos sentían luego la presión aguda de las lágrimas. La última vez que su hijo había intentado hacerlo, el método fue, en las palabras del médico, morbosamente ingenioso. Podía haber tenido éxito pero otra paciente, una chica del grupo, lo había detenido en el último momento. Había habido que limpiar sangre. En una época su hijo sólo quería un dolor que lo distrajera, pero pronto quiso hacer un agujero en sí mismo y huir a través de él. La vida estaba llena de espías y un espionaje preocupante. Sin embargo, a veces los espías también huían y alguien podía tener que ir tras ellos a fin de, paradójicamente, escapar por completo, sobre los campos ondulados de un sueño viviente, hacia las madrugadoras montañas del significado que amanece.
+Había una tormenta por delante y los relámpagos produjeron su rápido y resuelto zigzag entre las nubes. Ella no necesitaba una ilustración tan fuerte de que los horizontes podían estallar, llenarse de mensajes, códigos rotos, pero ahí estaba. Una nieve de primavera empezó a caer mientras los relámpagos continuaban, y Pete activó el limpiaparabrisas para que los dos pudieran mirar por los semicírculos limpios la carretera que se oscurecía ante ellos. Ella sabía que el mundo no se había creado sólo para hablar con ella y, sin embargo, como con su hijo, a veces las cosas lo hacían. Los árboles frutales habían florecido pronto, por ejemplo, y los huertos ante los que pasaban eran rosas, pero el calor temprano excluía a las abejas y por tanto habría pocos frutos. La mayor parte de las flores que colgaban caerían en esa misma tormenta.
+Cuando llegaron a la casa y entraron, Pete se miró en el espejo del pasillo. Quizá necesitaba comprobar que era un ser vivo y no el fantasma que parecía.
+—¿Te apetece una copa? —preguntó ella, esperando que se quedara—. Tengo un buen vodka. ¡Te puedo hacer un ruso blanco riquísimo!
+—Sólo vodka —dijo de mala gana—. Solo.
+Abrió el congelador y encontró el vodka, y cuando volvió a cerrarlo se quedó esperando un momento, mirando las fotos que había pegado con imanes a la nevera. De bebé, su hijo parecía más feliz que la mayoría de los bebés. A los seis años seguía sonriendo y sobreactuando, movía los brazos y las piernas como si explotaran, enseñaba sus dientes perfectamente separados, el pelo que se rizaba en mechones dorados. A los diez, su expresión ya era vagamente melancólica y temerosa, aunque había luz en sus ojos, con sus encantadores primos junto a él. Había un adolescente rechoncho, que rodeaba a Pete con un brazo. Y en la esquina estaba otra vez el bebé, en brazos de su padre digno y apuesto, a quien su hijo no recordaba porque había muerto hacía mucho. Había que aceptar todo eso. La vida no era una alegría encima de otra. Sólo era la esperanza de menos dolor, la esperanza jugada como una carta sobre otra esperanza, un deseo de amabilidad y misericordia que surgieran como reyes y reinas en un inesperado cambio de juego. Podías sujetar las cartas tú mismo o no: caían del mismo modo de todas formas. La ternura no entraba salvo de manera defectuosa y por azar.
+—¿No quieres hielo?
+—No —dijo Pete—. No, gracias.
+Puso dos vasos de vodka en la mesa de la cocina y se sentaron.
+—Quizá esto te ayude a dormir —dijo ella.
+—No sé si hay algo que pueda hacerlo —dijo, y bebió un trago. El insomnio lo atormentaba.
+—Mañana lo traeré a casa —dijo—. Necesita su hogar, su casa, su habitación. No es un peligro para nadie.
+Pete bebió un poco más, sorbiendo ruidosamente. Ella veía que no quería saber nada, pero le parecía que no tenía otra elección que continuar.
+—A lo mejor puedes ayudar. Te admira.
+—¿Ayudar ahora? —preguntó Pete con un destello de ira. Hubo un ruido de cristal sobre la mesa.
+—Podríamos pasar parte de la noche cerca de él —dijo ella.
+El teléfono sonó. El Radio Shack prácticamente sólo traía malas noticias, y su sonido, especialmente por la noche, la asustaba. Reprimió un escalofrío pero aun así sus hombros se alzaron y se encorvaron. Se puso en pie.
+—¿Diga? —dijo, contestó la tercera vez que sonó, el corazón le latía con fuerza. Pero la persona que había al otro lado colgó. Volvió a sentarse—. Supongo que se han equivocado —dijo, y añadió—: Igual te apetece más vodka.
+—Sólo un poco. Luego tengo que irme.
+Le echó un poco más. Le había dicho lo que quería decir y no quería tener que convencerlo. Esperaría a que él diera un paso adelante con las palabras adecuadas. A diferencia de algunas de sus amigas más mezquinas, que no paraban de advertirla, creía que había una parte profundamente buena en él y siempre la esperaba con paciencia. ¿Qué otra cosa podía hacer?
+El teléfono volvió a sonar.
+—Probablemente es telemarketing —dijo él.
+—Los odio —dijo ella—. ¿Hola? —dijo en voz más alta hacia el receptor.
+Esa vez, cuando el que llamaba colgó, miró el número en el teléfono, en el rectángulo iluminado donde se veía el identificador de llamada.
+Se sentó y se echó más vodka.
+—Alguien está llamando desde tu apartamento —dijo.
+Él se bebió el resto de su vodka. «Será mejor que me vaya», dijo, y se levantó y fue hacia la puerta. Ella lo siguió. En la puerta lo miró agarrar el pomo y girar con firmeza. Abrió la puerta, tapando el espejo.
+—Buenas noches —dijo. Su expresión ya se había ido a un lugar lejano.
+Ella lo abrazó para besarlo, pero él volvió la cabeza abruptamente y la boca terminó besando la oreja. Recordó que había hecho ese movimiento evasivo ocho años antes, al principio, cuando se conocieron y él estaba en situación de solapamiento romántico.
+—Gracias por acompañarme —dijo.
+—De nada —contestó él, luego bajó deprisa las escaleras hasta su coche, que estaba aparcado enfrente. Ella no intentó seguirlo. Cerró la puerta y echó el pestillo, mientras el teléfono volvía a sonar. Apagó todas las luces, incluidas las del porche.
+Fue a la cocina. No había podido leer el identificador de llamada sin las gafas de leer, y se había inventado que era el número de Pete, aunque él lo había hecho verdad de todas formas; lo que era la magia negra de las mentiras, las buenas intuiciones y los faroles hábiles. «¿Diga?», respondió, contestando en el quinto pitido. El rectángulo de plástico donde debía aparecer el número estaba oculto como por un telón de gasa, una página de papel cebolla sobre la cebolla. O más bien, sobre la imagen de una cebolla. Una pintura encima de otra.
+—Buenas noches —dijo en voz alta. ¿Qué saldría? Una pata de mono. Una señora. Un tigre.
+Pero no había absolutamente nada.
+tras VN
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,101 @@
+---
+layout: story
+title: ¿Qué te parece esto?
+slug: rc_parece
+source: https://www.literatura.us/idiomas/rc_parece.html
+tags:
+  - rc_parece
+  - rc
+---
+Raymond
+Carver
+(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)
+¿Qué te parece esto?
+(“How About This?”)
+Originalmente publicado en Western Humanities Review (1970)
+Will You Please Be Quiet, Please? (1976)
+Collected Stories (2009)
+Todo el optimismo que había animado su vuelo desde la ciudad se había agotado, se había desvanecido en la tarde del primer día, mientras viajaban en coche rumbo al norte a través de los bosques de secoyas. Ahora los ondulantes pastos, las vacas, las aisladas granjas del este de Washington se le antojaban sin el menor atractivo, carentes de lo que él deseaba de verdad. Se esperaba algo diferente. Siguió conduciendo con una creciente sensación de desesperanza y de rabia.
+Mantenía el coche a ochenta, lo máximo que permitía una carretera así. Sentía el sudor sobre la frente y sobre el labio superior, y en el aire en torno había un pesado olor a trébol. El terreno empezó a cambiar; la carretera descendió con brusquedad, atravesó un puente sobre un canal, volvió a ascender, y al rato ya no hubo más asfalto bajo las ruedas y se vio conduciendo por una carretera comarcal de tierra, dejando a sus espaldas una increíble polvareda. Al pasar junto a los viejos cimientos reducidos a cenizas de una casa situada al fondo de unos arces, Emily se quitó las gafas oscuras y se inclinó hacia adelante para mirar.
+—Es la vieja casa de Owens —dijo—. Papá y él eran amigos. Tenía un alambique en el desván, y un par de caballos de tiro que presentaba a todas las ferias. Murió de una hernia estrangulada cuando yo tenía unos diez años. La casa se quemó un año después, por Navidades. La familia se mudó luego a Bremerton.
+—¿Sí? —dijo él—. Por Navidades… —Y luego dijo—: ¿Aquí tuerzo a la derecha o a la izquierda? ¿Emily? ¿A la derecha o a la izquierda?
+—A la izquierda —dijo ella—. A la izquierda.
+Volvió a ponerse las gafas, pero segundos después se las quitó de nuevo.
+—Sigue por esta carretera, Harry, hasta el siguiente cruce. Y entonces a la derecha. Y nos quedará muy poco. —Fumaba continuamente, cigarrillo tras cigarrillo. Ahora callaba y miraba los campos despejados, los aislados bosques de abetos, las ocasionales y maltrechas casas.
+Harry siguió al volante, y al llegar al cruce torció hacia la derecha. La carretera empezó a descender hacia un valle escasamente arbolado. Al frente y a lo lejos. —Canadá, supuso Harry— veía una cadena de montañas, y tras ellas otra cadena más oscura y más alta.
+—Hay una pequeña carretera —dijo ella— al fondo. Esa es la que tenemos que coger.
+Harry giró con suavidad y enfiló despacio la carretera ínfima, llena de baches, a la espera de atisbar el primer indicio de la casa. Emily, a su lado, nerviosa. —Harry lo veía con claridad—, fumaba otra vez, también a la espera del primer atisbo de la casa. Bajas y tupidas ramas golpeaban contra el parabrisas, y Harry parpadeó. Emily se inclinó un poco hacia adelante y le puso la mano en la pierna.
+—Ahí —dijo.
+Harry redujo la marcha casi hasta detenerse, cruzó el pequeño y limpio charco de un arroyo que partía de la alta yerba, a la izquierda, y se internó en una espesura de cornejo que arañó el coche al ascender por la pequeña carretera.
+—Ahí es —dijo Emily, apartando la mano de su pierna.
+Tras una primera y turbadora ojeada, Harry fijó la mirada en la carretera. Y no volvió a mirar la casa hasta detener el coche cerca de la entrada. Se pasó la lengua por los labios, se volvió hacia ella y trató de sonreír.
+—Bien, hemos llegado —dijo.
+Emily le estaba mirando. No miraba la casa.
+Harry había vivido siempre en ciudades: los últimos tres años en San Francisco, y antes en Los Ángeles, Chicago y Nueva York. Pero llevaba mucho tiempo deseando vivir en el campo, en algún medio rural. Al principio no sabía con certeza dónde; sólo sabía que quería dejar la urbe para empezar una nueva vida. Una vida más sencilla era lo que tenía en mente; con sólo lo esencial, decía. Tenía treinta y un años, y en cierto modo era escritor, aunque también era actor y músico. Tocaba el saxofón —de cuando en cuando con los Bay City Players—, y estaba escribiendo su primera novela. Había empezado a escribirla cuando vivía en Nueva York. Una desapacible tarde de domingo, el pasado marzo, había vuelto a hablar de un cambio, de vivir una vida más digna en el campo, y ella, al principio bromeando, había mencionado la casa deshabitada de su padre, al noroeste de Washington.
+—Dios mío —dijo Harry—. ¿No te importaría? ¿Vivir así, sin comodidades, me refiero? ¿Vivir con estrecheces en el campo?
+—Nací allí —dijo ella, riendo—. ¿Recuerdas? He vivido en el campo. No está mal. Tiene sus ventajas. Podría volver a vivir en el campo. Pero no sé si tú podrás, Harry. Si será bueno para ti.
+Siguió mirándole, ahora seria. Él tenía la impresión de que últimamente no dejaba de mirarle.
+—¿No vas a arrepentirte? —dijo—. ¿Por dejar todo esto?
+—No dejaría mucho, ¿no crees, Harry? —Se encogió de hombros—. Pero lo que no voy a hacer es animarte, Harry.
+—¿Podrás pintar allá arriba? —preguntó él.
+—Puedo pintar en cualquier parte —dijo ella—. Y además está Bellingham —dijo—. Hay una escuela. Y también tenemos Vancouver o Seattle. —Siguió mirándole. Se sentó en un taburete, ante un vago retrato a medio pintar de un hombre y una mujer, y se puso a juguetear con dos pinceles que tenía en la mano.
+Habían transcurrido tres meses desde entonces. Durante ese tiempo habían hablado y hablado sobre el tema. Y allí estaban.
+Harry dio unos golpecitos a las paredes contiguas a la puerta.
+—Sólidas. Una estructura sólida. Si tienes una estructura sólida, tienes lo principal. —Evitó mirarla. Emily era muy sagaz, y quizás había leído algo en sus ojos.
+—Ya te dije que no esperaras mucho —dijo Emily.
+—Sí, me lo dijiste. Lo recuerdo muy bien —dijo él, aún sin mirarla. Dio unos golpecitos más a la madera desnuda con los nudillos, y se acercó a Emily. Era una tarde calurosa y húmeda; llevaba unos tejanos blancos y sandalias, y las mangas remangadas—. Qué paz, ¿no te parece?
+—Muy distinto de la ciudad, ¿eh?
+—Dios, sí… No está mal todo esto, además. —Trató de sonreír—. Habrá que trabajar un poco, eso es todo. Arrimar el hombro un poquito. Será una casa estupenda si decidimos quedarnos. Los vecinos no molestarán, al menos.
+—Cuando era niña teníamos vecinos —dijo ella—. Tenías que coger el coche para verlos, pero eran vecinos de todas formas.
+La puerta se abrió en ángulo. La bisagra de arriba estaba suelta: nada serio, estimó Harry. Recorrieron despacio las habitaciones, una tras otra. Él trataba de ocultar su decepción. En dos ocasiones golpeó las paredes y dijo:
+—Sólidas. —O bien—: Ya no se hacen casas como ésta. Con una casa como ésta se pueden hacer grandes cosas.
+Emily se detuvo frente a un cuarto espacioso y lanzó un largo suspiro.
+—¿La tuya?
+Emily movió la cabeza.
+—¿Y tu tía Elsie podría darnos los muebles que necesitáramos?
+—Sí, todo lo que necesitemos —dijo ella—. Si es eso lo que quieres: que nos quedemos. Yo no voy a presionarte. Estamos a tiempo de dejarlo. No hemos perdido nada.
+En la cocina encontraron un hornillo de leña y un colchón pegado a una de las paredes. De nuevo en la sala de estar, Harry miró a su alrededor y dijo:
+—Creí que había una chimenea.
+—Nunca te he dicho que hubiera chimenea.
+—Pues tenía esa idea, no sé por qué… Y tampoco hay puntos de luz —dijo al cabo de un momento—. O sea… ¡que no hay electricidad!
+—Ni retrete —dijo ella.
+Harry se humedeció los labios.
+—Bien —dijo, volviéndose para examinar algo en un rincón—. Supongo que podríamos arreglar uno de estos cuartos y poner una bañera y demás, y pagar a alguien para que hiciera la fontanería. Pero la electricidad es otra cosa, ¿no te parece? O sea: encaremos todo esto, cada cosa a su tiempo. Primero una cosa y después otra, ¿de acuerdo? ¿No crees? No dejemos… no dejemos que nada de esto nos desanime, ¿de acuerdo?
+—Me gustaría que ahora te callaras un poco —dijo ella.
+Se dio la vuelta y salió de la casa.
+Instantes después él bajó de un salto los escalones y aspiró el aire, y ambos encendieron sendos cigarrillos. Una bandada de cuervos se alzó al fondo de un prado y se internó lenta y silenciosamente en los bosques.
+Fueron hacia el establo, y en el camino se detuvieron para inspeccionar los manzanos marchitos. Harry partió una pequeña rama seca y se puso a darle vueltas y vueltas en la mano; ella, entretanto, permaneció a su lado fumando. Era un lugar apacible, más o menos atractivo, y Harry pensó que era agradable que algo permanente, realmente permanente, pudiera pertenecerle. Sintió que lo invadía una súbita ternura por aquel pequeño huerto.
+—Habría que hacer que volviera a dar fruto —dijo—. Al fin y al cabo, sólo necesita agua y cuidarlo un poco.
+Se imaginó a sí mismo saliendo de la casa con un cesto de mimbre y recogiendo grandes manzanas rojas, aún húmedas del rocío de la mañana, y se dio cuenta de que la idea le resultaba atractiva.
+Al acercarse al establo se sentía un tanto alegre. Examinó brevemente las viejas placas de matrícula clavadas en la puerta. Placas verdes, amarillas y blancas del estado de Washington, oxidadas todas ellas: 1922-23-24-25-26-27-28-29-34-36-37-40-41-1949. Estudió detenidamente las fechas, como si su secuencia fuera capaz de revelarle alguna clave. Quitó el pasador de madera y empujó la pesada puerta hasta que consiguió abrirla. El aire, dentro, olía a deshabitado. Pero pensó que no era un olor desagradable.
+—Aquí en invierno llueve muchísimo —dijo ella—. No recuerdo que nunca hiciera este calor en junio. —El sol se colaba por las grietas del tejado—. Una vez papá mató un ciervo fuera de temporada. Yo tenía… no sé, unos ocho o nueve años, algo así. —Se volvió hacia él, que se había parado cerca de la puerta para mirar un viejo arnés que colgaba de un clavo—. Papá estaba aquí en el establo con el ciervo cuando el guardabosques entró en el patio. Había anochecido. Mamá me envió aquí en busca de papá, y el guardabosques, un hombre grande y corpulento con sombrero, me siguió. En ese momento papá bajaba con un candil de ahí arriba, del altillo. Y habló con el guarda unos minutos. El ciervo estaba allí colgado, pero el guarda no dijo nada. Le ofreció a papá un poco de tabaco de mascar, pero papá no quiso aceptarlo; nunca le había gustado y no iba a ponerse a mascar ahora por mucho que la situación lo aconsejara. Luego el guardabosques me dio un tirón de orejas y se fue. Pero no quiero pensar en esas cosas —añadió en seguida—. No he pensado en ellas desde hace años. No quiero ponerme a hacer comparaciones —dijo—. No —dijo. Dio un paso hacia atrás, sacudiendo la cabeza—. No voy a llorar. Sé que suena melodramático, incluso estúpido, y perdona que parezca melodramática y estúpida. Pero la verdad, Harry, es que… —Sacudió de nuevo la cabeza—. No sé… Puede que venir aquí haya sido un error. Veo que te ha decepcionado.
+—No lo sabes —dijo él.
+—No, es cierto. No lo sé —dijo ella—. Lo siento, no estoy tratando de influirte ni en un sentido ni en otro. Pero no creo que quieras quedarte. ¿Quieres quedarte?
+Harry se encogió de hombros.
+Sacó un cigarrillo. Emily se lo cogió de las manos, lo alzó y esperó a que Harry encendiera una cerilla, a que la mirara a los ojos por encima de la llama.
+—Cuando era pequeña —siguió—, quería llegar a artista de circo. No quería ser enfermera ni maestra. Ni pintora. Entonces no quería ser pintora. Quería ser Emily Horner, Funámbula. Era como una obsesión. Solía practicar aquí en el establo, caminando sobre las vigas. Sobre esa viga grande ahí arriba. Anduve por encima de ella cientos de veces. —Empezó a decir algo más, pero dio unas chupadas al cigarrillo y lo apagó con el talón, pisándolo meticulosamente contra la tierra.
+Harry oyó el canto de un pájaro fuera del establo, y luego el ruido de algo que se escabullía a la carrera por encima de las tablas del altillo. Emily pasó junto a él, salió a la luz del exterior y echó a andar entre las altas matas en dirección a la casa.
+—¿Qué vas a hacer, Emily? —le gritó Harry a su espalda.
+Emily se paró, y esperó a que Henry se acercara.
+—Seguir viva —dijo. Luego sacudió la cabeza y esbozó una débil sonrisa. Tocó el brazo de Harry—. Dios, supongo que estamos metidos en un lío, ¿no? Eso es todo lo que se me ocurre decir, Harry.
+—Tenemos que decidirnos —dijo él, sin saber a ciencia cierta a qué se refería.
+—Tú decides, Harry. Si es que no lo has decidido ya. Es tu decisión. Por mí me marcharía ahora mismo si ello te facilita las cosas. Nos quedamos con tía Elsie un día o dos y nos volvemos a casa. ¿Te parece? Pero dame un pitillo, ¿quieres? Voy hasta la casa.
+Harry se acercó más a ella y pensó que quizá deberían abrazarse. Él lo deseaba. Pero ella no se movió; se limitó a mirarle con fijeza, así que él le tocó la nariz con el dedo índice y le dijo:
+—Hasta dentro de un rato, entonces.
+Vio cómo se alejaba. Miró el reloj, se volvió y echó a andar despacio entre la hierba en dirección a los árboles. La hierba le llegaba a las rodillas. Instantes antes de adentrarse en el bosque, en el punto en que la hierba empezaba a esparcirse, dio con una especie de sendero. Se frotó el hueso de la nariz, debajo del puente de las gafas oscuras, miró hacia atrás, hacia la casa y el establo, y siguió andando despacio. Una nube de mosquitos se desplazaba junto a su cabeza. Se detuvo para encender un cigarrillo. Dio un manotazo a los mosquitos. Volvió a mirar hacia atrás, pero no pudo ver ni la casa ni el establo. Se quedó allí fumando, y empezó a sentir el silencio que anidaba en la hierba, en los árboles, en las sombras de más allá, al fondo del bosque. ¿No era aquello lo que había anhelado? Siguió andando, y empezó a buscar dónde sentarse.
+Encendió otro cigarrillo y se apoyó contra un árbol. Se agachó y cogió unos trocitos de corteza de la tierra blanda que había bajo sus pies. Siguió fumando. Recordó el volumen de obras de teatro de Ghelderode que descansaba en el asiento trasero del coche, encima de las demás cosas, y luego recordó algunas de las pequeñas poblaciones que habían dejado atrás aquella mañana: Ferndale, Lynden, Custer, Nooksack. Y de pronto recordó el colchón que había visto en la cocina. Y comprendió que le daba miedo. Trató de imaginar a Emily caminando sobre la gran viga del establo. Pero también aquello le asustaba. Siguió fumando. En realidad, pensándolo bien, se sentía muy tranquilo. No iba a quedarse en aquel lugar —lo sabía—, pero el saberlo ya no le molestaba. Le complacía conocerse tan bien a sí mismo. Iba a sentirse bien luego, decidió. Sólo tenía treinta y un años. No era tan viejo. De momento, estaba en un lío. Lo admitía. Al fin y al cabo, razonó, aquello era la vida, ¿no? Apagó el cigarrillo. Y al poco encendió otro.
+Al dar la vuelta a una esquina de la casa la vio haciendo una rueda. Tomó tierra con un golpe sordo, ligeramente encogida, y entonces le vio.
+—¡Eh! —gritó, sonriendo con solemnidad.
+Se alzó sobre las eminencias metatarsianas, con los brazos en alto a ambos lados de la cabeza y se lanzó hacia adelante. Ejecutó dos volteretas más mientras él la miraba, y luego le dijo:
+—¿Qué te parece esto?
+Se dejó caer con suavidad sobre las manos, logró ponerse en equilibrio e inició un trémulo y vacilante avance en dirección a Harry. Con la cara congestionada y la blusa colgándole sobre la barbilla y agitando enloquecidamente las piernas, avanzó hacia él.
+—¿Lo has decidido ya? —dijo, sin aliento.
+Harry asintió con la cabeza.
+—¿Y? —dijo ella. Se dejó caer sobre el hombro y rodó hasta quedar de espaldas, protegiéndose los ojos del sol con un brazo como en ademán de dejar al descubierto sus pechos.
+Y luego dijo:
+—Harry.
+Harry se disponía a encender un cigarrillo con la última cerilla cuando de pronto le empezaron a temblar las manos. La cerilla se apagó, y él se quedó con la caja de cerillas vacía y el cigarrillo en las manos, mirando fijamente hacia la vasta arboleda que se extendía al fondo de la radiante pradera.
+—Harry, tenemos que amarnos —dijo—. Lo que tendremos que hacer es sólo amarnos —dijo.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

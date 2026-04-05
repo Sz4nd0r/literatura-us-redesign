@@ -1,0 +1,150 @@
+---
+layout: story
+title: Un día de campo
+slug: gdm_campo
+source: https://www.literatura.us/idiomas/gdm_campo.html
+tags:
+  - gdm_campo
+  - gdm
+---
+Guy de Maupassant
+(Tourville-sur-Arques, Francia, 1850 - Passy, París, 1893)
+Un día de campo (1881)
+(“Une partie de campagne”)
+Originalmente publicado en la revista La Vie moderne (2 y 9 de abril de 1881);
+La Maison Tellier
+(París: Victor Havard Éditeur, 1881, 310 págs.)
+Tenían proyectado hacía cinco meses salir a almorzar en los alrededores de París el día del santo de la señora Dufour, que se llamaba Pétronille. Por ello, como habían esperado con impaciencia esa partida, se habían levantado muy temprano aquella mañana.
+El señor Dufour, que le había pedido prestado el coche al lechero, conducía. La carreta, de dos ruedas, estaba muy limpia; tenía un techo sostenido por cuatro montantes de hierro del que colgaban cortinas que habían alzado para ver el paisaje. Sólo la de detrás flotaba al viento, como una bandera. La mujer, al lado de su esposo, estaba radiante con un extraordinario traje de seda cereza. A continuación, en dos sillas, se sentaban una vieja abuela y una jovencita. Se distinguía también la cabellera amarilla de un muchacho que, a falta de asiento, se había tumbado al fondo y del que aparecía sólo la cabeza.
+Tras haber seguido la avenida de los Campos Elíseos y cruzado las fortificaciones por la puerta Maillot, se habían puesto a contemplar la comarca.
+Al llegar al puente de Neuilly, el señor Dufour había dicho:
+—Ahí tenéis el campo, ¡por fin! —y su mujer, ante esa señal, se había enternecido con la naturaleza.
+En la encrucijada de Courbevoie, les había asaltado la admiración ante la lejanía de los horizontes. A la derecha, allá lejos, estaba Argenteuil, con su elevado campanario; por encima aparecían los cerros de Sannois y el Molino de Orgemont. A la izquierda, el acueducto de Marly se dibujaba sobre el cielo claro de la mañana, y se divisaba también, de lejos, la terraza de Saint-Germain; mientras que enfrente, al final de una cadena de colinas, unas tierras removidas indicaban el nuevo fuerte de Cormeilles. Muy al fondo, con un retroceso formidable, por encima de llanuras y pueblos, se entreveía un oscuro verdor de bosques.
+El sol comenzaba a quemar los rostros; el polvo llenaba los ojos de continuo y, a los dos lados de la carretera, se desplegaba una campiña interminablemente desnuda, sucia y hedionda. Hubiérase dicho que una lepra la había devastado, royendo hasta las casas, pues esqueletos de edificios hundidos y abandonados, o bien pequeñas casuchas inacabadas por falta de pago a los contratistas, alzaban sus cuatro paredes sin techo.
+De trecho en trecho crecían en el suelo estéril largas chimeneas de fábricas, única vegetación de aquellos campos pútridos por los cuales la brisa de la primavera paseaba un perfume de petróleo y de esquisto mezclado con otro olor aún menos agradable.
+Por fin habían cruzado el Sena por segunda vez, y, en el puente, había sido arrobador. El río resplandecía de luz; un vaho se elevaba de él, absorbido por el sol, y se experimentaba una suave quietud, una frescura benéfica al respirar por fin un aire más puro que no había sido barrido por el humo negro de las fábricas o las miasmas de los muladares.
+Un hombre que pasaba había dado el nombre de la zona: Bezons.
+El coche se detuvo, y el señor Dufour se puso a leer la prometedora muestra de un figón: “Restaurante Poulin, calderetas y pescado frito, reservados particulares,bosquecillos y columpios. ¿Qué, señora Dufour, te conviene? ¿te decidirás por fin?”
+La mujer leyó a su vez: “Restaurante Poulin, calderetas y pescado frito, reservados particulares, bosquecillos y columpios”. Después miró largamente la casa.
+Era una posada de campo, blanca, situada al borde de la carretera. Mostraba, por la puerta abierta, el cinc brillante del mostrador ante el cual estaban dos obreros endomingados.
+Por fin la señora Dufour se decidió:
+—Sí, está bien —dijo—, y, además, tiene buenas vistas.
+El coche entró en un amplio terreno plantado de grandes árboles que se extendía detrás de la posada y que sólo estaba separado del Sena por el camino de sirga.
+Entonces se apearon. El marido saltó primero, luego abrió los brazos para recibir a su mujer. El estribo, sujeto por dos barras de hierro, estaba muy lejos, de forma que, para alcanzarlo, la señora Dufour tuvo que dejar ver la parte inferior de una pierna cuya primitiva finura desaparecía ahora bajo una invasión de grasa que bajaba de los muslos.
+El señor Dufour, a quien el campo excitaba ya, le pellizcó vivamente la pantorrilla, y después, cogiéndola por debajo de los brazos, la depositó pesadamente en tierra, como un enorme paquete.
+Ella se dio unas palmadas en su traje de seda para desprender el polvo, mientras miró el lugar donde se encontraba.
+Era una mujer de unos treinta y seis años, metida en carnes, exuberante y de aspecto agradable. Respiraba con fatiga, sofocada violentamente por la opresión de un corsé demasiado apretado; y la presión de aquel chisme empujaba hacia su papada la masa fluctuante del pecho superabundante.
+A continuación la jovencita, posando la mano en el hombro de su padre, saltó con ligereza ella sola. El muchacho de pelo amarillo se había apeado poniendo un pie sobre la rueda, y ayudó al señor Dufour a descargar a la abuela.
+Entonces desengancharon el caballo, que fue atado a un árbol, y el coche cayó de narices, con los dos varales en el suelo. Los hombres, habiéndose quitado las levitas, se lavaron las manos en un cubo de agua, y después se reunieron con las señoras instaladas ya en los balancines.
+La señorita Dufour trataba de columpiarse de pie, ella sola, sin lograr darse suficiente impulso. Era una guapa chica de dieciocho a veinte años; una de esas mujeres cuyo encuentro por la calle os azota con un súbito deseo, y os deja hasta la noche una vaga inquietud y una agitación de los sentidos. Alta, de talle esbelto y caderas anchas, tenía la piel muy morena, los ojos muy grandes, el pelo muy negro. Su traje dibujaba netamente la firme plenitud de su carne acentuada aún más por los esfuerzos que hacía con los riñones para remontarse. Sus brazos tensos sujetaban las cuerdas por encima de su cabeza, de modo que su pecho se alzaba, sin una sacudida, a cada impulso que daba. Su sombrero, arrastrado por una ráfaga de viento, había caído a sus espaldas; y el balancín se lanzaba poco a poco, mostrando a cada vuelta sus piernas finas hasta la rodilla, y lanzando a la cara de los dos hombres, que la miraban riendo, el aire de sus faldas, más embriagador que los vapores del vino.
+Sentada en el otro columpio, la señora Dufour gemía de forma monótona y continua:
+—Cyprien, ven a empujarme; ¡ven a empujarme de una vez, Cyprien!
+Al final él fue y, remangándose la camisa, como antes de emprender un trabajo, puso a su mujer en movimiento con infinita fatiga.
+Aferrada a las cuerdas, tenía las piernas estiradas, para no tropezar con el suelo, y disfrutaba al verse aturdida por el vaivén del chisme. Sus formas, sacudidas, tembleteaban continuamente como la gelatina en una bandeja. Pero, a medida que los impulsos crecían, la asaltaron el vértigo y el miedo. A cada bajada, lanzaba un grito agudo que hacía acudir a todos los rapaces del pueblo; y allá, delante de ella, por encima del seto del jardín, distinguía vagamente un surtido de cabezas traviesas que gesticulaban variadamente con las risas.
+Al aparecer una camarera, encargaron el almuerzo.
+—Fritos del Sena, conejo salteado, ensalada y postre —articuló la señora Dufour, con aire importante.
+—Traiga dos litros de tinto y una botella de burdeos —dijo su marido.
+—Almorzaremos en la hierba —agregó la joven.
+La abuela, enternecida al ver el gato de la casa, lo perseguía hacia diez minutos prodigándole inútilmente las más dulces denominaciones. El animal, halagado interiormente sin duda por aquella atención, se mantenía siempre muy cerca de la mano de la buena señora, aunque sin dejarse alcanzar, y daba tranquilamente vueltas a los árboles, contra los cuales se frotaba, la cola erguida, con un pequeño ronroneo de placer.
+—¡Mirad! —gritó de repente el joven de pelo amarillo que fisgoneaba por el terreno—, ¡hay unos barcos estupendos!
+Fueron a ver. Bajo un pequeño cobertizo de madera estaban colgadas dos soberbias yolas de remeros, finas y trabajadas como muebles de lujo. Descansaban una junto a otra, semejantes a dos altas mozas delgadas, con su longitud estrecha y reluciente, y daban ganas de marchar sobre el agua en las hermosas noches apacibles o en las claras mañanas de verano, de rozar los ribazos floridos donde árboles enteros bañan sus ramas en el agua, donde temblequea el eterno escalofrío de las cañas, y de donde alzan el vuelo, como relámpagos azules, rápidos martines pescadores.
+Toda la familia, con respeto, las contemplaba.
+—Oh, sí, son estupendas —repitió gravemente el señor Dufour.
+Y las detallaba como un experto. Había remado, él también, en sus verdes años, decía; e incluso con aquello en la mano —y hacía ademán de tirar de los remos— le importaba un bledo todo el mundo. Había vapuleado en carreras a más de un inglés, en tiempos, en Joinville; y bromeó con la palabra damas, con que se designan los dos toletes que sujetan los remos, diciendo que los remeros, y con razón, no salían jamás sin sus damas. Se acaloraba al perorar y proponía obstinadamente que apostasen que con una barca como aquélla él haría seis leguas por hora sin apresurarse.
+—Está listo —dijo la camarera que apareció en la entrada.
+Se precipitaron; pero hete aquí que en el mejor sitio, que la señora Dufour había elegido mentalmente para instalarse, estaban almorzando ya dos jóvenes. Eran los propietarios de las yolas, sin duda, pues iban vestidos de remeros.
+Se habían estirado en unas sillas, casi acostados. Tenían la cara tostada por el sol y el pecho cubierto solamente por una fina camiseta de algodón blanco que dejaba asomar sus brazos desnudos, robustos como los de un herrero. Eran dos sólidos mozos y presumían mucho de vigor, pero mostraban en todos sus movimientos esa gracia elástica de los miembros que se adquiere con el ejercicio, tan diferente de la deformación que imprime al obrero su penoso esfuerzo, siempre igual.
+Intercambiaron rápidamente una sonrisa al ver a la madre, luego una mirada al divisar a la hija.
+—Dejémosles nuestro sitio —dijo uno—, así entablaremos relación.
+El otro se levantó al punto y, con su gorra mitad roja y mitad negra en la mano, se ofreció caballerosamente a ceder a las señoras el único lugar del jardín donde no daba el sol. Aceptaron deshaciéndose en disculpas; y, para que la cosa fuera más campestre, la familia se instaló en la hierba sin mesa ni asientos.
+Los dos jóvenes se llevaron su cubierto a unos cuantos pasos y reanudaron la comida. Sus brazos desnudos, que mostraban sin cesar, turbaban un poco a la joven. Incluso fingía volver la cabeza y no fijarse en ellos, mientras que la señora Dufour, más atrevida, instigada por una curiosidad femenina que era acaso deseo, los miraba a cada momento, comparándolos sin duda con añoranza con las fealdades secretas de su marido.
+Se había derrumbado sobre la hierba, con las piernas dobladas a la manera de los sastres, y se meneaba continuamente, con el pretexto de que las hormigas se le habían metido en alguna parte. El señor Dufour, huraño ante la presencia y la amabilidad de los extraños, buscaba una postura cómoda que por lo demás no encontraba, y el joven de pelo amarillo comía silenciosamente como un ogro.
+—Hace un tiempo precioso, caballero —dijo la gruesa señora a uno de los remeros. Quería mostrarse amable a causa del sitio que les habían cedido.
+—Sí, señora —respondió—. ¿Vienen ustedes a menudo al campo?
+—¡Oh!, una o dos veces al año solamente, para tomar el aire; ¿y usted, caballero?
+—Vengo a dormir todas las noches.
+—¡Ah!, debe de ser muy agradable.
+—Sí, desde luego, señora.
+Y contó su vida de todos los días, poéticamente, de manera que hizo vibrar el corazón de aquellos burgueses privados de hierba y hambrientos de paseos por el campo con ese bobo amor a la naturaleza que los obsesionaba todo el año detrás del mostrador de su tienda.
+La joven, emocionada, alzó los ojos y miró al remero. El señor Dufour habló por primera vez:
+—Eso sí que es vida —dijo. Agregó—: ¿Un poco más de conejo, querida?
+—No, gracias, cariño.
+Ella se volvió de nuevo hacia los jóvenes y, señalando sus brazos:
+—¿No tienen nunca frío así? —dijo.
+Se echaron a reír los dos, y espantaron a la familia con el relato de sus prodigiosos esfuerzos, de sus baños sudados, de sus carreras entre la niebla de las noches; se golpearon violentamente el pecho para demostrar qué sonido daba.
+—¡Oh!, tienen ustedes pinta de fuertes —dijo el marido, que ya no hablaba de la época en que vapuleaba a los ingleses.
+La joven los examinaba ahora de lado; y el muchacho de pelo amarillo, atragantándose con la bebida, tosió desesperadamente, rociando el traje de seda cereza de la jefa, que se enfadó y mandó traer agua para lavar las manchas.
+Entre tanto la temperatura se volvía terrible. El río relumbrante parecía un foco de calor, y los vapores del vino turbaban las cabezas.
+El señor Dufour, sacudido por un hipo violento, se había desabrochado el chaleco y la cintura del pantalón; mientras que su mujer, presa de sofocos, desabotonaba su traje poco a poco. El aprendiz balanceaba con aire alegre sus greñas de lino y se servía trago tras trago. La abuela, sintiéndose achispada, se mantenía muy rígida y muy digna. En cuanto a la joven, no dejaba traslucir nada; sólo sus ojos se encendían vagamente, y su piel muy morena se coloreaba en las mejillas con un tono más rosado.
+El café los remató. Hablaron de cantar y cada cual echó su copla, que los otros aplaudieron con frenesí. Después se levantaron con dificultad, y mientras que las dos mujeres, aturdidas, respiraban, los dos hombres, totalmente curdas, hacían gimnasia. Pesados, fofos, y con el rostro escarlata, se colgaban torpemente de las anillas sin lograr levantarse; y sus camisas amenazaban continuamente con evacuar sus pantalones para ondear al viento como estandartes.
+Entre tanto los remeros habían echado las yolas al agua y regresaban cortésmente a proponer a las señoras un paseo por el río.
+—Señor Dufour, ¿me dejas? ¡Por favor! —gritó su mujer.
+El la miró con pinta de borracho, sin entender. Entonces se acercó un remero, con dos cañas de pescar en la mano. La esperanza de pescar gobios, ese ideal de los tenderos, encendió los ojos sombríos del hombrecillo, que accedió a todo lo que quisieron, y se instaló a la sombra, bajo el puente, los pies bailando encima del río, junto al joven del pelo amarillo, que se durmió a su lado.
+Uno de los remeros se sacrificó; se llevó a la madre.
+—¡En el bosquecillo de la isla de los ingleses! —gritó al alejarse.
+La otra yola se puso en marcha más lentamente. El remero miraba tanto a su compañera que no pensaba en otra cosa, y lo había invadido una emoción que paralizaba su vigor.
+La joven, sentada en el asiento del timonel, se abandonaba a la dulzura de estar sobre el agua. Se sentía asaltada por una renuncia a pensar, por una quietud de los miembros, por un abandono de sí misma, como presa de una múltiple embriaguez. Se había puesto muy roja, con la respiración entrecortada. El aturdimiento del vino, multiplicado por el calor torrencial que chorreaba en torno a ella, hacía que todos los árboles de la orilla la saludasen a su paso. Una vaga necesidad de disfrute, una fermentación de la sangre recorrían su carne excitada por los ardores de aquel día; y estaba también turbada por aquel mano a mano sobre el agua, en medio de aquella tierra despoblada por el incendio del cielo, con aquel joven que la encontraba hermosa, cuyos ojos le besaban la piel, y cuyo deseo era tan penetrante como el sol.
+La impotencia de ambos para hablar aumentaba su emoción, y miraban los alrededores. Entonces, haciendo un esfuerzo, él le preguntó su nombre.
+—Henriette —dijo.
+—¡Vaya!, yo me llamo Henri —prosiguió él.
+El sonido de sus voces los había calmado; se interesaron por las orillas. La otra yola se había parado y parecía esperarlos. El que la tripulaba gritó:
+—Os alcanzaremos en el bosque; vamos hasta Robinson, porque la señora tiene sed.
+Después se inclinó sobre los remos y se alejó tan rápidamente que pronto dejaron de verlo.
+Mientras tanto un fragor continuo que se distinguía vagamente desde hacía un tiempo se acercaba muy deprisa. El propio río parecía estremecerse como si el ruido sordo ascendiera de sus profundidades.
+—¿Qué es eso que se oye? —preguntó ella.
+Era el salto de la presa que cortaba el río en dos en la punta de la isla. El se perdía en una explicación cuando, en medio del estruendo de la cascada, un canto de pájaro que parecía muy remoto los sorprendió.
+—Vaya —dijo él—, los ruiseñores cantan de día: eso es que las hembras incuban.
+¡Un ruiseñor! Ella no lo había oído nunca, y la idea de escuchar uno despertó en su corazón la visión de poéticas ternuras. ¡Un ruiseñor! , es decir, el invisible testigo de las citas de amor al que invocaba Julieta en su balcón; esa música del cielo concertada con los besos de los hombres; ¡ese eterno inspirador de todas las romanzas lánguidas que abren un ideal azul en los pobres corazoncitos de las chiquillas enternecidas!
+Iba, pues, a oír un ruiseñor.
+—No hagamos ruido —dijo su compañero—, podemos bajar en el bosque y sentarnos muy cerca de él.
+La yola parecía deslizarse. Aparecieron unos árboles en la isla, cuya ribera era tan baja que los ojos se sumergían en lo más tupido de la espesura. Se detuvieron; la barca quedó atada; y, apoyándose Henriette en el brazo de Henri, se adentraron entre las ramas.
+—Inclínese —dijo él.
+Se inclinó, y penetraron en un inextricable revoltijo de bejucos, de hojas y de cañas, en un asilo inencontrable que era preciso conocer y al que el joven llamaba riendo “su reservado particular”.
+Justamente por encima de sus cabezas, posado en uno de los árboles que los resguardaban, el pájaro seguía desgañitándose. Lanzaba trinos y gorgoritos, después desgranaba grandes sonidos vibrantes que llenaban el aire y parecían perderse en el horizonte, desplegándose a lo largo del río y volando sobre las llanuras, a través del silencio de fuego que entorpecía la campiña.
+No hablaban por miedo a que escapase. Estaban sentados uno junto al otro y, lentamente, el brazo de Henri rodeó la cintura de Henriette y la estrechó con dulce presión. Ella, sin cólera, cogió aquella mano audaz y la alejaba sin cesar a medida que él la acercaba, sin experimentar, por otra parte, el menor embarazo con aquella caricia, como si hubiera sido una cosa natural que rechazaba con igual naturalidad.
+Escuchaba al pájaro, perdida en un éxtasis. Sentía deseos infinitos de felicidad, bruscas ternuras que la atravesaban, revelaciones de poesías sobrehumanas, y tal aplanamiento de los nervios y del corazón que lloraba sin saber por qué. El joven la estrechaba contra sí ahora; no lo rechazaba ya, sin pensar en ello.
+El ruiseñor calló de pronto. Una voz lejana gritó:
+—¡Henriette!
+—No conteste —dijo él muy bajo—, haría volar al pájaro.
+Tampoco ella pensaba en responder.
+Se quedaron así algún tiempo. La señora Dufóur se había sentado en alguna parte, pues se oían vagamente, de vez en cuando, los grititos de la gruesa señora que bromeaba sin duda con el otro remero.
+La jovencita seguía llorando, embargada por sensaciones muy dulces, la piel cálida y pinchada en todas partes por desconocidos cosquilleos. La cabeza de Henri estaba sobre su hombro; y, bruscamente, la besó en los labios. Ella tuvo una rebelión furiosa y, para evitarlo, se dejó caer de espaldas. Pero él se arrojó sobre ella, cubriéndola con todo su cuerpo. Persiguió un buen rato aquella boca que le huía, y después, al alcanzarla, pegó a ella la suya. Entonces, enloquecida por un deseo formidable, ella le devolvió el beso, estrechándolo sobre su pecho, y toda su resistencia cedió como aplastada por una carga demasiado pesada.
+Todo estaba en calma en las cercanías. El pájaro volvió a cantar. Lanzó primero tres notas penetrantes que parecían una llamada de amor, después, tras un silencio de un instante, inició con voz debilitada unas lentísimas modulaciones.
+Se deslizó una brisa suave, levantando un murmullo de hojas, y entre la profundidad de las ramas pasaban dos suspiros ardientes que se mezclaban con el canto del ruiseñor y con el leve hálito del bosque.
+Una embriaguez invadía al pájaro, y su voz, acelerándose poco a poco como un incendio que prende o una pasión que crece, parecía acompañar bajo el árbol un restallido de besos. Después el delirio de su gaznate se desencadenó enloquecido. Tenía desmayos prolongados en un trino, grandes espasmos melodiosos.
+A veces descansaba un poco, emitiendo solamente dos o tres sonidos ligeros que terminaban de pronto con una nota sobreaguda. O bien comenzaba una loca carrera, con brotes de gamas, estremecimientos, sacudidas, como un furioso canto de amor, seguido por gritos de triunfo.
+Pero se calló, al escuchar bajo él un gemido tan profundo que se le hubiera tomado por el adiós de un alma. El ruido se prolongó algún tiempo y se remató con un sollozo.
+Estaban muy pálidos, los dos, al abandonar su lecho de verdor. El cielo azul les parecía oscurecido; el ardiente sol estaba apagado a sus ojos; percibían la soledad y el silencio. Caminaban rápidamente uno al lado del otro, sin hablarse, sin tocarse, pues parecían haberse convertido en enemigos irreconciliables, como si una repugnancia se hubiera alzado entre sus cuerpos, un odio entre sus ánimos.
+De vez en cuando, Henriette gritaba:
+—¡Mamá!
+Se produjo un ajetreo bajo un zarzal. Henri creyó ver una enagua blanca que se bajaba con rapidez sobre una gruesa pantorrilla; y apareció la enorme señora, un poco confusa y más roja aún, los ojos muy brillantes y el pecho tumultuoso, demasiado cerca quizás de su vecino. Este debía de haber visto cosas muy divertidas, pues su rostro estaba surcado por risas súbitas que lo cruzaban a pesar suyo.
+La señora Dufour se cogió de su brazo con aire tierno, y volvieron a las barcas. Henri, que caminaba delante, siempre mudo al lado de la jovencita, creyó distinguir de repente una especie de gran beso ahogado.
+Por fin regresaron a Bezons.
+El señor Dufour, pasada la borrachera, se impacientaba. El joven de pelo amarillo tomaba un bocado antes de dejar la posada. El coche estaba enganchado en el patio, y la abuela, montada ya, se desolaba porque tenía miedo de que la cogiera la noche en la llanura, pues los alrededores de París no eran seguros.
+Se dieron apretones de manos, y la familia Dufour se marchó.
+—Hasta la vista —gritaban los remeros.
+Un suspiro y una lágrima les respondieron.
+Dos meses después, al pasar por la calle de los Mártires, Henri leyó sobre una puerta: Dufour, ferretero.
+Entró.
+La gruesa señora abultaba aún más tras el mostrador. Se reconocieron al punto y, después de mil cumplidos, él pidió noticias.
+—¿Qué tal la señorita Henriette?
+—Muy bien, gracias, se ha casado.
+La emoción le oprimió; agregó:
+—Y... ¿con quién?
+—Pues con el joven que nos acompañaba, ya sabe usted; él se hará cargo del negocio.
+—¡Oh!, claro.
+Se marchaba muy triste, sin saber demasiado bien por qué. La señora Dufour lo llamó:
+—¿Y su amigo? —dijo tímidamente.
+—Pues le va bien.
+—Déle recuerdos nuestros, ¿eh?; y cuando venga, dígale que pase a vernos... —se ruborizó mucho, y después agregó—: Me dará mucho gusto; dígaselo.
+—No dejaré de hacerlo. ¡Adiós!
+—No..., ¡hasta pronto!
+Al año siguiente, un domingo que hacía mucho calor, todos los detalles de esta aventura, que Henri no había olvidado nunca, regresaron a él súbitamente, tan claros y deseables, que volvió solo a su cuarto del bosque.
+Quedó estupefacto al entrar. Ella estaba allí, sentada en la hierba, con aire triste, mientras que a su lado, en mangas de camisa, su marido, el joven de pelo amarillo, dormía a conciencia, como un bruto.
+Se puso tan pálida al ver a Henri que éste creyó que iba a desmayarse. Después empezaron a charlar con toda naturalidad, como si nada hubiese ocurrido entre ellos.
+Pero cuando él le contaba que le gustaba mucho aquel paraje y que iba a menudo a descansar allí los domingos, evocando muchos recuerdos, ella lo miró largamente a los ojos.
+—Yo pienso en eso todas las noches —dijo.
+—Vamos, querida —replicó bostezando su marido—, creo que ya es hora de marcharnos.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

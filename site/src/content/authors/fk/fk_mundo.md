@@ -1,0 +1,71 @@
+---
+layout: story
+title: El mundo urbano
+slug: fk_mundo
+source: https://www.literatura.us/idiomas/fk_mundo.html
+tags:
+  - fk_mundo
+  - fk
+---
+Franz
+Kafka
+(Praga, 1883-1924)
+El mundo urbano (1911)
+(“Die städtische Welt”)
+Oscar M, un estudiante ya mayor —quien lo miraba de cerca, quedaba aterrorizado ante sus ojos—, permanecía un mediodía invernal en una plaza vacía en plena tormenta de nieve, con su abrigo de invierno, una bufanda alrededor del cuello y un gorro de piel en la cabeza. Parpadeaba pensativo. Se había sumido en sus pensamientos hasta tal extremo que se quitó el gorro y frotó con la piel crespa su rostro. Finalmente, pareció haber llegado a una conclusión y emprendió el camino a casa con un giro de bailarín. Cuando abrió la puerta del salón paterno, vio a su padre, un hombre con la cabeza rasurada y un rostro carnoso, sentado a una mesa vacía y vuelto hacia la puerta.
+—Por fin —dijo el padre, apenas Oscar había puesto el pie en la habitación—. Permanece, por favor, junto a la puerta, pues estoy tan furioso que no estoy seguro de poder dominarme.
+—Pero padre —dijo Oscar, y nada más empezar a hablar se dio cuenta de lo rápido que había caminado.
+—¡Silencio! —gritó el padre, y al levantarse tapó con su cuerpo una ventana—. ¡Te ordeno silencio! Y déjate de «peros», ¿entiendes?
+Entonces tomó la mesa con ambas manos y la acercó un paso en la dirección en la que se encontraba Oscar.
+—No soporto más tu vida disipada. Soy un hombre viejo. Pensaba que encontraría en ti un consuelo para mis últimos años, pero te has convertido en algo más enojoso que mis enfermedades. ¡Vaya hijo!, que con su pereza, su derroche, maldad y estupidez lleva a su padre a la tumba.
+Aquí enmudeció el padre, pero movió el rostro como si aún siguiera hablando.
+—Querido padre —dijo Oscar, y se acercó con precaución a la mesa—, tranquilízate, todo saldrá bien. Hoy se me ha ocurrido algo que hará de mí un hombre diligente, como tú deseas.
+—¿Cómo? —preguntó el padre, y dirigió su mirada a una de las esquinas de la habitación.
+—Ten confianza en mí, te contaré todo durante la cena. En el fondo siempre fui un buen hijo, sólo que no podía mostrarlo, así que prefería enojarte ya que no podía alegrarte. Pero ahora déjame pasear un poco para poder aclarar mis pensamientos.
+El padre, que al principio, mientras prestaba atención, se había sentado sobre el borde de la mesa, se levantó.
+—No creo que lo que acabas de decir tenga mucho sentido, más bien lo tengo por palabrería. Pero, a fin de cuentas, eres mi hijo. Llega, pues, a la hora y cenaremos en casa. Así podrás contarme lo que quieras.
+—Esa pequeña confianza me basta, y te la agradezco de todo corazón. Pero ¿no descubres en mi mirada que me absorbe por completo un asunto serio?
+—Por ahora no noto nada —dijo el padre—. Pero puede ser culpa mía, ya que he perdido la costumbre de mirarte.
+Entonces, como era usual en él, golpeó con regularidad la tabla de la mesa para llamar la atención de cómo transcurría el tiempo.
+—Lo principal es, Oscar, que ya no tengo ninguna confianza en ti. Cuando te grito alguna vez —te he gritado cuando has llegado, ¿verdad?—, lo hago con la esperanza de que pueda mejorarte, lo hago sólo pensando en tu buena y pobre madre, que ahora, tal vez, ya no siente ningún dolor inmediato por ti, pero que sucumbe lentamente con el esfuerzo por defenderse de ese dolor, ya que cree poder ayudarte así. Pero todas éstas son cosas que tú ya conoces de sobra y de las que, en consideración a mí mismo, no debería haberme acordado si no me hubieras irritado con tus promesas.
+Mientras pronunciaba las últimas palabras, entró la criada para comprobar el fuego de la calefacción. Apenas había abandonado la habitación, gritó Oscar:
+—¡Pero padre, no lo había esperado de ti! Si hubiera tenido sólo una pequeña ocurrencia, digamos una ocurrencia para mi tesis doctoral, que ya descansa diez años en mi cajón y necesita tantas ocurrencias como granos de sal, es posible, aunque no probable, que, como ha ocurrido hoy, hubiera venido corriendo a casa y hubiese dicho: Padre, he sido afortunado y he tenido tal y cual ocurrencia. Si con tu voz digna me hubieras echado a la cara todos los reproches desde el principio, mi ocurrencia se habría desvanecido y hubiera tenido que marcharme de inmediato con cualquier disculpa. Pero, ahora, ¡todo lo contrario! Todo lo que dices contra mí ayuda a mis ideas, no paran de hacerse más fuertes y llenan mi cabeza. Me iré, porque sólo podré ordenarlas en soledad.
+Tomó una bocanada de aire en la templada habitación.
+—Es posible que, si tienes algo en la cabeza, sólo sea una nadería —dijo el padre abriendo desmesuradamente los ojos—, y creo que te ha poseído. Pero si algo virtuoso se ha perdido en ti, déjalo escapar por la noche. Te conozco.
+Oscar hizo girar la cabeza como si lo sujetaran por el cuello.
+—Déjame ahora. Intentas penetrar inútilmente en mi interior. La simple posibilidad de que puedas predecir correctamente mi final, no debería llevarte a perturbar mis buenos pensamientos. Quizá te otorgue mi pasado el derecho a hacerlo, pero no deberías abusar. Ahora puedes ver muy bien lo grande que es tu inseguridad cuando te obliga a hablar contra mí de ese modo.
+—Nada me obliga —dijo Oscar, y su cuello dio un respingo involuntario.
+Se aproximó hasta casi llegar a la mesa, de tal modo que no se sabía a quién pertenecía.
+—Lo que dije, lo dije por respeto e, incluso, por amor a ti, como verás luego, pues mis decisiones se han tomado principalmente en deferencia a ti y a mamá.
+—Entonces debo agradecértelo desde ahora —dijo el padre—, ya que es muy improbable que tu madre y yo seamos capaces de hacerlo en el momento oportuno.
+—Por favor, padre, deja dormir al futuro como se merece. Si se le despierta antes de tiempo se recibe un presente somnoliento. Que eso, sin embargo, te lo tenga que decir tu hijo… Pero tampoco quería convencerte, al menos aún no, sino anunciarte la novedad. Y eso ha resultado, como debes reconocer.
+—Ahora, Oscar, hay algo que me asombra: ¿por qué vienes precisamente hoy con semejante asunto y no lo has hecho antes más a menudo? Ese comportamiento corresponde a tu ser anterior. No, es cierto, es en serio.
+—Si en aquel entonces me hubieras dado una paliza en vez de oírme. He venido corriendo, pongo a Dios por testigo, para darte una alegría. No obstante, no puedo desvelarte mi plan hasta que lo tenga completo. ¿Por qué me castigas por mis buenas intenciones y quieres sonsacarme explicaciones que pudieran dañar la ejecución del plan?
+—Cállate, no quiero saber más. Pero tengo que responderte con rapidez, ya que te retiras hacia la puerta y es evidente que planeas algo urgente: con tu habilidad has logrado suavizar mi enfado inicial, pero ahora estoy más triste que antes y por eso te pido —si insistes puedo doblar las manos— que no digas nada a tu madre de tus ideas. Deja que por ahora sólo yo lo sepa.
+—Ése no es mi padre, el que habla así —exclamó Oscar, que ya había puesto la mano en el picaporte—. Algo ha sucedido contigo desde el mediodía o eres un extraño con el que me encuentro por vez primera en la habitación de mi padre. Mi padre verdadero —Oscar calló un instante con la boca abierta— tendría que haberme abrazado, habría llamado a madre. ¿Qué tienes, padre?
+—Creo que deberías hablarlo con tu padre real. Sería todo más placentero.
+—Así lo haré. A fin de cuentas, no puede permanecer al margen. Y madre deberá estar presente, así como Franz, al que voy a recoger. Todos.
+A continuación, Oscar empujó la puerta con el hombro como si se hubiera propuesto hundirla.
+Una vez en la casa de Franz, se inclinó hacia la pequeña casera con las palabras siguientes:
+—El señor Ingeniero duerme, ya lo sé, no importa —y sin preocuparse de la mujer que, insatisfecha con la visita, iba inútilmente de un lado a otro del recibidor, abrió la puerta de cristal, que al ser asida por un lugar sensible tembló, y gritó despreocupado hacia el interior de la oscura habitación:
+—Franz, levántate. Necesito tu consejo de especialista. Pero no resisto más en esta habitación, vayamos a pasear. También tú tienes que tratarlo con nosotros. Así que date prisa.
+—Encantado —dijo el Ingeniero desde su canapé de piel—, pero ¿primero levantarme, tratar, pasear, aconsejar? Me he debido de perder algo.
+—Ante todo ninguna broma, Franz. Eso es lo más importante, lo había olvidado.
+—El favor te lo hago de inmediato. Pero eso de levantarme, preferiría tratar dos veces contigo antes que levantarme una vez.
+—¡Venga, arriba! Ninguna excusa.
+Oscar agarró al hombre débil por la chaqueta y lo levantó.
+—Estás rabioso, ¿lo sabes? Con todos mis respetos.
+Se restregó los ojos cerrados con los dos dedos meñiques.
+—Di, ¿te he sacado yo alguna vez de esta manera del canapé?
+—Pero Franz —dijo Oscar con el rostro contraído—, vístete ya. No soy un loco que te despierta sin motivo alguno.
+—Yo tampoco estaba durmiendo sin motivo. Ayer tuve servicio nocturno, luego vine a dormir mi siesta, también por ti. ¿Cómo? Venga, hombre, ya empieza a fastidiarme el poco respeto que me tienes. No es la primera vez. Naturalmente, eres un estudiante y puedes hacer lo que te da la gana. No todos son tan afortunados. Caramba, hay que tener una deferencia con los demás. Yo soy tu amigo, lo sabes de sobra, pero no por eso me han quitado mi profesión.
+Lo hizo patente agitando las palmas de las manos.
+—Después de la labia que has gastado, acaso debo creer que no has dormido lo suficiente —dijo Oscar, que se había subido a una de las patas de la cama, desde donde ahora miraba al Ingeniero como si dispusiera de más tiempo que antes.
+—Bueno, ¿qué quieres realmente de mí? O, mejor dicho, ¿por qué me has despertado? —preguntó el Ingeniero, y se rascó con fuerza el cuello, bajo su barba de chivo, con esa estrecha relación que se tiene con el cuerpo después del sueño.
+—¿Qué quiero de ti? —dijo Oscar en voz baja, dando un golpe a la cama con el tacón del zapato—. Muy poco, ya te lo he dicho desde el recibidor: que te vistas.
+—Si pretendes insinuar con eso, Oscar, que tus novedades me interesan poco, tienes toda la razón. Eso es lo mejor, pues el fuego que prenderán en tu interior, arderá por sí mismo sin mezclarse con nuestra amistad.
+—La información será todavía más clara, necesito una información clara, eso lo tengo muy presente. Pero si buscas corbatas y cuellos, están allí, sobre el sillón.
+—Gracias —dijo el Ingeniero, y comenzó a ponerse el cuello y la corbata—. En ti se puede confiar.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

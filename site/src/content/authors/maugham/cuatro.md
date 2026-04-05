@@ -1,0 +1,85 @@
+---
+layout: story
+title: Los cuatro holandeses
+slug: cuatro
+source: https://www.literatura.us/idiomas/maugham/cuatro.html
+tags:
+  - cuatro
+  - maugham
+---
+W. Somerset Maugham
+(París, Francia, 1874 - Niza, Francia, 1965)
+Los cuatro holandeses (1928)
+(“The Four Dutchmen”)
+Originalmente publicado en Hearst’s International Magazine (diciembre de 1928);
+Cosmopolitans: Very Short Stories
+(Garden City, Nueva York: Doubleday, Doran and Company, Inc., 1936, 274 págs.);
+(Londres, Toronto: William Heinemann LTD, 1936, 304 págs.)
+El hotel Van Dorth, en Singapur, distaba mucho de ser suntuoso. Los dormitorios eran bastante oscuros, y los mosquiteros tenían remiendos y zurcidos. Los cuartos de baño, en hilera y apartados de los dormitorios, eran húmedos y malolientes. Pero, a pesar de todo, era característico. Entre sus huéspedes había dueños de barcazas que rendían viaje en Singapur; ingenieros de minas sin colocación; plantadores que estaban de vacaciones y que a mi juicio tenían un aire más romántico que la gente elegante; turistas, oficiales del Gobierno con sus esposas, y acaudalados comerciantes que ofrecían almuerzos en el Hotel Europeo, jugaban al golf, bailaban y vestían con elegancia.
+El hotel Van Dorth tenía un salón de billar con una mesa sobre cuyo paño gastado jugaban partidos de snooker los ingenieros navales y los empleados de las compañías de seguros.
+El comedor era grande, sencillo y silencioso.
+Algunas familias holandesas de paso hacia Sumatra comían impasibles sin cambiar una palabra entre sí, y los hombres solteros que llegaban en viaje de negocios desde Batavia comían mientras leían atentamente los diarios.
+Dos veces por semana se preparaba en el hotel el plato nacional holandés, el rijstafel, y en tales ocasiones solían comer allí algunos residentes de Singapur que sentían predilección por ese plato.
+El hotel Van Dorth parecía un lugar deprimente, pero no lo era; su originalidad lo salvaba. Tenía un sutil aroma de algo fuera de lo corriente y ya a medias olvidado.
+Frente a él y junto a la acera había un jardincillo donde uno podía sentarse a la sombra de los árboles y beber un vaso de cerveza. Aunque en esta tumultuosa y activa ciudad circulan los automóviles como bólidos, lo mismo que los característicos cochecitos chinos denominados rickshaws, tirados por hombres cuyos pies retumban sobre el suelo mientras suenan las campanillas del cochecillo, en el hotel, sin embargo, se experimentaba la sensación de hallarse uno transportado a un apacible rincón de Holanda.
+Era ya la tercera vez que me hospedaba en el Van Dorth. Me había hablado del hotel el capitán del transatlántico holandés Utrecht, en el cual hice el viaje de Nueva York a Macassar.
+El viaje duraba casi un mes, ya que el barco hacía escalas en numerosas islas del archipiélago malayo, entre ellas Arú, Kei, Banda-Neria, Amboina y muchas otras cuyo nombre he olvidado. La escala duraba a veces sólo una o dos horas, y otras un día para cargar y descargar las mercancías. Era en realidad un viaje encantador, aunque a veces resultaba monótono.
+Cuando anclábamos, el agente de la compañía solía salir a nuestro encuentro, acompañado generalmente del cónsul holandés de la isla; nos reuníamos en la cubierta, a la sombra de la toldilla, y el capitán mandaba a buscar cerveza.
+Se alternaban las noticias de las islas con las que nosotros conocíamos del resto del mundo. Llevábamos diarios y correspondencia. Si nuestra estancia se prolongaba, el cónsul holandés tenía por costumbre invitarnos a cenar en tierra, dejando en esos casos el vapor a cargo del segundo oficial. Todos —es decir, el capitán, el primer oficial, el primer maquinista, el sobrecargo y yo— nos embarcábamos en la lancha e íbamos a tierra. Pasábamos así una tarde divertida. Aquellas pequeñas islas, tan parecidas entre sí, me fascinaban, precisamente porque comprendía que nunca volverla a verlas. Me parecían extrañamente irreales, y mientras nos alejábamos de ellas y se perdían de vista entre el mar y el cielo me convencía, gracias a un gran esfuerzo mental, de que verdaderamente existían.
+Pero no había nada ilusorio, misterioso o fantástico en el capitán, el primer oficial, el primer maquinista o el sobrecargo. La solidaridad que demostraban en todo momento era asombrosa.
+Eran los cuatro hombres más gordos que he visto nunca. Al principio me resultaba muy difícil distinguirlos, pues a pesar de que uno de ellos, el sobrecargo, era moreno y los demás rubios, se parecían extraordinariamente. Los cuatro eran corpulentos, de caras redondas, lisas y rubicundas, con gruesos y fuertes brazos, largas y gordas piernas y abultados vientres.
+Cuando bajaban a tierra solían abrocharse hasta el cuello sus guerreras, con lo que sobresalían sus gruesas papadas, dando la impresión de que iban a ahogarse, pues por regla general las llevaban sin abotonar.
+Sudaban copiosamente y se secaban sus rostros brillantes con pañuelos de telas exóticas, mientras se abanicaban enérgicamente con abanicos de hojas de palma.
+Valía la pena observarlos a la hora de la comida. Tenían un apetito desmesurado. Comían rijstafel todos los días y parecían rivalizar para ver quién amontonaba más en su plato. Les gustaba que estuviera muy caliente y picante.
+—En este país no se puede comer nada que no esté bien sazonado —decía el capitán.
+—El único modo de mantenerse aquí en buen estado físico es comiendo abundantemente —añadía el primer oficial.
+Los cuatro eran inseparables; parecían colegiales, gastándose entre sí las bromas más absurdas.
+Cada uno sabía de memoria los chistes de los demás, y tan pronto como cualquiera de ellos comenzaba a relatar algo familiar rompía a reír, con esa risa que estremece a los gordos y les impide proseguir, y todos le hacían coro inmediatamente. Enrojecían más cada vez, hasta casi estallar, y entonces el capitán pedía cerveza y cada cual apuraba su botella sin descansar.
+Durante cinco años habían pasado juntos los peligros de las travesías por aquellos parajes, y aunque poco antes le ofrecieron al primer oficial el mando de un vapor, lo rehusó. No quería abandonar a sus compañeros. Habían jurado que cuando uno de ellos los abandonara, se marcharían los demás en prueba de solidaridad.
+Eran camaradas y estaban en un buen barco, con buena comida y una cerveza excelente; ¿qué otra cosa puede desear una persona sensata?
+Al principio se mostraron algo retraídos conmigo. A pesar da que en el barco sólo podían ir cómodamente seis pasajeros, muchas veces, sin embargo, no llegaban ni siquiera a este número, y tampoco había entre ellos alguien a quien no conocieran. Yo era un extraño y a la vez un extranjero. Les gustaban extraordinariamente sus diversiones y bromas, y se molestaban si alguien se inmiscuía en ellas.
+Los cuatro sentían gran placer en jugar al bridge, y a veces el primer maquinista no podía tomar parte en una partida a causa de sus obligaciones. Se mostraron complacientes conmigo cuando descubrieron que estaba siempre dispuesto a hacer el cuarto cuando me necesitaban. Las partidas de póker que jugaban eran tan fantásticas como los mismos jugadores. Las apuestas eran infinitesimales, por ejemplo, cinco céntimos por cada cien puntos; ninguno de ellos pretendía ganarle el dinero a sus compañeros, pues lo único que les interesaba era el juego en sí.
+¡Qué partidas! Cada uno se mostraba impaciente por jugar, y tenían por norma aprovechar todos los medios a su alcance para ver las cartas del vecino; si cualquiera de ellos se podía escabullir pasándose, lo manifestaba a su compañero en cuanto había pasado el peligro, y ambos se echaban a reír hasta que las lágrimas corrían por sus gruesas mejillas.
+Nunca llegué a identificarlos por sus nombres holandeses, por lo difícil que resultaba recordarlos, pero los conocía anónimamente por las tareas que desempeñaban, tal como uno conoce a Pantalón, Arlequín y Polichinela, los protagonistas de la vieja comedia italiana.
+El simple hecho de observar a los cuatro reunidos provocaba la risa, y creo que experimentaban un gran placer viendo el asombro que les causaban a los extraños.
+Se jactaban de ser los cuatro holandeses más famosos de las Indias Orientales.
+Lo más cómico y lo que a mí me divertía más era su lado serio. Muchas veces, entrada la noche, cuando se habían despojado ya del uniforme, uno de ellos se sentaba a mi lado vistiendo un pijama y un batín. En tales momentos se mostraba sentimental.
+El primer maquinista, próximo a jubilarse, tenía el proyecto de casarse con una viuda a quien había conocido en el último viaje que hizo a su país, y pasar el resto de su vida en uno de esos pueblecitos de casas típicas de ladrillo rojo, a orillas del Zuiderzee.
+Pero el capitán, en cambio, se había vuelto muy vulnerable a los encantos de las nativas, y cuando me describía emocionado el efecto que le causaban se hacía casi ininteligible el rudo inglés en que se expresaba. Afirmaba que cualquier día compraría una casita en las sierras de Java y se casaría con una javanesa, porque eran pequeñas, amables y no hacían ruido; haría que se vistiese con ropas de seda y la obsequiaría con collares y pulseras de oro. Pero el primer maquinista se burlaba de él.
+—Eso me parece una tontería. Cuando tú te jubiles, mi querido amigo, necesitarás una enfermera y no una esposa.
+—¿Por casualidad te refieres a mí? —le preguntaba el capitán—. ¡Yo necesitaré una esposa aunque tenga ochenta años!
+Se había enamorado de una jovencita en Macassar, y cuando el vapor atracaba en el puerto se excitaba de un modo extraordinario.
+El primer oficial encogía sus pesados y gruesos hombros.
+El capitán seguía perdiendo la cabeza por una y otra mujer, pero su pasión por ella no duraba más que el tiempo que empleaba el barco en ir de un puerto a otro. Siempre tuvo necesidad de requerir la intervención del primer maquinista para calmar las escenas que se producían, y seguramente creyó que en aquella ocasión necesitarla también sus servicios.
+El primer maquinista afirmaba que el viejo lobo de mar sufría una afección cardíaca provocada por la gordura, pero mientras él estuviera a su lado para auxiliarse no habría nada que temer.
+—Es cierto que despilfarra su dinero lastimosamente, pero, al fin y al cabo, si lo quiere para eso, ¿por qué no habría de hacerlo?
+Yo desembarqué en Macassar, despidiéndome de mis cuatro gruesos amigos.
+—Haga otro viaje con nosotros —me pidieron—. Vuelva el año próximo o el siguiente, que nos encontrará a todos lo mismo que siempre.
+Pasaron muchos meses desde entonces, y yo recorrí más de un país extraño. Estuve en Bali, Java y Sumatra, y también en Camboya y en Anam. Y de vuelta, experimentando la sensación de quien se halla de regreso en su país, me encontraba sentado en el jardín del hotel Van Dorth.
+Era muy temprano y hacía fresco. Habiéndome desayunado, me entretenía hojeando los números atrasados del diario Noticias del Estrecho. Nada importante parecía haber sucedido. De pronto, mis ojos se fijaron en un título llamativo, que decía: “La tragedia del Utrecht. El sobrecargo y el primer maquinista, declarados inocentes.” Leí el título sin el menor interés, pero inmediatamente me incorporé atónito. El Utrecht era el nombre del barco de mis cuatro holandeses gordos, y, por lo que pude deducir, parecía que se había procesado por homicidio al sobrecargo y al primer maquinista. Pensé instintivamente que no debía tratarse de mis dos amigos. Se daban los nombres de los protagonistas, pero eso no representaba para mí ninguna orientación.
+El proceso se había celebrado en Batavia. No se daban más detalles en aquella noticia. Sólo decía que después que los jueces oyeron los alegatos del abogado defensor pronunciaron un veredicto de inculpabilidad. Quedé asombrado con la noticia. Parecía increíble que los hombres que yo había conocido pudieran haber cometido un crimen.
+No pude comprender cuál de ellos había sido asesinado. Examiné los números atrasados del diario en busca de más detalles, pero todo fue inútil.
+Me levanté y fui a ver al gerente del hotel, un holandés muy amable que hablaba correctísimamente el inglés, y le enseñé el párrafo citado.
+—Viajé en ese barco. Estuve a bordo cerca de un mes. Seguramente éstos no son los hombres que allí conocí. Aquéllos eran todos enormemente gordos.
+—Sí, señor, así es, efectivamente —me contestó—. Eran célebres en las Indias Orientales holandesas, y se les conocía por los cuatro hombres más gordos al servicio de la Compañía. Ha sido algo terrible y ha causado gran sensación, pues todo el mundo sabía que eran muy amigos. Yo también los conocía. Eran los individuos más buenos del mundo.
+—Pero ¿qué sucedió?
+Me contó lo ocurrido con gran lujo de detalles, contestando a la vez a cada una de mis preguntas, pero entre ellas había alguna a la que no pudo dar una respuesta categórica. Todo parecía confuso e increíble.
+Sólo se hacían conjeturas sobre lo sucedido. Alguien requirió en aquel momento la presencia del gerente, y yo volví al jardín.
+Empezaba ya a hacer calor y decidí subir a mi habitación, pero tenía el corazón oprimido.
+Por las referencias se deducía que en uno de los viajes el capitán había llevado consigo a una muchacha malaya con la cual había tenido relaciones, y me pregunté si sería la misma a quien parecía tan ansioso de ver cuando yo estaba a bordo. Por lo visto, los otros tres se opusieron a que la muchacha embarcara, diciendo que no veían la utilidad de llevar a una mujer a bordo. Pero el capitán insistió y finalmente la embarcó a pesar de todo. Creo sinceramente que los demás se mostraban algo celosos.
+En aquel viaje ya no se divirtieron como de costumbre. Cuando querían jugar al bridge, no podían convencer al capitán para que saliera de su camarote. Cuando llegaban a algún puerto y bajaban a tierra como solían hacer siempre, al capitán le parecía que el tiempo transcurría con demasiada lentitud, pues deseaba reunirse con la muchacha malaya. En consecuencia, quedaron truncadas todas sus juergas.
+El primer oficial era el que se oponía más encarnizadamente. Era el amigo más íntimo del capitán. Habían sido inseparables camaradas a bordo desde que llegaron de Holanda. En varias ocasiones le había censurado su conducta. Sus relaciones comenzaron gradualmente a enfriarse, llegando a saludarse únicamente cuando su deber los obligaba a ello, la camaradería que había existido entre los cuatro hombres gordos concluyó al fin. Las cosas iban de mal en peor. Los subordinados tenían el presentimiento de que algo anormal sucedería. Había inquietud y tensión.
+De pronto, una noche todos fueron despertados por un disparo de arma de fuego, a la vez que se oía gritar a la muchacha.
+El sobrecargo y el primer maquinista saltaron de sus literas y encontraron al capitán con un revólver en la mano en la puerta del camarote del primer oficial. El capitán, sin decir una palabra, subió a cubierta.
+Entraron en el camarote y vieron al primer oficial tendido en el suelo y muerto, y a la muchacha acurrucada tras la puerta. El capitán los había sorprendido juntos y había matado al oficial.
+La forma en que descubrió lo que venía sospechando aparecía rodeado de misterio. Se preguntaban si habría sido el primer oficial el que había inducido a la muchacha a ir a su camarote, o si ella, conociendo su genio vivo, se habría ofrecido a ser su amante con el deseo de aplacarlo.
+Era un misterio que parecía no poderse aclarar nunca. Por mi mente cruzaron docenas de posibles soluciones al enigma.
+Mientras el primer maquinista y el sobrecargo se hallaban en el camarote, horrorizados ante el espectáculo, se oyó otro disparo. Comprendieron en el acto lo que había sucedido y subieron precipitadamente.
+El capitán se había encerrado en su camarote, disparándose un tiro en la cabeza. Esto hizo que lo ocurrido pareciera más oscuro y enigmático.
+Al día siguiente no fue posible encontrar a la muchacha en ningún lugar del barco, y cuando el segundo oficial, que se había hecho cargo del vapor, informó de ello al sobrecargo, éste le contestó: “Posiblemente se ha tirado al mar. Es lo mejor que ha podido hacer, librándonos de tal basura.”
+Pero el serviola, poco antes de la madrugada, vio que el sobrecargo y el primer maquinista subían un abultado fardo de un tamaño aproximadamente igual al de una indígena, miraban cautelosamente alrededor y con grandes precauciones para no ser descubiertos lo arrojaban al mar. Entre los tripulantes se decía que aquellos dos hombres, con el fin de vengar la muerte de sus amigos, habían ido al camarote de la muchacha, la habían estrangulado y luego arrojado su cuerpo al mar.
+Cuando el barco llegó a Maccassar fueron arrestados y llevados a Batavia, donde se les procesó por homicidio. Las pruebas de la acusación eran de poco peso, por lo que fueron absueltos. Pero en todas las Indias Orientales se sabía que el sobrecargo y el primer maquinista se habían tomado la justicia por su mano en la causante de la muerte de los dos amigos a quienes tanto querían.
+Y éste fue el final de la cómica y celebrada amistad de los cuatro holandeses gordos.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

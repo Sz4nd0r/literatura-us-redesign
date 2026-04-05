@@ -1,0 +1,117 @@
+---
+layout: story
+title: La prueba cinematográfica
+slug: am_prueba
+source: https://www.literatura.us/idiomas/am/am_prueba.html
+tags:
+  - am_prueba
+  - am
+---
+Alberto Moravia
+(Roma, Italia, 1907 - Roma, 1990)
+La prueba cinematográfica (1952)
+[Otro título en español: “La inconsciencia”]
+(“Il provino”)
+Originalmente publicado en el periódico Il Corriere della Sera (12 de octubre de 1952);
+Racconti romani
+(Milán: Bompiani, 1954, 439 págs.)
+Serafino y yo somos amigos, aunque el trabajo nos haya llevado lejos uno de otro; él es chófer de un industrial y yo, operador y fotógrafo. También en el físico somos distintos: él es un rubio rizoso, con un rostro rosado, de niño, y con ojos a flor de piel, de un celeste intenso; yo, moreno, con un rostro serio, de hombre, y ojos hundidos y oscuros. Pero la verdadera diferencia radica en nuestros caracteres: Serafino es un mentiroso y yo, en cambio, no sé decir mentiras. Bueno, uno de estos domingos Serafino me hizo saber que necesitaba algo de mí; por su tono, adiviné que se trataba de un embrollo. Serafino arma de vez en cuando algunos muy gordos, por su manía de soltarlas de apuño. Acudí a la cita, en un café de la Plaza Colonna; y muy pronto llegó él con la primera mentira: el coche especial, de gran lujo, de su amo, a quien yo sabía ausente de Roma. Desde lejos me hizo un ademán de saludo, algo vanidoso, como si el coche hubiera sido suyo, y se fue a aparcar. Lo miré mientras venía hacia mí: estaba vestido como un lechuguino, con pantalones de pana amarilla, estrechos y cortos, una chaqueta con abertura detrás, un pañuelo de vivos colores en torno al cuello. Me acometió una sensación de antipatía, no sé por qué, y cuando se sentó observé, levemente ácido.
+—Pareces un señor.
+—Hoy soy un señor —respondió con énfasis.
+De momento, no lo entendí. E insistí:
+—¿Y el coche? ¿Has acertado una quiniela?
+—Es el coche nuevo del patrón —respondió con indiferencia. Se quedó un momento pensativo y luego añadió—: Oye, Mario, dentro de poco vendrán dos señoritas... Como ves, he pensado también en ti... Una para cada uno... Son muchachas de buena familia, hijas de un ingeniero del ferrocarril... Tú eres un productor cinematográfico... ¿Entendido?... No me traiciones.
+—Y tú, ¿quién eres?
+—Ya te lo he dicho: un señor.
+No dije nada y me puse de pie.
+—¿Qué haces?... ¿Te vas? —me dijo, alarmado.
+—Sí, me voy —respondí—; ya sabes que no me gustan las mentiras... Hasta la vista, que te diviertas.
+—Pero, espera... Me estropeas todo...
+—Quédate tranquilo, no te estropeo nada.
+—Espera, esas muchachas quieren conocerte.
+—Y yo no quiero, en cambio.
+En suma, discutimos un rato, yo de pie y él sentado. Por último, como soy un buen amigo, accedí a quedarme. Pero le advertí:
+—No te garantizo que vaya a sostener la mentira hasta el final.
+Pero él ya no me hacía caso; muy contento, me dijo:
+—Ahí llegan.
+Primero no vi más que los cabellos. Las dos tenían, en la cabeza, como dos balones de pelo encrespado, hinchados, tupidos. Luego, a duras penas, bajo aquellas dos enormes masas, entreví sus caras, delgadas y finas, parecidas a dos pajaritos que asoman por el nido. La figura de ambas era esbelta y ondulante, toda caderas y pecho, con unas cinturas de avispa que cabrían dentro de un servilletero. Pensé que eran gemelas porque estaban vestidas de la misma manera: falda escocesa, jersey negro y zapatos y bolsos rojos. Serafino, muy ceremonioso, se levantó e hizo las presentaciones:
+—Mi amigo Mario, productor, la señorita Iris, la señorita Mimosa.
+Ahora que estaban sentadas las miré mejor. Por la deferencia que le demostraba, comprendí que Serafino había escogido a Iris, dejándome a Mimosa. No eran gemelas; Mimosa, que aparentaba más de treinta años, tenía una cara más famélica, una nariz más larga, una boca más grande y un mentón más pronunciado que Iris; en resumidas cuentas, era casi fea. Iris, en cambio, podría tener unos veinte años y era muy mona. Pero observé también que ambas tenían las manos rojas y agrietadas, más bien de obreras que de señoritas. Entre tanto, Serafino, que desde su llegada parecía haberse vuelto tonto, hacía el gasto de la conversación: qué gusto verlas, qué morenas estaban, dónde habían ido este verano...
+—A Ven... —comenzó Mimosa.
+—A Viareggio —había respondido ya Iris.
+Entonces se miraron y se echaron a reír. Serafino preguntó:
+—¿Por qué se ríen?
+—No haga caso —dijo Mimosa—, mi hermana es tonta... Hemos estado primero en Venecia, en el hotel, y luego en Viareggio, en un chalet propiedad nuestra.
+Comprendí que mentía porque, al hablar había bajado los ojos. Era como yo: no sé decir mentiras mirando a la cara. Ella prosiguió, con desenvoltura:
+—Señor Mario, usted es productor... Serafino nos ha dicho que quiere hacernos una prueba.
+Me quedé desconcertado y miré a Serafino; pero él volvió la cabeza. Dije:
+—Mire, señorita... La prueba es como una película en pequeño, no se improvisa... Hacen falta un director, un operador, un estudio... Serafino no entiende de eso... Quizás, uno de estos días...
+—Uno de estos días quiere decir nunca.
+—Nada de eso, señorita, se lo aseguro...
+—Ande, sea bueno, háganos una prueba.
+Ahora se había vuelto insinuante, me había agarrado por un brazo, se apretaba contra mí. Comprendí que Serafino le había llenado de humo la cabeza con esta historia de la prueba e intenté explicarle de nuevo que una prueba no se podía hacer así, sin más ni más. Por fin, muy lentamente, fue comprendiéndolo; y me soltó el brazo. Luego le dijo a su hermana, que parloteaba con Serafino:
+—Ya te había dicho que no era más que cuento... Bueno, ¿qué hacemos? ¿Nos vamos a casa?
+Iris, que no se lo esperaba, se quedó disgustada. Dijo, vacilante:
+—Podríamos quedarnos con ellos... hasta esta noche.
+—Sí —se apresuró a proponer Serafino—, quedémonos juntos... Demos una vuelta en coche.
+—¿Usted tiene coche? —preguntó Mimosa, ablandada.
+—Sí, ahí está.
+Siguió el gesto, vio el coche y cambió en seguida el tono:
+—Vamos, pues... en el café, me aburro.
+Nos levantamos los cuatro, Iris marchó delante, con Serafino; y Mimosa se quedó a mi lado, diciendo:
+—¿No está ofendido, verdad?... Pero, sabe, estamos hartas de promesas... Entonces, ¿me hará la prueba?
+De modo que toda mi explicación no había servido para nada: quería su prueba. No le contesté y subí al coche, sentándome junto a ella, detrás, mientras Serafino e Iris se sentaban delante.
+—¿Dónde vamos? —preguntó Serafino.
+Mimosa me había agarrado de nuevo el brazo, me había cogido la mano y me la apretaba en la suya. Insistió, en voz baja:
+—Sea bueno, ea, diga que vamos al estudio, a hacer la prueba.
+Me quedé un momento silencioso, a causa de la rabia; y ella se aprovechó para añadir, siempre en voz baja:
+—Si me hace la prueba, mire, le doy un beso.
+Tuve una inspiración y propuse:
+—Vayamos a casa de Serafino... Tiene una hermosa casa... Así, allí podré verlas mejor a las dos y les diré si es posible hacer esa prueba.
+Vi que Serafino me lanzaba una mirada de reproche; el coche del amo, bien, lo exhibía como suyo; pero todavía no se había atrevido a llevar a nadie a la casa. Y, en efecto, intentó poner objeciones:
+—¿No sería mejor dar un buen paseo?
+Pero las muchachas, sobre todo Mimosa, insistieron; nada de paseos, había que discutir sobre la prueba. De modo que se resignó y salimos a toda velocidad hacia
+Parioli, donde estaba la casa. Durante el trayecto, Mimosa continuó restregándose contra mí, hablándome con una voz insinuante, baja, acariciadora. No la escuchaba; pero, de vez en cuando, sentía la consabida palabra, sobre la que remachaba como sobre un clavo:
+—La prueba... ¿Me hace la prueba?... Si hacemos la prueba...
+Llegamos a Parioli, con sus calles desiertas, entre las casas de lujo, todas vidrieras y balcones. Y el palacete del amo de Serafino, con la entrada de mármol negro, el ascensor de caoba y cristal. Subimos al tercer piso, entramos a oscuras, entre un olor de naftalina y de cerrado. Serafino advirtió:
+—Lo siento, he estado fuera, el departamento está todavía muy desordenado.
+Fuimos al salón; Serafino abrió de par en par las ventanas; nos sentamos en un diván recubierto de tela gris, ante un piano envuelto en sábanas sujetas con imperdibles. Dije, entonces, poniendo en práctica mi plan:
+—Ahora, nosotros las miramos; y ustedes caminen arriba y abajo por el salón... Así me haré una idea para la prueba.
+—¿Tenemos que enseñar las piernas? —preguntó Mimosa.
+—No, no, nada de piernas... Basta con que paseen.
+Dóciles, empezaron a pasear de un lado a otro, ante nosotros, sobre el pavimento de madera encerado. No se podía negar que eran graciosas, con aquellos dos cabezones hinchados, las caderas y el pecho bien desarrollados, las cinturas finas. Pero, como observé, además de las manos tenían también los pies feos y grandes. Y las piernas eran un poco torcidas, de una forma poco agraciada, dura. En resumen, chicas de esas que los productores no quieren ni para comparsas. Ellas, mientras tanto, se paseaban; y cada vez que se encontraban en el centro del salón se echaban a reír. De pronto, grité:
+—¡Alto! Ya basta, siéntense.
+Fueron a sentarse y me miraron con caras ansiosas. Dije, seco:
+—Lo siento, pero no me valen.
+—¿Y por qué?
+—Ahora mismo se lo explico... —dije, muy serio—. Yo, para mis películas, no necesito muchachas finas, educadas, distinguidas, señoriales, como ustedes... sino chicas del pueblo... muchachas que, si es preciso, sepan decir alguna palabrota, que se muevan de manera provocativa, que sean, en suma, descaradas, mal educadas, rústicas... Ustedes, en cambio, son hijas de un ingeniero, son chicas de fuena familia... No son lo que necesito.
+Miré a Serafino; estaba hundido en el diván, parecía embrutecido. Mimosa insistió:
+—¿Sólo hace falta eso?... Podemos fingir que somos chicas del pueblo.
+—Ni hablar; ciertas cosas no las sabe hacer quien no ha nacido así.
+Siguió un breve silencio. Había echado mi anzuelo y estaba seguro de que el pez picaría. En efecto, tras un momento, Mimosa se levantó y fue a cuchichear algo al oído de su hermana. Esta no parecía contenta, pero luego, al final, hizo un gesto de asentimiento. Entonces Mimosa se puso en jarras, se me acercó contoneándose y me dio un golpe en el pecho, diciendo:
+—Oye, macho, ¿con quién crees que estás hablando?
+Si dijera que se había transformado, diría demasiado. En realidad era ella, al natural. Respondí, riendo:
+—Con las hijas de un ingeniero del ferrocarril.
+—De eso nada, monada... Somos justo lo que necesitas... dos chicas del pueblo bajo... Iris es criada y yo trabajo como enfermera...
+—¿Y el chalet de Viareggio?
+—Nada de chaletes... Nos hemos tostado en Ostia.
+—Y ¿por qué habéis dicho tantas mentiras?
+—Yo no quería... —dijo Iris, ingenua—, pero Mimosa dice que hay que echar polvo a los ojos.
+—Por otra parte, si no hubiéramos dicho mentiras —observó Mimosa, positiva—, el señor Serafino no nos habría presentado a usted... Y por lo tanto ha resultado útil... Bien, entonces, ¿esa prueba?
+—Ya la hemos hecho —respondí riendo— y ha servido para demostrar que ustedes son dos buenas muchachas del pueblo... Más aún, mentira por mentira: yo no soy productor, sino un simple operador y fotógrafo... y Serafino, ahí donde lo ven, no es el señor que pretende ser: es chófer.
+Esta vez tengo que decir que Mimosa encajó magníficamente el golpe.
+—Bueno, me lo esperaba —dijo con melancolía—; tenemos mala suerte; si encontramos a alguien con coche es chófer... Vamos, Iris.
+Serafino se despertó, por fin.
+—Un momento... ¿a dónde van?
+—Nos largamos, señor mentiroso.
+De pronto me dieron pena las dos, sobre todo Iris, tan guapita, que parecía mortificada y tenía los ojos llenos de lágrimas. Propuse:
+—Oigan... Los cuatro hemos dicho mentiras... Olvidemos el asunto y vayamos juntos al cine... ¿Qué les parece?
+Siguió una discusión. Iris quería aceptar; Mimosa, todavía ofendida, no quería; Serafino, mustio, no se atrevía a hablar. Pero yo convencí a Mimosa diciéndole, finalmente:
+—Soy operador, no productor... pero puedo presentar a Iris a un ayudante de dirección que es amigo mío... No será una gran recomendación, pero algo será... Usted no vale, pero Iris quizás podría hacer algo.
+De modo que nos fuimos al cine, pero sin coche, en autobús. E Iris, en el cine, se apretó contra Serafino, que, pese a ser mentiroso y chófer, le gustaba. En cambio, Mimosa seguía en sus trece. Y, en un descanso, me dijo:
+—Yo soy un poco como la madre de Iris... ¿Verdad que es una chica muy guapa? Tenga en cuenta que usted ha hecho una promesa y que deberá mantenerla... ¡Ay de usted si no la mantiene!
+—Prometer y mantener es de cobarde —le dije, bromeando.
+—Usted ha hecho una promesa y la mantendrá —dijo ella—. Iris tiene que tener su prueba y la tendrá.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

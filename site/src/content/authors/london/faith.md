@@ -1,0 +1,173 @@
+---
+layout: story
+title: Hombres que creen
+slug: faith
+source: https://www.literatura.us/idiomas/london/faith.html
+tags:
+  - faith
+  - london
+---
+Jack London
+(San Francisco, California, 1876 – Glen Ellen, California, 1916)
+Hombres que creen (1902)
+[Otro título en español: “La fe de los hombres”]
+(“The Faith of Men”)
+Originalmente publicado en Sunset Magazine (junio de 1903);
+The Faith of Men
+(Nueva York: The Macmillan Company, 1904, 286 págs.), págs. 67-98.
+—Te repito que jugar un poco —dijo uno de aquellos dos hombres.
+—No está mal —contestó el interpelado, volviéndose, al hablar, hacia el indio que en un rincón de la cabaña, remendaba unos zapatos para la nieve—. Tú, Billebedam, corre como un buen muchacho a la cabaña de Oleson, y dile que deseamos que nos preste la caja de dados.
+Este encargo inesperado, hecho después de una conversación sobre salarios y alimentos, sorprendió a Billebedam. Además, eran las primeras horas de la mañana y él nunca había visto a hombres de la categoría de Pentfield y Hutchinson jugar a los dados hasta después de terminado el trabajo diurno. Pero cuando se puso los mitones y se dirigió a la puerta, su semblante estaba impasible, como el de todo indio del Yukon.
+A pesar de que ya eran las ocho, fuera reinaba todavía la oscuridad y la cabaña estaba alumbrada por una vela de grasa clavada en una botella vacía de whisky colocada sobre una mesa de pino entre un amasijo de platos de estaño, sucios. La grasa de innumerables bujías había goteado por el largo cuello de la botella y se había endurecido formando un glaciar en miniatura. La pequeña habitación presentaba el mismo desorden que la mesa; en un extremo, junto a la pared, había una litera con las mantas revueltas, tal como las habían dejado los dos hombres al levantarse.
+Lawrence Pentfield y Corry Hutchinson eran millonarios, aunque no lo pareciesen. No había nada de extraordinario en ellos y hubieran podido pasar por unos perfectos madereros de cualquier campamento de Michigan. Pero fuera, en la oscuridad, donde se abrían unos agujeros en el suelo, había muchos hombres ocupados en extraer del fondo de unos hoyos lodo, arena y oro que otros hombres separaban de las impurezas, trabajo por el cual percibían quince dólares diarios. Cada día se recogía oro por valor de miles de dólares y se subía a la superficie, y todo esto pertenecía a Pentfield y Hutchinson, quienes podían codearse con los más ricos de Bonanza.
+Pentfield rompió el silencio que siguió a la salida de Billebedam amontonando más los platos sucios de encima de la mesa y haciendo sonar una tonada con los nudillos en el espacio desocupado. Hutchinson, meditabundo, avivó la vela que humeaba y restregó entre el pulgar y el índice el carboncillo de la mecha.
+—¡Por Júpiter, yo quisiera que pudiéramos ir los dos! —exclamó de pronto—. Así, todo se arreglaría.
+Pentfield le miró sombrío.
+—Si no fuese por tu maldita tozudez, ya estaría resuelto de todas maneras. Lo que debes hacer es marcharte. Yo me quedaré al cuidado de las cosas hasta el año que viene, en que podré irme a mi vez.
+—¿Y por qué he de marcharme yo? No tengo a nadie que me espere…
+—Tu gente —le interrumpió secamente Pentsfield.
+—Lo mismo que a ti —dijo Hutchinson—. Te espera una muchacha, ya lo sabes.
+Pentfield se encogió de hombros tristemente:
+—Me parece que puede esperar.
+—Hace ya dos años que está esperando.
+—Otro más no la envejecerá hasta el punto de que no llegue a reconocerla.
+—Serán entonces tres años. Piénsalo bien; tres años en este extremo del mundo, en este endiablado lugar.
+Hutchinson levantó el brazo con un sordo gruñido.
+Era algunos años más joven que su socio (no tenía más de veintiséis), y en su semblante había la seriedad de los hombres que desean con ahínco las cosas de que se han visto privados durante mucho tiempo. La seriedad tenía el rostro de Pentfield y también dejó oír un gruñido al encogerse de hombros.
+—La noche pasada soñé que me hallaba en casa de Zinkand —dijo—. Sonaba la música, tintineaban los vasos, se oían murmullos de voces, risas de mujeres, y yo pedía huevos; sí, señor, huevos fritos, cocidos, pasados por agua, revueltos y de todas maneras y los engullía tan pronto como me los servían.
+—Yo hubiese pedido ensaladas y cosas verdes —exclamó ávidamente Hutchinson—, con un doble de excelente cerveza, cebollas tiernas y rábanos de esos que crujen al hincarles el diente.
+—Seguramente yo hubiese hecho venir eso después de los huevos, si no llego a despertar —replicó Pentfield.
+Cogió del suelo un banjo lleno de remiendos y comenzó a sacarle notas sueltas y discordantes, pulsando las cuerdas con los dedos.
+Hutchinson parpadeó y suspiró tristemente.
+—¡Cállate! —estalló de pronto, furioso, al atacar el otro una alegre tonadilla—. Me vuelvo loco. No lo puedo aguantar.
+Pentfield echó el banjo en un camarote y recitó:
+Escucha mi charla, que el más débil no confesaría:
+Yo soy la memoria y el tormento… ¡Yo soy la ciudad!
+¡Yo soy lo que acompaña al traje de noche!
+El otro se agitó en el asiento, echó la cabeza hacia delante y la apoyó en la mesa. Pentfield reanudó el monótono tamborileo con los nudillos. Un fuerte ruido junto a la puerta atrajo su atención. La helada iba invadiendo el interior como una sábana blanca; Pentfield empezó a tararear:
+Los rebaños están recogidos, las ramas desnudas;
+el salmón se dirige hacia el mar.
+Y ¡oh hermosa! Yo quisiera poder, en algún sitio,
+contigo mi corazón albergar.
+Se hizo un silencio, que no volvió a interrumpirse hasta que llegó Billebedam y puso la caja de los dados encima de la mesa.
+—Hace mucho frío —dijo—. Oleson ha hablado conmigo y me ha dicho que el Yukon se ha helado esta noche última.
+—¡Ya oyes, viejo! —gritó Pentfield dándole una palmada en el hombro—. El que gane, mañana a estas horas puede estar en camino para la tierra bendita.
+Cogió la caja haciendo sonar los dados alegremente.
+—¿Qué va a ser?
+—Levanta la caja de los dados y échalos —contestó Hutchinson.
+Pentfield apartó con estrépito los platos de la mesa. Ambos miraban ansiosamente. No consiguió ningún par obteniendo tan solo cinco puntos.
+—Mala jugada —gruñó Pentfield.
+Después de mucho pensar, Pentfield recogió los cinco dados y volvió a meterlos en la caja.
+—En tu lugar yo apostaría por el cinco —sugirió Hutchinson.
+—No, no lo harías si vieses esto que vas a ver —replicó Pentfield, y echó los dados.
+Tampoco esa vez hubo pares, corriendo sin interrupción del dos al seis.
+—¡Otra vez! —refunfuñó—. Tu juego no vale, Corry. Así no puedes perder.
+Hutchinson reunió los dados sin decir palabra, los agitó y los tiró encima de la mesa con un molinete y vio que también había obtenido seis puntos.
+—Quiero hacerlo mejor que tú —dijo cogiendo cuatro de ellos y removiéndolos dentro de la caja, hizo otra jugada de seis—. Ahora te gano.
+Los dados rodaron dos, tres, cuatro y cinco veces… y siguió jugando sin hacerlo mejor ni peor que Pentfield.
+Hutchinson suspiró.
+—Esto no ocurriría otra vez aunque lo repitieses un millón de veces —dijo.
+—Ni en un millón de vidas —añadió Pentfield cogiendo los dados y volviéndolos a tirar rápidamente.
+Aparecieron tres cincos, y luego de un buen rato fue premiado con otro cinco a la segunda jugada. Hutchinson pareció haber perdido la última esperanza.
+Pero en su primera jugada volvieron a salir tres seises. En los ojos de Pentfield se reflejó una gran duda al tiempo que en los de Hutchinson renacía la esperanza. Aún le quedaba una jugada. Otro seis, y cruzaría el hielo hacia el agua salada y los Estados.
+Agitó los dados en la caja, hizo como si fuese a tirarlos, titubeó y continuó agitándolos.
+—¡Anda, anda! No vas a pasarte así toda la noche —gritó con rudeza Pentfield.
+Y eran tales los esfuerzos que hacía para dominarse que doblaba las uñas sobre la mesa.
+Los dados salieron rodando y otro seis apareció ante sus ojos. Los dos hombres se quedaron con la mirada fija en él. Hubo un largo silencio. Hutchinson miró disimuladamente a su socio, quien con más disimulo aún lo notó, y encogió los labios tratando de mostrarse indiferente.
+Hutchinson se reía al levantarse. Era una risa nerviosa e insegura. En este caso resultaba más grosero ganar que perder. Se aproximó a su socio, que se volvió ferozmente hacia él:
+—Bueno, ahora no hables, Corry. Sé todo lo que vas a decir: preferirías quedarte y que me marchase yo, así que no lo digas. Tienes que ver a los tuyos en Detroit, y eso basta. Además, tú puedes hacer por mí lo mismo que yo esperaba haber hecho si me hubiese ido.
+—¿Quieres decir…?
+Pentfield leyó la pregunta compleja en los ojos de su socio y contestó:
+—Sí, eso mismo. Tú puedes traérmela. La única diferencia consistirá en que la boda se celebrará en Dawson en lugar de celebrarse en San Francisco.
+—¡Pero hombre! —repuso Hutchinson—. ¿Cómo se te ha ocurrido que yo pueda traerla? No somos precisamente hermanos. Además, no la conozco y no sería muy correcto, sabes, que viajáramos juntos. Claro que no habría inconveniente, ya lo sabemos; pero piensa en lo que diría la gente.
+Pentfield masculló unos juramentos, asegurando que estas preocupaciones solo eran propias de las regiones menos frías que Alaska.
+—Ahora, si quieres escuchar y no desvariar —dijo Hutchinson—, comprenderás que lo único factible en estas circunstancias es que seas tú el que se marche este año, y así, el próximo podré levantar yo el vuelo.
+Pentfield movió la cabeza aunque visiblemente dominado por la tentación.
+—No quiero, mi viejo Corry. Agradezco tu delicadeza, pero no quiero. Me avergonzaría cada vez que recordase que estás aquí esclavizado en mi lugar.
+De pronto, pareció que se le ocurría una idea. Se puso a hurgar en su cama revolviéndolo todo con gran impaciencia hasta encontrar papel y lápiz, luego sentándose a la mesa, empezó a escribir con rapidez.
+—Toma —dijo poniendo en la mano de su socio la carta que acababa de garabatear—. Entrega solamente esto y se arreglará todo.
+Hutchinson le dio una mirada rápida y la guardó.
+—¿Crees que su hermano consentirá en hacer este maldito viaje hasta aquí? —preguntó.
+—¡Oh, lo hará por mí… y por su hermana! —repuso Pentfield—. ¿Ves? No me fiaría si tuviese que hacer el viaje solo con la hermana, porque es un novato; pero contigo resultará un viaje fácil y seguro. Tan pronto como llegues, ve a su casa y prepárala. Después podrás continuar tu viaje hacia el este para ver a los tuyos y a la primavera, ella y su hermano estarán dispuestos para partir contigo. Sé que te gustará en cuanto la trates; la conocerás así que le eches la vista encima.
+Y mientras hablaba abrió la tapa posterior de su reloj y le enseñó el retrato de una joven pegado en el interior de la caja. Corry Hutchinson la contempló admirado.
+—Se llama Mabel —prosiguió Pentfield—. También será conveniente que sepas encontrar la casa. Tan pronto como llegues a San Francisco, toma un coche y di solamente: «Holmes place, Myrdon Avenue». No creo sea necesario decir lo de Myrdon Avenue. El cochero sabrá dónde vive el juez Holmes.
+—Además —continuó Pentfield después de una pausa—, no estaría de más que me comprases algunas de esas cositas que… hem…
+—Que un hombre casado debe tener en su casa —le interrumpió Hutchinson, riendo.
+Pentfield se rio también.
+—Naturalmente, servilletas, manteles, sábanas, fundas de almohada y cosas así. Y podrías comprar una buena vajilla. Ya comprenderás que a ella le será difícil poder ocuparse de todo esto. Puedes mandarlo todo en el vapor que hace la travesía por el mar de Behring. ¿Y qué te parece un piano?
+Hutchinson aprobó la idea cordialmente. Sus escrúpulos se habían desvanecido y aceptaba su misión con entusiasmo.
+—¡Por Júpiter, Lawrence! —dijo al final de la sesión, al ponerse ambos de pie—. Voy a traer a tu novia como si fuera una princesa. Yo guisaré y cuidaré de los perros, y el hermano solo tendrá que preocuparse porque ella vaya bien y procurarle las cosas que a mí se me olviden. Yo intentaré olvidar las menos posible, te lo aseguro.
+Al día siguiente Lawrence Pentfield le estrechó la mano por última vez, le vio correr con los perros y desaparecer por el helado Yukon hacia el mar y hacia la civilización. Pentfield se volvió a su mina de Bonanza, que ahora le pareció más horrible; y se preparó resueltamente a hacer frente al largo invierno. Allí había mucho trabajo, había que vigilar a los hombres, dirigir las operaciones y después ocuparse en el pago de los jornales; pero su corazón no estuvo en el trabajo ni en otra cosa hasta que sobre la colina situada detrás de la mina empezaron a levantarse las hileras de troncos de una nueva cabaña. Era espaciosa y abrigada, dividida en tres departamentos confortables. Cada tronco era cortado y ajustado a mano: un capricho caro, teniendo en cuenta que los operarios ganaban quince dólares al día; pero a él nada le parecía demasiado costoso tratándose de la casa que había de habitar Mabel Holmes.
+Así pues, se fue a echar una ojeada a las obras de la cabaña, cantando: «Y ¡oh hermosa! Yo quisiera poder, en algún sitio, contigo mi corazón albergar». Pentfield tenía un calendario clavado en la pared, sobre la mesa de su albergue. Lo primero que hacía cada mañana era arrancar la hoja del día anterior y contar los que faltaban para que llegase la primavera y con ella Mabel corriendo velozmente por el Yukon helado. Otro capricho suyo era no permitir que nadie durmiese en la nueva cabaña de la colina. Al venir Mabel a ocuparla quería que estuviese tan intacta como la madera de que estaba construida; y cuando se terminó cerró la puerta con un candado. Nadie sino él entraba allí, dentro solía pasarse largas horas, después salía con el rostro radiante y brillándole los ojos de alegría y entusiasmo.
+En diciembre recibió una carta de Corry Hutchinson. Acababa de ver a Mabel Holmes y afirmaba que reunía todas las cualidades para ser la digna esposa de Pentfield. Sucediéronse las cartas con breves intervalos, y a veces, cuando el correo se retrasaba, llegaban dos o tres juntas. Todas ellas en el mismo tono. Corry acababa de llegar de la Myrdon Avenue; Corry se iba a la Myrdon Avenue; o Corry se hallaba en la Myrdon Avenue; o Corry se hallaba en la Myrdon Avenue. Y prolongaba su estancia en San Francisco, sin mencionar siquiera el viaje a Detroit.
+Pentfield comenzó a pensar que su socio, a pesar de tener que marchar al este para ver a su familia, permanecía mucho tiempo al lado de Mabel Holmes. A veces se sorprendía preocupándose por este motivo; pero se hubiese preocupado más de no conocer tan bien a Mabel y a Corry. Por otra parte, las cartas de Mabel hablaban mucho de Corry. Al mismo tiempo se adivinaba una especie de temor, muy parecido al desafecto, siempre que se trataba del viaje por el hielo y de la boda en Dawson. Pentfield le contestaba animándola, riendo de sus recelos que él suponía mero temor físico ante los riesgos y las privaciones más bien que subterfugios de mujer.
+Pero el interminable invierno y la fastidiosa espera, después de los dos largos inviernos anteriores, habían influido en él. La dirección de los trabajos y la ocupación de pagar a los hombres no bastaban para romper el tedio de los días, y a finales de enero empezó a hacer algunos viajes a Dawson, donde durante unas horas, junto a las mesas de juego, podía olvidarse de su identidad. Deseando perder, ganaba, y «la suerte de Pentfield» llegó a ser proverbial entre los jugadores de faraón.
+Esta suerte le acompañó hasta la segunda semana de febrero. Es difícil conjeturar si hubiese durado más, ya que nunca volví a jugar después de una partida fuerte. Ocurrió en la Opera House, un día en que parecía imposible que apostara por una carta perdedora. En el silencio que sucedió al final de una jugada, mientras el croupier barajaba, Nick Inwood el banquero, advirtió sin que viniese a cuento:
+—Te aseguro, Pentfield, que tu socio lo pasa muy bien fuera de aquí.
+—Está bien que Corry se divierta —había contestado Pentfield—. Especialmente cuando se lo tiene bien ganado.
+—Sobre gustos nada hay escrito —dijo riendo Nick Inwood—; pero me resulta difícil llamarle diversión al matrimonio.
+—¡Corry casado! —gritó Pentfield sin poder creerlo, y no obstante, más sorprendido en aquel momento de lo que él mismo se figuraba.
+—Naturalmente —prosiguió Inwood—, lo leí en el periódico de San Francisco que llegó esta mañana.
+—Bueno, ¿y quién es ella? —preguntó Pentfield con ese algo de paciente fortaleza que adoptamos ante lo inesperado, presintiendo al mismo tiempo que van a reírse a costa nuestra.
+Nick Inwood sacó el periódico del bolsillo y empezó a recorrerlo diciendo:
+—Tengo mala memoria para los nombres, pero me parece que es algo así como Mabel… Mabel… ¡Ah, sí! Aquí está… Mabel Holmes, hija del juez Holmes… en su casa lo conocerán.
+Lawrence Pentfield no hizo el menor movimiento, pero se extrañó de que ningún hombre del norte pudiese conocer su nombre. Paseó fríamente la mirada por aquellas caras, tratando de descubrir algún indicio de la broma de que le hacían objeto; pero aparte de una sana curiosidad, aquellos semblantes no revelaban nada especial. Después se encaró con el banquero y le dijo en tono frío y sereno:
+—Inwood, apuesto quinientos a que todo lo que acabas de decir no está en el periódico.
+El banquero le miró entre burlón y sorprendido:
+—Vete a paseo, muchacho, no necesito tu dinero.
+—Ya lo suponía —dijo Pentfield con impertinencia, volviendo al juego y apostando a dos cartas.
+Nick Inwood se sonrojó como si dudara de sus sentidos y repasó cuidadosamente la cuarta parte de una columna impresa.
+Luego se volvió hacia Lawrence Pentfield.
+—Mira, Pentfield —dijo rápidamente, con gesto nervioso—. Yo no puedo consentir eso, ¿sabes?
+—¿Consentir qué? —preguntó Pentfield brutalmente.
+—Tú diste a entender que yo mentía.
+—Nada de eso —respondió—. Yo solo supuse que se trataba de una broma pesada.
+—¡Jueguen, señores! —protestó el banquero; y dirigiéndose a Pentfield insistió—. Pues te digo que es verdad.
+—Y yo te he dicho que apuesto quinientos a que eso no viene en el periódico —contestó Pentfield, colocando al mismo tiempo un pesado saco de polvo encima de la mesa.
+—Siento verme obligado a cogerte el dinero —replicó Inwood entregándole el periódico.
+Pentfield lo vio, pero no podía acabar de darle crédito. Echó una ojeada al título: «El joven Lochinvar ha llegado del norte». Recorrió de prisa el artículo hasta que sus ojos sorprendieron reunidos los nombres de Mabel Holmes y Corry Hutchinson, y entonces se fijó en el encabezamiento de la página. Era un periódico de San Francisco.
+—El dinero es tuyo, Inwood —advirtió con risa cortante—. Este socio mío nunca dice lo que piensa hacer cuando se marcha.
+Después volvió al artículo y lo leyó palabra por palabra, muy despacio y detenidamente. Ya no podía dudar. Sin disputa, Corry Hutchinson se había casado con Mabel Holmes. Le describían como «uno de los potentados de Bonanza, socio de Lawrence Pentfield (a quien la sociedad de San Francisco no había olvidado aún), asociado con este caballero en otras ricas propiedades del Klondike». Más adelante y hacia el fin leyó: «Se rumorea que míster y mistress Hutchinson, después de un breve viaje al este, a Detroit, harán su verdadero viaje de novios por la deliciosa región del Klondike».
+—Volveré enseguida, guárdame el sitio —dijo Pentfield levantándose y cogiendo el saco que había servido para parar el golpe, ahora con quinientos dólares menos.
+Bajó por las calles y compró un periódico de Seattle. Contenía los mismos detalles, aunque algo más resumidos. Corry y Mabel se habían casado sin duda alguna. Pentfield regresó a la Opera House y volvió a ocupar su sitio en el juego. Pidió cambiar cierta cantidad.
+—Tratas de recuperar lo perdido —dijo riendo Nick Inwood, al tiempo que asentía con un gesto—. Iba a marcharme a almacén de la A. C., pero me parece que me quedo para ver cómo ganas.
+Eso hizo Lawrence Pentfield después de dos horas de bucear en la suerte, cuando el comerciante cortando con los dientes la punta de otro cigarro y encendiendo una cerilla, anunció que la banca había quebrado. Pentfield cobró cuarenta mil dólares, estrechó la mano de Nick, y decidió que aquella era la última vez que jugaba a ninguna clase de juego.
+Nadie supo, ni sospechó siquiera, que había sufrido un duro golpe. En sus maneras no había ningún cambio aparente. Cuando leyó la noticia del matrimonio en un periódico de Portland, se puso al trabajo con más ahínco que nunca. Después fue a visitar a un amigo, a quien encargó del cuidado de la mina y partió por el Yukon detrás de sus perros. Siguió por el camino de Salt Water hasta alcanzar el de White River, por el que se dirigió. Cinco días más tarde llegó a un campamento de cazadores indios de White River. Por la noche hubo una fiesta, y él ocupó el sitio de honor al lado del jefe. Al día siguiente por la mañana obligó de nuevo a los perros a tomar la dirección del Yukon. Pero ya no viajaba solo. Aquella noche una joven india dio de comer a los perros y le ayudó a plantar la tienda. Durante su infancia la había mordido un oso y cojeaba ligeramente. Se llamaba Lashka, y al principio se mostró desconfiada con aquel hombre blanco tan extraño que había llegado de lo Desconocido y se había casado con ella sin casi dirigirle la vista ni la palabra y que ahora regresaba hacia lo Desconocido con ella.
+Pero Lashka tuvo mejor suerte que la mayoría de las muchachas indias casadas con hombres blancos del norte. Apenas llegados a Dawson solemnizaron a la manera del hombre blanco, ante un clérigo, el bárbaro matrimonio que les había unido. Desde Dawson, que para ella fue algo así como una maravilla y un sueño, la llevó directamente a sus posesiones de Bonanza y la instaló en la cabaña de troncos tallados de la colina.
+La indignación que levantó esta sorpresa no fue tanto por el hecho en sí, por la mujer que Lawrence Pentfield había elegido, sino por la ceremonia con que había legalizado la unión. Era precisamente la sanción del matrimonio lo que sobrepasaba la comprensión de aquella gente. Pero nadie fastidió a Pentfield acerca de ello. Mientras la extravagancia de un hombre no hiere directamente a la sociedad, la sociedad se contenta con dejarle solo; a Pentfield no se le negó la entrada en las cabañas de los hombres que tenían esposas blancas. La ceremonia matrimonial le había sacado de su posición de indio y le había puesto a salvo de todo reproche moral; pero había hombres que ponían en duda su buen gusto en lo que a mujeres se refería.
+Ya no llegaron más cartas de fuera. Seis trineos cargados de correspondencia se habían perdido en el Big Salmon. Además, Pentfield sabía que Corry y su mujer debían hallarse entonces por el camino, en el supuesto de que estuviesen en viaje de novios… el viaje de novios que había soñado para él durante dos años horribles. Con este pensamiento sus labios se replegaron en un gesto de amargura; pero la única manifestación que hizo fue mostrarse más afectuoso con Lashka.
+Marzo había pasado y abril llegaba a su fin, cuando una mañana de primavera Lashka pidió permiso para ir a la cabaña de Siwash Pete, varias millas río abajo. La esposa de Siwash Pete, una mujer de Stewart River, había mandado decir que su hijito no se encontraba bien, y Lashka, que sentía una pasión por los niños y que se creía muy entendida en materia de enfermedades de la infancia, no desdeñaba ninguna oportunidad de prestar sus cuidados a los niños de otras mujeres más afortunadas que ella.
+Pentfield aparejó los perros, y con Lashka, sentada detrás, emprendió el camino por el sinuoso lecho del Bonanza. La primavera se cernía en el aire. La mordedura del frío no era tan aguda a pesar de que la nieve seguía cubriendo la tierra; el murmullo y el gotear del agua indicaban que el invierno empezaba a soltar su presa. El fondo del sendero desaparecía, y aquí y allá el camino rodeaba, evitando agujeros recién abiertos. En un punto demasiado estrecho para dar cabida a dos trineos, Pentfield oyó aproximarse el sonido de unas campanillas y detuvo a los perros.
+Un tiro de perros de aspecto cansado seguido de un trineo excesivamente cargado apareció por el declive. Junto a la lanza iba un hombre, que miró a Pentfield de una manera familiar; detrás del trineo caminaban dos mujeres. Pentfield bajó y esperó. Se alegró de que Lashka fuera con él. Pensó que el encuentro, aun habiéndolo preparado, no hubiese podido ocurrir en mejores condiciones. Y mientras esperaba se preguntaba qué le dirían, qué podrían decirle. Eran ellos quienes debían dar explicaciones y él estaba dispuesto a escucharles.
+Cuando estuvieron frente a frente, Corry le reconoció y detuvo a los perros. Le tendió la mano con un: «¡Hola, viejo!».
+Pentfield la estrechó, pero sin calor y en silencio. Entretanto, llegaron las dos mujeres, y se dio cuenta de que la segunda era Dora Holmes. Se despojó de la gorra de piel, cuyas orejeras llevaba sueltas, le estrechó la mano y se volvió hacia Mabel. Ella se adelantó, espléndida y radiante, pero no se atrevió a coger la mano que él le ofrecía. Él había intentado decir: «¿Cómo está usted, señor Hutchinson?», pero sin saber cómo, la última palabra se le había atragantado y solo había logrado articular: «¿Cómo está usted?».
+La situación era tan ridícula y violenta como se hubiera podido desear. Mabel revelaba la inquietud propia de su posición, mientras Dora, evidentemente en su papel de pacificadora, decía:
+—Pero ¿qué pasa, Lawrence?
+Antes de que pudiera contestar, Corry le tiró de la manga y se lo llevó aparte.
+—Oye, viejo, ¿qué significa esto? —preguntó en voz baja, señalando a Lashka con los ojos.
+—No veo qué interés puedas tener tú en la cuestión, Corry —contestó burlonamente Pentfield.
+Pero Corry fue directamente al grano.
+—¿Qué hace esta india en tu trineo? Un negocio sucio, del que tendrás que darme explicaciones luego. Y confío que podrás explicármelo. ¿Quién es?
+Entonces Lawrence dio el último golpe, y lo dio con cierta tranquila suficiencia que pareció compensarle de la afrenta que le habían inferido.
+—Es mi mujer —dijo—. Mistress Pentfield, si prefieres.
+Corry Hutchinson se quedó con la boca abierta, y Pentfield le dejó, volviéndose hacia las dos mujeres. Mabel se hallaba perpleja y parecía no comprender nada de todo aquello. Se dirigió a Dora y le preguntó con entera naturalidad:
+—¿Cómo te ha sentado el viaje? ¿Te molestará el calor de la cama?…
+—Y a mistress Hutchinson, ¿cómo le ha sentado? —le preguntó él inmediatamente, con los ojos fijos en Mabel.
+—¡Oh, qué bobalicón! —gritó Dora abrazándole—. Entonces lo has leído también. Ya me parecía que había algo extraño en tu conducta.
+—Yo… yo apenas comprendo —tartamudeó Pentfield.
+—En el periódico del día siguiente venía enmendado —continuó Dora—. No creímos que llegaras a leerlo. Todos los demás diarios lo pusieron bien, y claro está, fuiste a leer precisamente ese maldito periódico.
+—¡Espera un momento! ¿Qué quieres decir?… —preguntó Pentfield, notando de pronto que el miedo se apoderaba de su corazón al sentirse al borde de un profundo abismo.
+Pero Dora prosiguió con volubilidad:
+—Pues tan pronto se supo que Mabel y yo nos íbamos al Klondike, el Every Other Week dijo que la Myrdon Avenue se quedaría muy «amable», queriendo dar a entender, por supuesto, muy «solitaria».
+—Entonces…
+—Soy yo mistress Hutchinson —respondió Dora—. Y tú te habías figurado que era Mabel.
+—Así es precisamente —replicó Pentfield muy despacio—. Pero ahora ya lo veo. El periodista confundió los nombres, y en Seattle y Portland copiaron el error.
+Durante un minuto permaneció callado. Mabel había vuelto el rostro hacia Pentfield, y este pudo ver cómo ardía con el fuego de la esperanza. Corry estaba profundamente preocupado con la rotura de una de sus sandalias, mientras Dora miraba disimuladamente el semblante inmutable de Lashka sentada en el trineo. Ante Pentfield surgió la visión de un porvenir horrible; se vio montado en un trineo tirado por perros veloces y teniendo al lado a Lashka la coja.
+Después habló con toda sencillez, clavando sus ojos en los de Mabel.
+—Lo siento mucho. Creí que te habías casado con Corry. Esta mujer que está sentada en el trineo es mistress Pentfield.
+Mabel se volvió hacia su hermana, extenuada, como si toda la fatiga de tan largo viaje hubiese descendido de pronto sobre ella. Dora la cogió por la cintura. Corry Hutchinson seguía ocupado con sus sandalias. Pentfield pasó la mirada rápidamente de un rostro a otro, después se dirigió a su trineo.
+—No podemos estar aquí todo el día, nos espera el niño de Pete —dijo a Lashka. Hizo silbar el látigo, los perros saltaron sobre el correaje del pecho, osciló el trineo y se lanzó por el camino.
+—¡Oye, Corry! —dijo Pentfield, llamándole de nuevo—. Podéis ocupar la antigua cabaña. No se ha usado mucho. Yo he construido otra en lo alto de la colina.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

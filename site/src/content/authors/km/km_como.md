@@ -1,0 +1,71 @@
+---
+layout: story
+title: Cómo secuestraron a Pearl Button
+slug: km_como
+source: https://www.literatura.us/idiomas/km/km_como.html
+tags:
+  - km_como
+  - km
+---
+Katherine
+Mansfield
+(Nueva Zelandia, 1888 -
+Francia, 1923)
+Cómo secuestraron a Pearl Button (1912)
+(“How Pearl Button was Kidnapped”)
+Originalmente publicado, bajo el seudónimo de Lili Heron,
+en Rhythm, Núm. 8 (septiembre de 1912);
+Something Childish and Other Stories
+(Londres: Constable and Company Limited, 1924, 262 págs.)
+Pearl Button se estaba meciendo subida en la puertecilla que había ante la casa de cuartitos chiquitos como cajones. Era poco después del mediodía y hacía sol. Unos vientecillos revoltosos, que jugaban al escondite, aupaban el delantal a Pearl, queriendo taparle la boca con los volantes, y alzaban el polvo de la calle por encima de la casa de cuartitos chiquitos como cajones. Y al mirar aquella nube de polvo, se acordó de su mamá cuando iba a sazonar el pescado y se le caía la tapa del bote de la mostaza. Se mecía sólita en el portillo cantando una cancioncilla, cuando pasaron por la calle dos mujeres gordas. Una vestida de rojo y la otra de verde y amarillo. Ambas llevaban pañuelos color rosa en la cabeza y en el brazo sendos canastos de helechos. No tenían zapatos ni medias, y, como estaban tan gruesas, caminaban muy despacito, riéndose y charlando. Al verlas, Pearl dejó de mecerse y las mujeres también se detuvieron a mirarla y hablaron entre sí, agitando los brazos y palmoteando. Lo que a Pearl le hizo reír.
+Entonces las dos mujeres se acercaron hasta el mismo seto, junto a la puertecilla, lanzando miradas temerosas hacia la casa de cuartitos chiquitos como cajones.
+—Hola, pequeña —dijo una.
+—Hola —respondió Pearl.
+—¿Estás sólita?
+Y ella dijo que sí con la cabeza.
+—¿Dónde está tu mamá?
+—En la cocina-planchando-porque-es-maar-tes.
+Las dos mujeres se rieron y ella rió también.
+—Hum —les dijo—, me parece que no tenéis muy limpios los dientes. Reíros otra vez.
+Y las dos mujeres morenas de nuevo rieron y otra vez se pusieron a hablar entre ellas con palabras muy raras y muy raros movimientos de brazos.
+—¿Cómo te llamas? —le preguntaron.
+—Pearl Button.
+—¿Quieres venir con nosotras, Pearl Button? Tenemos cosas muy bonitas que enseñarte —le dijo en voz baja una de las mujeres.
+Y Pearl, dejándose caer del lado de la calle, bajó de la puertecita y echó a andar entre las dos mujeres morenas por el camino batido por el viento, dan— ! do de vez en cuando pequeñas carreritas, para no quedarse atrás, y preguntándose qué sería lo que aquellas mujeres tenían en su casa de cuartitos chiquitos como cajones.
+Anduvieron mucho.
+—¿Estás cansada? —le preguntó una de las mujeres inclinándose hacia ella.
+Pearl dijo que no con la cabeza, y siguieron andando, andando.
+—¿No estás cansada? —le preguntó la otra mujer.
+Y ella dijo otra vez que no con la cabeza. Pero los ojos se le arrasaron de lágrimas y los labios empezaron a temblarle. Entonces una de las mujeres le pasó a la otra el cesto de helechos y la tomó en brazos. Y mientras sus piernecillas colgantes se balanceaban, Pearl reclinó la cabeza en el hombro de la mujer, cuyo cuerpo era más blando que una cama y olía tan bien que daban ganas de hundir la cara en su seno y respirar, respirar...
+Cuando la dejaron en el suelo se encontró en una habitación hecha con troncos de árbol y llena de gentes del mismo color de las mujeres, que se acercaron a ella para mirarla, riéndose, sacudiendo la cabeza y alzando los ojos al cielo. La mujer que había traído a Pearl en brazos le quitó la cinta que llevaba en la cabeza y dejó sueltos sus rizados cabellos.
+Entonces las otras mujeres se pusieron a dar gritos y la rodearon. Una le pasó el dedo por los dorados rizos, y otra, una jovencita, se los levantó por detrás para darle un beso en su blanco cuellito. Ella se sentía un poco avergonzada, pero al mismo tiempo feliz. También había hombres que fumaban sentados en el suelo con mantas y cobertores como de plumas sobre los hombros, y uno de ellos le hizo una mueca chistosa, sacó del bolsillo un melocotón muy grande, lo puso en el suelo y le dio con el dedo como si fuera una canica. El melocotón rodó derechamente hacia ella y Pearl lo cogió.
+—Perdón, ¿puedo comerlo?
+Al oírla todos se echaron a reír y palmotearon, y el hombre de la cara chistosa volvió a hacerle otra mueca, sacó una pera del bolsillo y la hizo andar bamboleándose, de lo que Pearl se rió. Las mujeres se sentaron en el suelo, y ella se sentó también; pero, como estaba muy sucio, se recogió con cuidado el delantal y el vestido para sentarse en las enagüitas, como le habían enseñado que debía hacer donde hubiera polvo.
+Al comer el melocotón el jugo le chorreó el vestido por delante.
+—¡Ay! —dijo a una de las mujeres muy alarmada—, me estoy manchando.
+—No te importe —repuso la mujer acariciándole la mejilla.
+Penetró en la habitación un hombre con un gran látigo en la mano. Gritó algo y todos se levantaron, riendo y envolviéndose en las mantas y cobertores como de plumas. Otra vez la llevaron en brazos, ahora a un carromato, y la pusieron junto al carretero, sentada en el regazo de una de las mujeres. El carro era verde y los caballos, uno rojizo y el otro negro. Salieron muy de prisa de la ciudad. El carretero iba en pie, blandiendo el látigo por encima de sus cabezas.
+Pearl, echando un vistazo sobre el hombro de la mujer, vio otros carros que venían tras ellos como una procesión, a los que saludó con la mano. Entonces empezaron a verse campos. Primero, praderas de hierba baja con ovejitas pastando, pequeños arbustos de florecillas blancas y multitud de rosales silvestres. Luego grandes árboles a uno y otro lado; nada más que grandes árboles. Pearl quería ver lo que había tras ellos, pero todo estaba obscuro, y en la obscuridad los pájaros cantaban. Se acurrucó en el regazo de la mujer. Era tibio como el de un gato, y subía y bajaba con la respiración igual que el de un gato cuando ronronea. Estaba jugueteando con un adorno verdoso que llevaba la mujer en el cuello, cuando ella le cogió la manecita y le fue besando dedo por dedo. Luego se la volvió para besarle los hoyuelos de la palma. Nunca había sido Pearl tan feliz. Al llegar a la cima de un gran monte hicieron alto, y el carretero, volviéndose hacia ella, le dijo señalándole con el látigo:
+—¡Mira, mira ahí!
+Abajo, al pie del cerro, había una cosa que no se parecía a nada: un gran trozo de agua azulosa, que venía gateando tierra adelante. Ella chilló y se apretujó contra la gruesa mujer.
+—¿Qué es eso? ¿Qué es?
+—El mar —le dijo ella.
+—¿No nos hará daño? Viene hacia aquí.
+—No, no viene. Es muy bonito: míralo otra vez.
+Pearl volvió a mirar.
+—¿Estás segura de que no puede venir hasta nosotros?
+—Claro que no. Él está en su sitio —dijo la gorda.
+Olas de blanco copete venían saltando sobre el azul. Pearl las estuvo viendo romper contra un trozo de tierra cubierta de arenilla con conchas, como los senderos de los jardines.
+Tomaron una curva y aparecieron unas casitas blancas que estaban agrupadas al lado del mar, y tenían huertecillos con vallados de madera, sobre los cuales había secándose ropas rojas, azules y color de rosa. Esto la tranquilizó. Al acercarse ellos salió de las casitas mucha gente y cinco perros canelos con los rabos muy largos y muy delgados. Y todas aquellas gentes estaban gordas y se reían. Había también nenes desnudos, que eran llevados en brazos o que correteaban en los huertecitos, como perrillos. Bajaron a Pearl del carro y la condujeron a una casita que tenía sólo un cuarto y una galería. Una muchacha con dos trenzas negras, que le llegaban hasta los pies, estaba sirviendo en el suelo la comida.
+—Qué sitio más divertido —dijo Pearl mirando a aquella chica tan bonita, mientras la mujer le desabotonaba las braguitas.
+Tenía mucha hambre y comió carne, verdura y frutas. La mujer le dio además leche en una taza verde. Y todo estaba en silencio menos el mar allá fuera y la risa de las mujeres que la miraban.
+—¿No tenéis vosotros casas con cuartitos chiquitos como cajones? ¿Casas de esas que están todas en fila? ¿No van los hombres a la oficina? ¿No hay aquí ninguna de esas cosas feas y antipáticas?
+Le quitaron los zapatos y los calcetines, el delantal y el vestido, y se puso a andar en enaguas, primero en la habitación y luego fuera, sobre la hierba que se le metía entre los deditos. Salieron las dos mujeres con cestas de diferentes clases, la cogieron de la mano y, atravesando un pequeño prado y una cerca, se dirigieron hacia el mar, andando sobre la arena caliente y cubierta de hierbajos negruzcos. Cuando la arena se volvió húmeda, Pearl retrocedió, pero la mujer le dijo con voz cariñosa:
+—No hace daño; es muy bonito. Ven.
+Cavaron en la arena, buscando conchas que iban echando a las cestas. La arena estaba mojada como esos pastelitos de barro que hacían los niños jugando. Y Pearl, olvidando sus temores, se puso a buscar también en la arena hasta que se sintió muy acalorada y muy mojadita. Entonces una hilera de espumas rompió de repente a sus pies.
+—¡Ay, ay, qué bonito! —gritó chapoteando, agitando con los pies aquella agua tibia y poco profunda.
+Juntó las dos manecitas para coger un poco de ella. Pero en sus manos el agua dejó de ser azul. Estaba tan contenta, que corrió hacia la mujer y, echándole al cuello los brazos, la acarició y la besó.
+De pronto la muchacha dio un grito de espanto. La mujer se incorporó y Pearl, dejándose caer en la arena, miró hacia el lado de tierra. Hombrecitos uniformados de azul, hombrecillos azules, se acercaban corriendo, dando voces y tocando silbatos. Una multitud de hombrecillos azules que venían a llevársela a la casa de cuartitos chiquitos como cajones.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

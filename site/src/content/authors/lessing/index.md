@@ -7,4 +7,177 @@ tags:
   - index
   - lessing
 ---
-¿Quién es Doris Lessing? ![Doris Lessing](/assets/images/lessing.jpg) Doris Lessing es una narradora, dramaturga, poeta y ensayista británica, galardonado con el Premio Nobel de Literatura en 2007. Doris May Tayler, su nombre de soltera, nació el 22 de octubre de 1919, en Kermanshah, Irán, de padres británicos. Era hija del capitán Alfred Tayler, quien había perdido una pierna durante su servicio en la Primera Guerra Mundial, y Emily Maude McVeagh de Tayler, una enfermera en el Royal Free Hospital de Londres. En 1925, su familia se mudó a la colonia británica de Rodesia del Sur (ahora Zimbabue) para cultivar maíz y otros cultivos en una granja que había comprado su padre. La familia permaneció allí hasta 1949, de donde se mudó a Londres, Inglaterra. Lessing se educó primero en la Escuela Secundaria del Convento Dominicano, una escuela para niñas del convento católico romano en la capital de Salisbury, en Rodesia del Sur (ahora Harare) y después en Girls High School en Salisbury; pero, después de un año, cuando tenía 13 años, dejó la escuela. Abandonó la familia a los 15 años y empezó a trabajar como niñera. También comenzó a vender sus relatos a varias revistas. Cuando tenía 18 años se mudó a Salisbury para trabajar como telefonista. Allí se casó con su primer esposo, el funcionario Frank Wisdom; tuvieron dos hijos y el matrimonio se disolvió en 1943. Lessing abandonó la casa, en 1943, dejando a los dos hijos con su padre. Después del divorcio, Lessing se unió al Left Book Club, donde conoció a su segundo esposo, Gottfried Lessing. Se casaron y tuvieron un hijo, pero se divorciaron en 1949. No volvió a casarse. Entre 1943 y 1949, Lessing vivió un romance con John Whitehorn, un militar de la Royal Air Force estacionado en Rodesia del Sur. En 1949, Lessing se mudó a Londres con su hijo menor, aunque dejó a los dos hijos mayores con su padre, Frank Wisdom, en Sudáfrica. En 1950 publicó su primera novela, The Grass Is Singing. Al año siguiente publicó su primera colección de relatos, This Was the Old Chief’s Country (1951); seguido de Five Short Novels (1953); otra novela tres años después, Retreat to Innocence (1956) y otra colección de relatos al año siguiente, The Habit of Loving (1957). Sin embargo, no fue hasta la publicación de su tercera novela, The Golden Notebook (1962), cuando verdaderamente obtuvo el reconocimiento internacional. Estuvo asociada con el comunismo y fue una activa antirracista. Fue miembro del Partido Comunista Británico; pero, en 1956, después de la invasión soviética de Hungría, dejó el partido. Estuvo bajo vigilancia por las agencias de inteligencia británicas durante más de veinte años, a partir de principios de la década de 1940. A finales de 1998, Lessing sufrió un derrame cerebral que le impidió viajar durante sus últimos años. Murió el 17 de noviembre de 2013, a la edad de 94 años, en su casa en Londres. Publicó más de 50 novelas, más de 20 colecciones de relatos, cinco libros de memorias, ocho libros de ensayos, dos de drama y dos colecciones de poemas. ÍNDICE: Narrativa: This Was the Old Chief’s Country. Stories (1951): —El viejo jefe Mshlanga (1951) —Sale el sol en la llanura (1951) —La brujería no se vende (1951) [“The Second Hut”] [“The Nuisance”] [“The De Wets come to Kloof Grange] —El pequeño Tembi (1951) [“Old John’s Place”] [“Leopard George”] “Winter in July”] Five Short Novels (1953): 1. [“A Home for the Highland Cattle”] —2. La otra mujer (1953) 3. [“Eldorado”] 4. [“The Antheap”] —5. Hambre (1953) The Habit of Loving (1957): —La costumbre de amar (1957) [“The Words He Said”] —La mujer (1957 —A través del túnel (1955) [“Lucy Grange”] —Placer (1957) [“A Mild Attack of Locusts”] [“The Witness”] [“Flavours of Exile”] [“Getting Off the Altitude” [“A Road to the Big City”] —Vuelo (1948) —El día que murió Stalin (1957) [“Plants and Girls”] —Vino (1957) —Él (1957) —“El ojo de Dios en el paraíso” (1957) A Man and Two Women and Other Stories (1963): —Seleccionada para una entrevista (1963) —Historia de dos perros (1963) —El sol entre los pies (1963) —Una mujer en la azotea (1963) —Cómo perdí al fin mi corazón (1963) —Un hombre y dos mujeres (1963) —Una habitación (1963) —Inglaterra contra Inglaterra (1963) —Dos alfareros (1963) —Entre hombres (1963) —Carta de casa (1963) —Nuestra amiga Judith (1960) —Cada cual (1963) —Homenaje a Isaac Babel (1961) —Ante el ministerio (1963) —Diálogo (1963) —Apuntes para un caso histórico (1963) [“The New Man”] —La habitación diecinueve (1963) African Stories (Londres, 1964; Estados Unidos, 1965): —La Madonna negra (1957) —Traidoras (1964) The Story of a Non-Marrying Man and Other Stories (1972) [Inglaterra] The Temptation of Jack Orkney and Other Stories (1972) [Estados Unidos]: —Historia del hombre que nunca se casaba (1972) —Una anciana y su gato (1972) —Ventajas colaterales (1968) —Un año en Regent’s Park (1972) —Informe sobre la ciudad amenazada (1971) —La señora Fortescue (1963) —Una carta de amor no enviada (1964) —Leones, hojas, rosas… (1968) —Una historia poco agradable (1972) —Espías a los que he conocido (1971) —Junto a la fuente (1972) —El otro jardín (1972) —La tentación de Jack Orkney (1972) The Temptation of Jack Orkney. Collected Stories Volume Two (1994, 2002): —El suéter italiano (1992) —Reflexiones de un casi humano (1994) 
+
+¿Quién es Doris Lessing? ![Doris Lessing](/assets/images/lessing.jpg) Doris Lessing es una narradora, dramaturga, poeta y ensayista británica, galardonado con el Premio Nobel de Literatura en 2007. Doris May Tayler, su nombre de soltera, nació el 22 de octubre de 1919, en Kermanshah, Irán, de padres británicos. Era hija del capitán Alfred Tayler, quien había perdido una pierna durante su servicio en la Primera Guerra Mundial, y Emily Maude McVeagh de Tayler, una enfermera en el Royal Free Hospital de Londres.
+
+En 1925, su familia se mudó a la colonia británica de Rodesia del Sur (ahora Zimbabue) para cultivar maíz y otros cultivos en una granja que había comprado su padre. La familia permaneció allí hasta 1949, de donde se mudó a Londres, Inglaterra. Lessing se educó primero en la Escuela Secundaria del Convento Dominicano, una escuela para niñas del convento católico romano en la capital de Salisbury, en Rodesia del Sur (ahora Harare) y después en Girls High School en Salisbury; pero, después de un año, cuando tenía 13 años, dejó la escuela.
+
+Abandonó la familia a los 15 años y empezó a trabajar como niñera. También comenzó a vender sus relatos a varias revistas. Cuando tenía 18 años se mudó a Salisbury para trabajar como telefonista. Allí se casó con su primer esposo, el funcionario Frank Wisdom; tuvieron dos hijos y el matrimonio se disolvió en 1943. Lessing abandonó la casa, en 1943, dejando a los dos hijos con su padre. Después del divorcio, Lessing se unió al Left Book Club, donde conoció a su segundo esposo, Gottfried Lessing. Se casaron y tuvieron un hijo, pero se divorciaron en 1949.
+
+No volvió a casarse. Entre 1943 y 1949, Lessing vivió un romance con John Whitehorn, un militar de la Royal Air Force estacionado en Rodesia del Sur. En 1949, Lessing se mudó a Londres con su hijo menor, aunque dejó a los dos hijos mayores con su padre, Frank Wisdom, en Sudáfrica. En 1950 publicó su primera novela, The Grass Is Singing. Al año siguiente publicó su primera colección de relatos, This Was the Old Chief’s Country (1951); seguido de Five Short Novels (1953); otra novela tres años después, Retreat to Innocence (1956) y otra colección de relatos al año siguiente, The Habit of Loving (1957).
+
+Sin embargo, no fue hasta la publicación de su tercera novela, The Golden Notebook (1962), cuando verdaderamente obtuvo el reconocimiento internacional. Estuvo asociada con el comunismo y fue una activa antirracista. Fue miembro del Partido Comunista Británico; pero, en 1956, después de la invasión soviética de Hungría, dejó el partido. Estuvo bajo vigilancia por las agencias de inteligencia británicas durante más de veinte años, a partir de principios de la década de 1940. A finales de 1998, Lessing sufrió un derrame cerebral que le impidió viajar durante sus últimos años.
+
+Murió el 17 de noviembre de 2013, a la edad de 94 años, en su casa en Londres. Publicó más de 50 novelas, más de 20 colecciones de relatos, cinco libros de memorias, ocho libros de ensayos, dos de drama y dos colecciones de poemas.
+
+ÍndiceNarrativa
+ This Was the Old Chief’
+
+s Country. Stories (1951):
+—
+
+El viejo jefe Mshlanga (1951)
+—
+
+Sale el sol en la llanura (1951)
+—
+
+La brujería no se vende (1951)
+[“The Second Hut”] [“The Nuisance”] [“The De Wets come to Kloof Grange] —
+
+El pequeño Tembi (1951)
+[“Old John’s Place”] [“Leopard George”] “Winter in July”]
+
+Five Short Novels (1953):
+1. [“A Home for the Highland Cattle”] —2
+
+La otra mujer (1953)
+3. [“Eldorado”] 4. [“The Antheap”] —5
+
+Hambre (1953)
+
+The Habit of Loving (1957):
+—
+
+La costumbre de amar (1957)
+[“The Words He Said”] —La mujer (1957 —
+
+A través del túnel (1955)
+[“Lucy Grange”] —
+
+Placer (1957)
+[“A Mild Attack of Locusts”] [“The Witness”] [“Flavours of Exile”] [“Getting Off the Altitude” [“A Road to the Big City”] —
+
+Vuelo (1948)
+—
+
+El día que murió Stalin (1957)
+[“Plants and Girls”] —
+
+Vino (1957)
+—É
+
+l (1957)
+—“El ojo de Dios en el paraíso” (1957)
+
+A Man and Two Women and Other Stories (1963):
+—
+
+Seleccionada para una entrevista (1963)
+—
+
+Historia de dos perros (1963)
+—
+
+El sol entre los pies (1963)
+—
+
+Una mujer en la azotea (1963)
+—
+
+Cómo perdí al fin mi corazón (1963)
+—
+
+Un hombre y dos mujeres (1963)
+—
+
+Una habitación (1963)
+—
+
+Inglaterra contra Inglaterra (1963)
+—
+
+Dos alfareros (1963)
+—
+
+Entre hombres (1963)
+—
+
+Carta de casa (1963)
+—
+
+Nuestra amiga Judith (1960)
+—
+
+Cada cual (1963)
+—
+
+Homenaje a Isaac Babel (1961)
+—
+
+Ante el ministerio (1963)
+—
+
+Diálogo (1963)
+—
+
+Apuntes para un caso histórico (1963)
+[“The New Man”] —
+
+La habitación diecinueve (1963)
+African Stories (Londres, 1964; Estados Unidos, 1965): —
+
+La Madonna negra (1957)
+—
+
+Traidoras (1964)
+The Story of a Non-
+
+Marrying Man and Other Stories (1972)
+[Inglaterra]
+
+The Temptation of Jack Orkney and Other Stories (1972)
+[Estados Unidos]: —
+
+Historia del hombre que nunca se casaba (1972)
+—
+
+Una anciana y su gato (1972)
+—
+
+Ventajas colaterales (1968)
+—Un año en Regent’
+
+s Park (1972)
+—
+
+Informe sobre la ciudad amenazada (1971)
+—
+
+La señora Fortescue (1963)
+—
+
+Una carta de amor no enviada (1964)
+—Leones, hojas, rosas… (1968) —
+
+Una historia poco agradable (1972)
+—
+
+Espías a los que he conocido (1971)
+—
+
+Junto a la fuente (1972)
+—
+
+El otro jardín (1972)
+—
+
+La tentación de Jack Orkney (1972)
+The Temptation of Jack Orkney.
+
+Collected Stories Volume Two (1994, 2002): —
+
+El suéter italiano (1992)
+—
+
+Reflexiones de un casi humano (1994)

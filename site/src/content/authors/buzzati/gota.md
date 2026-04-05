@@ -1,0 +1,33 @@
+---
+layout: story
+title: Una gota
+slug: gota
+source: https://www.literatura.us/idiomas/buzzati/gota.html
+tags:
+  - gota
+  - buzzati
+---
+Dino Buzzati
+(Belluno, Italia, 1906 - Milán, 1972)
+Una gota (1945)
+(“Una goccia”)
+Originalmente publicado en el periódico Corriere della Sera (25 de enero de 1945);
+Paura alla Scala
+(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)
+Una gota de agua sube los peldaños de la escalera. ¿La oyes? Tumbado en la cama a oscuras, escucho su misterioso recorrido. ¿Qué hace? ¿Brinca? Tic, tic, se oye de forma intermitente. Después la gota se detiene y quizá durante lo que queda de noche no vuelva a dar señales de vida. Sin embargo, sigue subiendo. De peldaño en peldaño viene hacia arriba, a diferencia de las otras gotas, que caen perpendicularmente obedeciendo las leyes de la gravedad, y al final hacen un pequeño chasquido perfectamente conocido en todo el mundo. Esta no: poco a poco asciende por la caja de la escalera E de la inmensa casa de vecinos.
+No fuimos nosotros, adultos, refinados, enormemente sensibles, quienes reparamos en ella, sino una criadita del primer piso, demacrada, bajita e ignorante. Se dio cuenta una noche, a última hora, cuando ya se habían ido todos a dormir. Al cabo de algún tiempo no pudo reprimirse, se levantó de la cama y corrió a despertar a su señora. “Señora”, susurró, “¡señora!”. “¿Qué ocurre?”, respondió su ama sobresaltándose. “¡Hay una gota, señora, una gota que está subiendo por las escaleras!”. “¿Qué dices?”, preguntó la otra desconcertada. “¡Una gota que sube los peldaños!”, repitió la criadita a punto de echarse a llorar. “¿Pero qué estás diciendo?”, imprecó el ama. “¿Estás loca? Vuelve a la cama, ¡largo de aquí inmediatamente! Has bebido, eso es lo que te pasa, desvergonzada. ¡Hace tiempo que falta el vino de la botella! Si crees, majadera…”. Pero la chiquilla había huido y ya estaba acurrucada bajo las sábanas.
+“Vete a saber lo que se le habrá pasado por la cabeza a esa estúpida”, pensaba luego el ama, en silencio, ya desvelada. Y escuchando involuntariamente en medio de la noche que reinaba sobre el mundo, ella también oyó el singular ruido. Una gota subía por las escaleras, no había duda.
+Celosa del orden, la señora pensó por un instante salir a ver. ¿Pero qué habría podido encontrar a la escasa luz de las bombillas oscuras que colgaban de la barandilla? ¿Cómo hallar una gota en plena noche, con aquel frío, en los tenebrosos tramos?
+Los días siguientes la noticia corrió lentamente de familia en familia, y ahora todos los vecinos de la casa lo saben, aunque prefieran no hablar de ello, como si fuera una tontería de la que posiblemente habría que avergonzarse. Ahora, cuando la noche ha caído para oprimir al género humano muchos aguzan el oído en la oscuridad. Y unos piensan en una cosa, y otros, en otra.
+Ciertas noches la gota calla. Otras veces, en cambio, durante largas horas no hace nada más que subir y subir, se diría que no va a detenerse nunca. Palpitan los corazones cuando el delicado paso parece acercarse al umbral. No se ha parado, menos mal. La oyen alejarse, tic, tic, dirigiéndose al piso de arriba.
+Sé a ciencia cierta que los inquilinos del entresuelo piensan que ya están a salvo. La gota, creen, ha pasado ya por delante de su puerta, y ya no volverá a molestarles. Los que vivimos en el sexto ahora tenemos motivos para preocuparnos, mientras que ellos ya no. Pero ¿cómo pueden estar seguros de que en las próximas noches la gota reanudará el camino desde el último punto donde llegó y no empezará desde el principio, comenzando el viaje desde los primeros peldaños, siempre húmedos, oscuros y sucios de basuras? No, ni siquiera ellos pueden considerarse seguros.
+Por las mañanas, al salir de casa, miramos con atención la escalera para ver si ha quedado algún rastro. Nada, como era de prever, ni la más pequeña huella. Por lo demás, ¿quién sigue tomando por la mañana esta historia en serio? Aunque pocas horas antes haya estado atemorizado, con el primer rayo de sol el hombre se hace fuerte, es un león.
+¿No tendrán razón los del entresuelo? Por lo demás, nosotros, que antes no oíamos nada y nos manteníamos a salvo, de unas noches a esta parte también oímos algo. La gota está todavía lejos, es verdad. Sólo nos llega un repiqueteo ligerísimo, débil eco a través de las paredes. Sin embargo, es señal de que está subiendo y se acerca cada vez más.
+Tampoco sirve de nada dormir en una habitación interior, alejada de la caja de la escalera. Es preferible oír el ruido a pasarse las noches con la duda de si está ahí o no. Quienes viven en esos recónditos cuartos a veces no pueden aguantar, salen en silencio a los pasillos y se quedan en el recibidor expuestos al frío, detrás de la puerta, sin respirar, escuchando. Si la oyen, ya no se atreven a alejarse, esclavos de oscuros temores. Pero todavía es peor cuando todo está en calma: en este caso, ¿cómo descartar que, en cuanto vuelvan a acostarse, justo entonces, no comenzará el ruido?
+¡Qué extraña vida esta en la que no se puede hacer reclamaciones, ni intentar remedio alguno, ni hallar ninguna explicación que tranquilice los ánimos! Y tampoco poder convencer a los demás, a los de las otras casas, a los que todavía no saben y que, con exasperante buena fe, preguntan: Pero ¿qué es realmente esa gota?, ¿un ratón? ¿Un sapito surgido de los sótanos? No, por supuesto que no.
+¿No será entonces una alegoría? ¿Un símbolo de la muerte, por decirlo de alguna manera? ¿O de un peligro que acecha? ¿O de los años que pasan? Ni por asomo, señores: se trata simplemente de una gota, de una gota, eso sí, que sube por la escalera.
+¿No será tal vez una representación más sutil de los sueños y las quimeras? ¿De las tierras anheladas y lejanas donde se supone que se encuentra la felicidad? ¿No será algo poético, en suma? No, en absoluto.
+O bien preguntan ¿no se tratará de un lugar más lejano todavía, en el fin del mundo, al que nunca llegaremos? Os digo que no, que hablo en serio, que no hay dobles sentidos. Por lo que se puede colegir, se trata exactamente, ¡ay!, de una gota de agua que de noche sube por la escalera. Tic, tic, misteriosamente, de peldaño en peldaño. Y que por eso tenemos miedo.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,47 @@
+---
+layout: story
+title: Finales Felices
+slug: ma_end
+source: https://www.literatura.us/idiomas/ma_end.html
+tags:
+  - ma_end
+  - ma
+---
+Margaret Atwood
+(Ottawa, Ontario, Canada, 1939–)
+Finales Felices
+(“Happy Endings”)
+Murder in the Dark: Short Fictions and Prose Poems
+(Toronto: Coach House Books, 1983, 85 págs.)
+John y Mary se conocen.
+¿Qué pasa después?
+Si quieres un final feliz, elige el A.
+A.
+John y Mary se enamoran y se casan. Ambos tienen trabajos dignos y muy lucrativos, que les parecen interesantes y estimulantes. Compran una casa encantadora. El valor de las propiedades sube. Cuando finalmente pueden pagar por un servicio de limpieza, tienen dos hijos, a quienes adoran. Los niños crecen bien. John y Mary tienen una estimulante y a la vez desafiante vida sexual, y también amigos que valen la pena. Juntos disfrutan de divertidas vacaciones. Se jubilan. Ambos tienen pasatiempos que encuentran estimulantes y desafiantes. Por último, mueren. Este es el final de la historia.
+B.
+Mary se enamora de John pero John no corresponde a sus sentimientos. Tan sólo usa su cuerpo para saciar su propio placer y, de una manera indiferente, para satisfacer su ego. Va a su departamento dos veces a la semana y ella le cocina (notarás que él ni siquiera cree que ella merece una cena fuera), después de que come se la coge y finalmente se duerme mientras ella lava los platos, para que no piense que es desaseada con todos esos platos sucios tirados por doquier, y se pone lápiz de labios para verse bien cuando él despierte, pero cuando se despierta él ni se da cuenta, se pone sus calcetines y sus pantalones y su camisa, y su corbata y sus zapatos, justamente al revés de como se los quitó. No desnuda a Mary, ella lo tiene que hacer, actúa como si se muriera de ganas cada vez, no porque le guste mucho el sexo, no le gusta, pero quiere que John piense que sí le gusta porque si lo hacen con regularidad seguro que él se acostumbrará a ella, aprenderá a depender de ella y se casarán, pero John difícilmente se despide cuando cruza la puerta para irse y tres días después regresa a las seis en punto y repiten todo lo anterior.
+Mary se quiebra. Llorar hace que una cara parezca deslucida, todos los saben, incluso Mary, pero no puede parar. En su trabajo lo empiezan a notar. Sus amigos le dicen que John es una rata, un cerdo, un perro, que no la merece, pero ella no lo puede creer. Dentro de John, ella piensa, hay otro John que es mucho mejor. Ese otro John surgiría como una mariposa de su capullo, como un muñeco de una caja de resorte, como un hueso de una ciruela, si tan sólo exprimiera lo suficiente al primer John.
+Una tarde John se queja de la comida. Nunca se había quejado de la comida. Mary se siente herida.
+Sus amigos le dicen que lo han visto en un restaurante con otra mujer que se llama Madge. En realidad, ni siquiera es Madge quien molesta a Mary, es el restaurante. John nunca llevó a Mary a ningún restaurante. Mary junta todas las pastillas para dormir y aspirinas que puede encontrar, las toma junto con media botella de jerez. Puedes saber qué clase de mujer es por el hecho de que ni siquiera tiene whisky. Deja una nota para John. Espera que la descubra y la lleve al hospital a tiempo y se arrepienta y se casen, pero nada de esto ocurre y ella muere.
+John se casa con Madge y todo sigue como en A.
+C.
+John, que es un hombre maduro, se enamora de Mary, y a ella, que tan sólo tiene veintidós, le causa compasión porque está preocupado por su incipiente calvicie. Se acuesta con él aunque no está enamorada. Lo conoció en el trabajo. Está enamorada de un tipo llamado James, quien, como ella, tiene veintidós, pero que no está listo para sentar cabeza.
+John, por el contrario, sentó cabeza hace mucho tiempo: esto es lo que le está fastidiando. John tiene un trabajo fijo y respetable y está ascendiendo en su área, pero Mary no está impresionada, le fascina James, que tiene una motocicleta y una increíble colección de discos. Pero James monta en su motocicleta en busca de la libertad demasiado seguido. La libertad no es lo mismo para las chicas, así que, por mientras, Mary pasa los jueves con John. Los jueves son los únicos días que John tiene libres.
+John está casado con una mujer llamada Madge, y ellos tienen dos hijos, una casa encantadora que compraron justo antes de que las propiedades subieran de precio, y pasatiempos que ambos encuentran estimulantes y desafiantes… cuando tienen tiempo. John le dice a Mary que ella realmente le importa, pero que por supuesto no puede dejar a su esposa, porque un compromiso es un compromiso. Él repite esto más veces de las necesarias y Mary encuentra el tema realmente fastidioso, pero los hombres maduros pueden hacerlo por mucho más tiempo así que no se la pasa tan mal.
+Un día, el viento trae consigo a James, a su motocicleta y a un híbrido de California genial; James y Mary están más drogados de lo que podrías creer y así se van a la cama. Todo parece como si sucediera por debajo del agua, pero el viento trae también John, quien tiene las llaves del departamento de Mary. Los encuentra drogados y pegados. Difícilmente está en una posición de tener celos si se toma en cuenta a Madge, pero aun así enloquece. Después de todo se encuentra en la crisis de los cuarenta; en dos años se quedará tan pelón como un huevo y simplemente no puede soportarlo. Compra una pistola diciendo que la necesita para practicar el tiro al blanco —esta es la parte más sutil de la historia, pero se puede retomar más tarde— y les dispara a los dos y luego a sí mismo.
+Madge, después de guardar luto durante un periodo razonable, se casa con un comprensivo hombre llamado Fred y todo continúa como en A pero con nombres diferentes.
+D.
+Fred y Madge no tienen problemas. Tienen una relación excepcionalmente buena y son capaces de solucionar cualquier dificultad que pueda surgir, por pequeña que sea. Sin embargo, su encantadora casa está cerca de la costa y un día un gigantesco maremoto se aproxima. Los valores de bienes raíces bajan. El resto de la historia trata de qué fue lo que causó el maremoto y cómo ellos logran escapar. Lo logran, aunque miles mueren ahogados. Una parte de la historia trata sobre las circunstancias de la muerte de los ahogados, pero Fred y Madge son virtuosos y afortunados. Cuando al fin llegan a un terreno alto se abrazan ?empapados, chorreando, agradecidos—, y todo continúa como en A.
+E.
+Sí, pero Fred sufre del corazón. El resto de la historia gira sobre cuán amables y compresivos son hasta la muerte de Fred. Entonces Madge se dedica a obras de caridad y termina como en A. Si quieres, puede ser “Madge”, “cáncer”, “confundida y culpable” y “aficionada a la ornitología”.
+F.
+Si piensas que lo anterior es demasiado burgués, convierte a John en revolucionario y a Mary en una agente de contraespionaje, a ver qué tan lejos llegas. Recuerda que estamos en Canadá. Aunque en el intermedio desarrolles una saga escandalosa y excitante, de carácter pasional, una crónica fuera de tiempo más o menos, de todos modos terminarás en A.
+Tendrás que enfrentar que los finales siempre son los mismos sin importar cómo construyas la historia. No te engañes con otros desenlaces, son todos falsos, ya porque sean engaños maliciosos y deliberados, ya porque hayan sido motivados por un excesivo optimismo, por no llamarle sentimentalismo.
+El único final auténtico es el que viene a continuación:
+John y Mary mueren. John y Mary mueren. John y Mary mueren.
+Eso es todo lo que hay que decir sobre los finales. Los inicios son siempre más divertidos. No obstante, se sabe que los verdaderos conocedores prefieren alargar el espacio entre uno y otro, ya que es lo más difícil de trabajar.
+Eso es básicamente todo lo que se puede decir de las tramas: que al final no son más que una acción tras otra, un qué y un qué y un qué.
+Ahora intenta con Cómo y Por Qué.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

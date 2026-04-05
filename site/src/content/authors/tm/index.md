@@ -7,4 +7,74 @@ tags:
   - index
   - tm
 ---
-¿Quién es Thomas Mann? ![Thomas Mann](/assets/images/tm.jpg) Thomas Mann, narrador, crítico social, filántropo y ensayista, es el mejor novelista alemán del siglo XX, y sus obras han adquirido el estatus de clásicos tanto dentro como fuera de Alemania. Además de su análisis y crítica del alma europea y alemana, sus narraciones, simbólicas e irónicas, se destacan por su comprensión del problema del artista creativo. Paul Thomas Mann nació en una familia burguesa en Lübeck, el segundo hijo de Thomas Johann Heinrich Mann (un senador y comerciante) y su esposa Júlia da Silva Bruhns (una brasileña de ascendencia alemana y portuguesa que emigró a Alemania cuando ella tenía siete años). Cuando el padre de Mann murió, en 1891, la empresa comercial fue liquidada y la familia se mudó a Munich. Mann asistió a la división de ciencias del Gimnasio de Lübeck, luego pasó un tiempo en la Universidad Ludwig Maximillians de Munich y en la Universidad Técnica de Munich, donde, en preparación para una carrera de periodismo, estudió historia, economía, historia del arte y literatura. Mann vivió en Munich desde 1891 hasta 1933, con la excepción de un año que pasó en Palestrina, Italia, con su hermano, el novelista Heinrich Mann. Thomas trabajó con la compañía de seguros contra incendios del sur de Alemania en 1894–95. Después de ese trabajo superficial en la oficina de seguros y en el equipo editorial de Simplicissimus, un semanario satírico, se dedicó a escribir, como su hermano mayor Heinrich ya lo estaba haciendo. Sus primeros cuentos, recogidos como Der kleine Herr Friedemann (1898), refleja el esteticismo de la década de 1890, pero se profundiza por la influencia de los filósofos. En 1905, Mann se casó con Katia Pringsheim, hija de una familia industrialista judía secular y adinerada. En 1912, Mann y su esposa se mudaron a un sanatorio en Davos, Suiza, inspiraración para su novela La montaña mágica. Mann recibió el Premio Nobel de Literatura en 1929, después de haber sido nominado por Anders Österling, miembro de la Academia Sueca, principalmente en reconocimiento a su épica Buddenbrook (1901), La montaña mágica (Der Zauberberg, 1924), y sus cuentos. En 1929, Mann construyó una casa de campo en el pueblo pesquero de Nidden, territorio de Memel (ahora Nida, Lituania), en la Península de Curonia, donde había una colonia de arte alemana. Allí pasó los veranos de 1930–1932, escribiendo su novela José y sus hermanos. Cuando Hitler se convirtió en canciller a principios de 1933, Mann y su esposa, de vacaciones en el sur de Francia, fueron advertidos por su hijo e hija en Munich para que no regresaran. La familia (excepto los dos hijos mayores) emigró a Küsnacht, cerca de Zurich, Suiza; Mann fue entonces privado de su ciudadanía alemana, y la Universidad de Bonn le quitó el doctorado honorario que había otorgado en 1919. Mann recibió la ciudadanía checoslovaca y un pasaporte ese mismo año. Después que Alemania tomó Checoslovaquia, el autor emigró a los Estados Unidos en 1939, donde enseñó en la Universidad de Princeton. En 1942, la familia se mudó a Los Ángeles, California. Mann era miembro prominente de la comunidad de expatriados alemanes en Los Ángeles. El 23 de junio de 1944, Thomas Mann fue naturalizado como ciudadano de los Estados Unidos. Mann fue uno de los pocos opositores públicos activos del nazismo entre los expatriados alemanes en los Estados Unidos. El autor viviría en Los Ángeles hasta 1952. Con el inicio de la Guerra Fría, Mann se sintió cada vez más frustrado por el aumento del macartismo. Como “presunto comunista”, se le exigió que testificara ante la Cámara de Representantes, donde fue calificado de “uno de los apologistas más importantes del mundo para Stalin y compañía”, catalogándolo como “afiliado a varias organizaciones de paz o frentes comunistas”. Cuando Mann se unió a las protestas contra el encarcelamiento de los Diez de Hollywood y el despido de maestros de escuela sospechosos de ser comunistas, descubrió que “los medios de comunicación se habían cerrado para él” y se vio obligado a renunciar a su puesto como Consultor en Literatura Germánica en la Biblioteca del Congreso; en 1952 regresó a Europa para vivir en Kilchberg, cerca de Zurich, Suiza. Nunca más volvió a vivir en Alemania, aunque la visitaba regularmente. Su visita más importante a Alemania fue en 1949, en el 200 cumpleaños de Johann Wolfgang von Goethe. En 1955, murió de aterosclerosis en un hospital de Zurich. ÍNDICE: —Mario y el mago (1929) —Muerte en Venecia (1912) —La caída (1894) —La voluntad de ser feliz (1896) —La muerte (1897) —El pequeño señor Friedeman (1897) —El payaso (1897) —Tobías Mindernickel (1898) —El armario (1899) —Luisita (1900) —El camino al cementerio (1900) —Gladius Dei (1902) —Los hambrientos —Un instante de felicidad (1904) —En casa del profeta (1904) —Hora difícil (1905) —Sangre de Welsungos (1906) —Anécdota (1908) —El accidente ferroviario (1909) 
+
+¿Quién es Thomas Mann? ![Thomas Mann](/assets/images/tm.jpg) Thomas Mann, narrador, crítico social, filántropo y ensayista, es el mejor novelista alemán del siglo XX, y sus obras han adquirido el estatus de clásicos tanto dentro como fuera de Alemania. Además de su análisis y crítica del alma europea y alemana, sus narraciones, simbólicas e irónicas, se destacan por su comprensión del problema del artista creativo. Paul Thomas Mann nació en una familia burguesa en Lübeck, el segundo hijo de Thomas Johann Heinrich Mann (un senador y comerciante) y su esposa Júlia da Silva Bruhns (una brasileña de ascendencia alemana y portuguesa que emigró a Alemania cuando ella tenía siete años).
+
+Cuando el padre de Mann murió, en 1891, la empresa comercial fue liquidada y la familia se mudó a Munich. Mann asistió a la división de ciencias del Gimnasio de Lübeck, luego pasó un tiempo en la Universidad Ludwig Maximillians de Munich y en la Universidad Técnica de Munich, donde, en preparación para una carrera de periodismo, estudió historia, economía, historia del arte y literatura. Mann vivió en Munich desde 1891 hasta 1933, con la excepción de un año que pasó en Palestrina, Italia, con su hermano, el novelista Heinrich Mann.
+
+Thomas trabajó con la compañía de seguros contra incendios del sur de Alemania en 1894–95. Después de ese trabajo superficial en la oficina de seguros y en el equipo editorial de Simplicissimus, un semanario satírico, se dedicó a escribir, como su hermano mayor Heinrich ya lo estaba haciendo. Sus primeros cuentos, recogidos como Der kleine Herr Friedemann (1898), refleja el esteticismo de la década de 1890, pero se profundiza por la influencia de los filósofos. En 1905, Mann se casó con Katia Pringsheim, hija de una familia industrialista judía secular y adinerada.
+
+En 1912, Mann y su esposa se mudaron a un sanatorio en Davos, Suiza, inspiraración para su novela La montaña mágica. Mann recibió el Premio Nobel de Literatura en 1929, después de haber sido nominado por Anders Österling, miembro de la Academia Sueca, principalmente en reconocimiento a su épica Buddenbrook (1901), La montaña mágica (Der Zauberberg, 1924), y sus cuentos. En 1929, Mann construyó una casa de campo en el pueblo pesquero de Nidden, territorio de Memel (ahora Nida, Lituania), en la Península de Curonia, donde había una colonia de arte alemana.
+
+Allí pasó los veranos de 1930–1932, escribiendo su novela José y sus hermanos. Cuando Hitler se convirtió en canciller a principios de 1933, Mann y su esposa, de vacaciones en el sur de Francia, fueron advertidos por su hijo e hija en Munich para que no regresaran. La familia (excepto los dos hijos mayores) emigró a Küsnacht, cerca de Zurich, Suiza; Mann fue entonces privado de su ciudadanía alemana, y la Universidad de Bonn le quitó el doctorado honorario que había otorgado en 1919. Mann recibió la ciudadanía checoslovaca y un pasaporte ese mismo año.
+
+Después que Alemania tomó Checoslovaquia, el autor emigró a los Estados Unidos en 1939, donde enseñó en la Universidad de Princeton. En 1942, la familia se mudó a Los Ángeles, California. Mann era miembro prominente de la comunidad de expatriados alemanes en Los Ángeles. El 23 de junio de 1944, Thomas Mann fue naturalizado como ciudadano de los Estados Unidos. Mann fue uno de los pocos opositores públicos activos del nazismo entre los expatriados alemanes en los Estados Unidos. El autor viviría en Los Ángeles hasta 1952.
+
+Con el inicio de la Guerra Fría, Mann se sintió cada vez más frustrado por el aumento del macartismo. Como “presunto comunista”, se le exigió que testificara ante la Cámara de Representantes, donde fue calificado de “uno de los apologistas más importantes del mundo para Stalin y compañía”, catalogándolo como “afiliado a varias organizaciones de paz o frentes comunistas”. Cuando Mann se unió a las protestas contra el encarcelamiento de los Diez de Hollywood y el despido de maestros de escuela sospechosos de ser comunistas, descubrió que “los medios de comunicación se habían cerrado para él” y se vio obligado a renunciar a su puesto como Consultor en Literatura Germánica en la Biblioteca del Congreso; en 1952 regresó a Europa para vivir en Kilchberg, cerca de Zurich, Suiza.
+
+Nunca más volvió a vivir en Alemania, aunque la visitaba regularmente. Su visita más importante a Alemania fue en 1949, en el 200 cumpleaños de Johann Wolfgang von Goethe. En 1955, murió de aterosclerosis en un hospital de Zurich.
+
+Índice—
+
+Mario y el mago (1929)
+—
+
+Muerte en Venecia (1912)
+—
+
+La caída (1894)
+—
+
+La voluntad de ser feliz (1896)
+—
+
+La muerte (1897)
+—
+
+El pequeño señor Friedeman (1897)
+—
+
+El payaso (1897)
+—
+
+Tobías Mindernickel (1898)
+—
+
+El armario (1899)
+—
+
+Luisita (1900)
+—
+
+El camino al cementerio (1900)
+—
+
+Gladius Dei (1902)
+—Los hambrientos —
+
+Un instante de felicidad (1904)
+—
+
+En casa del profeta (1904)
+—
+
+Hora difícil (1905)
+—
+
+Sangre de Welsungos (1906)
+—
+
+Anécdota (1908)
+—
+
+El accidente ferroviario (1909)

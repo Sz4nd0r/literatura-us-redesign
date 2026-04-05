@@ -7,4 +7,34 @@ tags:
   - index
   - cmc
 ---
-¿Quién es Carson McCullers? ![Carson McCullers](/assets/images/cmc.jpg) Carson McCullers es una narradora, dramaturga, ensayista y poeta estadounidense. Su narrativa explora, en un estilo gótico sureño, el aislamiento espiritual de personajes excéntricos, inadaptados y marginados en el Sur profundo. Carson McCullers nació Lula Carson Smith, en Columbus, Georgia, a Lamar Smith, un relojero y joyero, y Marguerite Waters, el 19 de febrero de 1917. Desde los diez años tomó clases de piano, y cuando tenía quince años, su padre le regaló una máquina de escribir. Se graduó de Columbus High School, y en septiembre de 1934, a los 17 años, salió en un barco de vapor con destino a la ciudad de Nueva York, donde planeaba estudiar piano en la Juilliard School of Music. Pero se enfermó de fiebre reumática, regresó a Columbus para recuperarse, y cambió de opinión sobre la música. Regresó a Nueva York, trabajó en diversos empleos mientras perseguía una carrera de escritor. Asistió a clases nocturnas en la Universidad de Columbia y estudió escritura creativa en el Washington Square College de la Universidad de Nueva York (NYU). En 1936 publicó su primer cuento, “Wunderkind”, en la revista Story. El cuento apareció después en su colección de cuentos The Ballad of the Sad Cafe (1951). Entre 1935 y 1937, dividió su tiempo entre Columbus y Nueva York. En septiembre de 1937, con 20 años, se casó con un ex soldado y aspirante a escritor, Reeves McCullers. Comenzaron su vida de casados ​​en Charlotte, Carolina del Norte, donde Reeves había encontrado trabajo. En 1940, a la edad de 23 años, completó su primera novela, The Heart Is a Lonely Hunter. El título fue sugerido por su editor y fue tomado de un poema de Fiona MacLeod , “The Lonely Hunter”. Carson y Reeves McCullers se divorciaron en 1941. Después de separarse de Reeves, se mudó a Nueva York para vivir con George Davis, el editor de Harper’s Bazaar. Su esposo tuvo una relación amorosa con el compositor David Diamond, y los dos vivían juntos en Rochester, Nueva York. Carson McCullers, que se vestía ropa de hombre y formaba amistades primarias con otras personas homosexuales, se enamoró de varias mujeres y las persiguió, pero parece no haber tenido éxito en tener relaciones sexuales con ninguna de ellas. Su obsesión más extendida fue con Annemarie Schwarzenbach, aunque las dos solo compartieron un beso. La pasión de McCullers, sin embargo, no fue recíproca. A ella le dedicó su próxima novela, Reflections in a Golden Eye (1941), una novela que representa la soledad y el dolor del amor no correspondido. En 1944, cuando el padre de McCullers murió, su madre dejó Columbus y se mudó a Nyack, Nueva York. McCullers vivió en esa casa con su madre y su hermana, de vez en cuando, durante varios años, y finalmente su madre le vendió la casa. En 1945, Carson y Reeves McCullers se volvieron a casar. Tres años después, mientras estaba gravemente deprimida, intentó suicidarse. Al año siguiente, publicó su tercera novela, The Member of the Wedding (1946), donde describe los sentimientos de una niña en la boda de su hermano (la novela fue adaptada después para el teatro). Ya para entonces, varios accidentes cerebrovasculares, que habían comenzado en su juventud, le habían paralizado completamente su lado izquierdo. Apenas tenía 31 años. Entre 1945 y 1967, McCullers vivió en Nyack, Nueva York. En 1953, Reeves intentó convencerla de que se suicidara con él, pero ella huyó y Reeves se suicidó en su hotel de París con una sobredosis de pastillas para dormir. (Ella se inspiró en esas experiencias traumáticas para escribir la obra teatral, The Square Root of Wonderful, 1957)). Muchos conocen las obras obras de McCullers, en gran parte, por sus adaptaciones cinematográficas: Reflections in a Golden Eye se adaptó como una película, en 1967, y The Heart Is a Lonely Hunter fue adaptada en 1968. McCullers dictó su autobiografía, que no logró terminar, Illumination and Night Glare (publicada en 1999), durante los últimos meses de su vida, en su casa de Nyack, Nueva York. Allí murió, el 29 de septiembre de 1967, a la edad de 50 años, después de una hemorragia cerebral. ÍNDICE: Cuentos: Reflejos en un ojo dorado (1940) Frankie y la boda (1946) ¿Quién ha visto el viento? (1956) El aliento del cielo (1971) The Ballad of the Sad Café and Other Stories (1951) La balada del café triste (1951) «Wunderkind» (1936) El Jockey (1941) Madame Zilensky y el rey de Finlandia (1941) El transeúnte (1950) Dilema doméstico (1951) Un Árbol, una Roca, una Nube (1942) 
+
+## Biografía
+
+![Carson McCullers](/assets/images/cmc.jpg)
+
+**Carson McCullers** fue una narradora, dramaturga, ensayista y poeta estadounidense. Su narrativa explora, en un estilo gótico sureño, el aislamiento espiritual de personajes excéntricos, inadaptados y marginados en el Sur profundo. Nació como Lula Carson Smith en Columbus, Georgia, el 19 de febrero de 1917. Desde los diez años tomó clases de piano, y cuando tenía quince años, su padre le regaló una máquina de escribir.
+
+A los 17 años se trasladó a Nueva York con la intención de estudiar piano en Juilliard, pero tras contraer fiebre reumática abandonó la música para dedicarse a la literatura. Estudió escritura creativa en la Universidad de Columbia y en la NYU. En 1936 publicó su primer cuento, “Wunderkind”, en la revista *Story*. En 1940, con solo 23 años, alcanzó el éxito masivo con su primera novela, *The Heart Is a Lonely Hunter* (*El corazón es un cazador solitario*).
+
+Su vida personal estuvo marcada por la mala salud —sufrió varios accidentes cerebrovasculares desde joven que le provocaron parálisis parcial— y por una relación compleja y tormentosa con su esposo Reeves McCullers. Tras años de convivencia intermitente, viajes a Europa y tragedias personales, se estableció definitivamente en Nyack, Nueva York.
+
+Entre sus obras más destacadas se encuentran *Reflections in a Golden Eye* (1941) y *The Member of the Wedding* (1946). Su narrativa, centrada en la soledad, el aislamiento y el dolor del amor no correspondido, ha sido ampliamente adaptada al cine y al teatro. Murió en Nyack el 29 de septiembre de 1967, a los 50 años, tras una hemorragia cerebral.
+
+## Índice
+
+### Narrativa
+
+#### *The Ballad of the Sad Café and Other Stories* (1951)
+- La balada del café triste
+- «Wunderkind» (1936)
+- El Jockey (1941)
+- Madame Zilensky y el rey de Finlandia (1941)
+- El transeúnte (1950)
+- Dilema doméstico (1951)
+- Un árbol, una roca, una nube (1942)
+
+#### Novelas y Otros Relatos
+- *Reflejos en un ojo dorado* (1940)
+- *Frankie y la boda* (1946)
+- *¿Quién ha visto el viento?* (1956)
+- *El aliento del cielo* (1971)

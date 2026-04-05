@@ -1,0 +1,171 @@
+---
+layout: story
+title: El ángel de la guarda
+slug: rf_angel
+source: https://www.literatura.us/idiomas/rf/rf_angel.html
+tags:
+  - rf_angel
+  - rf
+---
+Rubem Fonseca
+(Juiz de Fora, Minas Gerais, Brazil, 1925-)
+El ángel de la guarda (1997)
+(“O anjo da guarda”)
+Histórias de amor
+(São Paulo: Companhia das Letras, 1997, 135 págs.)
+La casa tenía varios cuartos. Pregunté en cuál de ellos iba a dormir. Me llevó a un cuarto que quedaba cerca del suyo.
+Me senté en la cama. Probé el colchón.
+No sirve, es muy blando, va a acabar a la primera con mi espalda.
+Probé los colchones de todos los cuartos hasta que encontré uno duro.
+Éste está bueno, ¿tiene alguna camisa que me sirva? Olvidé traer ropa para dormir.
+La mujer volvió en seguida con una camisa de malla blanca.
+Ésta es la más grande que tengo. La usé una vez, ¿no importa?
+Di las gracias a la mujer y me dio las buenas noches. Me puse la camisa; sentí el olor del tejido, una mezcla de piel limpia y perfume.
+Busqué una posición para dormir. La espalda me dolía. Tenía una porción de huesos rotos y mal enmendados esparcidos por todo el cuerpo.
+La mujer golpeó tan levemente en la puerta que casi no escuché.
+¿Sí?
+Soy yo. Quiero hablar contigo.
+Un momento.
+Me puse el pantalón y abrí la puerta.
+Vestía una bata y una mujer en bata siempre me recuerda a mi madre. Además de que lo único que recuerdo de mi madre es la bata.
+Estás muy lejos, no me siento protegida, no logro dormir, ¿no puedes ir al cuarto que está al lado del mío? Llevamos el colchón duro de esta cama y lo cambiamos por el otro.
+Llevé mi colchón duro al cuarto que estaba junto al de ella.
+Me senté en la cama.
+Creo que ahora está bien. Se puede dormir, buenas noches.
+Buenas noches.
+No aguanté ni diez minutos acostado. El dolor en la columna aumentó. Salí de la cama, me senté en un sillón que había en el cuarto.
+Otros golpes en la puerta.
+¿Qué pasa?
+Oí un ruido en el jardín, susurró a través de la puerta, creo que hay alguien en el jardín.
+Me puse el pantalón. Abrí la puerta. Ella seguía con la bata.
+Debe ser una impresión tuya. Estás muy nerviosa. ¿En qué lugar del jardín?
+En el bosque de magnolias. Allá no hay luz y tuve la impresión de que vi una luz que se apagaba y encendía.
+¿Tienes una linterna?
+Sí.
+La mujer me dio la linterna.
+Ten cuidado. Ya te he contado las cosas horribles que me han ocurrido, ¿verdad?
+Deberías irte a tu departamento de la ciudad.
+Allá es peor. Ya te conté. Tuve que desconectar el teléfono a causa de las llamadas a medianoche, amenazándome. Y hay gente siguiéndome en las calles. Aquí por lo menos todas las ventanas están enrejadas y las puertas son de fierro. Llévate el revólver.
+Es mejor que lo tengas tú. Cierra la puerta. Y no te quedes mirando hacia afuera por la ventana.
+Era un sitio grande. Un jardín con macizos de flores rodeaba la casa. En medio del jardín, una piscina. Al fondo, la casa del guardia, la huerta. El resto del lugar eran bosques con árboles de gran tamaño, que hacían aun más oscura la noche. Había bancos de piedra esparcidos entre los árboles. Me senté en uno de ellos, en el bosque de magnolias. Esperé, con la linterna encendida sobre el banco.
+Sônia apareció silenciosamente entre la oscuridad, se sentó a mi lado en el banco de piedra.
+¿Dejaste tu revólver en un lugar donde ella lo viera?
+Lo dejé en su mano. Sigo el plan de ustedes.
+Escucha este ruido, dijo Sônia conectando una grabadora que sacó de su bolso. Parece un gemido, de alguien muriendo. ¿No parece un fantasma?
+Tienen suerte de que no haya un perro.
+Había. Lo envenenamos. Jorge lo envenenó. ¿Cuándo usará ella el revólver?
+Está muerta de miedo, esperaremos un poco más. ¿Quién es Jorge?
+Si no lo sabes no seré yo quien te lo diga.
+¿Por qué quieren ustedes que muera la mujer?
+Eso no te importa.
+Voy a volver a la casa. Apaga esos gemidos. Por hoy está bien.
+No te olvides de nuestro trato, dijo Sônia. Dentro de tres días esto tiene que estar resuelto. Si sigue indecisa, le das un tiro en la cabeza.
+Volví a la casa. La mujer abrió la puerta con mi revólver en la mano. Temblaba, con los ojos en blanco.
+¿Qué ruido era ese?
+Nada.
+¿Cómo que nada? Yo lo oí. ¿Crees que estoy loca?
+La mujer me apuntó con el revólver.
+Dime la verdad. Crees que estoy loca. Los guardias creían que estaba loca y se fueron por la noche, sin decir nada. Acabo de oír un fuerte gemido, el rumor de un alma en pena, como la mía, ¿y dices que no era nada? ¿Y este, revólver sin balas? ¿Así es como me vas a defender? ¿Con un revólver sin balas?
+¿Cómo sabes que no tiene balas?
+Disparé seis veces en mi cabeza y no ocurrió nada.
+Olvidé colocar las balas. No sé cómo pudo ocurrir, soy muy cuidadoso.
+Sacaste las balas porque pensaste que estoy loca y que me daría un tiro en la cabeza.
+Estoy aquí para protegerte. Ve a dormir. Mañana por la mañana conversamos.
+No me hables así. Estoy muy nerviosa. Duerme en mi cuarto conmigo.
+Está bien.
+La mujer se acostó sin quitarse la bata, se cubrió con una sábana. Me senté en el sillón del cuarto. Todos los cuartos tenían sillones y baño privado.
+Desde la cama me miraba, suspiraba como quien quiere llorar.
+Ven, toma mi mano.
+Agarré su mano.
+Tienes la mano grande. ¿Fuiste trabajador manual?
+No.
+¿Siempre has sido acompañante de personas enfermas?
+Cuando era joven pasé dos años empujando la silla de ruedas de un viejo. Fue la mejor época de mi vida, me gustaba leer, él tenía miles de libros y yo me pasaba el día leyendo.
+Nunca te he visto leyendo aquí.
+No he tenido tiempo y tus libros no me atraen.
+Lo siento mucho. ¿Y luego de trabajar en la casa llena de libros que sí te atraían?
+Me hice cargo de otro viejo.
+¿Era enfermo mental?
+No. Una enfermedad de la vejez. (El sujeto se mató, con mi ayuda, pero eso no se lo diría a ella.)
+Mira si logras dormir un poco.
+¿Estoy loca?
+No. Sólo estás muy nerviosa.
+La mujer se durmió. Retiré la mano. Me fui al sillón y me quedé toda la noche despierto, pensando, sintiendo el olor de su camisa en mi cuerpo y mirando a la mujer mientras dormía. El hombre primitivo devoraba como una hiena los restos de los cadáveres de los animales que encontraba y que habían sido cazados por otros animales. Sólo se volvió cazador después de que astutamente inventó sus armas punzantes. Coloqué las balas en el tambor del revólver.
+La mujer en la cama parecía un perro muerto a quien era fácil patear. No hago preguntas cuando me piden un servicio. Pero en este caso me gustaría saber quién quería que ella se diera un tiro en la cabeza. ¿Un marido cretino aterrorizando a la mujer histérica para provocar que se mate y el puto se quede con la pasta? Ya pasé por una situación más o menos así, una semana de carnaval.
+El día rayó, los pajaritos comenzaron a piar y la mujer se despertó. Me sonrió.
+Hoy me siento mucho mejor. Creo que esta pesadilla va a acabar. Voy a trabajar al jardín, ¿te quedas cerca de mí?
+Salí de su cuarto. En mi baño, me lavé la cara y me cepillé los dientes. Fui al jardín.
+La mujer tenía un sombrero en la cabeza para protegerse del sol. Me pidió que la acompañara a un cuarto de herramientas que estaba a un lado del garaje. Había picos, palas, una podadora eléctrica de pasto, una bomba con los instrumentos para limpiar la piscina. Cogió unas tijeras de las que se usan en los jardines.
+Mi jardín es bonito, ¿verdad? Yo misma planté esas flores, ¿no son bonitas?
+No me importan mucho las flores, pero la escuché con paciencia decir los nombres de las que crecían en los macizos.
+Necesito telefonear.
+El teléfono está desconectado.
+Iré al centro del pueblo.
+Por favor, no me dejes sola.
+Entonces ven conmigo. Después trabajas en el jardín.
+Subimos a su carro.
+¿Te gusta la música?
+Si quieres oír música no me molesta.
+Colocó un concierto de violín en el aparato del carro.
+¿No da una sensación de paz?
+La música de violín me pone inquieto, pero aguanté sin decir nada... Llegamos a la placita del pueblo. Paré en la puerta del mini-súper, llena de sacos con comida para gatos y perros.
+Bajó conmigo del carro. Haré unas compras, ya me cansé de la comida congelada.
+El hombre del mini-súper la saludó amigablemente, ella conocía aquel sitio desde hacía muchos años. El hombre preguntó si yo era el nuevo guardia de la casa y la mujer respondió que era un amigo.
+Cerca había una panadería. Desde allí llamé a Sônia.
+Voy a hacer el servicio. Pero antes quiero conversar contigo y con Jorge. Quiero recibir lo que falta. Hoy por la noche, en el lugar en que nos encontramos ayer.
+Jorge no irá.
+Ése es su problema. Si no viene a conversar conmigo, no hay trato. A las nueve.
+Colgué el teléfono. Volví al mini-súper. Cogí el saco lleno con las compras y nos fuimos al carro.
+La mujer trabajó en el jardín, luego hizo la comida para los dos. Pero sólo se sentó a la mesa conmigo, no comió nada. Luego volvió a trabajar en el jardín, mientras oía música, yo todo el tiempo a su lado, sufriendo con aquella música, deseando que todo aquello acabara de una vez.
+Quince minutos antes de las nueve le dije que iría a echar una mirada por los alrededores de la casa, que quizá tardaría un poco.
+No me dejes sola.
+Tomé la linterna.
+No me voy a alejar mucho, no te preocupes. Cierra todo y sólo me abres la puerta a mí. Y no te quedes en la ventana.
+Por favor...
+No te preocupes.
+Salí, llevaba el revólver. En el cuarto de herramientas cogí dos palas y un pico y me fui hacia el bosque de magnolias. Me senté en el banco de piedra, la linterna encendida. Coloqué las palas y el pico a un lado del banco.
+Sônia y Jorge tardaron en aparecer. El hombre usaba un sombrero que le cubría la mitad del rostro.
+Apaga la linterna. ¿Qué quieres de mí?
+Lo reconocí de inmediato. Si quieres permanecer vivo en este mundo de mierda no debes olvidar ni la cara ni la voz de nadie. Era el hijo del viejo Baglioni a quien había ayudado a salir de este mundo. Fingí que no lo había reconocido.
+Sólo una pregunta. ¿La mujer es tu esposa?
+¿Esa vieja? Es mi socia, enloqueció y está jodiendo los negocios. ¿Qué quieres de mí?
+Recibir lo que falta.
+¿Antes de hacer el servicio? Imposible. Un trato es un trato.
+Hoy mataré a la mujer y tendré que huir. ¿Cómo voy a recibir lo que falta?
+Sabes donde encontrar a Sônia. Ella te pagará después.
+Encendí la linterna. Les mostré las palas y el pico.
+Quiero que me ayuden a abrir una fosa. Si lo hago solo me llevará un tiempo enorme. El cuerpo tiene que desaparecer. Hice compras con ella en el mini-súper del pueblo y vieron mi cara.
+Sólo eso faltaba, dijo Jorge.
+Sin fosa no hay cadáver.
+Está bien, está bien, dijo Jorge cogiendo una de las palas. Yo cogí la otra y el pico.
+Aquí no. Tenemos que salir de aquí, vamos al bosque.
+No puedo caminar mucho, traigo zapatos altos, dijo Sônia.
+Ése es tu problema.
+Caminamos por el bosque, Sônia reclamando que sus zapatos se estaban maltratando.
+Aquí está bien, dije.
+Sônia se negó a cavar. Yo y Jorge trabajamos en silencio, como hacen los mineros. No es fácil abrir una fosa grande, menos aún en un suelo duro como aquél. Empapamos de sudor nuestras camisas. Jorge sudaba más que yo, pero no se quitó el sombrero que escondía su rostro.
+Jorge arrojó la pala. Detente, ya es suficiente, dijo.
+Continué con el pico en la mano.
+Todavía falta una cosa, dije.
+Golpeé con fuerza en la cabeza a Jorge, usando la punta del pico. Cayó. Sônia echó a correr, pero sólo dio algunos pasos y un grito de miedo, no precisamente un grito, fue una especie de aullido.
+Verifiqué que estuvieran bien muertos, no quería enterrarlos vivos. Trabajé ahondando la fosa un poco más. Arrojé a los dos dentro del hoyo y los cubrí con tierra. Apisoné la tierra con la pala y cubrí la fosa con piedras y ramas de árbol. En aquel bosque sólo había pajaritos, sapos, serpientes, insectos y otros animales inocentes. No abrirían aquella fosa, pero no quería correr riesgos.
+Lavé las palas y el pico en el estanque y las llevé de vuelta al cuarto de herramientas. Golpeé en la puerta de fierro de la casa.
+Soy yo, puedes abrir la puerta.
+La mujer abrió la puerta, asustada como siempre. ¿Viste alguna cosa?
+No. Ni oí ningún sonido extraño. ¿Tú oíste algo?
+No, respondió. ¿Quieres tomar un té? Voy a preparar un té para nosotros.
+Me quedé ahí una semana más con la mujer, a pesar de la música. No hay nada más irritante que esa música de violín. Todos los días iba a ver la fosa donde aquellos dos se estaban pudriendo, para ver si había algún olor desagradable en el aire. Nada. En el mini-súper del pueblo recomendaron a un matrimonio de viejos que fueron contratados como conserjes por la mujer. El viejo era un hombre fuerte que trabajaba el día entero en el jardín, él y mi madre. Estoy bromeando, pero me gustaría que ella fuera mi madre. Me gustaba. Si tuviera una madre así sería un hombre diferente, mi destino sería otro y me haría cargo de ella, tendría a quién amar.
+Ella estaba en el jardín con el conserje, removiendo la tierra. Tengo que irme, dije.
+No sé cómo pagarte lo que hiciste por mí. Ya estoy bien. Ya no tengo miedo.
+Bien no estás. Pero nadie más tomará el teléfono para llamarte a medianoche, nadie más te seguirá por las calles asustándote.
+¿Cómo te puedo pagar? Debes necesitar dinero.
+Ya recibí mi paga. Pero puedes llevarme en el carro a la estación de autobuses en la ciudad.
+La mujer me llevó en el carro a la estación.
+Cuando necesites alguna cosa, búscame. Dame tu teléfono, dijo.
+No tengo teléfono.
+Sônia debe saber cómo encontrarte si te necesito, ¿no? Ella fue muy buena, recomendándote para ser mi ángel de la guarda.
+No respondí. La mujer esperó conmigo hasta que llegó el autobús, los dos dentro del carro oyendo la música que le gustaba, el violín no me pareció tan irritante.
+Tomé el autobús. Ella agitó la mano mientras el autobús se alejaba.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

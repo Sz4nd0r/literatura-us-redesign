@@ -1,0 +1,40 @@
+---
+layout: story
+title: Los simuladores
+slug: ac_simula
+source: https://www.literatura.us/idiomas/ac/ac_simula.html
+tags:
+  - ac_simula
+  - ac
+---
+Antón Chéjov
+(Ucrania, 1860 - Alemania, 1904)
+Los simuladores (1885)
+(“Симулянты”)
+Originalmente publicado en la revista Fragmentos, Núm. 26 (28 de junio de 1885);
+Relatos abigarrados [Пестрых рассказов] (1886);
+Obras completas (1889, con algunas correcciones)
+Un martes del mes de mayo, la generala Marfa Petrovna Pechónkina, o, como la llaman los campesinos, Pechónchija, que lleva diez años dedicándose a la homeopatía, recibe en su gabinete a los enfermos. Delante de ella, sobre la mesa, hay un botiquín lleno de productos homeopáticos, un manual y las facturas de la farmacia homeopática. De la pared cuelgan, encerradas en marcos dorados y bajo cristal, las cartas de un célebre homeópata petersburgués, que en opinión de Marfa Petrovna también es un gran médico, y el retrato del padre Aristarco, a quien debe su salvación: la abjuración de la nefasta alopatía y el conocimiento de la verdad. Los pacientes, campesinos en su mayoría, esperan en el vestíbulo. Todos, excepto dos o tres, van descalzos, pues la generala exige que se quiten las botas hediondas en el patio.
+Marfa Petrovna ya ha recibido a diez personas y se dispone a atender al undécimo.
+—¡Gavrila Gruzd!
+La puerta se abre y, en lugar de Gavrila Gruzd, entra en el gabinete Zhamujrishin, vecino de la generala, propietario arruinado, viejecito menudo de ojos malignos, que lleva bajo el brazo una gorra de noble. Deja el bastón en un rincón, se acerca a la generala y, sin decir palabra, pone una rodilla en tierra.
+—¡Qué hace usted! ¡Por favor, Kuzmá Kuzmich! —exclama espantada la generala, ruborizándose—. ¡Por el amor de Dios!
+—¡No me levantaré mientras viva! —dice Zhamujrishin, apretando los labios contra la mano de ella— ¡Que todo el mundo vea cómo me arrodillo ante usted, ángel de la guardia, benefactora del género humano! ¡Que lo vea! ¡Ante el hada bienhechora que me ha concedido la vida, que me ha mostrado el camino de la verdad, que ha iluminado mi mente escéptica, estoy dispuesto no sólo a ponerme de rodillas, sino a arrojarme al fuego, curandera milagrosa, madre de huérfanos y viudas! ¡Me he curado! ¡He resucitado, hechicera!
+—Yo… estoy muy contenta… —farfulla la generala, enrojeciendo de satisfacción—. Es tan agradable escucharle… ¡Siéntese, por favor! ¡El martes pasado estaba usted tan enfermo!
+—¡Ya lo creo que lo estaba! ¡Hasta me espanta recordarlo! —dice Zhamujrishin, sentándose—. Tenía todos los miembros y órganos atacados por el reumatismo. Ocho años de tormentos, sin conoce el reposo… ¡Ni de día ni de noche, benefactora mía! ¡Consulté a médicos y profesores de Kazán, recurrí a toda suerte de barros, tomé las aguas, lo intenté todo! Lo único que conseguí aliviar fue la cartera, madre salvadora. Esos médicos no hicieron otra cosa que aumentar mis males. Hundían más en mi cuerpo la enfermedad. La hundían, en lugar de expulsarla, pues su ciencia no alcanzaba para ello… Lo único que interesa a esos bandidos es el dinero, pero apenas se preocupan de servir a la humanidad. Te recetan cualquier filtro y tienes que bebértelo. En una palabra, son unos asesinos. ¡De no ser por usted, ángel mío, estaría ya en la tumba! Cuando volví a casa el otro martes, después de hablar con usted, miré los granitos que usted me dio y pensé: «¿Cómo va ayudarme esto? ¿Acaso estos gránulos, apenas visibles, pueden curar una enfermedad tan formidable y arraigada como la mía?». Así pensaba, hombre de poca fe, al tiempo que sonreía, pero nada más tomar un grano, fue como si nunca hubiera estado enfermo o el mal hubiera desaparecido como por ensalmo. Mi mujer me miraba con ojos como platos y no podía creerlo: «¿Eres tú, Kuza?». «Soy yo», respondí. Y los dos nos arrodillamos ante el icono y empezamos a rogar por nuestro ángel: «¡Envíale, Señor, toda la felicidad que nosotros sentimos!».
+Zhamujrishin se enjuga los ojos con la manga, se levanta y hace intención de poner de nuevo una rodilla en tierra, pero la generala se lo impide y le obliga a tomar asiento.
+—¡No me dé las gracias! —dice, roja de emoción, mirando con arrobo el retrato del padre Aristarco—. ¡No a mí! En este asunto yo no soy más que un instrumento dócil… ¡En realidad, se trata de un milagro! ¡Un reumatismo de ocho años curado con un solo granito de scrofuloso!
+—Me dio usted tres. Tomé uno en la comida… ¡y el efecto fue inmediato! Otro por la tarde y el tercero al día siguiente. ¡Desde entonces, no siento el menor dolor! ¡Ni un solo pinchazo! ¡Y yo que me disponía ya a morir…! ¡Había escrito a mi hijo, que vive en Moscú, para que viniera! ¡El Señor le ha dado sabiduría, salvadora nuestra! Ahora hasta puedo andar y me siento como si estuviera en el Paraíso… El martes pasado, cuando vine a verla, cojeaba; ahora me veo capaz de perseguir una liebre… Podría vivir cien años. La única desdicha es nuestra pobreza. Estoy sano, pero ¿para qué quiero la salud si no tengo con qué vivir? La miseria pesa más que la enfermedad… Le expondré un caso a modo de ejemplo… Es el momento de sembrar la avena, pero ¿cómo hacerlo cuando no hay semillas? Habría que comprarlas, pero el dinero… Ya se sabe cómo andamos de dinero…
+—Yo le daré avena, Kuzmá Kuzmich… ¡Siéntese, siéntese! Me ha dado usted una alegría tan grande, me ha procurado tanta satisfacción, que soy yo, no usted, quien debe mostrarse agradecida.
+—¡Es usted nuestra alegría! ¡Que Dios haya creado tal dechado de virtud! ¡Regocíjese, amiga, ante el espectáculo de sus nobles acciones! En cuanto a nosotros, pecadores, no tenemos ningún motivo de regocijo… Somos seres insignificantes, cobardes, inútiles… una nulidad… De nobles sólo tenemos el nombre porque desde el punto de vista material estamos igual que esos campesinos o incluso peor… Vivimos en casas de piedra, pero eso no pasa de ser un espejismo, porque el tejado se hunde… No tenemos dinero para comprar tablas.
+—Yo se las daré, Kuzmá Kuzmich.
+Zhamujrishin le saca también una vaca, una carta de recomendación para su hija, que tiene intención de ingresar en un internado y… conmovido por las bondades de la generala e incapaz de contener su emoción, solloza, tuerce la boca y busca su pañuelo en el bolsillo… La generala ve salir del bolsillo, además del pañuelo, un papel rojo que cae al suelo sin hacer ruido.
+—No la olvidaré por los siglos de los siglos… —balbucea—. Conminaré a mis hijos a que la recuerden y también a mis nietos…
+De generación en generación… Ésta es, hijos, la que me salvó de la tumba, la que…
+Tras despedirse de su paciente, la generala contempla durante un minuto, con ojos llorosos, el retrato del padre Aristarco; luego dirige una mirada llena de ternura y veneración al botiquín, al manual, a las facturas, al sillón en que hace un momento estaba sentado el hombre al que ha salvado de la muerte; de pronto sus ojos reparan en el papelito que ha dejado caer el paciente. La generala lo recoge, lo despliega y ve en su interior los tres granos que había entregado el martes pasado a Zhamujrishin.
+—Son los mismos… —dice perpleja— Hasta el papel es el mismo… ¡Ni siquiera lo ha desenvuelto! Pero, entonces, ¿qué es lo que ha tomado? Qué raro… ¡No habrá tratado de engañarme!
+Y, por primera vez en diez años de práctica, a la generala le asaltan las dudas… Llama a los enfermos siguientes y, mientras habla con ellos de sus males, repara en cosas que hasta entonces habían escapado a su atención. Los enfermos, desde el primero al último, como si se hubieran puesto de acuerdo, empiezan alabándola por la curación milagrosa, ponderando sus conocimientos médicos, insultando a los médicos alópatas; luego, una vez que ella está roja de emoción, pasan revista a sus necesidades. Uno pide una parcela de tierra de labor; otro, leña; un tercero, permiso para cazar en sus bosques. La mujer mira el orondo y bondadoso rostro del padre Aristarco, que le ha revelado la verdad, y una nueva verdad empieza a roerle el corazón. Una verdad maligna, penosa…
+¡Qué astuto es el hombre!
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,648 @@
+---
+layout: story
+title: Navidad en la familia de Dick Spindler
+slug: navidad
+source: https://www.literatura.us/idiomas/fbh/navidad.html
+tags:
+  - navidad
+  - fbh
+---
+Francis Bret Harte
+(Albany, New York, 1836 - Surrey, Inglaterra, 1902)
+Navidad en la familia de Dick Spindler (1898)
+(“Dick Spindler’s Family Christmas”)
+Originalmente publicado en The Windsor Magazine,
+Vol. 9, Núm. 1 (diciembre de 1898), págs. 119-129;
+Mr. Jack Hamlin’s Mediations and Other Stories
+(Boston and Nueva York: Houghton, Mifflin and Company, 1899, 289 págs.), págs. 121-155
+Reinó la sorpresa y, en ciertos casos, el
+desencanto, en Rough and Ready, cuando se supo que Dick Spindler se disponía a
+celebrar una fiesta de Navidad “familiar” en su propia casa. Del hombre que
+acababa de hallar un magnífico filón en su mina bien se esperaba que
+aprovecharía su primera oportunidad para celebrar su buena fortuna, pero que la
+fiesta asumiría contornos tradicionales, anticuados y respetables no era lo que
+esperaban en Rough and Ready, donde se creyó que era un tanto presumido. No
+había media docena de familias en Rough and Ready; jamás nadie supo antes que
+Spindler tenía parientes y esta llegada de forasteros al poblado parecía
+indicar, por lo menos, una carencia de espíritu público. Sugirió uno de sus
+críticos:
+—Bien podría haber brindado a los muchachos
+—que habían trabajado junto a él en las zanjas durante el día y difundían
+mentiras con él alrededor del fogón durante la noche— una mesa abundante con
+qué hartarse y guardar las sobras para la vieja banda de los Spindler, como lo
+hacen otras familias. Cuando el viejo Scudder celebró la construcción de su
+casa, el año pasado, su familia vivió durante una semana de lo que quedaba del
+festín, después que los muchachos hubieron bailado y consumido todo lo mejor
+esa noche —y los Scudder ni siquiera eran extraños.
+Era evidente, también, que prevalecía una
+sensación de inquietud hacia la actitud de Spindler, que denotaba una profana
+inclinación por la minoría de lo selecto y respetable, a la vez que un
+alejamiento, sin la excusa del matrimonio, de la mayoría de los solteros
+joviales e independientes de Rough and Ready.
+—Si estuviera detrás de una chica e hiciera
+proyectos, lo entendería —afirmaba otro crítico.
+—No estés tan seguro de que no lo está
+—dijo el Tío Jim Starbuck, seriamente.
+—Verás que, en el fondo de esta reunión “familiar”,
+hay alguna de estas mujeres, hechas sólo para esto y para crear dificultades.
+Este sombrío vaticinio entrañaba cierta
+verdad, pero no de la índole que el misógino suponía. En efecto, Spindler había
+visitado hacía algunas noches la casa del reverendo señor Saltover. Como la
+señora de Saltover sufría en estos momentos una de sus “tremendas jaquecas”, lo
+transfirió a la cortesía de su hermana viuda, la señora Huldy Price, quien le
+prodigó de buen grado la atención práctica y crítica que compartió con la media
+que estaba zurciendo. Era una mujer de treinta y cinco años, de singular vigor
+e inteligencia práctica, que cierta vez había traído subrepticiamente a su casa
+a su esposo herido en una refriega en la frontera, y con apacible serenidad
+sirvió café para sus burlados perseguidores, mientras su cónyuge yacía
+escondido, a buen recaudo, en el desván; caminó cuatro millas en busca de la
+asistencia médica que llegó demasiado tarde para salvarlo, y lo enterró
+secretamente en su propio solar, con un solo testigo, salvando así su posición
+y propiedad en aquella comunidad alocada, que creía que se había escapado. Muy
+poco de esta ímproba experiencia podía advertirse ahora en sus turgentes
+mejillas morenas, en sus serenos ojos negros, tras las zarzas de sus tiesas
+pestañas, en su figura regordeta o en su risa franca y audaz, que surgió con la
+tenue intensidad de una sonrisa, cuando dio la bienvenida al señor Spindler.
+—No lo había visto desde “hacía siglos”,
+pero imaginaba que estaría muy ocupado arreglando la nueva casa.
+—Bueno... sí —dijo Spindler, con un leve
+titubeo —estoy pensando en efectuar una especie de reunión de Navidad con
+mis... —estaba por decir “amigos” pero lo cambió por “parientes” y finalmente
+se decidió por “familiares”, por ser más correcto en la casa de un predicador.
+La señora de Price pensó que eso era muy
+buena idea. Navidad era la época más razonable para reunir a la familia y “ver
+quién está aquí y quién está allá, quién se está poniendo viejo y quién no y
+quién está muerto y enterrado. Dichosos aquellos que podían disfrutar de la
+posición que les permitía hacerlo y ser felices”. La invencible filosofía de la
+viuda quizá la llevaba más allá de cualquier recuerdo peligroso de la solitaria
+tumba de Kansas y, sosteniendo a la luz su labor de calceta, dirigió una fugaz
+y alegre mirada al turbado rostro del señor Spindler, quien estaba al lado del
+hogar.
+—Bueno, no puedo decir mucho sobre eso
+—contestó Spindler, todavía incómodo—, pues, como ve, no estoy muy versado en
+esas cosas.
+—¿Cuánto hace que los vio? —preguntó la
+señora Price, aparentemente dirigiéndose a la media. Spindler se rió
+débilmente.
+—Bueno, ya que hablamos de eso... ¡nunca
+los he visto!
+La señora Price puso la media sobre la
+falda y abrió sus ojos francos ante Spindler.
+—¿Nunca los vio? —repitió—. Entonces, ¿no
+son parientes cercanos?
+—Hay tres primos —dijo Spindler,
+contándolos con los dedos—, un medio tío, una especie de cuñado, eso es, el
+hermano del segundo esposo de mi cuñada, y un sobrino. Eso hace seis.
+—Pero si no los ha visto supongo que le han
+escrito —insinuó la señora Price.
+—Casi todos me han escrito pidiéndome
+dinero, viendo mi nombre en los diarios, porque había encontrado un valioso
+filón —replicó Spindler, con parquedad—, y solo sé sus direcciones.
+—¡Oh! —exclamó la señora Price, volviendo a
+su media.
+Algo en el tono de su exclamación aumentó
+el embarazo de Spindler, pero también tuvo la virtud de exasperarlo.
+—Usted ve, señora Price —dijo
+abruptamente—, tendría que decirle que, según presumo, se trata de esos amigos
+que “no han progresado”, y me parece que lo más correcto que puedo hacer, porque
+“he progresado”, es darles una especie de fiesta de Navidad. Algo semejante a
+lo que su cuñado estaba diciendo el último domingo en el pulpito, sobre la paz
+y la buena voluntad entre los hombres.
+La señora Price miró nuevamente a su
+interlocutor, cuyo rostro perplejo y amarillento delataba cierta duda, aunque
+también una suerte de determinación, con respecto a las perspectivas que le
+deparaba lo dicho.
+—Una muy buena idea, señor Spindler, y que,
+además, lo honra —dijo gravemente.
+—Estoy muy contento de oírselo decir,
+señora Price —repuso con un acento de gran alivio—, pues pensaba pedirle un
+gran favor. Usted ve, —cayó en su titubeo de antes—, eso es... lo que pasa
+es... esta clase de cosas me es más bien extraña, fuera de mi dominio... y le
+iba a preguntar si tendría algún inconveniente en ocuparse de todo este asunto
+y dirigirlo por mí.
+—¿Dirigirlo por usted? —dijo la señora
+Price, con una rápida mirada por debajo del borde de sus pestañas. ¡Hombre de
+Dios! ¿En qué está pensando?
+—Ocuparse de todo el trabajo por mí —se
+apresuró a decir Spindler, con nerviosa desesperación—. Arreglar todo y
+prepararlo para lo demás... pedir todo lo que necesita y arreglar los
+dormitorios... yo puedo salir del paso mientras usted lo hace... después
+ayudarme a recibir a los invitados y sentarse a la cabecera de la mesa... como
+si fuera la dueña.
+—Pero —objetó la señora Price, con una risa
+franca—, esa es la obligación de uno de sus parientes... su sobrina, por
+ejemplo... o prima, si una de ellas es mujer.
+—Como le dije —insistió Spindler—, me son
+extraños; no los conozco, pero a usted sí. Facilitaría las cosa para ellos... y
+para mí. Los presentaría.... Una mujer de su experiencia allanaría todas esas
+nimias dificultades —continuó Spindler, con un vago recuerdo de la historia de
+Kansas —y pondría a todos sobre terciopelo. ¡No diga “No”, señora Price! Estoy
+contando con usted.
+La sinceridad e insistencia de un hombre
+pueden ir muy lejos hasta con la mejor de las mujeres. La señora Price, que al
+principio había recibido el pedido de Spindler con divertida originalidad,
+empezaba ahora a sentir una secreta inclinación hacia el mismo. Y, por
+supuesto, empezó a señalar objeciones.
+—Me temo que no va a servir —dijo
+pensativamente, cayendo en la cuenta de que sí podría prestar su colaboración,
+con eficiencia—, usted ve, prometí pasar Navidad en Sacramento con mis sobrinas
+de Baltimore. Y después hay que consultar al señor Saltover y a mi hermana.
+Pero aquí, en el rostro del señor Spindler,
+se hizo evidente una desazón tan grande, que la viuda declaró que “lo pensaría”,
+reacción ésta que el señor Spindler pareció considerar casi tan semejante a “hablar
+del asunto nuevamente” que la señora Price empezó a creerlo ella misma cuando
+él se marchó lleno de esperanzas.
+Lo “pensó” lo suficiente para ir a
+Sacramento y excusarse ante sus sobrinas. Pero allí se permitió “hablar del
+asunto”, para infinito deleite de aquellas muchachas de Baltimore, que
+calificaban esta extravagancia de Spindler como “californiana y excéntrica”. De
+tal suerte, no fue raro que las noticias volvieran, a su debido tiempo, a Rough
+and Ready y sus viejos compañeros supieran por primera vez que él nunca había
+visto a sus parientes y que serían doblemente extraños. Esto no acrecentó su
+popularidad, ni tampoco deploró tener que expresar la noticia de que su
+parientes tal vez eran pobres y que el reverendo señor Saltover había aprobado
+su proceder y comparado con el festín del poderoso, al cual se invitaba a
+lisiados y a ciegos. En realidad, la alusión suponía agregar hipocresía y un
+toque de popularidad a la defección de Spindler, pues se discutía que él podría
+haber agasajado al “Ojizarco Joe” o el “Patituerto Billy” —que una vez había
+sido “mascado” por un oso, mientras exploraba una veta aurífera— si hubiera
+sido sincero. Sea como fuere, Spindler hizo caso omiso de estas críticas, en su
+alegría por el apoyo que el señor Saltover daba a sus planes y la aceptación de
+la señora Price para actuar como ama de casa. En efecto, le propuso que las
+invitaciones aludieran también a esta circunstancia feliz, diciendo “por gentil
+asentimiento del reverendo señor Saltover”, con garantía de su buena voluntad,
+pero la viuda no quiso saber nada de eso. Las invitaciones fueron debidamente
+escritas y despachadas.
+—Suponga —sugirió Spindler, con súbita y
+lóbrega aprensión —suponga que no vienen.
+—No tema usted —replicó la señora Price
+riendo.
+—¿Y si están muertos? —continuó Spindler.
+—No pueden estar todos muertos —dijo la
+viuda, jovialmente.
+—Le escribí a otro primo político —dijo
+Spindler, dudosamente—, en caso de accidente, no pensé en él antes porque era
+rico.
+—¿Y nunca lo ha visto tampoco, señor
+Spindler? —preguntó la viuda, con un leve tono sarcástico.
+—¡Por Dios! ¡No! respondió.
+La señora Price cometió solo un error en
+sus preparativos para la fiesta. Había notado lo que el cándido Spindler nunca
+hubiera imaginado —el sentimiento que le tenían sus viejos amigos— y había
+sugerido, con mucho tacto, que se les tendría que enviar una invitación general
+para la noche.
+—Puede haber refrescos también, después de
+la comida, juegos y música.
+—Pero —dijo el sencillo anfitrión —¿no
+pensarán los muchachos que les estoy jugando una mala pasada, por así decirlo,
+dándoles un segundo turno, como si fueran los restos después de un ataque?
+—Tonterías —dijo la señora Price con
+decisión—. Está muy de moda en San Francisco y es lo que se debe hacer.
+Ante esta decisión, Spindler, con la ciega
+fe que tenía en la administración de la viuda, se rindió débilmente. Un anuncio
+en el periódico Weekly Banner dando cuenta de que “la noche de Navidad
+don Ricardo Spindler se propone agasajar a sus amigos y conciudadanos en una
+fiesta familiar, en su propia residencia”, no sólo acrecentó la brecha entre él
+y sus “muchachos”, sino que despertó un profundo resentimiento, que sólo
+esperaba una salida. Se tenía entendido que todos asistirían, pero que iban a
+divertirse “con la velada” en forma que podría no coincidir con el sentido de
+humor de Spindler o el de sus parientes, parecía una conclusión decidida de
+antemano.
+Por desgracia también, ulteriores
+acontecimientos favorecieron la materialización de esta ironía. Algunas mañanas
+después de haber sido enviadas las invitaciones, Spindler, en una de sus
+conferencias diarias con la señora Price, sacó un diario de su bolsillo.
+—Parece —dijo, mirándola con incómoda
+gravedad— que tendremos que sacar uno de esos nombres de la lista, Sam
+Spindler, y calcular que vienen sólo seis parientes.
+—Ah —dijo la señora Price, con interés—,
+entonces, ¿ha tenido usted una respuesta en la que declinaba la invitación?
+—No exactamente eso —dijo Spindler, con
+lentitud—, pero, por los comentarios de este diario fue colgado la semana
+pasada por el Comité de Vigilancia de Yolo.
+La señora Price abrió los ojos ante el
+rostro de Spindler, mientras le sacaba el diario de la mano.
+—Pero —dijo rápidamente—, esto puede ser un
+error, ¡algún otro Spindler! ¡Si usted dice que nunca los ha visto!
+—Creo que no es un error —dijo Spindler con
+sumisa gravedad—, pues el Comité devolvió mi invitación con el gentil y
+despectivo comentario de que lo “mandaron donde no acostumbran celebrar la
+Navidad”.
+La señora Price emitió un sonido
+entrecortado, pero una mirada a los ojos serenos, meditativos e inquisitivos de
+Spindler le devolvió su coraje de antes.
+—Bueno —dijo alegremente—, quizá haya sido
+mejor que no viniera.
+—¿Está segura de eso, señora Price?
+—inquirió Spindler, con un gesto de leve preocupación—. Ahora me parece que era
+uno de los que podían haber sido invitados a la fiesta y así arrancado como una
+tea de la zarza ardiente, cómo dicen las Escrituras. Pero usted sabe más sobre
+esto.
+—Señor Spindler —preguntó la señora Price
+repentinamente, con un leve destello en sus ojos negros—, ¿son sus... son los
+otros, como éste? ¿O esto... —aquí sus ojos recobraron su natural dulzura y
+volvió a reír, aunque de un modo ligeramente histérico— puede volver a suceder?
+—Creo que estamos bastante seguros de tener
+seis para comer —replicó Spindler, ignorando la pregunta. Luego, como si notara
+algún otro significado en sus palabras, agregó con vehemencia—: Pero usted no
+me abandonará, señora Price, si las cosas no salen exactamente como yo pensé,
+¿verdad? Como ve, yo nunca conocí en realidad a estos parientes.
+La sinceridad de su intención era tan obvia
+y, sobre todo, parecía tener una confianza tan patética en su opinión, que ella
+titubeó en hacerle saber el efecto que su revelación le había causado. ¿Y cómo
+serían sus otros parientes? ¡Buen Dios! Sin embargo, por raro que fuese, ella
+se sentía tan impresionada por él y tan fascinada por su auténtico quijotismo,
+que tal vez, en virtud de estas complejas razones, repuso un poco duramente:
+—Según veo, uno de estos primos es una
+dama, y luego está su sobrina. ¿Sabe algo con respecto a ellas, señor Spindler?
+Su semblante se ensombreció.
+—No más de lo que sé de los demás —dijo,
+como si se disculpara. Después de un momento de vacilación prosiguió—: Ahora
+que usted habla de eso, me parece haber oído decir que mi sobrina es
+divorciada. Pero —agregó animándose— también que era muy simpática.
+La señora Price se rió parcamente y guardó
+silencio por algunos minutos. Después, aquella sublime mujercita lo miró. Lo
+que él pudo haber visto en sus ojos era más de lo que esperaba o, me temo,
+merecía.
+—Animo, señor Spindler —dijo con aire
+varonil—. Yo estaré con usted hasta el final de esto ¡no se preocupe! Pero no
+diga nada sobre... sobre ... esto del Comité de Vigilancia, a nadie. Ni sobre
+su sobrina... era su sobrina, ¿no?... la divorciada. Charley (el difunto señor
+Price) tenía una hermana un poco rara, que... ¡pero eso no tiene nada que ver!
+Y su sobrina quizá no venga; y, si viene, no tiene por qué presentarla a toda
+la concurrencia.
+Cuando se despidieron. Spindler, por mero
+agradecimiento, le dio un efusivo apretón de manos y se demoró tanto tiempo en
+hacerlo que las oscuras mejillas de la viuda se sonrojaron. Un renovado vigor
+penetró quizá en su corazón, pues, al día siguiente, fue a Sacramento, no sin
+antes ordenar a Spindler que, de ninguna manera, mostrara cualquier
+contestación que pudiera recibir. En Sacramento, sus sobrinas volaron hacia
+ella con una profusión de confidencias.
+—¡Queríamos tanto verte, tía Huldy, pues
+hemos oído algo maravilloso de tu rara fiesta de Navidad! —el corazón de la
+señora Price dio un vuelco, pero sus ojos se cerraron y abrieron rápidamente.
+—¡Imagínatelo! Uno de los parientes
+perdidos del señor Spindler... un tal señor Wragg... vive en este hotel y papá
+lo conoce. Es una especie de medio tío, creo, y está furioso porque Spindler lo
+invitó. Le mostró la carta a papá; dijo que era la insolencia más grande del
+mundo; que Spindler era un idiota ostentoso, que había hecho un poco de dinero
+y que quería usarlo para entrar en la sociedad; y lo más gracioso de todo el
+asunto es que este medio tío y bruto entero es un advenedizo...
+un vulgar individuo petulante, un...
+—No importa lo que sea, Kate —interrumpió
+la señora Price, apresuradamente—, Yo digo que su conducta es una vergüenza.
+—Nosotros también —respondieron las dos
+chicas, vehementemente. Después de una pausa, Kate se asió las rodillas con los
+dedos unidos, y balanceándose hacia atrás y hacia adelante, dijo—: Milly y yo
+tenemos una idea, y no digas que “No”. La hemos tenido desde que ese bruto
+habló de esa manera. Ahora, por él sabemos más de las vinculaciones familiares
+de este señor Spindler que tú; y sabemos cuántas molestias tendrás que
+compartir con él para organizar esta fiesta. ¿Entiendes? Bueno, primeramente
+queremos saber cómo es Spindler. ¿Es un salvaje?, ¿tiene barba como los mineros
+que vimos en el barco?
+La señora Price dijo que, al contrario, era
+muy suave, tenía voz dulce y era más bien buen mozo.
+—¿Joven o viejo?
+—Joven, en realidad no es más que un
+muchacho, como pueden juzgar por sus acciones —replicó la señora Price, con un
+sugestivo aire de matrona.
+Kate se llevó los impertinentes a sus
+hermosos ojos grises, se los puso aparatosamente sobre su nariz aguileña, y
+luego dijo, con una voz que fingía disgusto:
+—Tía Huldy... ¡esta revelación es
+espantosa!
+La señora Price irrumpió con esa risa
+franca que le era habitual, aunque su oscura mejilla se coloreó con un leve
+matiz bermejo.
+—Si esa es la maravillosa idea que ustedes
+tienen, no veo la ayuda —dijo secamente.
+—¡No, eso no es! Tenemos, en efecto, una
+idea. Ahora mira.
+La señora Price “miró”. Para el observador
+superficial este procedimiento parecía consistir meramente en someter su
+cintura y hombros a los brazos de sus sobrinas, y sus oídos a las voces
+confidenciales y convincentes de las jóvenes.
+Dos veces dijo “ni pensarlo” y “es
+imposible”; una vez la llamó a Kate “¡traviesa!” y finalmente dijo que “no
+prometería, pero que quizá escribiría”.
+Faltaban dos días para Navidad. Nada en el
+aire, cielo o paisaje de la ladera serrana delataban la época para el forastero
+del Este. Una fina lluvia había estado cayendo durante una semana sobre los
+pinos, laureles y castaños de la India, las briznas de malezas que comenzaban a
+brotar y las flores que abrían tímidamente sus capullos. Los serios y apacibles
+flancos de las colinas que habían quedado desoladas y resecas hacia el final de
+la sequía, cobraron vida una vez más; las silenciosas y olvidadas castañas
+dejaban oír el delicado susurro de los saltos y el flujo rápido del agua por
+riachos polvorientos mientras los ríos mayores entonaban su canto por los
+lechos pedregosos. Vientos del sudoeste traían el tibio perfume de la savia de
+los pinos esparciéndose en los bosques, o la débil y lejana fragancia de la
+mostacilla silvestre que medraba en los valles bajos. Pero, cual si fuese una
+ironía de la naturaleza, esta suave incursión de primavera en el bosque agreste
+sólo traía conmoción y pesares para el hombre y los sitios donde realizaba su
+labor. Las zanjas se desbordaban, los vados de la cañada se tornaban
+intransitables, las compuertas estaban sueltas y en los senderos y caminos de
+carretas de Rough and Ready el lodo llegaba a las rodillas. La diligencia de
+Sacramento que entrara al campamento por un camino de montaña, traía las ruedas
+y las tablas atascadas y cubiertas con un pigmento viscoso, como si hubiese
+sido una mezcla de lodo y sangre, que desapareció cuando el vehículo vadeó el
+torrentoso y peligroso riacho, emergiendo luego con inmaculada pureza, dejando
+atrás, en Rough and Ready, el sucio barro que la cubría. Una obligada semana de
+ociosidad en el río “Bar” había llevado a los mineros a gozar de un solaz más
+acogedor en la taberna, con sus espejos, sus pinturas floridas, su sillones y
+su estufa. El vaho de las botas mojadas y el humo de las pipas flotaba sobre
+esta última como el incienso del sacrificio en un altar, pero la actitud de los
+hombres era más crítica y severa que satisfecha y poco exteriorizaba de la
+dulzura del tiempo o de la época.
+—¿Has oído si la diligencia ha traído más
+parientes de Spindler?
+El cantinero, a quien se dirigía la
+pregunta de esta manera, se movió de su cómoda posición contra el mostrador y
+contestó:
+—Por lo que yo sé, no creo.
+—Y ese borrachín de primo segundo... ese
+pico rojo... que llegó ayer, ¿no ha estado rondando por aquí en busca de su
+veneno?
+—No —dijo el cantinero, pensativo—,
+me imagino que Spindler lo tendrá encerrado; está resuelto a mantenerlo sobrio
+hasta después de Navidad y evitar que ustedes lo molesten.
+—Va a estar delirando antes de eso —replicó
+el primero que habló—, ¿y qué hay de ese fatigado medio sobrino que le pidió
+prestado veinte dólares a Yuba Bill en el camino y cuando quiso bajarse en
+Shootersville, Bill no lo dejó y lo llevó a casa de Spindler, cobrando del
+propio Spindler el dinero, antes de dejarlo ir?
+—Está allá con el resto de la “fauna”
+—respondió el cantinero— pero me imagino que la señora Price les habrá dado de
+comer. Tú conoces a la vieja... esa otra prima política... a quien Joe Chandler
+jura que recuerda como una vieja cocinera de un restaurante chino de
+Stockton... apostaría cualquier cosa a que la señora Price la ha adornado con
+alguna de sus elegantes ropas antiguas, para hacerla parecer decente.
+El Tío Jim Starbuck prorrumpió un profundo
+quejido y expresó:
+—¿No les dije? —y volviéndose en tono
+suplicante a los otros, agregó—: ¡Es esa maldita viuda que está atrás de todo!
+Primero convenció a Spindler para efectuar la fiesta y ahora estoy seguro de
+que va a arreglar a esos pelagatos y prevenirlos para que nosotros no nos
+podamos divertir a costa de ellos. Y como la persona que está manejando todo es
+una mujer y no Spindler, tenemos que planear las cosas muy bien y no ser muy
+bruscos, no sea que alguno de los muchachos patalee...
+—¡Ya lo creo! —exclamó una voz áspera pero
+decidida, de entre el grupo.
+—Y —dijo otra voz— no por nada la señora
+Price vivió en el “Sangriento Kansas”.
+—¿Qué programa has decidido, Tío Jim?
+—preguntó el cantinero ligeramente, para frenar lo que parecía presagiar una
+discusión peligrosa.
+—Bueno —dijo Starbuck—, calculamos reunimos
+temprano la noche de Navidad en Hooper's Hollow, y adornarnos a la moda
+india; luego iremos a casa de Spindler con antorchas de pinotea para realizar
+una “danza de antorchas” alrededor de la casa; los que bailen y griten afuera
+entrarán por turno para tomar refrescos. Jake Cooledge, de Boston, dice que si
+alguien llegara a objetar, sólo tenemos que decir que somos “Máscaras de los
+Tiempos Viejos”, ¿enterados? Más tarde se oirá la canción “Esas Campanas
+Vespertinas de los Sábados”, ejecutada por la banda con los peroles de cateo.
+Después, al final, Jake Cooledge pronunciará uno de esos discursos sarcásticos,
+como dando la bienvenida a la familia de Spindler a la “Inauguración del
+Reformatorio y Casa de Pobres de Spindler”. Hizo una pausa, posiblemente a la
+espera de esa aprobación que, sin embargo, no pareció llegar espontáneamente—.
+No es mucho —agregó en tono de disculpa—, pues nos molestarán las mujeres, pero
+agregaremos números al programa, a medida que veamos cómo salen las cosas. Ya
+saben, por lo que hemos oído, todavía no están a mano todos los parientes de Spindler.
+Tenemos que esperar, como en los tiempos de elecciones, las cifras de los
+distritos lejanos. Pero... ¿qué es eso?
+Era el tumulto de cascos de caballos, sobre
+el agua y el barro y el ruido de latigazos en el camino, frente a la puerta:
+¡la diligencia de Sacramento! En un instante, todos los hombres estuvieron a la
+expectativa y Starbuck salió como una saeta, para detenerse en la plataforma.
+Hubo las usuales bienvenidas, el consabido bullicio, el apresurado ingreso a la
+cantina de los pasajeros sedientos y una pausa. El Tío Jim retornó, excitado y
+jadeante.
+—¡Miren, muchachos, si esto no es lo más
+rico que hay! Dicen que hay dos parientes más de Spindler en la diligencia, que
+han venido como carga especial, consignada... ¿oyen? —consignada... ¡a Spindler!
+—¿Rígidos, en ataúdes? —sugirió una voz
+ansiosa.
+—No he podido escuchar más. Pero aquí
+están.
+Se produjo la brusca irrupción de un grupo
+curioso que entró al bar riendo, conducido por Yuba Bill, el cochero. Después,
+el grupo se disolvió, apareciendo dos niños, un varoncito y una nena que se
+tenían de la mano; el mayor no representaba más de seis años. Estaban vestidos
+rústicamente, pero aseados, con una especie de sincronizada actitud, que
+sugería la formalidad de los orfelinatos filantrópicos. Lo más conspicuo de
+todo era una cadenita de metal, que traían alrededor del cuello, de la cual
+colgaban el pasaje común y las etiquetas de la poderosa empresa “Express,
+Wells, Fargo y Cía.” con la leyenda: “A Ricardo Spindler. Frágil. Con gran
+cuidado. Cobrar cuando se entrega”. Los niños levantaban de a ratos sus
+manecillas y tocaban las etiquetas, como para mostrarlas. Examinaron el grupo,
+el piso, el bar, de color dorado, y a Yuba Bill, sin temor y sin perplejidad.
+La manera de mirar sugería que estaban habituados a esta observación.
+—Ahora, Bobby —dijo Yuba Bill, reclinándose
+contra el bar, con un aire medio paternal, medio directivo—, di a estos
+caballeros cómo has venido hasta aquí.
+—Por el exprezo Fargo —respondió el
+niño, ceceando.
+—¿De dónde?
+—Red Hill, Oregon —fue la respuesta.
+—¿Red Hill, Oregon?Eso
+está a mil millas de aquí —dijo uno de los presentes.
+—Me imagino —insinuó Yuba Bill fríamente—
+que vinieron por diligencia hasta Portland, por barco hasta San Francisco, por
+barco nuevamente hasta Stockton y luego por diligencia por toda la línea. Todo
+por la Compañía “Express Wells y Fargo”, de agente a agente, de mensajero a
+mensajero. No han sido tocados ni dirigidos por nadie, sino por los agentes de
+la compañía; todo cuanto tuvieron como dirección son esos pasajes alrededor de
+sus cuellos. Y no necesitaban nada más. He llevado montones de tesoros, en
+otras oportunidades, caballeros y, una vez, cien mil dólares en billetes
+verdes, pero, ¡nunca llevé nada que fuera tan vigilado y custodiado como estos
+niños! El inspector de división de Stockton quería ir con ellos por la línea,
+pero Jim Bracy, el mensajero, dijo que lo tomaría como un reproche a su persona
+y renunciaría, si no se los confiaban a él, junto con los otros equipajes. Te
+divertiste bastante, Bobby, ¿no? Bastante para comer y tomar, ¿eh?
+Los dos niños rieron suavemente,
+volviéronse un tanto esquivos, y luego, mirando tímidamente a Yuba Bill,
+dijeron:
+—Zi.
+—¿Saben a dónde van? —preguntó Starbuck,
+con voz forzada.
+La pequeña contestó rápida y vehementemente:
+—Zí, a Nabidá y Zanta Clauz.
+—¿A qué? —preguntó Starbuck.
+Quien interrumpió ahora fue el niño, con
+aire de suficiencia:
+—Ella quiere dezir el primo Dick. El
+tiene Nabidá.
+—¿Dónde está tu mamá?
+—Muerta.
+—¿Y tu papá?
+—En el hospital.
+Oyóse una risotada que venía de los más
+alejados, hacia cuya dirección todos miraron con disgusto, pero la risa se
+había acallado. Sin embargo, Yuba Bill, levantó la voz desde atrás.
+—Sí, ¡en el hospital! Gracioso, ¿no?... ¡un
+lugar divertido! Que lo pruebe, quien se rió, y en menos de cinco minutos, por
+Satanás que lo dejo en condiciones de ser admitido, sin que le cobren un solo
+centavo—. Se calló, dirigió una mirada rápida de ira a su alrededor, y luego,
+apoyándose contra el mostrador, hizo señas a alguien que estaba cerca de la
+puerta y le dijo con un tono de visible disgusto: —Tú, cuéntales a estos
+gaznápiros cómo pasó, Bracy. ¡Me enferman!
+Bracy, el mensajero del expreso, se
+adelantó hacia el lugar donde se hallaba Yuba Bill y respondió al
+requerimiento.
+—No es nada extraordinario, señores
+—comenzó sonriendo—, sólo que parece que un hombre llamado Spindler, que vive
+por aquí, mandó una invitación al padre de estos niños, para que enviara a su
+familia a una fiesta de Navidad. Fue una acción bastante bondadosa de Spindler,
+considerando que eran parientes pobres que él nunca había conocido, ¿verdad?
+Hizo una pausa; algunos de los presentes
+interrumpieron el silencio no con palabras, sino aclarando la carraspera de sus
+gargantas.
+Por lo menos —reanudó Bracy—, eso es lo que
+pensaron los muchachos de Red Hill, Oregon, cuando se enteraron. Como el padre
+se había roto una pierna y estaba internado en el hospital y la madre había
+fallecido hacía pocas semanas los muchachos pensaron que sería duro que los
+pobres niños perdieran la fiesta, sólo porque no había nadie que los trajera.
+Como ellos no podían acompañarlos, reunieron un poco de dinero y se les ocurrió
+mandarlos por diligencia. Nuestro representante en Red Hill compartió en
+seguida el entusiasmo de los muchachos; no quiso aceptar dinero por adelantado
+y dijo que los mandaría por encomienda, como cualquier otro paquete. Y lo hizo
+¡y aquí están! Y eso es todo, señores; y ahora tengo que entregarlos a este
+Spindler, obtener su recibo y sacarles las etiquetas. Ahora tenemos que irnos;
+vamos, Bill, ayúdame a llevarlos.
+—Esperen —exclamó al unísono una docena de
+voces, mientras una docena de manos hurgaban una docena de bolsillos; lamento
+decir que algunas manos salieron vacías, pues era una época difícil en Rough
+and Ready, pero el cochero se paró ante ellos y levantó una mano en señal de
+advertencia.
+—Ni un centavo, muchachos... ¡ni un
+centavo! La “Compañía Express de Wells Fargo” no se compromete a llevar oro con
+niños, por lo menos en el mismo contrato —se rió y luego, mirando a su
+alrededor, dijo confidencialmente con voz queda, aunque pudo ser oída por los
+niños: —Hay hasta tres bolsas de monedas de plata en la diligencia que han
+llovido sobre los niños desde que empezaron el viaje y que han pasado de
+representante a representante, de mensajero a mensajero... ¡suficiente para
+pagar su viaje de aquí a la China! Es hora de decir basta. Podemos estar
+seguros do que no van a llegar pobres a esa fiesta de Navidad.
+Levantó al niño, al mismo tiempo que Yuba
+Bill alzó a la pequeña sobre los hombros y ambos salieron. Luego, los
+parroquianos salieron uno por uno de la cantina, siguiéndolos silenciosa y
+torpemente, y cuando el cantinero terminó de guardar los vasos y se dio vuelta,
+vio asombrado que el salón estaba vacío.
+La casa de Spindler o más bien la “Farolería
+de Spindler”, como gustaban llamarla en Rough and Ready, quedaba más arriba del
+campamento, en una ladera desmontada, que se vengaba, empero, no produciendo ni
+la vegetación suficiente para cubrir los pocos tocones que no podían
+arrancarse.
+Un gran edificio de madera en el estilo
+seudoclásico, que se veía con frecuencia en el oeste, con una cúpula
+discordante, estaba rodeado por una baranda aún más inapropiada, sostenida por
+columnas dóricas, que ya estaban pintorescamente cubiertas de enredaderas en
+flor. El señor Spindler había encomendado el amueblamiento del interior al
+mismo contratista que había decorado la gran sala dorada del “Eureka Saloon”, y
+parecía que había usado exactamente el mismo diseño y material en ambos. Había
+espejos dorados por toda la casa y mesas de mármol, cupidos de yeso en todos
+los rincones y leones de estuco diseminados por doquier. Las habilidosas manos
+de la señora Price habían disimulado algunos de éstos con ramas de laurel y
+pino, impartiendo al ambiente un ligero toque navideño. Empero había dedicado
+la mayor parte de su tiempo a tratar de aplacar las excentricidades de los
+pintorescos parientes de Spindler, a tranquilizar a la señora “tía” Martha
+Spindler, la anciana cocinera ya aludida, proclive a considerar el deslumbrante
+esplendor de la casa, como indicio de peligrosa inmoralidad; a disuadir al “primo”
+Morley Hewlett que confundía el aparador del comedor con un bar para “refrescos
+intermitentes”, y a impedir que el sobrino mentecato, Phinney Spindler, “tirase”
+a las botellas, desde la baranda, usase la ropa de su tío o comprase en las
+tiendas, a cuenta de él, diversas mercaderías. Sin embargo, la inesperada
+llegada de los dos niños entrañó para ella gran alivio y solaz. Escribió en
+seguida a sus sobrinas un breve relato de su milagroso rescate. “Creo que estos
+pobres chicos nos cayeron del cielo para hacer posible nuestra fiesta de
+Navidad, sin hablar de la simpatía que conquistó Spindler en Rough and Ready.
+Los va a tener aquí el mayor tiempo posible y le escribirá a su padre. ¡Pensar
+que estos pobres chiquitines, han viajado mil millas a “Nabidá”, como dicen
+ellos!... aunque los mensajeros les prodigaron tantos y tan solícitos cuidados,
+que sus cuerpecitos fueron literalmente colmados, como si hubiesen sido
+codornices. Ya ven, queridas mías, vamos a poder arreglarnos sin “ventilar” la
+famosa idea de ustedes. Lo lamento, pues sé que se mueren de ganas por verlo
+todo”.
+Cualquiera que hubiese sido la idea de
+Kate, lo cierto es que, en ese momento, la dirección de la señora Price no
+necesitaba ayuda de extraños. Llegó la Navidad y el episodio de la comida transcurrió sin serio detrimento, pero todavía tenía que llegar la horda de Rough
+and Ready. En efecto, la señora Price bien sabía que, aunque los “muchachos” se
+mostraban más moderados y en realidad propensos a simpatizar con los toscos
+esfuerzos del anfitrión, en el aspecto de los parientes de Spindler había mucho
+todavía que podía excitar su sentido de lo ridículo.
+Pero la fortuna volvió a sonreír en la casa
+de Spindler con una dramática sorpresa, aún mayor que la llegada de los niños.
+Frente al cambio operado en Rough and Ready, los “muchachos” habían resuelto,
+como deferencia hacia las mujeres y los niños, omitir la primera parte de su “programa”
+y se presentaron a la casa sobria y tranquilamente, como invitados comunes.
+Pero, antes de haber tenido tiempo de estrechar la mano de los anfitriones y
+conocer a los parientes, se escuchó un ruido de ruedas frente a la puerta
+abierta, y las luces iluminaron un carruaje y una pareja —un carruaje privado—
+como nunca se había visto desde que el gobernador del Estado llegó para
+inaugurar una nueva zanja. Se produjo luego un silencio, viéndose el resplandor
+del farol del carruaje sobre seda blanca, el pisar suave de un pie de raso en
+la terraza y en el pasillo y una verdadera visión de belleza que hacía su
+entrada en el recinto. Los hombres de mediana edad y los antiguos residentes en
+ciudades recordaron su juventud, los más jóvenes evocaron a Cenicienta y a su
+Príncipe. Hubo un estremecimiento y un silencio mientras esta última invitada
+—una chica hermosa, radiante de juventud y adornos— se llevó un delicado
+binóculo a los brillantes ojos y avanzó con familiaridad, con una mano
+extendida, hacia Dick Spindler. La señora Price emitió un sonido entrecortado y
+se echó para atrás, estupefacta.
+—Tío Dick —dijo una risueña voz de
+contralto, que remedaba algo la propia voz de la señora Price, por su
+desembozada franqueza— estoy encantada de haber venido, aunque un poco tarde y
+deploro que el señor M'Kenna no haya podido también estar presente, por asuntos
+de trabajo.
+Todos escucharon con ansiedad, pero nadie
+con mayor vehemencia y estupor que el mismo dueño de casa. ¡M'Kenna! ¡El primo
+rico que no había contestado a la invitación! ¡Y tío Dick! ¡Era ésta, entonces,
+su sobrina divorciada! Y, a pesar de su gran asombro recordó que, a la verdad,
+nadie sino él y la señora Price lo sabían... y esa dama miraba discretamente
+hacia otro lado.
+—Sí —continuó la media sobrina vivamente—,
+vine de Sacramento con unos amigos hasta Shootersville y desde allá vine hacia
+aquí, y aunque debo volver esta noche, no me podría privar del placer de venir,
+aunque sólo fuera por una hora o dos, para honrar la invitación de mi tío, a
+quien no he visto desde hace años —hizo una pausa y, levantando los lentes,
+volvió una mirada cortés e interrogante hacia la señora Price—. ¿Una de
+nuestras parientes? —preguntó con una sonrisa a Spindler.
+—No —contesto éste un poco turbado— es
+una... ¡una amiga!
+La media sobrina le tendió la mano que la
+señora Price tomó.
+Pero la bella forastera... lo que dijo e
+hizo, fueron las únicas cosas recordadas en Rough and Ready en aquella ocasión
+festiva; nadie pensó en los otros parientes, nadie se acordó de ellos ni de sus
+excentricidades; el mismo Spindler fue olvidado. La gente sólo se acordaba de
+cómo la hermosa sobrina de Spindler prodigó sus sonrisas y atenciones a todos y
+puso a sus pies particularmente al misógino Starbuck y al sarcástico Cooledge,
+que olvidó su discurso anterior; cómo se sentó al piano y cantó como un ángel,
+enmudeciendo a los más bulliciosos y excitados, sumiéndolos en un silencio
+sentimental y emotivo; cómo, con la gracia de una ninfa, dirigió con el “tío
+Dick” una danza de Virginia, logrando que toda la concurrencia hiciera lo
+propio, ansiosos por sentir un fugaz y ligero roce de su mano delicada, en los
+cambios del baile; cómo, cuando habían transcurrido dos horas —tiempo asaz
+efímero para los invitados— todos estaban en la terraza, con las cabezas descubiertas
+y los ojos radiantes, para ver pasar el carruaje maravilloso, que se llevaba a
+la princesa de las hadas. Cómo... pero este incidente nunca se conoció en Rough
+and Ready.
+Ocurrió en el sagrado cuarto de vestir,
+donde la señora Price, con sus propias manos, estaba colocándole la capa a la
+media sobrina del señor Spindler. Aprovechando esa oportunidad para tomar a la
+hermosa pariente por los hombros y sacudirla violentamente, le dijo:
+—Oh, sí, y está todo muy bien para ti,
+Kate, pues te vas y nunca volverás a ver a Rough and Ready ni al pobre
+Spindler; pero, ¿qué voy a hacer yo, señorita? ¿Cómo he de arreglármelas? Pues
+sabes que, al menos, tengo que decirle que no eres su media sobrina.
+—¿Tienes que decirle? —preguntó la joven.
+—¿Tengo? —repitió la viuda
+impacientemente—. ¿Tengo? ¡Por supuesto que tengo! ¿En qué estás pensando?
+—Estaba pensando, tiíta —dijo la muchacha
+con audacia— por lo que he visto y oído esta noche, si no soy su media sobrina
+ahora, ¡sólo será una cuestión de tiempo!
+—Entonces, es mejor que esperes. Buenas
+noches, querida.
+Y, en realidad... resultó que tenía razón.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

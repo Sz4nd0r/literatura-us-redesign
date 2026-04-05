@@ -7,4 +7,65 @@ tags:
   - index
   - ciro
 ---
-¿Quién es Ciro Alegría? ![Ciro Alegría](/assets/images/ciro.jpeg) Ciro Alegría, narrador, periodista y político peruano, es uno de los máximos representantes de la narrativa indigenista. Nació en Sartimbamba, La Libertad (Districto Huamachuco), Perú, el 4 de noviembre de 1909. Tuvo numerosos problemas de salud: se había vuelto sordo del oído izquierdo en 1932 cuando un miembro de la guardia civil lo amedrentó disparando al lado de su oreja; en Chile, durante el exilio, perdió un pulmón luego de una larga batalla contra la tuberculosis; perdió, tras su regreso definitivo a Lima, tres cuartas partes de su estómago por una úlcera. Pero nunca dejó de escribir. Hizo sus estudios escolares en la región andina de Huamachuco. En 1931, ingresó a la Facultad de Letras de la Universidad Nacional de Trujillo, pero participó junto con otros estudiantes en un movimiento de intento de reforma universitaria, y cuando el movimiento fracasó, fue expulsado, junto con otros dirigentes, de la Universidad. Trabajó brevemente, como periodista, en el periódico El Norte, primero, y después para La Industria, un diario trujillano. Se comprometió en la lucha política como miembro de la Alianza Popular Revolucionaria Americana (APRA), y esa militancia le valdrían dos estancias en prisión (en 1931 y en 1933) y su posterior exilio en Chile en 1934. En 1941, cuando El mundo es ancho y ajeno ganó el Concurso Latinoamericano de Novela, la editorial neoyorquina que impulsó el concurso lo llevó a Estados Unidos a recibir el premio, de donde no pudo regresar. Permaneció en los Estados Unidos hasta 1948. En sus 23 años de exilio escribió y publicó la parte más significativa de su obra. En 1935 publicó La serpiente de oro (premio de novela de la Editorial Nascimiento de Chile); en 1939, Los perros hambrientos; y en 1941, El mundo es ancho y ajeno. Entre 1953 y 1957 vivió en Cuba. Allí vivió en carne propia la guerrilla de Fidel Castro. Volvió a Lima, de forma definitiva, en 1960, debido a la crisis revolucionaria que atravesaba la isla. Alegría incursionó nuevamente en política, como miembro del partido Acción Popular, el partido del presidente Fernando Belaúnde Terry. Ganó una diputación en Lima, en 1963, y ese mismo año publicó Duelo de caballeros, una colección de cuentos. Ciro Alegría murió, en el districto Chaclacayo, Lima, el 17 de febrero de 1967. Apenas había cumplido 58 años. Obras: Novela: La serpiente de oro (Santiago, Chile: Editorial Nascimento, 1935, 242 págs.) Los perros hambrientos (Santiago, Chile: Zig-Zag, 1939, 170 págs.) El mundo es ancho y ajeno (Santiago, Chile: Ediciones Ercilla, 1941, 509 págs.) Siempre hay caminos [póstuma] (Lima: Editorial Universo, 1969 El dilema de Krause [póstuma] (Lima: Ediciones Verona, 1969, 154 págs.) Lázaro [póstuma] (Buenos Aires: Losada, 1973, 211 págs.) Cuentos: Duelo de caballeros (Lima: Populibros Peruanos, 1963, 127 págs.) y (Buenos Aires: Losada, 1965, 117 págs.) Panki y el guerrero (Lima: Industrial Gráfica [Colección Infantil “Ciro Alegría”], 1968, 95 págs.) La ofrenda de piedra [póstumo] (Lima: Editorial Universo, 1969, 172 págs.) Siete cuentos quirománticos [póstumo] (Lima: Ediciones Varona, 1978, 189 págs.) ÍNDICE: Cuentos: Duelo de caballeros (1963): —1. Cuarzo —2. La madre —4. Calixto Garmendia —6. Muerte del cabo Cheo López —7. Los ladrones —8. Duelo de caballeros —9. Guillermo el salvaje [Guillermo Silvestre] Panki y el guerrero (1968): Panki y el guerrero El barco fantasma La sirena del bosque La Madre de las Enfermedades Leyenda del ayaymama La piedra y la cruz Navidad en los Andes De cómo repartió el diablo los males por el mundo Siete cuentos quirománticos [póstumo] (1978) El amuleto Mañana difunta Cuento quiromántico El brillante Historia de una infidelidad Novelas: (capítulos 1-5) La serpiente de oro (1935) Los perros hambrientos (1939) El mundo es ancho y ajeno (1941) Siempre hay caminos [póstuma] (1969) (completa) 
+
+## Biografía
+
+![Ciro Alegría](/assets/images/ciro.jpeg)
+
+**Ciro Alegría**, narrador, periodista y político peruano, es uno de los máximos representantes de la narrativa indigenista. Nació en Sartimbamba, La Libertad, Perú, el 4 de noviembre de 1909. A lo largo de su vida enfrentó graves problemas de salud, perdiendo un pulmón por tuberculosis en el exilio y gran parte de su estómago por una úlcera, pero nunca dejó de escribir.
+
+Realizó sus estudios escolares en la región andina de Huamachuco. En 1931 ingresó a la Universidad Nacional de Trujillo, de donde fue expulsado por su activismo reformista. Su militancia en la Alianza Popular Revolucionaria Americana (APRA) le valió estancias en prisión y el posterior exilio en Chile en 1934.
+
+En sus 23 años de exilio escribió la parte más significativa de su obra. En 1935 publicó *La serpiente de oro*, seguida por *Los perros hambrientos* (1939). En 1941, su novela *El mundo es ancho y ajeno* ganó el Concurso Latinoamericano de Novela. Entre 1941 y 1948 vivió en Estados Unidos, y luego en Cuba hasta su regreso definitivo al Perú en 1960. Murió en Lima el 17 de febrero de 1967. Apenas había cumplido 58 años.
+
+## Bibliografía
+
+### Novela
+- *La serpiente de oro* (1935)
+- *Los perros hambrientos* (1939)
+- *El mundo es ancho y ajeno* (1941)
+- *Siempre hay caminos* (Póstuma, 1969)
+- *El dilema de Krause* (Póstuma, 1969)
+- *Lázaro* (Póstuma, 1973)
+
+### Cuentos
+- *Duelo de caballeros* (1963)
+- *Panki y el guerrero* (1968)
+- *La ofrenda de piedra* (Póstumo, 1969)
+- *Siete cuentos quirománticos* (Póstumo, 1978)
+
+## Índice
+
+### Cuentos
+
+#### *Duelo de caballeros* (1963)
+- 1. Cuarzo
+- 2. La madre
+- 4. Calixto Garmendia
+- 6. Muerte del cabo Cheo López
+- 7. Los ladrones
+- 8. Duelo de caballeros
+- 9. Guillermo el salvaje (Guillermo Silvestre)
+
+#### *Panki y el guerrero* (1968)
+- Panki y el guerrero
+- El barco fantasma
+- La sirena del bosque
+- La Madre de las Enfermedades
+- Leyenda del ayaymama
+- La piedra y la cruz
+- Navidad en los Andes
+- De cómo repartió el diablo los males por el mundo
+
+#### *Siete cuentos quirománticos* (1978)
+- El amuleto
+- Mañana difunta
+- Cuento quiromántico
+- El brillante
+- Historia de una infidelidad
+
+### Novelas (Fragmentos)
+- *La serpiente de oro* (1935): Capítulos 1-5
+- *Los perros hambrientos* (1939): Capítulos 1-5
+- *El mundo es ancho y ajeno* (1941): Capítulos 1-5
+- *Siempre hay caminos* (1969): Completa

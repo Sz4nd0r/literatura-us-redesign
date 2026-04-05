@@ -1,0 +1,268 @@
+---
+layout: story
+title: El ganador
+slug: ganador
+source: https://www.literatura.us/idiomas/dhl/ganador.html
+tags:
+  - ganador
+  - dhl
+---
+D. H. Lawrence
+(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)
+El ganador (1926)
+(“The Rocking-Horse Winner”)
+Originalmente publicado en la revista Harper’s Bazaar (julio 1926);
+The Ghost Book: Sixteen New Stories of the Uncanny Compiled by Lady Cynthia Asquth
+(Londres: Hutchinson, 1926), págs. 167-188);
+The Lovely Lady and Other Stories
+(Londres: Martin Secker, 1933, 246 págs.)
+Érase una vez, una mujer hermosa que había empezado la vida con todo a su favor y que, sin embargo, no tenía suerte. Se casó por amor, y el amor se convirtió en cenizas. Tuvo unos hijos preciosos; no obstante, sentía que le habían sido impuestos, y era incapaz de amarlos. Ellos la miraban fríamente, como si la encontraran en falta. De inmediato ella sentía que debía ocultar algún defecto. Pero jamás conseguía averiguar qué defecto era ese. Así y todo, cuando sus hijos estaban presentes, ella sentía que el núcleo de su corazón se endurecía. Esto le preocupaba, y, a su manera, era excesivamente ansiosa y dulce con los niños, como si los quisiera muchísimo. Solo ella sabía que en el núcleo de su corazón había una pequeña zona endurecida que era incapaz de sentir amor; no, por nadie. Todos los demás decían de ella: “¡Es una madre tan buena! Adora a sus hijos”. Pero solo ella, y sus hijos, sabían que no era así. Podían leerlo, unas y otro, en sus respectivas miradas.
+Los hijos eran un varón y dos niñas. Vivían en una casa agradable, con jardín, y tenían unos sirvientes discretos, y se consideraban mejores que cualquiera de sus vecinos.
+Aunque vivían con lujo, en la casa siempre se percibía cierta ansiedad. Nunca había dinero bastante. La madre tenía unas pequeñas rentas, y también el padre, pero no eran las suficientes para la posición social que pretendían mantener. El padre acudía a la ciudad a trabajar en algún despacho. Pero aunque tenía buenas perspectivas, estas nunca se materializaron. Siempre existía la agobiante sensación de la falta de dinero, aunque la posición social que aparentaban seguía siendo la misma.
+Un día la madre dijo:
+—Veré si yo puedo hacer algo. —Pero no sabía por dónde empezar. Se devanó los sesos, e intentó una cosa, y otra, pero no obtuvo resultado alguno. El fracaso trazó en su rostro profundas arrugas. Sus hijos estaban creciendo, y tendrían que ir al colegio. Haría falta más dinero, haría falta más dinero. El padre, que era un hombre muy apuesto y tenía gustos caros, parecía que jamás fuese a hacer nada que valiese la pena. Y la madre, que creía enormemente en sí misma, no lograba hacer mucho más, a pesar de que sus gustos también eran caros.
+De modo que la casa llegó a estar invadida por aquella frase inexpresada: “¡Haría falta más dinero! ¡Haría falta más dinero!”. Los niños podían oírla a cada instante, aunque nadie la decía en voz alta. La oían en Navidad, cuando los juguetes caros y espléndidos llenaban el cuarto de juegos. Detrás del brillante y moderno caballo de balancín, detrás de la elegante casa de muñecas, una voz empezaba a murmurar: “¡Haría falta más dinero! ¡Haría falta más dinero!”. Y los niños dejaban de jugar y escuchaban un momento. Se miraban entre ellos, para ver si los otros también lo habían oído. “¡Haría falta más dinero! ¡Haría falta más dinero!”.
+La frase brotaba murmurante de los resortes del caballo de balancín, e incluso el caballo, inclinando la piafante cabeza de madera, podía oírla. La enorme muñeca, sentada tan sonriente y sonrosada en su nuevo cochecito, la oía con toda claridad, y parecía que esto la hacía sonreír con picardía aun mayor. El gracioso cachorrito, que había reemplazado al oso de felpa, parecía todavía más extraordinariamente gracioso solo porque oía también, por toda la casa, el murmullo secreto: “¡Haría falta más dinero! ¡Haría falta más dinero!”.
+No obstante, nadie lo decía en voz alta. El murmullo estaba en todas partes, y por ello nadie lo expresaba, del mismo modo que nadie dice nunca “¡Estamos respirando!”, a pesar del hecho de que la respiración viene y va a cada momento.
+—Madre —dijo un día Paul, el niño—, ¿por qué no tenemos coche propio? ¿Por qué utilizamos siempre el del tío, o un taxi?
+—Porque somos los parientes pobres de la familia —dijo la madre.
+—Pero ¿por qué, mamá?
+—Bueno, supongo —dijo ella lenta, amargamente— que es porque tu padre no tiene suerte.
+El niño guardó un instante de silencio.
+—¿La suerte es lo mismo que el dinero, madre? —preguntó con cierta timidez.
+—No, Paul. No exactamente. Es lo que hace que tengas dinero.
+—¡Ah…! —dijo vagamente Paul—. Yo creía que cuando el tío Oscar decía “maldita fortuna”, se refería al dinero.
+—En esa frase se refería a la suerte —dijo la madre—. Pero tener fortuna significa también poseer dinero.
+—¡Ah…! —dijo el chico—. Entonces ¿qué es la suerte, madre?
+—Es lo que hace que tengas dinero. Si tienes suerte, tienes dinero. Por eso es mejor nacer con suerte que nacer rico. Si eres rico, puedes perder tu dinero. Pero si tienes suerte, siempre obtendrás más dinero.
+—¡Ah! ¿De veras? ¿Y padre no tiene suerte?
+—Yo diría que tiene muy poca —dijo ella con amargura.
+El niño la miraba dubitativamente.
+—¿Por qué? —preguntó.
+—No lo sé. Nadie sabe por qué unas personas tiene suerte y otras no.
+—¿No? ¿Nadie, de verdad? ¿Nadie puede saberlo?
+—Tal vez Dios. Pero Él nunca lo dice.
+—Pues debería hacerlo. ¿Y tú tampoco tienes suerte, madre?
+—No puedo tenerla, si me he casado con un hombre que no la tiene.
+—Pero tú, por ti misma, ¿no la tienes?
+—Solía pensar que sí, antes de casarme. Ahora pienso que no tengo nada.
+—¿Por qué?
+—Pues… En fin, da igual. Tal vez sí tenga algo —dijo ella.
+El niño la miró para comprobar si lo decía en serio. Pero vio, por la expresión de sus labios, que solo estaba intentando ocultarle algo.
+—Bueno, de todas maneras —dijo valientemente—, yo sí tengo suerte.
+—¿Por qué? —dijo su madre rompiendo a reír.
+Él la miró fijamente. Ni siquiera sabía por qué había dicho eso.
+—Dios me lo dijo —afirmó con valentía.
+—¡Espero que así sea, querido! —dijo ella riendo de nuevo, pero con amargura.
+—¡Es verdad, madre!
+—¡Excelente! —dijo la madre, utilizando una de las exclamaciones de su marido.
+El niño se dio cuenta de que no le había creído, o, más bien, de que no hacía caso de su afirmación. Esto, de algún modo, le irritó, despertando en él el deseo de llamar su atención.
+Se alejó por su cuenta, pensativo, buscando, a su manera infantil, la clave de la “suerte”. Absorto, sin hacer caso a los demás, vagaba por la casa con una especie de cautela, buscando la suerte en su interior. Deseaba la suerte, la deseaba, la deseaba. Cuando sus dos hermanas jugaban a las muñecas en el cuarto de los niños, él se sentaba a horcajadas sobre su gran caballo de balancín, cabalgando como un poseso en el espacio, con un frenesí que obligaba a las pequeñas a observarlo con inquietud. El caballo se mecía salvajemente, el oscuro cabello ondulado del niño se agitaba en el aire y sus ojos adquirían un brillo extraño. Sus hermanas no se atrevían a hablarle.
+Cuando llegaba al final de su enloquecido viaje, se bajaba del caballo y se paraba ante él, mirándole fijamente su cabeza baja. La boca roja estaba ligeramente entreabierta, los grandes ojos desorbitados, brillantes como cristales.
+—¡Ahora! —le ordenaba silenciosamente el niño a la piafante montura—. ¡Llévame a donde está la suerte! ¡Llévame ya!
+Y fustigaba al caballo en el cuello con la pequeña fusta que le había pedido a su tío Oscar. Él sabía que el caballo podía llevarle a donde estaba la suerte, por poco que lo obligase.
+De modo que lo montaba de nuevo y recomenzaba su furioso galope, con la esperanza de llegar allí por fin. Él sabía que podía llegar.
+—¡Romperás el caballo, Paul! —dijo la niñera.
+—¡Siempre está cabalgando así! ¡Me gustaría que parase! —dijo su hermana mayor Joan.
+Pero él se limitaba a mirarlas en silencio. La niñera renunció a decirle nada más. No podía hacerle cambiar. Además, era ya demasiado mayor para ella.
+Un día, su madre y su tío Oscar entraron mientras él estaba en mitad de una de sus furiosas cabalgadas. Él no les habló.
+—¡Hola, pequeño jockey! ¿Montando a un ganador? —dijo su tío.
+—¿No eres demasiado grandecito para un caballo de balancín? Ya no eres un bebé, ¿sabes? —dijo su madre.
+Pero Paul se limitó a mirarlos con sus grandes ojos azules, ligeramente juntos. No hablaba con nadie cuando estaba así de excitado. Su madre lo miraba con expresión de ansiedad.
+Al fin el niño se detuvo súbitamente, forzando a su caballo a un galope mecánico, y descendió.
+—Bueno, ¡ya he llegado! —anunció con vehemencia, con sus ojos azules aún llameantes y separando sus fuertes y largas piernas.
+—¿Adónde? —preguntó su madre.
+—A donde quería ir —le contestó él con rotundidad.
+—¡Así me gusta, hijo! —dijo su tío Oscar—. No te detengas hasta llegar allí. ¿Cómo se llama el caballo?
+—No tiene nombre —dijo el chico.
+—¿Y se las arregla sin él? —dijo el tío.
+—Bueno, tiene nombres diferentes. La semana pasada se llamaba Sansovino.
+—Sansovino, ¿eh? Ganó en Ascot. ¿Cómo lo sabías?
+—Siempre habla de las carreras de caballos con Bassett —dijo Joan.
+El tío estaba encantado de que su pequeño sobrino se interesara en las carreras. Bassett, el joven jardinero, que había sido herido en el pie izquierdo durante la guerra y había conseguido su actual empleo a través de Oscar Cresswell, tras haber sido su bateador, era un gran experto en el tema. Vivía para la hípica, y el pequeño lo secundaba.
+Oscar Cresswell se enteró de todo por Bassett.
+—El señorito Paul viene a preguntarme, y yo no puedo por menos que responderle, señor —dijo Bassett, con una expresión terriblemente seria, como si estuviera hablando de asuntos religiosos.
+—¿Y alguna vez apuesta algo a un caballo que le apetezca?
+—Bueno, yo no quiero delatarle… Es un buen chico… Un chico excelente, señor. ¿Le importaría preguntárselo usted mismo? Es una cosa que parece gustarle, y tal vez piense que yo le estoy traicionando. Si no le importa, señor…
+Bassett era tan serio como una iglesia.
+El tío fue en busca de su sobrino y lo llevó a dar una vuelta en coche.
+—Paul… Dime, chico, ¿alguna vez apuestas algo a los caballos?
+El niño observó a su tío con atención.
+—¿Por qué, crees que no debo hacerlo? —dijo desafiante.
+—¡No he dicho eso! Pero pensé que tal vez podrías darme alguna pista para el Lincoln.
+El coche se desplazaba velozmente por el campo en dirección a la casa del tío Oscar en Hampshire.
+—¿Me juras no decir nada? —dijo el sobrino.
+—Te juro no decir nada, hijo —dijo el tío.
+—Pues bien: Daffodil.
+—¡Daffodil! Lo dudo, hijito. ¿Qué me dices de Mirza?
+—Yo solo sé el nombre del ganador —dijo el niño—. Y es Daffodil.
+—Daffodil, ¿eh?
+Hubo una pausa. Daffodil, comparativamente, era un caballo secundario.
+—¡Tío!
+—¿Sí, hijo?
+—No dejarás que salga de aquí, ¿verdad? Se lo prometí a Bassett.
+—¡Al diablo con Bassett, jovencito! ¿Qué tiene él que ver con esto?
+—Somos socios. Somos socios desde el principio. Tío, él me prestó mis primeros cinco chelines, y los perdí. Le di mi palabra de honor de que sería algo entre él y yo, solo que tú me diste ese billete de diez chelines y con él empecé a ganar, así que pensé que me traías suerte. No se lo dirás a nadie, ¿verdad?
+El niño miró a su tío con aquellos ojos grandes, cálidos y azules, demasiado juntos. El tío se removió en el asiento y rió nerviosamente.
+—¡En absoluto, hijo! Tu información está a salvo conmigo. Daffodil, ¿eh? ¿Cuánto vas a apostar por él?
+—Todo lo que tengo menos veinte libras —dijo el niño—. Eso lo guardo como reserva.
+El tío lo encontró muy cómico.
+—Te guardas veinte libras como reserva, ¿eh, graciosillo? ¿Cuánto apuestas, entonces?
+—Apuesto trescientas —dijo el niño con gravedad—. ¡Pero eso es entre tú y yo, tío Oscar! ¿Me lo prometes?
+El tío lanzó una inmensa carcajada.
+—¡Claro que es entre tú y yo, pequeño Nat Gould! —dijo, riendo—. Pero ¿dónde están tus trescientas libras?
+—Me las guarda Bassett. Somos socios.
+—Ah, sí, ¿eh? ¿Y cuánto apuesta Bassett por Daffodil?
+—Supongo que no tanto como yo. Tal vez ciento cincuenta.
+—¿Qué, peniques? —rió el tío.
+—Libras —dijo el niño, mirando sorprendido a su tío—. Bassett siempre se reserva más dinero que yo.
+Entre la sorpresa y la diversión, el tío Oscar guardó silencio. No volvió a hablar del asunto, pero decidió llevar consigo a su sobrino a las carreras de Lincoln.
+—Bien, hijito —dijo—, yo voy a apostar veinte libras a Mirza y apostaré cinco libras por ti al caballo que tú quieras.
+—Daffodil, tío.
+—¡No, las cinco a Daffodil no!
+—Si fueran mías yo lo haría —dijo el niño.
+—¡Bien, bien! Tienes razón. Cinco por ti y cinco por mí a Daffodil.
+El niño nunca había estado en las carreras y sus ojos eran como fuego azul. Apretó fuertemente los labios y observó todo con gran atención. Un francés que tenía delante había apostado su dinero a Lancelot. Loco de excitación, agitaba los brazos gritando “¡Lancelot! ¡Lancelot!” con su acento francés.
+Daffodil llegó el primero, Lancelot el segundo y Mirza el tercero. El niño, sonrojado y con los ojos llameantes, estaba curiosamente sereno. Su tío le trajo cuatro billetes de cinco libras, cuatro a uno.
+—¿Qué debo hacer con esto? —exclamó, agitando los billetes ante los ojos del niño.
+—Supongo que hablaremos con Bassett —dijo el chico—. Creo que ahora tengo mil quinientas, y veinte de reserva; y estas otras veinte.
+Su tío lo miró atentamente durante unos instantes.
+—Escucha, hijito —dijo—, no hablarás en serio sobre Bassett y esas mil quinientas, ¿verdad?
+—Claro que sí. Pero es un secreto entre tú y yo, tío. ¿Me lo prometes?
+—¡Claro que te lo prometo, hijo! Pero debo hablar con Bassett.
+—Si quieres hacerte socio nuestro, tío, de Bassett y mío, podríamos hacerlo. Solo que tendrías que darnos tu palabra de honor de que no se lo dirás a nadie. Bassett y yo tenemos suerte, y tú también debes tenerla, porque gracias a tus diez chelines yo gané la primera vez…
+El tío Oscar se llevó a Bassett y a su sobrino a pasar la tarde a Richmond Park, y allí hablaron:
+—Verá, señor, la cosa va así —dijo Bassett—. El señorito Paul me pide que le hable de las carreras, de sus historias, ¿comprende, señor? Siempre se interesaba en saber si había ganado o perdido. Ahora va a hacer un año que aposté cinco chelines a Bush of Dawn en su nombre. Y los perdimos. Luego la suerte se puso de nuestro lado con esos diez chelines que usted le dio. Estos los apostamos a Singhalese. Y desde entonces, en general, la suerte se ha mantenido. ¿Usted qué dice, señorito Paul?
+—Nos va bien cuando estamos seguros —dijo Paul—. Perdemos cuando no estamos del todo seguros.
+—Ah, pero en esos casos vamos con cuidado —dijo Bassett.
+—Pero ¿cuándo estáis seguros? —sonrió el tío Oscar.
+—Es el señorito Paul, señor —dijo Bassett con una voz serena, religiosa—. Es como si se lo dijeran desde el Cielo. Como ahora con Daffodil, en el Lincoln. Eso era tan seguro como la salida del sol.
+—¿Apostó usted dinero a Daffodil? —preguntó Oscar Cresswell.
+—Sí, señor. Algo gané.
+—¿Y mi sobrino?
+Bassett guardo un silencio obstinado, mirando a Paul.
+—Yo gané mil doscientas libras, ¿verdad, Bassett? Le dije al tío que apostaría trescientas a Daffodil.
+—Así es —dijo Bassett, asintiendo con la cabeza.
+—Pero ¿dónde está el dinero? —preguntó el tío.
+—Lo guardo yo bajo llave, señor. El señorito Paul puede pedírmelo cuando quiera.
+—¿Cómo, mil quinientas libras?
+—¡Más veinte! Más cuarenta, contando lo que ganó en el hipódromo.
+—¡Es increíble! —dijo el tío.
+—Si el señorito Paul se ofrece a hacerle socio, señor, yo, en su caso, aceptaría. Si permite que se lo diga —dijo Bassett.
+Oscar Cresswell caviló unos instantes.
+—Veamos ese dinero —dijo.
+Regresaron a casa y, sin vacilar, Bassett acudió a la caseta del jardín con mil quinientas libras en billetes. La reserva de veinte libras había quedado con Joe Glee en el depósito de la Comisión Hípica.
+—¿Lo ves, tío? ¡No hay peligro cuando estoy seguro! Entonces jugamos fuerte, todo lo que tenemos. ¿Verdad, Bassett?
+—Así es, señorito Paul.
+—¿Y cuándo estás seguro? —dijo el tío, riendo.
+—Bueno, a veces estoy completamente seguro, como con Daffodil —dijo el chico—, y otras tengo una idea; y a veces ni siquiera tengo una idea, ¿verdad, Bassett? Entonces tenemos cuidado, porque en general perdemos.
+—Ah, sí, ¿eh? Y cuando estás seguro, como con Daffodil, ¿qué es lo que te hace estarlo tanto, hijo?
+—Pues… bueno, no lo sé —dijo el niño, nervioso—. Estoy seguro, tío, eso es todo.
+—Es como si se lo dijeran desde el Cielo, señor —reiteró Bassett.
+—¡Ya lo creo! —dijo el tío.
+Pero se hizo socio. Y cuando se acercaba el Leger, Paul estuvo “seguro” de que ganaría Lively Spark, que era un caballo bastante mediocre. El chico insistió en apostar mil libras al caballo, Bassett se decidió por quinientas y Oscar Cresswell por doscientas. Lively Spark llegó el primero, y las apuestas habían sido de diez a uno contra él. Paul había ganado diez mil libras.
+—Es que estaba completamente seguro de que ganaría —dijo.
+Incluso Oscar Cresswell había ganado dos mil libras.
+—Óyeme bien, hijito —le dijo a su sobrino—, estas cosas me ponen nervioso.
+—¡No tienen por qué, tío! A lo mejor pasa mucho tiempo antes de que vuelva a estar tan seguro.
+—Pero ¿qué vas a hacer con tu dinero? —preguntó el tío.
+—Esto empecé a hacerlo por mi madre —dijo el niño—. Ella dijo que no tenía suerte, porque mi padre no la tenía, así que pensé que si yo tenía suerte, dejaría de murmurar.
+—¿Qué dejaría de murmurar?
+—Nuestra casa. Detesto nuestra casa por su murmullo.
+—¿Y qué murmura?
+—Pues… pues… —El niño se removió inquieto—. Pues no lo sé. Pero en casa siempre falta dinero, ¿sabes, tío?
+—Lo sé, hijo, lo sé.
+—Sabes que a mamá le envían pagarés, ¿verdad?
+—Me temo que sí —dijo el tío.
+—Y entonces la casa murmura, como si la gente se riese a nuestras espaldas. ¡Eso es horrible! Pensé que si yo tenía suerte…
+—… podrías hacer algo para impedirlo —añadió el tío.
+El niño lo miró con sus grandes ojos azules, que brillaban con un fuego extraño, pero no dijo una palabra.
+—Pues bien —dijo el tío—, ¿qué vamos a hacer?
+—No quisiera que mamá supiese que tengo suerte —dijo el niño.
+—¿Por qué, hijo?
+—Me impediría jugar.
+—Yo no lo creo.
+—¡Oh…! —dijo el chico, y se removió nerviosamente—. No quiero que lo sepa, tío.
+—De acuerdo, hijo. Nos las arreglaremos sin que ella se entere.
+Se las arreglaron con toda facilidad. Paul, a sugerencia de los otros, le entregó cinco mil libras a su tío, quien las depositó en manos del abogado de la familia. Este informaría entonces a la madre de Paul de que un pariente le había dado cinco mil libras, las cuales serían entregadas, a razón de mil al año, a la madre de Paul, en su cumpleaños, durante los cinco años siguientes.
+—Así tendrá un regalo de cumpleaños de mil libras durante los próximos cinco años —dijo el tío Oscar—. Espero que eso no se lo ponga más difícil después.
+El cumpleaños de la madre de Paul era en noviembre. La casa había estado murmurando mucho más que nunca últimamente y, a pesar de su suerte, Paul no podía soportarlo. Estaba ansioso por ver el efecto que a su madre le causaba la carta de cumpleaños, en la que se le hablaba de las mil libras.
+Ahora, cuando no había visitas, Paul comía y cenaba con sus padres, ya que era demasiado mayor para comer en el cuarto de los niños. Su madre iba a la ciudad casi todos los días. Había descubierto que tenía una cierta habilidad para diseñar modelos de vestidos y abrigos de piel, de modo que trabajaba secretamente en el estudio de una amiga que era la “artista” principal de los modistos más importantes. Dibujaba siluetas de mujeres vestidas de pieles, o de sedas y lentejuelas, para los anuncios de la prensa. La joven artista amiga suya ganaba varios miles de libras al año, pero la madre de Paul solo ganaba unos cientos, y seguía insatisfecha. ¡Tenía tantos deseos de ser la primera en algo…! Pero no lo conseguía, ni siquiera dibujando modelos para los anuncios de prensa.
+La mañana de su cumpleaños bajó a desayunar. Paul la observaba mientras leía sus cartas. Sabía lo que diría la carta del abogado. Mientras su madre la leía, su cara se endureció y se volvió aún más inexpresiva. Luego su boca adoptó una expresión fría y decidida. Escondió la carta bajo otras muchas y no dijo una palabra acerca de ella.
+—¿No has recibido algo bonito para tu cumpleaños, mamá?
+—Sí, más o menos —dijo ella, con su voz fría y ausente.
+Se fue a la ciudad sin decir nada más.
+Pero por la tarde apareció el tío Oscar. Dijo que la madre de Paul había tenido una larga entrevista con el abogado, pidiéndole, si era posible, que le entregara las cinco mil libras de una sola vez, puesto que tenía muchas deudas.
+—¿Tú que opinas, tío? —dijo el chico.
+—Lo dejo en tus manos, hijo.
+—¡Pues entonces que se las quede! Podemos ganar más con lo que queda —dijo el niño.
+—¡Más vale pájaro en mano que ciento volando, muchacho! —dijo el tío Oscar.
+—Pero estoy seguro de que sabré quién ganará el Grand National, o el Lincolnshire, o si no el Derby. Estoy seguro de que sabré quién ganará al menos uno de ellos —dijo Paul.
+De modo que tío Oscar firmó el acuerdo, y la madre de Paul cobró las cinco mil libras. Entonces ocurrió algo muy curioso. De pronto, las voces de la casa enloquecieron, como un coro de ranas en un anochecer de primavera. Hubo ciertos cambios en la decoración, y a Paul se le asignó un tutor. Iría de verdad a Eton, el colegio de su padre, el otoño siguiente. Hubo flores en mitad del invierno, y el lujo al que la madre de Paul había estado acostumbrada volvió a revivir. Y, sin embargo, las voces de la casa, tras los ramos de mimosa y los capullos de almendro, y debajo de los innumerables cojines iridiscentes, sencillamente trinaban y exultaban en una suerte de éxtasis: “¡Haría falta más dinero! ¡Oooh, haría falta más dinero! ¡Ahora, ahora! ¡Haría falta más dinero! ¡Más que nunca! ¡Más que nunca!”.
+Esto asustaba terriblemente a Paul. Seguía estudiando latín y griego con su tutor, pero sus horas más intensas las pasaba con Bassett. El Grand National había llegado y pasado; él no había “sabido” quién sería el ganador, y había perdido cien libras. Llegaba el verano. Estaba en ascuas con el Lincoln. Pero tampoco “supo” quién lo ganaría, y perdió cincuenta libras. Su comportamiento se volvió extraño, su mirada enloquecida, como si algo dentro de él estuviera a punto de estallar.
+—¡Déjalo estar, hijo! ¡No te preocupes más! —le aconsejaba el tío Oscar. Pero era como si el chico no pudiese oírle.
+—¡Tengo que saber para el Derby! ¡Tengo que saber para el Derby! —repetía el niño, con sus ojos azules brillando en una suerte de locura.
+Su madre se dio cuenta de lo nervioso que estaba.
+—Sería mejor que te fueras a la costa. ¿No te gustaría irte a la costa ahora, en vez de esperar? —le dijo, mirándolo con ansiedad, con el corazón curiosamente triste a causa de él.
+Pero el niño levantó sus misteriosos ojos azules.
+—¡De ningún modo podría antes del Derby, madre! —dijo—. ¡Imposible!
+—¿Por qué no? —dijo ella, su voz se había vuelto ominosa al verse contradicha—. ¿Por qué no? Puedes ir al Derby con tu tío Oscar desde la costa, si es lo que quieres. No es necesario que esperes aquí. Además, me parece que le das demasiada importancia a estas carreras. Es una mala señal. La mía ha sido una familia de jugadores, y no te darás cuenta hasta que seas mayor del daño que eso hizo. Pero lo hizo. Tendré que despedir a Bassett y pedirle al tío Oscar que no vuelva a hablarte de las carreras, a menos que prometas que serás razonable en ese aspecto. Vete a la costa y olvídate de ello. ¡Estás hecho un manojo de nervios!
+—Haré lo que quieras, madre, siempre que no me eches antes del Derby —dijo el chico.
+—¿Echarte de dónde? ¿De esta casa?
+—Sí —dijo él mirándola fijamente.
+—¡Vaya, qué niño más curioso! ¿Por qué de pronto te importa tanto esta casa? No sabía que te gustase.
+Él la miró sin hablar. Poseía un secreto dentro de un secreto, algo que no había contado a nadie, ni siquiera a Bassett o a su tío Oscar.
+Pero su madre, tras quedarse un momento indecisa, dijo de mala gana:
+—¡De acuerdo, entonces! No vayas a la costa antes del Derby si no quieres. Pero prométeme no destrozarte los nervios. Prométeme que no pensarás tanto en las carreras ni en los “acontecimientos hípicos”, como tú los llamas.
+—Oh, no —dijo el chico sin darle importancia—. No pensaré mucho en eso, madre. No tienes por qué preocuparte. Yo en tu lugar no me inquietaría.
+—Si tú estuvieras en mi lugar y yo en el tuyo —dijo su madre—, me pregunto qué haríamos.
+—Pero sabes que no has de preocuparte, ¿verdad, madre? —repitió el niño.
+—Me encantaría poder estar segura de ello —dijo ella con voz cansada.
+—Pues puedes estarlo, ¿sabes? Quiero decir que deberías saber que no tienes por qué inquietarte —insistió él.
+—¿Debería? Pues lo intentaré —dijo ella.
+El secreto de Paul era su caballo de madera, el que no tenía nombre. Desde que se emancipó de la niñera y la gobernanta, había hecho trasladar el caballo de balancín a su dormitorio en la planta alta de la casa.
+—¡Pero si eres demasiado mayor para un caballo de balancín! —le reconvino su madre.
+—Verás, madre, hasta que pueda tener un caballo de verdad, me gustaría tener algún animal cerca de mí —fue su peculiar respuesta.
+—¿Te parece que te hace compañía? —dijo ella riendo.
+—¡Sí! Es muy bueno, y siempre me hace compañía cuando estoy allí —dijo Paul.
+De modo que el caballo, en cierto mal estado, permaneció inmovilizado a medio galope en el cuarto del niño.
+Se acercaba el Derby, y el niño se iba poniendo cada vez más tenso. Apenas oía lo que se le decía, estaba muy débil y sus ojos asustaban. Su estado despertaba en su madre súbitos y extraños arranques de preocupación. A veces se pasaba media hora sintiendo por él una ansiedad que rozaba la angustia. Deseaba correr a su lado para asegurarse de que estaba bien.
+Dos noches antes del Derby la madre de Paul se encontraba en una gran fiesta en la ciudad cuando uno de aquellos accesos de ansiedad por su primogénito se apoderó de su corazón hasta dejarla sin aliento. Luchó contra este sentimiento con todas sus fuerzas, porque creía en el sentido común. Pero era demasiado fuerte. Tuvo que abandonar el baile y bajar a llamar a su casa de campo. La gobernanta de los niños se sobresaltó enormemente al recibir la llamada en mitad de la noche.
+—¿Están bien los niños, señorita Wilmot?
+—Sí, sí, están muy bien.
+—¿Y el señorito Paul? ¿Está bien?
+—Se acostó sin rechistar. ¿Quiere que suba a verle?
+—No —dijo la madre de Paul a su pesar—. ¡No! No se preocupe. Está bien. Vaya a acostarse. Llegaremos pronto a casa. —No quería que la gobernanta irrumpiese en la intimidad de Paul.
+—Muy bien —dijo la gobernanta.
+Era cerca de la una cuando los padres de Paul llegaron a su casa. Todo estaba en silencio. La madre de Paul se fue a su habitación y se quitó el blanco abrigo de piel. Le había dicho a su doncella que no la esperase despierta. Oyó, abajo, a su marido, sirviéndose un whisky con soda.
+Y entonces, a causa de aquella extraña ansiedad de su corazón, subió sigilosamente a la habitación de su hijo. Se deslizó por el pasillo en silencio. ¿Se oía un ligero ruido? ¿Qué era?
+Se detuvo, con los músculos en tensión, al otro lado de la puerta. Se oía un ruido extraño, pesado, y sin embargo quedo. Su corazón se paró. Era un ruido sin sonido, aunque poderoso e intenso. Algo enorme se movía, violenta pero ahogadamente. ¿Qué era? ¿Qué era, por Dios? Ella debería saberlo. Sentía que conocía aquel ruido. Sabía qué era.
+Y, no obstante, no conseguía recordarlo. No podía decir qué era. Y el ruido seguía y seguía, como una locura.
+Suavemente, paralizada por el miedo y la ansiedad, hizo girar el picaporte.
+La habitación estaba a oscuras. Sin embargo, en el espacio junto a la ventana, oyó y vio algo que bajaba y subía. Miró hacia allí, asombrada, temerosa.
+Entonces, de pronto, encendió la luz y vio a su hijo, con su pijama verde, cabalgando enloquecido en su caballo de balancín. El torrente de luz lo iluminó súbitamente, mientras azuzaba el caballo de madera, y la iluminó a ella, rubia, con su vestido verde pálido bordado en cristal, de pie junto a la puerta.
+—¡Paul! —gritó—. ¿Qué estás haciendo?
+—¡Es Malabar! —gritó él con una voz extraña, poderosa—. ¡Es Malabar!
+La miró con ojos llameantes durante un extraño, insensato segundo, y dejó de azuzar al caballo. Luego se derrumbó contra el suelo, y ella, sintiendo que la inundaba toda su maternidad atormentada, se precipitó hacia él para levantarlo.
+Pero el chico estaba inconsciente, y siguió en ese estado, con una suerte de fiebre cerebral. Deliraba, agitado, mientras su madre permanecía junto a su cama, impasible.
+—¡Malabar! ¡Es Malabar! ¡Bassett, Bassett, lo sé! ¡Es Malabar!
+Esto gritaba el niño, intentando levantarse para azuzar al caballo que le había otorgado la inspiración.
+—¿Qué significa eso de “Malabar”? —preguntó la madre aterrorizada.
+—No lo sé —contestó el padre, sin expresión en la voz.
+—¿Qué significa eso de “Malabar”? —preguntó la madre a su hermano Oscar.
+—Es uno de los caballos que corren en el Derby —fue la respuesta.
+Y, sin poder evitarlo, Oscar Cresswell habló con Bassett y apostó mil libras a Malabar: catorce a uno.
+El tercer día de la enfermedad fue crítico: se esperaba un cambio. El niño, con sus largos y ondulados cabellos, no cesaba de agitar su cabeza sobre la almohada. No dormía, ni recobraba la consciencia, y sus ojos eran como dos piedras azules. Su madre seguía a su lado, sintiendo que había perdido el corazón, que este también se había convertido en piedra.
+Aquella tarde, Oscar Cresswell no fue a la casa, pero Bassett envió un mensaje preguntando si podría acudir un momento, solo un momento. La madre de Paul se puso furiosa ante esta intrusión; pero, tras pensarlo mejor, accedió. El chico seguía igual. Tal vez Bassett pudiera conseguir que recuperara la consciencia.
+El jardinero, un hombre de mediana estatura con un pequeño bigote castaño y agudos ojos oscuros, entró de puntillas en la habitación, se llevó la mano a una gorra imaginaria para saludar a la madre de Paul y se acercó a la cama, mirando fijamente con sus ojillos intensos y brillantes al niño que se agitaba en su agonía.
+—¡Señorito Paul! —susurró—. ¡Señorito Paul! ¡Malabar llegó el primero, y con mucho! Yo hice lo que me pidió. Ha ganado usted más de setenta mil libras, y ya tiene más de ochenta. ¡Malabar ganó la carrera, señorito Paul!
+—¡Malabar! ¡Malabar! ¿Yo he dicho Malabar, madre? ¿Yo he dicho Malabar? ¿Crees que tengo buena suerte, madre? Yo sabía lo de Malabar, ¿verdad? ¡Más de ochenta mil libras! A eso lo llamo yo suerte, ¿eh, madre? ¡Más de ochenta mil libras! ¡Lo sabía! ¿No es verdad que lo sabía? Malabar ganó la carrera. Si cabalgo mi caballo hasta que estoy seguro, entonces hazme caso, Bassett: puedes apostar tanto como quieras. ¿Apostaste todo lo que tenías, Bassett?
+—Aposté mil libras, señorito Paul.
+—Madre, nunca te dije que si puedo montar mi caballo, y “llegar allí”, entonces estoy absolutamente seguro. ¡Absolutamente! ¿Nunca te lo dije, madre? ¡Tengo suerte!
+—No, no me lo dijiste —respondió la madre.
+Pero aquella noche el niño murió.
+Y, mientras yacía allí, muerto, su madre oyó la voz de su hermano que le decía:
+—Dios mío, Hester, tienes ochenta mil libras más y un hijo de menos. Pero más le ha valido al pobre dejar una vida en la que debía azuzar a un caballo de juguete para encontrar un ganador.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

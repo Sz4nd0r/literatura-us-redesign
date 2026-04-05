@@ -1,0 +1,296 @@
+---
+layout: story
+title: “A Scandal in Bohemia”
+slug: acd_hemia
+source: https://www.literatura.us/idiomas/acd/acd_hemia.html
+tags:
+  - acd_hemia
+  - acd
+---
+Arthur Conan Doyle
+(Edinburgh, Inglaterra, 1859 - Crowborough, Inglaterra, 1930)
+Escándalo en Bohemia (1891)
+(“A Scandal in Bohemia”)
+Originalmente publicado en The Strand Magazine (julio 1891);
+The Adventures of Sherlock Holmes
+(Londres: George Newnes Ltd, 1892, 307 págs.)
+1
+Para Sherlock Holmes ella es siempre «la mujer». Rara vez le he oído mencionarla con otro nombre. A sus ojos eclipsa a la totalidad de su sexo y la supera. Y no es que sintiera hacia Irene Adler un sentimiento semejante al amor. Todos los sentimientos, y este en particular, parecían abominables a su mente fría, precisa, admirablemente equilibrada. Le considero la máquina razonadora y observadora más perfecta que ha conocido el mundo, pero como amante no hubiera sabido desenvolverse. Nunca hablaba de las pasiones más tiernas, salvo con sarcasmo y desprecio. Eran elementos valiosísimos para el observador, excelentes para descorrer el velo que cubre las motivaciones y acciones humanas. Pero para el avezado pensador admitir semejantes intrusiones en su delicado y bien ajustado temperamento suponía introducir un factor de distracción capaz de generar dudas en todas las conclusiones de su mente. Un grano de arena en un instrumento de precisión, o una grieta en una de sus potentes lupas, no serían más perturbadores que una emoción intensa en un carácter como el suyo. Y, sin embargo, solo existía una mujer para él, y esa mujer era la difunta Irene Adler, de dudosa y cuestionable memoria.
+Últimamente yo había visto poco a Holmes. Mi matrimonio nos había distanciado. Mi completa felicidad, y los intereses centrados en el hogar que envuelven al hombre que se ve por primera vez dueño y señor de su propia casa, absorbían toda mi atención, mientras Holmes, cuya misantropía le alejaba de cualquier forma de sociabilidad, seguía en nuestras dependencias de Baker Street, enterrado entre sus viejos libros, y oscilando, semana tras semana, entre la cocaína y la ambición, entre la somnolencia de la droga y la fiera energía de su ardiente naturaleza. Le seguía atrayendo profundamente, como siempre, el estudio del crimen, y dedicaba sus inmensas facultades y sus extraordinarios poderes de observación a seguir unas pistas y desvelar unos misterios que la policía había abandonado como imposibles. De vez en cuando me llegaba una vaga noticia de sus actividades: que lo habían llamado desde Odessa en el caso del asesinato de Trepoff; que había esclarecido la peculiar tragedia de los hermanos Atkinson en Tricomalee, y por último que había resuelto con delicadeza y eficacia la misión relacionada con la familia real de Holanda. Salvo estos indicios de su actividad, que yo me limitaba a compartir con todos los lectores de la prensa, sabía muy poco de mi antiguo amigo y compañero.
+Una noche —era el 20 de marzo de 1888—, regresaba yo de visitar a un paciente, pues había vuelto a ejercer la medicina civil, cuando mi trayecto me llevó a Baker Street. Al pasar ante la puerta que tan bien recordaba, y que siempre estará asociada en mi mente a mi noviazgo y a los siniestros incidentes de Estudio en escarlata, me embargó un vivo deseo de volver a ver a Holmes y de saber en qué estaba empleando sus extraordinarias dotes. Sus habitaciones estaban intensamente iluminadas y, al mirar hacia arriba, vi cruzar dos veces la oscura silueta de su figura alta y enjuta tras la persiana. Andaba a paso vivo por la habitación, impaciente, con la cabeza hundida en el pecho y las manos entrelazadas a la espalda. A mí, que conozco todas sus costumbres y sus estados de ánimo, esa actitud y ese modo de moverse me lo decían todo. Holmes estaba trabajando de nuevo. Había salido de los ensueños de la droga y husmeaba impaciente el rastro de un nuevo misterio. Tiré de la campanilla, y me condujeron a la estancia que otrora había sido en parte mía.
+La actitud de Holmes no fue efusiva, rara vez lo era, pero creo que se alegró de verme. Sin apenas pronunciar palabra, mas con mirada afable, me señaló un sillón, me pasó su caja de cigarros y me indicó una licorera y un sifón. Después se plantó ante la chimenea y me examinó de arriba abajo con su peculiar estilo introspectivo.
+—Le sienta bien el matrimonio —observó—. Me parece, Watson, que ha engordado siete libras y media desde la última vez que le vi.
+—¡Siete! —respondí.
+—Vaya, yo habría dicho que un poco más. Solo un poquito más, Watson. Y observo que ejerce de nuevo. No me dijo que tenía intenciones de volver a su trabajo.
+—Entonces ¿cómo lo sabe?
+—Lo veo, lo deduzco. ¿Cómo sé que hace poco se mojó usted mucho, y que tiene una criada torpe y descuidada?
+—Mi querido Holmes —dije—, esto es demasiado. De haber vivido hace unos siglos, no cabe duda de que le habrían quemado en la hoguera. Es cierto que el jueves di un paseo por el campo y que regresé a casa en estado lamentable, pero me he cambiado de ropa y no puedo entender cómo lo ha deducido. En cuanto a Mary Jane, es incorregible, y mi esposa ya la ha despedido, pero tampoco me explico cómo lo ha averiguado usted.
+Holmes rió entre dientes, frotándose las largas y nerviosas manos.
+—Es lo más sencillo del mundo —dijo—. Mis ojos me indican que en la parte interior de su zapato izquierdo, justo donde da la luz del fuego de la chimenea, el cuero está marcado con seis rayas casi paralelas. Es obvio que las hizo alguien que rascó con muy poco cuidado el borde de la suela para desprender el barro incrustado. De ahí mi doble deducción de que ha estado a la intemperie con mal tiempo y de que tiene un espécimen particularmente maligno de rajabotas como criada londinense. En cuanto a su actividad profesional, si un caballero entra en mis aposentos oliendo a yodoformo, con una negra mancha de nitrato de plata en el dedo índice de la mano derecha y un bulto en el lado del sombrero de copa donde esconde el estetoscopio, debería ser realmente lerdo para no identificarlo como un miembro activo de la profesión médica.
+No pude evitar una sonrisa ante la facilidad con que había expuesto su proceso deductivo.
+—Cuando le escucho exponer sus razonamientos —observé—, me parece todo tan ridículamente sencillo como si pudiera hacerlo con facilidad yo mismo, pero, a cada nuevo paso de su discurrir, quedo desconcertado hasta que me explica el proceso. Y, no obstante, creo tener tan buenos ojos como usted.
+—Desde luego —me respondió mientras encendía un cigarrillo y se dejaba caer hacia atrás en su sillón—. Usted ve, pero no observa. La diferencia es clara. Por ejemplo, ha visto un montón de veces los peldaños que llevan desde el vestíbulo hasta esta habitación.
+—Un montón de veces.
+—¿Cuántas?
+—Bueno, cientos.
+—En tal caso, ¿cuántos hay?
+—¿Cuántos? No lo sé.
+—¡Claro! No se ha fijado, no ha observado. Y, sin embargo, lo ha visto. A eso me refería. Ahora bien, yo sé que hay diecisiete peldaños, porque los he visto y los he observado. A propósito, ya que está interesado en estos problemillas y ha tenido la amabilidad de poner por escrito un par de mis insignificantes experiencias, tal vez le interese esto. —Me alargó una hoja de papel grueso y rosado, que yacía abierta sobre la mesa, y añadió—: Ha llegado en el último correo. Léala en voz alta.
+La nota no llevaba fecha, ni tampoco firma ni dirección. Y decía:
+Esta noche, a las ocho menos cuarto, le visitará un caballero que desea consultarle un asunto de vital importancia. Los recientes servicios que ha prestado usted a una de las casas reales europeas demuestran que es persona a quien se le pueden confiar asuntos cuyo alcance no puede exagerarse. Estas referencias nos han de distintos puntos llegado. Esté, pues, en sus aposentos a dicha hora, y no le ofenda que su visitante lleve antifaz.
+—Es realmente misterioso —comenté—. ¿Qué cree que significa?
+—Aún no dispongo de datos. Es un error capital teorizar antes de tener datos. Sin darse cuenta, uno empieza a manipular los hechos para que se ajusten a las teorías, en lugar de ajustar las teorías a los hechos. Pero, en cuanto a la nota en sí, ¿qué deduce usted de ella?
+Examiné con cuidado la escritura y el papel.
+—El hombre que la ha escrito es seguramente una persona acomodada —observé, procurando imitar los procedimientos de mi compañero—. Un papel como este no se compra por menos de media corona el paquete. Es peculiarmente fuerte y consistente.
+—Peculiar, esa es la palabra adecuada —dijo Holmes—. No es en absoluto un papel inglés. Colóquelo a contraluz.
+Así lo hice, y vi una «e» mayúscula con una «g» minúscula, y una «p» y una «g» mayúsculas con una «t» minúscula, grabadas en la textura del papel.
+—¿Qué cree que significa? —preguntó Holmes.
+—El nombre del fabricante, sin duda. O, mejor dicho, su monograma.
+—En absoluto. La «g» con la «t» significa «Gesellschaft», que en alemán quiere decir «compañía». Es una abreviatura habitual, como nuestra «cía». La «p» significa, por supuesto, «papel». Veamos ahora «eg». Echemos un vistazo a nuestro Diccionario geográfico. —Sacó del estante un pesado volumen marrón—. Eglow, Eglonitz…, aquí lo tenemos, Egria. Está en una región de habla alemana, en Bohemia, no lejos de Carlsbad. «Famoso por haber sido escenario de la muerte de Wallenstein, y por poseer numerosas fábricas de cristal y de papel». Ajá, muchacho, ¿qué conclusión saca de esto?
+Sus ojos centelleaban y expelió de su cigarrillo una triunfal nube azul.
+—El papel fue fabricado en Bohemia —dije.
+—Exactamente. Y el hombre que ha escrito la nota es alemán. Fíjese en la peculiar construcción de la frase: «Estas referencias nos han de distintos puntos llegado». Un francés o un ruso no pueden haber escrito esto. Solo los alemanes son tan desconsiderados con sus verbos. Por lo tanto, únicamente nos resta descubrir qué desea este alemán que escribe en papel de Bohemia y prefiere usar un antifaz a mostrar su rostro. Y aquí lo tenemos, si no me equivoco, para resolver todas nuestras dudas.
+Mientras Holmes decía estas palabras, se oyó un nítido golpeteo de cascos de caballo, y el chirriar de las ruedas contra el bordillo de la acera, seguido de un enérgico campanillazo. Holmes soltó un silbido.
+—Parece un tiro de dos caballos, por el sonido —dijo—. Sí —prosiguió, echando un vistazo por la ventana—, un bonito carruaje pequeño y un par de bellezas. Ciento cincuenta guineas cada una. De no haber otra cosa, Watson, al menos hay dinero en este caso.
+—Será mejor que yo me vaya, Holmes.
+—Nada de eso, doctor. Quédese donde está. Me siento perdido sin mi cronista. Y esto promete ponerse interesante. Sería una pena desaprovecharlo.
+—Pero su cliente…
+—No se preocupe por él. Yo puedo necesitar su ayuda, y él también. Aquí llega. Siéntese en este sillón, doctor, y préstenos toda su atención.
+Unos pasos lentos y pesados, que habían sonado en la escalera y en el pasillo, se detuvieron de inmediato detrás de la puerta. Siguió un golpe fuerte y autoritario.
+—¡Adelante! —dijo Holmes.
+Entró un hombre que difícilmente mediría menos de seis pies y seis pulgadas, con el torso y las extremidades de un Hércules. Su vestimenta era lujosa, de un lujo que, en Inglaterra, se hubiera considerado rayano en el mal gusto. Gruesas bandas de astracán ornaban las mangas y los bordes delanteros de su abrigo cruzado, mientras la capa azul oscuro que llevaba sobre los hombros estaba forrada de tela color fuego y se sujetaba al cuello con un broche formado por un solo y resplandeciente berilo. Unas botas de cuero que llegaban hasta media pantorrilla, con el borde orlado de una lujosa piel marrón, completaban la impresión de bárbara opulencia que emanaba de todo el conjunto. El visitante llevaba en la mano un sombrero de ala ancha, y le cubría la parte superior del rostro, hasta debajo de los pómulos, un curioso antifaz negro, que al parecer acababa de ponerse, pues aún mantenía la mano alzada junto a él cuando entró. A juzgar por la parte inferior del rostro, parecía un hombre de carácter fuerte, con un grueso labio inferior colgante y una mandíbula recta y alargada que sugería una firmeza que rayaba en la obstinación.
+—¿Ha recibido mi nota? —preguntó con voz áspera y profunda y marcado acento alemán—. Le dije que vendría.
+Nos miraba alternativamente al uno y al otro, como si no supiera a cuál de ambos dirigirse.
+—Por favor, tome asiento —dijo Holmes—. Le presento a mi amigo y colaborador, el doctor Watson, que en ocasiones tiene la gentileza de ayudarme en mis casos. ¿A quién tengo el honor de dirigirme?
+—Puede dirigirse a mí como al conde Von Kramm, un aristócrata bohemio. Entiendo que este caballero, su amigo, es un hombre de honor y discreción, al que puedo confiar un asunto de la más extrema importancia. De no ser así, prefiero comunicarme con usted a solas.
+Me levanté para marcharme, pero Holmes me cogió por la muñeca y me obligó a volver a sentarme en mi sillón.
+—O los dos, o ninguno —dijo—. Puede decir delante de este caballero cualquier cosa que desee decirme.
+El conde encogió sus anchos hombros.
+—En tal caso —dijo—, debo empezar exigiéndoles se comprometan ambos a absoluto secreto para dos años, pasados los cuales el asunto será no importante. En el presente no es exagerado decir que lo es tanto que puede tener influencia en la historia de Europa.
+—Lo prometo —dijo Holmes.
+—Yo también.
+—Ustedes disculparán este antifaz —prosiguió nuestro extraño visitante—. La augusta persona que emplea mis servicios quiere que su agente no sea conocido por usted, y debo confesar enseguida que el título nobiliario con que me he presentado no es exactamente el mío.
+—Estaba seguro de ello —replicó Holmes con sequedad.
+—Las circunstancias son de gran delicadeza, y toda precaución ha de ser tomada para sofocar lo que podría crecer hasta convertirse en un escándalo inmenso y comprometer a una de las familias reinantes de Europa. Hablando claramente, la cuestión implica a la Gran Casa de Ormstein, reyes hereditarios de Bohemia.
+—También estaba seguro de ello —murmuró Holmes, arrellanándose en su butaca y cerrando los ojos.
+Nuestro visitante miró con evidente sorpresa la lánguida figura recostada del hombre que sin duda le habían descrito como el razonador más incisivo y el agente más enérgico de Europa. Holmes volvió a abrir lentamente los ojos y observó con impaciencia a su gigantesco cliente.
+—Si Su Majestad se dignase condescender a exponer su caso —observó—, yo estaría en mejores condiciones para aconsejarle.
+El hombre saltó de su silla y empezó a recorrer la habitación de un lado a otro, presa de una agitación incontrolable. Después, con un gesto desesperado, se arrancó el antifaz y lo tiró al suelo.
+—Tiene usted razón —exclamó—. Soy el rey. ¿Por qué habría de intentar ocultarlo?
+—¿Por qué, en efecto? —murmuró Holmes—. Antes de que Su Majestad hablara, yo ya estaba seguro de que me dirigía a Guillermo Gottsreich Segismundo von Ormstein, gran duque de Cassel-Felstein y rey hereditario de Bohemia.
+—Pero usted debe comprender —dijo nuestro extraño visitante, sentándose de nuevo y pasándose una mano por la frente blanca y ancha— que no estoy habituado a tratar estos asuntos por mí mismo. Sin embargo, la cuestión era tan delicada que no podía confiarla a un agente sin ponerme en su poder. He venido de incógnito desde Praga con el propósito de consultarle.
+—Entonces consúlteme, por favor —dijo Holmes, volviendo a cerrar los ojos.
+—Los hechos, resumidos, son estos. Hace unos cinco años, durante una prolongada visita a Varsovia, establecí relación con la famosa aventurera Irene Adler. No dudo que el nombre es familiar para usted.
+—Hágame el favor de buscarla en mi índice, doctor —murmuró Holmes sin abrir los ojos.
+Durante años mi amigo había seguido el sistema de recortar artículos concernientes a personas y cosas, de modo que era difícil mencionar un tema o un individuo sobre el que no pudiera proporcionar información inmediata. En este caso encontré la biografía de la mujer entre la de un rabino hebreo y la de un comandante que había escrito una monografía sobre los peces de las grandes profundidades marinas.
+—¡Déjeme ver! —dijo Holmes—. ¡Hum! Nacida en New Jersey el año 1858. Contralto… ¡hum! La Scala, ¡hum! Prima donna de la Ópera Imperial de Varsovia… ¡ya! Retirada de la escena… ¡ajá! Vive en Londres… ¡exacto! Creo entender que usted, Majestad, tuvo una aventura con esa joven, le escribió cartas comprometedoras y ahora está ansioso por recuperarlas.
+—Exactamente. Pero ¿cómo lograrlo?
+—¿Hubo un matrimonio secreto?
+—No.
+—¿Ningún papel o certificado legal?
+—Ninguno.
+—En tal caso, no comprendo a Vuestra Majestad. Si esta joven sacara las cartas para hacerle chantaje o con otros propósitos, ¿cómo iba a probar su autenticidad?
+—Está mi letra.
+—¡Bah! Falsificada.
+—Mi papel de cartas personal.
+—Robado.
+—Mi propio sello.
+—Imitado.
+—Mi fotografía.
+—Comprada.
+—En la fotografía aparecemos los dos.
+—¡Santo cielo! ¡Esto está muy mal! ¡Realmente Su Majestad ha cometido una indiscreción!
+—Estaba loco… trastornado.
+—Se comprometió gravemente.
+—Entonces solo era príncipe heredero. Era joven. Incluso ahora tengo únicamente treinta años.
+—Hay que recuperar la fotografía.
+—Lo hemos intentado y hemos fracasado.
+—Su Majestad tiene que pagar. Hay que comprarla.
+—Ella no quiere vender.
+—Entonces, robarla.
+—Cinco intentos han sido hechos. Dos veces unos ladrones pagados por mí han registrado su casa. Una vez sustrajimos su equipaje cuando viajaba. Dos veces ha sido asaltada. No ha dado resultado.
+—¿Ni rastro de la foto?
+—Absolutamente ninguno.
+Holmes sonrió.
+—Desde luego es un problemilla precioso —dijo.
+—Pero muy serio para mí —le reprochó el rey.
+—Mucho, claro está. ¿Y qué se propone hacer ella con la fotografía?
+—Arruinar mi vida.
+—Pero ¿cómo?
+—Estoy a punto de casarme.
+—Eso he oído.
+—Con Clotilde Lothman von Saxe-Meningen, segunda hija del rey de Escandinavia. Quizá usted conozca los estrictos principios de su familia. Ella misma es una verdadera alma de delicadeza. La sombra de una duda sobre mi conducta traería el asunto a su final.
+—¿E Irene Adler?
+—Amenaza mandarles a ellos la fotografía. Y lo hará. Yo sé que lo hará. Usted no la conoce, pero tiene un alma de acero. Tiene el rostro de la más hermosa de las mujeres, y la mente del más resuelto de los hombres. Antes de que yo pueda casarme con otra mujer, no hay nada que ella no esté dispuesta a hacer… ¡nada!
+—¿Está seguro de que no la ha enviado aún?
+—Estoy seguro.
+—¿Por qué?
+—Porque ella dijo que la enviaría el día que el compromiso fuera públicamente proclamado. Será el próximo lunes.
+—Oh, entonces todavía nos quedan tres días —dijo Holmes con un bostezo—. Es una suerte, porque antes tengo que ocuparme de uno o dos asuntos importantes. ¿Por supuesto Su Majestad se quedará por el momento en Londres?
+—Desde luego. Me encontrará en el hotel Langham, bajo el nombre de conde Von Kramm.
+—Le enviaré unas líneas para tenerle al corriente de nuestros progresos.
+—Hágalo, por favor. Seré todo ansiedad.
+—¿Y en cuanto al dinero?
+—Tiene usted carta blanca.
+—¿Totalmente?
+—Le digo que daría una de las provincias de mi reino por esta fotografía.
+—¿Y para los gastos inmediatos?
+El rey sacó de debajo de su capa una pesada bolsa de piel de gamuza y la depositó encima de la mesa.
+—Hay trescientas libras en oro y setecientas en billetes —dijo.
+Holmes garabateó un recibo en una hoja de su bloc y se lo entregó.
+—¿Y la dirección de mademoiselle? —inquirió.
+—Briony Lodge, Serpentine Avenue, Saint John’s Wood.
+Holmes lo anotó.
+—Una pregunta más —dijo—. ¿Era la fotografía de tamaño grande?
+—Sí, lo era.
+—Entonces, buenas noches, Majestad, y confío en tener pronto buenas noticias que darle. Y buenas noches, Watson —añadió, cuando las ruedas del carruaje real rodaron calle abajo—. Si tiene la amabilidad de pasar por aquí mañana por la tarde a las tres, me encantará discutir ese problemilla con usted.
+2
+A las tres en punto de la tarde yo estaba en Baker Street, pero Holmes no había regresado todavía. La casera me informó de que había salido de casa poco después de las ocho de la mañana. Me senté junto al fuego, dispuesto a esperarle por mucho que tardara. Estaba ya profundamente interesado en la investigación, pues, aunque el caso no presentaba ninguna de las características macabras y extrañas que envolvían los dos crímenes que ya he relatado, su naturaleza y la elevada posición del cliente le conferían un carácter peculiar. Además, al margen de la naturaleza de la investigación que mi amigo se traía entre manos, había algo en su modo de controlar las situaciones, y en sus perspicaces e incisivos razonamientos, que convertía para mí en un placer estudiar su sistema de trabajo y seguir los métodos rápidos y sutiles con que desentrañaba los misterios más inextricables. Estaba tan acostumbrado a sus invariables éxitos que la mera posibilidad de un fracaso ni se me pasaba por la mente.
+Eran casi las cuatro cuando se abrió la puerta y entró en la habitación un mozo con pinta de borracho, desastrado y patilludo, el rostro congestionado y las ropas impresentables. A pesar de lo acostumbrado que yo estaba a las maravillosas dotes de mi amigo para disfrazarse, tuve que mirarle tres veces antes de tener la certeza de que efectivamente era él. Con un gesto de saludo, desapareció en el dormitorio, de donde emergió a los cinco minutos con un traje de tweed y un aspecto tan respetable como siempre. Metiéndose las manos en los bolsillos, estiró las piernas ante la chimenea y rió con ganas unos segundos.
+—¡Realmente, realmente! —exclamó.
+Y entonces se atragantó y volvió a reír hasta quedar derrengado y sin aliento en la silla.
+—¿Qué pasa?
+—La cosa no puede ser más chusca. Estoy seguro de que usted no adivinaría jamás cómo he empleado la mañana ni lo que he estado haciendo.
+—No puedo imaginarlo. Supongo que ha estado indagando las costumbres o tal vez vigilando la casa de la señorita Irene Adler.
+—En efecto, pero el resultado ha sido insólito. Aun así, voy a contárselo todo. Salí de aquí poco después de las ocho, disfrazado de mozo de establo desempleado. Existe una maravillosa camaradería y solidaridad entre los hombres que trabajan con caballos. Si eres uno de ellos, sabrás todo lo que quepa saber. Encontré enseguida Briony Lodge. Es una joya. Tiene un jardín en la parte trasera, pero por delante llega hasta la calle. Dos pisos. Cerradura Chubb en la puerta. Amplio salón a la derecha, bien amueblado, con amplios ventanales hasta el suelo, y estos absurdos pestillos ingleses que hasta un niño podría abrir. Detrás no había nada especial, salvo que se puede acceder a la ventana del pasillo desde el tejado de la cochera. Di la vuelta a la villa y la examiné atentamente desde todos los ángulos posibles, pero no encontré nada que tuviera interés.
+»Entonces anduve calle abajo, y resultó, como esperaba, que había unas caballerizas en un callejón que discurre junto a uno de los muros del jardín. Eché una mano a los mozos que estaban cepillando a los caballos, y recibí a cambio dos peniques, un vaso de cerveza, tabaco para cargar dos veces la pipa y cuanta información sobre la señorita Adler podía desear, por no hablar de la información sobre otra media docena de personas del vecindario por las que no sentía el menor interés, pero cuyas biografías me vi obligado a escuchar.
+—¿Y qué hay de Irene Adler?
+—Oh, ha hecho perder la cabeza a todos los habitantes del lugar. Es la cosa más bonita que camina bajo el sol. Eso dicen al unísono los hombres del Serpentine. Lleva una vida tranquila, da conciertos, sale todos los días a las cinco y regresa a las siete en punto para la cena. Raramente se ausenta a otras horas, excepto cuando canta. Solo tiene un visitante masculino, pero muy asiduo. Es moreno, guapo y elegante. Ningún día la visita menos de una vez, y en ocasiones dos. Se trata de un tal señor Godfrey Norton, de Inner Temple. Observe las ventajas de tener a un cochero como confidente. Lo han llevado a casa una docena de veces desde el Serpentine y lo saben todo acerca de él. Después de escuchar cuanto tenían que decir, empecé a caminar de nuevo por los alrededores de Briony Lodge, y a diseñar mi plan de batalla.
+»Evidentemente el tal Godfrey Norton constituía un elemento importante del caso. Era abogado, lo cual no presagiaba nada bueno. ¿Cuál era la relación entre ellos dos y a qué obedecían sus frecuentes visitas? ¿Era Irene su cliente, su amiga o su amante? De ser lo primero, posiblemente habría puesto la fotografía bajo su custodia. De ser lo último, no era tan probable. Y de la respuesta a esta cuestión dependía que yo siguiera con mi trabajo en Briony Lodge o dirigiera mi atención hacia los aposentos del caballero en el Temple. Se trataba de un punto delicado y ampliaba el campo de mi investigación. Temo que le aburro con estos detalles, pero debo exponerle mis pequeñas dificultades si quiero que se haga cargo de cuál es la situación.
+—Le sigo atentamente —respondí.
+—Todavía estaba dándole vueltas a la cuestión, cuando llegó un cabriolé a Briony Lodge y se apeó un caballero. Muy bien parecido, moreno, de nariz aguileña, con bigote. Era, evidentemente, el hombre del que me habían hablado. Parecía tener mucha prisa. Le gritó al cochero que esperase y cruzó como una exhalación junto a la sirvienta que le abrió la puerta, con la desenvoltura de quien se siente en casa.
+»Permaneció dentro una media hora, y pude vislumbrarle a través de las ventanas de la sala, andando de un lado a otro, hablando acaloradamente y gesticulando excitado. A ella no alcancé a verla. Finalmente salió, y parecía todavía más agitado que a su llegada. Al subir al carruaje, sacó un reloj de oro y lo miró con ansiedad. “¡Conduzca como si le persiguieran mil demonios!”, ordenó al cochero. “Primero a Gross and Hankey, en Regent Street, y luego a la iglesia de Saint Monica, en Edgeware Road. ¡Medio soberano si llegamos en veinte minutos!”.
+»Allá se fueron, y yo me preguntaba si convendría o no seguirles, cuando apareció por el callejón un pequeño y bonito landó; el cochero llevaba la librea solo abrochada hasta la mitad, y la corbata debajo de la oreja, mientras las correas de los arneses se salían de las hebillas. Aún no se había detenido, cuando Irene Adler salió por la puerta del vestíbulo y se metió en el coche. Solo pude vislumbrarla unos segundos, pero era una mujer encantadora, con un rostro por el que un hombre se dejaría matar. “A la iglesia de Saint Monica”, gritó, “y medio soberano si llegamos en veinte minutos”.
+»Aquello era demasiado interesante para perdérselo, Watson. Estaba dudando si debía echar a correr o colgarme del landó, cuando apareció un coche de punto. El cochero miró con recelo a un cliente tan andrajoso, pero yo subí de un salto antes de que pudiera objetar nada. “A la iglesia de Saint Monica”, dije, “y medio soberano si llegamos en veinte minutos”. Eran a la sazón las doce menos veinticinco minutos, y era obvio lo que se estaba tramando.
+»Mi cochero condujo rápido como una centella. No creo haber ido tan deprisa en mi vida, pero los otros llegaron antes. El cabriolé y el landó, con los caballos humeantes, estaban ya ante la puerta de la iglesia. Pagué al hombre y me apresuré a entrar. En el interior no había un alma, salvo las dos personas a las que yo había seguido y un clérigo con sobrepelliz, que parecía estar discutiendo con ellas. Los tres formaban un grupito delante del altar. Yo avancé por la nave lateral, como cualquier transeúnte ocioso que se mete en una iglesia. De repente, ante mi asombro, los tres se volvieron hacia mí, y Godfrey Norton se me acercó corriendo a toda prisa.
+»—¡Gracias a Dios! —gritó—. ¡Usted servirá! ¡Venga! ¡Venga conmigo!
+»—¿Qué ocurre? —pregunté.
+»—Venga, hombre, venga. Solo tres minutos, o no será legal.
+»Me vi casi arrastrado hasta el altar y, antes de darme cuenta de lo que ocurría, me encontré farfullando las respuestas que me susurraban al oído, atestiguando cosas de las que no tenía ni idea, y, en definitiva, colaborando en el matrimonio de Irene Adler, soltera, con Godfrey Norton, soltero. Todo concluyó en unos instantes, y allí tenía al caballero dándome las gracias a un lado y a la dama dándome las gracias al otro, mientras el clérigo me sonreía delante. Era la situación más absurda en que me he encontrado jamás, y recordarla es lo que me ha hecho reír a mi llegada. Parece que había alguna irregularidad en la licencia de matrimonio, que el clérigo se negaba en redondo a casarlos sin la presencia de un testigo y que mi afortunada aparición había salvado al novio de tener que salir a la calle en busca de un hombre que hiciera de tal. La novia me dio un soberano, y pienso llevarlo en la cadena del reloj como recuerdo del evento.
+—Esto supone un giro muy inesperado de los acontecimientos —dije—. ¿Y qué ocurrió después?
+—Bien, vi mis planes seriamente amenazados. Parecía que la pareja podía partir de inmediato, y esto requería medidas enérgicas y urgentes. Sin embargo, se separaron ante la puerta de la iglesia: él regresó al Temple y ella a su casa. «Iré al parque a las cinco, como de costumbre», le dijo ella al despedirse. No oí nada más. Se alejaron en distintas direcciones, y yo me encaminé hacia mis propios objetivos.
+—¿Que son…?
+—Un poco de carne fría y un vaso de cerveza —me respondió, haciendo sonar la campanilla—. He estado demasiado atareado para pensar en comer, y es probable que esta noche lo esté todavía más. Por cierto, doctor, necesitaría su cooperación.
+—Me encantará brindársela.
+—¿No le importa infringir la ley?
+—En absoluto.
+—¿Ni correr el riesgo de ser arrestado?
+—No, si es por una buena causa.
+—¡Oh, la causa no puede ser mejor!
+—En tal caso, yo soy su hombre.
+—Estaba seguro de poder contar con usted.
+—Pero ¿qué se propone?
+—Cuando la señora Turner haya traído la bandeja, se lo explicaré todo.
+Una vez la patrona se hubo marchado y él empezó a comer con apetito los sencillos alimentos dispuestos en la bandeja, prosiguió:
+—Y ahora, mejor será que se lo cuente mientras como, porque no dispongo de mucho tiempo. Son casi las cinco. Dentro de dos horas debemos estar en el escenario de la acción. La señorita Irene, o mejor madame Irene, regresa a las siete de su paseo en coche. Tenemos que estar en Briony Lodge cuando llegue.
+—Y entonces ¿qué?
+—Déjelo de mi cuenta. Ya lo he dispuesto todo. Solo hay un punto en el que debo insistir. Ocurra lo que ocurra, usted no intervenga. ¿Entendido?
+—¿Debo mantenerme al margen?
+—Sí, no debe hacer absolutamente nada. Es probable que se produzca un pequeño incidente desagradable. No se sume a él. Llevará a que me hagan entrar en la casa. Cuatro o cinco minutos después se abrirá el ventanal de la sala. Usted debe apostarse cerca de él.
+—Sí.
+—Debe estar pendiente de mí, que me mantendré todo el rato al alcance de su vista.
+—Sí.
+—Y, cuando yo levante la mano, así, arrojará al interior de la habitación lo que ahora voy a darle, y, al mismo tiempo, lanzará gritos de ¡fuego! ¿Me sigue?
+—Perfectamente.
+—No es en absoluto peligroso —dijo, mientras se sacaba del bolsillo un cilindro del tamaño de un cigarro—. Un vulgar cohete de humo de los que usan los fontaneros, provisto de un pistón en cada extremo para que se prenda solo. Su tarea se limita a esto. Cuando lance el grito de fuego, muchas personas lo repetirán. Entonces diríjase al extremo de la calle, y yo me reuniré con usted al cabo de diez minutos. Espero haberme explicado con claridad, ¿no?
+—Debo mantenerme al margen de lo que ocurra, situarme cerca de la ventana, estar pendiente de usted y, obedeciendo a su señal, arrojar dentro este objeto, después lanzar el grito de fuego, y esperarle en la esquina.
+—Exactamente.
+—Si se trata de esto, puede confiar por entero en mí.
+—Estupendo. Pero creo que va siendo hora de que me prepare para el nuevo papel que he de representar.
+Desapareció en su dormitorio y regresó a los pocos minutos caracterizado de clérigo amable, informal y sencillo. Su sombrero negro de alas anchas, sus pantalones del mismo color, su corbata blanca, su sonrisa bondadosa y su aspecto general de viva y benévola curiosidad eran tales que solo un actor como John Hare hubiese podido igualarlos. No se trataba únicamente de que Holmes cambiara de indumentaria. Su expresión, sus gestos, su misma alma parecían modificarse con cada nuevo papel que asumía. La escena perdió un magnífico actor, y la ciencia un perspicaz investigador, cuando se hizo especialista en crímenes.
+Eran las seis menos cuarto cuando salimos de Baker Street, y todavía faltaban diez minutos para las siete cuando llegamos a Serpentine Avenue. Había oscurecido ya, y estaban encendiendo precisamente las farolas cuando empezamos a pasear arriba y abajo ante Briony Lodge, esperando la llegada de su inquilina. La casa era tal como yo la había imaginado a partir de la sucinta descripción de Sherlock Holmes, pero el lugar parecía menos tranquilo de lo que había esperado. Muy al contrario; para tratarse de la callejuela de un barrio apacible, estaba notablemente animada. Había un grupo de hombres pobremente vestidos fumando y riendo en una esquina, un afilador ambulante con su rueda, dos guardias flirteando con una niñera, y varios jóvenes bien trajeados, que paseaban arriba y abajo con un cigarro en la boca.
+—Mire —observó Holmes, mientras deambulábamos por delante de la casa—, esta boda más bien simplifica las cosas. Ahora la fotografía se convierte en un arma de doble filo. Es probable que Irene Adler tenga tan pocas ganas de que la vea Godfrey Norton como nuestro cliente de que caiga bajo los ojos de su princesa. Ahora la cuestión es: ¿dónde encontraremos la fotografía?
+—Sí, ¿dónde?
+—Es muy improbable que ella la lleve encima. Es demasiado grande para poder ocultarla fácilmente entre sus ropas de mujer. Sabe que el rey es muy capaz de hacer que la asalten y la registren. Ya ha sufrido dos intentos anteriores de esta índole. Podemos dar por sentado, pues, que no la lleva.
+—¿Dónde, pues?
+—Su banquero o su abogado. Existe esta doble posibilidad. Pero me inclino a pensar que ninguno de los dos. A las mujeres les gustan por naturaleza los secretos y les encanta tener los suyos propios. ¿Por qué habría de confiar la fotografía a nadie? Puede fiarse de sí misma si es ella quien la guarda, pero no puede prever qué influencia indirecta o política puede ejercerse sobre un hombre de negocios. Recuerde, además, que proyecta utilizarla dentro de pocos días. Debe tenerla al alcance de la mano. Debe tenerla en su propia casa.
+—Pero la han registrado dos veces.
+—¡Bah! No sabían dónde buscar.
+—¿Dónde buscará usted?
+—Yo no buscaré.
+—¿Qué hará, pues?
+—Haré que ella me indique dónde está.
+—Se negará.
+—No podrá hacerlo. Pero oigo ruido de ruedas. Es un coche. Ahora siga mis instrucciones al pie de la letra.
+Mientras Holmes decía estas palabras, asomó por la curva de la avenida el resplandor de los faroles laterales de un carruaje. Era un pequeño y bonito landó, que traqueteó hacia la puerta de Briony Lodge. Cuando se detuvo, uno de los tipos desocupados de la esquina se precipitó a abrir la portezuela con la esperanza de ganarse una moneda, pero fue apartado de un empujón por otro de los tipos, que avanzaba con la misma intención. Se entabló entonces una feroz disputa, a la que se sumaron los dos guardias, que tomaron partido por uno de los haraganes, y el afilador, que defendía con igual vehemencia al otro. Alguien descargó un puñetazo, y en un instante Irene Adler, que se había apeado del carruaje, se encontró rodeada por un grupo de hombres acalorados y vociferantes, que se agredían salvajemente unos a otros con puños y bastones. Holmes se introdujo entre ellos para proteger a la dama, pero, justo al llegar a su lado, dio un grito y cayó al suelo, con la sangre fluyéndole abundantemente por el rostro. Al verlo caer, los guardias salieron corriendo en una dirección y los vagabundos en otra, mientras varias personas mejor vestidas, que habían observado la refriega sin tomar parte en ella, se agolpaban para ayudar a la dama y atender al herido. Irene Adler, como seguiré llamándola, había subido corriendo los peldaños de la escalera, pero se detuvo en el último, su soberbia figura recortada contra las luces del vestíbulo, y volvió la vista atrás, hacia la calle.
+—¿Está ese pobre hombre mal herido? —preguntó.
+—¡Está muerto! —gritaron varias voces.
+—No, no, ¡todavía vive! —exclamó alguien—. ¡Pero morirá antes de que podamos llevarlo al hospital!
+—Es un tipejo valiente —dijo una mujer—. De no ser por él le hubieran afanado el bolso y el reloj a esa señora. Son una banda, de las más peores además. ¡Ah, ahora respira!
+—No se puede quedar tirado en la calle. ¿Lo metemos en casa, señora?
+—Claro. Llévenlo al salón. Hay un sofá muy cómodo. ¡Por aquí, hagan el favor!
+Lenta y solemnemente, Holmes fue introducido en Briony Lodge y depositado en el salón, mientras yo observaba los acontecimientos desde mi puesto junto a la ventana. Habían encendido las lámparas, pero no habían corrido las cortinas, de modo que podía verle tendido en el sofá. No sé si en aquellos momentos él experimentaba remordimientos por el papel que estaba representando, pero sí sé que yo nunca me había sentido tan avergonzado de mí mismo como cuando vi a la deliciosa criatura contra la que estaba conspirando, así como la gracia y gentileza con la que atendía al herido. Y, sin embargo, hubiera constituido la más negra de las traiciones abandonar ahora el papel que se me había asignado. Hice de tripas corazón, y me saqué el cohete de humo del bolsillo. A fin de cuentas, pensé, no vamos a hacerle a ella ningún daño. Solo queremos impedir que se lo haga a otro.
+Holmes se había incorporado en el sofá y se movía como si le faltara el aire. Una doncella corrió a abrir la ventana. En este preciso instante, le vi levantar una mano, y, obedeciendo a esta señal, lancé mi cohete dentro de la habitación, al grito de «¡fuego!». Apenas había salido la palabra de mis labios, cuando la multitud de espectadores, bien vestidos y mal vestidos —caballeros, vagabundos y criadas—, se me unió en un alarido general de «¡fuego!». Densas nubes de humo se arremolinaban en la habitación y salían por la abierta ventana. Pude entrever varias figuras que huían en desbandada, y un momento después oí la voz de Holmes desde el interior, asegurando que se trataba de una falsa alarma. Deslizándome entre aquella multitud vociferante, llegué hasta la esquina de la calle, y a los diez minutos me alegró sentir el brazo de mi amigo en el mío y alejarme de la escena del tumulto. Holmes caminó deprisa y en silencio un trecho, hasta que nos adentramos en una de las tranquilas calles que llevan a Edgeware Road.
+—Lo ha hecho usted muy bien, doctor —observó—. No podía haber salido mejor. Todo va bien.
+—¿Tiene la fotografía?
+—Sé dónde está.
+—Y ¿cómo lo ha averiguado?
+—Ella me lo ha indicado, tal como le dije.
+—Sigo sin entenderlo.
+—No pretendo hacer de esto un misterio —dijo, echándose a reír—. La cosa no puede ser más simple. Usted, claro está, advertiría que toda la gente que había en la calle eran mis cómplices. A todos los había contratado yo para esta noche.
+—Eso sospeché.
+—Después, cuando empezó la trifulca, yo tenía un poco de pintura roja fresca en la palma de la mano. Corrí hacia delante, caí, me llevé la mano a la cara y me convertí en un penoso espectáculo. Es un viejo truco.
+—Eso también lo imaginé.
+—Entonces me metieron en la casa. Ella no podía negarse. ¿Qué otra cosa iba a hacer? Y me trasladaron al salón, que era exactamente la habitación que centraba mis sospechas. Era en el salón o era en su dormitorio. Y yo estaba decidido a averiguar en cuál de los dos. Me tendieron en un sofá, hice gestos de que me faltaba el aire, se vieron obligados a abrir la ventana, y usted tuvo su oportunidad.
+—Y ¿para qué le sirvió a usted?
+—Era de máxima importancia. Cuando una mujer cree que hay un incendio en casa, su instinto la impulsa a correr hacia lo que más quiere. Es un impulso irrefrenable, y en más de una ocasión he sacado provecho de él. Me fue útil en el caso del escándalo de la sustitución de Darlington, y también en el asunto de Arnsworth Castle. Una mujer casada se precipita hacia su bebé; una soltera hacia su joyero. Para mí era evidente que nuestra dama no tiene en la casa nada tan precioso para ella como el objeto de nuestras pesquisas. Correría a ponerlo a salvo. La alarma de fuego salió de maravilla. El humo y los gritos bastaban para quebrar unos nervios de acero. Ella reaccionó exactamente como yo esperaba. La fotografía está en un hueco, detrás de un panel deslizante, justo encima del cordón de la campanilla derecha. Irene Adler estuvo allí en un instante, y atisbé con el rabillo del ojo que estaba a punto de sacarla. Cuando grité que se trataba de una falsa alarma, la volvió a dejar, miró el cohete, salió corriendo de la habitación y no he vuelto a verla. Yo me levanté, presenté mis excusas y salí de la casa. Dudé si apoderarme de la fotografía en aquel mismo instante, pero había entrado el cochero, y, como me vigilaba estrechamente, me pareció más prudente esperar. Un exceso de precipitación podía estropearlo todo.
+—¿Y ahora? —pregunté.
+—Nuestra búsqueda prácticamente ha terminado. Mañana iré allí con el rey, y con usted, si desea acompañarnos. Nos harán pasar al salón para esperar a la señora, pero es probable que cuando llegue no nos encuentre a nosotros ni encuentre la fotografía. Seguro que a Su Majestad le encantará recuperarla con sus propias manos.
+—¿Y a qué hora será la visita?
+—A las ocho de la mañana. No estará levantada, y tendremos el campo libre. Además, debemos apresurarnos, porque este matrimonio puede implicar un completo cambio en su vida y en sus costumbres. Tengo que telegrafiar al rey inmediatamente.
+Habíamos llegado a Baker Street y nos detuvimos ante la puerta. Holmes estaba buscando la llave en sus bolsillos, cuando alguien le dijo al pasar:
+—Buenas noches, señor Sherlock Holmes.
+Había varias personas en la acera en aquel momento, pero el saludo parecía proceder de un muchachito delgado con impermeable que había cruzado apresurado junto a nosotros.
+—Yo he oído antes esta voz —dijo Holmes, mirando fijamente la calle mal iluminada—. Me pregunto quién diablos puede ser.
+3
+Aquella noche dormí en Baker Street, y por la mañana estábamos ocupados con nuestras tostadas y nuestro café cuando el rey de Bohemia entró precipitadamente en la habitación.
+—¿De veras lo ha conseguido? —gritó, aferrando a Sherlock Holmes por los hombros y mirando ansiosamente su rostro.
+—Todavía no.
+—Pero ¿tiene esperanzas?
+—Tengo esperanzas.
+—Vamos, pues. No puedo contener mi impaciencia.
+—Necesitamos un coche.
+—Mi berlina espera abajo.
+—Bien, esto simplifica las cosas.
+Bajamos, y partimos una vez más hacia Briony Lodge.
+—Irene Adler se ha casado —observó Holmes—. ¿Casado? ¿Cuándo?
+—Ayer.
+—Pero ¿con quién?
+—Con un abogado inglés que se llama Norton.
+—Pero es imposible que ella le ame.
+—Pues yo espero que así sea.
+—¿Por qué lo espera?
+—Porque esto le evitaría a Su Majestad todo temor de futuras molestias. Si la dama ama a su marido, no ama a Su Majestad. Si no ama a Su Majestad, no hay razón para que interfiera en los planes de Su Majestad.
+—Es cierto. Y sin embargo… Bien. ¡Ojalá hubiera sido de mi condición! ¡Menuda reina hubiera sido!
+Y el rey se sumió en un melancólico silencio, que no finalizó hasta que llegamos a Serpentine Avenue.
+La puerta de Briony Lodge estaba abierta y había una anciana de pie en lo alto de la escalera. Nos dirigió una mirada sarcástica cuando nos apeamos de la berlina.
+—¿El señor Sherlock Holmes, supongo? —dijo.
+—Yo soy el señor Holmes —dijo mi compañero, dirigiéndole una mirada inquisitiva y un tanto sorprendida.
+—¡Claro! Mi señora me dijo que era muy probable que usted viniera. Se ha marchado esta mañana con su esposo en el tren que sale a las cinco quince de Charing Cross hacia el continente.
+—¿Qué? —Sherlock Holmes dio un paso atrás tambaleándose, pálido por la consternación y la sorpresa—. ¿Quiere usted decir que ha abandonado Inglaterra?
+—Para no regresar jamás.
+—¿Y los papeles? —preguntó el rey con voz ronca—. Todo está perdido.
+—Veremos —dijo Holmes.
+Pasó junto a la sirvienta y se apresuró hacia el salón, seguido por el rey y por mí. Los muebles estaban esparcidos en todas direcciones, con los estantes desmontados y los cajones abiertos, como si la dama los hubiera vaciado apresuradamente antes de escapar. Holmes se precipitó hacia el cordón de la campanilla, arrancó un pequeño panel deslizante y, metiendo la mano en la cavidad, extrajo una fotografía y una carta. La fotografía era de la propia Irene Adler en traje de noche; la carta iba dirigida a «Sherlock Holmes, Esq. Guardar hasta que la recojan». Mi amigo la abrió, y los tres la leímos a la vez. Estaba fechada la medianoche anterior y decía lo que sigue:
+Mi querido señor Sherlock Holmes:
+Realmente lo ha hecho usted muy bien. Me engañó por completo. No tuve la menor sospecha hasta la alarma de fuego. Pero entonces, al ver que me había delatado a mí misma, empecé a pensar. Meses atrás me habían prevenido contra usted. Me habían dicho que, si el rey recurría a un detective, sería a Sherlock Holmes. Y me dieron su dirección. No obstante, a pesar de todo esto, consiguió hacerme revelar lo que deseaba saber. Incluso después de concebir sospechas, se me hacía difícil desconfiar de aquel anciano clérigo, tan amable y cariñoso. Pero, usted lo sabe, yo también tengo experiencia como actriz. La indumentaria masculina no es nueva para mí. A menudo me aprovecho de la libertad que confiere. Le dije a John, el cochero, que le vigilase, corrí escalera arriba, me puse mis «ropas de paseo», como yo las llamo, y bajé justo en el momento en que usted se marchaba.
+Bien, le seguí hasta la puerta de su casa, y así supe que yo era realmente objeto de interés por parte del famoso señor Sherlock Holmes. Entonces, en un rapto de imprudencia, le di las buenas noches, y me dirigí al Temple para ver a mi marido.
+Ambos pensamos que, dado que era perseguida por tan formidable antagonista, el mejor recurso era la huida. Así pues, mañana cuando venga usted, encontrará el nido vacío. En cuanto a la fotografía, su cliente puede dormir tranquilo. Amo y soy amada por un hombre mejor que él. El rey puede hacer cuanto le venga en gana sin que le ponga ningún obstáculo la persona a quien ha tratado tan cruelmente. Solo la conservo para protegerme a mí misma, y para disponer de un arma que me defienda de cualquier paso que él pueda dar en el futuro. Dejo una fotografía que tal vez a él le guste conservar. Y quedo, querido señor Sherlock Holmes, suya afectísima,
+IRENE NORTON, née ADLER
+—¡Qué mujer! ¡Qué mujer! —exclamó el rey de Bohemia, cuando terminamos de leer los tres la epístola—. ¿No le dije lo rápida y resuelta que es? ¿No hubiera sido una magnífica reina? ¿No es una pena que no sea de mi clase?
+—Por lo que he visto de la dama, parece pertenecer, en efecto, a una clase muy distinta a la de Su Majestad —dijo Holmes fríamente—. Lamento no haber proporcionado a Su Majestad unos resultados más satisfactorios.
+—¡Todo lo contrario, mi querido señor! —exclamó el rey—. Nada podría ser más satisfactorio. Sé que la palabra de Irene Adler es sagrada. La fotografía está ahora tan a salvo como si la hubiéramos echado al fuego.
+—Me encanta oírle decir esto, Majestad.
+—Tengo una deuda inmensa con usted. Dígame, por favor, de qué manera puedo recompensarle. Este anillo…
+Se sacó del dedo un anillo de esmeraldas en forma de serpiente y se lo ofreció en la palma de la mano.
+—Su Majestad tiene algo que yo valoraría todavía mucho más —dijo Holmes.
+—Solo tiene que mencionarlo.
+—¡Esta fotografía!
+El rey le miró con estupor.
+—¡La fotografía de Irene! —exclamó—. Desde luego es suya, si es eso lo que desea.
+—Gracias, Majestad. Entonces, ya no queda nada pendiente en este asunto. Tengo el honor de desear a Su Majestad muy buenos días.
+Holmes hizo una inclinación y, sin hacer caso de la mano que el rey le tendía, dio media vuelta y se encaminó, acompañado por mí, hacia su apartamento.
+Y así fue cómo un gran escándalo amenazó al reino de Bohemia, y cómo los mejores planes del señor Sherlock Holmes se vieron frustrados por el ingenio de una mujer. Tenía costumbre de bromear sobre la inteligencia de las mujeres, pero a partir de entonces no le he oído hacerlo. Y, cuando habla de Irene Adler, o se refiere a su fotografía, utiliza siempre el honorable título de «la mujer».
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

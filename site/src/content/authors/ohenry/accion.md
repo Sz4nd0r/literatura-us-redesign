@@ -1,0 +1,207 @@
+---
+layout: story
+title: Dos caballeros el día de Acción de Gracias
+slug: accion
+source: https://www.literatura.us/idiomas/ohenry/accion.html
+tags:
+  - accion
+  - ohenry
+---
+O.
+Henry
+(William Sydney Porter)
+(North Carolina, 1862 -
+New York, 1910)
+Dos caballeros el día de Acción de Gracias (1905)
+(“Two Thanksgiving Day Gentlemen”)
+Originalmente publicado en la sección Sunday Magazine
+del periódico New York World, Vol. 46, Núm. 16168
+(26 de noviembre de 1905);
+The Trimmed Lamp
+(Nueva York: McClure, Phillips & Co., 1907, 260 págs.)
+Hay un día que es nuestro. Hay un día en que todos los
+norteamericanos que no se han hecho por su propio esfuerzo vuelven a su hogar
+para comer bizcochitos con bicarbonato y se maravillan de cuan cerca parece
+estar del porche la vieja bomba del agua. Bendito sea ese día. Nos lo da el
+presidente Roosevelt. Hemos oído hablar de los puritanos, pero no recordamos
+con exactitud quiénes fueron. De todos modos, apuesto a que podríamos zurrarlos
+si trataran de desembarcar nuevamente. ¿Plymouth Rocks? Eso suena de un modo
+más familiar. Muchos de nosotros hemos tenido que limitarnos a las gallinas
+desde que empezó a funcionar el Trust del Pavo. Pero alguien en Washington les
+está facilitando informaciones confidenciales sobre esas proclamas del día de
+Acción de Gracias.
+La gran ciudad que está al este de las ciénagas de
+arándanos ha hecho una institución del día de Acción de Gracias. El último
+jueves de noviembre es el único día del año en que redescubre la parte de los
+Estados Unidos que está del otro lado de los
+ferry-boats. Es el único día puramente norteamericano. Sí, un día de
+fiesta, un día exclusivamente norteamericano.
+Y ahora vamos al relato que le probará al lector que de
+este lado del océano tenemos tradiciones que envejecen con mucha mayor rapidez
+que las de Inglaterra..., gracias a nuestra energía e iniciativa.
+Stuffy Pete se sentó en el tercer banco de la derecha,
+según se entra en la plaza Unión por el Este, en el sendero que está enfrente
+de la fuente. Durante nueve años, todos los días de Acción de Gracias, Pete se
+había sentado allí a la una en punto. Y siempre le habían sucedido cosas, cosas
+dignas de Charles Dickens que le hinchaban el chaleco sobre el corazón.
+Pero hoy, la aparición de Stuffy Pete en el lugar de la
+cita parecía más el fruto del hábito que del hambre anual que, como parecen
+creerlo los filántropos, aflige a los pobres con tan dilatados intervalos.
+Ciertamente, Pete no tenía hambre. Venía de una fiesta
+que sólo les había dejado dos facultades: la de la respiración y la de la
+locomoción. Sus ojos parecían dos descoloridas grosellas firmemente incrustadas
+en una máscara hinchada de arcilla y salpicada de salsa. Su aliento brotaba en
+breves y resollantes espasmos; un pliegue de tejido adiposo digno de un senador
+le restaba un corte elegante al cuello levantado de su abrigo. Los botones
+cosidos sobre su traje por bondadosos dedos salvacionistas una semana antes
+volaban como palomitas de maíz, dispersándose por el suelo a su alrededor.
+Estaba andrajoso, con la pechera de la camisa entreabierta hasta la piel. Pero
+la brisa de noviembre, con sus hermosos copos de nieve, sólo le traía una
+agradable frescura. Porque Stuffy Pete estaba atestado de calorías producidas
+por una cena superabundante, iniciada con ostras y rematada con un budín de ciruelas,
+y que incluía (eso le pareció) todo el pavo asado y patatas cocidas y ensalada
+de pollo y pastel de calabaza y helado del mundo. Por eso estaba sentado, así,
+saciado, contemplando el mundo con el desdén propio de la sobremesa.
+El banquete había sido imprevisto. Pete pasaba junto a
+una mansión de ladrillos rojos, próxima al nacimiento de la Quinta Avenida,
+donde vivían dos ancianas damas de ilustre familia y respetuosas de las
+tradiciones. Aquellas damas incluso negaban la existencia de Nueva York y
+creían que el día de Acción de Gracias se festejaba exclusivamente en
+Washington Square. Una de sus costumbres tradicionales consistía en apostar a
+un criado en la verja del fondo con la orden de hacer entrar al primer
+transeúnte hambriento que pasara después de las cuatro, y de ofrecerle una
+opípara cena. Stuffy Pete pasaba casualmente por allí camino del parque y los
+mayordomos lo hicieron entrar y se atuvieron a la costumbre de la mansión.
+Stuffy Pete estuvo mirando exclusivamente hacia adelante durante diez minutos,
+pero sintió deseos de contemplar un campo visual más amplio. Con un tremendo
+esfuerzo movió lentamente la cabeza hacia la izquierda. Y luego sus ojos se
+salieron de las órbitas temerosamente y contuvo la respiración, y los toscos
+zapatos que remataban sus cortas piernas se retorcieron y crujieron sobre la
+grava.
+Porque el Viejo Caballero cruzaba la Cuarta Avenida,
+dirigiéndose hacia el banco de Pete. Todos los días de Acción de Gracias,
+durante nueve años, el Viejo Caballero había llegado hasta allí, encontrando a
+Stuffy Pete en su banco. El Viejo Caballero procuraba convertir aquello en una
+tradición. Todos los días de Acción de Gracias, durante nueve años, había ido a
+buscar allí a Pete para llevarlo a un restaurante y mirarlo engullir una suculenta
+cena. En Inglaterra esas cosas se hacen mecánicamente. Pero nuestro país es
+joven y un período de nueve años no está tan mal. Para resultar pintorescos,
+debemos seguir haciendo la misma cosa durante largo tiempo, sin olvidarla una
+sola vez. Algo así como la recaudación de las monedas semanales del seguro
+industrial. O la limpieza de las calles.
+El Viejo Caballero se dirigió, enhiesto y majestuoso,
+hacia la institución que estaba creando. Es cierto que el sentimiento anual de
+Stuffy Pete nada tenía de nacional, como lo son la Carta Magna o el dulce para
+el desayuno en Inglaterra. Pero era un gesto. Era casi feudal. Revelaba, por lo
+menos, que una costumbre no era imposible en Nueva Y... ¡ejem!... en los
+Estados Unidos.
+El Viejo Caballero era delgado y alto, y tenía sesenta
+años. Vestía de negro y cabalgaban sobre su nariz un par de lentes anticuados
+que no querían asentarse firmemente. Su cabello era más blanco y ralo que el
+año anterior y parecía usar más que entonces su grande y nudoso bastón de mango
+retorcido.
+Cuando su probado benefactor se acercó, Stuffy resopló y
+se estremeció como el gordísimo bulldog de una señora cuando un perro callejero
+lo mira con la pelambre erizada. Sentía tentaciones de huir, pero toda la
+habilidad de Santos-Dumont no hubiera podido arrancarlo de su banco. Los
+marmitones de las dos ancianas damas habían hecho bien su trabajo.
+—Buenos días —dijo el Viejo Caballero—. Me alegro de
+advertir que las vicisitudes de otro año lo han respetado, dejándolo sano y
+salvo para vagabundear por este bello mundo. Por esa sola bendición, vale la
+pena que ambos saludemos alborozados este día de Acción de Gracias. Si viene
+conmigo, amigo mío, le ofreceré una cena que hará armonizar su bienestar físico
+con el mental.
+Esto era lo que decía siempre el Viejo Caballero. Todos
+los días de Acción de Gracias, desde hacía nueve años. Las propias palabras
+formaban casi una institución. Nada podía compararse con ellas, salvo la
+Declaración de Independencia. Hasta entonces, habían sido siempre música para
+los oídos de Stuffy. Pero ahora Pete miraba al Viejo Caballero con un lacrimoso
+sufrimiento en los ojos. La fina nieve crepitaba casi al caer sobre su sudorosa
+frente. Pero el Viejo Caballero tembló levemente y le volvió la espalda al
+viento.
+Stuffy se había preguntado siempre por qué decía aquellas
+palabras con cierta tristeza el Viejo Caballero. No sabía que, al decirlas,
+ansiaba tener un heredero. Un hijo que viniera allí cuando él hubiese muerto...
+Un hijo que se irguiese, fuerte y orgulloso, ante algún otro Stuffy, y le
+dijera: “En memoria de mi padre”. Entonces, aquello sí que sería una
+Institución.
+Pero el Viejo Caballero no tenía parientes. Vivía en unas
+habitaciones alquiladas en una de esas mansiones de piedra arenisca de antiguas
+familias en decadencia, en una de las apacibles calles del Este del parque. En
+invierno cultivaba fucsias en un pequeño invernadero. En primavera intervenía
+en la procesión de Pascua. En verano vivía en una granja de las colinas de
+Nueva Jersey y se sentaba en un sillón de mimbre, hablando de una mariposa, la
+ornithoptera amphrisius, que esperaba hallar algún día. En otoño le ofrecía una
+cena a Stuffy. Ésas eran las tareas del
+Viejo Caballero.
+Stuffy Pete lo miró durante medio minuto, inquieto,
+desamparado, apiadado de sí mismo. En los ojos del Viejo Caballero brillaba el
+placer de dar. Cada año su rostro se tornaba más arrugado, pero su pequeña
+corbata negra formaba un moño tan donairoso como siempre, y su ropa interior
+era hermosa y blanca, y su bigote gris estaba retorcido con gracia en las
+puntas. Y entonces Stuffy hizo un ruido parecido al de los guisantes que hierven
+en una cacerola. Su intención era hablar, y como el Viejo Caballero había oído
+aquellos sonidos nueve veces ya, interpretó acertadamente que constituían la
+vieja fórmula de aceptación de Stuffy.
+—Gracias, señor. Iré con usted y se lo agradezco mucho.
+Tengo mucha hambre, señor.
+El coma de plenitud no le había impedido a Stuffy
+comprender que era la base de una institución. Su apetito del día de Acción de
+Gracias no era suyo; le pertenecía, en base a todos los sagrados derechos de la
+costumbre establecida, a aquel viejo y bondadoso caballero que se lo había
+apropiado. Es verdad que los Estados Unidos son libres; pero para establecer
+una tradición, uno debía ser un decimal..., un decimal que se repetía. Los
+héroes no son exclusivamente de acero y oro. He aquí a uno que sólo ha
+esgrimido armas de hierro, rudamente plateadas, y de latón.
+El Viejo Caballero llevó a su protegido anual al sur,
+hacia el restaurante y la mesa donde se había efectuado siempre el banquete.
+Los reconocieron.
+—Ahí viene el viejo que siempre convida a comer al mismo
+vagabundo el día de Acción de Gracias —dijo el camarero.
+El Viejo Caballero se sentó del otro lado de la mesa,
+brillando como una perla ahumada junto a la piedra angular de la futura
+tradición. Los camareros apilaron sobre la mesa viandas de fiesta..., y Stuffy,
+con un suspiro que interpretaron como una expresión de hambre, alzó el cuchillo
+y el tenedor y se cinceló una corona de imperecedero laurel. Nunca se abrió
+paso entre las filas enemigas un héroe más valeroso. El pavo, las costillas,
+las sopas, las legumbres, los pasteles, todo desapareció ante él en cuanto fue
+servido. Atiborrado casi hasta el máximo cuando entró en el restaurante, el
+olor de la comida le había hecho perder casi su honor de caballero, pero se
+dominó como un auténtico hidalgo antiguo. Vio el aire de filantrópica felicidad
+del Viejo Caballero —un aire más feliz aún que el provocado por las fucsias y
+el ornithoptera amphrisius— y no tuvo
+valor para verlo desaparecer.
+Al cabo de una hora, Stuffy se echó atrás, victorioso.
+—Muchísimas gracias, señor —dijo con el resoplido de una
+vieja pipa agujereada— Muchísimas gracias por su bondadoso almuerzo.
+Luego se levantó con dificultad, con los ojos vítreos, y
+se dirigió hacia la cocina. Un camarero daba vueltas a su alrededor como un
+trompo y le señaló la puerta. El Viejo Caballero contó cuidadosamente un dólar
+con treinta centavos en monedas de plata, dejando tres níqueles de propina para
+el camarero.
+Ambos se separaron como todos los años en la puerta: el Viejo
+Caballero se fue hacia el Sur y Stuffy hacia el Norte.
+Al llegar a la primera esquina, Stuffy se volvió y
+permaneció inmóvil un instante. Luego pareció surgir violentamente de sus
+harapos como un búho que se despoja de sus plumas y se desplomó sobre la acera
+como un caballo agotado.
+Cuando llegó la ambulancia, el joven médico y el
+conductor profirieron en voz baja una blasfemia ante el peso de Stuffy. No
+había olor a whisky que justificara un traslado al camión celular de la
+policía, de modo que Stuffy y sus dos cenas fueron a dar al hospital. Allí lo
+tendieron sobre una cama y empezaron a sondearlo en busca de enfermedades
+extrañas, con la esperanza de descubrir casualmente algún problema con el acero
+desnudo.
+Y he aquí que al cabo de una hora, otra ambulancia trajo
+al Viejo Caballero. Lo tendieron sobre otra cama y hablaron de apendicitis,
+pues su aspecto prometía una buena cuenta de honorarios.
+Pero pronto uno de los médicos jóvenes se encontró con
+una de las enfermeras, cuyos ojos le gustaban, y se detuvo a charlar con ella
+sobre los casos del hospital.
+—¿Quién podría creer que ese simpático caballero de edad
+que tenemos ahí ha estado a punto de morirse de hambre? —dijo—. Supongo que
+debe pertenecer a una de esas familias antiguas y orgullosas. Me dijo que no
+había probado bocado desde hacía tres días.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

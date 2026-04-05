@@ -1,0 +1,87 @@
+---
+layout: story
+title: Frau Fischer
+slug: km_fischer
+source: https://www.literatura.us/idiomas/km/km_fischer.html
+tags:
+  - km_fischer
+  - km
+---
+Katherine
+Mansfield
+(Nueva Zelandia, 1888 -
+Francia, 1923)
+Frau Fischer (1910)
+(“Frau Fischer”)
+Originalmente publicado en The New Age (18 de agosto de 1910);
+In A German Pension
+(Londres: Stephen Swift and Company, 1911, 251 págs.)
+Frau Fischer era la afortunada propietaria de una fábrica de velas en algún lugar a orillas del Eger, y una vez al año interrumpía sus tareas para hacer una «cura» en Dorschausen. Llegaba con una cesta de mimbre, casi cubierta con un hule negro, y una bolsa de mano. Ésta contenía, además de los pañuelos, el agua de colonia, los palillos y cierta bufanda de lana, muy confortable para el magen, muestras de su pericia en la fabricación de velas, las cuales, al final de su temporada de vacaciones, ofrecía como presentes de gratitud.
+Apareció en la pensión Müller, a las cuatro de la tarde de un día de junio. Yo estaba sentada en el cenador, y pude verla cruzar apresuradamente el camino del jardín seguida del portero barbarroja, que cargado con la cesta de mimbre llevaba un girasol entre los dientes. La viuda y sus cinco inocentes hijos estaban en los escalones de la puerta agrupados con gusto exquisito y en la actitud apropiada para la bienvenida. Las salutaciones fueron tan prolongadas y estruendosas, que me sentí contagiada por su vehemencia.
+—¡Qué viaje! —exclamó Frau Fischer—. Y en el tren no había nada que comer. Nada sólido. Les aseguro que las paredes de mi estómago están pegando una contra otra. Pero no quiero perder el apetito para la cena. Así que nada más que una taza de café en mi habitación. Berta —volviéndose hacia la más joven de las cinco—. ¡Oh, qué cambiada estás! ¡Qué busto! Frau Hartmann, la felicito.
+Una vez más, la viuda y Frau Fischer se dieron la mano.
+—Kathi también está hecha una espléndida mujer; pero un poco pálida. Quizás está aquí este año de nuevo el joven aquel de Nuremberg. No sé cómo las tiene a todas en casa. Todos los años cuando llego espero encontrar el nido vacío. Es asombroso.
+Frau Hartmann se disculpó, con voz vergonzante:
+—Somos una familia tan feliz, desde que murió mi marido...
+—Pero hay que casarlas; hay que tener el valor de hacerlo. Al fin y al cabo, con el tiempo los matrimonios contribuyen a hacer que las familias felices crezcan... A Dios gracias. ¿Hay ahora mucha gente aquí?
+—Todas las habitaciones están ocupadas.
+A esto siguió en el vestíbulo una minuciosa reseña, que escaleras arriba se convirtió en un murmullo, para proseguir a seis voces en cuanto entraron en la amplia habitación, cuyas ventanas daban al jardín; la habitación que ella ocupaba todos los años. Yo estaba leyendo Los Milagros de Lourdes, un libro que un sacerdote católico, fijando una mirada tenebrosa sobre mi alma, me había rogado que leyese. Pero aquellas maravillas fueron puestas en fuga con la llegada de Frau Fischer. Ni siquiera las rosas blancas a los pies de la Virgen pudieron florecer en aquella atmósfera.
+«... érase una simple pastorcilla que apacentaba sus rebaños por los yertos campos...»
+Voces en la habitación de arriba:
+—La palangana, naturalmente, ha sido fregada con sosa.
+«...misérrima, sus miembros de harapos cubiertos...»
+—Hasta la última pieza del mobiliario ha estado soleándose en el jardín durante tres días. Y el tapete ha sido hecho en casa con ropas de desecho. Hay un trozo de aquella saya de franela que nos dejó usted el verano último.
+«Sorda y muda era la criatura, y en el pueblo teníanla casi por idiota...»
+—Sí, es el último retrato del Kaiser. Antes había una estampa de Jesucristo con la corona de espinas, pero la cambiamos porque no era una imagen muy agradable de ver en el momento de acostarse: nos impedía conciliar el sueño. Querida Frau Fischer, ¿por qué no toma usted el café en el jardín?
+—Es una idea magnífica. Pero quiero primero quitarme el corsé y las botas. Ah, cómo descansa una al ponerse de nuevo las sandalias. Este año necesito terriblemente la «cura». ¡Qué nervios! No tengo más que nervios. Pasé todo el viaje hasta que el revisor pidió los billetes, con la cabeza cubierta con un pañuelo. Estoy agotada.
+Penetró en el cenador con una bata moteada de blanco y negro y un gorrito de calicó con visera charolada, seguida de Kathi que traía la cafetera azul con el café malta. Frau Fischer se sentó, sacó un pañuelo impoluto y con él restregó la taza y el platillo. Luego levantó la tapa del cacharrito del café y miró su contenido con aire mohíno.
+—Café malta —dijo—. Al principio, durante unos días, me pregunto cómo podré soportarlo. Claro que cuando se sale de casa hay que contar con muchas molestias y con alimentos extraños. Yo solía decirle a mi querido esposo: «Unas sábanas limpias y una buena taza de café y me siento feliz en cualquier parte.» Pero ahora, con unos nervios como los que yo tengo, cualquier sacrificio me resulta demasiado penoso. ¿De qué padece usted? —me preguntó—. Tiene el aspecto de estar sanísima.
+Sonreí encogiéndome de hombros.
+—Ah, es todo tan extraño entre ustedes los ingleses. Parece como si no les gustara hablar de las funciones corporales. Es tanto como tratar de un ferrocarril sin mencionar la locomotora. ¿Cómo puede uno comprender a nadie sin saber nada de su estómago? Durante la enfermedad más grave de mi esposo...
+Sumergió en el café un terrón de azúcar y estuvo observando cómo se disolvía.
+—Sin embargo, un joven amigo mío, que fue a Inglaterra para asistir al entierro de un hermano, me ha contado que las mujeres en los restauranes públicos usan cubrecorsés tan holgados, que no hay camarero que se resista a lanzar dentro una ojeada en el momento de servir la sopa.
+—Serían camareros alemanes —dije—; los ingleses apenas si le echan a una un vistazo a lo alto del moño.
+—Claro —exclamó—. ¿Ve cómo dependen de Alemania? Ni siquiera pueden encontrar entre ustedes buenos camareros.
+—Pues yo prefiero a los que sólo le miran a una el moño.
+—Y eso prueba que se siente avergonzada de su cubrecorsé.
+Miré hacia el jardín, donde abundaban las flores de enredadera y crecían los clásicos rosales alemanes, rígidos como bouquets, pensando que ambas cosas me eran indiferentes. Casi sentí deseos de preguntarle si su joven amigo había ido a Inglaterra en calidad de camarero para servir el asado fúnebre; pero decidí que no valía la pena. El tiempo estaba demasiado caluroso para sentirse una maligna, y además, ¿por qué ser tan poco caritativa con Frau Fischer, víctima hasta las seis y media de extrañas alucinaciones? Como una recompensa celestial por mi indulgencia, camino adelante vino hacia nosotros Herr Rat, angelicalmente ataviado con un traje de seda blanca.
+Él y Frau Fischer eran viejos amigos, y ella recogió hacia sí los pliegues de su bata para hacerle sitio en el banquito verde.
+—Qué sensación de frescor da usted —dijo—, y, si me permite la observación, lleva un traje precioso.
+—¿No me lo puse el verano pasado cuando estuvo usted aquí? Tuve que traer la seda de China, enrollada en mi cuerpo, para pasarla de contrabando por las aduanas rusas. ¡Y en qué cantidad! De ella salieron dos vestidos completos para mi cuñada, tres trajes para mí y un manto para el ama de llaves de mi piso en Munich. ¡Cómo sudaba! Hubo que lavarla palmo a palmo.
+—Estoy segura de que ha corrido usted más aventuras que nadie en Alemania. Cuando me acuerdo de aquello que le pasó en Turquía con el guía ebrio que fue mordido por un perro rabioso y se tiró desde un precipicio a un campo de esencia de rosas, siento que no haya escrito un libro.
+—A su tiempo, a su tiempo. Estoy reuniendo algunas notas. Y ahora que está usted aquí, reanudaremos nuestras tranquilas y pequeñas charlas después de cenar, ¿eh? Es necesario y agradable para el hombre encontrar descanso de vez en cuando en compañía de las mujeres.
+—Sin duda. Lo comprendo. Aun aquí, su vida es demasiado agitada. Está usted tan solicitado, es tan admirado... Exactamente lo mismo le ocurría a mi marido. Era alto, bien parecido y a veces, por la noche, solía bajar a la cocina y me decía: «Mujer, ¿quieres que hagamos el tonto un par de minutos?» Nada le tranquilizaba tanto como que yo le acariciara el pelo.
+La monda cabeza de Herr Rat, reluciente bajo la luz solar, parecía un símbolo de la lamentable ausencia de una esposa.
+Empezaba a hacer cábalas sobre la naturaleza de aquellas tranquilas pequeñas charlas de después de cenar. Pues, ¿cómo hacer el papel de Dalila con un Sansón tan tonsurado?
+—Herr Hoffmann de Berlín llegó anteayer —dijo Herr Rat.
+—¿Aquel joven con quien me negué a conversar? El año último me contó que había estado pasando una temporada en Francia y que en el hotel no había servilletas. ¡Qué sitio sería aquél! En Austria hasta los cocheros usan servilletas. Además oí decir que discutía con la camarera sobre el amor libre, cuando iba a barrerle la habitación. No estoy acostumbrada a tratar con esa gente. Desconfiaba de él desde hacía tiempo.
+—La sangre joven —replicó Herr Rat afablemente—. Yo tuve varias discusiones con él. Ya habrá oído hablar de ellas, ¿no? —añadió volviéndose hacia mí.
+—Oh, mucho —dije sonriendo.
+—Sin duda usted también me considera atrasado. Yo no pretendo ocultar mi edad. Tengo sesenta y nueve años. Pero observaría que cuando yo levantaba la voz, él tenía que callarse.
+Repliqué con la más absoluta convicción que sí, y percibí en los ojos de Frau Fischer algo que me hizo comprender de pronto que debía volver a la casa para escribir unas cartas.
+Mi habitación estaba obscura y fría. Un castaño extendía sus verdes ramas frente a la ventana. Miré al sofá de crin, y como me gusta tumbarme aovillada y encuentro absurdo que nadie se escandalice de ello, tiré al suelo un cojín encarnado y me acosté allí. Apenas me había acomodado a mi gusto, cuando la puerta se abrió lentamente para dar paso a Frau Fischer.
+—Herr Rat tiene que ir al baño a estas horas —dijo cerrando tras ella la puerta—. ¿Puedo pasar? Haga el favor de no moverse. Parece una gatita de Angora. Bueno, cuénteme alguna cosa interesante de su vida. Cuando entro en relación con alguien, lo exprimo como una esponja. Para empezar: ¿está usted casada?
+Admití el hecho.
+—Entonces, hijita, ¿dónde está su marido?
+Le dije que era capitán de un barco y que estaba haciendo una larga y penosa travesía.
+—Pero en qué situación la ha dejado... tan joven y sin protección.
+Se sentó en el sofá y me amenazó con el dedo, divertida.
+—Ahora tendrá que admitir que le oculta a él sus viajes. Porque, ¿a qué hombre se le iba a ocurrir el dejar a una mujer como usted, con esa mata de pelo, errar por países extraños? Supóngase que perdiera su portamonedas a medianoche en un tren cercado por la nieve al norte de Rusia.
+—Pero yo no tengo la menor intención de...
+—No digo que la tenga. Pero cuando se despidió de su querido esposo, estoy segura de que no había pensado en venir aquí. Querida, soy una mujer con experiencia y conozco el mundo. Mientras él está lejos, tiene usted la fiebre en las venas y su triste corazón vuela por estos países extraños buscando consuelo. En casa no podría soportar la vista del lecho vacío... es algo como la viudedad. Desde la muerte de mi querido esposo, no he tenido una hora de sosiego.
+—A mí me gustan los lechos vacíos —protesté somnolienta, mullendo el almohadón.
+—Eso no puede ser verdad, sería anormal. Toda esposa tiene que darse cuenta de que su sitio está al lado de su marido... durmiendo o paseando. Se echa de ver fácilmente que el lazo más fuerte de todos los lazos no le ata a usted todavía. Espere que un par de manecitas se tiendan hacia el mar, hasta que, al llegar al puerto, él la vea con el niño en su regazo.
+Ahogué un bostezo.
+—Sin embargo, considero que la profesión de niñera es la más afrentosa de todas —dije.
+Durante un momento estuvimos en silencio.
+Luego Frau Fischer se agachó y me cogió una mano.
+—Tan joven y sufriendo tan cruelmente —murmuró—. Nada amarga tanto la existencia de una mujer como carecer de varón. Especialmente si está casada, porque entonces le es imposible aceptar las atenciones de otros, a no ser que una tenga la desgracia de ser viuda. Claro, ya sé que los capitanes de barco sufren terribles tentaciones y que son tan inflamables como un tenor... Por eso debe mostrarse alegre y enérgica y tratar de hacer que él esté orgulloso de usted, cuando su barco llegue a puerto.
+El marido que había inventado para uso de Frau Fischer, se había convertido en sus manos en un personaje tan corpóreo, que no pude ya imaginarme sentada en una roca con hierbas marinas en el cabello y esperando el barco fantasmal que a todas las mujeres les gusta imaginar que anhelan. Más bien me veía empujando un cochecito de niño pasarela arriba y contando los botones que se habían caído del uniforme de mi esposo.
+—Un montón de niños es lo que usted necesita —dijo Frau Fischer—. Entonces, como padre de familia, ya no podrá dejarla a usted. Piense en su alegría y emoción cuando la vea.
+El plan me pareció un tanto arriesgado. Aparecer de repente con un montón de nenes no es lo más apropiado en general para suscitar el entusiasmo en el corazón de la mayor parte de los maridos ingleses. Decidí echar a pique mi concepción virginal y mandarlo por ahí unas millas más allá del cabo de Hornos.
+Entonces sonó el batintín para la cena.
+—Suba después a mi habitación —dijo Frau Fischer—. Tengo todavía muchas preguntas que hacerle.
+Me apretó fuertemente la mano, pero yo no respondí con la misma efusión.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -1,0 +1,603 @@
+---
+layout: story
+title: La Madonna negra
+slug: negra
+source: https://www.literatura.us/idiomas/lessing/negra.html
+tags:
+  - negra
+  - lessing
+---
+Doris Lessing
+(Kermanshah, Irán, 1919 - Londres, Inglaterra, 2013)
+La Madonna negra (1957)
+(“The Black Madonna”)
+Originalmente publicado en Winter’s Tales 3
+(Londres: Macmillan, 1957);
+African Stories
+(Londres: Michael Joseph, 1964, 494 págs.0;
+(Nueva York: Simon and Schuster, 1965, 636 págs.)
+En algunos países no se puede afirmar que
+florezcan las artes, y mucho menos el Arte. Es difícil determinar por qué eso
+es así, aunque por supuesto tenemos toda clase de teorías al respecto. Resulta
+que a veces la tierra más estéril se puebla de esa clase de flores que para
+todos representan la cumbre y la justificación de la vida y eso es lo que
+dificulta explicar, en definitiva, por qué la tierra de Zambesia produce flores
+tan reticentes.
+Zambesia es un país duro, abrasado por el
+sol, viril y positivo, que menosprecia la sutileza y la sensibilidad. Sin
+embargo, existen otros estados con las mismas características en los que sí ha
+surgido el arte, producido acaso por la mano izquierda. Zambesia es, por
+decirlo con suavidad, refractaria a esas ideas, aceptadas por lo común desde
+hace mucho tiempo en otros lugares del mundo, relativas a la libertad, la
+fraternidad y cosas por el estilo. Sin embargo hay quienes mantienen —y entre
+ellos se cuentan algunas de las más nobles almas— que el arte es imposible sin
+una minoría cuyo ocio esté garantizado por el duro trabajo de la mayoría. Y si
+hay algo de lo que no carece la minoría acomodada de Zambesia es precisamente
+de ocio.
+Zambesia... Basta ya: por respeto a nosotros
+mismos y al rigor científico, no deberíamos anticipar las conclusiones. Sobre
+todo si recordamos el nostálgico respeto con que los zambesianos reciben a los
+artistas que sí aparecen entre ellos.
+Consideremos, a modo de ejemplo, el caso de
+Michele.
+Salió del campo de internamiento en la época
+en que Italia se convirtió en una especie de aliado honorario, durante la
+Segunda Guerra Mundial. Eran épocas de tensión para las autoridades, porque una
+cosa es ser responsable de miles de prisioneros de guerra a los que se debe
+tratar según ciertas normas reconocidas y otra muy distinta enfrentarse, de la
+noche a la mañana, con esos miles de personas convertidas, por un acto de
+prestidigitación internacional, en camaradas de armas. Muchos de aquellos miles
+se quedaron en los mismos campos; al menos allí tenían alojamiento y comida.
+Otros se convirtieron en mano de obra para las granjas, aunque no muchos.
+Sucede que, si bien a los granjeros siempre les hacía falta mano de obra, no
+sabían cómo tratar en sus granjas a aquellos trabajadores que también eran
+blancos; hasta entonces, nunca se había dado en Zambesia tal fenómeno. Algunos
+hacían pequeños encargos en las ciudades, cuidándose mucho de los sindicatos,
+que ni los aceptaban como miembros ni estaban de acuerdo en que trabajaran.
+Duro, duro sacrificio el de estos hombres,
+aunque por fortuna no se prolongó mucho, pues pronto terminó la guerra y
+pudieron volver a su país.
+Dura, también, la tarea de las autoridades,
+como ya se ha señalado; por esa razón, redoblaban su voluntad de obtener cuanta
+ventaja pudieran de la situación. Y no cabía duda de que Michele representaba
+una de esas ventajas.
+Descubrieron su talento cuando aún era un
+prisionero de guerra. Se construyó una iglesia en el campo de internamiento y
+Michele decoró el interior. Aquella pequeña iglesia de tejado de chapa en medio
+de la prisión se convirtió en lugar de exhibición, con sus paredes encaladas
+cubiertas por todas partes con frescos en los que aparecían bronceados
+campesinos cosechando uva para la vendimia, hermosas italianas bailando, o
+niños rollizos de ojos oscuros. En medio de aquellas abarrotadas escenas de
+vida italiana aparecían la Virgen y el Niño, sonrientes y benéficos, encantados
+de moverse entre la gente con aquella familiaridad.
+Las damas amantes de la cultura, que
+sobornaban a las autoridades para que se les permitiera visitar la iglesia,
+decían: “Pobrecito, cómo debe de añorar su país”. Y suplicaban permiso para
+dejar media corona para el artista. Algunas se indignaban. Al fin y al cabo,
+era un prisionero, capturado en el acto de luchar contra la democracia y la
+justicia; ¿tenía derecho a protestar? Porque entendían aquellas pinturas como
+una especie de protesta. ¿Había algo en Italia que no tuvieran allí, en
+Westonville, que era la capital y el corazón de Zambesia? ¿Acaso allí no había
+sol y montañas y niños rollizos y chicas hermosas? ¿Acaso no teníamos nuestros
+propios cultivos? Tal vez no hubiera uva, pero sí limones, naranjas y flores en
+abundancia.
+La gente se enfadaba: la desesperación de la
+nostalgia descendía de las paredes blancas de aquella sencilla iglesia y
+afectaba a cada quién según su temperamento.
+Sin embargo, cuando Michele fue liberado,
+nadie olvidó su talento. Se referían a él como “ese artista italiano”. En
+realidad era un albañil. Y es muy posible que se exageraran las virtudes de sus
+frescos. Puede que en un país más acostumbrado a las pinturas murales, las
+suyas hubieran pasado inadvertidas.
+Cuando una de aquellas damas que acudían de
+visita salió a toda prisa del campo con su coche y fue a verlo para pedirle que
+retratara a sus hijos, contestó que no estaba cualificado para hacerlo. Sin
+embargo, al final accedió. Ocupó una habitación en la ciudad y pintó unos
+retratos agradables de los niños. Luego pintó a los hijos de muchas amigas de
+aquella primera dama. Cobraba diez chelines cada vez. Luego una de las señoras
+quiso que pintara su retrato. Entonces pidió diez libras: le había costado un
+mes entero. Ella se molestó, pero pagó.
+Michele se encerró en su habitación con una
+amiga y se dedicó a beber vino tinto de Ciudad del Cabo y hablar de su país.
+Mientras duró el dinero, no hubo modo de persuadirlo para que pintara más
+retratos.
+Aquellas damas hablaban mucho de la dignidad
+del trabajo, asunto en el que estaban muy versadas; daba la sensación de que se
+atreverían incluso a comparar al hombre blanco con los negros africanos, que
+tampoco entendían que el trabajo dignificaba.
+Lo consideraban un ingrato. Una de aquellas
+mujeres lo buscó, lo encontró tumbado en el campo con una botella de vino y le
+habló con mucha severidad sobre las barbaries de Mussolini y la
+irresponsabilidad del carácter italiano. Luego le exigió que la retratara
+inmediatamente con su vestido nuevo de noche. El se negó y la señora se fue a
+su casa muy enfadada.
+Resulta que era la mujer de uno de nuestros
+más importantes ciudadanos, un general, o algo parecido, que en esa época se
+ocupaba de planificar un desfile militar, o alguna exhibición a beneficio de la
+población civil. Toda la ciudad de Westonville llevaba semanas hablando del
+espectáculo. Estábamos todos mortalmente aburridos de bailes, fiestas de
+disfraces, bazares, loterías y demás pasatiempos caritativos. No sería
+exagerado afirmar que mientras unos morían por la libertad, otros bailaban por
+ella. Todo tiene un límite. Sin embargo, por supuesto, cuando al fin se terminó
+la guerra y los miles de tropas instaladas en nuestro país tuvieron que
+volverse a casa... en resumen, cuando divertirse dejó de ser una obligación, se
+oyó a muchos exclamar que la vida nunca volvería a ser igual.
+Mientras tanto, el desfile implicaba una
+novedad para todos. Los caballeros militares responsables de la idea no la
+concebían de ese modo. Creían que iban a mejorar la moral de la población
+mostrándonos un atisbo de lo que era una guerra de verdad. No bastaba con los
+titulares de los periódicos. Para transmitirnos una idea bien realista, planificaban
+destruir una aldea bombardeándola ante nuestras miradas.
+Primero había que construir la aldea.
+Parece que el general y sus subordinados se
+pasaron un día entero entre el polvo rojizo de la zona del desfile, bajo un sol
+abrasador, rodeados de materiales de construcción mientras hordas de
+trabajadores africanos iban de un lado a otro con tablas y clavos, intentando
+construir algo parecido a un pueblo. Era evidente que había que construir un
+poblado auténtico para destruirlo después, aunque el precio era mayor de lo
+presupuestado para todo el espectáculo. El general se fue a casa de mal humor y
+su mujer dijo que lo que necesitaban era un artista; necesitaban a Michele. No
+era porque quisiera ofrecer a Michele un buen trato; lo que pasa es que no
+soportaba la idea de que se tumbara a cantar mientras hubiera tanto trabajo por
+hacer. Se negó a emprender una negociación diplomática cuando su marido dijo
+que de ningún modo pensaba pedirle un favor a un italiano. Ella le solucionó el
+problema a su manera: enviaron a un tal capitán Stocker a buscarlo.
+El capitán lo encontró en el mismo campo, a
+la sombra del mismo árbol, con los pantalones arremangados y la camisa
+desabrochada; sin afeitar, un poco borracho, con una botella de vino a su lado,
+en el suelo. Entonaba un canto tan salvaje, tan triste, que el capitán se
+sintió incómodo. Se mantuvo a diez pasos de aquel personaje de escasa
+reputación y pensó en lo indigno de su posición. Un año antes aquel hombre era
+un enemigo mortal al que hubiera disparado a primera vista. Seis meses antes,
+un prisionero enemigo. Ahora estaba tumbado con las rodillas al aire y llevaba
+una camisa sucia que sin duda había sido del ejército. Para el capitán, la
+situación cristalizó en el deseo de que Michele lo saludara formalmente.
+—¡Piselli! —dijo con brusquedad.
+Michele volvió la cabeza y miró al capitán,
+sin abandonar la posición horizontal.
+—Buenos días —contestó, afable.
+—Se requiere su presencia —comunicó el
+capitán.
+—¿Quién? —preguntó Michele.
+Se sentó. Era un hombrecillo regordete, de
+piel olivada. Había algo de resentimiento en su mirada.
+—Las autoridades.
+—¿Se ha terminado la guerra?
+El capitán, que ya estaba bastante rígido y
+refulgente con su camisa caqui planchada, echó la cabeza hacia atrás, frunció
+el ceño y adelantó la barbilla. Era un hombre alto, rubio y, en los fragmentos
+visibles, tenía la piel roja como un ladrillo. Los ojos pequeños, azules,
+enfadados. Sus manos rojas, cubiertas por completo por pelillos rubios, bien
+prietas a ambos lados. Entonces vio la decepción en la mirada de Michele y
+relajó las manos.
+—No, no se ha terminado —contestó—. Se
+requiere su ayuda.
+—¿Para la guerra?
+—Es una tarea de guerra. Doy por hecho que le
+interesa la derrota de los alemanes.
+Michele miró al capitán. El artesano bajito
+de ojos oscuros miraba al gran oficial rubio de ojos fríos y azules, con su
+boca prieta y aquellas manos que parecían filetes cubiertos de vello rubio.
+Siguió mirándolo y dijo:
+—Me interesa mucho el fin de la guerra.
+—¿Entonces? —dijo el capitán, entre dientes.
+—¿Cuánto pagan? —preguntó Michele.
+—Pagan.
+Michele se levantó. Alzó al sol la botella y
+bebió un trago. Hizo unos buches de vino y lo escupió. Luego vertió lo que
+quedaba sobre la tierra roja, donde quedó una mancha violeta y burbujeante.
+—Estoy listo —anunció.
+Fue con el capitán hasta el camión que los
+esperaba, en el que montó junto al conductor, en vez de en la parte trasera,
+como esperaba el capitán. Cuando llegaron a la zona del desfile, los oficiales
+habían dejado un mensaje en el que se indicaba que el capitán se haría
+responsable de Michele y del poblado. También del centenar de trabajadores que
+permanecían sentados en los márgenes de la hierba, esperando órdenes.
+El capitán explicó lo que se debía hacer.
+Michele asintió. Luego señaló con una mano hacia los africanos.
+—No necesito a esos —dijo.
+—¿Lo va a hacer solo? ¿Un pueblo?
+—Sí.
+—¿Sin ayuda?
+Michele sonrió por primera vez.
+—Lo haré.
+El capitán dudó. No aprobaba por principios
+que los blancos se encargaran de trabajos manuales pesados. Contestó:
+—Me quedo con seis para el trabajo pesado.
+Michele se encogió de hombros y el capitán se
+alejó y despidió a todos los africanos menos seis. Volvió con ellos hacia
+Michele.
+—Hace calor —dijo éste.
+—Mucho —contestó el capitán.
+Estaban en medio de la zona de desfile.
+Alrededor había árboles, hierba, zonas de sombra. Allí, tan sólo un polvo
+rojizo que se alzaba y revoloteaba en la calurosa brisa.
+—Tengo sed —dijo Michele.
+Sonrió. El capitán notó que sus propios
+labios rígidos se aflojaban en contra de su voluntad para responder a la
+sonrisa. Los dos pares de ojos se encontraron. Fue un momento de comprensión.
+Para el capitán, el italianito se había vuelto humano de repente.
+—Me encargaré de eso —dijo, y se fue hacia la
+ciudad.
+Para cuando hubo conseguido explicar la situación
+a la gente adecuada, rellenar formularios y confirmar acuerdos, ya era última
+hora de la tarde. Regresó al campo del desfile con una caja de botellas de
+brandy del Cabo y se encontró a Michele y a los seis negros sentados bajo un
+árbol. Michele les estaba cantando una canción italiana y ellos buscaban
+segundas voces armónicas. Aquella visión afectó al capitán como un ataque de
+náusea. Se acercó, y los africanos se pusieron firmes. Michele siguió sentado.
+—¿No ha dicho que haría el trabajo solo?
+—Sí, eso he dicho.
+Entonces el capitán echó a los africanos. Se
+despidieron con amistosas miradas a Michele, quien les devolvió el saludo. El
+capitán estaba rojo de ira, como un pedazo de carne.
+—¿Aún no ha empezado?
+—¿Cuánto tiempo tengo?
+—Tres semanas.
+—Entonces, sobra tiempo —contestó Michele,
+mirando la botella de brandy que el capitán llevaba en una mano. En la otra
+había dos vasos—. Ya es de noche —dijo.
+El capitán frunció el ceño un momento. Luego
+se sentó en la hierba y sirvió dos brandies.
+—Ciao —dijo Michele.
+—Salud —contestó el capitán.
+Tres semanas, pensaba. Tres semanas con aquel
+maldito italiano. Se bebió el vaso de un trago, lo rellenó y lo dejó sobre la
+hierba. La hierba, fresca y suave. Cerca de allí florecía algún árbol; cálidas
+oleadas de perfume llegaban en la brisa.
+—Se está bien aquí —dijo Michele—. Nos lo
+vamos a pasar bien. Hasta en la guerra hay momentos de felicidad. Y de amistad.
+Brindo por el fin de la guerra.
+Al día siguiente, el capitán no apareció por
+la zona del desfile hasta después de la comida. Se encontró a Michele bajo los
+árboles con una botella. Había levantado en un extremo de la zona de desfile
+unas tablas que en teoría iban a servir para los techos, de tal modo que
+formaban dos paredes y parte de una tercera, y un tejado inclinado que
+descansaba sobre unos puntales.
+—¿Qué es eso? —preguntó el capitán, furioso.
+—La iglesia —contestó Michele.
+—¿Queeé?
+—Ya lo verá luego. Ahora hace mucho calor.
+Miró hacia la botella de brandy que tenía a
+su lado, en el suelo. El capitán fue al camión y regresó con su caja. Bebieron.
+Pasó el tiempo. Hacía mucho que el capitán no se sentaba en la hierba debajo de
+un árbol. De hecho, hacía mucho que no bebía tanto. Siempre bebía bastante,
+pero adaptándose a las épocas y las estaciones. Era un hombre disciplinado.
+Allí, sentado en la hierba con aquel hombrecillo al que seguía sin poder evitar
+ver como un enemigo, no es que abandonara la disciplina, pero sí se sintió
+distinto; como si abandonara temporalmente su comportamiento normal. Michele no
+contaba. Lo oía hablar de Italia y le parecía estar oyendo a un salvaje: como
+si oyera historias de las islas de los mares del sur, lugares que un hombre
+como él podía visitar una vez en la vida. Se oyó a sí mismo decir que tal vez
+viajara a Italia después de la guerra. De hecho, sólo le atraía el norte y la
+gente del norte. Había visitado Alemania en tiempos de Hitler y, aunque en ese
+momento no estuviera bien decirlo, había resultado satisfactorio. Luego Michele
+le cantó unas canciones italianas. Él le cantó algunas inglesas. Después
+Michele sacó fotos de su esposa y sus hijos, que vivían en un pueblo de las
+montañas del norte de Italia. Le preguntó al capitán si estaba casado. El
+capitán nunca hablaba de sus asuntos privados.
+Se había pasado la vida de una colonia
+africana en otra, ejerciendo como policía, magistrado, comisario de los nativos
+o cualquier otra dedicación útil. Al empezar la guerra, le había resultado
+fácil pasarse a la vida militar. Pero odiaba la vida en las ciudades y tenía
+sus propias razones para desear el fin de la guerra. Había pasado la mayor
+parte del tiempo en destinos de monte con uno o dos blancos más, o incluso a
+solas, lejos de los rigores de la civilización. Había mantenido relaciones con
+nativas: de vez en cuando visitaba la ciudad donde vivía su mujer con sus
+padres y los niños. Siempre lo atormentaba la idea de que ella le fuera infiel.
+Poco tiempo atrás había contratado a un detective para que la vigilara; estaba
+convencido de que el detective no era eficiente. Los amigos del ejército que
+llegaban de L., donde vivía su mujer, le hablaban de sus fiestas y de lo mucho
+que se divertía. Cuando terminara la guerra no le resultaría tan fácil
+pasárselo bien. ¿Y por qué no se limitaba a vivir con ella y acabar así con el
+problema? Lo que pasaba es que no podía. Y aquel largo exilio en los destinos
+de monte se debía a que necesitaba una excusa para no vivir con ella. No
+soportaba pensar demasiado tiempo en su esposa; era esa parte de su vida que
+nunca había sido capaz de controlar, por así decirlo.
+Sin embargo, ahora habló de ella con Michele,
+y también de su mujer favorita en el monte, Nadya. Le contó la historia de su
+vida, hasta que se dio cuenta de que la sombra de los árboles bajo los que se
+habían sentado, se extendía ya por toda la zona de desfile hasta la tribuna. Se
+levantó con escaso equilibrio y dijo:
+—Hay trabajo por hacer. Le pagan para
+trabajar.
+—Cuando se haga de noche le enseñaré mi
+iglesia.
+Se puso el sol, cayó la oscuridad y Michele
+pidió al capitán que llevara su camión hasta la zona de desfile, a unos
+doscientos metros, y encendiera los faros. Al instante, una iglesia blanca
+brotó entre las formas y las sombras de aquellas planchas de madera.
+—Mañana, unas cuantas casas —dijo Michele,
+contento.
+Al cabo de una semana, el espacio de aquel
+extremo de la zona de desfile estaba cubierto de construcciones torpes y
+alocadas de yeso y madera que, a la luz del sol, parecían un engendro
+imposible. En privado, el capitán se indignaba: era como una pesadilla en la
+que se suponía que unas figuras con forma de esqueleto debían convencerlo,
+gracias a una ilusión de luces y sombras, de que conformaban un pueblo. Por la
+noche, el capitán se acercaba con su camión, encendía las luces y ahí estaba el
+pueblo, sólido y real contra el telón de fondo de los árboles verdosos. Luego,
+bajo el sol de la mañana, no había nada, apenas unos pedazos de tablas clavados
+en la arena.
+—Se acabó —dijo Michele.
+—Lo contrataron para tres semanas —contestó
+el capitán.
+No quería darlo por terminado; para él era
+como unas vacaciones.
+Michele se encogió de hombros.
+—El ejército es rico —dijo.
+Luego, para evitar las miradas curiosas, se
+sentaron a la sombra de la iglesia con la caja de brandy. El capitán habló sin
+parar sobre su esposa, sobre las mujeres. No podía dejar de hablar.
+Michele escuchaba. En un momento dijo:
+—Cuando vuelva a casa... Cuando vuelva a
+casa, abriré los brazos... —Los abrió. Cerró los ojos. Le rodaron lágrimas por
+las mejillas—. Tomaré a mi mujer entre mis brazos y no preguntaré nada, nada.
+No me importa. Ya basta, ya basta. No preguntaré nada y seré feliz.
+El capitán se quedó con la mirada perdida,
+sufriendo. Pensó en lo mucho que temía a su mujer. Era una criatura burlona,
+alegre y dura, que se reía de él. Se había reído de él desde que se casaron.
+Desde el principio de la guerra le había dado por llamarle con apodos como
+Hitlercillo o soldadito. “Adelante, Hitlercillo —le había gritado en el último
+encuentro—. Adelante, soldadito. Si te quieres gastar el dinero en detectives
+privados, adelante. Pero no creas que yo no sé lo que haces en el monte, no es
+que me importe, pero recuerda que lo sé...”
+El capitán recordaba cómo se lo había dicho.
+Y ahí estaba Michele, sentado en una caja de embalar y diciendo:
+—Los detectives y la ley, amigo, son un placer
+de ricos. Incluso los celos son un placer que ya no quiero experimentar. Ah,
+amigo, estar con mi mujer otra vez, y con mis hijos, sólo le pido eso a la
+vida. Eso, vino, comida, y pasar la noche cantando.
+Y las lágrimas le empapaban las mejillas y le
+salpicaban la camisa.
+Por dios, ¡un hombre llorando!, pensaba el
+capitán. ¡Y no le daba vergüenza! Cogió la botella y bebió.
+Tres días antes de la gran ocasión, algunos
+oficiales de rango llegaron paseando entre el polvo y se encontraron a Michele
+y al capitán sentados en aquella caja, cantando. El capitán llevaba la camisa
+abierta hasta el pecho y llena de manchas.
+El capitán se levantó y se puso firme, con la
+botella en la mano y Michele lo imitó por pura solidaridad con su amigo. Los
+oficiales se llevaron al capitán a un lado —eran todos colegas suyos— y le
+preguntaron qué diablos creía que estaba haciendo. Y por qué no estaba
+terminado el pueblo.
+Luego se fueron.
+—Diles que está terminado —dijo Michele—.
+Diles que me quiero ir.
+—No —contestó el capitán—. No, Michele. ¿Qué
+harías si tu mujer...?
+—El mundo es un buen lugar. Deberíamos ser
+felices... Eso es todo.
+—Michele...
+—Me quiero ir. No hay nada que hacer. Me
+pagaron ayer.
+—Siéntate, Michele. Dentro de tres días se
+terminará todo.
+—Entonces, voy a pintar el interior de la
+iglesia como pinté la del campo de prisioneros.
+El capitán se tumbó en unas tablas y se quedó
+dormido. Cuando se despertó, Michele estaba rodeado de los mismos botes de
+pintura que había usado para pintar el exterior del pueblo. Justo delante del
+capitán había un retrato de una chica negra. Era joven y rolliza. Llevaba un
+vestido azul estampado por el que asomaban los hombros, suaves y desnudos. A su
+espalda había un bebé sostenido por una cinta de tela roja. Tenía el rostro
+vuelto hacia el capitán y le sonreía.
+—Es Nadya —dijo el capitán—. Nadya... —gruñó
+en voz alta.
+Miró el niño negro y luego cerró los ojos.
+Los volvió a abrir y la madre y el niño seguían ahí. Michele estaba trazando
+con mucho cuidado unos círculos amarillos en torno a las cabezas de la mujer
+negra y su hijo.
+—Por el amor de Dios —dijo el capitán—. No
+puedes hacer eso.
+—¿Por qué no?
+—No puedes pintar una madonna negra.
+—Era una campesina. Ésta es una campesina.
+Una madonna campesina negra para un país de negros.
+—Es un pueblo alemán —explicó el capitán.
+—Ésta es mi madonna —dijo Michele, enfadado—.
+Vuestro pueblo alemán y mi madonna. He pintado ese retrato como una ofrenda a
+la madonna. Y le gusta... Siento que le gusta.
+El capitán se volvió a tumbar. Se encontraba
+mal. Se durmió otra vez. Al despertarse por segunda vez ya era de noche.
+Michele había llevado una reluciente lámpara de parafina y seguía trabajando en
+la pared con su luz. Había una botella de brandy a su lado. Siguió pintando
+hasta la medianoche y el capitán se quedó tumbado, de lado, mirándolo, tan
+pasivo como el hombre que sufre una pesadilla. Luego se acostaron los dos sobre
+las tablas. Durante todo el día siguiente Michele siguió pintando madonnas
+negras, santos negros, ángeles negros. Fuera, las tropas practicaban a la luz
+del sol, las bandas tocaban su música y los motociclistas rugían arriba y
+abajo. Pero Michele seguía pintando, borracho y olvidadizo. El capitán
+permanecía tumbado boca arriba, murmurando sobre su mujer. Luego decía: “Nadya,
+Nadya” y rompía a sollozar.
+Al caer la noche se fueron las tropas. Los
+oficiales volvieron y el capitán se fue con ellos para mostrarles cómo cobraba
+existencia el pueblo cuando se encendían las luces del otro lado del campo de
+desfile. Se quedaron todos mirando el pueblo en silencio. Al apagar las luces
+no se veían más que altas tablas angulares inclinadas como las piedras de las
+tumbas a la luz de la luna. Encendían las luces... y ahí estaba el pueblo.
+Guardaron silencio, como si tuvieran alguna sospecha. Igual que el capitán,
+parecían tener la sensación de que aquello no estaba bien. Injusto, ésa era la
+palabra. Era trampa. Y profundamente inquietante.
+—Muy listo ese italiano suyo —dijo el
+general.
+El capitán, que hasta ese momento se había
+comportado con una inexpresiva corrección, se acercó corriendo de pronto al
+general y, para conservar el equilibrio, le apoyó una mano en sus augustos
+hombros.
+—Malditos italianos —dijo—. Malditos
+africanos. Malditos... Le diré una cosa, hay un italiano que sí vale para algo.
+Sí, lo hay. Lo que yo le diga. De hecho, es amigo mío.
+El general lo miró. Luego asintió en
+dirección a sus subordinados. Se llevaron al capitán por una cuestión
+disciplinaria. De todas formas, decidieron que debía de estar enfermo, pues de
+ningún otro modo se explicaba su comportamiento. Lo metieron en la cama, en su
+propia habitación, y una enfermera se ocupó de él.
+Se despertó veinticuatro horas después,
+sobrio por primera vez en varias semanas. Recordó lentamente lo que había
+ocurrido. Luego saltó de la cama y se apresuró a vestirse. La enfermera apenas
+tuvo tiempo de verlo salir corriendo por el camino y meterse de un salto en su
+camión.
+Circuló a toda velocidad hasta la zona del
+desfile, tan inundada de luz que el pueblo no existía. Estaba todo abarrotado.
+Había tres filas de coches aparcados en torno a la plaza, con gente subida a
+los estribos, e incluso a los techos. En la tribuna no cabía un alma. Mujeres
+vestidas de gitanas, campesinas, damas como cortesanas isabelinas y demás,
+deambulaban con bandejas de cerveza de jengibre y salchichas y programas de
+cinco chelines para recaudar ayudas para la guerra. En la plaza se desplegaban
+las tropas, al tiempo que trasladaban arriba y abajo sus obsoletas
+ametralladoras, las bandas tocaban y los motociclistas rugían entre llamas.
+Mientras el capitán aparcaba el camión cesó
+toda esa actividad y se apagaron las luces. El capitán echó a correr por la
+parte exterior de la plaza para llegar al lugar donde estaban camufladas las
+armas entre un amasijo de redes y ramas. Jadeaba de tanto esfuerzo. Era un
+hombre grande, poco acostumbrado al ejercicio y empapado de brandy. Tenía una
+sola idea en la mente: impedir que las armas disparasen, impedirlo al precio
+que fuera.
+Por suerte, parece que había alguna
+complicación. Las luces seguían apagadas. Aquel excéntrico cementerio al otro
+lado de la plaza brillaba, blanco, bajo la luz de la luna. Entonces se
+encendieron las luces brevemente y el pueblo apareció apenas el tiempo
+suficiente para que se vieran las cruces rojas pintadas en la pared blanca del
+edificio contiguo a la iglesia. La luz de la luna lo invadió todo de nuevo y
+las cruces desaparecieron. “Maldito loco”, sollozó el capitán, y siguió
+corriendo como si se jugara la vida. Ya no intentaba llegar a las armas. Ahora
+atajaba por un rincón de la plaza, directamente hacia la iglesia. Oyó las
+maldiciones de algunos oficiales a sus espaldas:
+—¿Quién ha puesto ahí esas cruces rojas?
+¿Quién? No podemos disparar a la Cruz Roja.
+El capitán llegó a la iglesia en el momento
+en que se encendían los focos. Dentro, Michele estaba arrodillado en el suelo
+mirando a su primera madonna.
+—Van a matar a mi madonna —dijo, abatido.
+—Vamos, Michele, vayámonos de aquí.
+El capitán lo cogió por un brazo y tiró de
+él. Michele se retorció para liberarse y cogió una sierra. Empezó a golpear la
+tabla del techo. Fuera reinaba un silencio letal. Oyeron una voz que retumbaba
+por los altavoces:
+—El pueblo que vamos a bombardear es un
+pueblo inglés, no alemán como se dice en el programa. Recuerden, el pueblo que
+vamos a bombardear es...
+Michele había recortado dos lados de un
+rectángulo en torno a la Madonna.
+—Michelle —sollozó el capitán—. Sal de aquí.
+Michele soltó la sierra, agarró los bordes
+afilados de la tabla y tiró de ellos. La iglesia empezó a temblar y se inclinó.
+Un pedazo irregular de tabla se desencajó y Michele se tambaleó hacia atrás y
+cayó en brazos del capitán. Sonó un rugido. La iglesia parecía disolverse en
+llamas en torno a ellos. Luego se alejaron corriendo. El capitán llevaba del
+brazo a Michele.
+—¡Abajo! —le gritó de pronto, y lo empujó al
+suelo.
+Luego se tiró encima de él. Tapándose la cara
+con un brazo, pero dejando un resquicio por el codo para mirar, oyó la
+explosión, vio la gran columna de humo y llamas y el pueblo se desintegró en
+una masa de escombros. Michele estaba de rodillas, mirando a su madonna a la
+luz de las llamas. Estaba cubierta de polvo, irreconocible. Él tenía un aspecto
+terrible, muy pálido, y le goteaba un hilillo de sangre del pelo hacia una
+mejilla.
+—Han bombardeado a mi madonna —dijo.
+—Bah, maldita sea, ya pintarás otra —contestó
+el capitán.
+Su propia voz le sonaba extraña, como si
+procediera de un sueño. Sin duda se había vuelto loco, tanto como el mismo
+Michele. Se levantó, puso en pie a Michele y lo hizo andar hacia el borde del
+desfile. Allí los recogió el personal de una ambulancia. Se llevaron a Michele
+al hospital y al capitán lo enviaron de nuevo a la cama.
+Pasó una semana. El capitán estaba en una
+habitación a oscuras. Estaba claro que padecía alguna clase de crisis nerviosa
+y le habían adjudicado dos enfermeras. A ratos guardaba silencio. A ratos
+murmuraba. A veces cantaba con voz grave y torpe fragmentos de ópera, trozos de
+canciones italianas y, una y otra vez, Hay un largo,
+largo camino. No pensaba en nada. Rehuía pensar en
+Michele, como si fuera peligroso. Por eso, cuando una alegre voz femenina le
+anunció que había ido a verlo un amigo para animarlo y que le iría muy bien un
+poco de compañía, cuando vio que se acercaba a él una venda blanca en medio de
+la penumbra, se dio la vuelta bruscamente y se quedó de costado, de cara a la
+pared.
+—Vete —dijo—. Vete, Michele.
+—He venido a verte —contestó éste—. Te he
+traído un regalo.
+El capitán se dio la vuelta lentamente. Ahí
+estaba Michele, un alegre fantasma en medio de la habitación oscura.
+—Estás loco —le dijo—. Lo estropeaste todo.
+¿Por qué pintaste esas cruces rojas?
+—Era un hospital —dijo Michele—. En todos los
+pueblos hay un hospital, y en el hospital una Cruz Roja, una hermosa Cruz Roja,
+¿no?
+—Casi me hacen un consejo de guerra.
+—Fue culpa mía —dijo Michele—. Estaba
+borracho.
+—Yo era el responsable.
+—¿Cómo ibas a ser tú responsable si lo hice
+yo? Bueno, pero ya se acabó. ¿Estás mejor?
+—En fin, supongo que esas cruces te salvaron
+la vida.
+—No se me ocurrió —dijo Michele—. Me acordé
+de la bondad de la gente de la Cruz Roja cuando éramos prisioneros.
+—Ah, cállate, cállate, cállate.
+—Te he traído un regalo.
+El capitán escudriñó en la oscuridad. Michele
+sostenía una pintura. Era una nativa con un niño a la espalda, sonriendo de
+costado.
+Michele dijo:
+—No te gustaban los halos. Así que esta vez,
+no hay halos. Para el capitán..., no es una madonna. —Se rió—. ¿Te gusta? Es
+para ti. La he pintado para ti.
+—Maldito seas —dijo el capitán.
+—¿No te gusta? —preguntó Michele, muy
+ofendido.
+El capitán cerró los ojos.
+—¿Y qué vas a hacer ahora? —preguntó,
+cansado.
+Michele se volvió a reír.
+—La señora Pannehurst, la mujer del general,
+quiere que la retrate con un vestido blanco. Así que la voy a retratar.
+—Deberías sentirte orgulloso.
+—Es idiota. Se cree que soy bueno. No saben
+nada estos salvajes. Bárbaros. Te digo una cosa, capitán; tú eres mi amigo,
+pero esa gente no sabe nada.
+El capitán guardó silencio. Lo estaba
+invadiendo la furia. Pensó en la mujer del general. No le caía bien, pero la
+había tratado bastante.
+—Esa gente... —dijo Michele—. No saben
+distinguir un buen cuadro de uno malo. Yo pinto. Pinto así, asá... Ahí está el
+cuadro. Lo miro y me río por dentro. —Michele rió en voz alta—. Ellos dicen
+“éste es un Michelangelo” y pretenden regatearme el precio. Michele,
+Michelangelo, menudo chiste, ¿no?
+El capitán no dijo nada.
+—En cambio, a ti te he pintado este cuadro
+para que recuerdes los buenos tiempos del pueblo. Eres mi amigo, siempre me
+acordaré de ti.
+El capitán miró de soslayo y se fijó en la
+mujer negra. Su sonrisa era medio ingenua, medio maliciosa.
+—Vete —dijo de pronto.
+Michele se acercó más y se agachó para ver el
+rostro del capitán.
+—¿Quieres que me vaya? —Sonaba desgraciado—.
+Me salvaste la vida. Esa noche me porté como un tonto. Pero es que estaba
+pensando en mi ofrenda a la madonna... Como un tonto, yo mismo te lo digo.
+Estaba borracho y cuando estamos borrachos somos como tontos.
+—Que te vayas —insistió el capitán.
+La venda blanca permaneció inmóvil un
+momento. Luego se inclinó en una reverencia.
+Michele se volvió hacia la puerta.
+—Y llévate ese maldito cuadro.
+Silencio. Luego, en la penumbra, el capitán
+vio que Michele cogía el cuadro, agachando la cabeza en actitud de profunda
+obediencia. Después estiró el cuerpo y se puso firme, sosteniendo la pintura en
+un brazo y con el otro rígido, paralelo al cuerpo. Al fin le dirigió un saludo
+militar.
+—Sí, señor —dijo.
+Se dio la vuelta y se encaminó a la puerta
+con su cuadro.
+El capitán se quedó quieto. Sentía... ¿qué
+sentía? Un dolor bajo las costillas. Le costaba respirar. Se dio cuenta de que
+era desdichado. Sí, una terrible desdicha lo estaba invadiendo lenta, muy
+lentamente. Era desdichado porque Michele se había ido. Nada había herido tanto
+al capitán en toda su vida como aquel burlón “sí, señor”. Nada. Se encaró hacia
+la pared y lloró. Pero en silencio. No se le escapó ni un sonido por temor a
+que lo oyeran las enfermeras.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

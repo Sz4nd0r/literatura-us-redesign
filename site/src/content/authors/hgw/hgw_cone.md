@@ -1,0 +1,118 @@
+---
+layout: story
+title: The Cone
+slug: hgw_cone
+source: https://www.literatura.us/idiomas/hgw_cone.html
+tags:
+  - hgw_cone
+  - hgw
+---
+H. G. Wells
+(Bromley, Kent, 1866 — Londres, 1946)
+El cono (1895)
+(“"The Cone”)
+Originalmente publicado en Unicorn (18 de septiembre de 1895);
+The Plattner Story and Others
+(Londres: Methuen & Co., 1897, 301 págs.)
+La noche era calurosa y oscura, el cielo ribeteado de rojo por la prolongada puesta del sol del verano. Ellos se sentaron ante la ventana abierta, tratando de imaginarse que el aire estaba más fresco allí. Los árboles del jardín se mantenían tiesos y sombríos: más lejos, en el camino, ardía un farol a gas, desparramando una luz anaranjada sobre el brumoso azul de la noche. Más allá se veían las tres luces de la señal ferroviaria contra el horizonte. El hombre y la mujer hablaban en voz baja.
+—¿No sospechará nada? —preguntó el hombre, algo inquieto.
+—¡No! —dijo ella bruscamente, como si eso la irritara—. No piensa en otra cosa que en las obras y en los precios del combustible. No tiene imaginación, ni sensibilidad.
+—Ninguno de esos hombres de acero las tienen —dijo él, sentenciosamente—. No tienen corazón.
+—Él no lo tiene —contestó ella, volviendo su rostro descontento hacia la ventana. Un distante y ronco sonido se fue acercando, cada vez más fuerte; la casa entera se conmovió. Ya se oía el metálico zumbar de la máquina. Cuando el tren pasó, se produjo un resplandor en el paisaje y luego lo siguió un espeso penacho de humo. Uno, dos, tres, cuatro, cinco, seis, siete, ocho rectángulos negros —ocho vagones— pasaron a través del profundo gris del terraplén y fueron desapareciendo, uno tras otro, en la garganta del túnel que, una vez que pasó el último, parecía haber tragado tren, humo y sonido de un ansioso bocado.
+—Este país fue una vez todo frescura y belleza —dijo el hombre—. Y ahora, es Gehena. Camino abajo, no se encuentra más que calderas y chimeneas lanzando fuego y hollín a la faz del cielo… Pero ¿qué importa? Ya se aproxima el fin… el fin de toda esta crueldad. Mañana —pronunció la última palabra en un murmullo.
+—Mañana —repitió ella en el mismo tono, sin apartar la vista de la ventana.
+—¡Querida! —dijo él tomándole las manos.
+Ella se volvió con un sobresalto y los ojos de ambos se buscaron. Los de ella se dulcificaron ante la mirada de él.
+—¡Amor mío! —murmuró; y luego—: Parece tan extraño que tú hayas penetrado en mi vida para descubrir…
+—¿Para descubrir?…
+—Todo este mundo maravilloso —agregó ella, vacilando—. Este mundo de amor ante mí.
+De repente la puerta chirrió, cerrándose. Volvieron la cabeza, él en forma violenta. En la penumbra de la habitación surgió una gran figura silenciosa. Ellos vieron el rostro en la media luz, un rostro con inexpresivas cejas oscuras. Todos los músculos del cuerpo de Raut se pusieron tensos: ¿Cuándo se había abierto la puerta? ¿Qué habría oído él? ¿Todo? ¿Qué habría visto? Un aluvión de preguntas.
+La voz del recién llegado se dejó oír al fin, después de una pausa que parecía interminable.
+—¿Y bien? —dijo.
+—Tenía miedo de no encontrarlo, Harrocks —dijo el hombre de la ventana. Su voz era insegura.
+La pesada figura de Harrocks salió de la sombra. No respondió a la observación de Raut. Permaneció un momento contemplándolos. El corazón de la mujer estaba helado.
+—Le dije a Mr. Raut que era muy posible que volvieras —dijo con voz firme.
+Harrocks, aún silencioso, se dejó caer en una silla y cruzó sus grandes manos. Se podía ver el fuego de sus ojos bajo la espesura de las cejas. Estaba tratando de reponerse. Sus ojos iban de la mujer en quien había confiado, al amigo en quien había confiado y luego otra vez a la mujer.
+Los tres casi se habían comprendido ya: sin embargo, ninguno osaba pronunciar una palabra que atenuara la incomodidad de la situación.
+Fue la voz del marido la que rompió, por fin, el silencio.
+—¿Usted quería verme? —dijo, dirigiéndose a Raut.
+Este se sobresaltó.
+—Vine a verlo —dijo, resuelto a mentir hasta el fin.
+—Sí —murmuró Harrocks.
+—Usted me prometió —continuó Raut— mostrarme algunos de los hermosos efectos producidos por la luz de la luna y el humo.
+—Yo prometí mostrarle algunos efectos producidos por la luz de la luna y el humo —repitió Harrocks con voz incolora.
+—Y yo pensé que tal vez podría encontrarlo a usted esta noche, antes de que volviera a las obras —prosiguió Raut— e ir con usted.
+Hubo otra pausa. ¿Pensaría tomar la cosa fríamente el hombre? ¿Sabía, después de todo? ¿Cuánto tiempo haría que estaba en la habitación? Sin embargo, cuando oyeron la puerta, sus actitudes…
+Harrocks miró el perfil de la mujer, pálido en la penumbra. Luego miró a Raut y pareció recobrarse súbitamente.
+—¡Pero es claro! —dijo—. Yo prometí mostrarle el obraje bajo sus propias condiciones dramáticas. Es raro que lo hubiera olvidado…
+—Si lo molesto… —comentó Raut.
+Harrocks se sobresaltó otra vez. Una nueva luz se divisaba ahora en la oscuridad de sus ojos.
+—No, en absoluto —dijo.
+—¿Le has estado describiendo a Mr. Raut todos esos contrastes de llamas y sombras que consideras tan bonitos? —preguntó la mujer volviéndose hacia su marido por primera vez, sintiendo renacer su confianza. Su voz estaba solamente medio tono más alta—. ¡Esa horrible teoría suya de que no existe nada más hermoso que las maquinarias!… Ya verá usted, Mr. Raut. Es su gran teoría, su único descubrimiento artístico.
+—Soy muy lento para hacer descubrimientos —dijo Harrocks en forma horrible, dejando aterrada a la mujer—. Pero lo que descubro… —Se detuvo.
+—¿Bien? —dijo ella.
+—Nada —contestó Harrocks levantándose—. Le prometí a usted mostrarle las obras —agregó, dirigiéndose a Raut y colocando su manaza en su hombro—. ¿Está dispuesto a ir?
+—Enteramente —contestó Raut poniéndose de pie.
+Se produjo otro silencio. Cada cual trataba de espiarse en la oscuridad. La mano de Harrocks descansaba aún sobre el hombro del amigo. Raut casi creía que el incidente había sido trivial, después de todo. Pero Mrs. Harrocks conocía mejor a su marido y comprendió el significado de la horrible calma de su voz. La confusión que reinaba en su mente asumió una vaga forma de locura.
+—Muy bien —dijo Harrocks, dejando caer su mano y dirigiéndose hacia la puerta.
+—¿Mi sombrero? —Raut miró en torno de la habitación.
+—Está en mi costurero —dijo ella, con risa histérica. Sus manos se unieron por detrás de la silla.
+—¡Aquí está! —dijo él. La mujer experimentó el impulso de prevenirlo, en voz baja, pero no pudo pronunciar palabra. «¡No vayas!» y «¡Cuídate de él!» lucharon en su mente y el minuto pasó.
+—¿Lo encontró? —preguntó Harrocks, manteniendo la puerta semiabierta. Raut fue hacia él.
+—Es mejor que le diga adiós a la señora —dijo el marido con una calma todavía más terrible.
+Raut se estremeció y luego se volvió.
+—Buenas noches, Mrs. Harrocks —dijo y sus manos se tocaron.
+Harrocks sostuvo la puerta abierta con una cortesía poco usual en él con los hombres. El otro salió y entonces, después de una silenciosa mirada a su esposa, Harrocks lo siguió. Ella se mantuvo inmóvil, mientras el paso ligero de Raut y el pesado de su marido se oían en el pasillo. La puerta de calle se cerró lentamente. Ella fue hacia la ventana y esperó, ansiosa. Los dos hombres aparecieron fugazmente en el camino, pasaron bajo el farol y fueron ocultados por las masas negras de los árboles. La luz iluminó momentáneamente sus rostros, revelando solamente manchas pálidas que no le dijeron nada de lo que aún tenía y se atormentaba nuevamente por saber. Entonces se sentó, abatida, en el gran sillón, los ojos abiertos, fijos en las luces rojas de los hornos, que se reflejaban en el cielo. Una hora después estaba todavía allí, su actitud escasamente cambiada.
+La agresiva quietud de la noche gravitaba sobre Raut, que caminaba junto a Harrocks, en silencio. Una niebla azul, mitad humo, mitad hollín, grandes moles grises y negras, delineadas débilmente por las raras manchas doradas de los faroles. Aquí y allá, una ventana iluminada, el amarillo resplandor de alguna fábrica mantenida en actividad hasta tarde, o algún despacho de bebidas. Fuera de las masas claras y esbeltas contra el cielo, se elevaban las altas chimeneas, casi todas humeantes. Algunas sombras fantásticas mostraban la posición de una hornalla gigantesca o una rueda, grande y negra contra el horizonte rojo. Más cerca estaba la ancha vía del ferrocarril, por donde huían trenes casi invisibles arrojando columnas de humo hacia el cielo. Y a la izquierda, entre la vía férrea y la gran mole del cerro, dominando el paisaje entero, colosales, negrísimos, coronados de humo y caprichosas llamas, se levantaban los enormes cilindros de la Jeddah Company y Blat Furnaces, los edificios centrales de las grandes fundiciones de acero, en donde Harrocks era gerente. Aparecían amenazadores, vomitando llamas, mientras en sus interiores hervía el acero derretido. A sus pies se oía el zumbido de los molinos y el pesado batir del martillo a vapor, que desparramaba al golpear, blancas chispas de acero. Un vagón lleno de combustible fue descargado al interior de uno de los colosos, produciendo una llamarada vivísima y una confusión de humo y hollín que ascendió rápidamente.
+—Realmente se pueden obtener magníficos efectos de color con esos hornos —dijo Raut, rompiendo un silencio que se había tornado incómodo.
+Harrocks contestó con un gruñido. Estaba parado con las manos en los bolsillos, contemplando, con el entrecejo arrugado, a la vía férrea y a las obras, como tratando de solucionar un problema intrincado.
+Raut lo miró y luego desvió la vista hacia la lejanía.
+—Todavía no se puede obtener el efecto de la luna —continuó—, está aún empalidecida por los vestigios del día.
+Harroks lo miró con la expresión de un hombre que ha despertado de pronto.
+—¿Vestigios del día?… Ah, claro, claro. —A su vez miró a la luna descolorida aún en el cielo de verano.— Venga —dijo de repente, y oprimiendo el brazo de Raut, comenzó a caminar a grandes pasos por el sendero que conducía a la vía. Raut forcejeó por retroceder. Los ojos de ambos se encontraron y en un segundo se comunicaron un montón de cosas que los labios se resistían a pronunciar. La mano de Harrocks se cerró aún más y luego aflojó la presión, dejando libre a Raut. Antes de que este se apercibiera de ello, caminaban, tomados del brazo, uno de ellos muy en contra de su voluntad, por el sendero.
+—Vea el hermoso efecto de las señales ferroviarias allá hacia Burslem —comenzó Harrocks, tornándose locuaz súbitamente y apretando el codo de Raut—. Pequeñas luces verdes, rojas y blancas, contra la bruma. Usted tiene golpe de vista para estas cosas, Raut. Y mire esos hornos míos cómo se elevan sobre nosotros a medida que bajamos el cerro. Allí, a la derecha, está mi preferido: setenta pies de altura. Lo he cargado yo mismo y por cinco largos años ha hervido alegremente el acero en sus entrañas. Sintiendo una particular predilección por él. Allá, a la izquierda, ¿ve usted las chispas que produce el martillo?, están los molinos. Oiga cómo repercuten en la tierra los golpes de martillo. ¡Venga!
+Tuvo que dejar de hablar para respirar. Su brazo oprimía el de Raut, estrechamente, y descendía el cerro a trancos presurosos y desordenados, como si estuviera poseído. Raut no había pronunciado una palabra: solamente se limitaba a resistir, con todas sus fuerzas, a los tirones de Harrocks.
+—¡Dígame! —exclamó al fin, riendo nerviosamente—. ¿Por qué diablos me arrastra en esta forma? ¿Y por qué me oprime tan fuertemente el brazo?
+Harrocks lo soltó. Sus maneras cambiaron nuevamente.
+—¿Le oprimía el brazo? —dijo—. Lo siento. Pero fue usted quien me enseñó a caminar en esa manera amistosa.
+—Todavía no ha aprendido esos refinamientos, entonces —contestó Raut, riendo forzadamente otra vez—. ¡Demonios! Estoy todo negro y azul. —Harrocks no se disculpó. Se detuvieron ahora a los pies del cerro, cerca de la empalizada que rodeaba la vía. Delante de ellos, al lado de la barrera, surgía un letrero que ostentaba la inscripción aún visible de: «Cuidado con los trenes».
+—Bellísimos efectos —dijo Harrocks—. Allí viene un tren. Los penachos de humo, el resplandor, el redondo ojo de luz al frente, el melodioso ronquido. ¡Muy lindo efecto! Pero esos hornos míos eran mucho mejores antes de que arrojáramos conos en sus gargantas, para aprovechar el gas.
+—¿Cómo? —preguntó Raut—. ¿Conos?
+—Conos, mi amigo, conos. Ya le mostraré uno. Antes, las llamas lanzaban fuera de las gargantas abiertas grandes columnas de humo, durante el día, y nubes de fuego y humo negro y rojo, por la noche. Ahora lo recogemos en tubos y los hacemos arder para calentar los hornos, cerrando sus bocas con un cono. Yo sé que le interesará ese cono.
+—Sin embargo, a veces se contemplan, allá arriba, verdaderas explosiones de fuego y humo.
+—Es que el cono no está fijo: está sujeto a una palanca por medio de una cadena, y se balancea gracias a un contrapeso. Ya lo verá de cerca. De otra manera, sería imposible arrojar combustible al interior del horno. De vez en cuando, el cono se introduce allí y recoge el vapor y las llamas.
+—Ya comprendo —dijo Raut, mirando sobre el hombro—. La luna ya está más brillante —agregó.
+—Venga —exclamó Harrocks abruptamente, oprimiendo de nuevo el hombro de Raut y conduciéndolo bruscamente hacia el cruce de la vía. Entonces se produjo uno de esos incidentes, vívidos, pero tan rápidos, que lo dejan a uno lleno de dudas. En la mitad del camino, Harrocks, volviéndose de súbito, empujó a Raut con fuerza, haciendo que este girara sobre sí mismo y quedara de frente a la vía. En eso, una larga cadena luminosa, formada por las ventanillas de los vagones, reverberó ligeramente al avanzar, y las luces rojas y amarillas de la locomotora se agrandaban cada vez más, abalanzándose hacia él. Al comprender lo que esto significaba se volvió hacia Harrocks y empujó con toda su fuerza el brazo que lo sostenía en medio de los rieles. La lucha no alcanzó a durar un segundo. Así como fue cierto que Harrocks lo sostuviera allí, no lo fue menos el que él mismo lo arrancara violentamente del peligro.
+—¡Ya salimos del paso! —dijo Harrocks, respirando aliviado, mientras veía pasar el tren.
+—No lo vi venir —contestó con calma Raut, tratando de aparentar una tranquilidad que no sentía—. Por un momento mis nervios flaquearon. —Harrocks se mantuvo inmóvil por un momento y luego, con brusquedad, se volvió hacia las fundiciones de acero.
+—¡Vea qué hermosos parecen en la oscuridad esos grandes baluartes formados de ladrillos amontonados! ¡Aquel vagón, más lejos, arriba nuestro! Por aquí se va hacia los hornos, pero quiero mostrarle antes el canal. —Así diciendo tomó de nuevo el brazo de Raut y caminaron juntos. Raut contestaba con vaguedad a las observaciones del otro. Se preguntaba qué sería lo que verdaderamente había sucedido en la vía férrea. ¿Se estaría atormentando con vanos temores o era que realmente Harrocks había querido arrojarlo al paso del tren? ¿Habría estado a punto de ser asesinado? ¿Y si ese monstruo supiera algo? Por un instante Raut temió seriamente por su vida; pero ese temor pasó cuando comenzó a razonar. Después de todo, Harrocks podía no haber oído nada. De cualquier manera, lo arrancó a tiempo de la vía. Su proceder extraño se debía, quizás, a los vagos celos que había demostrado una vez. Ahora hablaba del canal. —¿No es cierto? —decía.
+—¿El qué? —preguntó Raut—. ¡Ah!… ¡Qué hermoso! La luna entre la niebla.
+—Nuestro canal —dijo Harrocks deteniéndose de pronto—. Nuestro canal a la luz de la luna y del fuego produce un hermoso efecto. ¿Nunca lo había visto? ¡Claro que no! ¡Tantas noches que ha perdido vagando por Newcastle! Ya le digo: para efectos bellos… Pero ya verá usted. Agua hirviendo…
+A medida que se alejaban de los montones de carbón, ladrillos y minerales, los ruidos del molino resonaban sobre ellos, fuertes, cercanos y distintos. Tres trabajadores pasaron y se llevaron la mano a la gorra al ver a Harrocks. Sus rostros no se distinguían en la oscuridad. Raut experimentó el súbito impulso de dirigirse a ellos, pero antes de que pudiera formular una palabra, se alejaron entre la sombra. Harrocks señalaba ahora que se levantaban hasta cerca de cincuenta yardas, producían una constante sucesión de fantasmas negros y rojos, surgidos de los remolinos, en un incesante movimiento que hacía vacilar la cabeza. Raut se mantenía alejado del borde del canal y observaba a Harrocks.
+—Aquí es rojo —decía este—, vapor rojo sangre, tan rojo y ardiente como el pecado; pero más lejos, bajo los rayos de la luna, es tan blanco como la muerte.
+Raut volvió la cabeza y luego se apresuró a reanudar su vigilancia sobre Harrocks.
+—Vamos a los molinos —dijo este. Las intenciones que Raut creía notar en él no fueron tan evidentes esta vez y se sintió algo reanimado. Pero, de cualquier modo, ¿qué diablos habría querido significar al decir «blanco como la muerte» y «rojo como el pecado»? ¿Coincidencia, quizás?
+Llegaron a los molinos, donde, en medio de un incesante estrépito, el martillo automático extraía el jugo del suculento acero, y ennegrecidos y medio desnudos, titanes deslizaban las barras, plásticas como cera, entre las ruedas.
+—Venga —murmuró Harrocks al oído de Raut, conduciéndolo hasta uno de los hornos. Espiando por uno de los pequeños agujeros de vidrio de la parte baja, pudieron contemplar el fuego que crepitaba en el interior. El intenso resplandor los cegó momentáneamente. Luego fueron hacia el ascensor que servía para transportar los vagones cargados de combustible hacia la cima del gran cilindro.
+Una vez sobre la estrecha barandilla que se cernía sobre el horno, el temor volvió a asaltar a Raut. ¿Era prudente permanecer allí? ¿Y si Harrocks supiera todo? No pudo impedir un violento temblor. Justo debajo de ellos había una profundidad de setenta pies. Era un sitio peligroso. Tuvieron que empujar un vagón lleno de carbón, para llegar a la baranda que coronaba el lugar. El humo del horno parecía hacer ondular los distantes cerros de Hanley. El canal corría debajo de un puente que no se distinguía y desaparecía en la espesa niebla de Burslem.
+—Ese es el cono de que le hablaba —gritó Harrocks—. Y debajo, sesenta pies de metal derretido.
+Raut, sosteniéndose fuertemente del pasamanos, miró al cono. El calor era intenso y el hervor del acero acompañaba fragorosamente a la voz de Harrocks. Pero, «aquello» debía haber pasado ahora. Quizás, después de todo…
+—En el centro —gritaba Harrocks— hay una temperatura cercana a los mil grados. Si usted fuera arrojado allí… crepitaría entre las llamas como una pizca de pólvora en la llama de una vela. Y ese cono, allá… La superficie tiene una temperatura de trescientos grados.
+—¡Trescientos grados! —exclamó Raut.
+—Trescientos centígrados, quise decir. Eso haría hervir su sangre en un segundo.
+—¿Eh? —gritó Raut, volviéndose.
+—Hervir su sangre en menos de… ¡No! ¡Usted no se irá!
+—¡Déjeme! —gritaba Raut—. ¡Suelte mi brazo!
+Se asió desesperadamente a la baranda, con una mano y después con las dos. Por un momento los dos hombres estuvieron balanceándose. Luego Harrocks, con un violento empellón, desprendió a Raut de su sostén. Este pegó un manotón, tratando de apoyarse en Harrocks, pero falló y sus pies encontraron el vacío. Cayó retorciéndose en el aire y entonces, mejillas, hombros y rodillas golpearon conjuntamente la candente superficie del cono. Se prendió desesperadamente a la cadena que sujetaba el cono y al hacerlo, este se hundió imperceptiblemente. Un círculo rojo apareció a su alrededor y una llamarada libertada de entre el caos que reinaba en el interior ascendió hasta él. Comenzó a sentir un espantoso dolor en las rodillas y pudo percibir el olor a chamuscado que despedían sus manos. Penosamente se puso de pie, tratando de escalar la cadena, y algo le golpeó en la cabeza. Harrocks permanecía en la barandilla, al lado del vagón de combustible, gesticulando y gritando:
+—¡Hierve, loco! ¡Hierve, cazador de mujeres! ¡Hierve! ¡Hierve!
+De pronto sacó un puñado de carbones del camión y los fue arrojando deliberadamente, uno por uno, a la cabeza de Raut.
+—¡Harrocks! —gemía este—. ¡Harrocks!
+Sollozando, se asía a la cadena con ambas manos, tratando de escapar al terrible calor del cono. Sus ropas comenzaron a inflamarse y mientras forcejeaba, el cono cayó: una sofocante ola de calor comenzó a rodearlo y tremendas lenguas de fuego se abalanzaron hacia él.
+Todo vestigio de apariencia humana había desaparecido de Raut. Cuando el resplandor momentáneo pasó, Harrocks vio una figura ennegrecida y achicharrada, con la cabeza cubierta de sangre, aún luchando en medio de su agonía. Un animal reducido casi a cenizas, una inhumana y monstruosa criatura que comenzó a exhalar un sollozante e interminable chillido.
+A la vista de semejante espectáculo, el odio de Harrocks se fue apaciguando. Un horrible malestar comenzó a invadirlo. El olor de la carne quemada llegaba, penetrante, hasta él y su locura desapareció.
+—¡Dios tenga piedad de mí! —gritó—. ¡Oh, Dios! ¿Qué he hecho? —Sabía que «la cosa» que aún estaba debajo, aunque se movía y sentía, era ya un hombre muerto, y que toda la sangre estaría hirviendo en las venas. Una inmensa piedad hacia la agonía horrible del desgraciado comenzó a desalojar de su mente cualquier otro sentimiento. Se detuvo, algo indeciso y luego, volviéndose hacia el vagón, volcó presuroso su contenido sobre lo que una vez había sido un hombre. El chillido cesó y una hirviente confusión de humo, polvo y llamas se levantó hacia él. Cuando pasó, pudo ver el cono, despejado otra vez.
+Luego, bamboleándose, volvió a tomarse fuertemente del pasamanos. Sus labios se movieron, pero no pudieron formular una palabra.
+Abajo, se oía un rumor de voces y de pasos rápidos. El fragor del molino cesó bruscamente.
+Literatura
+.us
+Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar
