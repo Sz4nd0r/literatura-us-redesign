@@ -129,6 +129,3 @@ A la mañana siguiente quiso acompañarlo en carroza hasta la clínica y, al des
 Esperó dos días, con un ansia terrible, el resultado de la operación. Cuando supo que era positivo, esperó un poco más en la casa vacía; se la preparó amorosamente, haciendo que a él —que exultante la quería allí, incluso por un minuto— le dijeran que tuviera un poco más de paciencia; no iba para no alterarlo; el médico no permitía…
 ¿Sí? Pues bien, entonces iría…
 Recogió sus pertenencias, y el día antes de que él dejara la clínica, partió, a escondidas, para permanecer al menos en la memoria de él como una voz, que tal vez él, salido ahora de su oscuridad, buscaría en muchos labios, en vano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

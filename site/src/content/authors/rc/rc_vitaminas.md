@@ -247,6 +247,3 @@ Yo no podía soportar más aquella noche.
 Se me cayó algo del armario de las medicinas. Empezaron a caer cosas al lavabo.
 —¿Dónde están las aspirinas? —pregunté.
 Se cayeron más cosas. No me importaba. Todo se venía abajo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -68,6 +68,3 @@ Veíase claramente que aquella carrera no dependía de la voluntad del caballero
 La furia de la tempestad cesó de inmediato, siendo sucedida por una profunda y sorda calma. Blancas llamas envolvían aún el palacio como una mortaja, mientras en la serena atmósfera brillaba un resplandor sobrenatural que llegaba hasta muy lejos; entonces una nube de humo se posó pesadamente sobre las murallas, mostrando distintamente la colosal figura de… un caballo.
 Notas:
 [1] En L’an deux mille quatre cents quarante, Mercier defiende seriamente la doctrina de la metempsicosis, y J. d’Israeli afirma que «no hay ningún sistema tan sencillo y que repugne menos a la inteligencia». Se dice asimismo que el coronel Ethan Allen, «el muchacho de las Montañas Verdes», era asimismo un firme convencido de la metempsicosis.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

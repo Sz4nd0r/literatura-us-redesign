@@ -62,6 +62,3 @@ Alguien golpeó.
 —Avanti —indicó George, mirando por encima del libro.
 En la puerta estaba la sirvienta. Traía un gran gato de color de carey que pugnaba por zafarse de los brazos que lo sujetaban.
 —Con permiso —dijo la muchacha—. El padrone me encargó que trajera esto para la signora.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

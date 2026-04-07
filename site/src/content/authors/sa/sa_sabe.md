@@ -41,6 +41,3 @@ Cruzaron el puente que pasaba sobre un pequeño riachuelo y atravesaron otro cam
 Cuando George Willard volvió a la calle Mayor eran más de las diez y había empezado a llover. Recorrió la calle tres veces arriba y abajo. La farmacia de Sylvester West todavía estaba abierta y George entró y compró un cigarro. Cuando Shorty Crandall, el dependiente, lo acompañó a la puerta se sintió satisfecho. Los dos estuvieron cinco minutos charlando al resguardo de la marquesina. George Willard estaba contento. Le apetecía mucho hablar con alguien. Se encaminó silbando despacio hacia el New Willard House, que estaba a la vuelta de la esquina.
 En la acera, junto a la tienda de telas de Winney, había una alta valla de tablones cubierta de carteles de circo, se detuvo silbando y se quedó muy quieto en la oscuridad, atento, como si tratase de oír una voz que lo llamara por su nombre. Luego volvió a soltar una risa nerviosa.
 —No tiene nada contra mí. Nadie lo sabe —murmuró con determinación y luego siguió su camino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

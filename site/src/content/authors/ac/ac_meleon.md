@@ -44,6 +44,3 @@ Ochumélov gira a la izquierda y se encamina al lugar de la reunión. Junto a la
 —Vaya por Dios… Echaba de menos a su hermanito… ¡Y yo sin saberlo! ¿Así que este perro es suyo? Estupendo… Cógelo… Menudo ejemplar… Es muy vivaracho… ¡Le ha dado un mordisco en el dedo a ése! ¡Ja, ja, ja! Bueno, ¿por qué tiemblas? Rrr… rr… Está enfadado el muy bribón… Qué cachorro más bonito…
 Prójor llama al perro y se aleja con él del almacén de madera… El gentío se ríe a carcajadas de Jriukin.
 —¡Todavía tengo que ajustar cuentas contigo! —le dice Ochumélov, amenazándole, y, tras envolverse en su capote, sigue su camino por la plaza del mercado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

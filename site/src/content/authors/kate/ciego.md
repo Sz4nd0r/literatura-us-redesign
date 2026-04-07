@@ -26,6 +26,3 @@ Entonces ocurrió algo – algo horrible que hizo que las mujeres se desmayaran 
 ¿De dónde salió la multitud tan de repente, como si fuera por arte de magia? Chavales corriendo, hombre y mujeres arrancándose de sus vehículos para ver este espeluznante espectáculo: médicos apresurándose en calesas como guiados por la Providencia.
 Y el horror creció cuando la multitud reconoció en la figura muerta y aplastada a uno de los hombres más ricos, más valiosos y más influyentes de la ciudad, un hombre conocido por su prudencia y su previsión. ¿Cómo había podido ser alcanzado por una fatalidad tan terrible? Tenía prisas, después de haber salido con retraso de su trabajo, para reunirse con su familia, que, una hora o dos más tarde, iba a viajar a su casa de verano en la costa atlántica. Con las prisas, no se dio cuenta de que otro coche venía en sentido contrario, y la común y terrible escena se repitió.
 El ciego no supo la razón del alboroto. Había cruzado la calle, y ahí estaba, avanzando dando traspiés bajo el sol, arrastrando sus pies a lo largo del bordillo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

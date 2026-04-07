@@ -31,6 +31,3 @@ Misha recogió toda aquella basura y la fue echando en una hoja de periódico.
 —Desde luego. Pesa libra y media. Y eso no contando lo que, por descuido, me habré tragado y digerido, que no será menos de cinco o seis libras…
 Misha levantó cuidadosamente la hoja de periódico, contempló admirado la colección durante un instante, y la volvió a echar en el cajón.
 Yo cogí el vaso y me puse a tomarme el té, sin volver a pedir que mandara por pan.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

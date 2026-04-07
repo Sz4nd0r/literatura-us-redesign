@@ -119,6 +119,3 @@ La chica cerró los ojos; luego los abrió. Pegó la cara contra el hombro del h
 Semanas después, la chica explicó:
 —El tipo era de edad mediana. Todas sus cosas estaban por allí, en el jardín. No miento. Estábamos trompas y nos pusimos a bailar. En la entrada de los coches. Oh, Dios. No se rían. Nos puso discos. Mira este tocadiscos. El viejo nos lo regaló. Y todos esos discos de mierda. ¿Han visto esta mierda?
 Siguió hablando. Se lo contó a todo el mundo. Tenía muchos más detalles que contar, e intentaba que se hablara de ello largo y tendido. Al cabo de un rato dejó de intentarlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

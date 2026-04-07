@@ -261,6 +261,3 @@ Se negó resueltamente a mirarla: sospechaba que se había contoneado y había u
 —¡Basil!
 El corazón le dio un brinco vertiginoso en el pecho. Casi veía, de reojo, cómo Minnie lo miraba, esperándolo. ¿Estaba arrepentida? ¿Debería aprovechar la oportunidad, y mirarla, y rogarle: “Minnie, dile a ese idiota que se tire al río, y vuelve a mí”? Dudaba, pero le volvió a la cabeza una idea que le había ayudado aquella tarde: Aquel día ya había cometido todos los errores posibles. En lo más hondo de Basil el ruego expiró lentamente.
 Jubal el insoportable se acercó con aire posesivo, y el corazón de Basil se fue girando por la pista de baile vestido de seda rosa. Perdido de nuevo en una nube de indecisión, salió a la terraza. El aire presagiaba las primeras nieves y las estrellas parecían heladas. Pero, mirándolas, vio que eran sus estrellas de siempre: símbolos de ambición, lucha y gloria. El viento soplaba a través de ellas, trompeteando esa nota limpia y aguda que siempre oía, y desfilaban las nubes sutiles, sin peso, listas para la batalla. La escena era de una brillantez y magnificencia incomparables, y sólo la mirada experta del capitán descubrió que faltaba una estrella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

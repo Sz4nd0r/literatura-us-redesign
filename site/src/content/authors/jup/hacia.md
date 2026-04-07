@@ -152,6 +152,3 @@ Aquel invierno, en el internado, Dickie había aprendido que era posible vivir s
 Richard se inclinó a besar el rostro apartado de su hijo, pero Dickie se volvió brusca y enérgicamente, con las mejillas húmedas, y lo abrazó y lo besó en los labios, apasionadamente, como una mujer. Y deslizó en el oído de su padre una pregunta quejumbrosa, la pregunta crucial e inteligente:
 —¿Por qué?
 Por qué. Era un silbido de viento en una grieta, una cuchillada, una puerta abierta de golpe hacia el vacío. La blanca cara había desaparecido; la oscuridad carecía de facciones. Richard había olvidado por qué.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

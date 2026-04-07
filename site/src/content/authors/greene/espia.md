@@ -25,6 +25,3 @@ Pero al moverse escuchó pasos en la calle, el sonido de varios hombres caminand
 —No se molesten. Está en ese gancho. Ya estoy listo. El otro hombre dijo avergonzado: “¿No quiere hablar con su esposa?”. La voz delgada estaba decidida: “Yo no, no hagas hoy lo que puedas dejar para mañana. Ya tendrá su oportunidad después, ¿o no?”.
 —Sí, sí —dijo uno de los desconocidos y se mostró animado y alentador—. No se preocupe demasiado. Mientras haya vida… —y de repente su padre intentó reírse.
 Cuando la puerta se había cerrado, Charlie Stowe subió de puntillas y se metió en la cama. Se preguntaba por qué su padre había vuelto a salir de casa tan noche y quiénes eran esos extraños. La sorpresa y el temor lo mantuvieron despierto por un breve rato. Era como si una fotografía familiar se hubiera salido de su marco para reprocharle a él su negligencia. Recordaba como su padre había agarrado fuertemente el cuello de su camisa, fortaleciéndose con proverbios, y pensó por primera vez que mientras su madre era bulliciosa y cordial, su padre era mucho como él, haciendo cosas en la oscuridad que le daban miedo. Le hubiera gustado bajar con su padre y decirle que lo amaba, pero pudo oír a través de la ventana los pasos rápidos alejarse. Estaba solo en casa con su madre y se quedó dormido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

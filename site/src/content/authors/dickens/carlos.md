@@ -53,6 +53,3 @@ Por fin llegaron junto a mi silla, y una vez más profirieron su terrible aullid
 —¡Aquí se esconde algún turbio misterio! —dijo el oficial a quien no conocía, desenvainando su espada—. ¡En nombre del Rey Carlos, ayudadme a prender a este hombre!
 Ambos cayeron sobre mí y me apartaron, aun cuando yo luché, les mordí y agarré como un demente. Pasada la pelea, lograron mantenerme inmóvil entre los dos y entonces, ¡Dios mío!, vi a los perros furiosos escarbando en la tierra y arrojándola a montones por el aire.
 ¿Qué más puedo decir? Que caí de rodillas y, castañeteándome los dientes, confesé la verdad y rogué ser perdonado. Que desde entonces he negado y confesado una y otra vez. Que he sido juzgado por el crimen, declarado culpable y sentenciado. Que no tengo valor para anticiparme a mi suerte, ni para enfrentarme con ella como un hombre. Que no tengo compasión, ni consuelo, ni esperanza, ni amigos. Que mi mujer, afortunadamente, ha perdido las facultades que le hubieran permitido conocer mi desgracia o la suya. ¡Que estoy solo, en esta mazmorra de piedra, con mi alma diabólica, y que mañana moriré!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -310,6 +310,3 @@ Míster Kelley volvió a atragantarse.
 —¡Ay, señor Kelley! —exclamó el general, con
 sentimiento y para terminar—. ¿Ha comido usted alguna vez la carne asada que
 prepara madame O’Brien?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

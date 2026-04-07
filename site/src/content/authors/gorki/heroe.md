@@ -87,6 +87,3 @@ Se levanta y se va, haciendo resonar con violencia su pierna de madera contra el
 Vive en un rincón, detrás de la estufa, en casa de un cincelador.
 De regreso en casa, trepa a este ángulo estrecho y asfixiante pero caliente, y, si no ha conseguido referir a nadie su historia, gruñe:
 —¡Ah, malditos! ¡Debieron escucharme!... ¡Pero no!... ¡Ah malditos!...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

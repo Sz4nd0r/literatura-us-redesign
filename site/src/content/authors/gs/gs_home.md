@@ -473,6 +473,3 @@ Los márgenes del desastre inminente se ensancharon hasta incluir la muerte de t
 Me ardía la cara y pensé vamos, vamos, vamos.
 Ma intentó levantarse de la mecedora del porche, sin éxito. Ryan la sostuvo por el codo y la ayudó, todo un caballero.
 Entonces, de pronto, algo se reblandeció en mi interior, quizá al ver a Ma tan débil, y bajé la cabeza y caminé dócilmente hacia esa muchedumbre de ignorantes, pensando: está bien, está bien, vosotros me enviasteis, ahora traedme de vuelta. Encontrad una manera de traerme de vuelta, malditos, o vais a ser los cabrones más arrepentidos que el mundo ha conocido jamás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

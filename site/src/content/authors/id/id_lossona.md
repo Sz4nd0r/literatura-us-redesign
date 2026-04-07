@@ -608,6 +608,3 @@ Said, que había permanecido durante todo el tiempo en silencio, sonrió débilm
 —¿Al venir el alba? —dijo Mira—. Entonces yo voy a dormir por lo menos una o dos horas.
 Bajó a cubierta, se tapó con su capa hasta la cabeza y se echó a dormir, inmóvil como un cadáver.
 Lincoln siguió sentado. Fumó un cigarrillo, luego otro… Por fin también se echó a dormir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -520,6 +520,3 @@ sacada de allí algún tiempo después por un patriota sin prejuicios
 que la amaba por su bella acción. Después, habiéndola querido por sí
 misma, la desposó, convirtiéndola en una dama que valía tanto como
 muchas otras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

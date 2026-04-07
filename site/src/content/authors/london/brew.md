@@ -99,6 +99,3 @@ Thomas Stevens sonreía tranquilamente cuando encendió el quinto cigarrillo, en
 —Pero ¿cómo quedó la gente de Tattarat? —le pregunté—. ¿No fue una crueldad abandonarles con el hambre?
 Y Thomas Stevens, riendo, entre dos espirales de humo, contestó:
 —¿No les quedaron los perros cebados?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

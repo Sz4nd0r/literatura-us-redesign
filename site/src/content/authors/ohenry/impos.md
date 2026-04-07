@@ -149,6 +149,3 @@ El Niño se guardó el revólver y se dirigió hacia la puerta. Antes de llegar 
 Fuera, el antiguo landó de Santós Urique se detuvo an la puerta. El cochero cesó en sus vociferaciones. La señora Urique, con un voluminoso vestido de encaje blanco ornado con cintas, apareció en la estancia. Una expresión de dicte se pintaba en sus ojos pardos.
 —¿Vienes, hijo? —preguntó en su melodioso castellano.
 —Ya voy, madre mía —respondió el joven don Francisco Urique.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

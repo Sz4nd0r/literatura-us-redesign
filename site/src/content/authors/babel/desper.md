@@ -64,6 +64,3 @@ El picaporte saltó; quedaba un pestillo retenido por un solo clavo. Las mujeres
 Mi padre gimió. Escuché sus pasos que se alejaban. El pestillo colgaba del último clavo.
 Seguí en mi fortaleza hasta la noche. Cuando todos se acostaron, mi tía Bobka me llevó a casa de la abuela. Teníamos que caminar un largo trecho. La luz lunar quedó plasmada en arbustos ignotos, en árboles sin nombre… Un pájaro invisible silbó y se apagó, quizá quedó dormido… ¿Qué pájaro era aquél? ¿Cómo se llamaba? ¿Cae el rocío al anochecer?… ¿Dónde está la Osa Mayor? ¿Por qué parte sale el sol?…
 Íbamos por la calle Pochtóvaya. Bobka me sujetaba fuertemente de la mano para que no me escapara. Tenía razones. Yo pensaba en la fuga.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

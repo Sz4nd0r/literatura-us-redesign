@@ -186,6 +186,3 @@ Bajaron los últimos escalones.
 El oficial subió, puso en marcha el motor. Mientras tanto la mujer corría a abrir la verja y se afanaba separando las dos hojas. El coche pasó marcha atrás y salió a la calle. Entonces, de repente, ella recordó cuando, tras haber abierto la verja, había ido a mirar el gallinero; y junto con el oficial había asistido al amor de los pollos. ¡Qué digna e hinchada había estado la gallina antes del amor! ¡E igualmente cuán digna e hinchada había estado después del amor! Del amor se había librado muy pronto: una sacudida de plumas, y ya está. Pero al mismo tiempo le había parecido falsa aquella dignidad, despreciable aquella sacudida de las plumas.
 Se estremeció al oír que el coche se alejaba en la noche. Cerró la verja, una hoja después de la otra, y se dirigió hacia la puerta. “Con dignidad y sacudiendo las plumas”, pensó al entrar en la casa.
 (1946)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

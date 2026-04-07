@@ -65,6 +65,3 @@ V
 A Clarisse le encantó recibir la
 carta de su marido. Ella y los niños lo estaban pasando bien. La compañía era agradable: muchos de sus viejos amigos y conocidos estaban en la bahía. Y el primer soplo de libertad desde su matrimonio parecía haberle devuelto la deliciosa independencia de sus tiempos de soltera.
 Dedicada a su marido como estaba, su vida conyugal íntima era algo a lo que estaba deseando renunciar una temporada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

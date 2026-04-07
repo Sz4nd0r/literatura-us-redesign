@@ -40,6 +40,3 @@ Doña Frozina, llena de artimañas. Quédese con su Leche de Rosas, Io me ne vad
 P. D. Busque en el diccionario lo que quiere decir maniganças. Pero le adelanto el trabajo. Manigança: prestidigitación; maniobra misteriosa; artes de encantamiento. (Del Pequeño diccionario brasileño de la Lengua portuguesa.) Un detalle antes de acabar:
 Doña Frozina, cuando era pequeña, allá, en Sergipe, comía en cuclillas detrás de la puerta de la cocina. No se sabe por qué.
 Onde estivestes de noite (1974)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

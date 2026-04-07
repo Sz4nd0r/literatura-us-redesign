@@ -129,6 +129,3 @@ Notas:
 [1]. La sensibilidad de una época no sólo es su aspecto más decisivo, sino también el más constituyente. Se pueden aprehender las ideas (historia intelectual) y la conducta (historia social) de una época sin percibir jamás la sensibilidad ni el gusto que
 conformaron dichas ideas, dichas conductas. Son raros los estudios históricos —como los de Huizinga sobre la Baja Edad Media o los de Febvre sobre el siglo XVI francés— que nos dicen algo sobre la sensibilidad del período.
 [2]. La frase de Sartre en Saint Genet es “Elegancia es la cualidad de la conducta que transforma la mayor cantidad de ser en apariencia”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

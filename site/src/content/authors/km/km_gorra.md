@@ -72,6 +72,3 @@ Ella: ¿Qué ocurre?
 Él: Alma mía, estás sentada encima de mi gorra. (Ella da un grito terrible, se levanta y va corriendo a la alcoba. Él sale. Después que ha pasado un ratito, ella se pone el velo y coge la maleta.)
 (En el taxi)
 Ella: Sí, a la estación de Waterloo. (Se recuesta en el respaldo.) ¡He podido huir! ¡He podido huir! Tendré el tiempo justo para alcanzar el tren de la tarde. Uf, ha sido como una pesadilla. Estaré en casa antes de la hora de cenar. Le diré que hacía mucho calor en la ciudad o que no encontré al dentista. ¿Qué más da? Tengo derecho a tener un hogar propio... Y el viaje de vuelta va a ser delicioso. Huele tan bien la campiña. Tenemos para cenar el pollo frío que quedó de ayer y mermelada de naranja. Había perdido la cabeza, pero ahora he vuelto a ser cuerda. ¡Ay, marido mío!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

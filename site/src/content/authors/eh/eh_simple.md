@@ -55,6 +55,3 @@ Pinin seguía de pie junto a la litera.
 —¿Desea algo de mí, signor maggiore?
 —No —dijo el comandante—. Vete y sigue con lo que hacías. Deja la puerta abierta cuando salgas.
 Pinin salió y dejó la puerta abierta. El ayudante lo miró cuando cruzó la habitación con aire avergonzado y salió por la puerta. Pinin se había sonrojado y se movía de una manera diferente a cuando había llevado la leña. El asistente lo vio alejarse y sonrió. Pinin llevó más leña para la estufa. El comandante, echado en su litera, mirando su casco forrado de tela y sus gafas de sol que colgaban de un clavo de la pared, le oyó caminar por la habitación de al lado. El muy pillastre, se dijo, me pregunto si me habrá mentido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

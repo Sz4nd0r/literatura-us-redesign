@@ -80,6 +80,3 @@ Mientras todo era desarmado y empacado, Alfredo pudo comprobar (y ya se llevaban
 De repente, en el sitio donde se elevara una imponente residencia, no había más que un terraplén polvoriento en el centro del cual Alfredo, aún perplejo, no encontraba (puesto que no existía) el sendero que lo llevase a la ciudad. Al azar empezó a caminar por aquel páramo mientras pensaba en su cuento inconcluso. Pero un entusiasmado ladrido lo sacó de su ensimismamiento.
 Alfredo echó a correr desesperado, pero la perra San Bernardo, que era evidentemente más atlética que el escritor, le dio rápido alcance y, derribándolo, comenzó a lamerle la cara. Una inesperada sensación de alegría invadió a Alfredo al reconocer que aquella lengua era real. Recuperándose se puso de pie y, seguido por la fiel Narcisa, a la que él ya acariciaba, abandonó el lugar.
 Miami Beach, abril de 1986
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

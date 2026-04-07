@@ -86,6 +86,3 @@ Fiódor sacudió la cabeza y se ocupó de las botas. El cliente pasó un buen ra
 —¿En qué se ocupa usted, señor?
 —Preparo bengalas y cohetes. Soy pirotécnico.
 Carruajes y trineos con mantas de piel de oso se desplazaban en una y otra dirección. Por la acera paseaban comerciantes, señores y oficiales, junto con gente sencilla… Pero Fiódor ya no tenía envidia de nadie y no se quejaba de su suerte. Ahora pensaba que el destino de ricos y pobres era igualmente desdichado. Los unos podían ir en carro, los otros cantar con todas sus fuerzas y tocar el acordeón, pero a todos les esperaba la misma tumba. Nada había en la vida por lo que mereciera la pena entregar al diablo ni siquiera una pequeña parte del alma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

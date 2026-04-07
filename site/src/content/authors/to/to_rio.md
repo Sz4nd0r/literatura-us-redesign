@@ -102,6 +102,3 @@ Poco después el anciano enrolló el sedal e hizo girar el bote de regreso a Min
 No recuerdo haberme despedido. Aquella última noche cenamos juntos y me fui a la cama temprano, y por la mañana Elroy me preparó el desayuno. Cuando le dije que me iba, el viejo asintió como si ya lo supiera. Bajó los ojos hacia la mesa y sonrió.
 En algún momento de la mañana, más tarde, es posible que nos estrecháramos la mano —no lo recuerdo, eso es todo—, pero lo que sí sé es que cuando terminé de hacer el equipaje, el anciano había desaparecido. A eso del mediodía, cuando llevé la maleta al coche, vi que su vieja camioneta negra no estaba estacionada frente a la casa—. Entré y esperé un rato, pero tenía la absoluta certeza de que no regresaría. En cierto sentido, pensé, era lo adecuado. Lavé la vajilla del desayuno, dejé sus doscientos dólares sobre el mármol de la cocina, me metí en el coche y conduje hacia el sur, de vuelta a casa.
 El día estaba nublado. Atravesé pueblos con nombres familiares, bosques de pinos y la pradera, y llegué a Vietnam, donde fui soldado, y después regresé a casa. Sobreviví, pero no es un final feliz. Fui un cobarde. Fui a la guerra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

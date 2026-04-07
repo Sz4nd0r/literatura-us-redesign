@@ -102,6 +102,3 @@ Al cabo de un rato me marché también yo. Ya había salido el sol y la niebla d
 El terror de Dmitri Petróvich, que no se me iba de la cabeza, se apoderó también de mí. Pensaba en lo que había sucedido y no entendía nada. Miré los grajos y encontré extraño y terrible que volasen.
 —¿Por qué lo he hecho? —me preguntaba, desconcertado y desesperado—. ¿Por qué todo ha sucedido precisamente así y no de otra manera? ¿Qué necesidad había de que ella se enamorara de mí con toda su alma y él viniera a mi habitación a buscar su gorra? ¿Y qué hacía allí la gorra?
 Ese mismo día partí para San Petersburgo. Desde entonces, no he vuelto a ver a Dmitri Petróvich y a su esposa. Dicen que siguen viviendo juntos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

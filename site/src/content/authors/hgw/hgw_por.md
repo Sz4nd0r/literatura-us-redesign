@@ -87,6 +87,3 @@ La impresión que tenía Bailey era de que el malayo había tardado en torno a u
 El malayo agarró el cris, intentó levantarse con la mano izquierda y se desplomó. Luego levantó la cabeza, miró un momento fijamente a la señora Green y, retorciendo la cara hacia atrás, miró a Bailey. Con un jadeante quejido, el moribundo logró asir las ropas de la cama con la mano inutilizada y, mediante un violento esfuerzo que produjo un daño extraordinario a Bailey en las piernas, se retorció lateralmente en dirección a la que debía ser su última víctima. Entonces algo pareció desatarse en la mente de Bailey y éste estrelló el segundo frasco con todas sus fuerzas contra la cara del malayo. El cris cayó pesadamente al suelo.
 —Cuidado con esas piernas —dijo Bailey cuando el joven Fitzgibbon y uno de la tripulación del barco le quitaron el cuerpo de encima.
 El joven Fitzgibbon tenía la cara muy pálida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

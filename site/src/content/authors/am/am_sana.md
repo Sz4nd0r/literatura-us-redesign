@@ -129,6 +129,3 @@ Hubiera querido ver de nuevo la mueca llorosa, oír nuevamente la voz quejumbros
 Salió del cuarto y del apartamento y bajó por las escaleras hasta el portón del edificio. Se detuvo bajo el umbral, indeciso, y se puso a escuchar el tañido de la campana de una iglesia vecina, que retumbaba en el silencio del barrio desierto. “Las diez y media”, pensó.
 “Todavía tengo tiempo para meterme en un cine.” Esta idea le gustó, lo entusiasmó, sin que ni él mismo supiera por qué. Sentía un insaciable deseo de la promiscua oscuridad poblada de aventuras fáciles y de paisajes lejanos. “Que María Teresa se vaya al diablo”, pensó al fin; y esforzándose para dominar el profundo malestar que lo oprimía, cerró tras de sí el portón y se encaminó hacia el centro de la ciudad.
 (1927)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

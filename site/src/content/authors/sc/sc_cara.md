@@ -81,6 +81,3 @@ En poco tiempo, solo quedó a la vista el rostro azulado. Lean llenó de nuevo l
 El asistente comprendió. Hasta los labios se le pusieron lívidos.
 —¡Sigue, hombre, sigue! —exclamó, suplicante, casi gritando.
 Lean balanceó la pala hacia atrás. Esta se adelantó curvada como un péndulo. Cuando la tierra cayó, hizo un ruido: ¡plaf!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

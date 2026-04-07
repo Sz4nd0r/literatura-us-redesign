@@ -268,6 +268,3 @@ Dos días más tarde pregunté por él al director del manicomio.
 —Así es —dije—. ¿Por casualidad sabe usted si llevaba algo encima cuando murió?
 —No, que yo sepa —respondió el director.
 Y así quedaron las cosas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -67,6 +67,3 @@ Como dijera antes, soñé que yo me hallaba cerca de una multitud de ángeles de
 —¿Quiénes son? —pregunté.
 —Caramba —dijo él—. Son los hombres que contratan a muchachas trabajadoras y les pagan cinco o seis dólares por semana para que vivan con esa paga. ¿Es usted uno de ese grupo?
 —No, por su inmortalidad —le respondí—. Yo no soy más que un individuo que prendió fuego a un asilo de huérfanos, y asesinó a un ciego para robarle sus monedas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

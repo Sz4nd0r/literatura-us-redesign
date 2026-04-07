@@ -31,6 +31,3 @@ Ahora, tenían que mandar recado, al pueblo, para que hicieran el cajón y apron
 Ahí, entonces, Tiantonia se hizo de valor, precisaba contar: que aquel día, del arco iris de la lluvia, del pajarito, Ñiñiña había dicho un despropositado desatino, por eso la había regañado. Lo que fue: que quería un cajoncito rosado, con adornos verdes brillantes... ¡El agüero! Ahora, ¿era para encargarse el cajoncito, así, su voluntad?
 El Padre, en bruscas lágrimas gritó: ¡que no! Ah, que si consintiera en eso sería cargar culpa, todavía estar ayudando a morir a Ñiñiña.
 La Madre quería, empezó a discutir con el Padre. Pero, en lo más fuerte del llanto se serenó –la sonrisa tan buena, tan grande– detenida en un pensamiento: que no era necesario encargar, ni explicar, pues habría de salir bien así, de ese modo, color rosado con verdes funebrillos porque era; tenía que ser: por el milagro, el de su hijita en gloria, Santa Ñiñiña.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

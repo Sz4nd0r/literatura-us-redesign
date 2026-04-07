@@ -226,6 +226,3 @@ Cortines y Pharoux se van a la cocina a freírse unos huevos.
 Ahora comen huevos con jamón y beben cerveza. Lo que más les gusta a los viejos es comer. Y Pharoux y Cortines están felices y satisfechos como si el objeto de nuestro motín fuera comer huevos con jamón. Tal vez, stricto sensu, se pueda decir esto, que el objetivo de toda revolución es más comida para todos. Pero en aquel momento estábamos sólo saqueando la nevera del Director de un asilo de ancianos denominado Hogar por la hipocresía oficial.
 Sólo como un pedazo de pan. Me gustaría pasar la mano por el cuerpo desnudo de la mujer, pero ella sentiría repugnancia y eso acabaría con mi placer.
 Empiezo a sentir una fatiga muy grande. Me tumbo en el sofá de la sala... Creo que voy a dormir un poco, las negociaciones tal vez se prolonguen... Tengo que vigilar a Pharoux para que no haga una tontería, es un hombre muy violento... Creo que estamos iniciando una revolución..., pero es preciso que nuestro gesto resuene fuera de esta torre y haga que los otros piensen... ¡Santo Dios! ¡Qué cansado estoy!... Antes de quedarme dormido he de hablar con Pharoux y Cortines. Están en la cocina, comiendo ruidosamente... Tenemos que trazar nuestros planes...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

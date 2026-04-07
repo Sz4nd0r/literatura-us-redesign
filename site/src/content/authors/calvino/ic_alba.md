@@ -65,6 +65,3 @@ Pipín se levantó. Cogió un palo de los de estirar las cuerdas de la albarda.
 Pipín vio la tranca de la puerta, dejó el palo y cogió la tranca.
 —Un año como éste no lo hemos tenido nunca, ¿no es cierto, Pipín?
 Entonces Pipín el Mallorquín empezó a pegarle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

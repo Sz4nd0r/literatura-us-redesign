@@ -252,6 +252,3 @@ Las últimas nubes se deslizaban sobre los Alpes Berneses. Súbitamente, con la 
 —¡Esa pareja somos nosotros! ¡Somos nosotros! ¿No lo has
 visto?
 Temblando, siguieron abrazados. Las nubes se fundieron con el oscuro macizo de montañas; cuando, un instante después, miraron a su alrededor, Nelson y Nicole vieron que estaban solos bajo la tranquila luz de la luna.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -58,6 +58,3 @@ Se casarían poco después en la iglesia de San Jorge, de Hannover Square, parti
 Y Rosabel en carne y hueso se levantó del suelo, se desnudó perezosa, dejando sus ropas plegadas en el respaldo de una silla, pasó la cabeza por el burdo camisón de algodón, y, al quitarse las horquillas, la dúctil y sombría cascada de sus cabellos cayó en torno de ella cálidamente. Luego apagó la vela y se metió en el lecho a tientas. Atrayendo hacia sí las mantas y aquella horrible colcha con dibujos de panal, y ciñéndoselas bien en torno del cuello, quedó arrebujada en la obscuridad.
 Así se durmió, sonriendo en sueños, y se dio el caso de que, sin despertar, sacara un brazo fuera como para buscar algo que no estaba allí.
 Y la noche transcurrió. Y los helados dedos de la aurora se cerraron sobre su mano destapada. Una claridad grisácea inundó la sórdida habitación, y Rosabel, estremeciéndose, dio un pequeño bostezo y se incorporó. Y como había heredado aquel trágico optimismo que con demasiada frecuencia suele ser la única herencia de la juventud, aún medio dormida, sonrió con leve temblor nervioso en torno de los labios.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

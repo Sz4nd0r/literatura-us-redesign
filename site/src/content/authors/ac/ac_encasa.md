@@ -86,6 +86,3 @@ Cuando dio las buenas noches y se fue a acostar, el padre, sonriendo, empezó a 
 Se acordaba de jurados a los que había que convencer por medio de “arengas”, del público que aprende historia solo a través de cantares épicos y de novelas históricas, de sí mismo, que sacaba sustancia de vida, no de sermones ni de leyes, sino de fábulas, de novelas, de poesía.
 “La medicina debe ser dulce, la verdad hermosa… Así se le ha antojado al hombre desde los días de Adán. Por otra parte, quizá todo esto sea natural y, ¿por qué no?, necesario. ¡Quién sabe cuántos fraudes útiles hay en la naturaleza, cuántas ilusiones…!”.
 Se puso a trabajar, pero en la cabeza seguían bulléndole pensamientos triviales y ociosos. Ya no se oían escalas en el piso de arriba, pero el inquilino del segundo continuaba dando vueltas por su habitación.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

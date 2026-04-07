@@ -26,6 +26,3 @@ Se esfumó entre la nube, luego ésta se movió por primera vez arremolinándose
 —El que se quedó en aquel...
 Pero no había pueblo. Sólo una nube fija, larga, pegada al camino.
 —Creo que el polvo te volvió loco —me dijo. Intenté responderle, pero no pude porque la lengua se me fue deshaciendo mientras sentía un sabor árido en la boca, y una corriente terrosa en las venas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

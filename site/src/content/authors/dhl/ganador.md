@@ -263,6 +263,3 @@ El jardinero, un hombre de mediana estatura con un pequeño bigote castaño y ag
 Pero aquella noche el niño murió.
 Y, mientras yacía allí, muerto, su madre oyó la voz de su hermano que le decía:
 —Dios mío, Hester, tienes ochenta mil libras más y un hijo de menos. Pero más le ha valido al pobre dejar una vida en la que debía azuzar a un caballo de juguete para encontrar un ganador.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -123,6 +123,3 @@ dirigía las latas de las petroleras, quien las conducía de la mano a los
 mejores lugares: “¡Vamos, hijas mías quemadlo todo, incendiadlo, abrasadlo!”.
 —No hay duda: esta mujer está loca de remate
 —dijo el presidente—. ¡Que se la lleven!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

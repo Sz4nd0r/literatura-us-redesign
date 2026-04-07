@@ -528,6 +528,3 @@ Torrence está en su despacho, sacando la punta de la lengua, como un buen disc�
 —¡Caramba!… Le dejo a usted el trabajo da encontrar la fórmula de cortesía. La dirección: Abogado Duboin, calle Montaigne, París…
 Y Emilio se permite hacer una pregunta sin malicia:
 —Oiga, jefe, ¿se come tan bien como dicen en el Café de París?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

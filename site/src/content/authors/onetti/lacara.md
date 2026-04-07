@@ -219,6 +219,3 @@ Nos habíamos detenido exactamente entre el renovado calor del verano y la sombr
 —¿Sorda? —pregunté—. No, solo estuve con ella anoche. Nunca me pareció sorda. Pero ya no se trata de eso. Yo le hice una pregunta; usted prometió contestarla.
 Los labios eran muy delgados para llamar sonrisa a la mueca que hizo el gigante. Volvió a mirarme sin desprecio, con triste asombro, y se persignó.
 (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -262,6 +262,3 @@ Sin embargo, al salir de la cafetería le atormentaba la duda de que Salzman hab
 Leo fue informado por escrito de que ella se vería con él en cierta esquina, y allí estaba ella una noche de primavera, esperando bajo un farol. Él se presentó con un ramito de capullos de rosa y de violeta.
 Stella permanecía junto al farol, fumando. La joven vestía de blanco con zapatos rojos, aunque, en un momento de aflicción, él había imaginado que el vestido sería encarnado y solamente los zapatos blancos. Stella, inquieta y tímida, esperaba. Leo vio de lejos que sus ojos —que eran como los de su padre— estaban llenos de temeraria inocencia. Vio en ella pintada su propia redención. Giraban en el cielo candelas encendidas y violines. Leo corrió hacia adelante con las flores.
 Cerca de la esquina, Salzman, apoyado en la pared, oraba por los difuntos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

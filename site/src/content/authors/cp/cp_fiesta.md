@@ -468,6 +468,3 @@ en el mundo, padre —prosiguió de improviso, levantando la cara y blandiendo l
 El profesor escupió al suelo.
 —No los he buscado, vinieron a mí —dijo lento y convencido, y por su rostro, que ya afloraba entre la neblina, pasó una mueca de orgullo.
 El padre se encogió de hombros. Luego volvió ansioso la cabeza hacia la colina, que se recortaba negra sobre el cielo pálido, y aspiró de nuevo el viento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

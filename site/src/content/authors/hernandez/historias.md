@@ -369,6 +369,3 @@ interesantes, no los podré aprovechar para esta historia. Sin embargo
 guardaré muy bien estos apuntes; en ellos encontraré siempre otra
 historia: la que se formó en la realidad, cuando un joven intentó
 atrapar la suya.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

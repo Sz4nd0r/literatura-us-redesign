@@ -83,6 +83,3 @@ Entró uno de los camilleros.
 —No es nada —dijo el médico—. Sus ojos quedarán perfectamente. No es nada. Una discusión sin objeto alguno.
 —¡Ay! ¡Ay! ¡Ay! —aulló de pronto el teniente—. ¡Me ha cegado! ¡Me ha cegado!
 —Sujételo fuertemente —dijo el médico—. Siente un dolor muy fuerte. Sujételo bien.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

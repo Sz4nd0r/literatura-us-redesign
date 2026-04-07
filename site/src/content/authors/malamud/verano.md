@@ -78,6 +78,3 @@ Esa misma noche, un hombre le preguntó en la calle si era cierto que había ter
 –Sí –respondió George, aliviado.
 Esperaba que nadie mencionara de nuevo los libros. Un par de días después se encontró por accidente al señor Cattanzara otra vez y, pese a su silencio, George tenía la firme idea de que él había corrido el rumor de que los había terminado de leer.
 Una tarde de otoño, George salió de su casa en dirección de la biblioteca, en la que no había puesto los pies en años. Había libros por donde se mirase. Luchando por controlar un interno temblor que lo estremecía, George fácilmente contó cien volúmenes; luego, se sentó en una mesa a leer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

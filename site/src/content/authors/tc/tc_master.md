@@ -198,6 +198,3 @@ Ella abrió su bolso:
 —Uno no puede viajar por el azul sin una botella. —Lo besó en la mejilla y deslizó cinco dólares en su bolsillo.
 —Dios te bendiga, niña.
 Era todo el dinero que le quedaba, pero no le importó tener que caminar sola a casa. Los montones de nieve parecían olas de un mar blanco: avanzaba sobre las olas, impulsada por vientos y mareas lunares. No sé lo que quiero, y tal vez nunca lo sepa, mi único deseo ante cada estrella será ver otra estrella. No estoy asustada, pensó, de verdad que no. Dos muchachos salieron de un bar y se le quedaron mirando. En un parque, hacía mucho tiempo, había visto a dos muchachos que tal vez fueran los mismos. No estoy asustada, de verdad que no, pensó, escuchando las pisadas que la seguían con un crujir de nieve; de cualquier forma, ya no quedaba nada que robar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

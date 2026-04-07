@@ -458,6 +458,3 @@ instalé el liquido en el fondo de la barriga. Sólo cuando vino la
 resaca, me percaté que estaba un poco picadito. Culpa del viejo de mierda
 que no aprende nunca a ponerle la tapa de la cacerola al ponche. Me serví
 otro trago, qué iba a hacerle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

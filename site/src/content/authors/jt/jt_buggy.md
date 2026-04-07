@@ -50,6 +50,3 @@ Y me las ajustó de diversas maneras, aparte las descritas.
 Cada vez que intentaba ponerle cadenas a un neumático, el coche las enrollaba maliciosamente alrededor de un eje trasero. Si lo aparcaba a tres metros de distancia de una boca de agua y entraba en una tienda, cuando salía sólo se encontraba a metro y medio de dicha boca. Si veía un clavo en la carretera, el coche se desviaba y lo recogía. En una ocasión, mientras me dirigía a una triste y pequeña población del Medio Oeste, dije en voz alta: «Sería horroroso quedarme atascado en este lugar». Al poco rato, al coche se le fundió una biela y me quedé atascado allí un par de días.
 Si la señora Robertson acierta en su profecía y verdaderamente el motor de gasolina toca a su fin, ello no representará ningún golpe doloroso para mí. Me trasladaré sobre patines de ruedas a una tienda de comestibles, una farmacia, una iglesia, una biblioteca y un cine.
 Y en el peor de los casos, incluso podría caminar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

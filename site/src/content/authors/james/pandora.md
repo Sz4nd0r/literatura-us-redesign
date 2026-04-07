@@ -315,6 +315,3 @@ El barco estaba tocando el muelle y la separación entre la pareja era ya insign
 —Bueno, ¿vas a esperar el viaje de regreso? —dijo el caballero.
 Nuestro callado sufridor se apartó de allí justo en el instante en que la señora Steuben y su acompañante estaban desembarcando. Cuando la dama sureña subió a la calesa con la señorita Day el caballero que había estado hablando con la joven fue tras ellas. El resto se dispersó y Vogelstein, declinando con un “gracias” el ofrecimiento de la señora Bonnycastle para llevarle, se marchó a casa a pie sumido en aciagas reflexiones.
 Dos días después Vogelstein leyó en la prensa el anuncio de que el presidente le había ofrecido el puesto de ministro de Holanda al señor D. R Bellamy de Utica, y al cabo de un mes supo por la señora Steuben que Pandora, tras haber cumplido con un millar de obligaciones adicionales, había encontrado al fin el momento de asumir sus propias nupcias. Él, a su vez, le transmitió la noticia a la señora Bonnycastle, la cual no se había enterado de nada y que, rompiendo a reír ante la extraña expresión pintada en el semblante del joven, comentó que no veía en aquello base para una nueva conjetura sobre la chica hecha a sí misma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

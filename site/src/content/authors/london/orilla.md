@@ -195,6 +195,3 @@ Se inclinó y apartó las pieles, dejando al descubierto un rostro compuesto pri
 Media hora después, tras haber cubierto el rostro de aquella figura inmóvil con las pieles, Smoke le dijo a Lucy:
 —Si no le importa, señora Peabody, me tomaría otro pedazo de esa carne. Prepáremelo grueso y poco hecho. Soy un comedor de carne.
 (1911)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

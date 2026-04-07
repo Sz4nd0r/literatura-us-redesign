@@ -148,6 +148,3 @@ Eso era todo. Era sencillo, mucho más sencillo que alguien hablando en un libro
 justicia y por la libertad. Todo ello toca el corazón, y aquello a lo que se aferra el corazón se convierte en verdad, en aquello que alcanzamos a entender como verdad. ¿Entiendes ahora?
 Sam y Old Ben y Nip, pensó. Y también él mismo. El también había actuado correctamente. Su padre lo había dicho.
 —Sí, señor —dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

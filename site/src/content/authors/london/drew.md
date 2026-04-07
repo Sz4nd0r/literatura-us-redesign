@@ -267,6 +267,3 @@ Patty negó con la cabeza.
 —Un milagro —añadió la señora Gifford.
 —Sí, y lo hice yo, con mi bote de brea —dijo Willie, mientras fumaba un cigarrillo, con el mayor de los descaros, a barlovento de su madre.
 Todos se volvieron para observar al milagro, que permanecía en pie junto a la jarcia de sotavento, mirando al mar e intentando, inconscientemente, lanzar por la borda sus manos manchadas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -37,6 +37,3 @@ Sonó un timbre en el escritorio y Miller dijo una palabra sucia.
 —Esperá.
 Fue a ponerse el saco y la corbata, salió por la puerta del fondo, de madera pesada y brillosa, rodeada por el panel trabajado y profundo.
 Entonces Carner se apoyó en la mesa y pensó sin amor en el viernes, en el reiterado, escondite idéntico y cambiante viernes que acababa de terminar para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

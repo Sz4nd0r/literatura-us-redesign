@@ -135,6 +135,3 @@ Para entonces Bluebell ya se ha recobrado y se une a la ceremonia de Olivia-Ann 
 Es lo único bueno que puedo decir de Marge.
 No logro recordar muy bien qué sucedió después, excepto que Olivia-Ann reapareció con su cuchillo de treinta centímetros y un montón de vecinos. Pero de repente la atracción estelar era Marge; me imagino que la cargaron a cuestas hasta su cuarto. El caso es que tan pronto salieron cerré la puerta y levanté una barricada.
 He logrado atrancar la puerta con todos esos muebles de felpa negra y verde oliva, la mesa grande de caoba que debe pesar un par de toneladas, el perchero y muchas otras cosas. He cerrado las ventanas y tengo las persianas bajadas. También he encontrado una caja de dos kilos de bombones Sweet Love; en este preciso instante estoy masticando una jugosa y cremosa cereza cubierta de chocolate. A veces se acercan a la puerta y tocan y gritan y suplican. Ahora se han puesto a cantar una canción bien distinta, sí, señor. En cuanto a mí, de vez en cuando interpreto una melodía al piano para que sepan que estoy contento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

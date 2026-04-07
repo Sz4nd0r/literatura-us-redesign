@@ -289,6 +289,3 @@ Al entrar su criado, atraído por la detonación,
 le halló muerto. Un chorro de sangre había salpicado el papel en que poco antes
 Gontrán escribía:
 “Este es mi testamento....”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

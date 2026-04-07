@@ -214,6 +214,3 @@ obra y las firmó con su nombre las sostuvo como tales. En ningún momento
 extendió explicaciones a nadie ni desdijo el ser de su palabra.
 El Diario Co-Latino,
 edición sábado 9 de agosto 1997.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

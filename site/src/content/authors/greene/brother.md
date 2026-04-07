@@ -72,6 +72,3 @@ Lo enojaba la reiteración de la palabra pagar. “Entran en mi café, pensó, r
 —Rapidito —dijo el oficial; se volvió a regañar a uno de sus hombres que había apoyado su rifle contra la barra.
 El patrón se detuvo arriba de las escaleras del sótano. Estaba en la oscuridad, pero con la luz del bar podía vislumbrar un cuerpo a media escalera. Empezó a temblar violentamente, y pasaron algunos segundos antes de que pudiera encender un cerillo. El joven alemán yacía con la cabeza hacia abajo, y la sangre de su cabeza escurría al escalón siguiente. Tenía los ojos abiertos y miraba al patrón con la extraña expresión desesperada que tenía en vida. El patrón no podía creer que estuviera muerto. “Kamerad”, dijo inclinándose, mientras el cerillo le quemaba los dedos y se apagaba, tratando de recordar alguna frase en alemán, pero solo podía recordar, inclinado ahí, “Mein Bruder”. Y de pronto se dio la vuelta y corrió escaleras arriba, blandió la caja de cerillos en la cara del oficial y gritó en voz baja e histérica, a él y a sus hombres y al parroquiano doblado bajo la pantalla verde: “Salauds! Salauds!”.
 —¿Qué fue eso? ¿Qué fue eso? —exclamó el oficial—. ¿Dijo que era su hermano? ¡Imposible! —y miró ceñudo e incrédulo al patrón, haciendo tintinear las monedas en su bolsillo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

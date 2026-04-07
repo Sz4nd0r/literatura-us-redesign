@@ -226,6 +226,3 @@ Y los cuatro Ulanos [soldados prusianos] que marchaban en
 vanguardia pudieron ver, allá arriba, en el balcón, a un imponente anciano que
 vacilaba moviendo los brazos y caía rígido. Esta vez estaba bien muerto el
 coronel Jouve.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

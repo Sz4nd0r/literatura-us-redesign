@@ -165,6 +165,3 @@ enredó y se oyó la voz de Sam que gritaba:
 —¡Hola, Cal! Me alegro muchísimo de verte.
 Y en el cruce de Broadway, la Quinta Avenida y la Calle
 Veintitrés, los enemigos de Cumberland se estrecharon la mano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

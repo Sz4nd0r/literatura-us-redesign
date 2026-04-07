@@ -215,6 +215,3 @@ En parte yo también quería creerlo, para recrearme en ese sexto sentido, y en 
 —Pues lo que yo no entiendo es cómo subiste la valla —repliqué.
 —Ni yo.
 Y así continuamos, con las dos pequeñas en el asiento de atrás confiando en nosotros, porque no les quedaba más remedio, y nosotros confiando en que, con el tiempo, se nos perdonase todo lo que aquellas niñas tendrían que ver y condenar: lo frívolo, lo arbitrario, lo indiferente, lo cruel; todos nuestros errores naturales y concretos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

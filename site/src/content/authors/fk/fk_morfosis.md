@@ -2842,6 +2842,3 @@ cuando, al llegar al término del viaje, la hija se
 levantó la primera y estiró sus formas juveniles,
 pareció cual si confirmase con ello los nuevos
 sueños y sanas intenciones de los padres.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

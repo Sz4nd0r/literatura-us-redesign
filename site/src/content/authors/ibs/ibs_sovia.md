@@ -133,6 +133,3 @@ decía el caminante...
 mas yo os digo, y soy testigo,
 de que nuestro pueblo de Chelm
 de todo el mundo es el ombligo.»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

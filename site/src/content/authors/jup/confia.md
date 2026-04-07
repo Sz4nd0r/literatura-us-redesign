@@ -85,6 +85,3 @@ Pero algo disgustaba a Priscilla, que gritó:
 El chasquido sonó como una bofetada, la misma resonante bofetada que había restallado aquella vez junto a su oído. Salvo que su padre se había convertido en el hijo, y que la madre era ahora su amiga. Pero una cosa era cierta: no había sido por su culpa, y de algún modo le echaban en cara que sobreviviese.
 Las palmas de sus manos, menos moteadas, parecían pálidas y arrugadas, como almohadas incómodas. En el bolsillo de la camisa, Harold encontró el billete de un dólar rechazado en la entrada del metro, hacía muchísimo tiempo. Mientras esperaba que Priscilla se calmase y le llamara, volvió al billete y observó en el dorso al ojo místico sobre la pirámide truncada, y leyó, una y otra vez, la frase impresa por encima del ONE [la frase, que figura por encima de la palabra ONE en los billetes de un dólar,
 dice: Confiamos en Dios].
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

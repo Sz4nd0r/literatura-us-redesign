@@ -147,6 +147,3 @@ Se me quitó la risa. El zapaterito de Guanajuato era yo, Loreto Rosales. Me aga
 —¿En dónde está su zapaterito, para dárselos?
 —En un lugar secreto y usted no lo verá.
 En verdad no debía verme. Me fui hasta la esquina bien agachado. Pasé frente al estanquillo, que tenía las puertas cerradas. Di la vuelta, llegué a la avenida y gané la casa. Entré y agarré a Faustino y luego tomé el camino de regreso a Guanajuato. Hice once días, porque no hallaba la salida de la mentada ciudad de México. Me fui hasta sin despedirme, porque hay veces en que no despedirse es de más cortesía. En los once días de andada, me reconfortaba pensar que yéndome, libraba a la señora Blanquita de la cárcel. Hace ya siete días que llegué a mi casa. Pero no estoy tranquilo. Anoche soñé a la señora Blanquita, parada en el Hemiciclo a Juárez, buscándome. Tal vez me necesite. Por eso de buena hora agarré el camino de regreso a México. A buen paso, Faustino y yo llegaremos en nueve días, y allá veremos qué es menester que hagamos por ella. Al fin que mientras ella lleve la ventaja, yo no meteré las manos… Aunque con la señora Blanquita, nunca se sabe, nunca se sabe…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

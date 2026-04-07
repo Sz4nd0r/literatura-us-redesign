@@ -403,6 +403,3 @@ yo? ¿Es real esta cama laqué, o sueño con ella definitivamente instalado en l
 Gran Sombra, donde por fin los jefes me abren paso irritados ante el nuevo
 error, señalándome el Síncope Blanco, donde yo debía estar desde hace largo
 rato?...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

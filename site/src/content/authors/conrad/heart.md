@@ -219,6 +219,3 @@ III
 “Oí un leve suspiro y entonces mi corazón se paró en seco, se detuvo del todo con el exultante y aterrador grito, un grito de inconcebible triunfo e inefable dolor. ‘¡Lo sabía! ¡Estaba segura!’. Ella lo sabía. Estaba segura. La oí sollozar. Se había cubierto el rostro con las manos. Me pareció que la casa se derrumbaría antes de que yo pudiera escapar, como si el cielo se fuera a desplomar sobre mi cabeza. Pero nada de eso ocurrió. El cielo no se cae por semejantes minucias. ¿Se habría caído, me pregunté, si hubiera tratado a Kurtz como se merecía? ¿Acaso no había dicho él mismo que sólo quería que se hiciera justicia? Pero no pude. No pude decírselo. Aquello habría sido demasiado tenebroso, absolutamente tenebroso…
 Marlow dejó de hablar y se sentó aparte, etéreo y silencioso, con la pose de un Buda en plena meditación. Durante unos minutos nadie se movió.
 —Hemos perdido el primer reflujo —dijo de repente el director. Levanté la vista. El mar estaba obturado por una muralla de nubes negras y el río sereno que conducía a los confines del mundo pasaba sombrío bajo el cielo encapotado. Se diría que fluía rumbo al corazón de una inmensa oscuridad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

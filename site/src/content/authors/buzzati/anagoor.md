@@ -52,6 +52,3 @@ Entonces dije:
 —No había más gente. Se trataba de una de las puertas más pequeñas e inadvertidas por los peregrinos. Aquel día no había nadie esperando. Hacia el anochecer llegó un viandante y llamó. No sabía que aquélla era la ciudad de Anagoor, no esperaba que dentro hubiera algo especial, sólo pedía un refugio para pasar la noche. No sabía nada de nada, se encontraba allí por casualidad. Quizá le abrieron sólo por eso.
 En cuanto a mí, he esperado casi veinticuatro años fuera de las murallas. Pero la puerta no se ha abierto. Y ahora regreso a mi pueblo. Al ver mis preparativos, los peregrinos del campamento me dicen moviendo la cabeza:
 —¡Eh, amigo, cuántas prisas! ¡Ten un poco de paciencia, caramba! Tú le pides demasiado a la vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -178,6 +178,3 @@ Ahora fue Maureen quien se sentó, seria, intentando controlar su lengua.
 —¿Otro trago?
 —Un coñac, exquisito, exquisito, exquisito coñac.
 —Exquisito coñac…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

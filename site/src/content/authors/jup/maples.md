@@ -111,6 +111,3 @@ Su voz fue una rociada salvadora, llena de arcoíris diminutos, en el rabillo de
 Hubo una pausa. Joan no creía eso, Richard lo sabía. Joan dijo:
 —Sí.
 El juez sonrió y les deseó suerte a ambos. Los abogados desfallecieron de alivio y un torrente de alegre cháchara jurídica —hipótesis sobre el futuro del mutuo acuerdo, reminiscencias de los viejos días de divorcios exprés en Alabama— excluyó a los Maple. Obsoletos en su propia ceremonia, Joan y Richard se apartaron del estrado al unísono y permanecieron uno al lado del otro, sin saber bien cómo reaccionar, hasta que, por fin, Richard recordó lo que tenía que hacer y la besó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

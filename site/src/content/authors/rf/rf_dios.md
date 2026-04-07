@@ -36,6 +36,3 @@ Por la mañana bien temprano Zinho salió en el carro y fue a Ciudad de Dios. Pe
 “Sí, ya lo olvidé.”
 Zinho le dio la espalda a Soraia y se durmió. Zinho tenía un sueño pesado. Soraia se quedó despierta oyendo roncar a Zinho. Después se levantó y tomó un retrato de Rodrigo que mantenía escondido en un lugar que Zinho nunca descubriría. Siempre que Soraia miraba el retrato del antiguo novio, durante todos aquellos años, sus ojos se llenaban de lágrimas. Pero ese día las lágrimas fueron más abundantes.
 “Amor de mi vida”, dijo, apretando el retrato de Rodrigo contra su corazón sobresaltado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

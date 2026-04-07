@@ -331,6 +331,3 @@ Con él sólo destruyo las formas permanentes
 del símbolo primero:
 igual me hubiera sido la presencia de alba,
 lo inmutable del cielo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

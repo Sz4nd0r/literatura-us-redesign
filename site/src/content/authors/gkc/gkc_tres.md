@@ -148,6 +148,3 @@ Hubo un silencio, y al fin se oyó el ruido metálico que hacía Gilder al abrir
 Al salir por entre el césped mojado, un conocido de Highgate le detuvo para decirle:
 —Acaba de llegar el médico. Va a comenzar la indagación.
 —Tengo que ir a la Escuela de Sordomudos —dijo el padre Brown—. Siento mucho no poder asistir a la indagación.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -28,6 +28,3 @@ Cañón se puso a hablar con Rosita Cané y al rato se metieron en la cocina com
 El velorio estaba prendido y los guares seguían guiando el rosario, mirando el cuarto donde tía Altagracia estaba acostada.
 Yo estaba casi dormido cuando me despertó la paliza que tío Segundo le dio a Cañón. Mi tío salió gritando que qué desorden era ése que se largara sino quería coger cada uno su parte. Rosita Cané estaba llorando. Mi tío cogió la maleta y dijo que al fin de cuentas estaba satisfecho porque había venido al velorio de su madre y que ya no tenía que hacer por todo aquello. Salió diciendo que no le importaba haber gastado el pasaje ni en la caja ni en las lloronas, que miraran a ver si en todo el barrio había un hijo tan sacrificado. Ahí está la caja, dijo, para el que le toque el turno. Y salió casi corriendo.
 Cuando me acerqué a la caja y miré a la abuela, ya no estaba riendo. Pero noté un brillito que le salía de los ojos y mojaba sus labios apretados.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

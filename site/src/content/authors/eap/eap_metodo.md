@@ -682,6 +682,3 @@ proyecta su sombra en el suelo;
 y mi alma, fuera del círculo de aquella sombra que
 yace flotando en el suelo,
 no podrá elevarse ya más, ¡nunca más!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

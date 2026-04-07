@@ -161,6 +161,3 @@ Se sentó en una silla que había al lado y se tapó la cara con las manos sumid
 No osaré reproducir aquí las palabras que dedicó el joven al médico, al hombre asesinado, a madame Zéphyrine, a los mozos de cuerda del hotel, a los sirvientes del príncipe y, en suma, a todos quienes habían estado remotamente relacionados con aquella horrible desdicha.
 Hacia las siete de la tarde, bajó discretamente a cenar, pero el amarillento salón le horrorizó: le dio la impresión de que los demás comensales le miraban con suspicacia y no podía quitarse de la cabeza el baúl de arriba. Cuando el camarero se acercó para ofrecerle un poco de queso, sus nervios estaban ya tan de punta que se levantó de un salto de la silla y derramó casi media pinta de cerveza sobre el mantel.
 Al terminar la cena, el camarero se ofreció a indicarle dónde estaba el salón de fumadores, y aunque habría preferido volver de inmediato con su peligroso tesoro, no tuvo valor para negarse y dejó que lo llevaran escaleras abajo al lúgubre sótano iluminado con luz de gas que era, y probablemente siga siendo, el fumadero del hotel Craven.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

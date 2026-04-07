@@ -180,6 +180,3 @@ Ella se desmoronó y se desplomó en el suelo. Julian corrió y cayó a su lado 
 Dio la vuelta al cuerpo. Vio que su rostro estaba desencajado. La pupila de un ojo, enorme y fija, se desplazaba levemente hacia la izquierda como si se hubiera desprendido. El otro ojo estaba fijo en él, examinaba de nuevo su cara y, al no encontrar nada, se cerró.
 —¡Espérame aquí! ¡Espérame aquí! —gritó Julian, que se levantó de un salto y echó a correr hacia un grupo de luces que vio a lo lejos—. ¡Socorro, socorro! —exclamó, pero su voz era débil, apenas un hilo.
 Las luces se alejaban más cuanto más deprisa corría y sus pies se movían entumecidos como si no lo llevaran a ninguna parte. La marea de oscuridad parecía arrastrarlo de nuevo hacia ella, retrasando instante tras instante la entrada de Julian en el mundo del remordimiento y el pesar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

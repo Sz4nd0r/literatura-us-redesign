@@ -47,6 +47,3 @@ El recién consagrado Flechador de Cantos de Guerra, sostenía en las dos manos,
 Un repentino movimiento de oleaje entre los cientos, los miles de guerreros que llenaban la plaza turbó la ceremonia
 Uno de los. caudillos, el Caudillo jefe de la Fortaleza Espejeante, borró con su soplo lo que Utuquel —el poeta— había escrito en la tablilla premiada, y la fiesta fue desolación, ceniza de eclipse el plenilunio, silencio el canto, y se arrastraron por el polvo las banderas de piel de tigre, las sombras pestañudas de los árboles, los dedos de las flores, los panales de miel, la estera de palabras sin precio, y de la Fortaleza de Espejos, repentinamente apagados, salió Utuquel — el poeta con su tablilla en blanco condenado a depositarla en lo más alto de uno de los volcanes.
 Y no sólo Utuquel, Mascador de Luna llovido de cabellos verdes, las manos entregadas a la sal del llanto, sino muchos son los poetas condenados a depositar nubecillas blancas en los cráteres de los volcanes, semillas de las que salen los colores que el sol le robó a la luna, valiéndose de la treta de la tablilla apagada, para formar el arco iris.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

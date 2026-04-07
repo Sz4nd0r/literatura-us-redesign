@@ -232,6 +232,3 @@ por ella.
 —¿Y por ónde vas?
 —Pos por ahi, padre, por onde
 usté dice que se fue.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

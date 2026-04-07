@@ -82,6 +82,3 @@ William Campbell cerró los ojos. Comenzaba a experimentar una ligera náusea. S
 —¿Y se encuentra bien?
 —Estoy bien. Adelante, váyase. Yo me quedaré aquí un rato. A eso de mediodía me levantaré.
 Pero cuando a mediodía el señor Turner volvió a la habitación de William Campbell, lo encontró durmiendo, y como el señor Turner era un hombre que sabía cuáles son las cosas valiosas de la vida, no lo despertó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

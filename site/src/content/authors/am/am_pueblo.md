@@ -174,6 +174,3 @@ El joven entró en el coche, cerró la portezuela y encendió el motor.
 —¡Me han robado todo, todo, todo! —dijo ella, apretándose contra él, con una voz que el susto hacía vacua e inexpresiva.
 —¿Y a mí, qué? —contestó él, indicando el pie desnudo que apretaba el acelerador. El coche partió, entró en una larga recta y empezó a correr en la noche, precedido, sobre la cinta negra del asfalto, por el blanco halo de la luz de los faros.
 (1944)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

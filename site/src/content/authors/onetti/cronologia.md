@@ -302,6 +302,3 @@ Madrid, ciudad en la que pasó los últimos 19 años de su vida,
 enclaustrado los diez finales, sin salir prácticamente de su cama. Según
 su última voluntad, sus restos fueron incinerados y sus cenizas no serán
 trasladadas al Uruguay.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

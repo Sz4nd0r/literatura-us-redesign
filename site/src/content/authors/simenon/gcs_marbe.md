@@ -459,6 +459,3 @@ Y luego, seis meses más tarde:
 Hemos llegado a un acuerdo. Me caso con Eloísa y nos repartimos la casa y los cuartos.
 Pierrot
 Ésta fue la primera aventura del Doctorcito como detective privado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

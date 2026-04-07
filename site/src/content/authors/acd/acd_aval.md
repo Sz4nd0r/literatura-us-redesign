@@ -400,6 +400,3 @@ Percy Phelps se hundió en su silla.
 —Para llegar a la puerta tenía que pasar antes por delante de siete habitaciones, mientras que podía cruzar el jardín sin el menor problema. ¿Algo más?
 —¿No cree usted, pues, que albergara intenciones asesinas? Quería utilizar el cuchillo solo como herramienta —dijo Phelps.
 —Tal vez fuera como usted dice —respondió Holmes, encogiéndose de hombros—. Lo único que puedo asegurarle es que Joseph Harrison es un caballero en cuya clemencia yo no confiaría en absoluto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

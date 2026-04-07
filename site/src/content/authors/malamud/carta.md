@@ -122,6 +122,3 @@ Ralph estaba temblando junto a la verja.
 —Me refiero a si está loco.
 —Eso es —dijo Newman, alejándose.
 —Tú también —dijo Ralph—. ¿Por qué no vuelves y te quedas por aquí con el resto de nosotros?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

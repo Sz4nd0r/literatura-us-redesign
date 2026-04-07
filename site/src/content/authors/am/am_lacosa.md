@@ -155,6 +155,3 @@ Sin prisa, porque sabía que las dos mujeres estaban empeñadas en “la cosa”
 Ahora me preguntarás por qué, en definitiva, te he contado toda esta historia más bien siniestra. Te respondo: por arrepentimiento. Lo confieso, en el momento en que tenía encima a Margherita en la bohardilla sentí como una tentación de ceder. Lo hubiera hecho precisamente porque me repugnaba, porque la encontraba, como dices, “horrenda”, precisamente porque me pedía que tomara el lugar de Diana. Pero por fortuna tu recuerdo no me abandonó. Cuando Diana llamó ya todo había terminado, ya había superado la tentación y sólo pensaba en ti y en todo lo bueno y hermoso que representas en mi vida.
 Escríbeme pronto.
 Tu Ludovica
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

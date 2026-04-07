@@ -266,6 +266,3 @@ Fumó el cigarrillo hasta el final, después bruscamente pasó una pierna por so
 Por la escalera de proa, bajó apresuradamente a la cubierta de paseo. Sin detenerse, continuó, siempre con bastante celeridad, hasta la cubierta principal. Luego a la cubierta A. Luego a la cubierta B. Luego a la cubierta C. Luego a la cubierta D.
 En la cubierta D terminaba la escalera de proa y Nicholson se detuvo un momento, al parecer desorientado. Después divisó a alguien que podía guiarlo. En mitad del pasillo, una camarera estaba sentada en una silla leyendo una revista y fumando un cigarrillo. Nicholson se acercó, la consultó brevemente, le agradeció, dio unos pasos más hacia proa y abrió una pesada puerta metálica que decía: A LA PISCINA. Vio una escalera angosta, sin, alfombrar.
 Apenas había bajado la mitad de la escalera cuando oyó un grito sostenido, penetrante, evidentemente de una niña pequeña. Había una gran acústica, como si el grito reverberara entre las cuatro paredes de azulejos…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -486,6 +486,3 @@ El viejo señaló la alfombra con la mano, y el recuerdo de aquella pobre muchac
 —¡No, no! —tartamudeó, como si lo hubiese ofendido—. ¡Los médicos! ¡Neumonía! Estaba muy enferma… Se había inflamado, me dijeron… Neu…
 La palabra quedó ahogada en un sollozo y agitó las manos con desesperación como si renunciara a un fantasma:
 —¡Y yo que la creía tan razonable!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

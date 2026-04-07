@@ -117,6 +117,3 @@ Y, minutos después, mientras caminábamos por la calle, me di cuenta de que el 
 Nos la tomamos. El señor Cannon seguía ligeramente ido, como bajo el hechizo de la gran sorpresa. Rebuscó tanto en sus bolsillos para encontrar dinero con que pagar su ronda, que insistí en que aquella invitación también era mía.
 Creo que aquel día estaba verdaderamente aturdido, porque, a pesar de ser un hombre meticuloso, casi puntilloso, los doscientos dólares que le di en su despacho jamás han aparecido en las cuentas y liquidaciones qué me manda. Pero supongo que alguna vez los recuperaré, pues alguna vez Finnegan conseguirá escribir algo y sé que el público recibirá fervorosamente lo que Finnegan escriba. Últimamente me ha dado por investigar algunas de las historias que se cuentan sobre él y he descubierto que la mayoría son tan falsas como las de la piscina vacía. La piscina estaba llena hasta el borde.
 Hasta el momento sólo ha aparecido un breve relato sobre la expedición polar, un cuento de amor: quizá el tema no era tan interesante como Finnegan esperaba. Pero la industria del cine se ha interesado por Finnegan: si consiguen controlarlo, y no tengo por qué pensar lo contrario, sobrevivirá. Le vendría bien.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -178,6 +178,3 @@ Pero yo tenía los ojos cerrados. Pensé mantenerlos así un poco más. Creí qu
 —¿Y bien? —preguntó—. ¿Estás mirándolo?
 Yo seguía con los ojos cerrados. Estaba en mi casa. Lo sabía. Pero yo no tenía la impresión de estar dentro de nada.
 —Es verdaderamente extraordinario —dije.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

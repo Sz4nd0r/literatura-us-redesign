@@ -209,6 +209,3 @@ sagradas el 15 de agosto de 1965.
 Cardenal publicó: Salmos (1964) y Oración por Marilyn Monroe y
 otros poemas (1965). Una nueva edición de Hora O fue publicada
 en 1966 en la colección Aquí poesía, Montevideo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

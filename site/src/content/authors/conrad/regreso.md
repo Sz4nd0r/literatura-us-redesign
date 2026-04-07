@@ -249,6 +249,3 @@ Y sus ojos brillaron como los de un desquiciado. También brillaron los de ella,
 Él tuvo la sensación de estar sacudiéndose para romper unas cuerdas invisibles. Ella temblaba de pies a cabeza.
 —¡Pues yo no! —gritó, e hizo un gesto brusco como si tratara de apartarla de una vez y abandonó la habitación a toda prisa. Cerró la puerta de un golpe brutal. Ella dio tres pasos hacia ésta, pero se quedó inmóvil con la mirada fija en aquellos paneles blancos y dorados. En el otro lado no se escuchaba ni un rumor, ni un murmullo, ni siquiera los pasos que recorrieron la mullida alfombra. Daba la sensación de que, en el mismo instante de salir por la puerta, él hubiese fallecido de pronto: había muerto allí, y con su alma se había extinguido también su cuerpo. Ella aguzó el oído con los labios abiertos y la mirada incrédula. En ese momento escuchó a lo lejos, muy por debajo de ella, como si el ruido se hubiese producido en las mismísimas entrañas de la tierra, el tremendo golpe de la puerta al cerrarse, que hizo temblar aquella apacible casa de los cimientos hasta el techo como si se hubiese tratado de un trueno.
 No regresó jamás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -94,6 +94,3 @@ Me volviste a gritar antes de perderte con tu muleta Rampa arriba; con tu muleta
 Algo así creo que me dice la rubia. Algo así, porque no la oigo bien. Ya no se ve la huella de tu saliva en el asfalto.
 —Oye, yo creo que él tenía razón en lo que te dijo —creo que dice ahora— porque es tremendo eso de que un cojo le diga pendejo a un hombre y el hombre no le dé un trompón.
 —Sí —creo que le respondo; porque ahora sé que no fue sólo la pierna. Ahora te comprendo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -55,6 +55,3 @@ Todos bajaron la cabeza.
 —También era sumamente aficionado a mis tamales y mi salsa picante añadió el propietario en tono modesto—. Fueron su último placer.
 —Eso será mencionado cuando sea pertinente, no temas, amigo mío —dijo Ramón con la voz rota de generosa emoción—, y el nombre de tu café también. Cuando esta historia sea conocida se convertirá en un santuario para los artistas. Confía del todo en que preservaré para el futuro hasta los menores detalles de la vida y el carácter de ese gran genio. Cada episodio tiene sus propios detalles sagrados, su precioso y peculiar interés. Sí, en efecto, mencionaré los tamales.
 1923
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

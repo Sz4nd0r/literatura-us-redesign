@@ -82,6 +82,3 @@ Al día siguiente le dije a Ida:
 Pero Ida, tomándome del brazo y mirándome, dijo:
 —¡Has estado magnífico!... Él tuvo miedo y por eso te colocó sobre el elefante... Y, además, cabalgando al elefante, estabas muy guapo... ¡Lástima que te hayas caído!
 De manera que no había nada qué hacer. Para ella yo era una cosa, y para los demás era otra. ¿Se puede saber qué verán las mujeres cuando aman?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

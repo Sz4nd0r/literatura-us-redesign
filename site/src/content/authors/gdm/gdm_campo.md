@@ -145,6 +145,3 @@ Se puso tan pálida al ver a Henri que éste creyó que iba a desmayarse. Despu�
 Pero cuando él le contaba que le gustaba mucho aquel paraje y que iba a menudo a descansar allí los domingos, evocando muchos recuerdos, ella lo miró largamente a los ojos.
 —Yo pienso en eso todas las noches —dijo.
 —Vamos, querida —replicó bostezando su marido—, creo que ya es hora de marcharnos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

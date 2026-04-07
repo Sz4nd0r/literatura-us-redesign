@@ -29,6 +29,3 @@ semana de trabajo urbano, debía de prometerle algo más que la consabida y tór
 mi piel bronceada —quemada, decía él, por las miradas públicas— y había negado con la cabeza y dicho que iba a cortarme los suministros, pero estos eran juegos que ya se sabe
 cómo acaban. Lo que no le gustaba en absoluto era aparecer a mi lado —«yo hervido y tú asada»— entre tantos conocidos bobos, llenos de cumplidos con los recién casados —y en
 eso le doy la razón—, pero llenos también de familiaridades y alusiones que él no entendía y hacían que pareciera un intruso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

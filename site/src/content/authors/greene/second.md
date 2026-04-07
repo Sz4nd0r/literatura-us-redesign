@@ -50,6 +50,3 @@ Traté de no sonreír ante eso, pero no era fácil conservar una cara seria. Sie
 —Mira —dije—, si hubiera habido por ahí un hombre que hacía milagros como ese, habríamos oído hablar de otros, de eso puedes estar seguro. Aún metidos en este lugar tan alejado de la mano de Dios.
 —Hubo algunos otros —dijo—. Pero las historias solo circularon entre los pobres, y ellos creen cualquier cosa, ¿no? Hubo montones de enfermos e inválidos a los que dijeron que había curado. Y había un hombre, que había nacido ciego, y llegó y solo le tocó los párpados y le vino la vista. Todos esos eran cuentos de viejas, ¿verdad? —me preguntó, tartamudeando de miedo, y luego de pronto se quedó quieto y hecho un ovillo en un lado de la cama.
 Empecé a decir “Claro, todas eran mentiras”, pero me detuve, porque no hacía falta. Todo lo que podía hacer era bajar y decirle a su madre que subiera a cerrarle los ojos. Yo no los hubiera tocado por todo el dinero del mundo. Hacía mucho tiempo que no pensaba en ese día, hacía siglos y siglos, en que sentí un contacto frío como un salivazo en los párpados y al abrir los ojos había visto a un hombre como un árbol rodeado de otros árboles que se alejaban caminando.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

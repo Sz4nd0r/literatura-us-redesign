@@ -85,6 +85,3 @@ Fugada mi mujer, el hombre tomó mi katana, mi arco y mis flechas. Luego cortó 
 Siguió un profundo silencio. No, oí que alguien sollozaba. Mientras me quitaba las sogas escuché con atención, y noté que era mi propio sollozo. [Largo silencio.]
 A duras penas separé del árbol mi cuerpo entumecido. Delante de mí brillaba la pequeña daga que había dejado mi mujer. La recogí y la hundí en mi pecho. Un coágulo de sangre subió a mi garganta, pero no sentí ningún dolor. A medida que mi cuerpo se enfriaba, todo a mi alrededor se volvía silencioso y solemne. Ni el canto de un pájaro se oía en el aire de aquel lugar en la cañada de la montaña. Apenas una débil claridad descendía sobre las hojas, pero también eso fue desapareciendo, hasta que los cedros y los bambúes se borraron de mi vista. Tendido en el suelo, un hondo silencio me envolvía.
 En ese momento alguien se acercó a mí con pasos cautelosos. Traté de ver quién era; pero la oscuridad me lo impidió. Alguien… alguien que no pude ver, una mano invisible, quitó suavemente el arma hundida en mi pecho, al tiempo que otro coágulo me volvía a llenar la boca. Y de nuevo me hundí en el oscuro espacio; por última vez, para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

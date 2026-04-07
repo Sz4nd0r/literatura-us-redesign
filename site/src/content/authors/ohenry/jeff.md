@@ -277,6 +277,3 @@ encontrarnos con alguien... Es mejor que me liberes.
 Y... claro, por supuesto que Biddle era
 Andy Tucker, y ese fue el plan que preparamos, y así fue cómo obtuvimos el
 capital para iniciar nuestros negocios juntos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

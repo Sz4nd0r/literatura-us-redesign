@@ -470,6 +470,3 @@ Durmió durante dos horas en la butaca carmesí del despacho de Lucas y se despe
 —¿Yo?
 Y acto seguido:
 —¿Dónde está mi pelirrojo? Espero que no habrá confesado nada a su mujer, por lo menos… Por una vez que el pobre tipo… ¡Y ella que esperaba un bebé!… Imagínese que me ofrecía los diez mil francos de su seguro de vida… A propósito, comisario… Tengo sed… No sé lo que me pasa, pero tengo tanta sed…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -169,6 +169,3 @@ Y estos cuadros no son pinturas de paisajes. Porque no hay paisajes allá arriba
 Lois está sentada en su silla y no se mueve. Su mano con la taza está alzada a medio camino a su boca. Oye algo, casi lo oye: un grito de reconocimiento, o de alegría.
 Mira los cuadros, mira hacia adentro de ellos. Cada uno es un cuadro de Lucy. No se le ve exactamente, pero ella está allí, detrás de la isla de roca rosada o de la que está detrás de ésa. En el cuadro del acantilado está oculta por el montón de rocas caídas en la parte de abajo, en el de la ribera del río está acuclillada bajo la canoa volteada. En los bosques otoñales amarillos está detrás del árbol que no puede verse por los otros árboles, allá junto al ribete azul de la laguna; pero si uno entrara al cuadro y encontrara el árbol, sería uno equivocado, porque el que se busca estaría más adentro.
 Todo el mundo tiene que estar en alguna parte, y aquí es donde está Lucy. Está en el departamento de Lois, en los huecos que se abren hacia adentro de la pared, no como ventanas sino como puertas. Ella está aquí. Está enteramente viva.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

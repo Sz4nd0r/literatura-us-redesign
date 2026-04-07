@@ -194,6 +194,3 @@ En la calle rompió el silencio con un suspiro.
 Se paró en medio de la plaza.
 —¿Hemos ofendido a la señora? —dije.
 Me miró de través; no parpadeé, un...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

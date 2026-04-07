@@ -86,6 +86,3 @@ Garfin se quedó observando a Wilkey y después lanzó una mirada rápida a Smit
 En la barra, le dijo a la cajera:
 —El señor Wilkey se hace cargo de mi cuenta.
 Salió a la calle Ciento Cuarenta y Nueve y caminó un par de manzanas. Se quedó mirando a una chica guapa que le devolvió la mirada y soltó un bufido. A la mierda, pensó; ni siquiera estaba pensando en ella. De vez en cuando le entraban nauseas del miedo, porque ahora sabía lo que pensaban de él. Sin embargo, casi tan grave como el miedo era el hecho de saber que no podía volver ahí, al único sitio donde le apetecía ir. De modo que bajó al metro y se fue a casa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

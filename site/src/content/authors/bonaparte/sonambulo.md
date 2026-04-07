@@ -155,6 +155,3 @@ entre mis manos. Igual. Exactamente igual que cuando el muchacho
 terrorista, el de la bomba, se quedó muerto en mis manos. Y yo creo,
 que a mi hijo lo mató una pesadilla. No sé. Creo que debo ir al
 médico...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

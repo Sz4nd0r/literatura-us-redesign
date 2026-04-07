@@ -337,6 +337,3 @@ No era eso lo que quería decir. Él empezó a retirar su cuerpo del suyo. Era c
 —Lo sé. No lo diga. Lo entiendo.
 —Creo que, después de todo, tenemos mucho en común.
 Ella asintió para tranquilizarlo. Cuando amaneció, él estaba profundamente dormido. Ella se levantó sin despertarlo y se marchó a su cuarto. Cerró la puerta con llave y empezó a hacer las maletas resueltamente. Había llegado el momento de irse, de reanudar la vida habitual. Después, cuando pensó en él, se preguntó qué podían tener en común, salvo que, para ambos, Jamaica era más barata en agosto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -83,6 +83,3 @@ Yo en cambio tengo cincuenta y ocho. Y en los años que me quedan, poco podría 
 Me alejo con mi humillación y mi derrota. Hasta el Diablo me ha cerrado la puerta en la cara. En el cielo, mientras tanto, se ha formado una tormenta. Allá lejos, por encima de los gasómetros, relampaguea. Dentro de poco lloverá.
 Nunca tan solo. Al pasar frente a la Catedral miro por casualidad la inmensa puerta. Parece cerrada. Quizá sólo esté entornada. Bastaría empujarla un poco, bastaría una sombra de valentía. Allí dentro está la paz, quizá.
 Pero sigo adelante. Ni siquiera disminuyo el paso. Busco ansiosamente en mis bolsillos; no obstante, tendría que quedarme un cigarrillo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

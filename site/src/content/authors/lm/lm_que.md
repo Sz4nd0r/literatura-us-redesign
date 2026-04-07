@@ -201,6 +201,3 @@ Miró fijamente a su madre y respiró hondo. Quizá la madre nunca había manife
 En el pub había ruido.
 El vacío es a la infancia lo que un viaje es a los labios.
 —De acuerdo —dijo la señora Mallon, mirando la cerveza con concentración y con los ojos brillantes. Nunca la habían cortejado, ni una vez en toda su vida, y se había ruborizado, las orejas al rojo, levantó el vaso y bebió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

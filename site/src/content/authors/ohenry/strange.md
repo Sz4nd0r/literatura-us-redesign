@@ -61,6 +61,3 @@ La nena reaccionó inmediatamente,
 y Juan Smothers explicó:
 —Tardé, ¿no? Me he retrasado un
 poco esperando el tranvía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

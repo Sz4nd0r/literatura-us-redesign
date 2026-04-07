@@ -201,6 +201,3 @@ Su felicidad transformóse en terror al darse cuenta al día siguiente de que el
 —¡Por favor te pido! —lloriqueó ante el capitán—. ¡No me bajen en Puerto X! ¡Me van a matar!… ¡Te lo pido de veras!…
 El Sílex volvió a Posadas, llevando con él al mensú, empapado aún.
 Pero a los diez minutos de bajar a tierra estaba ya borracho con nueva contrata y se encaminaba tambaleando a comprar extractos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

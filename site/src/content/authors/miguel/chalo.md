@@ -202,6 +202,3 @@ En otros de los cerros cercanos, bultos rastrojeros saboreaban el fuego que sub�
 —Menos palabras, mucha, y más ojos, porque se nos pueden pasar, yo recién los dejé en el rancho consultándole a mi nana si era verdad que había muerto el Curandero… —murmuró ásperamente Roso Tecún.
 Una lluvia de postazos de escopeta fue la respuesta. Estornudaron las mecheras al mismo tiempo casi todas. Pon, pon, pon, pon… Y se quedaron silenciosos, mirando el resultado, entre las dagas mortales de los izotales y las manos de las llamas, manos de misas milperas.
 Se troncharon de los caballos a muchos de los hombres que desde el fondo de «El Tembladero» trataban de salvar el pellejo, confundiéndolos con los hombres de Musús. Éstos volvieron de estampida antes de llegar al sitio en que estaban apostados los de Tecún. Si de todas maneras se iban a morir, mejor que sirvieran para que se cumpla la venganza por caminos de tierra colorada sombreados de piñales bastos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

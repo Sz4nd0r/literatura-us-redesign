@@ -152,6 +152,3 @@ Yo no tenía sueño. Miré las tinieblas que cubrían la estepa, y en el aire, d
 Detrás de ella, a sus pies, veía la figura del bravo y animoso Loiko Zobar; con el rostro tapado por sus espesos rizos negros, por debajo de los cuales brotaban a raudales unas lágrimas gruesas y frías.
 Cada vez llovía con más fuerza, y el mar entonaba un himno fúnebre y solemne en honor de la orgullosa pareja de bellos gitanos: Loiko Zobar y Radda, la hija del viejo soldado Danilo.
 Ambos giraban suavemente, sin romper el silencio, en medio de las sombras de la noche, y el apuesto Loiko no conseguía dar alcance a la orgullosa Radda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -177,6 +177,3 @@ Middy me dirigió una mirada extraña.
 —Bueno —dijo, después de un momento de reflexión—, también rezó un poquito. —Se dirigió hacia la puerta, luego se volvió y gritó—: Además, nació con una vuelta de cordón.
 Y eso fue lo más cerca que estuvo nadie de resolver el misterio. A partir de entonces, si uno le preguntaba a Appleseed: «¿Cómo lo hiciste?», sonreía de un modo extraño y cambiaba de tema. Muchos años después se mudó con su familia a algún lugar de Florida, y no se volvió a saber de él.
 Pero en nuestro pueblo su leyenda florece todavía. Mr. Marshall murió en abril pasado. Cada año, por Navidad, la escuela baptista le invitaba para que contara la historia de Appleseed en la clase de religión. En una ocasión, Hamurabi escribió a máquina una crónica y la envió a varias revistas. No se la publicaron. El director de una de ellas le escribió: «Si la chica se hubiera convertido en estrella de cine, tal vez su historia tendría interés.» Y esto no fue lo que sucedió, así que ¿para qué mentir?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

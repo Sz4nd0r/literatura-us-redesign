@@ -190,6 +190,3 @@ cansancio y el sudor se desvanecen en una zambullida, ya no me recaté de salir.
 Lo veo todavía vagando por los campos, espiándome, siguiéndome, y una vez que se me encaró con cara sombría, acobardado. Pero las amenazas y las súplicas se limitaron a
 impacientarme. Las broncas con su mujer salieron a la calle e indignaron a todos, pero de mí no obtuvo nada más. Luego le nació una niña, yo decidí venir a la ciudad y no volví a oír
 hablar de él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

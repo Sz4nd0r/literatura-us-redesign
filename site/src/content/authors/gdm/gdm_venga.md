@@ -114,6 +114,3 @@ Deshecha en lágrimas, balbució:
 Y, dispuesta ya a la defensa, armada de razones
 y de astucias, alzó un poco su cabeza aturdida, con el gorro de dormir torcido.
 Y él, volviéndose hacia la mujer, se acercó, avergonzado de haberle pegado, pero sintiendo en el fondo de su corazón de marido un odio inextinguíble contra aquella mujer que había engañado al otro, a Souris.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

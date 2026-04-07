@@ -640,6 +640,3 @@ Esperó a que me pusiera el abrigo, satisfecho, seguramente, de verme a punto de
 Entró en el gabinete y un minuto después regresó con la carta. Le di las gracias y me marché.
 Al día siguiente recibí una nota de él. Me felicitaba por el rápido y feliz arreglo del asunto. Pekarski conocía a una dama que tenía un internado, una especie de jardín de infancia, donde admitían incluso a niños muy pequeños. La dama era de toda confianza, pero antes de entrar en tratos con ella, convendría hablar con Krasnovski, pues era un trámite de rigor. Me aconsejaba que fuese inmediatamente a ver a Pekarski, llevando consigo la partida de nacimiento, si es que la tenía, y terminaba con el consabido: “Sírvase aceptar el testimonio del sincero respeto y de la consideración de su seguro servidor…”.
 Mientras yo leía la carta, Sonia sentada en la mesa me miraba atentamente, sin pestañear, como si intuyera que se estaba decidiendo su destino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

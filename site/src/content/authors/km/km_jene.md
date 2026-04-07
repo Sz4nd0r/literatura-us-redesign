@@ -338,6 +338,3 @@ Y así sigo y sigo hasta que algún viejo verde se sienta a mi mesa y empieza a 
 Debo irme. Debo irme. Descuelgo mi abrigo y mi sombrero. Madame me conoce:
 –¿No ha cenado todavía? –se sonríe.
 –No, Madame, todavía no.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

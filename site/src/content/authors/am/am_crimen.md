@@ -61,6 +61,3 @@ Yo lo miré y me di cuenta de que ya no lo odiaba, aunque seguía siendo el mism
 Él tiró bajo el mostrador el café usado, llenó las medidas de café recién molido, liberó un poco de vapor y después respondió sencillamente, sin rencor:
 —Lo siento, pero esta noche no puedo.
 Salí con las tacitas; y me di cuenta de que estaba desilusionado porque él no venía esta noche y no me robaba a Amelia, como a todas las demás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -470,6 +470,3 @@ El posadero había puesto encima de la mesa otra botella, al parecer, para el co
 »Y, después, una linda casa en el campo y cuarenta años para vivir según sus sueños…
 El Doctorcito se escanció vino otra vez y concluyó:
 —Porque aún hay gente, señor juez, sobre todo en provincias, que sueña a largo plazo. ¡Por eso tienen un empeño tan grande en vivir muchos años!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

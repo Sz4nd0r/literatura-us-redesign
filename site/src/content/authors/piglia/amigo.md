@@ -194,6 +194,3 @@ disi­mulado, con el pañuelo o con cualquier cosa, pero des­pués se
 ríe y se ríe. Todos lo miran y uno se ríe y cada vez le da más risa y
 más risa...
 Así. ¿Se da cuenta, comisario?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -24,6 +24,3 @@ Y cada día parecía traer, amenazante, su “otra vez”.
 Me detuve a la puerta de un cinematógrafo y leí el programa y saqué mi boleto, y entré. Luego volví al café Royal, donde había una turba bebiendo whisky.
 Pero nada de eso podía distraerme. Volvía a mi casa arrasado de preocupación y de soledad, irritado de aridez. Me tendía en la cama, con la luz prendida, con la ventana abierta. El tiempo marchaba. Fuera, estaba la humanidad— aquí dentro, tendido en la cama, un hombre, un hombre del mundo. ¿Qué cosa nos iba a juntar al fin? ¿Qué cosa podía llevarme al cauce de la humanidad con ese destino con que el fruto vuelve a la tierra? El tiempo marchaba. Al fin me desvestía, me acostaba, extinguía la luz del cuarto, entraba un rectángulo de claridad lunar. Oía los vehículos lejos, luego cerca, al lado; luego otra vez lejos.
 Había sido un año árido. ¡Qué año árido en el mundo! Desazón y guerra de hombre a hombre y prevenciones y pavor y muerte. Muerte que caminaba y que esperaba, tormentosamente, su renacimiento y su salud.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

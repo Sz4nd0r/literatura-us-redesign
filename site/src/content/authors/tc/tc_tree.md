@@ -138,6 +138,3 @@ Kay cogió una revista en un intento de parecer natural, pero se dio cuenta de q
 —Se lo compro —dijo—. El talismán, digo. Lo compro, si es eso, pero sólo eso, todo lo que quiere.
 La mujer no dijo palabra; sonrió con apatía mientras giraba la cabeza para mirar al hombre.
 Kay observó que la cara del hombre se transformaba, como si se alejara, parecida a una roca en forma de luna que se hundiera con suavidad en el agua. Se sumergió en una tibia languidez. Apenas estaba consciente cuando la mujer le quitó el bolso y le acomodó el impermeable sobre el rostro con delicadeza, como una mortaja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

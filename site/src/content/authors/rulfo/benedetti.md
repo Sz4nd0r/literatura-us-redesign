@@ -461,6 +461,3 @@ pedir excusas al lector (y a Rulfo) por una
 interpretación que, debido a la razón apuntada, no
 tiene en cuenta toda esta vasta bibliografía
 posterior.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

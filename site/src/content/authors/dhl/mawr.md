@@ -1629,6 +1629,3 @@ La señora Witt se puso en pie y miró a lo lejos, muy lejos, hacia la cresta tu
 —¿Cuánto dices que has pagado por Las Chivas? —preguntó.
 —Mil doscientos dólares —contestó Lou sorprendida.
 —Pues yo a eso lo llamo barato, si tenemos en cuenta lo que lleva emparejado. ¡Incluido el nombre!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

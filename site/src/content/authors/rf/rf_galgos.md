@@ -116,6 +116,3 @@ Cerré la puerta. Luego fui hasta el pequeño ventanal y me quedé mirando cómo
 Pasé en la sala casi todo el resto de la tarde, echando de menos la televisión, contemplando la caída de la nieve, alegrándome de que Phyllis lo hubiera arreglado todo y de no tener que hacerlo yo antes de dejar la casa. Y pensando en cuánto me habría gustado comerme una tajada de aquel ciervo.
 Al rato empezó a parecerme magnífica la idea de marcharme: llamar a un taxi, irme en él hasta la estación, subir al tren de Florida y olvidarme de todo lo demás. Y de Tina, rumbo a Phoenix con un tipo que de lo único que entendía en la vida era de galgos
 Pero cuando fui al comedor a coger mi cartera para echarle un vistazo al billete, lo único que encontré en ella fue algo de cambio y unos cuantos estuches de cerillas. Y comprendí que no era sino el comienzo de una nueva racha de mala suerte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

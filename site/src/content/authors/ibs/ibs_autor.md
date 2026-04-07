@@ -149,6 +149,3 @@ Le di mi mano. La suya estaba fría y húmeda.
 –Llévatelo de una vez contigo. Alguien ya trató de robármelo.
 Nos miramos en silencio. El pelo de Sigmund Seltzer se había vuelto escaso y blanco. La frente se había agrandado. Sus ojos irradiaban una nobleza que nunca había visto antes. Me dio la impresión de que Sigmund Seltzer descubrió algo acerca de mí que antes no sabía, con un conocimiento que solo se adquiere cuando el cuerpo decae. Me miraba con una especie de amor paternal. Dijo:
 –¿Qué nos queda? Un arrume de papeles.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

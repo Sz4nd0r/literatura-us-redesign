@@ -264,6 +264,3 @@ Ninguno de los dos miró hacia la casa de las hermanas Hawkins al pasar. Yo no a
 —Le repito que no sé de qué me está hablando.
 Me miró a los ojos un momento.
 —Me parece que puedo confiar en usted —dijo—. Sepa que la segunda voz... era la de Miss Amy.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

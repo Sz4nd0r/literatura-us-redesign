@@ -166,6 +166,3 @@ imposibles de ganar, como las del Somme y Passchendaele.
 había muerto en un accidente o que había tenido un accidente grave. Llamar
 «Lavandería» a una escuadrilla equivale a señalar la elevada mortandad de los pilotos
 de la misma, debida a la ingobernabilidad de los Camels.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

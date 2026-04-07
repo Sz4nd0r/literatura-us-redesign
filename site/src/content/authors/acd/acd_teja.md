@@ -255,6 +255,3 @@ Isadora se lo quedó mirando perpleja.
 —¿Se podría dar por quinientas libras?
 —¡Yo diría que de sobra, la verdad!
 —Muy bien. Creo que va a firmarme un cheque por esa cantidad, y comprobaré que le llegue a la señora Maberley. Le debe un pequeño cambio de aires. Entretanto, señora —la apuntó agitando un índice aleccionador—, ¡tenga cuidado! ¡Tenga cuidado! No puede andar jugando siempre con armas de doble filo sin cortarse esos dedos tan delicados.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

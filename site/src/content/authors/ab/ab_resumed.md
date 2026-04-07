@@ -78,6 +78,3 @@ en Stone’s River
 el 31 de diciembre de 1862
 El hombre cayó definitivamente, desesperado y enfermo. Un poco más allá de la pequeña plaza de piedra que rodeaba al monolito, el terreno mostraba una leve depresión, como consecuencia de unas fuertes tormentas recientes.
 Por allí rodó desmadejado el extraño, hasta llegar a una pequeña acequia de agua muy clara. Quiso beber, en su afán de recuperar el resuello, y logró ponerse en pie haciendo un gran esfuerzo con brazos y piernas. Entonces se acercó a la acequia y vio su rostro reflejado en el agua, como si de un espejo se tratase. Lanzó un grito espantoso. La fuerza abandonó sus brazos. Cayó al agua y allí perdió la vida que ya había perdido mucho tiempo atrás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

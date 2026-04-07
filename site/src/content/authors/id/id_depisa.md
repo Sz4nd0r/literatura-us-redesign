@@ -496,6 +496,3 @@ Augustus lo miró y lo llevó hasta su pecho. Era una redomilla en forma de cora
 Debajo, sobre una cinta pintada, se leían estas dos palabras: «Amitié sincère».
 Salió de casa de su anciana amiga y de la joven pareja mostrando y recibiendo expresiones de una amistad sincera y perdurable y tomó la carretera que conducía a Pisa. La lluvia había cesado. El aire era más bien frío. En el horizonte lejano Augustus vio brillar el arco iris. En el corazón de Augustus se juntaron el orgullo y la satisfacción: orgullo por el destacado lugar en que había logrado colocar su nombre y satisfacción por el deber cumplido.
 Sacó de su bolsillo un espejo pequeño y, sosteniéndolo en el hueco de la mano, se miró en él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

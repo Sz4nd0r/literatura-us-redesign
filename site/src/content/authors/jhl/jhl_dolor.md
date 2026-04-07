@@ -220,6 +220,3 @@ El señor Kapasi empuñó su rama y ahuyentó a los monos, silbando con agresivi
 —Sí, vámonos al hotel de una vez —secundó su marido.
 —Pobrecito Bobby —musitó ella—. Ven aquí un segundo. Deja que mamá te arregle el pelo.
 La mujer volvió a rebuscar en el bolso de paja, sacando esta vez el cepillo, que empezó a pasar junto a la visera translúcida de su hijo. Cuando apartó el cepillo, la tira de papel con la dirección del señor Kapasi revoloteó en el aire. Nadie se dio cuenta; sólo el señor Kapasi. El intérprete la contempló alzarse en el aire, cada vez más alta, arrastrada por la brisa hacia los árboles, donde los monos, sentados, observaban con solemnidad la escena que tenía lugar a sus pies. El señor Kapasi también la observaba, sabedor de que ésta era la imagen de la familia Das que conservaría por siempre en su recuerdo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

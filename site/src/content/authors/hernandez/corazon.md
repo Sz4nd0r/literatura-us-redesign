@@ -243,6 +243,3 @@ Para otra vez que
 vaya a descansar a ese pueblito de recuerdos, tal vez me encuentre con que
 la población ha aumentado; casi seguro que allí estará aquel diario
 verde y los quintillizos a quienes les pinché los ojos con el alfiler.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

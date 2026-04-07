@@ -402,6 +402,3 @@ profanadores de ataudes de inocentes mariposas difuntas; nada de vender el
 alma, la libre conciencia por un mendrugo de gloria vomitada. La vida y la
 poesía requieren del poeta una actitud aun cuando el arcángel de la
 muerte lo fulmine con el rayo de la soledad y el abandono más hondo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -76,6 +76,3 @@ Y yo, de pronto, me sentí desarmado. ¡Era tan feo, con su abrigo demasiado lar
 —Ferdinando, si quieres continuar el partido, hazlo... Yo me voy a casa.
 —Ya he acabado —dijo— ... Vamos.
 Y, muy contento, me cogió del brazo, dirigiéndose conmigo hacia el Lungotevere. Caminamos despacio, al sol, en silencio. Y ahora pensaba que, después de todo, aunque fuera por teléfono, él me había dicho la verdad y advertido de mi error. ¿Y si un hijo no le dice la verdad a su padre, quién se la va a decir?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

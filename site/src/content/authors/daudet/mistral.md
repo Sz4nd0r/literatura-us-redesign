@@ -213,6 +213,3 @@ vuelve a dorar la sala del trono y pone en pie el vasto palacio de otros
 tiempos, donde se hospedaron papas y emperatrices.
 Ese palacio restaurado es la lengua provenzal.
 Ese hijo de labriego es Mistral.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

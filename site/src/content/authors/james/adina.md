@@ -297,6 +297,3 @@ Mrs. Waddington concedió a su hijastra otra oportunidad para arrepentirse demor
 —¿Qué te dijo?
 —Que era feliz.
 Permaneció en silencio y continuamos andando. A medio camino sobre el puente, se detuvo de nuevo y contempló el río. Entonces sacó de su bolsillo un pequeño estuche de terciopelo, lo abrió, y dejó que algo brillara a la luz de la luna. Era el hermoso y aciago topacio imperial. Me miró y supe lo que su mirada significaba. Hizo palpitar mi corazón, pero no dije ¡no! La gema dorada con sus crueles símbolos había sido una maldición. ¡Dejemos que regrese al enmohecido submundo del pasado romano! Así una de sus manos con firmeza; él estiró la otra y con un elegante ademán arrojó la brillante joya al oscuro río. ¡Allí yace! Algún día, supongo, excavarán en el Tiber buscando tesoros y probablemente desentierren nuestro topacio y lo identifiquen. ¿Pero quién podrá asociar este apasionado entreacto humano con su sepultura centenaria?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

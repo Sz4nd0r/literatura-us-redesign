@@ -132,6 +132,3 @@ Cabalgaba abriéndose camino entre las masas de telarañas encalladas. Por algun
 Había pasado su hora. Desde el suelo, sin viento que las empujase, sin una tortuosa sábana disponible, esas cosas no podían hacer mucho daño, a pesar de su veneno.
 Golpeaba con el cinturón las que, según él, se acercaban demasiado. Una vez, estuvo a punto de desmontar en un lugar raso donde corrían varias arañas juntas y pisotearlas con las botas, pero controló su impulso. Varias veces se volvió en la silla y observó el humo.
 —Arañas —murmuraba sin parar—. ¡Arañas! Bueno, bueno… La próxima vez tendré que tejer una tela.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

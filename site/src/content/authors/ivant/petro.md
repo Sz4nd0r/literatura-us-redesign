@@ -161,6 +161,3 @@ Karatáiev dejó caer su vaso y se sujetó la cabeza con las manos. Me di cuenta
 —¡Karatáiev! —gritó alguien desde la habitación contigua—. Karatáiev, ¿dónde andas? ¡Ven aquí, querido amigo!
 —Me están llamando —dijo, levantándose pesadamente de su asiento—. Adiós. Venga a verme si puede. Estoy viviendo en…
 Pero al día siguiente, debido a circunstancias imprevistas, tuve que abandonar Moscú, y nunca volví a ver a Piotr Petróvich Karatáiev.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

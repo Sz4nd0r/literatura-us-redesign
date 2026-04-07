@@ -85,6 +85,3 @@ Me obsesiona, es una locura, pero así es. ¿Quién? ¿Él? ¡Sé de sobra que n
 Sí, pero por más que razone, por más que resista, ya no puedo quedarme solo en casa, porque está él. No volveré a verlo, lo sé, no se me aparecerá más, eso se acabó. Pero está de todos modos en mi pensamiento. Permanece invisible, pero eso no impide que esté. Está detrás de las puertas, en el armario cerrado, debajo de la cama, en todos los rincones oscuros, en todas las sombras. Si vuelvo la puerta, si abro el armario, si llevo la vela debajo de la cama, si ilumino los rincones, las sombras, no está; pero entonces lo siento detrás de mí. Me vuelvo, seguro, sin embargo, de que no lo veré, de que no volveré a verlo. No por eso deja de estar detrás de mí.
 Es estúpido, pero es atroz. ¿Qué quieres? No puedo hacer nada.
 Pero si en mi casa fuéramos dos, siento, sí, siento con toda seguridad ¡que ya no estará él! Pues está allí porque estoy solo, ¡únicamente porque estoy solo!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

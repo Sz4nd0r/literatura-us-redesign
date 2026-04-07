@@ -129,6 +129,3 @@ Ahora que ya no esperaba nada, la historia del beso, su impaciencia, sus vagas e
 El agua corría no se sabía hacia dónde ni para qué. Del mismo modo corría en mayo; el riachuelo, en el mes de mayo, había desembocado en un río caudaloso, y el río en el mar; después se había evaporado, se había convertido en lluvia, y quién sabe si aquella misma agua no era la que en este momento corría otra vez ante los ojos de Riabóvich… ¿A santo de qué? ¿Para qué?
 Y el mundo entero, la vida toda, le parecieron a Riabóvich una broma incomprensible y sin objeto. Apartando luego la vista del agua y tras haber elevado los ojos al cielo, recordó otra vez cómo el destino en la persona de aquella mujer desconocida le había acariciado por azar, se acordó de sus ensueños y visiones estivales, y su vida le pareció extraordinariamente aburrida, mísera y gris.
 Cuando regresó a su isba, no encontró en ella a ninguno de sus compañeros. El ordenanza le informó de que todos se habían ido a casa del “general Fontriabkin”, que había mandado un jinetea invitarlos… Por un instante el gozo estalló en el pecho de Riabóvich, pero él se apresuró a apagar aquella llama, se acostó y, para contrariar a su destino, como si deseara vejarle, no fue a casa del general.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

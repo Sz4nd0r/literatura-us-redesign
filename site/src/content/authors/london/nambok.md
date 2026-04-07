@@ -188,6 +188,3 @@ Ella se lo pensó un momento, mientras la bidarka se alejaba. Luego alzó la voz
 —Soy vieja, Nam-Bok, y pronto estaré entre las sombras. Pero no deseo irme antes de tiempo. Soy vieja, Nam-Bok, y tengo miedo.
 Un rayo de luz cruzó el mar poco iluminado y envolvió al hombre y su barca en un esplendor de rojo y oro. Se hizo el silencio entre la tribu de pescadores y solo se oyó el lamento del viento terral y los chillidos de las gaviotas que volaban bajo.
 [1901]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

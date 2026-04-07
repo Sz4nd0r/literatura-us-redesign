@@ -229,6 +229,3 @@ En la jaula de los zorros se oye un ruido. Un zorro persigue a una zorra, se nec
 Una neblina azulada sube desde los valles. Al otro lado de la frontera centellean luces extrañas. La luna lo ilumina todo y se concentra como hechizada en la blancura de las rocas: bultos de brillante veneno irradiando una enfermiza luz fantasmal.
 Chacales sonámbulos deambulan por los valles. Desde las profundidades de la niebla llaman a sus hermanos atrapados entre barrotes. Estas son las tierras del terror y más allá tal vez se extiendan esos campos de frutales que ningún ojo ha visto y por los que el corazón palpita como implorando: a casa.
 Desde el miedo aterrador, alza la vista. Mira las copas de los pinos. Un halo de luz violeta, de luz pálida, rodea las copas como apiadándose de ellas. Solo las rocas están mortalmente secas. Hazles una señal.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

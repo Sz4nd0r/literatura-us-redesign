@@ -73,6 +73,3 @@ Hada una tarde magnífica. Aunque había nubes cargadas de nieve, una luz brilla
 Todo el mundo en la colina comenzó a gritar: «¡Paren el arrastre! ¡Párenlo! ¡Paren!»
 Pero no había nadie allí para pararlo. Los chillidos de Anne eran roncos y terribles, y cuanto más se esforzaba por soltarse de la cuerda, más violentamente la arrojaba ésta contra el suelo. El espacio y el frío parecían amortiguar las voces —incluso la angustia de las voces—, que se elevaban pidiendo que pararan el arrastre. Los gritos de la niña fueron desgarradores hasta que la rueda de hierro le partió el cuello.
 Los Hartley salieron para Nueva York ese mismo día, cuando hubo oscurecido. Conducirían toda la noche detrás del coche fúnebre. Varias personas se ofrecieron a llevar el volante, pero Hartley dijo que quería conducir él, y su mujer también parecía querer que él lo hiciese. Cuando todo estuvo a punto, la afligida pareja atravesó el porche, mirando en torno a ellos la desconcertante belleza de la noche. Hacía mucho frío, el cielo estaba despejado, y las constelaciones brillaban más que las luces del hostal o del pueblo. El ayudó a su mujer a subir al coche, y después de ponerle una manta sobre las piernas, emprendieron el largo, largo viaje.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

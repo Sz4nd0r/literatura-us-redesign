@@ -31,6 +31,3 @@ La primera semana fue difícil. No es sencillo parar de repente de trabajar. Me 
 Un día salí para mi paseo habitual cuando él, el mendigo, apareció inesperadamente. Diablos, ¿cómo descubrió mi dirección? “¡Doctor, no me abandone!” Su voz era de pena y resentimiento. “Sólo lo tengo a usted en el mundo, no vuelva a hacerme eso, estoy necesitando algo de dinero, esta es la última vez, lo juro”, y arrimó su cuerpo muy cerca al mío, mientras caminábamos, y yo podía sentir su aliento ácido y podrido de hambriento. Era más alto que yo, fuerte y amenazador.
 Fui en dirección de mi casa, él acompañándome, el rostro fijo vuelto hacia mí, vigilándome curioso, desconfiado, implacable, hasta que llegamos a mi casa. Le dije, “espera aquí.”
 Cerré la puerta, fui a mi cuarto. Volví, abrí la puerta y al verme dijo “no haga eso, doctor, sólo lo tengo a usted en el mundo.” No acabó de hablar, o si acabó no lo oí, con el ruido del tiro. Cayó al suelo, entonces vi que era un niño delgado, con espinillas en el rostro y de una palidez tan grande que ni la sangre, que fue cubriendo su faz, conseguía esconder.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -92,6 +92,3 @@ En el pueblo reinó la tristeza, el mercado quedó desierto, las canciones de Ar
 Notas del autor
 1. El maldito intendente encadenó a Antón Timoféyev, y el viejo Timofey liberó a su hijo por 100 rublos; entonces el intendente encadenó a Petrushka Eremeyev, y también le liberó el padre por 68 rublos; quiso encadenar el maldito a Lioja Tarásov, pero éste huyó al
 bosque, y el intendente harto se lamentó y amenazó de palabra, y llevaron a la ciudad de recluta a Vanka el borracho. (Queja presentada por los muzhiks de Goriújino).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

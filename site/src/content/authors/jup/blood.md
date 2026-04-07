@@ -165,6 +165,3 @@ Pero al buscar en su cartera sólo encontró un único dólar gastado. No entend
 —Maldita sea —dijo—. ¿Te lo puedes creer? —Le agitó el billete en la cara—. Trabajo toda la semana como un cabrón para ti y esos mocosos insaciables y ¿con qué termino? Con una porquería de billete de dólar arrugado.
 Las manos de ella bajaron al monedero sobre el asiento, pero su mirada siguió fija en él, después de que su rostro se hubiera retirado, o avanzado, dentro de ese caparazón cerámico de insólita compostura.
 —Pagamos a medias —dijo Joan.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

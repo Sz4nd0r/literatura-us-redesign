@@ -203,6 +203,3 @@ Salvador 1994.
 México 1971. 6. Lara Martínez. op.cit.p.XX
 Revista Tendencias,
 No 40. San Salvador, El Salvador, Mayo de 1995.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

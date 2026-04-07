@@ -110,6 +110,3 @@ Cuando Hooker cogió los lingotes sintió una pequeña picadura en el pulpejo de
 Los espinos eran similares a esos que los Dyak envenenan y utilizan en sus cerbatanas. Ahora comprendía lo que significaba el convencimiento de Chang-hi respecto de la seguridad de su tesoro. Ahora comprendía la mueca de su rostro.
 —¡Evans! —gritó.
 Pero Evans estaba ahora mudo e inmóvil salvo por las horribles contracturas espasmódicas de sus miembros. Un profundo silencio se cernió sobre el bosque. Luego Hooker empezó a chupar furiosamente la pequeña mancha amarilla en el pulpejo del pulgar. ¡A chupar por su vida! Pronto sintió un dolor extraño como de agujetas en los hombros y los brazos, y doblaba los dedos con dificultad. Entonces se dio cuenta de que chupar no serviría de nada. Bruscamente se detuvo, y, sentándose junto al montón de lingotes con las manos en la barbilla y los codos en las rodillas, miró al cuerpo de su compañero, deformado, pero que todavía se movía. Le vino de nuevo a la mente la mueca de Chang-hi. El dolor sordo se extendió hacia la garganta y lentamente se hizo más intenso. Muy por encima de él una débil brisa agitó el verde dosel y los pétalos blancos de alguna flor desconocida bajaron flotando por la penumbra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

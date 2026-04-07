@@ -91,6 +91,3 @@ Cayó en cambio justo al lado de la colchoneta, abierto, pero habían pasado alg
 El entendimiento amoroso era perfecto. Podía tal vez prolongarse más; pero, ¿acaso no había sido todo fulminante en ese encuentro suyo?
 Oscurecía. Abajo los escollos se abrían en tobogán, formando una pequeña cala. Ahora ella había bajado y había metido la mitad del cuerpo en el agua.
 –Ven tú también, démonos un último baño… —Amedeo, mordiéndose un labio, contaba las páginas que faltaban para el final.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

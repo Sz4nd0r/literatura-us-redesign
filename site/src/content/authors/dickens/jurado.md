@@ -74,6 +74,3 @@ Esta vez el muerto permanecía de cara al jurado en el extremo opuesto de la sal
 Cuando yo emití nuestro veredicto de culpabilidad, el velo se desdibujó, todo desapareció ante mis ojos, y el lugar que ocupaba el hombre asesinado quedó vacío.
 El asesino, interrogado por el juez, como de costumbre, acerca de si tenía algo que alegar antes de que se pronunciase la sentencia, murmuró algunas confusas palabras que los periódicos del día siguiente calificaron de “breves frases titubeantes, incoherentes y casi ininteligibles, en las que pareció entenderse que se lamentaba de no haber sido condenado con justicia, ya que el presidente del jurado estaba predispuesto contra él”. Pero la extraordinaria declaración que el acusado hizo en realidad fue ésta:
 —Señoría; me constaba que yo era hombre perdido desde que vi sentarse en su puesto al presidente del jurado. Me constaba Señoría, que no permitiría que saliese libre, porque, antes de que me detuviesen, él, no sé cómo, penetró una noche en mi habitación, se acercó a mi cama, me despertó y me pasó una cuerda alrededor del cuello.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

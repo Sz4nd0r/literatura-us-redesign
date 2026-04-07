@@ -186,6 +186,3 @@ Cuando Planetta, una vez solo, se volvió, el jefe de aquel grupo de hombres arm
 Planetta se llevó la mano al ala del sombrero, con un gesto informal pero lleno de afabilidad, frunciendo los labios en una sonrisa.
 Después, por segunda vez en ese día, de nuevo se encogió de hombros. Giró sobre su pierna izquierda, volvió la espalda a los jinetes, hundió las manos en los bolsillos y se fue silbando; silbando, sí señores, una marcha militar. Se fue en la dirección en la que habían desaparecido sus compañeros, hacia el reino de los bandoleros muertos que él no conocía, pero que era lícito suponer mejor que éste.
 Los caballeros vieron cómo se hacía cada vez más pequeño y diáfano. Llevaba un paso ligero que contrastaba con su vetusta figura; un paso de fiesta que sólo poseen los hombres de veinte años cuando son felices.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

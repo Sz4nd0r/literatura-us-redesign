@@ -169,6 +169,3 @@ Pero sin una sola palabra o gesto, John había abierto la puerta y se había ale
 —¡Cállate ya, por el amor de Dios! —gritó Annie como torturada.
 —¡Bien! Ya estoy preparada para marcharnos. Vamos, Polly —dijo Muriel.
 Todas estaban deseando marcharse. Se arreglaron deprisa con los rostros estupefactos y silenciosos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -52,6 +52,3 @@ Pequeña Flor respondió que sí. Que era muy lindo tener un árbol para vivir, 
 Marcel Pretre tuvo varios momentos difíciles consigo mismo. Pero por lo menos se ocupó de tomar notas. Quien no tomó notas tuvo que arreglárselas como pudo:
 —Pues mire —declaró de repente la vieja cerrando el diario con decisión—, pues mire, yo sólo le digo una cosa: Dios sabe lo que hace.
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

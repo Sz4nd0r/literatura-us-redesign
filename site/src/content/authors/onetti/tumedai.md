@@ -39,6 +39,3 @@ El Pibe soportó silencioso. Al fin, sin alzar la voz:
 —Dos meses en París y ninguna hembra. Date cuenta, volver sin haber cogido. Aunque fuera una sola vez.
 La guitarra continuaba insistente, sin llamar, terca y segura. No hubo ninguna palabra desvergonzada, ni nadie simuló un falso atisbo de cariño. El Pibe revoleó alta en el aire una moneda plateada de cinco francos que tuvo fuerza bastante para brillar en la penumbra y disponer el orden en que se iba a desarrollar la humillante pero victoriosa, única bacanal en París.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

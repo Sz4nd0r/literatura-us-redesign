@@ -110,6 +110,3 @@ Qué magnífico espectáculo: el agua volaba por encima de la borda. Y cuando el
 Todo espíritu de revuelta había muerto en los chinos, se habían vuelto tan obedientes que antes de llegar a San Rafael se ocupaban del remolque, con “Pañuelo Amarillo” dando el ejemplo.
 En cuanto a Georges, éste fue su último viaje con la patrulla de pesca. Esta clase de deporte no le entusiasmaba, explicó; un trabajo de chupatintas en San Francisco se adaptaba mejor a sus gustos.
 Nosotros compartimos plenamente su opinión.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -111,6 +111,3 @@ Empezó a recoger copas y a llevarlas en dirección a la cocina.
 —Has hablado igual que Ruth al decir eso. Incluso le has copiado la autocomiseración. Venga, ayúdame a recoger este desastre.
 —Haces bien en llamarlo desastre —reconoció Richard.
 Pero limpiar, ordenar todos aquellos receptáculos en las bandejas del lavavajillas y después pastorearlos de vuelta, impolutos, a sus espacios asignados en el armario, fue como añadir otra capa más de confusión. Richard se quedó en el sofá intentando ver luz entre la maraña. Joan sospechaba de Ruth; esa oportunidad había desaparecido. Aún le quedaba otra, una manera de derrotar al sistema. Tan sencilla que le hizo sonreír. Acostarse con su arenque rojo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

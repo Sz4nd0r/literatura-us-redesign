@@ -118,6 +118,3 @@ Sin decir palabra, Jaralson siguió a su compañero. Al pasar junto a la elevaci
 —¡Larue, Larue! —exclamó Holker con excitación repentina—. Ése es el verdadero nombre de Branscom, no Pardee. Y, ¡Dios mío!, ahora me acuerdo de todo: ¡el nombre de la mujer asesinada era Frayser!
 —Aquí hay algo que me huele muy mal —dijo el detective Jaralson—, No me gustan nada estas historias.
 De entre la niebla —y al parecer desde muy lejos— les llegó el sonido de una risa sofocada y desalmada, tan desprovista de alegría como la de una hiena que ronda en la noche del desierto en busca de presa. Una risa que se elevó poco a poco y se fue haciendo cada vez más nítida, fuerte y terrible, hasta que pareció rozar los límites del círculo de visión de los dos hombres. Era una risa tan sobrenatural, inhumana y diabólica que les produjo un pavor indescriptible. No movieron sus armas, ni siquiera pensaron en ellas: la amenaza de aquel horrible sonido no era de las que se combaten con ellas. Tras un grito culminante que pareció sonar junto a sus oídos, comenzó a disminuir paulatinamente hasta que sus débiles notas, tristes y mecánicas, se extinguieron en el silencio, a una distancia enorme.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

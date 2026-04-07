@@ -436,6 +436,3 @@ la poesía de César Vallejo.
 cifras entre corchetes corresponden a la numeración
 de las páginas en la edición de las Poesías
 Completas, Losada, Buenos Aires, 1940.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

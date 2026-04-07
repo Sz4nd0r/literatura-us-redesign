@@ -76,6 +76,3 @@ La robusta monja morena volvió a sentarse con su pequeño devocionario. Las otr
 Matthew vio llegar a él a esas figuras voluminosas de manos perdidas. La monja joven iba un poco rezagada.
 —Pardon, ma Mère! —dijo Matthew, como en la calle—. Me he dejado el sombrero en alguna parte…
 Hizo un gesto desesperado con el brazo, y nunca ha habido hombre menos sonriente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

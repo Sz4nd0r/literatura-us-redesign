@@ -87,6 +87,3 @@ Y sin dejarle tiempo de resollar me marché. Di unas vueltas por el barrio y, a 
 —¡Bobo! ¿Por qué has tardado tanto en enterarte de que me gustabas?
 No me dio tiempo a contestarle. Pasábamos en aquel momento ante un horno que vende pasteles calientes, recién hechos. En la puerta, con un hojaldre napolitano en la mano, la boca llena y la cara toda manchada de azúcar y vainilla, estaba Carlo. Yo sentí primero el buen aroma del horno, luego lo vi a él y vi que nos había visto, enlazados, cogidos del brazo. Pero Faustina no se inmutó:
 —¡Adiós, Carlo! —le gritó mientras nos alejábamos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

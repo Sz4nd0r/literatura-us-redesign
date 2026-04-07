@@ -724,6 +724,3 @@ Acerqué el teléfono a mi oído. F. A. hablaba bajo, con miedo de ser oído.
 Colgué el teléfono.
 Tomé la mano de Miriam-Elizabeth-Laura. “Vamos a la cama, no vendrá sino hasta mañana por la mañana.”
 Su mano apretó la mía. Miriam-Elizabeth-Laura ya no tenía miedo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

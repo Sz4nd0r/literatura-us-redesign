@@ -56,6 +56,3 @@ La primera frase que le dijo el otro, cuando ya caminaban deprisa por una senda 
 —Yo también —contestó el otro—. ¿De qué banda eres? ¿Qué nombre tienes?
 Se dijeron los nombres de guerra, las bandas en que habían estado, los compañeros conocidos, las acciones en que habían participado.
 Iba ahora junto al otro por la colina, con el capote militar desabotonado; contento, contento aunque pudieran volver a apresarlo y fusilarlo de un momento a otro, y el cuartel gris ya no existía para él, sumergido en el fondo de la conciencia. La hierba y el sol y ellos, que caminaban con los capotes desabotonados entre la hierba y el sol, eran un símbolo nuevo, aireado y enorme, eran eso que a menudo, sin entender, los hombres llaman libertad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -364,6 +364,3 @@ A Goldie se le caían los mocos y las lágrimas.
 Goldie lo asió de la muñeca.
 —¿Puede usted quitársela?
 —Sí, y que no vuelva a salirle nunca más —dijo el médico, y se apeó de la ambulancia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

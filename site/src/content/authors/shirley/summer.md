@@ -167,6 +167,3 @@ Mrs. Allison se acercó a la ventana y miró a la lisa superficie del lago, a la
 —Ahora comprendo lo de la carta de Jerry.
 —Lo supe anoche, cuando vi apagarse la luz en casa de los Hall —dijo Mr. Allison.
 El viento, soplando repentinamente sobre el lago, remoloneó alrededor de la casita de verano y chocó contra las ventanas. Involuntariamente, Mr. y Mrs. Allison se acercaron más el uno al otro, y, al primer estallido del trueno, Mr. Allison alargó el brazo y cogió la mano de su esposa. Y luego, mientras en el exterior llameaban los relámpagos, y el aparato de radio enmudecía, los dos ancianos se abrazaron en su casita de verano y esperaron.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

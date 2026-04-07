@@ -48,6 +48,3 @@ La, do... la, mi... la, si, do, re... re... re...
 ¡Imposible! ninguna inspiración. No aspiraba a una pieza profundamente original; tan sólo algo que no pareciese de otro y que se relacionase con la idea comenzada. Volvía al principio, repetía las notas, intentaba revivir un retazo de la sensación extinguida, se acordaba de su mujer, de aquellos tiempos primeros. Para completar la ilusión, dejaba correr su mirada por la ventana en dirección a la pareja de recién casados. Ellos seguían allí, con las manos unidas y rodeándose los hombros con los brazos; pero ahora se miraban uno al otro, en vez de mirar hacia abajo. El maestro Román, agotado por el malestar y la impaciencia, tornaba al clavicordio; pero la visión de la pareja no le traía la inspiración, y las notas siguientes no sonaban.
 —la, la, la...
 Desesperado, dejó el clavicordio, tomó el papel escrito y lo rompió. En ese momento, la joven absorta en la mirada del esposo, empezó a canturrear de cualquier modo, inconscientemente, alguna cosa nunca antes cantada ni sabida, una cosa en la cual cierto la proseguía después de un si con una linda frase musical, justamente aquélla que el maestro Román había buscado durante años sin hallarla jamás. El maestro la oyó con pesar, sacudió la cabeza, y esa noche expiró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

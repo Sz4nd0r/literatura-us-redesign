@@ -204,6 +204,3 @@ El amor es inventivo. El alumno del padre Negroni logró establecer una correspo
 Una noche, mientras esperaba a don Octavio, Lucrecia me confundió con él, y me hizo el regalo del que ya hablé en su momento. Es cierto que había algún parecido de estatura y de planta entre don Octavio y yo, y que algunos deslenguados, que habían conocido a mi padre en Roma, pretendían que había razones para ese parecido. Sucedió que el maldito hermano descubrió el asunto; pero sus amenazas no pudieron obligar a Lucrecia a revelar el nombre del seductor. Ya se sabe cuál fue su venganza, y cómo yo estuve a punto de pagar por todos. Es inútil decirle cómo tomaron las de Villadiego los dos enamorados, cada uno por su lado.
 Conclusión. Llegamos los tres a Florencia. Don Octavio se casó con Lucrecia y salió inmediatamente con ella hacia París. Mi padre le hizo el mismo recibimiento que yo había tenido por parte de la marquesa. Se encargó de negociar la reconciliación, y la logró no sin esfuerzo. El marqués Aldobrandi contrajo muy oportunamente el paludismo, del que falleció. Octavio heredó el título y la fortuna, y yo soy el padrino de su primer hijo.
 27 de abril de 1846.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

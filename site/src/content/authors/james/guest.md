@@ -538,6 +538,3 @@ Mrs. Beck había entrado por la puerta vidriera a tiempo de escuchar estas últi
 Laura había salido al porche, donde inmediatamente me uní a ella.
 —Su padre me acepta —dije—; no queda otra cosa excepto que usted…
 Cinco minutos más tarde, miré a través de la ventana para comprobar si nos estaban observando. Pero Mrs. Beck estaba ocupada añadiendo otro terrón de azúcar en la taza de té de Mr. Crawford. La mirada de este último, no obstante, se encontró con la mía y tuve la impresión de que parecía avergonzado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

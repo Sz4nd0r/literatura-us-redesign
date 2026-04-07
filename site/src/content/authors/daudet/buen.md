@@ -112,6 +112,3 @@ ni a nadie, dado que esta vez tenemos buenos cañones, botones en todas nuestras
 polainas y el derecho de nuestra parte. Quédate pues ahí bien tranquilo mirando
 nuestra batalla, y no te pongas ni a favor ni en contra. El asunto de esos
 bellacos estará rápidamente resuelto. Amén”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

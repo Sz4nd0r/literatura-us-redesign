@@ -171,6 +171,3 @@ Hasta que Massigher dijo:
 —Alguien está llamando a la puerta.
 —¿Alguien llamando a la puerta? —preguntó Martora—. ¿Quién piensa usted que puede ser?
 —Nadie —respondió Massigher—. Ahora, naturalmente, ya no hay nadie. Y sin embargo, llaman a la puerta, eso es innegable. Un mensajero tal vez, un espíritu, un alma que ha venido a avisar. Esta es una casa señorial. A veces, los del otro mundo se comportan con mucha cortesía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

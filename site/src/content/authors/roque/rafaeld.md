@@ -835,6 +835,3 @@ asesinado años antes, por lo que ya se estaban poniendo en evidencia las
 contradicciones de las luchas en el tiempo que luchaba Dalton.
 [3] Un elemento concientizador es un elemento desnormalizador; un elemento
 que busca remover la insensibilidad del sujeto social.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

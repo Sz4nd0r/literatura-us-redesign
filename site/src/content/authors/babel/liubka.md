@@ -57,6 +57,3 @@ Davidito, acostado en la cuna, mamaba el chupete y soltaba una baba feliz. Liubk
 —Bueno —dijo entonces Liubka—, ábrele la puerta a Tsudechkis, Pesia-Mindl, y que venga mañana por una libra de tabaco americano…
 Al día siguiente Tsudechkis vino por la libra de tabaco sin precintar del Estado de Virginia. Recibió eso y un cuarto de té. A la semana, cuando fui a comprar palomas a Evzel, vi al nuevo administrador en el patio de Liubka. Era breve como nuestro rabí Ben Zjar. Tsudechkis era el nuevo administrador.
 Permaneció en el puesto quince años y en este tiempo supe de él un sinfín de anécdotas. Si soy capaz, las contaré todas por orden, porque son anécdotas interesantísimas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

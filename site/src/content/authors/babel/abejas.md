@@ -77,6 +77,3 @@ Y desaparecimos.
 holladas avientan hacia mí su veneno irresistible. Ya siento el frío de la
 muerte en mis órbitas llenas de lágrimas yertas. Pero el galope violento me
 lleva lejos de las piedras removidas de tus sinagogas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -37,6 +37,3 @@ Jehuda, hijo de Wolf, rabino de Cracovia y
 de Praga.
 ¡Oh Muerte, oh ladrona codiciosa y voraz! ¿Por
 qué no nos perdonaste siquiera una vez?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -72,6 +72,3 @@ Amanecer aún brumoso. ¿Qué era aquello, un rascacielos? En efecto, parecía a
 Lástima que tú, nueva Lidia, no pudieses enseñar el “carnet” al “seco taconazo de la guardia”. La verdad es que lo demás habría encajado, en particular las luces “bostezadoras”… “Entonces le dije, “¿Por quién me toma usted?” ¿Y él, y él? Nada: “la tomo por una bella mujer”. ¿Yo? Bueno, no es un insulto. ¡Ah, querida! Vas muy de prisa. Lo que él quería era… era. ¿Qué? Hum… Lo que pasa es que si les hacemos caso a todos…” (Primeras conversaciones de compartimento en el tren. Y qué aseadas y gentiles, flequillo y chal, las dos trabajadoras charlatanas. Pero ni siquiera esto servía. Además, quiero y debo concluir.)
 Desde aquel lejano tiempo, nunca volví a estar en la llamada o sedicente Milán. Y, por ejemplo, cuando oigo: “¿Dónde baja usted?” “En Voghera. ¿Y usted?” “Yo voy a Milán”, me río para mis adentros.
 Milán, es evidente, no existe.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -25,6 +25,3 @@ Las puertas se cierran a la distancia, despacio, como el latido de un corazón.
 Se acercan; se detienen en la entrada. El viento sopla, las plateadas gotas de lluvia se deslizan por la ventana. Nuestros ojos se oscurecen; no escuchamos pasos detrás; no vemos ninguna mujer extender su manto fantasmal. Él lleva la linterna. «Mira», susurra él, «profundamente dormida. Hay amor en sus labios».
 Inclinándose, cargando la lámpara plateada sobre nosotros, nos miran durante un largo rato. El viento sopla fuerte; la vela se inclina apenas. Salvajes rayos de luna cruzan el suelo y la pared y, al chocarse, iluminan los rostros inclinados; los rostros cavilosos, los rostros que buscan a los durmientes y a su felicidad escondida.
 «A salvo, a salvo, a salvo», el corazón de la casa late orgulloso. «Tantos años», susurra él, «y me has vuelto a encontrar». «Aquí», murmura ella, «durmiendo; en el jardín, leyendo, riendo, llevando las manzanas al altillo. Aquí dejamos nuestro tesoro». Inclinados, sus luces me hicieron abrir los ojos. «¡A salvo, a salvo, a salvo!». El pulso de la casa late con fuerza. Me despierto y digo «Oh, ¿es éste su tesoro enterrado? La luz del corazón».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -502,6 +502,3 @@ Yo pensaba que Konovalov había cambiado por la vida de vagabundo, que las excre
 Tuvo un acceso de tos, se tapó y comenzó a escupir exasperadamente a la hoguera. A nuestro alrededor todo estaba en silencio, cubierto por el velo espeso de la oscuridad. El cielo sobre nosotros también estaba oscuro, todavía no había luna. El mar, más que verlo, lo sentíamos, tan densa era la oscuridad. Parecía que sobre la tierra hubiera caído una niebla negra. La hoguera se apagaba.
 —Echémonos a dormir —propuso el jojol. Nos metimos en el “agujero” y nos acostamos sacando de él la cabeza al aire. Guardamos silencio. Konovalov tal y como se acostó quedó inmóvil, como petrificado. El jojol se atareaba incesantemente y los dientes no dejaban de castañetearle. Yo miré durante un buen rato cómo se deshacían las brasas de la hoguera: al principio brillantes y grandes, se hacían poco a poco más pequeñas, se cubrían de cenizas y desaparecían bajo ellas. Y enseguida de la hoguera no quedó nada, excepto un cálido olor. Miraba y pensaba:
 “Así somos también todos nosotros… ¡Ojalá ardiéramos con fuego más vivo!”. Tres días más tarde me despedí de Konovalov. Yo me fui a Kubán, y él no quiso ir. Los dos nos separamos seguros de que volveríamos a encontrarnos. No coincidió…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

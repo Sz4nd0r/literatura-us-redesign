@@ -60,6 +60,3 @@ Oscar se volvió a mirar la calle, pensando: «disposiciones» y «afectado»…
 Hizo detener el coche en Paraná y Corrientes, mientras ella sacudía la cabeza y repetía el ruido del llanto. Oscar esperó un momento y después le dijo que él se bajaba allí, pero que si ella quería seguir podía darle dinero para el taxi. Ella dijo que no y bajó, y mientras Oscar pagaba al chófer estuvo esperando recostada a la pared, más gorda que antes, metida en la sombra con su vestido claro; quedaron luego mirándose en silencio, y él sintió el perfume que venía en olas sin fuerza desde el pecho de Perla, que subía y bajaba junto al portal vacío.
 Después Oscar entró en el café y fue a buscar el rincón solitario, pensando en cuál sería la frase que tal vez hubiese esperado la mujer, parada e inmóvil, frente a él, hasta que se separaron sin hablar, y pudo verla de espaldas, alejándose hacia la Avenida, hacia el muro invisible de Rivadavia, de regreso al Sur.
 1946
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

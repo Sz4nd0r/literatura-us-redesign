@@ -141,6 +141,3 @@ Sonó el teléfono.
 —¿La señora Weiss? —preguntó una voz de hombre.
 —Sí —contestó ella—. Soy la señora Weiss. ¿Se trata de Scotty?
 —Scotty —dijo la voz—. Se trata de Scotty —siguió la voz—. Tiene que ver con Scotty, sí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

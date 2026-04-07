@@ -76,6 +76,3 @@ Ellas retrocedieron.
 L. D. se puso la bolsa bajo el brazo y cogió la maleta.
 —Sólo quiero decir una cosa más —empezó.
 Pero le resultó imposible imaginar cuál podía ser aquella cosa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

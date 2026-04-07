@@ -327,6 +327,3 @@ Aparcaría el coche lejos de Delancey Street; vería el cartel de Pepsi y la pal
 labios.
 Si hubiera rechazado regalos del destino o de Dios, o algún serio sustituto, nunca lo sentiría de esa manera. Se sentía como alguien de quien estaba orgullosa, como un antiguo y futuro amigo de ella misma, un amigo aún sin consumir y que se encontraba en algún sitio, muy por delante, como una
 luz que se mueve.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -131,6 +131,3 @@ Siguió con la mirada fija en la cascada. El agua transparente, como una columna
 ¿Hay en la vida, pensó, fenómenos similares? ¿Hay un modo de existencia equivalente, paradójico; una huida y carrera sosegada, clásica, extática? En música existe: es lo que se llama una fuga.
 D’un air placide et triomphant
 tu passes ton chemin, majestueuse enfant.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

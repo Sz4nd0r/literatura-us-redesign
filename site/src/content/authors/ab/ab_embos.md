@@ -32,6 +32,3 @@ El Mayor dio marcha atrás para comunicar a los otros la nueva, creyendo compren
 Esperaron pacientemente a que Dunning regresara para dar novedades, enfundados los sables, pero fue en vano. Una hora después amanecía y la tropa siguió su marcha, con gran cautela siempre. El oficial, sin embargo, comenzaba a dudar de su fe en el soldado Dunning, que no había acudido a dar las novedades esperadas.
 Cuando pasaron por aquel claro vieron al caballo muerto. Y a su derecha, a la altura del cuello del animal, el cadáver del soldado Dunning con un balazo en la cabeza. Llevaba horas muerto.
 Media hora después de aquello, cuando la tropa ya había salido del bosque, lo ocupaba una bien nutrida fuerza confederal para tender una emboscada a todas luces frustrada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

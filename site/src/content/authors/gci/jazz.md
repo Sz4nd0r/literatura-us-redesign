@@ -83,6 +83,3 @@ Entonces él, con mucha paciencia y mucho método, consiguió de alguno de sus b
 Me miró. Se sonrió con su sonrisa doblada. Me dijo, simplemente:
 —Mi nombre es Gianni, no Zanni.
 Zanni, en italiano, quiere decir bufón, cómico, payaso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

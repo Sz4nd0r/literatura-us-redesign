@@ -113,6 +113,3 @@ Ella se levantó y salió de prisa. No se volvió para mirarlo. Él no era el mi
 Los otros dos se separaron un poco más de él, para que se sintiera cómodo. El joven se vio en el espejo que se hallaba detrás del mostrador.
 —He dicho que soy un hombre distinto, James —dijo. Y al mirarse al espejo vio que era completamente cierto.
 —Tiene usted muy buen aspecto, señor —dijo James—. Debe haber pasado un verano magnífico.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

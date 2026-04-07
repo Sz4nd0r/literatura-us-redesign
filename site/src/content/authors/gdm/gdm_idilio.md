@@ -224,6 +224,3 @@ Pero el joven le contestó con
 acento reconocido:
 —Soy yo quien le da las gracias,
 señora. ¡Llevaba dos días sin probar bocado!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

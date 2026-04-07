@@ -732,6 +732,3 @@ allí.
 A cien metros de la casa, Vaminos, el viejo
 pardo comido de pulgas, le llevaba como una flecha hacia el rancho Los Olmos, a
 través de los chaparrales y el polvo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -108,6 +108,3 @@ Era una noche muy abierta. El viento azotaba, buscando en la nada de la pampa al
 En un sitio cualquiera del camino oí a don Gaspar que se decía en la obscuridad:
 —Si nunca la había visto borracha...
 Era como si todo, hasta lo más digno y lo más bello, se hubiera terminado para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

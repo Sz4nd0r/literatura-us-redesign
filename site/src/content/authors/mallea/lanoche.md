@@ -208,6 +208,3 @@ Mauricio baja el papel con estupor.
 —Lo que pensó siempre. Siempre estuvo pensando eso, ese “acto”. Y es peligrosísimo. Tengo miedo de que ya sea tarde.
 —Pero, ¿qué quiere decir? ¿Qué puede hacer?
 —Matar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

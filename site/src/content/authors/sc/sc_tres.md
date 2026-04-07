@@ -977,6 +977,3 @@ El teniente se encogió de hombros. Después de meditar unos
 instantes, volvió a encogerse de hombros. Dijo:
 —La guerra cambia muchas cosas; pero, afortunadamente, no las cambia
 todas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

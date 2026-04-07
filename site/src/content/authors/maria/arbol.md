@@ -112,6 +112,3 @@ Le habían quitado su intimidad, su secreto; se encontraba desnuda en medio de l
 —Pero, Brígida, ¿por qué te vas? ¿por qué te quedabas? —había preguntado Luis.
 Ahora habría sabido contestarle:
 —¡El árbol, Luis, el árbol! Han derribado el gomero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

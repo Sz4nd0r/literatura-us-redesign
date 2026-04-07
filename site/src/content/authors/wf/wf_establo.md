@@ -171,6 +171,3 @@ chismes, las maledicencias que corren en la comunidad, con lo que Faulkner logra
 una metáfora brillante, e intraducible, en torno a la intranquilidad que embarga a
 Sarty en el momento en que puede verse llamado a testificar y a dar testimonio en
 contra de su padre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

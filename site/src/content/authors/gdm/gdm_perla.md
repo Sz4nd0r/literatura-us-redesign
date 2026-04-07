@@ -522,6 +522,3 @@ conocido, y dará a esas dos almas resucitadas, en un segundo, la rápida y
 divina sensación de esa embriaguez, de esa locura que da a los
 enamorados más felicidad en un estremecimiento, que no pueden
 experimentar en toda su vida, otros hombres.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -65,6 +65,3 @@ Dos días después, en la rotonda de la playa, la madre contaba a sus amigas:
 —Baraja —dijo la madre.
 Y la partida comenzó.
 (1940)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -150,6 +150,3 @@ la orilla.
 Al pasar por el puente de Villeneuve, vi una
 cosa oscura en medio del Sena. Parecía una barca, pero era mi prusiano que
 descendía hacia Argenteuil, llevado por la corriente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

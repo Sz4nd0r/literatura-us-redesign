@@ -80,6 +80,3 @@ Y me quité la camisa, quedando desnudo de cintura para arriba. Ella entonces se
 Y luego estalló en risas y escapó. Pero a la mañana siguiente me llevó la maleta y me dijo:
 —Adiós, Attilio —desde lejos, enfurruñada, con la cara medio escondida tras mi pañuelo.
 En Roma, mi madre me recibió con aprensión. Pero bajé al bar y los amigos me dijeron que precisamente el día anterior se había resuelto el asunto de la timba. Todo marchaba bien, era un hermoso día de verano, pero fresco y sin moscas. Encargué un café y me senté con el periódico ante una mesita, exactamente igual que en el sueño. Me parecía que había vuelto a nacer y casi no creía que estaba en Roma y no en Castelbruciato.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -178,6 +178,3 @@ Mostallino, a medida que Perrone daba una de estas definiciones, le arrojaba a l
 Se separaron en la esquina de la calle. Cuando se quedó solo, Perrone miró las dos llaves en la palma de su mano. Le pareció ver a Mónica que lo esperaba allá
 arriba, en el estudio, dispuesta a acogerlo, con el joven cuerpo lleno de impetuoso e impaciente deseo; y de golpe se sintió tentado a volver sobre sus pasos. Pero al mismo tiempo se vio subiendo aquellas escaleras con la furia libidinosa y furtiva que odiaba; y le pareció de nuevo imposible aceptar los halagos de la mujer. Pasaba en ese momento junto a un prado baldío, entre dos casas en construcción. Cogió las llaves y las tiró en la hierba. Aliviado, se encaminó hacia la parada del autobús.
 (1939)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

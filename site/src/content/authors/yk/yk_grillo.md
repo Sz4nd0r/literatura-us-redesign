@@ -44,6 +44,3 @@ Incluso si por siempre recordaran que Fujio le había dado el grillo y que Kiyok
 ¡Fujio! Cuando ya te hayas convertido en un hombre, ríe con placer ante el deleite de una muchacha, a quien le han dicho que se trata de una langosta, y recibe un grillo; y ríe también con cariño de su desilusión al recibir una langosta cuando le habían prometido un grillo.
 Aun si tienes la astucia de buscar solo en un arbusto, alejado de los otros niños, debes saber que no abundan los grillos en este mundo. Probablemente encuentres una muchacha parecida a una langosta a quien veas como un grillo.
 Aunque al final, a tu enturbiado y ofendido corazón hasta un verdadero grillo le parecerá una langosta. Y si llegara ese día, cuando te parezca que en el mundo sólo abundan las langostas, me apenará que no puedas recordar el juego de luces de esta noche, cuando tu nombre por efecto de tu bella linterna se ha inscrito en verde sobre el pecho de una jovencita.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

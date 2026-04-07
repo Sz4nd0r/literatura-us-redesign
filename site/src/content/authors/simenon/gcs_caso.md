@@ -230,6 +230,3 @@ Maigret tuvo que volver la cabeza para esconder una sonrisa.
 Y volvió a encender su apagada pipa, mientras que Voivin, como un hombre deslumbrado por la luz, entraba tanteando en el despacho.
 —¡Ferdinand! —gritó Nicole.
 —¡No! Aquí no… se lo ruego… —gruñó Maigret.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -322,6 +322,3 @@ ojos se le llenaron de lágrimas tanto que no pudo
 encontrar lo que estaba buscando y al final tuvo que
 pedirle a su esposa que le dijera dónde estaba
 metido el sacacorchos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

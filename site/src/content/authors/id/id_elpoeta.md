@@ -599,6 +599,3 @@ La sangre se esparció por todos los sitios. El cuerpo que hacía unos segundos 
 Había llegado el final; un final fatal e irremediable.
 Al consejero le pareció que había sido lanzado con fuerza tremenda e inesperada dentro de un abismo incomensurable. Tardó en llegar. Fue lanzado de una catarata a otra.
 Y mientras tanto, por todas partes, como un eco que retumbara en grandes cavernas, millares de voces repetían sus palabras una y otra vez.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

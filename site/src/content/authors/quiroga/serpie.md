@@ -36,6 +36,3 @@ Esa noche dormí mal, con el constante escape de cuerda en el oído. Al día sig
 A la siesta las gallinas gritaron y sentí los aullidos de un aguará. Salté afuera y encontré al pobre animalito tetanizado ya por dos profundas mordeduras, y una nube azulada en los ojos.
 Tenía apenas veinte días. A diez metros, sobre la greda resquebrajada, se arrastraba la cuarta serpiente en dieciocho horas. Pero esta vez usé un palo, arma más expresiva y obvia que la escopeta.
 Durante dos meses y en pleno verano, no vi otra víbora más. Después sí; pero, para lenitivo de la intranquilidad pasada, no con la turbadora frecuencia del principio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -52,6 +52,3 @@ Por consiguiente, siguióse viviendo y muriendo en igual forma, y esto es lo pri
 ¿No tiene nombre?, preguntarán. Tal vez se llama legión. Importa poco cuál sea su nombre verdadero.
 Si han estado en los pueblos belgas, cerca del campo de Waterloo, habrán visto en alguna iglesia pequeña y silenciosa el monumento erigido por fieles compañeros de armas a la memoria del coronel A., del mayor B., de los capitanes C, D y E, de los subtenientes F y G, alféreces H, 1 y J, de siete oficiales y ciento treinta soldados que cayeron en el cumplimiento de su deber en un día memorable. La Historia de Nadie es la historia de los soldados anónimos de la tierra. Ellos tomaron parte en la batalla, les corresponde parte de la victoria; cayeron y no dejaron su nombre más que en conjunto. La marcha del más orgulloso de nosotros se encauza en el sendero polvoriento que ellos atravesaron.
 ¡Oh! Pensemos en ellos este año, ante el fuego de Navidad, y no los olvidemos después que este se haya extinguido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

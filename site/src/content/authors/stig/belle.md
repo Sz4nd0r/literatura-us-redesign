@@ -77,6 +77,3 @@ Y monsieur Jacques se dio media vuelta y bajó las botellas, no sólo la de coñ
 —Está intacto, maldita sea —gritó el desdichado desde la silla.
 Lo cogimos con cuidado, lo sacamos a la nieve y lo pusimos en las rodillas de Régine. No pronunciamos una sola palabra, ni siquiera cuando llegamos a casa. Montamos el motor y Régine cosió hasta que se fue la luz. Encendimos las velas y comentamos lo complicado que había resultado, lo que no dejaba de ser cierto. Y mientras se hacía de noche y Belleville se cubría de blanco, Ernst leyó la primera carta de René desde Nueva York. Nada sabíamos de lo que podía ocurrir. Si Henry iría a pegarse un tiro o a venir de vuelta y esperar una palabra. Si Kurt vendería la piel o la vería ajarse. Si René retornaría a casa o se haría americano. Si Michèle moriría pronto o viviría mucho tiempo. Si La châtelaine se haría con un novio en primavera o se quedaría siempre entre nosotros, para seguir odiando. Menos sabíamos del tigre: ¿atacaría o pasaría delante de nosotros como un ciego?
 Sólo teníamos una certeza: Régine permanecería siempre allí y aquel invierno, por lo tanto, se acabaría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

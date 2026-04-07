@@ -33,6 +33,3 @@ Unos tres años después, cuando los sucesos aquí relatados ya casi se habían 
 —No —dije—. Si no me puede garantizar que es a prueba de fuego, no la quiero.
 Le di los buenos días y me marché.
 No me la habría quedado por nada del mundo. Despertaba en mí unos recuerdos excesivamente desagradables.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

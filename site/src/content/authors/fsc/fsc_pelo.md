@@ -328,6 +328,3 @@ Ya estaba junto a la cabecera de la cama, muy decidida, tranquila. Actuó con ra
 Una vez abajo, abrió la gran puerta principal, la cerró con cuidado a sus espaldas y, sintiéndose extrañamente feliz y eufórica, salió del portal, a la luz de la luna, balanceando la pesada maleta como si fuera la bolsa de la compra. Cuando llevaba andando un minuto, se dio cuenta de que todavía llevaba en la mano izquierda las dos trenzas rubias. Se echó a reír inesperadamente. Hubo de cerrar bien la boca para aguantar un escandaloso ataque de risa. En aquel momento pasaba por la casa de Warren, e impulsivamente dejó el equipaje en el suelo y, balanceando las trenzas como trozos de cuerda, las lanzó hacia el porche de madera, donde aterrizaron con un leve ruido sordo. Volvió a reírse, sin aguantarse más.
 —¡Hau! —rió frenéticamente—. Yo arrancar cuero cabelludo a esa cosa egoísta.
 Luego cogió la maleta y bajó casi corriendo la calle iluminada por la luna.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

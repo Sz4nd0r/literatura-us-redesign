@@ -425,6 +425,3 @@ allá de lo que se ve se estrene bajo otro nombre, como es costumbre
 en esta ciudad. Para evitarlo, no perdemos un estreno. Noche a noche
 entramos a las diez en punto en el Gran Splendid, donde nos instalamos en
 un palco vacío o ya ocupado, indiferentemente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

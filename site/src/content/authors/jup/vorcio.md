@@ -45,6 +45,3 @@ Se le hacía tarde. Joan lo sabía. Tenía que salir de allí, seguir con su vid
 —Tienes mucha vida por delante —dijo—. Es un pecado hablar de la muerte como lo haces. ¿Por qué tenemos que estar siempre así? Lo odio. Me siento atado de pies y manos. Vengo aquí a ver a los chicos, no a que me hagas sentir culpable.
 Por fin Joan levantó la vista para mirarlo.
 —Tú te sientes tan culpable como… —Esperaron juntos a ver cuál sería el símil— una pata de la cama —terminó de decir Joan, usando el objeto que tenía más cerca, y ninguno pudo evitar reírse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

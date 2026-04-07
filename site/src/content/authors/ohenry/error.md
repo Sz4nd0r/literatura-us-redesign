@@ -245,6 +245,3 @@ había sido recortada la gloria femenina tanto como de su vida, se dejó caer
 sobre la mesa con los brazos estirados; mientras la gente corría a levantar del
 suelo a Ben Tatum, envuelto en el disfraz de mujer que había permitido a Sam
 salvar técnicamente las obligaciones del código.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

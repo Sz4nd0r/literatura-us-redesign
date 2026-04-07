@@ -26,6 +26,3 @@ Me pregunté, influido quizá por el lado práctico de aquella maniobra, si los 
 Había comenzado a llover. Volví a entrar y sentí la opresión de un universo de agua, tanto dentro como fuera, tanto sobre los muertos como sobre los vivos.
 Los empleados de la traída de aguas estaban repartiéndose un tesoro. Su uniforme era azul oscuro, con el cuello alto de los empleados municipales, pero llevaban ásperos jerseis bajo la blusa y tenían metidas las perneras de los pantalones en las botas altas. No era el suyo un trabajo envidiable. Me dije que en sus pulmones crecería la misma flora que en la piedra. Sus rostros estaban relucientes y coloradotes, el frío agolpaba la sangre contra la piel, muy satinada por la neblina.
 Me vieron, pero hicieron gran alarde de no hacerme caso. Abrieron la botella de whisky para llenarse las copas de latón. También los bomberos y los enterradores sienten mucho apego a sus ritos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

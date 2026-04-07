@@ -154,6 +154,3 @@ Cuando los soldados le encontraron, tres horas después, estaba echado con la ca
 Esa noche murió en el hospital, sin haber vuelto a ver.
 Los médicos vieron los cardenales en las piernas, detrás, y quedaron en silencio.
 Los cuerpos de los dos hombres estaban juntos, uno al lado de otro, en la morgue, uno blanco y delgado, pero descansando rígidamente, y el otro como si a cada momento pudiera volver a la vida, tan joven e inutilizado, desde un sueño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -17,6 +17,3 @@ No era noche cerrada cuando estiré el brazo para encender la lámpara sobre la 
 Después de una pausa y un pequeño ruido de papeles, el hombre de la baba blanca habló detrás de mi nuca. Su voz era átona:
 —Este sí que es fácil. Un sueño elemental. Hasta un niño podría interpretarlo. Yo soy el ladrón que busca saber, entrar en su ego. ¿Por qué tanto miedo?
 1993
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

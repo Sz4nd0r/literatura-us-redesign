@@ -213,6 +213,3 @@ Extendió la mano, cuando vio el revólver con silenciador que le apuntaba, en u
 Cogí la libreta y todos los papeles y me fui, tras cerrar la puerta.
 El perro se levantó y vino junto a mí. Tenía que encontrar un barco que me sacara de Oriximiná.
 Contemplé las aguas del Trombetas y del Nhamundá iluminadas por el sol poniente, encontrándose, en medio de la selva inmensa, con las aguas doradas del Amazonas. El silencio cubría la tierra. De repente, mi cuerpo se contrajo en un espasmo violento y me detuve para respirar, como un ahogado en medio de todo aquel aire. Después empecé a temblar convulsivamente y a respirar aullando, como un animal en agonía. El perro corrió asustado. Pero pronto cesaron los temblores y me sentí envuelto en una sensación de paz y felicidad que parecía iba a durar siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

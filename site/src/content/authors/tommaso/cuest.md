@@ -30,6 +30,3 @@ Sin embargo, se obligó a resistir y lo logró durante otra semana. Pero, cuando
 Pero como no tenía malditas las ganas de matarse, C. tomó las de Villadiego.
 Y con esto la cosa quedaría vista para sentencia. Pero, mira por dónde, surge el consabido pío pío del consabido lector impertinente: “Y una vez que tomó las de Villadiego, ¿qué ocurrió? ¿Volvió a encontrar su sí o, al menos, su aquiescencia a un orden constituido?”.
 ¡Hay que ver en qué cosas se entrometen los lectores! —habrá que responder—. Sí, volvió a encontrarlo o no lo volvió a encontrar. En todo caso, aténganse los lectores a lo que se les comunica y no intenten penetrar las intenciones del autor, a menudo oscuras para él mismo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

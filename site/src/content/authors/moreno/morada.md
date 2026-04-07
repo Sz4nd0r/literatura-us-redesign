@@ -1195,6 +1195,3 @@ mirada intensa y sin réplica, esperando que ella le rebotase su impulso
 interior, el famoso impulso de la verdad interior. Pero sólo pudo
 descubrir en su cara un escozor de turbio agradecimiento y la paz que había
 resuelto arrancarle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

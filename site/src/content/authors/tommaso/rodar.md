@@ -32,6 +32,3 @@ Mientras tanto, el asesino se había levantado. En silencio, más con la mirada 
 —Al menos dime una cosa, Giovanni —dijo, mientras estaban mano sobre mano, el uno frente al otro a la espera de la policía—. ¿No viniste aquí casi un minuto antes de lo previsto?
 —Pues claro —respondió lanzando una rapidísima mirada al reloj de pared—. Claro que sí. Es que oí caer y rodar una moneda. Entonces, seguro que usted lo comprende, profesor, vine a toda prisa aquí de puntillas…
 Hay que ver hasta qué punto uno puede engolfarse en estúpidas reflexiones. Y hay que ver a qué queda confiada nuestra suerte, cuando habría sido tan fácil haber tirado la moneda a la alfombra en lugar de al suelo. ¡Y cuando el problema ya estaba resuelto!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

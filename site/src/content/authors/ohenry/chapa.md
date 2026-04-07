@@ -90,6 +90,3 @@ Los ojos de Fritz parecían querer traspasar los lentes.
 —Estaba segura de que iría a salvarme —dijo Lena sentada en la acera sobre el montón de frazadas—. Y anoche fue con sus caballeros armados a asaltar el castillo del ogro. Rompieron los platos y echaron las puertas abajo. A mistress Maloney la metieron en un barril de agua de lluvia y después la embadurnaron de harina. Cuando los caballeros se pusieron a disparar sus armas, los trabajadores que viven en la pensión saltaron por las ventanas y se escondieron en el bosque. Los tiros me despertaron y me asomé a la escalera. Entonces subió el príncipe y me envolvió en las frazadas y me sacó de allí. Era alto, fuerte y cortés. Tenía la cara tan áspera como un estropajo, hablaba con suavidad y educación y olía a aguardiente. Me colocó delante de él, en la silla de montar, y cabalgamos entre los otros jinetes. Me sostenía firmemente, y yo me quedé dormida y no desperté hasta llegar a casa.
 —¡Tonterías! —se quejó Fritz Bergmann—. ¡Cuentos de hadas! ¿Cómo pudiste llegar desde la cantera hasta mi carreta?
 —Me llevó el príncipe —respondió Lena con naturalidad. Y desde aquel día las buenas gentes de Fredericksburg no han sido capaces de obtener de ella otra explicación.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

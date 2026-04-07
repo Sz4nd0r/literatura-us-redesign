@@ -239,6 +239,3 @@ Izzart enrojeció intensamente. Se acordó de lo que había dicho al Residente. 
 Campion sonrió y sus ojos azules brillaron divertidos y alegres.
 —Por miedo —repuso. Y después, con una mueca que descubrió sus dientes rotos y descoloridos, dijo:
 —Tome un cigarro, mi querido amigo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

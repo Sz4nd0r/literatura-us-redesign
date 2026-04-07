@@ -83,6 +83,3 @@ Pero el príncipe exclamó:
 Y el jefe de los brokahs dijo:
 —¡Pardiez, no puedo comprender esto! Que tu madrina haya muerto, que esté agonizando o que sea inmortal, parece que no significa nada. Así pues, ¡oh príncipe!, por las leyes de Biz y de Alá estás libre de responsabilidad. Da al brokah tu stokh por setenta mil cequíes y mándale que se vaya. Las responsabilidad caerá sobre él.
 Cuando el príncipe oyó este mandato, entregó su stokh al brokah, quien le dio a cambio setenta mil cequíes. Pero el corazón del virtuoso príncipe no se regocijó, ni tampoco el brokah cuando halló que el stokh no tenía ningún valor, mas los mercaderes levantaron las manos en señal de admiración por la sagacidad y el ingenio del famoso príncipe Bulleboye. Pues ninguno quiso creer que el príncipe había seguido la ley de Alá y no las reglas de Biz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

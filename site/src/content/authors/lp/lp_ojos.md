@@ -70,6 +70,3 @@ Ahora, por primera vez, Anna encontraba algo muy diferente de qué quejarse en r
 Volvió a encender la lámpara y, de nuevo, contemplando la imagen, se sintió atraída por la expresión de aquellos ojos. ¿Ella también, por tanto, había sufrido realmente por él? ¿Ella también, al darse cuenta de no ser amada, había sentido aquel vacío angustioso?
 —¿Sí? ¿Sí? —Anna, ahogada por el llanto, le preguntó a la imagen.
 Y entonces le pareció que aquellos ojos buenos, apasionados, la compadecían a su vez, se apiadaban de aquel abandono, del sacrificio no retribuido, del amor que quedaba encerrado en su pecho, como un tesoro en un cofre, del cual su marido tenía las llaves, que —avaro— no utilizaría jamás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

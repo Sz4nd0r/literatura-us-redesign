@@ -496,6 +496,3 @@ Manuel abrió los ojos y miró a Zurito.
 —¿Acaso no me iba bien, Manos? —preguntó pidiendo confirmación.
 —Claro —contestó su amigo—. Todo marchaba a las mil maravillas.
 El ayudante del médico puso el cono sobre el rostro de Manuel, que inhaló profundamente. Zurito le miraba con torpeza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

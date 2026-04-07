@@ -244,6 +244,3 @@ repugnancia como al contacto de los objetos arrastrados en crímenes, de
 deseo como ante la tentación de algo infame y misterioso.
 El médico prosiguió encogiéndose de hombros:
 —La mente del hombre es capaz de cualquier cosa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

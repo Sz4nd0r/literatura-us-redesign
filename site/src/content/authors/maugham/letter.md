@@ -560,6 +560,3 @@ Poco a poco los rasgos de la señora Crosbie se distendieron.
 La pasión que crispaba su rostro se desvaneció, como si se hubiera alisado un papel ajado. En un instante su expresión volvió a ser tranquila y cándida.
 Estaba aún pálida, pero sobre sus labios renacía una dulce sonrisa. Volvía a ser, en su exterior, la mujer bien educada y distinguida.
 —Voy, querida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

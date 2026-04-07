@@ -98,6 +98,3 @@ Al rato llegó Giuseppina, jadeante, asustada. Al verla tan contrahecha y fea, p
 —No te asustes, no es nada... Solo que Raimondo ha subido a la terraza para ayudar a la hija del portero de ahí enfrente a tender la ropa.
 —¡Pobre de mí! —dijo ella—. ¡Me va a oír!— y se encaminó directamente al portal, a través de la calle.
 Me quité la bata, me puse la chaqueta y bajé la persiana metálica. Pero antes de irme colgué un cartel impreso que habíamos encontrado entre los lavabos al comprarlos en otra peluquería. Decía: “Cerrado por luto familiar”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -50,6 +50,3 @@ Toqueteó torpemente el pomo de la puerta.
 En la habitación el silencio se hizo insoportable para la mujer. Quería llorar de felicidad por las palabras que habían salido de los labios de su hijo, pero expresar alegría se había vuelto imposible para ella.
 —Deberías salir con los otros chicos. Pasas demasiado tiempo encerrado —dijo.
 —Pensaba ir a dar un paseo —respondió el chico saliendo torpemente de la habitación y cerrando la puerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

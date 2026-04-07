@@ -327,6 +327,3 @@ Su sombrero de paja apuntaba hacia Palm Beach, San Agustín, Miami. El criado gi
 —A pasar el invierno al Sur —repitió Jim, y añadió dulcemente—: Eres la chica más bonita que he conocido. Vuelve a tu hamaca, y duerme, duerme…
 Era casi una nana, tal como pronunciaba las palabras. Se inclinó ante Amanthis, solemne, profundamente, y todo el Norte participó del esplendor de su reverencia.
 Y se fueron carretera abajo entre una ridicula nube de polvo. Antes de que llegaran a la primera curva Amanthis los vio frenar en seco, apearse y clavar la parte de arriba en la parte de abajo del coche. Volvieron a sus asientos sin mirar a su alrededor. Luego tomaron la curva y se perdieron de vista, dejando, como única señal de su paso, una neblina dorada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -111,6 +111,3 @@ La señora Wilkins abrió la boca y volvió a cerrarla; dejó la servilleta en l
 Cuando giró sobre sus talones y volvió a su mesa, la señora Straw ya se había puesto el abrigo y la esperaba de pie.
 —Pagaremos a la salida —dijo la señora Wilkins lacónicamente.
 Recogió su abrigo y las dos mujeres se encaminaron a la puerta con aire digno. El hombre y la chica se quedaron inmóviles unos momentos, contemplando al muñeco caído de lado, con la cabeza torcida. Después, la muchacha alargó la mano y enderezó la cabeza de madera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

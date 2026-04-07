@@ -922,6 +922,3 @@ quieres decir con eso de advenedizo”; y acabé diciendo: “¿Advenedizo
 yo? Advenediza tu chingada madre.” Pasada esta fase, salí a la calle,
 com­pré un suéter y varias camisas y me olvidé de Julia y de la
 religión. No he vuelto a verla, ni a confe­sarme.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

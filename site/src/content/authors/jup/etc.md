@@ -140,6 +140,3 @@ Strunk empezó a reírse, como lo hacía siempre antes de ponerse a contar algo:
 —¿Me disculpas por hoy Dave? —dijo—. Mi esposa me está esperando. Strunk era demasiado lento como para captar la rabia de Mark.
 —Ahora tengo que regresar al gimnasio. Con esta lluvia, no puedo sacar a las cancha a los bebitos; luego sus mamitas le mandan recados al profe, quejándose —siguió caminando como pato por el hall; dio vuelta en el extremo, y gritó—: No se lo vayas a contar a ya sabes quién.
 El señor Prosser tomó su saco del casillero y se lo echó encima. Se puso el sombrero. Colocó los protectores de hule sobre sus zapatos, lastimándose un poco los dedos al ajustarlos. Sacó su paraguas y pensó en abrirlo ahí mismo en el hall desierto, a manera de chiste, y decidió que mejor no. La muchacha había estado a punto de llorar; estaba seguro de eso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

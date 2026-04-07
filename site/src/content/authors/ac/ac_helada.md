@@ -53,6 +53,3 @@ El inspector cogió el vaso con ambas manos, se alejó unos pasos y, tratando de
 —¡Es hora de volver a casa! —dijo, poniéndose en pie— ¡Adiós! Escuche —añadió, dirigiéndose al inspector—, dígale a los músicos que… dejen de tocar y pídale de mi parte a Pável Semiónovich que les envíe… cerveza o vodka.
 El gobernador y el obispo se despidieron del alcalde y salieron del pabellón.
 Yegor Ivánich se sirvió vino caliente y, mientras el inspector apuraba su vaso, tuvo tiempo de contarle muchas cosas interesantes. No sabía estar callado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

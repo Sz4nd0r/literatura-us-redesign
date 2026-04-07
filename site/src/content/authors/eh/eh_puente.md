@@ -53,6 +53,3 @@ Me miró con una expresión de cansancio en sus facciones y, como tenía que com
 —Gracias —dijo mientras se ponía de pie, tambaleaba de un lado a otro y volvía a caer sentado en el polvo.
 —Estaba cuidando animales —expresó lentamente, aunque ya no se dirigía a mí—. Estaba cuidando animales, nada más... nada más...
 No había nada que hacer con él. Era domingo de Resurrección y los fascistas avanzaban hacia el Ebro. Era un día gris y nublado, y el cielo bajo impedía la acción de los aviones. Eso y el hecho de que los gatos supieran cuidarse representaba toda la buena suerte que podía esperar el anciano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -39,6 +39,3 @@ Los generales no sienten hambre, porque su mesa personal es la principal preocup
 Los generales no mueren de espaldas al mundo bajo el infierno de la artillería, de las bombas y de la metralla, sin que nadie se aperciba hasta que tan sólo un comunicado señale la pérdida. (Éste es una excepción a tal regla.) Y por eso la gente no los quiere; y uno no siente piedad por ellos.
 ¡Cuán difícil es ser general, sobre todo muerto! En otro momento, sí, hubo que asistir a una ceremonia e inclusive un monumento. Pero, ¿y ahora? Ahora, cuando mucho, se hace una mueca y ¡vamos!... ¡a la basura!, olvidado.
 Entonces, de hecho, uno de los obreros comenzó a empujar arena con el pié para rellenar la excavación y cubrir por lo menos al desdichado. Luego, después de haber recogido sus herramientas, saltó con los otros al jeep que arrancó inmediatamente, y encendió un cigarrillo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

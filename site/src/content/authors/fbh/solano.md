@@ -93,6 +93,3 @@ Mientras me alejaba del lugar, uno de los caballeros, una de las víctimas, cono
 —¿Un qué?
 —Un pastor. Cuidaba su rebaño en las dulces colinas de Solano.
 —Bueno, lo único que puedo decirle es ¡a la m... con California, su vida sencilla y sus pastores!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

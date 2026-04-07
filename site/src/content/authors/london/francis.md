@@ -349,6 +349,3 @@ O’Brien. Los recién llegados botaron una lancha, que, a golpes de remo, se fu
 acercando. John Gorman estalló en carcajadas. Primero suavemente, pero, poco a
 poco, aumentaba de tono. Fue esa risa de perturbado la que saludó al bote de
 rescate, al atracar al costado, y al primer oficial que subió a bordo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

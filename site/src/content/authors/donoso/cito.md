@@ -134,6 +134,3 @@ Las empleadas nunca han vuelto a soportar que un “hombrecitos” trabaje en ca
 Una tarde iba yo apresurado por una calle en un barrio miserable. Al pasar frente a la puerta de una cantina di limosna a un pordiosero increíblemente harapiento. Muchas cuadras más allá me di cuenta de que aquel mendigo que me mirara con insistencia, pero sin hablarme, era Juan Vizcarra. ¡Era un anciano, y Juan Vizcarra era sólo diez años mayor que yo! Volví de carrera a la cantina, pero el mendigo ya no estaba allí... ¡Juan era tan orgulloso! Pero después de todo quizás no fuera Juan, quizás fuera sólo imaginación mía creer que ese limosnero cojo tumbado en un charco de suciedad a la puerta de una cantina era Juan Vizcarra.
 A veces pienso que lo buscaré. No puedo olvidar la cancioncilla maliciosa que silbaba al entrar a casa en la mañana, ni la destreza con que esos dedos colorados y romos hicieron brotar la vida ante mis maravillados ojos de niño. Pienso buscarlo..., no sé para qué. Pero los años pasan. Ahora sólo muy de tarde en tarde llego a preguntarme:
 “¿Qué será de Juan Vizcarra?”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

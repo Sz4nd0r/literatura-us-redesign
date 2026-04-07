@@ -40,6 +40,3 @@ Nos quedamos mirando al raro hombre con explicable curiosidad.
 Como el comentario era bastante complicado, nadie respondió. Poco después el narrador se retiraba a su camarote. El capitán lo siguió un rato de reojo.
 —¡Farsante! —murmuró.
 —Al contrario —dijo un pasajero enfermo, que iba a morir a su tierra—. Si fuera farsante no habría dejado de pensar en eso, y se hubiera tirado también al agua.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

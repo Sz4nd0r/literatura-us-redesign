@@ -285,6 +285,3 @@ Pável se abalanzó hacia el hombre con los puños alzados y el oficinista princ
 —¡Encadénenlo! —rugía Nikolái Yereméich.
 No me molestaré en describir el final de esta escena porque me temo que ya he mancillado la sensibilidad de los lectores.
 Aquel día regresé a casa. Una semana más tarde me enteré de que la señora Losniakova había mantenido a su servicio tanto a Pável como a Nikolái, pero que se había desprendido de la muchacha llamada Tatiana; evidentemente no la necesitaba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

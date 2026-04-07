@@ -159,6 +159,3 @@ Por la noche cuando volví estaba mejor; pero contra lo mandado por el médico, 
 Después apoyó la cabeza entre las manos y quedó pensativo. Cuando la levantó dijo a su mujer:
 —¿Sabes que mientras buscaba apoyo y protección por todas partes me había olvidado del más poderoso de todos, del que manda en los reyes y en los ministros?... Me parece que ya es tiempo de pedirle que se interese por mí. Y si no fuese tarde, mañana mismo le pediría una audiencia...
 Aun no había llegado el día de mañana, cuando ya había obtenido la audiencia... ¿Le darían entonces un buen destino?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

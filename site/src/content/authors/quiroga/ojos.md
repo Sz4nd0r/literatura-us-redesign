@@ -245,6 +245,3 @@ por primera vez los ojos de María.
 Y yo no hacía sino recordarlos.
 *Este cuento, “Los ojos sombríos”, apareció en las dos primeras ediciones de Cuentos de amor,
 de locura y de muerte (1917 y 1918), pero fue eliminado de la tercera edición y de las ediciones posteriores.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

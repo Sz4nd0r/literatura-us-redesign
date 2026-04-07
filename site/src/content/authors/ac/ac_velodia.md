@@ -138,6 +138,3 @@ Volodia se introdujo el cañón del revólver en la boca; tanteando con los dedo
 —Parece que hay que levantar esto… —dijo—. Sí, debe de ser así…
 Avgustín Mijaílich entró en la “sala común” y se puso a contar a carcajadas alguna anécdota. Volodia volvió a meterse el cañón en la boca, lo apretó con los dientes y presionó el gatillo con el dedo. Se oyó una detonación… Algo impactó con una fuerza terrible en la nuca de Volodia, que cayó sobre la mesa, con la cara entre los recipientes y los frascos. En ese momento vio cómo su difunto padre, tocado de un sombrero de copa con una ancha cinta negra, el mismo que había llevado en Menton cuando guardaba luto por cierta dama, le cogía de pronto en brazos y se hundía con él en un abismo profundo y negrísimo.
 Luego todo se volvió confuso y desapareció…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

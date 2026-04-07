@@ -136,6 +136,3 @@ Le dio la nota y sacó el cambio del monedero que llevaba debajo del delantal. D
 Herr Scholtz aceptó la derrota con ecuanimidad y esbozó una sonrisa triste, agradecida.
 El capitán estaba en su silla, rígido, y los miraba a ambos con ardiente hostilidad, aferrándose a sus propios y auténticos recuerdos.
 Pero Rosa siguió riéndose de él hasta que, rozándolos a ambos con su vestido, abandonó la terraza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

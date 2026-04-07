@@ -2070,6 +2070,3 @@ Pero todo ello conducía a otra cosa:
 —Y tú, ¿con quién te casas?
 Al principio, por toda respuesta, Maud se quedó observándolo. Luego, mirando en derredor y no viendo impedimento, inclinóse con una ternura que la hacía sentirse transformada, conquistada por algo que desconocía, pero que a ojos de los demás podía incluso parecer que conocía, y lo besó con gravedad. Hecho lo cual, Bight le ofreció el brazo y reanudaron su paseo.
 —Esto, al menos —dijo ella—, lo pondremos en los periódicos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

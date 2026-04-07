@@ -215,6 +215,3 @@ cubre las líneas amarillentas de la puerta, tantea la mesa buscando el
 vaso.
 Después, cuando Martín encuentra el
 picaporte, to­ma la ginebra de un golpe.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

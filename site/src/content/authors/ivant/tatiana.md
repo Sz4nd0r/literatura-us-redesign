@@ -102,6 +102,3 @@ Ha pasado un año desde entonces. Belovzórov todavía vive con su tiíta y aún
 Muchos de sus antiguos amigos han dejado de visitar a Tatiana Borísovna.
 Nota del Autor:
 [1]. Entre la gente del pueblo la ciudad de Mtsensk se llama Amchensk, y sus habitantes amchenios. Los amchenios son tipos animados; no es por nada que decimos a nuestros enemigos que enviaremos “un amchenio a su casa”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

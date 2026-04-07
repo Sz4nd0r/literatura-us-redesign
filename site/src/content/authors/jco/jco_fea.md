@@ -347,6 +347,3 @@ Avergonzada, empujé las espinas hacia el cubo. Qué hedor subía de él.
 —Muy bien, cariño. Veamos cómo haces la operación, de principio a fin. A cortar.
 El señor Yardboro no era mucho más alto que yo, pero se alzaba imponente sobre mí. Empujando mi hombro con el suyo. Como si fuéramos iguales, casi, aunque yo sabía que no era así.
 Durante toda mi vida, nunca he podido comer pescado sin oler el hedor de la cocina de Sandy Hook y sentir una oleada de nerviosismo que se convierte en náuseas. Tripas de pescado crudo, pescado frito, pan rallado grasiento. Me daba asco pero comía de todos modos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

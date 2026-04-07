@@ -233,6 +233,3 @@ perros, la gamita no iba sino en las noches de tormenta. Y cuando caía la
 tarde y empezaba a llover, el cazador colocaba en la mesa el jarrito con
 miel y la servilleta, mientras él tomaba café y leía, esperando en la
 puerta el ¡tan-tan! bien conocido de su amiga la gamita.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

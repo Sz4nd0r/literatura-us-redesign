@@ -120,6 +120,3 @@ Dónde está mi jersey islandés, le digo a Lydia, pero es demasiado tarde, ya q
 Cafre, le oigo decir a Lydia. En voz baja pero con maldita claridad.
 Y un cuco que trina desde algún lugar a lo alto.
 Y el reloj de padre que funciona de nuevo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

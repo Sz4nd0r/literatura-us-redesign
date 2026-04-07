@@ -252,6 +252,3 @@ Entonces abrió la guantera, sacó el libro y se volvió hacia él.
 —Toma —dijo, a secas.
 Cuando miró, vio que ella le alargaba los dos retratos —el de la mujer con una sonrisa y los ojos serios, y el del niño, tomado en un estudio, con los ojos enormes y serios, sin sonreír— y que él los aceptaba maquinalmente.
 —Están mejor contigo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -221,6 +221,3 @@ fijamente y le dijo:
 —¿Qué vas a hacer, mi pobre Diablo? Las capas de algodón tienen ahora franjas
 de seda, como las de terciopelo tuvieron franjas de algodón. Qué vas a hacer.
 Es la eterna contradicción humana.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

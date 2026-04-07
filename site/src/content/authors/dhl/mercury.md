@@ -194,6 +194,3 @@ muchedumbre mientras se apresuraba, temerosa, en el descenso de la empinada
 ladera ventosa, desenredándose de las ramas de pino caídas.
 Entretanto, el sol empezaba a generar
 vapor en el fuerte calor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

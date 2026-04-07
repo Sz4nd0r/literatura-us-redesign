@@ -138,6 +138,3 @@ Nos dio tiempo de alcanzar al mayor antes de que doblara la esquina.
 —Esta mera palabra, querido amigo, hubiera debido darme la clave de toda la historia, de ser yo el investigador ideal que usted se empeña en describir. Es, evidentemente, una palabra de reproche.
 —¿De reproche?
 —Sí, el rey David se descarriaba a veces un poco, y en cierta ocasión lo hizo por los mismos derroteros que el sargento James Barclay. ¿No recuerda el asuntillo de Uría y Betsabé? Mucho me temo que mis conocimientos bíblicos están un poco oxidados, pero lo encontrará en el primero o segundo libro de Samuel.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

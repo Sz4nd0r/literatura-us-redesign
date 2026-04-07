@@ -74,6 +74,3 @@ Luego Clyde avanzó, con las botas chorreantes, y arrojó el periódico al agón
 —¡Bah! ¡Se refería a otra Ruby Fisher… de Tennessee! —gritó su marido—. Querías tomarme el pelo, ¿eh? ¿De dónde has sacado el periódico? —Le dio un jubiloso azote en el trasero.
 Ruby ocultó las manos temblorosas en los pliegues de la falda. Y estuvo quieta junto a la ventana hasta que todo quedó en silencio, dentro y fuera, antes de prepararse su cena.
 Fuera reinaba la oscuridad, la incertidumbre. Se había alejado la tormenta; sus rumores llegaban distantes, y eran como un carro que cruzase un puente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

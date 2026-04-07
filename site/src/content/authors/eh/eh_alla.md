@@ -54,6 +54,3 @@ Los tablones eran duros. Jim le había levantado el vestido y trataba de hacerle
 Los tablones de madera de cicuta del embarcadero eran duros, y estaban fríos y astillados, y Jim pesaba mucho encima de ella y le había hecho daño. Estaba tan incómoda y aplastada que lo empujó. Jim se había quedado dormido. No se movía. Ella salió de debajo de él y se sentó, se estiró la falda y el abrigo, y trató de arreglarse el pelo. Jim dormía con la boca ligeramente abierta. Se inclinó sobre él y le besó en la mejilla. Él siguió durmiendo. Le levantó un poco la cabeza y se la sacudió. Él la dejó caer y tragó saliva. Liz se echó a llorar. Se acercó al borde del embarcadero y miró el agua. De la bahía se levantaba niebla. Tenía frío y se sentía desgraciada, todo parecía haberse desvanecido. Regresó al lado de Jim y volvió a zarandearlo para estar segura.
 —Jim —dijo llorando—. Por favor, Jim.
 Jim se movió y se acurrucó un poco más. Liz se quitó el abrigo y, agachándose, lo tapó con él. Lo arropó con esmero y cuidado. Luego cruzó el embarcadero, subió por la carretera empinada y cubierta de arena, y se fue a la cama. Una fría niebla llegaba de la bahía a través del bosque.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

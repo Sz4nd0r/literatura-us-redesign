@@ -520,6 +520,3 @@ Yo se la di. Hasta entonces, siempre había trucado las balanzas basándome en e
 En cuanto a mi mujer, qué voy a decir. Solo tiene un defecto: si no se la vigila, es capaz de regalar hasta las paredes del puesto comercial. Por lo visto, es algo natural en los canacos. Se ha convertido en una mujer muy robusta y podría lanzar a un policía londinense por encima del hombro. Pero eso también es natural en los canacos, y de lo que no hay duda es de que no hay otra como ella.
 Una vez concluida su misión, el señor Tarleton volvió a casa. Era el mejor misionero que he conocido nunca, y por lo visto ahora es pastor en una iglesia de Somerset. En fin, así no tendrá que soportar a ningún canaco que le caliente la cabeza.
 ¿Y mi taberna? No parece probable que llegue a tenerla nunca. Me temo que me quedaré por aquí, no me gusta la idea de dejar solos a los niños, y lo cierto es que están mejor aquí que en un país de hombres blancos. Ben se llevó al mayor a Auckland, donde está estudiando en los mejores colegios. Lo que me preocupa son las niñas. Son mestizas, claro, y nadie tiene peor opinión de los mestizos que yo, pero son mis hijas, y no tengo otras. No acabo de hacerme a la idea de casarlas con canacos, pero ¿dónde voy a encontrarles unos blancos?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

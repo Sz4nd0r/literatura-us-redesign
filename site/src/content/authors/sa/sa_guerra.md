@@ -32,6 +32,3 @@ Cuando por fin acabó la pelea, la mujer polaca y el alemán cayeron al suelo ex
 Entonces ocurrió lo que da sentido a toda esta historia. La mujer del tren lo explicó perfectamente. Según me contó, esas dos almas, tras su lucha, volvieron a sus cuerpos, pero al parecer el alma de la mujer polaca entró en el cuerpo del alemán y el alma del alemán entró en el cuerpo de la mujer polaca.
 El resto, como es lógico, es fácil de adivinar. El alemán se sentó en el lodazal y empezó a negar con la cabeza diciendo que quería que le dejaran en paz, repitiendo que lo único que quería era que le dejaran en paz. La mujer polaca sacó unos papeles del bolsillo del alemán y empezó a conducir a sus compañeros brutalmente por la carretera, empujándoles hostilmente cuando el cansancio ralentizaba su paso.
 La historia no acaba aquí. El amante de la mujer sentada a mi lado, que antaño había sido maestro de escuela, se llevó los papeles y logró huir del país, llevándose con él a su amada. Mi mente ha olvidado los detalles. Lo único que logro recordar es al soldado alemán, sentado en aquel lodazal, repitiendo que le dejaran en paz, y a la anciana mujer polaca obligando violentamente a sus exhaustos compañeros a avanzar por la carretera para volver a su país, atrapados en la oscuridad de la noche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

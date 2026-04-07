@@ -74,6 +74,3 @@ Y luego miró los ojos azules hundidos del muerto y se asustó porque los vio pe
 —¿Nunca piensan ustedes que toda esta tierra fue nuestra? Ah, nuestro rencor y nuestra memoria van juntos.
 Inocencio Mansalvo miró duro a su coronel Frutos García y se puso el sombrero tejano cubierto de tierra. Se fue hacia su caballo regando tierra desde la cabeza y luego todo se precipitó, acciones, órdenes, movimientos: una sola escena, cada vez más lejana, más apagada, hasta que ya no fue posible ver al grupo del coronel Frutos García y el niño Pedro, la carcajeante Garduña y el rendido Inocencio Mansalvo; los soldados y el cadáver del gringo viejo, envuelto en una frazada y amarrado, tieso, a un trineo del desierto: una camilla de ocote y cuerdas de cuero arrastrada por dos caballos ciegos.
 —Ah —sonrió el coronel—, ser un gringo en México. Eso es mejor que suicidarse. Eso decía el gringo viejo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

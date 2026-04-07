@@ -158,6 +158,3 @@ EL INSPECTOR DE LA COSTA OESTE
 Nuestro inspector en la gasolinera de Lost Pine informa de que hay grupos de gente que se dirigen hacia el sur de la ciudad donde se sabe que aterrizaron y despegaron los últimos ovnis. Anoche ya eran más de cincuenta mil personas.
 Fuerza aérea 14 al centro de control
 A pesar de la Política Total 19, los rumores corren. Consideramos conveniente acordonar la zona, aunque esto pueda precipitar una situación de pánico extremo. Pero no vemos otra alternativa. El culto denominado “Estad preparados para el día” cuenta con la fuerza de miles de personas de la ciudad y los alrededores. Sugerimos que se anuncie que la zona está contaminada a causa de una fuga radiactiva accidental.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -580,6 +580,3 @@ Cuando le tocaron el hombro, no se volvió.
 —Confiesa…
 Y se veía forzado a permanecer todavía un momento vuelto hacia la ventana para no dejar ver su sonrisa al comisario.
 En ciertos casos, no vale la pena tener aspecto…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

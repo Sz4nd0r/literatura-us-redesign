@@ -74,6 +74,3 @@ Dejó caer el libro sobre la hierba y, durante unos instantes, permaneció irres
 —Al club, Henri.
 N. del T.:
 [1] Nuevas noches árabes (New Arabian Nights), colección de cuentos cortos escrita por Robert Louis Stevenson (1850-1894), donde el protagonista, el Príncipe Florizel de Bohemia, encubre su identidad bajo un disfraz para desenvolverse entre sus súbditos y así involucrarse en toda serie de aventuras fantásticas. Es precisamente este argumento el que da pie a la muchacha para hacerse pasar por una dama de la alta sociedad mezclada con gente humilde.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

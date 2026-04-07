@@ -17,6 +17,3 @@ Los había conocido y extrañado de su madre. Besaba en las dos mejillas o en la
 Después, la sorpresiva entrada de la mujer, desconocida, atravesando la herradura de dolientes, esposa e hijos, amigos llorones suspirantes.
 Se acercó, impávida, la muy puta, la muy atrevida, para besarle la frialdad de la frente, por encima del borde del ataúd, dejando entre la horizontalidad de las tres arrugas, una pequeña mancha carmín.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

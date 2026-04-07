@@ -261,6 +261,3 @@ Olive dejó escapar un largo suspiro.
 —¡Ah, es tan maravillosa! —exclamó—. ¡Tan maravillosa! Siempre ha conseguido conmoverme, como hoy, incluso cuando más enfadada estaba con ella.
 —Todo eso es una tontería —dijo Brevoort.
 —Me figuro que sí—contestaron los labios de Olive. Pero su corazón, con las alas de una adoración sin remedio, seguía a su prima a través de las puertas de palacio a menos de un kilómetro de distancia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

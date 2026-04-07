@@ -304,6 +304,3 @@ Pero el señor Jones continuó tirando de la rama y entonces, de pronto, Davey s
 Los dos se volvieron al unísono y la señora MacLane agitó la mano hacia ella.
 —¡Hola! —la saludó.
 Sin decir una palabra, la señora Winning dio media vuelta con aire de gran dignidad y desanduvo sus pasos hacia la vieja mansión de los Winning.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -294,6 +294,3 @@ Gaze quitó la ceniza de su cigarro y me dirigió una de sus irónicas pero simp
 —Le confieso que hay un papel que no me gustaría desempeñar —me dijo.
 —¿Cuál? —le pregunté.
 —El de Dios el día del Juicio Final —repuso Gaze.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

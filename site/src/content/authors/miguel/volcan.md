@@ -71,6 +71,3 @@ Los árboles se poblaron de nidos. Y vio un santo, una azucena y un niño. Santo
 ¡Nido, quiero que me levantes un templo!
 La voz se deshizo como manojo de rosas sacudidas al viento y florecieron azucenas en la mano del santo y sonrisas en la boca del niño.
 Dulce regreso de aquel país lejano en medio de una nube de abalorio. El Volcán apagaba sus entrañas —en su interior había llorado a cántaros la tierra lágrimas recogidas en un lago, y Nido, que era joven, después de un día que duró muchos siglos, volvió viejo, no quedándole tiempo sino para fundar un pueblo de cien casitas alrededor de un templo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

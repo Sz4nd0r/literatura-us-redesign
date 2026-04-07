@@ -213,6 +213,3 @@ La indicación de Heatherlegh provocó una carcajada histérica. Yo le dije que 
 ¿Moriré decorosamente en la cama, como cumple a todo caballero inglés, o un día haré la última visita al Mallo, y de allí volará mi alma, desprendida del cuerpo, para no separarse más del lúgubre fantasma? Yo no sé tampoco si en el otro mundo volverá a renacer el amor que ha desaparecido, o si cuando encuentre a Inés me unirá a ella, por toda una eternidad, la cadena de la repulsión. Yo no sé si las escenas que dejaron su última impresión en nuestra vida flotarán perpetuamente en la onda del Tiempo. A medida que se aproxima el día de mi muerte, crece más y más en mí la fuerza del horror que siente toda carne a los espíritus de ultratumba.
 Es más angustioso aún ver cómo bajo la rápida pendiente que me lleva a la región de los muertos, con la mitad de mi ser muerto ya. Compadecedme, y hacedlo siquiera por mi ilusión; pues yo bien sé que no creeréis lo que acabo de escribir. Y sin embargo, si hubo alguien llevado a la muerte por el Poder de las Tinieblas, ese hombre soy yo.
 Y también compadecedla, en justicia. Si hubo alguna mujer muerta por obra de un hombre; esa mujer fue la señora Wessington. Y todavía me falta la última parte de la expiación.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

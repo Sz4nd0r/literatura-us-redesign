@@ -73,6 +73,3 @@ Fue a la cocina. No había podido leer el identificador de llamada sin las gafas
 —Buenas noches —dijo en voz alta. ¿Qué saldría? Una pata de mono. Una señora. Un tigre.
 Pero no había absolutamente nada.
 tras VN
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

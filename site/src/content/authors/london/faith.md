@@ -168,6 +168,3 @@ Después habló con toda sencillez, clavando sus ojos en los de Mabel.
 Mabel se volvió hacia su hermana, extenuada, como si toda la fatiga de tan largo viaje hubiese descendido de pronto sobre ella. Dora la cogió por la cintura. Corry Hutchinson seguía ocupado con sus sandalias. Pentfield pasó la mirada rápidamente de un rostro a otro, después se dirigió a su trineo.
 —No podemos estar aquí todo el día, nos espera el niño de Pete —dijo a Lashka. Hizo silbar el látigo, los perros saltaron sobre el correaje del pecho, osciló el trineo y se lanzó por el camino.
 —¡Oye, Corry! —dijo Pentfield, llamándole de nuevo—. Podéis ocupar la antigua cabaña. No se ha usado mucho. Yo he construido otra en lo alto de la colina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

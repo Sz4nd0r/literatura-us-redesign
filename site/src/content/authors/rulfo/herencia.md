@@ -234,6 +234,3 @@ Euremio montado en el caballo de mi compadre Euremio Cedillo. Venía en
 ancas, con la mano izquierda dándole duro a su flauta, mientras que con
 la derecha sostenía, atravesado sobre la silla, el cuerpo de su padre
 muerto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

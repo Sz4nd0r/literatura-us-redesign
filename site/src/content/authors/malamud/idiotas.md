@@ -205,6 +205,3 @@ Mendel encontró un asiento en el vagón para Isaac, y lo abrazó presurosamente
 —Ayuda a tío Leo, Isaakil. Acuérdate también de tu padre y de tu madre.
 —Sea bueno con él—le dijo al guarda—. Muéstrele dónde está todo.
 Esperó en la plataforma hasta que el tren comenzó lentamente a moverse. Isaac estaba sentado en el borde del asiento, la cara estirada en dirección al viaje. Cuando el tren partió, Mendel subió las escaleras para ver qué había sido de Ginzburg.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

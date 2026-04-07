@@ -113,6 +113,3 @@ Iván Alekseich recordaba haber vuelto de nuevo sobre sus pasos. Aguijoneándose
 Al cabo de una hora estaba ya en el pueblo, donde, fatigado, destrozado, con el torso y el sofocado rostro apoyados en el portal de la fonda, sacudía la aldaba. En algún lugar del pueblo un perro desvelado se puso a ladrar y, como en respuesta a su llamada, un sereno hizo sonar su barra de hierro cerca de la iglesia…
 —Te pasas las noches vagabundeando… —rezongó el viejo creyente, vestido con un largo camisón que parecía de mujer, al tiempo que le abría la puerta—. En lugar de vagar por ahí, más valdría que rezaras a Dios.
 Una vez en su habitación, Iván Alekseich se dejó caer en la cama y pasó largo rato contemplando la llama de la lámpara; luego sacudió la cabeza y empezó a hacer el equipaje…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

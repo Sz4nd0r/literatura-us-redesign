@@ -212,6 +212,3 @@ Maigret, por lo que pudiera suceder, la vigilaba mientras iba y venía por la ha
 —Tengo que ponerme la faja —dijo —. ¡Con tal de que no mire!... No resulta bonito...
 Fue en el coche donde se hundió, mientras Maigret miraba fijamente las gotas de lluvia en los cristales. ¿Qué harían ahora los otros en la venta? ¿Y a quién se adjudicaría la granja de Groux cuando, por tercera vez, la vela de la subasta se hubiera apagado?
 [En la campiña francesa, al efectuar una subasta, es costumbre encender una vela, y, mientras permanece encendida, los presentes pueden seguir pujando. El objeto en venta se adjudica al que haya ofrecido la última cantidad antes de apagarse la vela.]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

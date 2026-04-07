@@ -99,6 +99,3 @@ Aguardó, y luego fue hasta la puerta y quitó el cerrojo y salió al porche. Se
 Atravesó el apartamento en penumbra y volvió al dormitorio. Él estaba hecho un ovillo en el centro de la cama, con las mantas amontonadas sobre los hombros, y la cabeza medio sepultada bajo la almohada. Parecía sumido sin remedio en su pesado sueño, con los brazos echados sobre el lado de ella y las mandíbulas apretadas. Mientras le miraba, el dormitorio se iba iluminando progresivamente, y las sábanas de color pálido fueron haciéndose ante sus ojos más y más blancas.
 Se humedeció los labios con un chasquido pegajoso y se dejó caer hasta quedar de rodillas. Puso las manos abiertas sobre la cama.
 —Dios —dijo—. Dios, ¿querrás ayudarnos, Dios mío? —dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

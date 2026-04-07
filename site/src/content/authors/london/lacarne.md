@@ -275,6 +275,3 @@ Kit le tendió la mano y se la estrechó. Luego balbuceó:
 Shorty levantó su vaso para brindar.
 —Pero sin duda eres un devorador de carne. Yo te enseñaré.
 (1911)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

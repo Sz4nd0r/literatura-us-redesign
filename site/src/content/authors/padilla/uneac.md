@@ -283,6 +283,3 @@ Comité Director de la Unión
 de Escritores y Artistas de Cuba
 La Habana, 15 de noviembre de 1968
 «Año del Guerrillero Heroico».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

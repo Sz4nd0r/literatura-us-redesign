@@ -113,6 +113,3 @@ Las dos rodaron trenzadas por el suelo. El instructor del gimnasio detuvo la mú
 Profesorcito de mierda berreó Daniele, cogiéndote a esa rubia idiota a mis espaldas.
 Ellas se agarraron nuevamente.
 Metí mi celular en su estuchito y me fui lo antes posible, aquella conmoción me perturbaba. Las mujeres están todas locas. Rodeadas de espejos, se alucinan todavía más. El alma del ser humano cambió cuando surgió el espejo. Y también los hombres son unos hijos de puta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

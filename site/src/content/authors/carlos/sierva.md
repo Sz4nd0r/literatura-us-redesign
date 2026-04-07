@@ -233,6 +233,3 @@ Por estas cosas, le dije, luchaba Félix Camberos.
 No sé muy bien si la bella Mayalde se resignó a abandonar las tumbas vecinas del padre Benito y de Félix el estudiante. Había un sentimiento de culpa fugitiva en su mirada que yo intenté aplacar con mi amor.
 Al cabo sólo quedaron estas palabras de mi mujer, dichas años después:
 —Todo aquello ocurrió en el funesto año de 1968.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

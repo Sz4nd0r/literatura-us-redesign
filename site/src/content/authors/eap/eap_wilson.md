@@ -78,6 +78,3 @@ En aquel momento alguien movió el pestillo de la puerta. Me apresuré a evitar 
 Tal me había parecido, lo repito, pero me equivocaba. Era mi antagonista, era Wilson, quien se erguía ante mí agonizante. Su máscara y su capa yacían en el suelo, donde las había arrojado. No había una sola hebra en sus ropas, ni una línea en las definidas y singulares facciones de su rostro, que no fueran las mías, que no coincidieran en la más absoluta identidad.
 Era Wilson. Pero ya no hablaba con un susurro, y hubiera podido creer que era yo mismo el que hablaba cuando dijo:
 —Has vencido, y me entrego. Pero también tú estás muerto desde ahora… muerto para el mundo, para el cielo y para la esperanza. ¡En mí existías… y al matarme, ve en esta imagen, que es la tuya, cómo te has asesinado a ti mismo!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

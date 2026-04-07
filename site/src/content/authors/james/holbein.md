@@ -179,6 +179,3 @@ N. del T.:
 [2]¿Dónde se ha metido?
 [3] Merece la pena pintar una cara así.
 [4] Un éxito tremendo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

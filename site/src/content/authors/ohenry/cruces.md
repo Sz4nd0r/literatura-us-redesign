@@ -592,6 +592,3 @@ general.
 —Lo que me suponía —admitió Kuinn—, pero, mira
 ese novillo blanco. Tiene otra marca. Fíjate…, un corazón
 con una cruz adentro. ¿Qué marca es esa?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

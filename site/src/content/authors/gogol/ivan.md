@@ -168,6 +168,3 @@ Se fue a la cama más pronto de lo habitual, pero a pesar de sus esfuerzos no pu
 Iván Fiódorovich se despertó atemorizado y muy alterado. Estaba bañado en un sudor frío.
 En cuanto se levantó por la mañana, consultó su libro de adivinaciones, en cuyo final un librero virtuoso, con una bondad y un desinterés desusados, había añadido una guía de sueños abreviada. Pero allí no encontró nada que guardara siquiera una leve semejanza con su deshilvanado sueño.
 Mientras tanto, la tía había concebido un plan completamente nuevo, del que se informará en el próximo capítulo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

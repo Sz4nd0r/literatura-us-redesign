@@ -171,6 +171,3 @@ pesas, depósitos de estaño, calabrotes, y allí, a la luz del candilejo,
 escribía el torrero en el gran libro del faro, siempre abierto:
 Media
 noche. Mar gruesa. Tempestad. Buque de la vista por el horizonte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

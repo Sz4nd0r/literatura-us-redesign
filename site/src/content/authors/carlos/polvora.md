@@ -33,6 +33,3 @@ Entre las páginas de Stevenson, un paquete de semillas de hortaliza. Las he est
 «USEN TODO... TODO... TODO»
 Ahora, ahora un hongo azul que luce penachos de sombra y me ahoga en el rumor de los cristales rotos...
 Estoy sentado en una playa que antes —si recuerdo algo de geografía— no bañaba mar alguno. No hay más muebles en el universo que dos estrellas, las olas y arena. He tomado unas ramas secas; las froto, durante mucho tiempo... ah, la primera chispa...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

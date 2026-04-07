@@ -1784,6 +1784,3 @@ Por encima, el agua era un espejo ondulante. Un cangrejo que se arrastraba
 entre el limo levantó una nube de arena y cuando el agua recobró su nitidez
 la perla había desaparecido.
 Y su música se convirtió en un murmullo que no tardó en extinguirse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

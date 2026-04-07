@@ -57,6 +57,3 @@ Estaba escrito que yo no muriera ni en mi casa derruida, ni en el corazón del B
 ¿Oye el Sahib? Ha cambiado la voz del río. Va a dormir antes que amanezca. Falta una hora para que despunte el día. Cuando luzca el sol, volverá otra vez la corriente. ¿Cómo lo sé? ¿He estado por ventura treinta años en este vado sin aprender a interpretar lo que dice la voz del río, como el padre conoce la voz de su hijo? Cada vez habla con menos furor. Juro que no habrá peligro durante una o dos horas. No; de la mañana no respondo. ¡Pronto, Sahib! vaya a llamar a Ram Pershad. No retrocederá. ¿Está el equipaje bien atado y bien cubierto en su lona embreada? ¡Oye, mahout, cabeza de cieno! ¡El elefante para el Sahib! Y di a los del otro lado que nadie pasará después que amanezca.
 ¿Dinero? No, Sahib. No soy de ésos. No; ni para los dulces de los niños. Mi casa —¿lo ve el Sahib?— está vacía. Y yo soy un viejo.
 ¡Adentro, Ram Pershad! ¡Adentro! ¡Adentro! ¡Adentro! Buen viaje, Sahib.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -458,6 +458,3 @@ Puso cierto énfasis en aquella frase golpeándose el pecho robusto.
 —Aún vive, aún vive —exclamó con energía, medio en serio y medio en broma—. Y no me casaré ya. ¿Para qué si esa mujer es la hija adoptiva y heredera del general Santierra?
 Uno de los invitados la describió más tarde como una “gordita robusta entrada en la cuarentena”. Y a la mayoría de nosotros nos pareció que tenía el pelo canoso y unos bonitos ojos negros.
 —Y ella —dijo también el general— tampoco ha querido casarse con nadie. ¡Una verdadera pena! Es buena y paciente y está consagrada a este viejo por entero. ¡Una criatura angelical! Y tampoco les recomendaría que pidiesen su mano porque si se las diera correrían el riesgo de perder todos los huesos de su mano. Con eso no admite broma alguna, es toda una hija de su padre, ese gigante que murió víctima de su propia fuerza, de la fuerza de su robusto cuerpo, de su sencillez… y de su amor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

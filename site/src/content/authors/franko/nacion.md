@@ -146,6 +146,3 @@ No me acuerdo mucho de cómo los enterramos salvo de que fue la peor parte, porq
 Noble prendió otro fósforo, y esta vez la lámpara le hizo el favor de encenderse.
 —¿Eso les hicieron? —preguntó ella.
 Entonces, Dios es testigo, ahí mismo, en el umbral, la vieja se hincó de rodillas y se puso a rezar y, después de mirarla uno o dos minutos, Noble hizo lo propio junto a la chimenea. Yo me abrí paso para salir y los dejé solos. Me quedé en la entrada, contemplando las estrellas y escuchando el canto menguante de los pájaros allá en el turbal. Es tan extraño lo que uno siente en momentos como ése que no hay cómo describirlo. Noble dice que lo vio todo multiplicado por diez, como si no hubiera habido nada en el mundo salvo aquel pedacito de turbal con los dos ingleses poniéndose rígidos adentro, pero para mí era como si el pedazo de turbal con los ingleses estuviera a un millón de kilómetros de distancia e incluso Noble y la vieja, que murmuraban un poco más atrás, y los pájaros y las malditas estrellas estuvieran muy muy lejos, y era como si yo fuera muy pequeño y estuviera aturdido y a solas como un niño perdido en la nieve. Y nada de lo que me pasó después de eso volvió a hacerme sentir así.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

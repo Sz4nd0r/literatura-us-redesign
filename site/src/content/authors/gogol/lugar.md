@@ -82,6 +82,3 @@ Ese día nos hizo prometerle que jamás creeríamos al diablo.
 Y en cuanto se enteraba de que en alguna parte las cosas no estaban tranquilas, nos gritaba:
 —¡Vamos, muchachos, a santiguaros! ¡Así! ¡Así! ¡Muy bien! —y él mismo hacía la señal de la cruz. En cuanto al lugar embrujado, en el que no había podido bailar, lo cerró con una cerca y nos ordenó tirar allí los desperdicios, las malas hierbas y la basura que sacaba del melonar.
 ¡Así es cómo la fuerza impura se burla de los hombres! Conozco bien ese terreno. Después de ese suceso unos cosacos vecinos se lo alquilaron a mi padre para plantar melones. ¡Era una tierra estupenda y producía unas cosechas magníficas!; pero el lugar embrujado nunca dio nada bueno. Lo sembraban como es debido, pero brotaban unas plantas tan extrañas que no había manera de reconocerlas: sandías que no eran sandías, calabazas que no eran calabazas, pepinos que no eran pepinos… ¡El diablo sabe lo que era aquello!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

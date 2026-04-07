@@ -134,6 +134,3 @@ El hombre canoso no contestó. Debajo del escudo de su mano, sus ojos estaban ce
 —Escúchame, Arthur —dijo el hombre de pelo entrecano, retirando su mano de la frente—. De pronto me ha dado un terrible dolor de cabeza. No sé a qué demonios se debe. ¿Te molesta si lo dejamos para otro momento? Te llamaré por la mañana, ¿estás de acuerdo?
 Escuchó un instante más y luego cortó.
 Nuevamente la chica le dijo algo en seguida, pero él no contestó. Tomó un cigarrillo encendido —el de la chica— del cenicero y empezó a llevárselo a la boca, pero se le cayó de los dedos. La chica intentó ayudarle a encontrarlo antes que se quemara algo, pero él le dijo que se quedara quieta, por Dios, y ella retiró la mano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

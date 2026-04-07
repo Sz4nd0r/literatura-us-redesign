@@ -336,6 +336,3 @@ rostros ceñudos se relajaron con risas. Su capitán apartó el cubo.
 Los dos lugartenientes, simpáticos y bromistas, fueron los primeros en hacerse con el cubo y se pusieron a tocarlo y a jugar con él. Cuando uno intentaba beber, el otro le pegaba en broma en el codo.
 —¡No, Billie! Vas a conseguir que se me derrame —decía uno, y el otro reía.
 De repente, se oyó un juramento, el golpe sordo de la madera contra el suelo y un súbito murmullo de asombro entre los soldados. Los dos lugartenientes se miraron. El cubo yacía en el suelo, vacío.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -34,6 +34,3 @@ El comisario de policía Semión Ilich Prachkin va de un lado a otro de su habit
 —¡Cógela!
 Pero ni siquiera la harina consiguió animar a Prachkin. Cuanto más trataba de consolarse, más le dolía la pérdida. Le daba tanta pena de esos ocho rublos como si en verdad hubiera perdido ocho mil. Cuando Vania se aprendió la lección y se calló, Prachkin se acercó a la ventana y, lleno de pesar, fijó su triste mirada en las montoneras de nieve… Pero esa visión sólo consiguió agravar su herida. Le recordaba su visita de la víspera al comandante militar. Se le revolvió la bilis; el corazón se le encogió… La necesidad de descargar en alguien su pena alcanzó tal grado que no admitía ninguna demora. No podía más…
 —¡Vania! —gritó—. ¡Ven aquí! ¡Tengo que darte unos azotes por el cristal que rompiste ayer!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

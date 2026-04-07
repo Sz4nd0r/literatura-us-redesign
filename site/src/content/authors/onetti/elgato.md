@@ -27,6 +27,3 @@ Entramos y encendí la luz. Ella no había estado nunca allí. Miró alrededor c
 Bebió de un trago, encendió nuevamente la pipa y sonrió alegre y desafiante. Ahora se volvió para mirarme los ojos y dijo:
 —Lo que explica para cualquier tipo inteligente, por qué, desde entonces, sólo he tenido aventuras y me he propuesto que duren poco.
 1980
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

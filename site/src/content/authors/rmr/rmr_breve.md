@@ -1952,6 +1952,3 @@ te abrume en exceso y llames entre ellos la atención.
 Las grandes palabras, pronunciadas en los tiempos
 cuando el suceder era aún visible ya no nos pertenecen.
 ¿Quién habla de victorias? Sobreponerse es todo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

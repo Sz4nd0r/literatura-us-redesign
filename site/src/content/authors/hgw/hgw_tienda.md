@@ -168,6 +168,3 @@ Pero un día me atreví a preguntarle:
 No mostré ningún signo de sorpresa improcedente; desde entonces he tenido ocasión de sorprenderle una o dos veces con los soldados fuera de la caja, pero hasta ahora no los he visto comportarse de una manera mágica…
 Es algo difícil de explicar.
 Existe también un problema económico. Tengo la incurable costumbre de pagar todas las facturas. He subido y bajado Regent Street varias veces buscando esa tienda. Me inclino a pensar, en efecto, que esta cuestión de honor ha sido satisfecha, y que, como conocen el nombre y la dirección de Gip, puedo esperar perfectamente que esas personas, sean quienes sean, envíen la factura a su debido tiempo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

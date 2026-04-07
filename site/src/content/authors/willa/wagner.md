@@ -41,6 +41,3 @@ El concierto terminó; la gente salió en fila por el vestíbulo, charlando y ri
 Le hablé a mi tía. Se echó a llorar y sollozar, suplicante.
 —¡No quiero irme, Clark, no quiero irme!
 Lo entendía. Para ella, justo fuera de la puerta del auditorio, se hallaba el estanque negro con los riscos llenos de huellas de ganado; la casa alta y sin pintar, con los tablones combados por el tiempo; desnudos como una torre, los semilleros de fresno con ganchos endurecidos donde colgaban los paños para que se secaran; los pavos demacrados en plena muda de plumas picoteando la basura junto a la puerta de la cocina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

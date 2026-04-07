@@ -73,6 +73,3 @@ Oblicuamente un inmenso cañón negro colocó su cónico perfil entre cielo y ti
 Bajo la luna roja, bloqueada de rascacielos bermejos, la multitud estalló en un grito de espanto:
 —¡No queremos la guerra! ¡No..., no..., no!
 Comprendían esta vez que el incendio había estallado sobre todo el planeta, y que nadie se salvaría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

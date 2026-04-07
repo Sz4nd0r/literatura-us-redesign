@@ -505,6 +505,3 @@ La autopsia de la pobre Joséphine Croizier reveló antes que nada que el coraz�
 —Pero…
 —Tampoco yo me sentía muy a gusto en la región. Mi mujer me espera en París. Todo lo que deseo es que los jurados de esta ciudad no se dejen impresionar por el hotel particular de esa crápula integral de Philippe y que exijan su cabeza…
 Y murmuró entre dientes una broma pesada: «¡Así podrá continuar haciendo el muerto en el bridge!».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

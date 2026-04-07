@@ -59,6 +59,3 @@ Me miró con tal expresión —pequeñas arrugas de ternura en torno a la boca y
 Seguí divagando y perdiendo todas mis oportunidades ante esos ojos azules y cristalinos.
 —Es que nunca tuve un hijo… Pero los peces me gustan mucho.
 Supongo que, en cierto modo, tuve mi recompensa. El niño produjo toda una serie de pompas. Estaba satisfecho; después de todo, un tipo no se insinúa a la madre de otro tipo sobre todo cuando pertenece al mismo club… Porque de repente supe sin lugar a dudas a qué club pertenecería él dentro de veinticinco años. “Otra ronda para todos; invito yo”, decía ahora, evidentemente, el niño. Pero yo esperé que no me quedaran tantos años de vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

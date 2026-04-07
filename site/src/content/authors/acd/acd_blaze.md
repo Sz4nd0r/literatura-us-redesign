@@ -270,6 +270,3 @@ Aquella noche, en el regreso a Londres, disponíamos de todo un rincón del pulm
 »Cuando regresé a Londres, visité a la modista, que identificó a Straker como un excelente cliente llamado Derbyshire, casado con una mujer muy elegante y muy dada a elegir vestidos caros. Estoy seguro de que esta mujer le hizo endeudarse hasta las orejas y le forzó a tan miserable treta.
 —Lo ha aclarado usted todo, menos una cosa —exclamó el coronel—. ¿Dónde estaba el caballo?
 —¡Ah! El caballo se escapó, y uno de sus vecinos estuvo cuidando de él. Creo que debemos pasar por alto este punto. Me parece que estamos ya en Clapham Junction y llegaremos a la estación Victoria antes de diez minutos. Si le apetece, coronel, fumar un cigarro en nuestra casa, será un placer explicarle cualquier otro detalle que haya despertado su interés.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -77,6 +77,3 @@ Toda esa extraña historia causó una impresión muy emotiva al señor Storm y a
 —Instrumentada —añadió el jefe de negociado.
 Sus voces se disiparon y dieron paso a otras. Frases sueltas le llegaron al vuelo, le rozaron la frente y siguieron su vuelo hacia la ventana: Así hace un hombre… por fin… suspira… me alegra verlo destrozado… esta noche iré al velatorio con la conciencia tranquila…
 Por fin se hizo silencio. Sólo el señor Jockum, medio ciego, arrastraba su gemido a tientas en busca de sus lentes hechos añicos. El señor Storm dirigió su atención al pasillo. Se extinguían los últimos pasos de los más diligentes. Uno de ellos, indignado, se dirigía a la salida dando voces. Pero él no captó sus palabras. Las personas consideradas habían clausurado su duelo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

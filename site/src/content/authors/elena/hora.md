@@ -173,6 +173,3 @@ Brunier, solemne, señaló a los pies de la cama.
 —¡Ahí está! —dijo casi sin voz.
 Sus cuatro acompañantes vieron la raqueta blanca depositada con descuido a los pies de la cama de Lucía Mitre. Se lanzaron nuevamente a la búsqueda del joven propietario de la raqueta, pero su búsqueda fue infructuosa, pues el cliente risueño, tostado por el sol de América, no volvió a aparecer nunca más en el Hotel del Príncipe.
 Gilbert se inclinó por última vez sobre el rostro de Lucía Mitre, también ella se había ido para siempre del hotel, pues en su rostro no quedaba de ella nada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

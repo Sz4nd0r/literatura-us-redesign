@@ -37,6 +37,3 @@ Solamente los tres niños aún dormían profundamente.
 La jovencita poco a poco fue recuperando su edad. Solamente ella vivía sin escrutarlo todo. Pero los otros, que nada habían visto, se volvieron atentos e inquietos. Y como el progreso en aquella familia era frágil producto de muchos cuidados y de algunas mentiras, todo se deshizo y tuvo que rehacerse casi desde el comienzo: la abuela nuevamente pronta a ofenderse, el padre y la madre fatigados, los niños insoportables, toda la casa pareciendo esperar que una vez más la brisa de la opulencia soplase después de una cena. Lo que quizá sucedería en otra noche de mayo.
 Alguns contos (1952)
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

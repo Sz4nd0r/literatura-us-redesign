@@ -262,6 +262,3 @@ Miles se quedó en el vestíbulo hasta que el coche de Dorothy salió de la ramp
 —Quiero ver qué tiene que decir ese joven en su defensa —dijo Miles Updegrove—. Muchas cosas dependen de eso. ¿Queda café?
 —Lo he tirado, pero puedo hacer más.
 —Da igual —dijo él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

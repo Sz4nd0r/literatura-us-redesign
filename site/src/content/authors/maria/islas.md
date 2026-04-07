@@ -197,6 +197,3 @@ Y ahora lee «… Cuán bello sería este paisaje silencioso en el cual los lico
 ¿Qué paisaje es éste? ¡No es posible que lo haya visto antes! ¿Por qué entra entonces en él como en algo conocido? Da vuelta la hoja y lee al azar «… Con todo, en ocasión del carbonífero es cuando los insectos vuelan en gran número por entre la densa vegetación arborescente de la época. En el carbonífero superior había insectos con tres pares de alas. Los más notables de los insectos de la época eran unos muy grandes, semejantes a nuestras libélulas actuales, aun cuando mucho mayores, pues alcanzaba una longitud de sesenta y cinco centímetros la envergadura de sus alas…»
 Yolanda, los sueños de Yolanda…, el horroroso y dulce secreto de su hombro. ¡Tal vez aquí estaba la explicación del misterio!
 Pero Juan Manuel no se siente capaz de remontar los intrincados corredores de la naturaleza hasta aquel origen. Teme confundir las pistas, perder las huellas, caer en algún pozo oscuro y sin salida para su entendimiento. Y abandonando una vez más a Yolanda, cierra el libro, apaga la luz, y se va.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -189,6 +189,3 @@ Más tarde, ya de vuelta en la cabaña, Shorty revisó y manipuló los distintos
 Shorty se levantó, se acercó a la mesa, escogió el saco más pesado y lo abrazó como si fuese un bebé.
 —Puede que sea sonámbulo —comentó—, pero, como tú has dicho, estoy en muy buena compañía.
 (1911)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

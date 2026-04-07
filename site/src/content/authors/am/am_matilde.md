@@ -96,6 +96,3 @@ Y ella, con una buena carcajada:
 —He querido hacer una prueba. Querías dejarme, ¿eh? Y luego, sólo ante la idea de no verme unos días, pones una cara así de triste. Está bien, nos vemos mañana.
 Corrió hacia arriba y yo me quedé como un bobo, mirándola alejarse.
 (1933)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

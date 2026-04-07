@@ -2244,6 +2244,3 @@ y lo único que hago es traducir lo que esa masa de gente me va
 dejando en los oídos y en mi sensibilidad.” La muerte de
 Guimaráes Rosa es una pérdida enorme para la literatura brasilera y
 para nuestra literatura latinoamericana.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

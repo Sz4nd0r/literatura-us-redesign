@@ -122,6 +122,3 @@ La sorpresa la dejó muda mucho tiempo.
 Severina miró a los presentes. Sus ojos cayeron sobre Inés, ésta se llevó la mano al pecho y sobre su vestido de linón rosa acarició la sangre seca de Adrián Cadena.
 —Mucho lloró la noche en que Fulgencia te sacó a su niño. Después, de sentimiento quiso casarse conmigo. Era huérfano y yo era su prima. Era muy desconocido en sus amores y en sus maneras… —dijo Inés bajando los ojos, mientras su mano acariciaba la sangre de Adrián Cadena.
 Al rato le entregaron la camisa rosa de su joven marido: cosido en el lugar del corazón había una alianza, como una serpientita de oro y en ella grabadas las palabras: «Adrián y Severina gloriosos».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

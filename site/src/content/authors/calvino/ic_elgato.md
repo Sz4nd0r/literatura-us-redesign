@@ -56,6 +56,3 @@ Alrededor se encendían las luces en las casas de los obreros, altas y solitaria
 Al levantarse el viento, Baravino vio delante aquella intrincada extensión de cemento y de hierro; desde mil escondrijos el puercoespín erguía sus púas. Ahora estaba solo en territorio enemigo.
 —Poseo la riqueza y la elegancia, vivo en un lujoso palacio, tengo joyas y servidumbre, ¿qué más puedo pedir a la vida? —proseguía la chica y sus negros cabellos llovían sobre la página historiada de mujeres serpentinas y hombres de sonrisa brillante.
 Baravino oyó la estridencia de los silbatos y el estruendo de los motores: la policía abandonaba el edificio. Él hubiera querido huir bajo las cadenas de nubes del cielo, enterrar su pistola en un gran hoyo cavado en la tierra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

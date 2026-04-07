@@ -137,6 +137,3 @@ El rey dijo:
 Granze había vuelto a su fuego, pero desde allí había seguido la conversación, y sus ojos estaban fijos en una cara o en la otra. Le gritó al rey:
 —El pez ha nadado y ha sido pescado; ahora ya está asado y listo. No hay más que comerlo; aquí tenéis la comida.
 El rey Erik de Dinamarca, apodado Glipping, fue asesinado en el granero de Finnerup, el año 1286, por una facción de vasallos rebeldes. Según la tradición y las viejas baladas, los asesinos estaban acaudillados por el gran condestable Stig Andersen Hvide, quien mató al rey Erik en venganza, por haber seducido a su esposa Ingeborg.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

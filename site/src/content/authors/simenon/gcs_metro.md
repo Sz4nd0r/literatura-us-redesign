@@ -433,6 +433,3 @@ Emilio se adelantó a su pensamiento y echó el paquete de cartas comprometedora
 —No comprendo.
 —¡Pues es muy sencillo!… A causa de lo que usted le dijo, Lucas seguirá deteniendo a todos los negros de París. En cuando al único negro, mezclado en esa historia, de seguro que no se le ocurrirá a Lucas interrogarle en el formidable silencio de su gabinete… Pero ¿qué hora es?
 Mas la visión del reloj, descolorido en su marco negro, le recordó una escena penosa y se entristeció.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

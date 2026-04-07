@@ -47,6 +47,3 @@ Ahora Binda revolvía en una escudilla de castañas hervidas escupiendo las piel
 —Voy a Gerbonte, a ver a Sierpe —dijo.
 —Ánimo, Binda —le dijeron los compañeros.
 Ya daba la vuelta detrás del espolón de roca, había perdido de vista la barraca, dejaba a sus espaldas el despeñadero negro de matorrales. De entre ellos Gund se levantó, volvió a ponerse en marcha detrás de él, con sus pasos de gigante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

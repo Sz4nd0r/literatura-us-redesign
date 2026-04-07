@@ -237,6 +237,3 @@ la aurora, allí junto a la casa. Sólo aquello. Sólo todo.
 —“¡Llegamos, finalmente!” —el Tío dijo.
 —“Ah, no. Todavía no...” —respondió el Niño.
 Sonreía cerrado: sonrisas y enigmas suyos. Y venía la vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

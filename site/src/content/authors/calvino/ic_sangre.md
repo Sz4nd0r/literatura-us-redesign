@@ -47,6 +47,3 @@ Al volver, hablando con su hermano, dijo:
 —Esta vida de rebeldes de lujo ya no me interesa. O hacemos la resistencia o no la hacemos. Uno de estos días habrá que tomar el camino de los montes y subir para unirnos a la brigada.
 El hermano dijo que ya lo había pensado.
 Después, de regreso, se detuvieron en las Rocas del Cuervo, para silbarle al Lirio. Y, mientras lo esperaban sentados al borde del barranco, el comunista iba preguntándose cómo se habían formado las rocas y los barrancos y las montañas, y cuántos años tenía la Tierra. Y todos juntos hablaban de los estratos rocosos, las eras de la Tierra, y de cuándo terminaría la guerra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

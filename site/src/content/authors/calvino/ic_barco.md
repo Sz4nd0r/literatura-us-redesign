@@ -69,6 +69,3 @@ La niña los miraba a todos y se reía. Después se volvió, fue hasta la proa m
 —Hale —dijo Mariassa, avanzando con los otros. Entonces se detuvo—: ¡De ahora en adelante, tiene que haber una mujer en la banda! ¡Menín, trae a tu hermana!
 —Mi hermana es estúpida —dijo Menín.
 —No importa —dijo Mariassa—, hale —y de un empujón arrojó a Menín al mar, ya que de todas maneras era incapaz de hacerlo solo. Después se zambulleron todos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -158,6 +158,3 @@ apedreados en un lado, magullados en otro. El hombre
 debiera ser como el árbol, tener raíces como el árbol.
 Pero el hombre es como una rueda y una vez impulsado
 no cesa hasta deshacerse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

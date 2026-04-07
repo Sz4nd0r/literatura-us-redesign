@@ -183,6 +183,3 @@ Le desearon buenas noches a Tom, y Tom a ellos. Se puso a contar el dinero, y en
 Honey se rio un poco.
 —En fin, de todos modos no tengo que estar celosa de esa golfa. La cerveza, Tommy, la cerveza.
 Tom se fue encantado a buscar la cerveza. En adelante la espera no sería tan angustiosa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

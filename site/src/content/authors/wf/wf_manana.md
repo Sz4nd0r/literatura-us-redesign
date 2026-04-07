@@ -539,6 +539,3 @@ menos el recuerdo del muchachito, de aquel Jackson Longstreet Fentry, aun cuando
 el hombre en que se convirtiera el muchachito lo ignoraba, y solo Fentry lo
 sabía. De modo que tú tampoco lo habrías puesto en libertad. No lo olvides
 nunca. Nunca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

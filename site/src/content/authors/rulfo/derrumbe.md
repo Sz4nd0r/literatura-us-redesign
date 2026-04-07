@@ -247,6 +247,3 @@ más bien borracho que buenisano. Y ella no me habló en muchas semanas
 arguyendo que la había dejado sola con su compromiso. Ya cuando se
 contentó me dijo—que yo no había sido bueno ni para llamar a la
 comadrona y que tuvo que salir del paso a como Dios le dio a entender.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -131,6 +131,3 @@ Caroline seguía allí de pie.
 —¿Entiendes ahora que se hiciera amigo de Lana Turner? —dijo Caroline. Cogió la rosa y jugueteó con ella entre los dedos.
 —¡Buenas noche! —dijo en dirección a la espalda de Aldo. Pero Aldo estaba ocupado escogiendo otra rosa.
 —No creo ni que llegara a conocerla —dijo Wayne.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

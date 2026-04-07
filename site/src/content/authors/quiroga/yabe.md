@@ -410,6 +410,3 @@ verano le gustaba tender se en la playa y fumar a la luz de la luna,
 mientras las rayas, hablando despacito, se lo mostraban a los peces, que
 no le conocían, contándoles la gran batalla que, aliadas a ese hombre,
 habían tenido una vez contra los tigres.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

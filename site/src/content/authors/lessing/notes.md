@@ -124,6 +124,3 @@ Aún dudaba. Entonces dijo, seco y remiso:
 —Nos vemos en Leicester Square, en la puerta del Odeon, a las siete en punto. —Colgó el auricular.
 Solía pasar a buscarla por la esquina en coche.
 Ella sonreía, las lágrimas corrían por su rostro. Sabía que lloraba porque había perdido a Tony, que la había defraudado. Regresó a casa para maquillarse de nuevo, pensando que ahora estaba en manos de Stanley: se había roto el equilibrio entre ellos, él contaba con una gran ventaja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

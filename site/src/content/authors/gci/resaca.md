@@ -110,6 +110,3 @@ Antes de llegar, vio el dagame sobre la loma y notó la quietud del paisaje alre
 Se sentó a su lado como al principio. En silencio. «Voy a cerrarle los ojos», pensó. «No, así parece que está todavía vivo».
 Por algún lado del cielo el sol se estaba poniendo y la tarde se colmó de la serenidad del crepúsculo. No muy lejos una torcaza arrulló y el ulular llegó hasta sus oídos.
 El aire vibró sobre las hojas del yarey y zumbó entre el tupido ramaje de los marabúes. La paloma volvió a cantar y a lo lejos otra respondió ¿O era el eco? El repetido traqueteo y el vuelo del ave se inició junto a la loma, quizá bajo el dagame, y cruzó por encima de él. No la vio pasar. El viento de nuevo silbó en la palma y levantó el polvo en torno al hombre tumbado y movió su pelo pajizo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

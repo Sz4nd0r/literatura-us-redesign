@@ -73,6 +73,3 @@ Benia prohibió a los convidados ir al incendio. Fue él con dos compañeros. La
 Detuvo la mirada en el edificio en llamas, meneó la cabeza y chasqueó los labios:
 —¡Ay! ¡Ay! ¡Ay!…
 Benia retornó a casa cuando en el patio se apagaron los faroles y en el cielo se encendía la aurora. Los convidados se habían retirado; los músicos dormitaban con la cabeza descansando en el mástil de sus contrabajos. Sólo Dvoira no está dispuesta a dormir. Empujaba al marido asustado hacia la puerta del dormitorio conyugal; mirábale con la lascivia del gato que lleva un ratón en la boca y lo palpa suavemente con los dientes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

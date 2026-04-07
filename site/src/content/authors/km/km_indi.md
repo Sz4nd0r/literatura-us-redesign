@@ -186,6 +186,3 @@ Salió disparada de la habitación y nosotros la seguimos de puntillas hasta el 
 —¡Ah, por fin! —la voz del soldado de ojos azules resonó placentera en la obscuridad.
 —¿Qué le parece? ¿No es lo que yo decía? ¿No sabe a whisky del mejor?
 e oro. Sus cabezas giraban sobre sus apretados cuellos, como enormes frutos pasados. Cuando puse en sus manos mi pasaporte con el billete, tuve la horrible sensación de que iba a venir tras de mí un soldado a decirme que me arrodillara. Y lo hubiera hecho sin replicar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

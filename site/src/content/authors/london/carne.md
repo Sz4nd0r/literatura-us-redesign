@@ -216,6 +216,3 @@ Pero John Bellew estaba tan aturdido que solo logró murmurar:
 —No lo entiendo.
 —Dicen que la cuenca del Yukón está llena de grizzlys osados —explicó Kit—. Pues resulta que ya tengo solo una muda de ropa interior y ahora voy en busca de la carne de oso. Eso es todo.
 (1910)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

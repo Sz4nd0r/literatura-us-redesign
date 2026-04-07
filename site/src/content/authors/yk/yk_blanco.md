@@ -45,6 +45,3 @@ Hoy es la primera vez que el sueño del caballo blanco le ha sucedido a Noguchi,
 «¿Qué era?»
 Noguchi escudriña el cielo gris oscurecido donde la visión del caballo blanco se ha desvanecido.
 Hace cuarenta años que no ve a Taeko. Y no hay noticias de ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

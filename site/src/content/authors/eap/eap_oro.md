@@ -420,6 +420,3 @@ Un buen vidrio en el hotel del obispo en la silla del diablo - cuarenta y un gra
 N. del T.:
 [1] Júpiter confunde antennæ con tin, estaño. Resulta imposible traducir adecuadamente la jerga con que se expresa Júpiter, y que es propia de los negros del sur de los Estados Unidos.
 [2] Kid, cabrito.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

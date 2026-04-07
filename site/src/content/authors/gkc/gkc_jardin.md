@@ -195,6 +195,3 @@ Iván de la Cicatriz se levantó:
 —No; si allá voy yo —dijo Brown con aplomo—. Tengo el deber de pedirle que se confiese.
 Llevando consigo al desdichado Brown como víctima al sacrificio, todos se apresuraron hacia el silencioso estudio de Valentin.
 El gran detective estaba sentado junto a su escritorio, muy ocupado al parecer para percatarse de su ruidosa entrada. Se detuvieron un instante, y, de pronto, el doctor advirtió algo extraño en el aspecto de aquel torso elegante y rígido, y corrió hacia él. Un toque y una mirada le bastaron para permitirle descubrir que, junto al codo de Valentin, había una cajita de píldoras, y que éste estaba muerto en su silla; y en la cara lívida del suicida había un orgullo mayor que el de Catón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

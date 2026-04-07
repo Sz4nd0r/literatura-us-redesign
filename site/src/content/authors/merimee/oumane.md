@@ -70,6 +70,3 @@ Con aire modesto, me senté en el extremo del diván prometiéndome que me acerc
 —¿No matamos el gusanillo, mi teniente?
 Al escuchar esas palabras, abrí los ojos como dos portones. Esta joven tenía bigotes enormes, era el verdadero retrato del sargento Wagner… Efectivamente, Wagner estaba de mi ante mí y me ofrecía una taza de café, mientras que, acostado sobre el cuello de mi caballo, yo lo contemplaba absolutamente alucinado.
 —Parece que nos hemos dormido pese a todo, mi teniente. Estamos en el vado y el café está hirviendo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

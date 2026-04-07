@@ -951,6 +951,3 @@ venas. Era como si su corazón se estuviera hinchando y ocupara todo su cuerpo.
 Una enorme y suave extensión de dolor. El martilleo de la sangre en sus oídos
 no le dejaba oír nada. La sangre le golpeaba en los ojos, pero los cerró para
 no tener que ver a aquellas dos mujeres.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -224,6 +224,3 @@ En la penumbra de una lujosa alcoba,
 entre exquisitas maravillas,
 a la sombra de cortinajes púrpura,
 un lecho de oro resplandece.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

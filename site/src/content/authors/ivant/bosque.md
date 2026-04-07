@@ -32,6 +32,3 @@ Pero ahora te has puesto en marcha por los caminos más lejanos y la estepa. Has
 Y en un día de invierno, caminar a través de las altas pilas de nieve en busca de liebres, respirar el aire crudo y helado, cerrar los ojos de forma involuntaria contra el cegador brillo de la nieve suave; maravillarse ante el color verdoso del cielo sobre el bosque carmesí…
 Y luego están los primeros días de primavera, en los que todo brilla y el olor de la tierra cálida se eleva a través del humo pesado de la nieve que se disuelve, y las alondras cantan confiadamente bajo los rayos del sol sobre pedazos de suelo en los que la nieve se ha derretido, y con gorgojeos y rugidos alegres los ríos fluyen hacia los valles.
 Pero es hora de terminar. He mencionado la primavera a propósito; en la primavera es más sencillo despedirse; en la primavera incluso las personas felices se sienten tentadas a marcharse a lugares lejanos… Adiós, mi lector, te deseo eterna felicidad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -78,6 +78,3 @@ Rudolf, al seguir la dirección de su dedo, vio la entrada de un teatro que anun
 En la esquina de la cuadra donde vivía, Rudolf se detuvo para tomar un vaso de cerveza y comprar un cigarro. Cuando salió, con su habano encendido, se abotonó el abrigo, echó hacia atrás el ala del sombrero y dijo, severamente, al poste de la esquina:
 —De cualquier modo, estoy seguro de que fue el Destino el que me proporcionó el modo de encontrarla.
 Conclusión que, dadas las circunstancias, anota a Rudolf Steiner, sin lugar a dudas, en las filas de los auténticos seguidores del Romance y la Aventura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

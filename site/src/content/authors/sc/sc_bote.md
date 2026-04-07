@@ -310,6 +310,3 @@ En un arrecife, boca abajo, estaba el maquinista y su frente tocaba la arena, qu
 El periodista nunca supo todo lo que pasó después. Al llegar a la playa se derrumbó, aplastando la arena con cada partícula de su cuerpo. Fue como caerse de un tejado, pero con un golpe de lo más agradable para él.
 La playa se llenó inmediatamente de hombres con mantas, ropas y botellas, de mujeres con latas de café caliente y cuanto material de socorro juzgaban necesario. El recibimiento que dispensó la tierra a los hombres del mar fue caluroso y pródigo. Pero un cuerpo mudo y chorreante, el del maquinista, fue conducido lentamente a la playa, y la bienvenida que la tierra pudo dispensarle sólo fue la de la escondida y siniestra hospitalidad de la tumba.
 Al caer la noche, las blancas olas ondearon pacíficamente a la luz de la luna y el viento trajo el rumor de la gran voz del mar a unos hombres que advirtieron que, para ellos, ya no tenía secretos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

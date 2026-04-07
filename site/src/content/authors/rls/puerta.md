@@ -144,6 +144,3 @@ Según terminó de hablar, en el interior de la casa empezó a oírse un fuerte 
 —El nombre del capitán era Florimond de Champdivers —le dijo al oído.
 —No lo he oído —contestó. Y estrechó el cuerpo ágil de la muchacha entre sus brazos, cubriendo de besos su rostro empapado.
 Detrás de ellos se pudo oír un gorjeo melodioso seguido de una bella risita ahogada; y la voz del señor de Malétroit deseó los buenos días a su nuevo sobrino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

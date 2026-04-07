@@ -130,6 +130,3 @@ Le observaba con firmeza, memorizando para siempre la indescriptible y polvorien
 Al fin asió al hombre de mirada fija por el brazo.
 —No tengas miedo, muchachote. Yo subiré contigo —dijo.
 Dieron la vuelta y se encaminaron hacia la casa, codo con codo. Cuando las rosas se desprendieron de los dedos de Howard y fueron cayendo de cabeza a lo largo de la acera, las niñas corrieron a cogerlas furtivamente y se las pusieron en el pelo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

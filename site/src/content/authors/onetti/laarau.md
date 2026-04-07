@@ -35,6 +35,3 @@ En la calle, bajo la blancura empecinada del sol, la mula restregaba el hocico e
 Al regreso, de retorno al corral, la bestia trotó dócil y apresurada mientras el padre Larsen, sin abrir el quitasol rojo, hacía balance de lo obtenido y aguardaba, esperanzado, a que llegara la segunda agonía de la mujer.
 El padre Larsen buscó, sin encontrar ninguna araucaria.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

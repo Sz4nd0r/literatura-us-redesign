@@ -131,6 +131,3 @@ Notas:
 [3] Que había estado en Islandia forma parte de lo “poco cierto” que, según Menéndez Pidal, acerca de él sabemos.
 [4] León Bloy: Le Révélateur du Globe, cap. X
 [5] “La más bella estatua del mundo” dijo Ortega y Gasset
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

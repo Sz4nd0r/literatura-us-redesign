@@ -351,6 +351,3 @@ El iracundo ojo negro los miraba fijamente.
 —No sería justo —señaló con seriedad, mientras la volvía a guardar en su bolso.
 —Oh, justo —replicó él amargamente, con un encogimiento de hombros impaciente.
 Se dirigieron hombro con hombro a coger un autobús que los llevaría a su hotel. Sus pies crujían con aspereza sobre el suelo rígido. La quietud, salvo por los gritos de los hombres que trabajaban en los edificios medio acabados, salvo por el sonido de la respiración de la máquina, era absoluta. Y la cola de gente esperaba del mismo modo que lo hacía la que estaba al otro lado de la plaza: esperaba eternamente, apretada, en silencio, paciente, bajo la nieve, escuchando el silencio, debajo del cual parecía palpitar, procedente de las entrañas de la tierra, la memoria del sonido de los pasos que marchaban, de los pesados pasos de los pies que marchaban calzados con botas negras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

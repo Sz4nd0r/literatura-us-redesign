@@ -53,6 +53,3 @@ Por la tarde mi hermano duerme otra vez: no se sabe qué hace para dormir tanto,
 Después de cenar, tendido en el diván, leo ciertas novelas largas, traducidas, que me prestan: suelo perder el hilo y no consigo retomarlo. Mi hermano apenas termina de comer sale: va a ver jugar al billar.
 Mis padres se acuestan enseguida porque se levantan temprano. «Vete a tu cuarto, que estás malgastando luz», me dicen cuando suben. «Voy», digo, y no me muevo.
 Ya estoy en la cama y hace un rato que duermo cuando a eso de las dos regresa mi hermano. Enciende la luz, da vueltas por la habitación y fuma el último cigarrillo. Cuenta cosas de la ciudad, hace juicios benévolos sobre la gente. Es la hora en que está realmente despierto y dispuesto a hablar. Abre la ventana para que salga el humo, miramos la colina con el camino iluminado y el cielo oscuro y límpido. Yo me incorporo, me siento en la cama y charlamos largo rato de cosas indiferentes, con ánimo ligero, hasta que nos entra sueño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

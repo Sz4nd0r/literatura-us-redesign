@@ -395,6 +395,3 @@ antes de que las examine un experto?
 cosa: la próxima canción que aprenda a tocar en la flauta será “Yanqui Doodle”.
 Reconozco que no todos los yanquis son unos mentecatos. ¿O preferirías, de
 estar en mi lugar, aprender “La bandera roja, azul y blanca”?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -173,6 +173,3 @@ Fue al dormitorio y se encontró a la chica tendida en la cama, envuelta con la 
 —¿Qué?
 —¿Puedo quedarme aquí un rato?
 —Puedes quedarte todo el tiempo que quieras, criatura —dijo Theresa Livingston.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

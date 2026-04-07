@@ -79,6 +79,3 @@ Mientras me vestía a bulto, Sandrino me dijo, bastante desenvuelto, que habían
 Entonces Sandrino abrió los brazos con un gesto de impotencia y me dijo:
 —Hasta la vista, un día de estos.
 Lanzó una ojeada ambigua a Giulia y se marchó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

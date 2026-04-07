@@ -140,6 +140,3 @@ silencio vibrante, rumoroso, zumbante de nubes de mariposas blancas giraban
 sobre la ribera desierta, y lejos, hacia alta mar, un barco que huía, con tres
 grandes árboles verdes erguidos en medio de sus velas, llevaba los últimos
 emigrantes de lo que fue Wood’stown.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

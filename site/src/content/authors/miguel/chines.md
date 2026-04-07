@@ -181,6 +181,3 @@ La traía en brazos. Pesaba menos que el humo, menos que el agua, menos que el a
 Un ataúd de caoba. Un peñasco de sangre. El nudo de las tres vidas.
 Porque sueño con los ojos abiertos creen que yo sé cosas...
 ¡Astros materiales, se deshojó la noche del destino!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

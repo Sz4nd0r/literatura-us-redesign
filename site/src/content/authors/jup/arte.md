@@ -55,6 +55,3 @@ Imagino mi césped levantado, la excavadora grande y dorada pisoteando mis narci
 El fontanero suspira, como suspiran los poetas, con un ojo puesto en el público.
 —Verá, si lo deja como está, quemará la bomba nueva. Tiene que trabajar demasiado para extraer el agua. Cámbiela ahora y no tendrá que volver a preocuparse. Les durará una vida.
 Mi vida. Su vida. Tiene los ojos muy abiertos ante las presencias innombrables de la corrosión y el flujo. Nos asomamos por la trampilla del sótano; un trozo cegador de cielo se coloca sobre nosotros, enmarcado por nubes provisionales, eternas. Todo a nuestro alrededor nos sobrevive.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

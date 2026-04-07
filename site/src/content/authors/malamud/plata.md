@@ -272,6 +272,3 @@ En una explosión de silencio la chica sollozó asustada.
 —¡Ajá! —exclamó el rabino, con la mirada aturdida, señalando a Dios en el cielo⁠—. ¡Asesino! —⁠exclamó horrorizado.
 Gimiendo, padre e hija corrieron a abrazarse, en tanto que Albert, transportando una masiva jaqueca cargada de pinchos, bajaba apresuradamente las retumbantes escaleras.
 Una hora más tarde el viejo Gans cerró los ojos y expiró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

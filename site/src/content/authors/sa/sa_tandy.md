@@ -35,6 +35,3 @@ El forastero se incorporó y se marchó dando traspiés calle abajo. Un día o d
 La niña lloró con tanta amargura que Tom Hard se conmovió y trató de consolarla. Se detuvo debajo de un árbol y, cogiéndola entre sus brazos, empezó a acariciarla.
 —Vamos, sé buena —le dijo secamente, pero no hubo manera de consolarla. Con abandono infantil, la niña se dejó arrastrar por la pena, y su voz quebró el silencio de la noche.
 —Quiero ser Tandy. Quiero ser Tandy. Quiero ser Tandy Hard —gritó moviendo la cabeza y sollozando, como si la fuerza de su juventud no fuese suficiente para soportar la visión que las palabras del borracho habían llevado ante sus ojos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

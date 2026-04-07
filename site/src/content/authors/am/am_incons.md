@@ -68,6 +68,3 @@ Al día siguiente me encontré con Santina, en la explanada, y ella me preguntó
 —Ahora no se vuelve a hablar del asunto hasta que haya adquirido una nueva inconsciencia.
 Pero ella, desilusionada porque había contado ya con las cien mil liras, se marchó diciendo que yo era un cobarde y que no quería volver a verme más. Y desde entonces, cuando me encuentra, me pregunta, burlona:
 —¿Qué, has encontrado ya la inconsciencia?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

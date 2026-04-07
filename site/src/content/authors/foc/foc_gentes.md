@@ -164,6 +164,3 @@ Este era el
 tipo de cosas que leía... cosas que en el presente no tenían sentido. Entonces
 le vino a la mente, con un leve y desagradable sobresalto, que el general con la
 espada en la boca, que marchaba presto a la violencia, era Jesucristo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

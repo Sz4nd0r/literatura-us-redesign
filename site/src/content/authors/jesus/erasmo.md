@@ -172,6 +172,3 @@ Erasmo llevó lentamente su fusil al hombro.
 Pero ya se había puesto de pie. Erasmo se lanzó contra
 él y Carmenati cayó al suelo.
 Habían sonado dos disparos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

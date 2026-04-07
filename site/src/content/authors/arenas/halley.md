@@ -118,6 +118,3 @@ El Cometa Halley fue uno de los más famosos y prestigiosos prostíbulos de toda
 106
 ya en esta época (1950) no se encuentran. Ellas congeniaban el amor con el interés, el goce con la sabiduría, la ternura con la lujuria... Pero aquí hacemos mutis, pues nuestra condición de respetables caballeros de la orden de la Nueva Galaxia (sí, somos astrónomos y condecorados por el municipio de Jagüey Grande) nos impide dar más detalles sobre la vida de esas señoras. Sólo podemos afirmar, y con amplio conocimiento de causa, que ninguna de ellas murió virgen.
 Miami Beach, enero de 1986
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

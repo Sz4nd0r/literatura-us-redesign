@@ -255,6 +255,3 @@ Metido en una cajita, el perro que había visto a Dios fue cargado en una carret
 Llegaron a la colina, bajaron de los coches y se dirigieron a pie hacia las ruinas de la antigua capilla. Los niños se adelantaron corriendo.
 —¡Mamá! ¡Mamá! —se les oyó gritar allá arriba—. ¡Rápido! ¡Venid a ver!
 Apretaron el paso, llegaron a la tumba de Silvestro. Desde aquel lejano día de los funerales nadie había vuelto allí arriba. Al pie de la cruz de madera, justo encima del túmulo del eremita, yacía un pequeño esqueleto. La nieve, los vientos y las lluvias lo habían corroído, lo habían vuelto grácil y blanco como una filigrana. Era el esqueleto de un perro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

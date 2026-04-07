@@ -214,6 +214,3 @@ La mujer se quitó el pañuelo y el viento le alborotó el pelo sobre la cara.
 —Una pena —dijo, más seria ahora, mientras encogía la barbilla para anudarse el pañuelo—. Una pena. Lo tuvo mucho tiempo.
 Alguien estaba llamando a Rose; tenía que volver al rodaje. La chica no se tiraba al mar. No pasaban esas cosas en la serie. Esas cosas siempre amenazaban con pasar pero no pasaban, salvo de vez en cuando a personajes periféricos y poco atractivos. Los espectadores confiaban en quedar protegidos de esos desastres predecibles, así como de los giros dramáticos que lanzan la trama a la incógnita, los vuelcos que exigen nuevos planteamientos y soluciones, y abren las ventanas a escenarios inolvidables poco apropiados.
 Que Simon muriera se le antojó a Rose como uno de esos giros. Era absurdo, era injusto, que un suceso de ese calado hubiese quedado fuera del guion, y que Rose incluso a esas alturas pudiese haberse creído la única que realmente estaba indefensa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

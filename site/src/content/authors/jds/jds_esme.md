@@ -242,6 +242,3 @@ HOLA HOLA HOLA HOLA
 RECUERDOS Y BESOS CHARLES
 Pasó mucho tiempo antes de que X pudiera dejar a un lado la nota, para no mencionar lo que tardó en sacar el reloj de Esmé de la caja. Cuando por fin lo consiguió, vio que en el viaje se había roto el cristal. Se preguntó si además no se habría estropeado, pero le faltó coraje para darle cuerda y comprobarlo. Se limitó a permanecer sentado otro largo rato con el reloj en la mano. Y de pronto, casi en éxtasis, sintió sueño.
 Coge a un hombre verdaderamente soñoliento, Esmé, y siempre tendrá una posibilidad de volver a ser un hombre con todas sus fac... con todas sus fa-cul-ta-des intactas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -51,6 +51,3 @@ Lleno de exaltación todo él, se aproxima a su oyente y, mirándole a los ojos 
 —Fui adonde estaba enterrado mi padre, ¡desde luego! Y aunque, claro, yo sé que los muertos no oyen, fui allá, pues hay que respetar los deseos de quienes trabajaron para nosotros e sufrieron no menos que nosotros mismos, ¿no es verdad?
 —Sí, fui a su tumba, golpeé la tierra con el pie y le dije, como él deseara en vida:
 —¡Padre, ya está hecho! Los hombres han vencido. ¡Ya está hecho, padre!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -106,6 +106,3 @@ impuramente. Reducían a un mínimum los elementos estrictamente estéticos y ha
 consistir la obra, casi por entero, en la ficción de realidades humanas… Productos de
 esta naturaleza (tanto del Romanticismo como del Naturalismo) sólo parcialmente
 son obras de arte, objetos artísticos… Se comprende, pues, que el arte del siglo XIX haya sido tan popular… no es arte, sino extracto de vida”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

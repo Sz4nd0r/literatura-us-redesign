@@ -207,6 +207,3 @@ Quería explicarle que se había equivocado, que no todo estaba perdido, que la 
 —¡Dímov! —le llamaba, sacudiéndole el hombro, resistiéndose a creer que ya nunca despertaría— ¡Dímov, Dímov!
 En el salón Korosteliov le decía a la doncella:
 —No hay nada que preguntar. Vaya a la garita de la iglesia y pregunte por un hospicio de mujeres. Ellas lavarán el cadáver, lo vestirán y harán todo lo que sea menester.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

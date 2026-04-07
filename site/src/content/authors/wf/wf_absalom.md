@@ -886,6 +886,3 @@ Cronología
 1841 Nace Judit Sutpen.
 1845 Nace Rosa Coldfield.
 1850 Wash Jones y su hija se instalan en la pesquería abandonada de la plantación de Sutpen.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

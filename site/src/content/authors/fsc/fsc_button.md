@@ -305,6 +305,3 @@ No había malos recuerdos en su sueño infantil: no le quedaban recuerdos de sus
 El pasado: la salvaje carga al frente de sus hombres contra la colina de San Juan; los primeros años de su matrimonio, cuando se quedaba trabajando hasta muy tarde en los anocheceres veraniegos de la ciudad presurosa, trabajando por la joven Hildegarde, a la que quería; y, antes, aquellos días en que se sentaba a fumar con su abuelo hasta bien entrada la noche en la vieja y lóbrega casa de los Button, en Monroe Street… Todo se había desvanecido como un sueño inconsistente, pura imaginación, como si nunca hubiera existido.
 No se acordaba de nada. No recordaba con claridad si la leche de su última comida estaba templada o fría; ni el paso de los días… Sólo existían su cuna y la presencia familiar de Nana. Y, aparte de eso, no se acordaba de nada. Cuando tenía hambre lloraba, eso era todo. Durante las tardes y las noches respiraba, y lo envolvían suaves murmullos y susurros que apenas oía, y olores casi indistinguibles, y luz y oscuridad.
 Luego fue todo oscuridad, y su blanca cuna y los rostros confusos que se movían por encima de él, y el tibio y dulce aroma de la leche, acabaron de desvanecerse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

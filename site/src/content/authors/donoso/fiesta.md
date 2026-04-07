@@ -122,6 +122,3 @@ La tetera estaba hirviendo cuando doña Laura regresó a su pieza. Preparó el t
 Lo besó en la mejilla izquierda.
 —No se vaya, mami. Acompáñeme hasta que me duerma. Tengo miedo...
 La anciana se sentó en el borde de la cama. Luego, al ver que su hijo comenzaba a dormirse, se sacó los zapatos, se tendió junto a él, y arropándose los pies con un chal, ella también dormía a los pocos instantes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

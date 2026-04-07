@@ -553,6 +553,3 @@ Estaba cerca de la puerta. Giraba el picaporte.
 —En el fondo, está celosa… ¡Perfectamente, señorita Berthe!… Y celosa de mí, además, porque hubiese querido salvarle usted sola… No le impido, en cuanto me haya dado la vuelta, que se levante a pesar de su herida y que tome el tren para Bruselas… Apostaré incluso que pronto abrirá allí una tienda de «Modelos de París»… Hasta la vista, señorita Berthe…
 Y, buscando a pesar de todo una pequeña venganza, le lanzó al salir:
 —Ya le enviaré mi factura…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -198,6 +198,3 @@ La señora Chester llegó dos días antes de la boda. No veía a su marido hací
 —Perdóname, querida —murmuró Enrique—. No me he portado bien contigo.
 —Yo sabía que no lo hacías adrede —balbució ella.
 —Sí lo hacía. Quería que sufrieras tú porque sufría yo; Pero este asunto de Templeton y Evie me ha hecho ver diferentemente las cosas. No creo que la muerte sea tan importante como el amor. Quiero que tú vivas y seas feliz. No me quejaré de ti más, ni me molestaré por nada. Me alegro de que seas tú quien sobreviva. Te deseo todos los bienes de este mundo, porque te amo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

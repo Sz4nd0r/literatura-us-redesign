@@ -454,6 +454,3 @@ Un hombre con la nariz tumefacta y un cardenal en un ojo desayuna bajo un paraso
 Torrence no está de humor para descifrar adivinanzas. Hace lúgubremente la cuenta de lo que les cuesta en cablegramas y conferencias telefónicas aquella investigación que no rendirá nada.
 —¡A Barbet! ¡A Barbet, que surgió en el último momento y que…!
 —Si no tiene inconveniente —gruñe Torrence—, yo me voy a la cama.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

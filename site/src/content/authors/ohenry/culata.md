@@ -368,6 +368,3 @@ suelo. Los dedos de una de sus manos manoseaban uno de los botones de su
 chaqueta al tiempo que dejaban salir estas palabras de sus labios pálidos:
 —Oye, Shack, ¿no te parece una nota
 repugnante? ¿No te ha dejado seco, Shack? ¿No es asqueroso?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

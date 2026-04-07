@@ -32,6 +32,3 @@ El niño dejó el escrutinio y de nuevo alzó la mano. Se movía con suprema pre
 En un momento se detuvo y los dientes le castañearon convulsivamente pues el vendedor se movió en sueños. El chiquillo, con la mirada aún fija en el italiano, volvió a extender la mano y los rapaces dedos se cerraron sobre un fruto redondo.
 Y estaba escrito que el italiano abriría en aquel instante los ojos. Atravesó al pequeño con una mirada inquisitiva y el niño, con una expresión en el rostro de profunda culpa, puso inmediatamente el fruto redondo en su espalda y comenzó a realizar una serie de enloquecidos y elaborados gestos declarando su inocencia.
 El italiano aulló, se puso de pie de un salto, y en tres pasos alcanzó al niño. Lo zarandeó fieramente y de sus deditos arrancó un limón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

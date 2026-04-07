@@ -62,6 +62,3 @@ Pero durante la cena la vida tomó un sentido inmediato e histórico.
 Hasta que, así como una persona engorda, ella dejó de ser mujer, sin saber por qué proceso. Existe una oscura ley que hace que se proteja al huevo hasta que nace el pollo, pájaro de fuego.
 Y ella obtuvo sus zapatos nuevos.
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

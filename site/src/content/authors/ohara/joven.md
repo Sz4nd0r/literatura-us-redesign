@@ -50,6 +50,3 @@ Hubo un momento de silencio, y entonces él dijo:
 La motocicleta soltó un par de rugidos y se alejó.
 Bud oyó cómo el Ford de Kathy entraba en el aparcamiento, y a continuación oyó un portazo y el sonido de sus pasos sobre la grava. Esperó hasta oír el portazo de la puerta del bar y entonces salió del coche. Nadie debía verlo; podía decirle a su madre que se había olvidado del coche. En ese preciso instante lo que quería era caminar solo y tener pensamientos que odiaba y que arruinarían su vida para siempre. Y lo más espantoso era que no había nada, nada, nada que hacer, salvo lo que estaba haciendo.
 —¡Que me dejes en paz! —dijo sin dirigirse a nadie.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

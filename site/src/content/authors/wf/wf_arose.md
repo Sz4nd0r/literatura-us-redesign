@@ -95,6 +95,3 @@ La violencia con que se echó abajo la puerta pareció impregnar la habitación 
 El hombre yacía en la cama.
 Durante un buen rato allí nos quedamos, contemplando la sonrisa profunda y descarnada. El cadáver aparentemente había yacido alguna vez en la actitud de un abrazo, pero el largo sueño que sobrevive al amor, que conquista incluso la mueca del amor, le había puesto los cuernos. Lo que de él quedaba, podrido bajo lo que quedaba del camisón de dormir, era ya inseparable de la cama en que yacía; sobre él, y sobre la almohada, se había posado esa capa de polvo paciente e inmisericorde.
 Vimos entonces que en la otra almohada quedaba la oquedad dejada por una cabeza. Uno de nosotros tomó algo de ella, y al inclinarse, con el polvo seco y acre en las fosas nasales, vimos una hebra de largos cabellos grises como el plomo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -294,6 +294,3 @@ El primer ministro miró a Holmes con una mirada risueña.
 —Vamos, señor mío —dijo—. Aquí hay más de lo que se ve. ¿Cómo ha vuelto la carta a la valija?
 Con una sonrisa en los labios, Holmes apartó la mirada del intenso escrutinio de esos ojos fascinantes.
 —Nosotros también tenemos nuestros secretos diplomáticos —dijo y, cogiendo su sombrero, se dirigió hacia la puerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

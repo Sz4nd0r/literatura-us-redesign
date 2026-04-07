@@ -465,6 +465,3 @@ Pues bien, eso basta… Por lo demás, el cadáver de Lagny basta y le aseguro q
 »Después de esto, señores, creo que…
 A pesar del reloj de la chimenea, el director saca de su bolsillo el suyo y refunfuña:
 —Son las cinco de la mañana y convendría que nos fuéramos a descansar un poco… Mañana… O mejor dicho, luego…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

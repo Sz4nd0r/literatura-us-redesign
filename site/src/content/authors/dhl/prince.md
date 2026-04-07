@@ -456,6 +456,3 @@ Pero su pelo corto mostraba las sienes grises, y tenía una mirada un poco ida. 
 —Desde mi accidente en las montañas, cuando un hombre se volvió loco y disparó contra mi caballo y mi guía tuvo que dispararle, no me he vuelto a sentir yo misma.
 Así lo explicaba.
 Más tarde se casó con un hombre de edad, y pareció complacida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -64,6 +64,3 @@ Al cabo de media hora, Silver y yo le habíamos pagado al prestamista 2000 dóla
 —¿Has visto a míster Morgan? —le pregunté—. ¿Cuánto te ha pagado por el cuadro?
 Silver se sentó y empezó a dar vueltas entre sus dedos a una borla del tapete que cubría la mesa.
 —En realidad, nunca he visto a míster Morgan —dijo—, porque se encuentra en Europa desde hace un mes. Pero lo que me preocupa, Billy, es esto: en los Grandes Almacenes tienen ese mismo cuadro a la venta, en un marco, al precio de 3 dólares 48 centavos. Y por el marco sólo cobran 3 dólares 50 centavos… Esto es lo que no puedo comprender.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -28,6 +28,3 @@ Yo pensaba en sus cuadros, en la geometría de tonos apagados como un recuerdo y
 «Hasta que un día salió de la iglesia sin la madre y cruzando la llovizna le dije: “Las flores”; y siguió sin oírme y se dio vuelta y preguntó sin mirarme o mirándome con asco: “¿Y usted cómo sabe?”. Yo sólo supe decirle: “Yo, y acaso haya comprendido”, y desde entonces es como si fuéramos amigos».
 Cafiani lo había visto muchas noches claras o de lluvia, rígido, un poco metido en la sombra, frente a las luces de la casa de la muchacha. El rostro, torcido e inmóvil, siempre como plateado por el agua o la luna, y nos decía en el café: «Así como la estatua en zinc de su desgracia». Cafiani escribía poemas.
 1979
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

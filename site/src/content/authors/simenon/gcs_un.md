@@ -157,6 +157,3 @@ Entonces el comisario se aseguró, de una ojeada, de que estaban en una bodega, 
 —Me he equivocado —gruñó—. ¡Le ocurre a todo el mundo!
 Luego, como era hasta todo punto necesario, envió su puño contra el rostro del hombre, suspiró, tranquilizado, y articuló al ver a Labri palparse un diente que se balanceaba:
 —¡Siempre podrás decir que te has caído por la escalera! ¡Es tan empinada!…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

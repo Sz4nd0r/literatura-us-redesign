@@ -50,6 +50,3 @@ Cuando luego dobla despacio la esquina encuentra la mirada de la madre a unos di
 —¿Y el dinero?
 —Cierra los ojos, mamá —dice Åke, y juega el último de los juegos diurnos.
 Y mientras la madre cierra los ojos Åke desliza las cuatro coronas una tras otra en su mano tendida y echa a correr después calle abajo con pies que resbalan por los guijarros de puro miedo. Un grito que se amplía por momentos le persigue a lo largo de los muros de las casas, pero no le detiene. Le hace por el contrario correr aún más rápido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

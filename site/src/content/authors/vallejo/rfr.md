@@ -362,6 +362,3 @@ este hombre «en el buen sentido de la palabra, bueno»; de este comunista
 que murió, también, de universo, y sobre cuya tumba desnuda que todo
 hispanoamericano real visita conmovido en Montrouge, se oye arder este
 verso suyo: «su cadáver estaba lleno de mundos».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

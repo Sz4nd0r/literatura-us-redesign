@@ -282,6 +282,3 @@ El dolor de su voz resultaba desgarrador. El empleado se encogió de hombros, sa
 Lanzó un profundo grito de desesperación y su rostro se descompuso de angustia.
 —¡Oh, Dios, Dios! —gimió.
 Se volvió y de sus cansados ojos volvieron a brotar las lágrimas. Permaneció un momento de pie, como un ciego que se mueve a tientas y no sabe qué camino tomar. Entonces ocurrió algo escalofriante. El bull-terrier Fritzi se sentó sobre sus patas traseras e, inclinando la cabeza hacia atrás, emitió un largo y melancólico aullido. La señora Caypor le miró con el terror en el semblante y con los ojos casi desorbitados. La duda, la punzante duda que la había torturado todos aquellos temibles días de espera, dejó de serlo. Comprendió. Se precipitó a ciegas a la calle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

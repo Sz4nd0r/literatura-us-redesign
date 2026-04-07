@@ -358,6 +358,3 @@ La ola apareció en la lejanía, fue aumentando, espumeando rodó hacia él con 
 Jenny Prince.
 ¡Estaba allí! Toda ella, lo mejor de ella: el esfuerzo, el poder, el triunfo, la belleza. Jacob se adelantó entre la gente y sacó una entrada en la taquilla.
 Confuso, miró a su alrededor en el vestíbulo inmenso. Entonces vio una puerta y entró, y ocupó una butaca en la vibrante oscuridad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

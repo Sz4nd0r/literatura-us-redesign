@@ -167,6 +167,3 @@ Los mejicanos se volvieron para mirarle y él levantó el revólver. Durante un 
 Por último se levantó, anduvo unos pasos y se paró para aflojar las grisáceas manos de Bill, que aún estaban asidas a la garganta de un enemigo. Tambaleándose un poco, como si estuviera borracho, se quedó unos momentos mirando la cara inmóvil.
 Le asaltó un repentino pensamiento; empezó a buscar por el suelo, con ojos tristes, hasta que dio con su manta, de alegres colores, tirada en medio de la espesura y manchada con las huellas de muchas pisadas. La limpió cuidadosamente y luego volvió y la colocó sobre el cuerpo de Bill. De nuevo permaneció a su lado, inmóvil, con la boca abierta y la misma mirada estúpida en los ojos. De pronto sintió un estremecimiento de espanto y miró salvajemente a su alrededor.
 Había llegado cerca de la espesura cuando se paró de pronto, presa de una profunda conmoción. Un cuerpo contorsionado yacía en el sendero. Lentamente, con gran cautela rodeó el cuerpo. Por un momento, los árboles, inclinándose y susurrando, con las ramas vueltas hacia la escena que dejaba detrás, se mecieron suavemente en el silencio y la paz de la soledad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

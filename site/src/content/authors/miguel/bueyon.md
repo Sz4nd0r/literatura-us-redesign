@@ -75,6 +75,3 @@ Después de un largo silencio y de parpadear lentamente, decía la Caiduna, cano
 La Caiduna calló. Acariciaba en su regazo la cabecita de su nieta Agustina, diciéndole al oído:
 —Y todo eso lo repite usted como lorito…
 Otros pensamientos la devoraban. Los hombres también regresan de la muerte. Un incendio que lo queme todo y haga volver la tierra a las manos de sus dueños más legítimos, los hijos del país, señalará el regreso de los que como Naiqué Bueyón Cuyqué murieron o desaparecieron víctimas de los gringos que los bombardearon desde el cielo, y entonces se verá, entre la alegría del pueblo, el símbolo de sus penachos de plumajes humeantes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -263,6 +263,3 @@ de su proceso por falsificación. Ha sido una suerte para mí, y para alguien
 más, que la moneda fuera tan burda. No me dio ningún trabajo despedazarla.
 Oiga, Kil, ¿no podría bajar a los jacales y averiguar dónde vive esa joven
 mexicana? Miss Derwent se lo agradecerá.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

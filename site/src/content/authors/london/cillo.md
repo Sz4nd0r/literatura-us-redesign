@@ -182,6 +182,3 @@ Smoke desdeñó el cumplido con un gesto de la mano.
 —Lo sé todo —insistió ella—. Carson me lo contó. Te sacrificaste para salvarlo.
 —De eso nada —mintió Smoke—. Desde el principio pude ver que había una piscina justo debajo de mí.
 (1911)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

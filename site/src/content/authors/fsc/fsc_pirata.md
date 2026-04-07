@@ -402,6 +402,3 @@ El tiempo es un ladrón; alegrías y penas se van con las hojas en otoño...
 —¿Qué había en las bolsas? —preguntó en voz baja.
 —Arena de Florida. Es una de las dos verdades que te he dicho.
 —Tal vez yo pueda adivinar la otra —dijo Ardita. Y, poniéndose de puntillas, lo besó dulcemente... en la ilustración.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

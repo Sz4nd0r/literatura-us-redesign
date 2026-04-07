@@ -71,6 +71,3 @@ Ella logró incorporarse, enseguida cruzar los brazos de nuevo sobre el pecho. M
 —Lárguese, váyase, váyase o llamo a mi marido…
 Pero él no era él, sino un grupo de fuerzas reunidas. Tenía en los ojos ahora el mismo color de las lombrices, en el cuello estirado la intención de las espigas del macío, en las manos la presión de las mandíbulas del perro y en las entrañas todo el sol y la trabazón de los canutillos bajo el agua.
 No quiso oír más, la tumbó bajo la sombra del ajete. Otro golpe de viento vino desde los macíos y se volvió un remolino caliente que levantó las hojas del suelo. Dos cayeron sobre la espalda mojada del hombre y allí se pegaron, subiendo y bajando, mientras cesaba el llanto de ella sobre la tierra cubierta de romerillos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

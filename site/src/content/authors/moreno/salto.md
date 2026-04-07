@@ -157,6 +157,3 @@ tengo otro estilo.
 —Que ahora te importa otro. Darle también tu salto. Ser cruel.
 —¿Y no contestarle? ¿O decirle solamente que deje morir las cosas? O tomarle la palabra: ¡las glorias de la frustración y del renunciamiento!... Sería lo más lógico.
 Estaban de pie y se tocaban las manos, de frente y con los brazos extendidos; pero no era un gesto de confortación o de cariño, sino de desentendida y deportiva cordialidad; la ligera cordialidad de dos personas que no quieren confesarse que se están compadeciendo mutuamente, pero por causas muy distintas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

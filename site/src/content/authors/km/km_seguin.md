@@ -78,6 +78,3 @@ Sonreí, preguntándome por qué las peras habían de seguir a las castañas.
 Monsieur Séguin, echando su silla hacia atrás, murmuró la acción de gracias.
 Tuve que seguirles desesperada a la sala.
 —Supongo que habrá estado admirando mis alfombrillas —dijo Madame, con más animación de la que hasta entonces había mostrado—. La gente supone siempre que son obra mía. Pero, no, están hechas por mi amiga Madame Kummer, que tiene su pensión en el primero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

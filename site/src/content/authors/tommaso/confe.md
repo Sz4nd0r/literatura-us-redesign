@@ -143,6 +143,3 @@ Le labrene
 —Bien. Que nuestra despedida sea, por tanto, clamorosa y discreta.
 —Sea; ¡como la siguiente!: “Que Dios te inspire siempre, ítalo grande”.
 —No, algo menos cursi y de sentido contrario. Por ejemplo: “Adiós, mis fieles, e insultos a sus familias, si son tan tontos o tan infelices como para tenerla”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

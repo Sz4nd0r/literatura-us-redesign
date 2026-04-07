@@ -30,6 +30,3 @@ Junto al piano, Nina, Kola, Nadia y Vania, los hijos del consejero áulico, jueg
 —¡Cinco años! —grita desde su gabinete Anna Pavlovna.
 —Como quiera que sea, ya se han ido seis años. ¡Amigo mío! Ya no arde el mismo fuego.
 Lopniev y Sharamikin permanecen pensativos. Los tizones de la chimenea lanzan un postrer destello y se cubren de ceniza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

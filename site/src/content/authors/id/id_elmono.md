@@ -504,6 +504,3 @@ Por esta vez los ojos luminosos de Athena se fijaron directamente en Boris. Le p
 La priora apartó el pañuelo de su cara y con movimiento suave se sentó en su alto sillón.
 Miré al joven y a la muchacha y les dirigió estas palabras:
 —Hijos míos, Discite justitiam, et non temnere divos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

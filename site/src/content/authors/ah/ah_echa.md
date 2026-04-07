@@ -80,6 +80,3 @@ En las noticias de aquella noche, mostraron algunas imágenes del motín. Sacaro
 Lo vi en la televisión y, dado que se trataba de mi médico, que los pacientes del hospital estamos ensimismados y que yo estaba drogada, pensé que el cirujano hablaba de mí. Pensé que decía: «Bueno, ella ha muerto. Se lo estoy comunicando en su propia cama».
 La psiquiatra que me atendió a petición del cirujano me aseguró que esa sensación era normal. Me dijo que las víctimas de un trauma no asimilado creen a menudo que están muertas y que no lo saben.
 Los grandes tiburones blancos que se deslizan por las aguas cercanas a mi casa atacan de una a siete personas al año. Su presa principal es el abulón. Teniendo en cuenta que el medio kilo de abulón cuesta treinta y cinco dólares, y que su precio sigue subiendo, el Ministerio de Pesca confía en que los ataques de tiburones no merme la población de abulones.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

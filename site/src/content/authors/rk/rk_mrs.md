@@ -635,6 +635,3 @@ tren.
 —Bueno, no sé qué opináis vosotros —dijo Pyecroft—, pero después de haber
 visto su cara durante cinco noches consecutivas, yo me inclino a terminar lo que
 nos queda de cerveza y agradecer a Dios que esté muerto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

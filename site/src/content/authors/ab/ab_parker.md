@@ -81,6 +81,3 @@ Diez minutos después, el sargento Paker Adderson, del ejército federal, filós
 El cirujano miró al ayudante mayor con aire grave y significativo. El enfermo cerró lentamente los ojos y permaneció en esa actitud durante algunos minutos. Después, con el rostro iluminado por una sonrisa inefablemente dulce, dijo con voz débil:
 —Supongo que ha llegado la muerte.
 Y expiró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

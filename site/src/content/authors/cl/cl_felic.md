@@ -29,6 +29,3 @@ Al llegar a casa no empecé a leer. Simulaba que no lo tenía, únicamente para 
 A veces me sentaba en la hamaca para balancearme con el libro abierto en el regazo, sin tocarlo, en un éxtasis purísimo.
 Ya no era una niña más con un libro: era una mujer con su amante.
 Felicidade clandestina (1971)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

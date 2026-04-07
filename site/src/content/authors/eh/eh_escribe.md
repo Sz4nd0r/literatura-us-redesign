@@ -22,6 +22,3 @@ Permítame que le escriba para pedirle un consejo muy importante. Tengo que toma
 Le doy las gracias y confío plenamente en su consejo. Atentamente,
 y firmó con su nombre.
 A lo mejor él puede decirme qué debo hacer, se dijo. A lo mejor me lo puede decir. En la foto que sale en el periódico es la impresión que da. Parece inteligente, desde luego. Cada día le dice a alguien lo que debe hacer. Debería saberlo. Quiero hacer lo que sea correcto. De todos modos, ha pasado tanto tiempo. Tanto tiempo. Ha estado tanto tiempo fuera. Dios mío, cuánto tiempo. Él tenía que ir a donde le mandaran, lo sé, pero no sé por qué tuvo que coger eso. Oh, ojalá no lo hubiera cogido. No me importa cómo lo cogió. Pero ojalá nunca lo hubiera cogido. A mí me parece que no tendría que haberlo cogido. No sé qué hacer. Dios mío, ojalá no tuviera ninguna enfermedad. No sé por qué tuvo que coger esa enfermedad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

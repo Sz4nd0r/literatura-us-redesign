@@ -133,6 +133,3 @@ No tuvo tiempo de sentirse ridicula porque al otro lado de la línea atendieron 
 —Estoy en la tienda de la esquina. Ven a buscarme.
 —¿Qué sucede? —Brad no parecía impaciente por acudir.
 —Por favor, ven a buscarme —repitió al negro micrófono que no sabía si transmitiría o no el mensaje —. Por favor, Brad, ven a buscarme. Por favor...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

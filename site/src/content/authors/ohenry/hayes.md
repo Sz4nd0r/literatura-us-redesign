@@ -69,6 +69,3 @@ Se había reñido una batalla de exterminio. Nada permitía identificar al comba
 —Algún vaquero al que encontraron solo. Pero les supo castigar antes de que lo matasen. Y éste es el motivo de que no volviésemos a oír hablar de don Sebastián.
 Y entonces, de debajo de los jirones de la ropa del cadáver, surgió una rana cornuda, con una cinta roja al cuello, que se sentó sobre el hombro del cadáver. Y aquello contó la historia del bisoño joven y de su caballo tordillo, probando que Jimmy Hayes había perecido luchando, por el honor de su compañía, con los atacantes mexicanos.
 La tropa de cazadores se agrupó y todos profirieron al unísono un grito bronco. Aquello era a la vez excusa, epitafio y clamor de triunfo. Un extraño réquiem, si se quiere, para los restos de un camarada caído. Pero, de oírlo Jimmy Hayes, lo hubiese comprendido bien.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

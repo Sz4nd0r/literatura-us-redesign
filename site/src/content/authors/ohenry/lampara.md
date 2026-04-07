@@ -155,6 +155,3 @@ Después de besarse las dos mujeres echaron las cabezas hacia atrás, como las s
 Y entonces Lou advirtió que algo mejor que la prosperidad se reflejaba en el afecto de Nancy. Algo que relucía en sus ojos más que las piedras preciosas, y encendía sus mejillas como rosas, y danzaba como una chispa eléctrica en la punta de su lengüecilla.
 —Sigo en el almacén —dijo Nancy—, pero lo dejo la semana que viene. Al fin pesqué lo que quería. No te disgustes, Lou. Voy a casarme con Dan. ¿Qué te pasa?
 Doblando la esquina avanzaba uno de esos agentes de nuevo estilo —juvenil de edad y de expresión suave— que hacen tolerable, por lo menos en apariencia, la policía. Y vio a una mujer que ostentaba espléndidas pieles y costosos diamantes apoyada en la verja del parque y sollozando turbulentamente, mientras una joven sencillamente vestida se inclinaba hacia ella procurando consolarla. Mas el gibsoniano agente, por ser de los de extracción moderna, pasó de largo, fingiendo no notar nada, porque sabía que ciertas cosas se escapan al remedio de la autoridad que él representaba, aunque no por ello dejó de golpear el suelo con su bastón hasta que el sonido se tomó tan lejano como las más remotas estrellas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -137,6 +137,3 @@ Balancea su cartera y la siento pasar una y otra vez sobre mi muslo.
 Voy hacia ella y arqueo el lomo para recibirla. Lentamente su cuerpo se mete en mi abrazo y enseguida yo la aparto un poco para mirarla. Y sus ojos están dulces y su boca cansada, y sus pómulos me arden en las yemas. La beso en el pelo, y después en los ojos. La beso en la boca. Y vuelvo a apretarla. Y ella no dice nada. Y me besa. Y de su boca surge la lengua mojada y rápida y me acaricia con ella el cuello y después me la mete dentro de la boca.
 Yo la llevo hacia la cama, y nos tendemos abrazados y nos apretamos fuertemente las cabezas y cada vez que nos soltamos es solo para besarnos. Y nos apretamos y nos soltamos y ella no dice nada y yo le abro la blusa y yo no sé qué decirle y ella no sabe qué decirme y ahora ya solamente nos apretamos. Y siento que con las lenguas nos buscamos las gargantas.
 —Eres una mierda —le digo a mi hermano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

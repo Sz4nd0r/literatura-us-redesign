@@ -350,6 +350,3 @@ ingenua, fue la causa por la que Enriqueta Dogson, de la mañana a la
 noche, dejó de ver para siempre al joven Dais el Bint Abdalla, que, sin
 despedirse de ella, se embarcó para Java en busca del olvido de una
 pasión insensata.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -90,6 +90,3 @@ Pero cuando volvió, la señora Carter se encontraba parada junto al espejo. Est
 —Lo siento. Uno cambia.
 —No es eso. Quiero decir que me gustas tal como eres.
 Fue seca, ardiente, implacable en su deseo. “Más”, decía, “más” y luego gritó como un pájaro enojado y herido. Más tarde dijo: “Hacía años que eso no sucedía”, y siguió hablando animadamente a su lado durante lo que le pareció una larga media hora. Carter guardó silencio en la oscuridad, invadido por un sentimiento de soledad y de culpa. Sentía que esa noche había traicionado a la única mujer que amó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

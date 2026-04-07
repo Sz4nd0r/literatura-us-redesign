@@ -535,6 +535,3 @@ largo de la línea, desde un anzuelo hasta el otro. Lonnie nunca usaba el remo;
 dejaba el bote atado al mismo árbol del que partía la línea, y el remo quedaba
 siempre en la choza. Si alguna vez hubieses ido allí, lo habrías observado. Pero
 el remo estaba en el bote cuando el muchacho lo encontró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

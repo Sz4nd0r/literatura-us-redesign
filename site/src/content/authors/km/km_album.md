@@ -92,6 +92,3 @@ en la cerradura, él corrió y se le plantó delante.
 Y más acalorado que de costumbre, pero mirándola seriamente, le dijo, casi enfadado:
 —Perdón, señorita, ha dejado usted caer esto.
 Y le entregó un huevo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

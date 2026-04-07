@@ -258,6 +258,3 @@ Garofolo negó con la cabeza.
 —¡Pruébame, anda!
 Se citaron a las once del día siguiente. Sin soltarle el brazo, la mujer quiso un cigarrillo; Garofolo se lo encendió y, contento de no haber bromeado siquiera, se marchó pensando
 en Natalina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

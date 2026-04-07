@@ -273,6 +273,3 @@ Creyó que lo que veía era una gran mariposa blanca que había venido volando c
 Cuando la niña llegó junto a él, metió la mano bajo el delantal, sacó un telegrama y se lo dio sonriendo. Luego se fue. «Qué obsequio más extraño —pensó él sin dejar de mirarla—. Quizá será sólo de broma, y tendrá dentro una de esas serpientes de resorte que le saltan a uno a la cara.» Rió calladamente en sueños, y lo abrió con mucho cuidado. «Bah, había sólo un papel doblado.»
 Lo sacó y lo extendió.
 El jardín había quedado en sombras, y las sombras fueron tendiendo su red tenebrosa sobre la casita y los árboles, sobre Henry y el telegrama. Pero él no se movió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -97,6 +97,3 @@ Cuando despertó todavía estaba oscuro, salvo por el parpadeo de la lamparilla,
 Mientras estaba allí tumbado, ocurrió un extraño incidente.
 La puerta del aseo se movió un poco, luego un poco más, y por fin se abrió dejando un hueco de unos cincuenta centímetros. La lámpara del aseo no tenía pantalla, y por la abertura iluminada el señor Rolles vio la cabeza del señor Vandeleur en actitud de profunda atención. Comprendió que la mirada del dictador estaba fija en su rostro, y el instinto de conservación le impulsó a contener el aliento, no hacer el menor movimiento, seguir con la vista baja y observar a su visitante a través de las pestañas. Al cabo de un instante, la cabeza se apartó y volvieron a cerrar la puerta.
 En este punto, y acaso en contra de todos los cánones, nuestro autor árabe decide dar conclusión a la “Historia del joven sacerdote”. Lo lamento de veras, pero no debo sino seguir lo que dice el original, remitiendo al lector a la siguiente parte del cuento, la titulada “Historia de la casa de las persianas verdes”, donde encontrará la conclusión de las aventuras de Mr. Rolles..
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

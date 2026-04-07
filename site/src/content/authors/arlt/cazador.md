@@ -370,6 +370,3 @@ curiosísima, manchas negras con borde bronceado, le comenzó a cubrir la
 piel en todas partes del cuerpo, y aunque varios médicos sospechan que es
 una afección nerviosa, ninguna autoridad sanitaria le permite al primo
 Guillermo abandonar la isla donde “se comio su fortuna”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -309,6 +309,3 @@ Aurelio había perdido de vista aquel punto negro y aguzaba los ojos, sobresalta
 —Ahora sí que fumo a gusto —dijo Moro, entrando.
 Cuando, al cabo de unos minutos, Aurelio se reunió con él y se arrojó sobre los sacos, brusco, Moro prosiguió:
 —Fúmate un pitillo. Otra vez serás tú el primero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

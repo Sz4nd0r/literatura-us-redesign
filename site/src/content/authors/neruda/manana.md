@@ -551,6 +551,3 @@ conquistando la luz con tu blanca energía.
 Y se construye entonces la claridad de nuevo:
 obedecen las cosas al viento de la vida
 y el orden establece su pan y su paloma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

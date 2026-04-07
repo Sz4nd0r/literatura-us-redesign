@@ -66,6 +66,3 @@ Los pusieron en la misma cama, apagaron el quinqué y se fueron. Los perros se d
 —No te asustes, somos perros…
 Pero Eva sabía que ya no era verdad. Habíamos descubierto que el cielo de los hombres no era el mismo que el cielo de los perros.
 Los perros no compartían el crimen con nosotros.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

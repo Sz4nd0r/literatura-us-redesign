@@ -136,6 +136,3 @@ Heloïse se quedó abstraída, con los ojos fijos en el rostro de Frederick; y a
 —Sin embargo, hace mucho tiempo de eso —dijo ella—; sólo que a usted no le importa. Es usted un hombre: un escritor, ¿no? Está usted ascendiendo. Presiento que seguirá escribiendo muchos más libros. ¿Recuerda ahora cómo, cuando salimos a dar un paseo por Saarburg, me habló de las obras de un judío de Ámsterdam? Tenía un nombre bonito, como de mujer. Yo misma podía haberlo elegido para mí, en vez del que tengo, que también lo eligió para mí un hombre instruido. Supongo que sólo los muy instruidos habrán oído hablar de él. ¿Cómo era?
 —Spinoza —dijo Frederick.
 —Sí —dijo Heloïse—; Spinoza. Tallaba diamantes. Era muy interesante. No; para usted, el tiempo no importa. Uno es feliz al volver a encontrar a sus amigos —dijo—; sin embargo, es en esa ocasión cuando se da cuenta de cómo vuela el tiempo. Somos nosotras, las mujeres, las que lo notamos. El tiempo nos quita muchas cosas. Y al final: todo —miró a Frederick, y ninguna de las dos caras pintadas por los grandes maestros habría podido ofrecer semejante visión de la vida y del mundo—. ¡Cómo me habría gustado, mi querido amigo —dijo—, que me hubiese visto entonces!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

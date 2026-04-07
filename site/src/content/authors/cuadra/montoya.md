@@ -123,6 +123,3 @@ potas", no puede caer en un prosaísmo político que juegue otra vez
 incesantemente con el derecho del hombre a ser hombre. Los poetas somos
 los voceros de la vida y de sus derechos y el primero de todos es vencer
 la pobreza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

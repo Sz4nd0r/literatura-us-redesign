@@ -93,6 +93,3 @@ Formaban un grupo inmóvil sobre el camino y proyectaban sobre el polvo blanco u
 El sol daba jubilosamente en los paños de colores, en las banderas nuevas, en el caballo dorado que coronaba el arco de triunfo. En el pueblo, las muchachas todavía estaban atareadas en los alegres preparativos, recogiendo flores para los soldados –las flores, los adornos, el vino, la música que para nadie habrían ya de ser.
 –Es inútil –comentó Jerónimo con melancolía rompiendo por fin el silencio–, tenía que pasar... demasiado valientes, el Rey no ha querido soltarlos, no se encuentran soldados así...
 –Sí –asintió el viejo–, pero se les ha subido demasiado a la cabeza, no debían haber dejado... –(tirados con el rostro enterrado en el suelo, mordiendo vilmente la tierra, con los cuervos volando alrededor, por encima de esos muertos sin honor de los que tan sólo se apiada el sol que calienta sus espaldas inmóviles, restañando la sangre de sus vergonzosas heridas).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -137,6 +137,3 @@ Lady Treffinger palideció de forma perceptible, pero no era la confusión lo qu
 —El capitán Gresham, Lady Ellenham y la señorita Ellenham —anunció un sirviente que apareció en la puerta.
 Hubo un murmullo en la entrada y MacMaster saludó al sonriente capitán y a su tía mientras él se excusaba.
 A todos los efectos, El matrimonio de Fedra ya estaba enclaustrado en un vago continente del Pacífico, en algún punto del otro lado del mundo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -216,6 +216,3 @@ Grief dio una palmada para avisar al camarero y le pidió jabón y toallas.
 —¿Crees que los cerdos muertos crecen en los árboles? Hemos incluido en las cuentas un total de diez chelines por ese cerdo.
 Cornelius se estremeció y asintió con la cabeza.
 —No sabe cómo agradezco que no fuese un cerdo de quince chelines, o de veinte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

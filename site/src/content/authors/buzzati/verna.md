@@ -41,6 +41,3 @@ Naturalmente, yo le hago unos descuentos excepcionales, es más, acabo incluso p
 Sí. Después de todo es muy posible que sólo él me viera romper la fatal barra de hierro. Tal vez lo haya comprendido todo; podría denunciarme, desencadenar contra mí el odio de la población. Pero es pérfido y no habla. Viene a encargarse un traje nuevo, no me quita ojo, saborea de antemano la satisfacción de ponerme en la picota cuando menos me lo espero. Yo soy el ratón y él el gato. Juguetea, hasta que de pronto me dé el zarpazo. Y espera a que se celebre el juicio, preparándose para el golpe de efecto. En el momento culminante se pondrá de pie. “¡Sólo yo sé quién provocó el desplome!”, gritará. “¡Lo vi con mis propios ojos!”.
 También hoy ha venido para probarse un terno de franela. Más melifluo que de costumbre. “¡Eh! ¡Nos acercamos al final!”. “¿A qué final?”. “¿Cómo que a qué final? ¡Al del juicio! ¡Está en boca de toda la ciudad! Cualquiera diría que vive usted en las nubes, je, je”. “¿Se refiere al juicio por el desplome de la Baliverna?”. “Exacto. Je, je, ¡quizá se descubra al verdadero culpable!”.
 Después se va, despidiéndose con muchas ceremonias. Le acompaño hasta la puerta. Espero a que haya bajado un tramo de escaleras antes de cerrar. Se ha ido. Silencio. Tengo miedo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

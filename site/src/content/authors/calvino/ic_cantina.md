@@ -53,6 +53,3 @@ En la mesa los dos cuartos de vino estaban juntos: el de la viuda casi terminado
 —Y su majestad me preguntó: ¿Y usted, teniente? Me preguntó eso, exactamente. Y yo, haciendo la venia: subteniente Clermont De Fronges, majestad. Y el rey: ¡Clermont! ¡Conocí a su padre, dijo, un buen soldado! Y me estrechó la mano… Dijo exactamente eso: ¡un buen soldado!
 La gran viuda había terminado de comer y se había levantado. Ahora revolvía en su bolso apoyado en la otra silla. Se había agachado y por encima de la mesa sólo se le veía el trasero, un enorme trasero de mujer gorda, cubierto de tela negra. El viejo Clermont De Fronges tenía delante ese gran trasero que se movía. Seguía contando, con el rostro transfigurado:
 —… Toda la sala con las lámparas encendidas y los espejos… Y el rey me estrechó la mano. Bravo, Clermont De Fronges, me dijo… Y alrededor todas las señoras con vestidos de noche…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

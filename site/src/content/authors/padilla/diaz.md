@@ -491,6 +491,3 @@ auxiliar en una biblioteca en un barrio de La Habana.
 [4] Después de leer el libro de Norberto Fuentes Dulces guerreros
 cubanos (Barcelona, Seix Barral, 1999) no tengo duda de que Fuentes
 interpretó un libreto de la Seguridad del Estado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

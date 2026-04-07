@@ -105,6 +105,3 @@ Después de un silencio, el loco habló de nuevo, según parecía con más dific
 —¡La señora! ¡Traigan la señora! ¡Apresúrense!
 La trajeron desfallecida, pálida como la muerte, los ojos anegados en llanto, despues retrocedieron con respeto, mientras que ella se inclinaba sobre él para recojer sus últimas palabras articuladas mui bajo.
 —¡Ha sido edificada para tí, Ana, para tí, bien amada, y nos esperaba a ambos hace tanto tiempo! ¡Te pertenece, Ana, vivirás en ella... y con él! Él no se quejará de que esté siempre cerca de tí, puesto que estaré... muerto!...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -222,6 +222,3 @@ Los vieron desaparecer detrás de la casa. Pasó algún tiempo antes de que oyer
 —No ha querido quedarse —dijo Narcissa—. Va a Oxford. Hay un baile en la universidad el viernes por la noche. Se ha comprometido a llevar a una joven.
 —Allí tendrá amplias posibilidades de practicar el arte de la bebida al modo caballeresco —dijo Horace—. Y otras muchas cosas. Supongo que es ése el motivo de que quiera llegar con tanta anticipación.
 —Va a bailar con una chica —dijo el niño—. Y el sábado a Starkville, al partido de baseball. Gowan dijo que me llevaría, pero mamá no ha querido dejarme ir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

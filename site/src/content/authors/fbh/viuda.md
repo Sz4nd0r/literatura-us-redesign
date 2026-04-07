@@ -131,6 +131,3 @@ El forastero salió de la estancia como un animal salvaje volviendo a la noche y
 —Pero —dijo la viuda, temblando de alegría—, ¿cree usted… cree usted que estaba realmente equivocado?
 —De medio a medio —respondió fríamente Brooks—. Es cierto que la equivocación le ha costado a usted cien dólares… pero existen algunas equivocaciones que es preferible evitar que salgan a la luz.
 Se casaron un año después, pero no existe la menor prueba de que en el curso de los años de relaciones conyugales con una débil y encantadora mujer, Henry Brooks se sintiera nunca tentado de contarle la verdad acerca del atraco de Heavy Tree Hill.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

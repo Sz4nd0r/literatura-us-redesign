@@ -60,6 +60,3 @@ CÉSAR CALVO
 JOSÉ LEZAMA LIMA
 JOSÉ Z. TALLET
 MANUEL DÍAZ MARTÍNEZ
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

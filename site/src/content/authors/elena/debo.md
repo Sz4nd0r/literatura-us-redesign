@@ -158,6 +158,3 @@ no vale más que un real
 lléveme usted señorito
 lléveme usted señorito
 pa’lucirme en el ojal…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

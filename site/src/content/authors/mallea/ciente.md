@@ -161,6 +161,3 @@ Pero a las once ya Rivera va a despedirse.
 Después de comer ha dicho unas décimas suyas, imitadas de un libro clásico. “¿Qué importa que no sean del todo mías?” —comenta después con su risa de niño. “Son mías en cuanto íntimamente las vivo. Hay poetas que escriben bien, pero cuyas líneas son interpretadas por recitadores de tercera clase mucho mejor de como lo hacen los propios autores. Yo soy un artista improvisador. E improviso a veces en diez noches lo que el agua de la vida ha tardado mucho en traer a mis costas. Todos somos nosotros más esa agua que en la costa nos busca...”
 Silvia le ha dicho adiós casi sin sonreírle, alejada y abstraída. Y a la vuelta de la caminata en que su marido ha acompañado hasta el centro de Insaurralde a su amigo de adolescencia, no deja ella de atribuir a aquella actitud displicente el reproche bilioso que recibe:
 —Malditos quienes no tienen sentido de lo que deben hacer. ¿Por qué tuviste todo el tiempo esa frialdad hacia Rivera? Él ha debido creer que estabas incómoda, desagradada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

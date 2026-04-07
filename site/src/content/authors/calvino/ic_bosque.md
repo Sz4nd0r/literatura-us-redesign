@@ -66,6 +66,3 @@ El alemán oyó el disparo y vio que la gallina que aleteaba entre sus manos se 
 Ya no le asombraba ver animales domésticos desparramados por el bosque y estiró la mano para acariciar al gato. Lo cogió por el pescuezo y esperaba consolarse con su ronroneo.
 Pero hay que saber que en aquel bosque hacía estragos desde hacía tiempo un feroz gato salvaje que mataba las aves y a veces se acercaba a los gallineros del pueblo. Así, el alemán que creía oír ronronear vio que el felino se le echaba encima con la pelambre hirsuta y enmarañada, y sintió que sus uñas lo despedazaban. En la pelea que siguió, el hombre y la fiera rodaron juntos por el precipicio.
 Así fue como Yuá, tirador zoquete, fue aclamado como el más grande de los partisanos y cazadores del pueblo. A la pobre Girumina los vecinos le compraron una nidada de pollitos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

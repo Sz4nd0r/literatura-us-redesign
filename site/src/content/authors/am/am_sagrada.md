@@ -1350,6 +1350,3 @@ apagados. «De modo que también este día acabó»,
 pensó con disgusto. Y se encaminó en dirección a
 las farolas.
 (1942)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

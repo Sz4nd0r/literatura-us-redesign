@@ -67,6 +67,3 @@ Y Uri respondió:
 —Dios aún no ha hablado. Prepárate porque lo va a hacer ahora.
 Fortune se situó frente a él, aunque con el pecho ladeado para presentar menos superficie de blanco. Uri se tambaleaba como un borracho, pero también esperó a que la calma reinase entre los árboles. El revólver pesaba mucho y eso le hizo dudar, como antes a Fortune. Pero lo sostuvo, con el brazo extendido, por encima de su cabeza, y luego lo fue bajando despacio. En el instante en que el pecho de Fortune y la mira se alinearon con su ojo, apretó el gatillo. Fortune no describió un medio círculo, pero la imagen de la alegre San Francisco se fue atenuando hasta desaparecer y, mientras la nieve destellante al sol se volvía cada vez más negra, maldijo por última vez a la Suerte que no había sabido aprovechar.
 [1900]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

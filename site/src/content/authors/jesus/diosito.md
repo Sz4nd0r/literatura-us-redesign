@@ -265,6 +265,3 @@ pase y...
 —¡Usted se calla, instructor! ¡Y se queda aquí hasta que se acabe el pase aunque lo desmovilicen!
 —Pero, teniente.
 —¡¿Qué pero, un carajo?! ¡Se queda aquí! ¡Y usted Efrén, también te quedas aquí! ¡Y yo y Diosito y 65 todos! Vamos a ver si juntos podemos algo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

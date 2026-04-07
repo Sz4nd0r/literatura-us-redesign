@@ -140,6 +140,3 @@ Cuando salimos del Corral del Pavo estaba nevando. Lily dijo que era como una po
 —«Sueño con una Blanca Navidad»
 —¿Por qué soñar? ¡Ya la tienes!
 De modo que cantamos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

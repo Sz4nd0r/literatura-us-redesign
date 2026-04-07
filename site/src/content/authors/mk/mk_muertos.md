@@ -99,6 +99,3 @@ Claro, sabía que nunca había hablado de ese modo, pero este momento estaba lle
 No hay razón para dar prioridad a los monumentos ante la vida; su propio monumento sólo tiene en este momento una significación: puede utilizarlo en provecho de su despreciado cuerpo; el hombre que está sentado a su lado le gusta, es joven y probablemente (con casi total seguridad) es el último hombre que le gusta y que puede tener; y eso es lo único importante; si luego ella le repugna y él derriba su monumento, da lo mismo, porque el monumento está fuera de ella, igual que la mente de él y su memoria están fuera de ella, y todo lo que está fuera de ella da lo mismo. «¡Nunca has hablado de ese modo, madre!», oyó el grito del hijo, pero no le prestó atención. Sonrió.
 —Tiene razón, ¿para qué me iba a resistir? —dijo en voz baja y se levantó.
 Después empezó a quitarse lentamente el vestido. Aún faltaba mucho para que se hiciera de noche. Esta vez la habitación estaba completamente iluminada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

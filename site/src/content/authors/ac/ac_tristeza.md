@@ -245,6 +245,3 @@ El caballo sigue comiendo heno,
 escucha a su viejo amo y exhala un aliento húmedo y cálido.
 Yona, escuchado al cabo por un ser
 viviente, desahoga su corazón contándoselo todo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -74,6 +74,3 @@ Y se sentó en un banco. Sonya y yo paseamos por entre la tumbas y leímos las i
 Sonya me cogió la mano y comenzó a pellizcármela y a tirar de ella. Me clavó las uñas en la carne. Estábamos en pie ante la piedra y no podíamos alejarnos de ella. A brevísimos intervalos cantaba un pájaro y el pájaro era siempre diferente al que antes había cantado. Un fuerte perfume impregnaba el aire. En el cabello de Sonya se habían enredado insectos de todo género. Una mariquita se había posado en la solapa de mi chaqueta. Una oruga cayó en la doblez de mis pantalones. El viejo cementerio hervía de vida, muerte, amor, vegetación. Sonya dijo:
 —Si pudiéramos quedarnos así para siempre…
 Poco después volvíamos al banco en el que el viejo colono nos esperaba. Tenía la desdentada boca abierta y estaba rígido como un cadáver. Pero sus ojos, bajo las cejas hirsutas, parecían sonreír. Una mariposa se había posado en la visera de su gorro. Estaba quieta, paralizada por pensamientos tan antiguos como su especie. Luego sacudió las alas y emprendió el vuelo hacia la colina en la que Bella y Hershelle yacían para siempre. Eran el Romeo y Julieta de aquel grandioso sueño del barón de Hirsch en el que quiso transformar a los judíos rusos en campesinos argentinos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

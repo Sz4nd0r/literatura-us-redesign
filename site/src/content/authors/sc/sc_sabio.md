@@ -30,6 +30,3 @@ La gente había oído hablar de cierto filósofo que estaba de visita en la ciud
 Así que fueron en busca del sabio y enseguida dieron con él.
 —Oh, ilustrísimo —exclamaron—. Hay dos hombres en la ciudad. Uno le dio pan a un pordiosero, debido a las palabras de Dios; el otro, debido a que lo vio hambriento. Ahora bien, ¿cuál de los dos es más piadoso?
 —Amigos míos —dijo el filósofo, dirigiéndose con calma a la concurrencia—. Veo que me toman por un hombre sabio. No soy yo la persona que buscan. Sin embargo, hace un rato vi a un hombre que responde a mi descripción. Si se apresuran, tal vez logren darle alcance. ¡Adiós, adiós!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

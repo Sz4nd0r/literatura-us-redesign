@@ -160,6 +160,3 @@ La fórmula era auténtica. Aunque a tientas algunas veces, los médicos de las 
 Y en cuanto al ejercicio, el que quiera acudir al buen doctor Tatum de la montaña del Roble Negro habrá de tomar el camino que bordea por la derecha la casa de reunión metodista en el bosquecillo de pinos.
 Calma absoluta y ejercicio.
 ¿Y qué calma más curativa que la de sentarse con Amaryllis en la sombra y, con un sexto sentido, leer el idilio no escrito de Teócrito sobre las montañas Azules cubiertas de oro, caminando apaciblemente hacia los dormitorios de la noche?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

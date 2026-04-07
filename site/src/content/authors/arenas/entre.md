@@ -608,6 +608,3 @@ Comprendí entonces las palabras con que me increpó Bestial cuando le dije que 
 me había confesado que me quería. Pero las que con mayor nitidez se pasearon por mi memoria
 fueron aquellas del día en que mientras yo miraba a la abuela retorciéndose en el cantero, él,
 llegando desde la cocina, me dijo: “Vamos al monte”. Y fuimos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -92,6 +92,3 @@ Los niños nadaban.
 —No esperes que te invite a una copa —dijo.
 ¿Acaso se lo había pedido? ¿Le dedicaba el insulto más horrible que se le ocurriera? ¿Se ponía de pie, se daba la vuelta y le daba un bofetón delante de varios transeúntes? ¿Quién te ha dicho eso?
 Se alegró de marcharse de La Caribe. Allí había empezado a odiar el mundo. En los aeropuertos y los aviones hacia casa, ni siquiera intentó actuar con naturalidad: la naturalidad era un crimen. Habló a sus hijos con calma, siguiendo un guion, con diálogo y acotaciones de completa neutralidad. Al llegar a casa, en Beersboro, sacó los condones y las velas, su pequeña bolsa de amor, sin usar, y tiró todo a la basura. ¿En qué había estado pensando? Luego, cuando aprendió a contar esta historia de otro modo, como una historia, construyó una escena sexual climática de venganza sentimental, que contendría el centro inviolable de su amor, la dulce seguridad animal de una noche tras otra, el tierno corazón del matrimonio que seguía latiendo. Pero de momento sería como sus indestructibles hijas, e incluso su hijo, quien conforme envejecía con estoicismo y seguía adelante con indiferencia apenas recordaría —¿o más bien imaginaría?— que ella y Rafe hubieran estado juntos alguna vez.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

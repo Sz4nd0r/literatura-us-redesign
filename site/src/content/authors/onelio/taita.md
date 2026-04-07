@@ -52,6 +52,3 @@ Pero él quería atajar la locura del gallo y cogiendo con fuerza el pantalón d
 —¡Mire, no ve que ya tá riba!
 ?¡Carijo! ¡No me hable insolencia! —y de un manotazo lo sentó en el trillo.
 (1942)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

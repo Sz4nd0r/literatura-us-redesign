@@ -283,6 +283,3 @@ existencias. Y mientras subía la escalera, iba sollozando y cantando:
 Y así fue como tres mortales hicieron malabarismos
 con los años como si fuesen bolas de billar, y mi amigo, el periodista, ¡no
 había sido capaz de verle el lado cómico!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

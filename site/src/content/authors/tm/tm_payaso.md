@@ -163,6 +163,3 @@ Con desesperado esfuerzo pugné por autoafirmarme ocupando el lugar que me corre
 Es un hecho, todo el mundo está demasiado diligentemente ocupado consigo mismo como para estar en situación de formarse en serio una opinión sobre los demás. La gente acepta con desidiosa predisposición el grado de respeto que tú tienes la seguridad de manifestarte a ti mismo. Sé como quieras, vive como quieras, pero muestra siempre una audaz confianza y esconde toda mala conciencia y nadie va a ser lo bastante moralista como para despreciarte. En cambio, experimenta la pérdida de la conformidad contigo mismo, el sacrificio de tu autocomplacencia, haz ver que te desprecias y todos te darán ciegamente la razón. Por lo que a mí respecta, estoy perdido…
 Dejo de escribir, lanzo la pluma lejos de mí… ¡Lleno de asco! ¡De asco! Terminar con todo… Pero ¿eso no sería incluso demasiado heroico para un «payaso»? Resultará, me temo, que voy a seguir viviendo, comiendo, durmiendo y entreteniéndome un poco y acostumbrándome estúpidamente con el paso del tiempo a ser una «figura desgraciada y ridicula».
 Dios mío, ¡quién hubiera dicho, quién hubiera podido pensar siquiera que implica un grado tal de fatalidad e infortunio el hecho de haber nacido «payaso»…!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -100,6 +100,3 @@ iscariote...”
 Mi Amigo, no. Dijo un “Oh” polisilábico sin despesas de emoción. Dijo: —“No está todo escrito y previsto? Hoy lo de este hombre. Los griegos...” Dijo: —“Pero... la necesidad tiene manos de bronce...” Dijo: —“Resistencia a la prisión constatada...” Había dicho un “no” metafisicado.
 Sin alardes providenciaba la remoción del Herculianón, con presteza, para su competente hoyo.
 Y nos invitaba a almorzar, a Ze Centeralfe, principalmente. Meditaba Mi Amigo. Dijo —“Esta Tierra nuestra es inhabitada. Esto se prueba...” puntualizante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -23,6 +23,3 @@ Llegó esa noche, y la baronesa se preparó. La costurera, que la ayudó a vesti
 —Y bien, dígame ahora quién irá al baile en el cuerpo de la baronesa, haciendo parte del vestido y de la elegancia. ¿Quién va a bailar con ministros y diplomáticos, mientras usted vuelve al costurero antes de terminar en la cesta de mimbre de las mucamas?
 Parece que la aguja no dijo nada; pero un alfiler, de cabeza grande y no menor experiencia, le susurró a la pobre aguja:
 —Espero que hayas aprendido, tonta. Te cansas abriéndole camino a él y es él quien se va a gozar la vida, mientras tú terminas ahí, en el costurero. Haz como yo, que no le abro camino a nadie. Donde me clavan, ahí me quedo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

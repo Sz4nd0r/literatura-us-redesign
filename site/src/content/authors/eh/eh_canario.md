@@ -209,6 +209,3 @@ tren. Al final había una puerta de hierro y un hombre nos tomó los
 billetes.
 Volvíamos a París para
 establecernos en residencias sepa­radas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

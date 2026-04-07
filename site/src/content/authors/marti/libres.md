@@ -1938,6 +1938,3 @@ para que esculpa en mármol su hermosura! -
 ¡Vuelan las flores que del cielo bajan,
 Vuelan, como irritadas mariposas,
 Para jamás volver, las crueles vuelan...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

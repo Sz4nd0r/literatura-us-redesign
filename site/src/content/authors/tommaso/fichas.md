@@ -35,6 +35,3 @@ La bola ya daba vueltas; luego, naturalmente, se tiró de cabeza a uno de estos 
 El hombre de fichas se deshizo literalmente sobre sí mismo al haber el rastrillo desunido y amontonado al final de la mesa sus miembros ficticios para recogerlos o atraerlos de un golpe. Así pues, de tal modo acabó el juego, y la jornada que había parecido comenzar propiciamente.
 Y ahora, en el camino de regreso, mientras las sombras de la noche ya se espesaban sobre las aguas antes cristalinas, sobre las colinas boscosas cuajadas de villas poco antes evocadoras de una vida más dulce, se decía el amigo:
 “Ya. ¿Por qué vine a jugar si ni siquiera tenía la voluntad de ganar? Lo hice, supongamos, para una comprobación, pero superflua, por descontada. Debí saberlo: un hombre cae en cualquier lugar del mundo, y para esto, en éste o en cualquier otro lugar, no hay compensación posible”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -257,6 +257,3 @@ Sabía que era Troy, y pensé en salir al rellano a saludarlo, a ofrecerle un ca
 Troy también reía. Oí cómo entraban en el pequeño vestíbulo, cómo las ruedas de la silla golpeaban contra el saliente del umbral. Y aguardé para ver si llamaban a mi puerta. No lo hicieron, y su puerta se cerró, y encajó la cadena, y pensé que al fin todos habíamos tenido una buena velada. Nada había sucedido que no hubiera tenido un final feliz. Ninguno de nosotros había sufrido el menor daño. Me puse los pantalones, la camisa, los zapatos; apagué la radio, fui a la cocina, cogí la caña de pescar y salí con ella a la mañana neblinosa y cálida. Y —por una vez— utilicé la puerta trasera, la vía discreta, para no ver a nadie y para que nadie me viera.
 N. del T.:
 [1]Juego de palabras entre Les Snow y less snow (menos nieve).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

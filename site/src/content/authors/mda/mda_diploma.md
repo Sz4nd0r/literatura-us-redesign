@@ -270,6 +270,3 @@ el padrino de Queirós cuando éste se casó con Juanita seis meses después.
 Ni la vida ni los años le cambiaron el alma. Cuando estalló la guerra con Paraguay pensó
 más de una vez en alistarse como voluntario. Nunca lo hizo. No obstante, ganó algunas batallas
 y acabó siendo brigadier general.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

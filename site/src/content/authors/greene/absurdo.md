@@ -90,6 +90,3 @@ El corazón de Jerome palpitó de dicha. Era como si Sally hubiera disipado para
 —Falta una semana —dijo Jerome, mientras Sally le apretaba la mano—. ¿En qué piensas, querida?
 —Me preguntaba qué pasaría con el pobre cerdo… —dijo Sally.
 —Supongo que se lo comerían —dijo Jerome, dichoso, y volvió a besar a su amada criatura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

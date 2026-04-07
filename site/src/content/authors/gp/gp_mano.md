@@ -90,6 +90,3 @@ Al de verdad, les dije. Richard corrió hacia Lívido. Y se estrecharon la mano 
 Adiós, Faith, dijo Lívido. Llámame si necesitas algo. Lo que sea, cariño. Y me dio un beso muy amable en la mejilla. Dominante, Pálido me dio, tras largos preparativos, un beso detrás de la oreja.
 Adiós, les dije.
 Tengo que admitir que al final salieron a la calle convertidos en un par de hombres limpios y pulcros, bastante atractivos, hombres brillantes de treinta y tantos años dispuestos a enfrentarse a las importantes ocupaciones que les aguardaban. Adiós, les dije, que tengáis un buen día. La oscura noche, la búsqueda del placer y del olvido, quedaba todavía muy lejos. Adiós, les dije, que os vaya bien. Adiós, dijeron ellos una vez más, y partieron orgullosos por caminos que no me conciernen.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

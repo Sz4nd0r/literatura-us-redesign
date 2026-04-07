@@ -293,6 +293,3 @@ Cuando volvió a llamar una hora más tarde, se puso la novia al teléfono.
 —Gracias.
 —Muy bien. Adiós, señorita Capo... Adiós, querida.
 Y, habiendo cumplido con su deber, la señora Forrest colgó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

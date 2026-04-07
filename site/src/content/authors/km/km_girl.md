@@ -75,6 +75,3 @@ Entonces ya no le inquietó la obscuridad y se quedó allí quietecita.
 Él estaba muy cansado y se durmió antes que ella. Y entonces experimentó una curiosa sensación. ¡Pobre papá! Después de todo, no era tan grande. Y no tenía a nadie que cuidara de él. Su cuerpo era más duro que el de la abuelita, pero de una dureza grata. Tenía que trabajar todo el día y se cansaba tanto que no podía hacer lo que hacía el papá de los MacDonald. Y ella había roto todos sus hermosos escritos. De pronto, se rebulló y dio un suspiro.
 —¿Qué te pasa? —preguntó el padre—. ¿Otra pesadilla?
 —No —dijo la niña—, que tengo la cabeza sobre tu corazón y lo estoy oyendo andar. ¡Ay, qué corazón tan grande tienes, papaíto!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

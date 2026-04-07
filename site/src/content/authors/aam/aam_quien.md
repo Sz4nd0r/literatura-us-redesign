@@ -150,6 +150,3 @@ MUERE ANTIGUO SOLDADO DE LA MARINA
 El señor Ralph Gillespie, suboficial de Marina retirado, sufrió una caída letal al golpearse la cabeza en el Salón de la Legión la noche del pasado sábado. Nadie más presenció la caída, y por desgracia pasaron varias horas antes de que se descubriera el cuerpo del señor Gillespie. Todo apunta a que confundió la puerta del sótano con la de la salida y perdió el equilibrio, ya de por sí precario debido a una antigua herida sufrida durante su carrera naval que lo dejó parcialmente impedido.
 A continuación se daba el nombre de los padres de Ralph, que por lo visto aún vivían, y de su hermana casada. La Legión correría con los gastos del funeral.
 Rose no se lo contó a nadie, contenta de que hubiera al menos una cosa que no estropearía al contarla, aunque en el fondo sabía que si callaba era tanto por falta de material como por decoro. ¿Qué podía decir de Ralph Gillespie y de sí misma, salvo que sentía que la vida de él había calado hondo en la suya, más hondo que la vida de hombres a los que había amado?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

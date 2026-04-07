@@ -153,6 +153,3 @@ Sarah imaginó verse desnuda. Dijo:
 —Si no te sientes segura aquí, nos mudamos —dijo Tommy—. He visto un sitio precioso a unos treinta kilómetros, en una cala. Sólo necesita un poco de arreglo. Tendremos más espacio. Hay un granero y una valla. Martha podría tener un caballo.
 Sarah lo miró con gesto intenso y quieto, como si estuviera escuchando un diálogo en el que ninguno de los presentes tuviera parte. Finalmente dijo:
 —Hay ladrones. Todo ha cambiado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

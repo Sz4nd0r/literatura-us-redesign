@@ -98,6 +98,3 @@ inclinó todo el espinazo y se rió como un chino: “¡Ji, ji, ji!”
 La esposa se sonrió.
 Nafanail dio un taconazo y dejó
 caer la gorra. Los tres estaban agradablemente estupefactos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -89,6 +89,3 @@ Reconocí a Ieronim. Las tinieblas nocturnas ya no me impedían examinar al monj
 Ayudado por un campesino tocado con un gorro de piel rojiza, semejante a esos barriletes de madera de tilo en los que se vende la miel, tiró con fuerza del cable y el transbordador se puso en marcha, acompañado del jadeo de los dos hombres.
 Nos deslizábamos por el río, deshilachando a nuestro paso los perezosos jirones de niebla. Todo el mundo callaba. Ieronim, con el pensamiento en otro sitio, maniobraba con una sola mano. Nos contempló largo rato con sus ojos dulces y turbios, luego se detuvo en una joven vendedora de rostro sonrosado y cejas negras, que estaba de pie a mi lado y se arrebujaba en silencio, en medio de la niebla que la envolvía. No la perdió de vista en todo el trayecto.
 En esa mirada prolongada apenas había nada masculino. En el rostro de esa mujer, me pareció, Ieronim buscaba los rasgos suaves y delicados de su difunto amigo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

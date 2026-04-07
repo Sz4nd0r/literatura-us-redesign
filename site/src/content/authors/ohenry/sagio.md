@@ -91,6 +91,3 @@ Y él hubo de permanecer allí, inmovilizado por su su materializada diosa de la
 Porque la primavera había llegado.
 En el banco de Union Square los señores Ragsdale y Kidd esperaban, con la lengua seca, el regreso de D’Artagnan con el dólar.
 “Más me hubiese valido empezar por ahogarla”, pensaba Peters.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

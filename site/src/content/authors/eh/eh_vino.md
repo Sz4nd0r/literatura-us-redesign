@@ -291,6 +291,3 @@ El camino de cemento terminó. Ahora estaba hecho de grava y dejamos la llanura 
 —¿Cómo podremos saber si él no estará muerto también entonces? —pregunté.
 —Debimos haber ido anoche.
 —Si —dije—. Debíamos haber ido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

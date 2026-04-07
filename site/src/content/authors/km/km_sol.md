@@ -231,6 +231,3 @@ en un agudo gemido.
 —¡Ves lo que has conseguido, ya lo ves! —dijo mamá.
 —¡Vete de aquí! —dijo papá, que ya no estaba alegre—. ¡Ya mismo! ¡Vete de aquí!
 Y Sol, sollozando con todas sus fuerzas, se fue a su cuarto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

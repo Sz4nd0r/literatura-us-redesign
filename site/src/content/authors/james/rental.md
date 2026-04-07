@@ -1150,6 +1150,3 @@ Los pocos vecinos que habían tenido la audacia de desafiar lo que debieron cons
 como un fuego prendido por el diablo, habían quitado la tapa del pozo, a la
 búsqueda de agua, las piedras sueltas habían sido completamente desplazadas
 y la tierra había sido pisoteada y había en ella varios charcos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

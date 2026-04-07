@@ -135,6 +135,3 @@ El hombre estiró
 lentamente los dedos de la mano.
 —Un jueves...
 Y cesó de respirar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

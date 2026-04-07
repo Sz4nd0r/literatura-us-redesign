@@ -79,6 +79,3 @@ Yoine Meir estalló en un llanto cuyo eco, desdoblado en múltiples voces, retum
 Durante dos días, los carniceros lo buscaron sin encontrarlo. Después, Zeinvl, el propietario del molino de agua, llevó a la ciudad la noticia de que el cuerpo de Yoine Meir había aparecido en el río, cerca de la presa. Se había ahogado.
 Los miembros de la Sagrada Hermandad se desplazaron inmediatamente al lugar a fin de trasladar el cadáver. Muchos testigos se mostraron dispuestos a certificar que el comportamiento de Yoine Meir fue el propio de un perturbado, y el rabino decretó que el fallecido no se había suicidado. De este modo, su cuerpo pudo ser purificado y enterrado junto a los sepulcros de su padre y su abuelo. El propio rabino pronunció el panegírico.
 Dado lo inmediato de las fiestas y el riesgo de que Kolomir pudiera quedar desabastecida de carne, la comunidad envió enseguida dos mensajeros con el encargo de traer a la ciudad un nuevo matarife.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

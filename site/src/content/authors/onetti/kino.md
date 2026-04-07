@@ -55,6 +55,3 @@ Ahora, despertando de una de las horas diarias de sopor, Andrade trataba de reco
 Ahora escuchaba la voz de Hortensia que aplacaba el murmullo de una voz masculina, y decía: «No te preocupes, no se despierta hasta la noche». Y los silencios, más crueles que cualquier palabra, venían para visitar, prolongándose, su cuarto de enfermo impedido, incurable.
 Sin necesidad de agendas, Andrade calculó que se habían cumplido seis meses desde el accidente, casi mortal, que lo separó de los vivos, de los saludables y ansiosos.
 1987
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

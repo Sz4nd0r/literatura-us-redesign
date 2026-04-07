@@ -344,6 +344,3 @@ modo. Michaelivm cum Lokis, ambo (dúo) ipsissimi (Nota del Autor).
 [2] Es el Reinhart Fuchs del alsaciano Heinrich (1185), Inspirado en el Román de
 Renart.
 [3] El moreno.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

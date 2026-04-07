@@ -204,6 +204,3 @@ Mi camarada Jean había dejado a su marido cuando él se afilió al Partido Labo
 —A los setenta y tres años sí —repuse.
 —Debemos esforzarnos en ser dignas de él —subrayó.
 —Sí —respondí—. Supongo que sí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

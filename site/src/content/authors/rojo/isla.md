@@ -1199,6 +1199,3 @@ estira bajo el ritmo del ritual, que huye del ritmo sin poder escapar de
 éste, aplazando su derrota, hurtando el cuerpo y escondiéndose,
 incrustándose al fin en el ritmo, siempre en el ritmo, latido del caos
 insular.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -78,6 +78,3 @@ Andy se paseaba en su cuarto, consultando el reloj.
 —¡Ya lo creo! ¡Como que era la misma! Yo se la robé aprovechando un momento de distracción. ¿Comprendes ahora que es necesario darse prisa?
 —¿Para qué me contaste la mentira de la casa de préstamos?
 —Como un homenaje de respeto a tu conciencia moral. Partamos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

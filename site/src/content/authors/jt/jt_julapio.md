@@ -53,6 +53,3 @@ No supé qué decir, excepto que mis dientes se encontraban en buen estado pero 
 Supe que estaba tratando de llevarme al tema de mi cerebro y lo que le había ocurrido a éste para impedirme seguir trabajando en una oficina, pero cambié de conversación. No cabe duda de que Della se siente preocupada por mi condición mental. Una mañana, cuando no me levanté hasta el mediodía por haber estado escribiendo cartas hastas las tres de la madrugada, Della explicó a mi esposa, mientras desayunaba, cuál era mi problema.
 —Su cabeza trabaja tan deprisa que su cuerpo no puede seguirla —dijo.
 Este diagnóstico me ha causado no poca impresión, hasta el punto de que he decidido dormir más y trabajar menos. Sé con exactitud qué será de mí si mi cabeza se adelanta a mi cuerpo hasta el punto de que éste no consiga atraparla. Llegarán con una costilla y esta vez no será una roja y verde para la ventana, sino una negra para la puerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

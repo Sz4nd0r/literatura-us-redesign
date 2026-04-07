@@ -102,6 +102,3 @@ Y el notario, antes de leer la escritura de cancelación, me dijo:
 Y cuando ya estaba todo firmado y ellos habían recibido su dinero, el doctor Rocafuerte y marqués de lo mismo, me dijo, con gran solemnidad:
 —Queremos decirle, señor Ibargüengoitia, que nos da mucho gusto que haya usted salvado su casa. Ha sido para nosotros un verdadero placer tratar con una persona tan honrada y cumplida como usted.
 Nos despedimos casi de beso, pero cuando los vi de espalda, les menté la madre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

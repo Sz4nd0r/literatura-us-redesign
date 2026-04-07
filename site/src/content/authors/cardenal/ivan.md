@@ -254,6 +254,3 @@ testimonio de una época", Prólogo a Antología de Ernesto
 Cardenal. Santiago, Editorial Universitaria, 1994, pp. 13-22
 Segre, Cesare: Principios de análisis del texto literario.
 Barcelona, Crítica, 1985.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

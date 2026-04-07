@@ -424,6 +424,3 @@ María Concepción, con una jarrita de arcilla en la mano, se aproximó a la del
 Se sentó contra el muro de la casa, cerca de la puerta. Una vez alimentado y dormido, meció al niño en el hueco de sus piernas cruzadas. El silencio dominaba todo, los cielos fluían sin alterarse hacia el borde del valle, la luna sigilosa se deslizó oblicuamente hacia el refugio de las montañas. Se sintió suave y cálida; soñó que el niño recién nacido era suyo y descansó deliciosamente.
 María Concepción oía la respiración de Juan. El sonido volaba, sereno, desde el otro lado de la puerta; la casa parecía descansar al cabo de un día agotador. Ella respiraba, también, muy lenta y tranquilamente, y cada inspiración la llenaba de reposo. La ligera y tenue respiración del niño parecía el indefinido sonido de una polilla volando por aquel ambiente plateado. La noche y la tierra a sus pies daban la impresión de henchirse y vaciarse juntas en una respiración ilimitada, lenta, benigna. Se inclinó y cerró los ojos, sintiendo en el interior de su propio cuerpo ese lento elevarse y descender. No sabía qué era, pero la tranquilizó por entero. Aun cuando el sueño la iba ganando, con la cabeza vencida sobre el niño, seguía teniendo conciencia de una felicidad rara y vigilante.
 Nueva York, 1922
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

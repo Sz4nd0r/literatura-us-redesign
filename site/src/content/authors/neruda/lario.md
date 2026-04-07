@@ -264,6 +264,3 @@ donde estoy crucificado como el dolor en un verso.
 y para que tú no llegues por esta senda,
 la
 tuerzo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

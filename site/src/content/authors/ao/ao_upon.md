@@ -369,6 +369,3 @@ Durante seis años, Jefté el galaadita fue juez de Israel. También estaba ansi
 Y tras seis años, se cansó de juzgar y regresó solo al desierto. Nadie se acercaba a él, porque un miedo mortal se apoderó de todos los nómadas del país de Tob. Tan solo Azur, su hermanastro, bajaba a dejarle pan y agua a cierta distancia. Y los perros famélicos bajaban siempre con Azur.
 Durante un año permaneció Jefté solo en una cueva del país de Tob. Estudió todos los sonidos de la noche que subían desde el páramo cuando el desierto se erizaba, hasta que supo extraer todos esos sonidos de su interior, y entonces dijo basta.
 En la crónica de la casa, el escriba de la casa escribió: «Y tras él fue juez de Israel Ibsán de Belén. Y tuvo treinta hijos y treinta hijas».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

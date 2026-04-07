@@ -56,6 +56,3 @@ Por fin Kirdzhali estaba libre y armado. ¡Qué no habrá sentido…! Empezó a 
 Los otros seis, al ver a Kirdzhali armado con dos pistolas, echaron a correr.
 Hoy día Kirdzhali se dedica al saqueo cerca de Jassy. Hace poco escribió al hospodar exigiendo que le pagaran cinco mil lei y amenazándolo con que, en el caso de que no le pagara, incendiaría Jassy y llegaría hasta el propio hospodar. Le fueron transmitidos los cinco mil lei.
 ¿Qué les parece Kirdzhali?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

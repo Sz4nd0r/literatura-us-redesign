@@ -76,6 +76,3 @@ Al llegar delante de la capilla familiar, miró alrededor. No había ni un alma.
 Sin prisa, mientras caía la noche, con un cortaplumas quitó lentamente los tornillos que aseguraban la tapa del féretro nuevo, su féretro, el de Lucio Predonzani. Lo abrió muy calmado y se tendió dentro, de espaldas, adoptando la posición que suponía era la que más convenía al sueño eterno de un difunto. Se sintió más cómodo de lo que jamás hubiera previsto.
 Sin fatigarse innecesariamente, suavemente, estiró tras de sí la tapa. Cuando no quedaba libre más que una pequeña rendija, permaneció atento por unos instantes, por sí alguien lo llamara. Pero nadie lo llamó.
 Entonces dejó caer completamente la tapa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

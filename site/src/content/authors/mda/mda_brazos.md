@@ -54,6 +54,3 @@ Pero lo cierto es que durmió mucho tiempo más aún, y sólo se despertó para 
 —Está en su habitación; le duele mucho la cabeza. Pase mañana o pasado a despedirse de ella.
 Ignacio salió sin entender nada. No entendía la despedida ni el cambio radical de doña Severina en relación a él, ni lo del chal, ni nada. ¡Había estado tan bien! ¡Le hablaba con tanta amistad! Cómo podía ser que de repente ... Tanto pensó que terminó suponiendo de su parte alguna mirada indiscreta, alguna distracción que la había ofendido; no podía ser otra cosa; eso explicaba la cara hosca y el chal que le cubría los brazos tan hermosos... No importa; se llevaba consigo el sabor del sueño. Y a través de los años, en otros amores, más efectivos y duraderos, no encontró nunca ninguna sensación que fuera igual a la de aquel domingo, en la Rua da Lapa, cuando él tenía quince años. Él mismo exclama a veces, sin saber que se engaña:
 —¡Y fue un sueño! ¡Nada más que un simple sueño!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

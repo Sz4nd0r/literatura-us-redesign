@@ -81,6 +81,3 @@ Leila dejó escapar una atolondrada risita, aunque no tenía ningunas ganas de r
 De nuevo las parejas empezaron a desfilar. Las puertas giratorias se abrieron y cerraron a su paso. El director de la orquesta estaba repartiendo nuevas partituras. Pero Leila no quería bailar más. Hubiera deseado hallarse en casa, o sentada en la terraza escuchando el “buu-buu-buu” de las lechuzas recién nacidas. Cuando miró las estrellas a través de los oscuros ventanales, vio largos rayos como alas…
 Pero ahora comenzó a sonar una tonadilla dulce, melodiosa, alegre, y un joven de pelo rizado se inclinó saludándola. Tenía que bailar, aunque sólo fuese por educación, hasta que encontrase a Meg. Caminó muy erguida hasta el centro de la pista; altivamente colocó la mano sobre la manga de él. Pero al cabo de un minuto, a la primera vuelta, se le fueron los pies, como si bailasen solos. Las luces, las azaleas, los vestidos, las caras sonrosadas, las sillas tapizadas de peluche, todo se convirtió en una hermosísima rueda giratoria. Y cuando su nuevo acompañante hizo que tropezase con el hombrecillo rechoncho, éste dijo:
 —¡Oh, perdón! —Y Leila le sonrió más radiante que nunca. Ni siquiera le había reconocido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -117,6 +117,3 @@ Entonces y sólo entonces, después de todos aquellos años que habíamos pasado
 —Adiós, Charley —me dijo.
 Luego se hundió en el agua. A mí me subieron a bordo, donde me desmayé en los brazos del capitán.
 Así murió Otoo, el que me salvó la vida una vez, me hizo hombre y volvió a salvarme la vida al final. Nos conocimos en las fauces de un huracán y nos separamos en las fauces de un tiburón. En medio quedaban diecisiete años de camaradería como me atrevo a decir jamás habrán conocido otros dos hombres, cobrizo el uno y blanco el otro. Si es cierto que Jehová contempla desde las alturas la muerte del más pequeño de los gorriones, no dudo que habrá acogido en su Reino a Otoo, el único pagano de Bora-Bora.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -247,6 +247,3 @@ Un mes después el Biombo estuvo terminado. Yoshihide lo llevó a palacio para s
 Desde que concluyó el cuadro nadie, por lo menos en palacio, se atrevió a hablar mal de Yoshihide. Era comprensible que cuantos veían el Biombo, aunque sintieran aversión por el autor, se impresionaran por tan extremado realismo.
 Pero cuando su obra comenzaba a ser la admiración de todos, Yoshihide dejó de pertenecer a este mundo. A la noche siguiente de terminar el biombo se suicidó en su propia habitación, ahorcándose con una cuerda. Acaso le resultó insoportable sobrevivir a la hija que tanto había amado.
 El cuerpo del pintor fue sepultado en los fondos de su casa. De la pequeña tumba, azotada por el viento y las lluvias, ha de quedar una lápida borrosa sobre las piedras cubiertas de musgo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -215,6 +215,3 @@ A nadie ha
 encontrado, y su brazo se apoya en el vacío. Porque tras él, al pie de
 un poste y con las piernas en alto, enredadas en el alambre de púa, su
 hijo bienamado yace al sol, muerto desde las diez de la mañana.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

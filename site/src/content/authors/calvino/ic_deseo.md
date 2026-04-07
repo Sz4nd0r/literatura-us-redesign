@@ -105,6 +105,3 @@ Cuando Linda se despertó, él ya se había levantado y se ponía la camiseta y 
 Ayudó a Linda a poner en orden todo el depósito, se puso el capote militar y la saludó desde la puerta.
 Linda se quedó mirándolo mientras se alejaba, con la franja blanca de los calzoncillos entre el capote y los zapatones y la orgullosa melena al aire frío de la madrugada.
 Barbagallo no tenía intención de ir al Arzobispado a buscar el traje: se le había ocurrido la idea de recorrer las plazas de los pueblos en camiseta y calzoncillos haciendo exhibiciones de fuerza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

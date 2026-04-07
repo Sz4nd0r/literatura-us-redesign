@@ -29,6 +29,3 @@ Desnudos los dos, casi ridículos. Ella empezó a vestirse.
 —Siempre fuiste una puta y estuve loco por ti, porque nunca tropecé con una puta tan puta. Dime cuánto quieres o quiere tu nuevo macho. Te hago el cheque.
 Ahora el cielo estaba limpio, el sol intenso y afuera las plantas erguían nuevamente sus tallos floridos.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

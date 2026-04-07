@@ -80,6 +80,3 @@ Me dio vergüenza, miedo, no sé. Pensaba aún en aquella blancura de Nora. Me p
 Cerró enseguida.
 Al día siguiente volví con el corazón en un puño. Pasé por el talud sin bajar; el embarcadero estaba tranquilo entre los árboles. No había nadie. Total, yo tenía que hacer un recado en el Dazio. Pero después de comer me decidí: Ceresa debía saber que yo no tenía la culpa. Vi un montón de barcas que iban y venían ante el embarcadero; vi a dos de paisano parados junto a un automóvil en la entrada del sendero. Comprendí que no se podía pasar, y entonces di un rodeo por el prado. Bajo el cobertizo todos iban y venían, pero Ceresa no estaba. Entonces me encontré con el hijo de Zucca, que me dijo que Ceresa había estrangulado a Nora y la había tirado al Po.
 Yo quería verlo para decirle lo de aquel día en el Sangone, pero nos hicieron despejar a todos los que estábamos y cuando él salió solo se oyó el ruido del automóvil. Después mi padre me dijo que cuanto menos hablara de eso, mejor, para mí y para todos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -55,6 +55,3 @@ Pero, con el permiso de ustedes, no consideré que la continuación de la histor
 Ya en la puerta, me encontré al sociable Wheeler, que regresaba, y volvió a engancharme y a reanudar su relato:
 —Pues bien, este Smiley tenía una vaca de color amarillento y tuerta, que no tenía por rabo más que un corto muñón, como una banana, y…
 Sin embargo, careciendo tanto de tiempo como de disposición para ello, no esperé a escuchar más acerca de aquella desdichada vaca, y me marché.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

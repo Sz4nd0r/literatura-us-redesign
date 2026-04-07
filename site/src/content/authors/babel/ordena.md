@@ -78,6 +78,3 @@ van al mercado. Detrás de ella jadeaba la banda militar.
 Aquella noche la actitud de Kolessnikol me
 hizo recordar la indiferencia señorial de los kanes tártaros, y reconocí la
 escuela del famoso Kniga, del tenaz Paulichenko y del encantador Savitski.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

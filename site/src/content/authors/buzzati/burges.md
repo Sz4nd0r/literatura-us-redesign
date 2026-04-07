@@ -58,6 +58,3 @@ Pagaba, pues, el arduo hechizo, el rescate. Había ido demasiado lejos como para
 —“…amén…”. —¿Oyó aquella voz Gaspari? ¿O bien se había alejado ya demasiado? Con la diestra hizo un gesto vago, como para decir que lo dejaran, que se olvidaran de él, que le importaba todo un comino. Incluso sonrió. Su rostro expresaba una alegría malévola, aunque su respiración fuera cada vez más débil.
 —¡Vamos, Beppino! —gritaba su mujer—. ¿Nos quieres hacer esperar todavía más? ¿Pero qué te pasa? ¿Por qué no contestas? ¿Se puede saber por qué no contestas?
 Él bajó la cabeza como para decir que sí, y no volvió a levantarla. Por fin era un hombre de verdad, no un ser mezquino. Un héroe, no un gusano. Había dejado de ser uno más entre los otros. Se encontraba por encima de ellos y estaba solo. La cabeza le colgaba sobre el pecho, la muerte le había alcanzado, y sus helados labios continuaban sonriendo un poco, expresando desprecio: te he vencido, miserable mundo, no me has sabido retener.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

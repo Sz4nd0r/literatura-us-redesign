@@ -158,6 +158,3 @@ Yo sabía mi misión. Fui hasta el escaparate de vidrios y saqué la servilleta 
 —La guagua —dijo el viejo.
 Se lo amarré por detrás y luego di la media vuelta para ver a la abuela colocarle el plato humeante sobre la bandeja yugoslava. El nono hundió la cuchara y sopló el primer bocado torrencialmente. Enseguida abrió la boca y se lo echó dentro amasándolo sin prisa. Cuando lo engulló, los labios se le abrieron largos y horizontales y entonces se pasó la lengua por las encías despobladas. Después se guardó la lengua y sonrió.
 Yo me fui a dar una vuelta por ahí porque no soporto el pescado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

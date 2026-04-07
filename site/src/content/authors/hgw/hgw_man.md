@@ -188,6 +188,3 @@ Abrió los ojos. Estaba en el bar del Dragón Largo discutiendo de milagros con 
 —Le digo que los milagros, hablando con precisión, no pueden existir —dijo—, mantenga lo que mantenga. Y estoy preparado para demostrárselo pase lo que pase.
 —Eso es lo que usted piensa —dijo Toddy Beamish—, demuéstrelo si puede.
 —Escuche, señor Beamish —dijo Fotheringay—. Entendamos claramente lo que es un milagro. Es algo contrario al curso de la naturaleza hecho por el poder de la Voluntad…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

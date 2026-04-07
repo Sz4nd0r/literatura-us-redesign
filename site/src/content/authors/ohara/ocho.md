@@ -128,6 +128,3 @@ Sonaron dos golpes suaves en la puerta. Lester entró, dejó el cheque sobre el 
 —Lo dudo mucho. Y eso me recuerda otra cosa que quería decirte. Aunque tiene que ver con lo del principio. ¿Te das cuenta de que antes de que entraras en este despacho ya sabía que habías ido por ahí largando sobre la explosión que tuvimos hace años? Los de seguridad no podían creer lo que estaban oyendo. El primer hombre con el que has hablado perdió a un hermano en la explosión. El segundo, el más joven, sufrió quemaduras graves y tuvieron que hacerle injertos de piel durante un año. Pero esos chistes malos, al margen de su dudoso gusto, son la manera que tienes de seguir maltratando a la gente, igual que hacías con los caddies y los camareros cuando esto era un club. Cinco hombres murieron en esa explosión, y eso aquí no es ningún chiste. Ni aquí ni en ningún lado. Para que lo sepas, los dos agentes de seguridad estaban convencidos de que eras un impostor, de que ni siquiera eras mi hermano. Y para que lo sepas también, Chiz, desearía que fuera cierto.
 Charles D’Avlon se levantó.
 —Bueno, parece que hemos terminado —dijo. Se acercó a la ventana y miró hacia el laboratorio—. Mary Radley —añadió—. Menuda golfa estaba hecha.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

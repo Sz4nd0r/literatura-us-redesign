@@ -521,6 +521,3 @@ Me levanté y empecé a despedirme. Sofia Nikoláievna me acompañó hasta la pu
 —No le respondí nada ayer —me dijo, deteniéndose en el umbral—; y en realidad, ¿qué podía responderle? Nuestra vida no depende de nosotros; pero todos tenemos un ancla de la que nada puede arrancarnos si nosotros mismos no queremos: el sentido del deber.
 Incliné la cabeza sin decir palabra, en señal de asentimiento, y me despedí de esa joven puritana.
 Pasé toda la tarde en mi habitación, pero no pensé en ella, sino en mi querido e inolvidable Pásinkov, en ese último romántico. Sentimientos tan pronto tristes como tiernos traspasaban mi pecho con dolorosa suavidad, haciendo vibrar las cuerdas de mi corazón, aún no envejecido del todo… ¡Paz a tus cenizas, hombre sin espíritu práctico, bondadoso idealista! Y que Dios permita a todos los hombres prácticos, para quienes siempre fuiste un extraño y que quizá ahora se rían incluso de tu sombra, que Dios les permita conocer al menos una centésima parte de los puros goces que, a pesar del destino y de los hombres, embellecieron tu vida pobre y humilde.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

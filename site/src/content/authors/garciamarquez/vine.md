@@ -115,4 +115,4 @@ Nunca más se supo de él, salvo que volvió a casarse y regresó a su país. An
 
 Ella le contó que había seguido llevándole los cigarrillos a María, siempre que pudo, y resolviéndole algunas urgencias imprevistas, hasta un día en que sólo encontró los escombros del hospital, demolido como un mal recuerdo de aquellos tiempos ingratos. María le pareció muy lúcida la última vez que la vio, un poco pasada de peso y contenta con la paz del claustro. Ese día le llevó también el gato, porque ya se le había acabado el dinero que saturno le dejó para darle de comer.
 
-Abril 1978 Literatura.us Mapa | Quiénes Somos | Aviso Legal | Contactar
+Abril 1978 

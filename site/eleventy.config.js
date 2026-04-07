@@ -54,12 +54,14 @@ export default async function (eleventyConfig) {
         return [];
     });
 
+    eleventyConfig.addGlobalData("permalink", "{{ page.filePathStem }}.html");
+
     return {
         dir: {
             input: "src",
             output: "_site",
             includes: "_includes",
-            layouts: "_layouts"
-        }
+            layouts: "_layouts",
+        },
     };
 };

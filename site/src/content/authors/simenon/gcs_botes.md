@@ -440,6 +440,3 @@ Larignan sonríe sarcásticamente.
 Un leve estremecimiento. Instintivamente se pasa la mano por la nuca.
 —¡Un joven tan insignificante! —suspira sin poderlo remediar—. ¡Y decir que yo estaba convencido de que sólo pensaba en hacerle el amor a su secretaria!…
 ¡Qué latidos de corazón si la señorita Berta hubiese podido oírle!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

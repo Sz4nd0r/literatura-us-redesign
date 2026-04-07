@@ -53,6 +53,3 @@ Todo el mundo obedece. Con voz resonante, el capellán empieza la plegaria de lo
 Súbitamente, un choque formidable, un grito, un solo grito, un grito inmenso, brazos tendidos, manos que se engarban, miradas extraviadas por las que pasa como un relámpago la visión de la muerte…
 ¡Misericordia!
 Así pasé toda la noche soñando, evocando, a diez años de distancia, el alma del pobre navío cuyos restos me rodeaban… A lo lejos, en el estrecho, rugía la tormenta; la llama del vivac se encorvaba bajo la ráfaga; y yo oía danzar nuestra embarcación al pie de las rocas, haciendo gritar a su amarra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

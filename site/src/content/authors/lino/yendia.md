@@ -715,6 +715,3 @@ Dos o tres veces lo metieron ahí, y le dieron golpes de todos colores, sin que 
 hacerlo hablar. Luego no volvió más...
 Se miraron unos a otros. El viejo dio la vuelta, se abrió de nuevo paso por entre el
 gentío, volvió a su trabajo, doblegado por los años y por las experiencias.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

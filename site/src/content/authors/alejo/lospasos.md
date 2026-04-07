@@ -202,6 +202,3 @@ La tormenta acontece en un paraje que puede ser el Raudal del Muerto. La Capital
 El capítulo de la Misa de los Conquistadores transcurre en una aldea piaroa que existe, efectivamente, cerca del Autana. Los indios descritos en la jornada XXIII son shirishanas del Alto Caura. Un explorador grabó fonográficamente —en disco que obra en los archivos del folklore venezolano— el Treno del Hechicero.
 El Adelantado, Montsalvatje, Marcos, fray Pedro, son los personajes que encuentra todo viajero en el gran teatro de la selva. Responden todos a una realidad —como responde a una realidad, también un cierto mito del Dorado, que alientan todavía los yacimientos de oro y de piedras preciosas. En cuanto a Yannes, el minero griego que viajaba con el tomo de La Odisea por todo haber, baste decir que el autor no ha modificado su nombre, siquiera. Le faltó apuntar, solamente, que junto a La Odisea, admiraba sobre todas cosas La Anábasis de Jenofonte.
 A. C.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

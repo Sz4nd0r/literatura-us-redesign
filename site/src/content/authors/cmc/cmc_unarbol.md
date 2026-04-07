@@ -129,6 +129,3 @@ El chico miró a Leo, con una carita fea y desesperada y su voz chillona y urgen
 Pero Leo no le contestó. Hacía catorce años que tenía su café nocturno y se consideraba experto en locuras. Estaban los tipos de la ciudad y también los forasteros que llegaban como si vinieran del fondo de la noche. Conocía las manías de todos. Pero no quiso satisfacer la curiosidad del niño. Contrajo su cara páida y siguió callado.
 Así, el chico se bajó la orejera derecha del casco y, volviéndose para marcharse, hizo el único comentario que le parecía seguro, la única observación que no podía ser ridiculizada ni despreciada:
 —Se nota que viajó mucho.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

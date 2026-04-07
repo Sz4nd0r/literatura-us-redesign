@@ -136,6 +136,3 @@ Bebió.
 Volvió a beber.
 —Pero todo eso tan maravilloso, ¿es el mar en sí mismo o es sólo la juventud? ¿Quién sabe? Pero ustedes, todos los que están aquí, han conseguido algo en la vida: dinero, amor —lo que se puede conseguir en la tierra—, pero díganme: ¿no eran mejores tiempos aquellos en que éramos jóvenes en el mar, en que sólo teníamos la juventud en un mar que no da nada, excepto rudos golpes y a veces oportunidad para sentir la propia fuerza —sólo eso—, no es lo que echamos de menos?
 Y todos asentimos con la cabeza: el hombre de las finanzas, el hombre de las cuentas, el hombre de leyes, todos asentimos sobre la pulida mesa que, como una superficie quieta de pardas aguas, reflejaba nuestros rostros surcados y arrugados; nuestros rostros marcados por el trabajo, por las decepciones, por el éxito, por el amor; nuestros cansados ojos seguían buscando quietos, buscando siempre, buscando ansiosamente algo de la vida, que, mientras esperamos, se ha ido ya: que se ha ido sin ser visto, en un susurro, en un relámpago, junto con la juventud, con la fuerza, con la fantasía de las ilusiones.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

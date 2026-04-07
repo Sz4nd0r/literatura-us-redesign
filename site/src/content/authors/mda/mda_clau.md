@@ -51,6 +51,3 @@ Ni los esfuerzos de éste ni los de la hermana y de los amigos, ni de los bienes
 ¿Habrá querido dejarse morir? Así podría suponérselo, al ver la impasibilidad con que rechazó los remedios de los principales médicos de la corte; fue necesario recurrir a la simulación y administrarlos, por fin, como recetados por un ignorante de la época. Pero ya era tarde. La muerte se lo llevó al cabo de dos semanas.
 —¿Joaquim Soares? —vociferó atónito el cuñado, al enterarse de la cláusula testamentaria del difunto que ordenaba que el cajón fuese fabricado por el susodicho. Pero los cajones de ese hombre son de pésima calidad, y...
 —¡Paciencia! —lo interrumpió su mujer—; la voluntad de mi hermano ha de cumplirse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

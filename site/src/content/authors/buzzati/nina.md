@@ -48,6 +48,3 @@ Silencio y quietud en el rellano del quinto piso. Pero, ¿por qué temblaba tant
 De pronto, cuando abrió la puerta interior, Ada sintió en el pecho un nudo doloroso; porque, un poco por encima de su cabeza, flotó, ansioso de huir, un pequeñísimo e incomprensible humo, una minúscula nubecilla, oblonga y pálida, que no despedía olor.
 Corrió a la ventana del recibidor, abrió los postigos y se volvió.
 Sobre el suelo, a dos metros de ella, se veía algo, como una larga y recortada mancha, pero de notable espesor. Se acercó, la tocó con el pie. Cenizas. Estaban esparcidas uniformemente como formando una especie de dibujo. Aquel nudo que tenía en el pecho se hizo fuego, infierno. Las cenizas tenían exactamente la forma de Luisella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

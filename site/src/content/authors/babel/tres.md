@@ -108,6 +108,3 @@ los judíos estafados.
 —Vosotros sois la fuerza. Todo lo que hay
 aquí os pertenece. Ya no hay más patrones. Paso a la elección del Comité
 Revolucionario...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

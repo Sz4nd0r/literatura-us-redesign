@@ -110,6 +110,3 @@ La cual era de un sastre de Nueva York. Y “todo eso” era un traje de caballe
 —Y busca, Brooks —añadió Terencio con cierta preocupación—, un pañuelo de seda que he debido dejar caer aquí y no encuentro en parte alguna.
 Un mes más tarde, en ocasión de que la señora Bellmore y un par de amigas suyas de la buena sociedad preparaban una lista de invitados para una expedición a Catskill, la señora Bellmore dirigió a la lista una última mirada de censura. Y, viendo el nombre de Terencio, Bellmore lo tachó con un trazo de lápiz.
 —Demasiado tímido —explicó con voz dulce.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

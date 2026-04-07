@@ -115,6 +115,3 @@ Como si la sobrehumana energía de su voz tuviera la fuerza de un sortilegio, lo
 De aquel aposento, de aquella mansión huí aterrado. Afuera seguía la tormenta en toda su ira cuando me encontré cruzando la vieja avenida. De pronto surgió en el sendero una luz extraña y me volví para ver de dónde podía salir fulgor tan insólito, pues la vasta casa y sus sombras quedaban solas a mis espaldas. El resplandor venía de la luna llena, roja como la sangre, que brillaba ahora a través de aquella fisura casi imperceptible dibujada en zig-zag desde el tejado del edificio hasta la base. Mientras la contemplaba, la fisura se ensanchó rápidamente, pasó un furioso soplo del torbellino, todo el disco del satélite irrumpió de pronto ante mis ojos y mi espíritu vaciló al ver desmoronarse los poderosos muros, y hubo un largo y tumultuoso clamor como la voz de mil torrentes, y a mis pies el profundo y corrompido estanque se cerró sombrío, silencioso, sobre los restos de la Casa Usher.
 Notas:
 [1] Watson, el doctor Percival, Spallanzani y, especialmente, el obispo de Landaff. Véanse los Ensayos químicos, tomo V.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

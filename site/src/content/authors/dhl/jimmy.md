@@ -340,6 +340,3 @@ Jimmy apretó los dientes y se fue a la estación. Pero cuando sintió la mirada
 —Estoy terriblemente contento de que hayas venido.
 Y según se sentaba en el taxi, un perverso e intenso deseo por ella le inundó, dejándole casi indefenso. Podía sentir, muy fuertemente, la presencia del otro hombre en ella, y esto penetraba en su cabeza como espíritu puro. ¡El otro hombre! De algún modo sutil e inexplicable, él estaba corporalmente presente, el marido. La mujer se movió en su aura. Ella estaba inevitablemente casada con él.
 Y esto fue directo a la cabeza de Jimmy como whisky puro. ¿Cuál de los dos caería ante él con una caída más grande, la mujer, o aquel hombre, su marido?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

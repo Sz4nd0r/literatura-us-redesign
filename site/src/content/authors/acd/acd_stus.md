@@ -156,6 +156,3 @@ Habíamos desayunado y estábamos fumando nuestra pipa matutina el día siguient
 Holmes no me había dicho ni una palabra sobre la tragedia de la que habíamos sido testigos, pero observé que estuvo toda la mañana muy pensativo, y me dio la sensación, por su mirada perdida y su comportamiento distraído, de un hombre que se empeña en hacer memoria. Estábamos en mitad de la comida cuando, de repente, se puso en pie de un salto.
 —Cielos, Watson, ¡lo tengo! —exclamó—. ¡Coja su sombrero! ¡Venga conmigo!
 Corrió a toda velocidad Baker Street abajo y por Oxford Street, hasta que casi habíamos llegado a Regent Circus. Aquí, a mano izquierda, había un escaparate lleno de fotografías de las celebridades y bellezas del momento. La mirada de Holmes se detuvo en una de ellas, y, al seguir sus ojos, vi el retrato de una dama regia y sublime con vestido de corte, con una gran diadema de diamantes en su noble cabeza. Contemplé esa nariz de delicada curva, las cejas marcadas, la boca recta y la fuerte barbilla debajo. Entonces se me cortó la respiración al leer el título inmemorial del insigne noble y hombre de Estado de quien había sido mujer. Mis ojos se encontraron con los de Holmes, y se puso un dedo sobre los labios mientras le dábamos la espalda al escaparate.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

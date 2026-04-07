@@ -179,6 +179,3 @@ Mimi se empezó a reír y lo miró. En ese momento el Chino se dio cuenta de que
 —Tengo hambre —dijo la nena como si le leyera el pensamiento.
 —Sí —dijo el Chino—, ahora vamos.
 El colectivo apareció al fondo de la calle, contra la luz de la mañana. El Chino estaba ahí, alto y desgarbado, con la nena tomada de la mano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

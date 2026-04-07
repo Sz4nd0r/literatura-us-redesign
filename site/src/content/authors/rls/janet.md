@@ -65,6 +65,3 @@ Janet no estuvo inmóvil mucho tiempo; empezó en seguida a avanzar de nuevo y s
 Y en aquel momento la misma mano del Señor golpeó desde el cielo a aquel horror en el lugar en que se hallaba; el cadáver profanado de la vieja bruja, durante tanto tiempo fuera de la tumba, torpemente manejado por los demonios, se prendió fuego como un trozo de azufre y cayó al suelo convertido en cenizas; estallaron los truenos, sucediéndose sin interrupción, y en seguida empezó a caer la lluvia con gran estrépito; y el reverendo Soulis atravesó de un salto el seto del jardín y corrió, sin dejar de gritar un momento, hasta refugiarse en la aldea.
 Aquella misma mañana, John Christie vio al Hombre Negro pasar Muckle Cairn cuando daban las seis; se sabe que antes de las ocho dejó atrás la taberna de Knockdown; y no mucho después Sandy M’Lellan le vio avanzando muy de prisa por los valles que quedaban más abajo de Kilmackerlie. Nadie duda de que fuera él quien habitó durante tanto tiempo en el cuerpo de Janet; pero finalmente se había marchado; y desde entonces no ha vuelto a molestarnos aquí en Balweary.
 Pero resultó una prueba muy difícil para el párroco; fue mucho el tiempo que pasó delirando en la cama; y desde aquel momento hasta ahora ha sido el hombre que usted ha conocido hoy.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -144,6 +144,3 @@ Doña Candinha, dije, mostrando la bolsa, esto quema.
 Pueden dejarlo, hijos míos. Los del orden no vienen aquí.
 Subimos. Coloqué las botellas y la comida sobre una toalla en el suelo. Zequinha quiso beber y no lo dejé. Vamos a esperar a Pereba.
 Cuando el Pereba llegó, llené los vasos y dije, que el próximo año sea mejor. Feliz año nuevo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

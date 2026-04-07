@@ -213,6 +213,3 @@ El modo en que nuestro ingeniero hidráulico fue trasladado desde el jardín has
 En resumen, parecía bastante probable que el taciturno inglés, menos audaz o menos sanguinario que su compañero, hubiera ayudado a la mujer a transportar al hombre inconsciente a un lugar donde estuviera a salvo.
 —¡Bonito negocio he hecho! —dijo nuestro ingeniero en tono quejoso, mientras ocupábamos nuestros asientos para regresar a Londres—. He perdido un dedo, he perdido unos honorarios de cincuenta guineas, y ¿qué es lo que he ganado?
 —Experiencia —dijo Holmes, echándose a reír—. En cierto aspecto, puede resultarle valiosa. Le basta ponerla en palabras, para ganarse reputación de ameno conversador durante el resto de su vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

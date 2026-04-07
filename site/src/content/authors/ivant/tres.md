@@ -302,6 +302,3 @@ Me volví hacia mi desconocida. Seguía con la vista a la pareja que se alejaba;
 —¿Ése?… Un extranjero, un personaje bastante enigmático, que rara vez se deja ver en nuestro horizonte. ¿Por qué?
 —Por nada.
 Volví a casa. Desde entonces no he vuelto a ver a mi desconocida. Como conocía el nombre del caballero al que amaba, no me habría resultado difícil adivinar quién era, pero no deseaba saberlo. Como he dicho más arriba, esa mujer se me había aparecido como una visión y como una visión pasó por mi lado y se desvaneció para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

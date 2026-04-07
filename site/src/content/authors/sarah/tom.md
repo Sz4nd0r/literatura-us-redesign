@@ -67,6 +67,3 @@ bajo ningún concepto en...
 Pero vio que la expresión que tenía su semblante, normalmente tan plácido, refle-
 jaba algo más que determinación, por lo que se abstuvo de continuar hablando.
 Y tres semanas después emprendieron el viaje en barco.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

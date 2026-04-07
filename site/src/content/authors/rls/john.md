@@ -411,6 +411,3 @@ A finales de abril, John condujo a Flora, o, para ser más exactos, Flora conduj
 La última vez que los vi, con ocasión de una visita que hice recientemente al norte, fue en una cena en casa de mi viejo amigo Gellatly Macbride, y cuando, por decirlo igual que el clásico, «fuimos a reunirnos con las damas», tuve oportunidad de oír a Flora que conversaba con otra señora casada sobre el manido asunto del tabaco que fuman los maridos.
 —¡Oh, sí! —decía—. Solo le permito fumar al señor Nicholson cuatro cigarros al día. Tres se los fuma a horas fijas…, después de las comidas, ya sabe; y el cuarto puede fumárselo cuando quiera con los amigos.
 «¡Bravo! —pensé para mis adentros—, ¡he ahí a la esposa ideal para mi amigo John!».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

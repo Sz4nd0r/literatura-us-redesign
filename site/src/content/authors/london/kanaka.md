@@ -189,6 +189,3 @@ Esperó y, al sentir el roce del brazo de su marido sobre los hombros, se dejó 
 Ida extrajo la caja de cerillas del bolsillo de Lee y acercó una encendida al puro de él, que llevaba ya un rato apagado.
 —Bien —continuó Lee mientras el humo ascendía—, conociéndote como te conozco, tan a fondo, solo puedo decir que lo siento por Sonny, por todo lo que ha perdido. Lo siento mucho por él pero me alegro por mí. Y otra cosa: dentro de cinco años tendré algo que contarte, algo gracioso, ridículamente gracioso sobre mí y las tonterías que hago por ti. Cinco años, ¿esperarás hasta entonces?
 —Esperaría aunque fuesen cincuenta —suspiró ella y se acercó más a él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

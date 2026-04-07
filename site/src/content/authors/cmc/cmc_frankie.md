@@ -1352,6 +1352,3 @@ Berenice se incorporó.
 —En la casa nueva tienen sótano y cuarto de lavar. —Y al cabo de un minuto añadió—: Seguramente pasaremos por Luxemburgo cuando nos vayamos juntas por el mundo.
 Frances volvió a la ventana. Eran casi las cinco y en el cielo se había desvanecido el resplandor de color geranio. Los últimos colores pálidos se apretujaban fríos en el horizonte. La oscuridad, cuando llegase, vendría rápidamente, como suele hacerlo en invierno.
 —Me vuelve verdaderamente loca… —Pero la frase se quedó sin terminar, porque la intimación al silencio se quebró, con un instantáneo choque de felicidad, cuando Frances oyó el timbre de la puerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

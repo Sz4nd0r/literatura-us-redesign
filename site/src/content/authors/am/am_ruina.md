@@ -51,6 +51,3 @@ Ella, sin dejar de sollozar, se encaminó por un sendero a lo largo del arenal d
 Pero ahora aquella cosa se había desvanecido, y aunque ya estaba solo, me sentía completamente inerte, sordo y vacío, como cuando estaba con Gioconda. No había nada que hacer; por ese día, y quién sabe por cuánto tiempo aún, no volvería a encontrar una ocasión como aquélla. Lleno de rabia y al mismo tiempo inseguro e inquieto, di vueltas durante toda la mañana por aquellos prados, maldiciendo a Gioconda y a mi suerte, sin lograr detenerme ni con el pensamiento ni con el cuerpo. Por último comprendí que no podía hacer otra cosa que volver al taller y allá me fui. Gioconda, entre los montones de ladrillos, con una olla en el brazo, esparcía la comida de las gallinas y me saludó desde lejos con una sonrisa. Yo no le contesté y entré en el barracón.
 —Si el trabajo es salud, ¡viva la tuberculosis! —gritó mi tío al verme.
 No dije nada, me puse el mono y continué trabajando en el torno en el punto exacto en que lo había dejado el día anterior.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

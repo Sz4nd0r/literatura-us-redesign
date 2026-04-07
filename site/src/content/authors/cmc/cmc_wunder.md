@@ -137,6 +137,3 @@ El rostro del señor Bilderbach parecía vibrar en el espacio delante de ella, a
 El cuerpo tenso del señor Bilderbach se relajó y poniéndose la mano en el costado se levantó. Ella recogió su música y le pasó por delante corriendo.
 Su abrigo. Los mitones. Los chanclos. Los libros del colegio y la cartera que él le había regalado en su cumpleaños. Todo lo que en el cuarto silencioso era suyo. Deprisa, antes de que él hablara.
 Al atravesar el vestíbulo no pudo dejar de ver sus manos, colgando del cuerpo, que se apoyaba contra la puerta del estudio, relajado y sin designio. Cerró la puerta con fuerza. Con los libros y la cartera a rastras, bajó tropezándose por las escaleras de piedra, se equivocó de dirección al salir, corrió por la calle que se había vuelto una confusión de ruidos y bicicletas y juegos de otros niños.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

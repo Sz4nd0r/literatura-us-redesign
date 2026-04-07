@@ -61,6 +61,3 @@ En la Plaza de San Cosimo y Damiano está toda la gente que va a la visitación.
 Seguimos andando y oímos caer algo cerca.
 —¡El chico! —gritamos y estamos por correr a seguirlo.
 Pero es un níspero podrido que ha caído de una rama. Seguimos adelante, dando puntapiés a las piedras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -120,6 +120,3 @@ Qué distante parecía ahora el camino fangoso de Trollope, las pesadas botas de
 —Nunca olvidaré lo que dijiste sobre la anguila ahumada… Nunca. Si veo una ahora…
 Empezó a reírse de nuevo y madame Dejoie la empujó suavemente hacia la puerta.
 Las seguí con la mirada mientras cruzaban el camino hacia el coche estacionado. De pronto madame Volet dio un brinco y echó los brazos al cuello de madame Dejoie. El viento que soplaba desde el puerto llevó el leve sonido de su risa hasta mi solitaria mesa en el restaurante de Félix. Me alegraba verla feliz de nuevo. Me alegraba verla en las seguras y bondadosas manos de madame Dejoie. Qué tonto había sido Paul, pensé. Y sentí pena por tantas oportunidades perdidas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

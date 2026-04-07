@@ -160,6 +160,3 @@ Era el año 1924. La casa sobre el Common se bañaba en el dulce sol de abril. P
 —No come hoy —contestó Herbert.
 —De todos modos —murmuró Pablo en voz baja— se podía haber tomado el trabajo de hacernos algo caliente.
 Silvia, entretanto, sin levantar los ojos de su plato de ensalada de papas, comía en silencio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

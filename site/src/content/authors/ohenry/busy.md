@@ -49,6 +49,3 @@ La muchacha levantó la vista hasta él y sonrió. Una tonalidad rosa pálida su
 —¿No comprendes? —dijo Maxwell con impaciencia—. Quiero casar contigo. Te amo. Deseaba decírtelo y logré conseguir un minuto cuando el trabajo aflojó un poco. Ahora me llaman por teléfono. Dígales que me esperen un poco, Pitcher.
 La estenógrafa se portaba de manera muy extraña. Al principio parecía dominada por la sorpresa; luego, de sus ojos maravillados fluyeron lágrimas, y por fin sonrió alegremente, deslizando con ternura el brazo alrededor del cuello del bolsista.
 —Ahora lo sé —dijo con suavidad—. Son los negocios los que ahuyentaron, durante un tiempo, todo lo demás de tu mente. Estaba asustada al principio. ¿No recuerdas, Harvey? Anoche a las ocho de la noche nos casamos en la Pequeña Iglesia de la Vuelta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

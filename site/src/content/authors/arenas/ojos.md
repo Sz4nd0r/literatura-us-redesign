@@ -33,6 +33,3 @@ Los muchachos sacaron la rata temblorosa del agua y la depositaron sobre una pie
 Palabra que los iba a llamar. Y hasta levanté las manos con la torta y todo encima para que la vieran y no fueran a creer que era mentira lo que les iba a decir, y vinieron corriendo. Pero entonces, puch, me pasó el camión casi por arriba en medio de la calle que era donde, sin darme cuenta, me había parado.
 Y aquí me ve usted: con las piernas blancas por el espatadrapo y el yeso. Tan blancas como las paredes de este cuarto, donde sólo entran mujeres vestidas de blanco para darme un pinchazo o una pastilla también blanca.
 Y no crea que lo que le he contado es mentira. No vaya a pensar que porque tengo un poco de fiebre y a cada rato me quejo del dolor en las piernas, estoy diciendo mentiras, porque no es así. Y si usted quiere comprobar si fue verdad, vaya al puente, que seguramente debe estar todavía, toda desparramada sobre el asfalto, la torta grande y casi colorada, hecha de chocolate y almendras, que me regalaron sonrientes las dos viejecitas de la dulcería.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

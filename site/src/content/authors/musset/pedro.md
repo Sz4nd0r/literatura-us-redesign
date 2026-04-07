@@ -238,6 +238,3 @@ El marqués se levantó; Camila corrió al encuentro de su padre, le abrazó tie
 Camila cogió al niño en brazos; aunque no oía, había comprendido. Y levantándole dulcemente hasta el caballero, le puso un dedo en los labios y se los frotó dulcemente como invitándole a hablar.
 El niño se hizo esperar algunos minutos, pero al fin pronunció claramente estas palabras, que la madre le había hecho enseñar: ¡Buenos días, papá!
 —Ya veis cómo Dios perdona todo y perdona siempre —dijo el tío Giraud.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -214,6 +214,3 @@ Pero Trevelyan y yo nos miramos perplejos.
 —Pero ¿por qué no se lo contó todo a usted?
 —Bien, amigo mío, conociendo el vengativo carácter de sus antiguos socios, pretendía ocultar a todo el mundo, mientras pudiera, su identidad. Además, su secreto era vergonzoso y no se resignaba a divulgarlo. Pero, por muy miserable que fuera este individuo, seguía viviendo bajo la protección de la ley británica, y no dudo, inspector, que usted convendrá conmigo en que, a pesar de que esta protección haya fracasado, la espada de la justicia sigue ahí para vengarle.
 Estas fueron las singulares circunstancias relacionadas con el paciente interno y el médico de Brook Street. Desde aquella noche la policía no ha vuelto a tener noticia de los tres asesinos, y en Scotland Yard se supone que figuraban entre los pasajeros del desdichado Norah Creina, que desapareció hace unos años con todos sus ocupantes junto a las costas portuguesas, unas millas al norte de Oporto. El proceso contra el ayudante se desestimó por falta de pruebas, y el «Misterio de Brook Street», como fue bautizado el caso, no ha aparecido hasta ahora extensamente en ningún medio de comunicación accesible al público.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

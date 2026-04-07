@@ -550,6 +550,3 @@ Más tarde, tendida en su cama iluminada por la luna, Cassie pensaba. Sus cabell
 Se miraron, y ninguna de las dos quiso hablar. Ni siquiera se horrorizaron mutuamente. Nada podía tocarlas ya.
 Danke schön… Eso era lo único que había quedado al descubierto. La gratitud —como la redención— ya no existía. No era solo el pasado; estaba desgastado y desechado. Las dos, la señorita Eckhart y Virgie Rainey, eran dos seres humanos como tantos otros, que erraban por la faz de la tierra. Y había otros muchos seres humanos errando, como bestias perdidas.
 Recordó entero el poema que había encontrado en aquel libro. Pasó por su mente a la perfección, borrándose a medida que llegaba, un verso dando paso al siguiente, como en una carrera de antorchas. Todo él pasó por su cabeza, por su cuerpo. Se durmió, pero una vez se incorporó en la cama y dijo en voz alta: «Porque había fuego en mi cabeza». Luego se dejó caer otra vez, sin oponer resistencia. En sus sueños vio asomar un rostro por su habitación; era el rostro grave, implacable y radiante, una vez más y siempre, el rostro del poema.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

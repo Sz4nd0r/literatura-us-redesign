@@ -38,6 +38,3 @@ Esa misma noche se dio una ayuda y solitaria se satisfizo. Mudos fuegos de artif
 La muerte.
 Le pareció oír ruido de pasos. Los pasos de su marido Antenor Raposo.
 A via crucis do corpo (1974)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

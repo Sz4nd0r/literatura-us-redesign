@@ -56,6 +56,3 @@ Cuando acabó de hablar, el santo ermitaño guardó silencio unos instantes y de
 —Hijo mío, ahora entiendo bien qué te ocurre… Conozco a la Virgen. La he visto muchas veces. Debes saber que su nombre, aunque no quiera decirlo, es Felicidad. Es caprichosa, bien es cierto, pues impone condiciones que los hombres muchas veces no pueden cumplir. Por eso se va, cuando se siente contrariada o decepcionada. Aparece cuando le viene en gana y jamás admite una pregunta. Una simple demostración de curiosidad, o una señal de duda, por leve que sea, o una expresión inquisidora, y desaparece… ¿Cuánto tardó en esfumarse, cada vez que lo hizo?
 —Nada, un instante —respondió Haîta con gesto de suma tristeza—. Apenas me dio tiempo de darme cuenta, la perdí en un momento.
 —¡Desventurado joven! —dijo el santo ermitaño—. Por culpa de tu indiscreción la has perdido para nosotros dos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -242,6 +242,3 @@ lo invitaba a tomar té con leche.
 —le decía—. ¿Querés té con leche?... ¡La papa para el tigre!...
 Y todos se morían
 de risa. Y Pedrito también.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

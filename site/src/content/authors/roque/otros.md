@@ -742,6 +742,3 @@ No pronuncies mi nombre cuando sepas que he muerto:
 desde la oscura tierra vendría por tu voz.
 No pronuncies mi nombre, no pronuncies mi nombre.
 Cuando sepas que he muerto no pronuncies mi nombre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

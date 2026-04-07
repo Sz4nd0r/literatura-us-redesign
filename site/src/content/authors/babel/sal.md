@@ -144,6 +144,3 @@ Por todos los combatientes de la segunda
 compañía,
 Nikita Balmaschef,
 Soldado de la Revolución.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

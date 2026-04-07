@@ -2239,6 +2239,3 @@ Felipe quedó otra vez en silencio, como si le hubiera costado mucho hablar, y C
 Marta negó con un movimiento de cabeza, había que tomarlos en cuenta, pero en un sentido positivo: con eso, Carlos dio pruebas de sensibilidad y valentía, porque solo un hombre que los tuviera muy bien puestos hacía en este país, por amor, lo que él había hecho; y gracias, eso era todo.
 Marta hurgó en su cartera y sacó un cigarro; Margarita volvió la cabeza y le dijo algo a Jiménez Cardoso, que se encogió de hombros; Felipe miró al suelo e hizo traquear sus dedos uno a uno; alguien empezó a toser en la parte de atrás. El Presidente recorrió la asamblea con la vista, preguntó si había alguna otra opinión, alguna otra pregunta, y Carlos se sintió suspendido en el vacío cuando lo oyó decir:
 —Bien, compañeros, entonces vamos a votar levantando la mano: primero los que estén a favor, después los que estén en contra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

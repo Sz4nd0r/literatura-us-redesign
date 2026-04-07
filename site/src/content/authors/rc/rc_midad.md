@@ -91,6 +91,3 @@ Me acompaña hasta la puerta, que ha estado abierta todo el rato. Durante toda l
 Dice: Puede que algún día vuelvas a verme o puede que no. Lo de hoy no tardará en borrarse, lo sabes. Pronto volverás a sentirte mal. A lo mejor consigues una buena historia de todo esto. Pero si es así, no quiero saberlo.
 Le digo adiós. Ella no dice nada. Se mira las manos, luego se las mete en los bolsillos del vestido. Sacude la cabeza. Vuelve a entrar en casa, y esta vez cierra la puerta.
 Me alejo por la acera. Unos niños se pasan un balón de fútbol al otro extremo de la calle. Pero no son hijos míos. Ni hijos de ella. Hay hojas secas por todas partes, incluso en las cunetas. Mire donde mire, las veo a montones. Caen de los árboles a mi paso. No puedo avanzar sin que mis pies tropiecen con ellas. Deberían hacer algo al respecto. Deberían tomarse la molestia de coger un rastrillo y dejar esto como es debido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -166,6 +166,3 @@ El hombre, que vestía un traje tosco y oscuro, retrocedió hasta el lugar donde
 Me sobresalté.
 —¡Ay! Fue un rato horrible, señor. No paré de gritar. Me puse este brazo delante de los ojos, para no verlo, y agité el otro hasta el último momento, pero no sirvió de nada.
 Para no prolongar el relato extendiéndome en alguna de sus circunstancias más que en otra, puedo, para terminar, señalar la coincidencia de que las advertencias del conductor de la locomotora incluían no sólo las palabras que el desafortunado guardavía me había repetido como su obsesión, sino también las palabras que yo mismo —y no él— había asociado, tan sólo en mi mente, a los gestos que había imitado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

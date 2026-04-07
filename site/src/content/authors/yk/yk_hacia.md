@@ -95,6 +95,3 @@ La dibujó mentalmente, aproximándose en el siguiente tren de la línea Yokosuk
 Esa noche también Junji comenzó por la oreja. Todavía tenía que descubrir otros defectos en el cuerpo de la señora distintos al de sus orejas. Mientras Junji se desplazaba de uno a otro lado de su cuerpo, la señora Kiriko susurró:
 —No tienes por qué hacer todas estas cosas, ¿sabes?
 De repente Junji quedó inmóvil. Kiriko, en cambio, se sintió relajada. Ella se sentía como la primera vez, cuando anudaron los talones. Junji se dio cuenta de que esta vez ella había venido por compasión. De repente le empezaron a correr unas lágrimas que no podía detener. «¿Esto es lo que significa una separación?», pensó para sí. Y por otra parte, las crueles palabras de la señora Kiriko también parecían sugerir que había estado haciendo lo que su esposo no hacía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

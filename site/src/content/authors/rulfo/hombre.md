@@ -326,6 +326,3 @@ boca y la nuca repleta de agujeros como si lo hubieran taladrado.
 Yo no voy a averiguar eso.
 Sólo vengo a decirle lo que pasó, sin quitar ni poner nada. Soy
 borreguero y no sé de otras cosas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

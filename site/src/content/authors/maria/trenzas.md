@@ -68,6 +68,3 @@ Pero el bosque hubo de agonizar y morir junto con ella y su cabellera, cuyas ra�
 Las verdes enredaderas que se enroscan a los árboles, las dulces algas a sus rocas, son cabelleras desmadejadas, son la palabra, el venir y aletear de la naturaleza, son su alegría y melancolía, son su expresión por medio de la cual la naturaleza infiltra confusamente su magia y saber a los seres.
 Y es por eso que las mujeres de ahora al desprenderse de sus trenzas han perdido su fuerza adivina y no tienen premoniciones, ni goces absurdos, ni poder magnético.
 Y sus sueños no son ahora sino una triste marea que trae y retrae imágenes cansadas o alguna que otra doméstica pesadilla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

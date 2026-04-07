@@ -91,6 +91,3 @@ Mi amigo Serval añadió:
 —En represalia los alemanes destruyeron el palacio del pueblo, que me pertenecía.
 Yo pensaba en las madres de los cuatro apacibles muchachos quemados allí dentro; y en el heroísmo atroz de aquella otra madre, fusilada al pie de aquella pared.
 Y recogí una piedrecita, ennegrecida todavía por el fuego.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

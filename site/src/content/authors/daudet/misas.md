@@ -269,6 +269,3 @@ de rodillas en medio del coro, agitaba desesperadamente una campanilla sin
 badajo y sin voz, mientras que un sacerdote, vestido de oro viejo, iba y venía
 ante el altar, recitando oraciones de las que no se entendía una palabra... No
 podía ser otro que don Balaguer, diciendo su tercera misa rezada...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

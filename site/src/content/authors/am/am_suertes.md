@@ -117,6 +117,3 @@ Pero tanto él como los otros no se atrevieron a moverse porque el guardia se ha
 —Se la hemos jugado, ¿eh?
 —¿Cómo te llamas? —pregunté.
 —Assunta —me contestó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

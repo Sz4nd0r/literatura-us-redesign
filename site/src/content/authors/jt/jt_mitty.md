@@ -126,6 +126,3 @@ Atravesaron las puertas giratorias, que emitían un silbido débilmente burlón 
 Tardó más de un minuto. Walter Mitty encendió un cigarrillo. Empezó a llover, lluvia con cellisca en ella. Permaneció de pie junto a la pared de la farmacia fumando… Echó los hombros atrás y juntó los tacones.
 —Al diablo con el pañuelo —dijo Walter Mitty desdeñosamente.
 Tras una última chupada a su cigarrillo, lo lanzó a lo lejos con un rápido movimiento. Y a continuación, con aquella leve y fugaz sonrisa jugueteando en sus labios, se enfrentó al pelotón de fusilamiento, erguido e inmóvil, orgulloso y despreciativo, Walter Mitty el Invencible, inescrutable hasta el último momento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -565,6 +565,3 @@ ello contempló la ley, despiadada y poderosa, nunca torcida y siempre
 imperiosa, mayor que las motas de hombres que las cumplían o que eran
 aplastados por ella, e igualmente mayor que él, cuyo corazón lo inducía a
 la suavidad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

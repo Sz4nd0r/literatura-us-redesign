@@ -130,6 +130,3 @@ Earl esbozó su mejor sonrisa. Y la mantuvo. La mantuvo hasta que sintió que la
 Pero la camarera se limitó a observarle, y Doreen empezó a sacudir la cabeza despacio. El hombre dejó unas monedas junto a la taza y se levantó, pero aguardó también a oír la respuesta. Todos ellos tenían los ojos fijos en Earl.
 —Es un vendedor. Es mi marido —dijo Doreen al fin, encogiéndose de hombros.
 Luego le puso delante el helado de chocolate sin terminar de preparar y se fue a hacerle la cuenta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

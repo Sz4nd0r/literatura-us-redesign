@@ -276,6 +276,3 @@ En realidad yo podía ver, y lo que vi confirmó mi decisión, aunque fuese como
 —Para usted es distinto. Mil veces. En su caso es justo… No tengo palabras para expresar mi agradecimiento. En mi caso no sería justo. Pero si yo fuese…
 —¿Por qué? —dijo, pero pasó su mano por delante de su cara, tal como había hecho en nuestro segundo encuentro en el bosque—. ¡Oh, ya entiendo! —prosiguió con sencillez infantil—. En su caso no sería justo. —Después se oyó una leve risa ahogada—. ¿Recuerda? Dije que era usted la persona más dichosa, se lo dije nada más conocernos. ¡Usted no debe volver aquí!
 Se fue, y yo me quedé sentado todavía un poco cerca del biombo, y oí el rumor de sus pasos, que se alejaban lentamente por la galería del piso de arriba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

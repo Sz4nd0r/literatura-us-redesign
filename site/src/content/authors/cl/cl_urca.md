@@ -20,6 +20,3 @@ Muerto por bobo que era. Sólo se debe ir a Urca para probarse un vestido alegre
 Sólo se debe morir de muerte natural, nunca por un desastre, nunca por ahogo en el mar. Yo pido protección para los míos, que son muchos. Y la protección, estoy segura, vendrá.
 Pero ¿y el joven? ¿Y su historia? Es posible que fuera estudiante. Nunca lo sabré. Me quedé sólo mirando el mar y el caserío. Doña Lourdes, imperturbable, preguntándome si ajustaba más la cintura. Yo le dije que sí, que la cintura tiene que verse apretada. Pero estaba atónita. Atónita en mi precioso vestido.
 Onde estivestes de noite (1974)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -95,6 +95,3 @@ Adiós, hasta otro día, tenemos que vernos. Vengan a vernos, se dijeron rápida
 —¡Hasta el año que viene! —repitió José la feliz indirecta, saludando con la mano con efusivo vigor, los escasos cabellos blancos volando. Estaba gordo, pensaron, necesita cuidar el corazón—. ¡Hasta el año que viene! —gritó José elocuente y grande, y su altura parecía desmoronable. Pero las personas que ya se habían alejado no sabían si debían reír alto para que él escuchara o si bastaría con sonreír en la oscuridad. Aunque algunos pensaron que felizmente había algo más que una broma en la indirecta y que sólo en el próximo año estarían obligados a encontrarse delante del pastel encendido; mientras que otros, ya en la oscuridad de la calle, pensaron si la vieja resistiría un año más a los nervios y a la impaciencia de Zilda, pero ellos sinceramente nada podían hacer al respecto. «Por lo menos noventa años», pensó melancólica la nuera de Ipanema. «Para completar una fecha linda», pensó soñadora.
 Mientras tanto, allá arriba, por encima de escaleras y contingencias, la agasajada estaba sentada a la cabecera de la mesa, erecta, definitiva, más grande que ella misma. ¿Es que hoy no habrá cena?, meditaba ella. La muerte era su misterio.
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

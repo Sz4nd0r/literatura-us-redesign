@@ -482,6 +482,3 @@ Webster Shaw rió brevemente, apuntó entre los relucientes ojos y
 apretó el gatillo. El cuerpo de Diablo se contrajo con el golpe, sacudió
 el suelo espasmódicamente por un momento, y se quedó fláccido de
 repente. Pero sus dientes todavía se quedaron a medio cerrar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -125,6 +125,3 @@ Ralph Sanderson salió de detrás del escritorio y la rodeó con los brazos.
 Él se inclinó, ella se puso de puntillas y las bocas de ambos se tocaron.
 —Gracias, querido —dijo ella—. Llámame, llámame.
 —Eso espero —dijo él mientras ella salía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

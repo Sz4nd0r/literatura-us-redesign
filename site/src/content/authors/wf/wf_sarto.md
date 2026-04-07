@@ -597,6 +597,3 @@ Miss Jenny volvió con las llaves y él enderezó bruscamente su largo cuerpo y 
 Ya en la puerta de la sala, Narcissa lanzó una rápida mirada hacia el vestíbulo; luego siguió adelante. Miss Jenny fue tras ella hasta el porche. La otra había descendido los escalones y caminaba a buen paso hacia su automóvil.
 —Vuelve pronto —le gritó Miss Jenny.
 —Sí, muy pronto —contestó Narcissa—. Adiós.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

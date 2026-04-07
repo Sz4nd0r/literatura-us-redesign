@@ -29,6 +29,3 @@ La noche de la Virgen volví a casa por la mañana, y por una vez el sendero del
 —Qué puede decir ese vagabundo...
 —Nada. Me lleva con él a trabajar cuando quiera.
 Mi padre se detuvo indeciso; tenía en la mano un cabestro y lo dejó sobre la ventana. Todavía un año antes me hubiera medido con él las costillas. Pero ahora era inútil, y se volvió hacia el establo, de donde salía mi madre, pasándose una mano por los ojos. Yo dejé que gritaran y entretanto miraba la sombra larga del nogal.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

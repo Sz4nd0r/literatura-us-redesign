@@ -41,6 +41,3 @@ Señaló mis ropas: estaban manchadas de barro, de sangre coagulada. No dije nad
 Notas:
 [1]
 Pues como Júpiter, durante el invierno, da por dos veces siete días de calor, los hombres han llamado a este tiempo clemente y templado, la nodriza de la hermosa Alción (Simónides).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

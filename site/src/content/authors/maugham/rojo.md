@@ -160,6 +160,3 @@ No respondió de inmediato. Ella también era vieja, una vieja nativa gorda. Se 
 —Me trajo noticias de casa. Mi hermano mayor está muy enfermo y debo regresar.
 —¿Te irás por mucho tiempo?
 Se encogió de hombros.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

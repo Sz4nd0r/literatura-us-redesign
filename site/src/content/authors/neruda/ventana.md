@@ -199,6 +199,3 @@ que la ausencia parece que lo acercara a mí.
 Regreso, y hasta el cielo tiene un bostezo inmenso.
 Y crece en mi alma un odio, como el de antes, intenso.
 Pero ella vive aquí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

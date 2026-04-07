@@ -119,6 +119,3 @@ Ambos hombres retrocedieron alarmados.
 —Mi nombre es Helberson, ciertamente; y este caballero es el señor Harper —replicó el primero que se había tranquilizado con aquella risa—. Pero ya no somos médicos; somos… bueno, que me ahorquen, anciano: somos jugadores.
 Y ésa era la verdad.
 —Una profesión muy buena; verdaderamente buena; y dicho sea de paso, espero que este señor, Sharper, haya pagado su dinero a Jarette como un apostador honesto. Una profesión muy buena y honorable —repitió pensativamente, mientras se alejaba con despreocupación—. Yo sigo siendo lo que fui. Soy el jefe médico del Asilo de Bloomingdale; es mi deber curar al superintendente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

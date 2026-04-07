@@ -978,6 +978,3 @@ Esta es la
 noche. Voy a tirarme en la cama, enfriado, muerto de cansancio, buscando
 dormirme antes de que llegue la mañana, sin fuerzas ya para esperar el
 cuerpo húmedo de la muchacha en la vieja cabaña de troncos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

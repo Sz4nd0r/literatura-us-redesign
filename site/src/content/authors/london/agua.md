@@ -106,6 +106,3 @@ Kohokumu puso punto final y clavó sus astutos ojos en los míos.
 —¡Ja! —me interrumpió de nuevo—. ¡Mira! Mientras hablábamos, los peces han empezado a picar otra vez.
 Señaló tres palos de bambú que se habían hundido por un extremo y bailaban, anunciando que algún pez había tragado el anzuelo y luchaba por librarse de él. Mientras cogía el remo, murmuró para que yo lo oyera:
 —Claro que lo sé. Los treinta y nueve pedazos de roca siguen ahí. Tú mismo puedes contarlos cuando te apetezca. Claro que lo sé y lo sé con total seguridad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

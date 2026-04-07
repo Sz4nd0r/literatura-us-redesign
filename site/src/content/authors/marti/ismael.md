@@ -862,6 +862,3 @@ Y cual lebrel sumiso
 Busca saltando
 A la rosilla nueva
 Del valle pálido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

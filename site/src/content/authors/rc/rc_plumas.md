@@ -311,6 +311,3 @@ Yo digo que sí con la cabeza. Seguimos siendo amigos. Eso no ha cambiado nada. 
 Muy de tarde en tarde me pregunta por mi familia. Cuando lo hace, le digo que todo va bien.
 —Todo va estupendamente —le digo.
 Cierro la fiambrera del almuerzo y saco los cigarrillos. Bud asiente con la cabeza y bebe a sorbos el café. Lo cierto es que mi chico tiene tendencia al disimulo. Pero no hablo de ello. Ni siquiera con su madre. Con ella aún menos. Hablamos cada vez menos, ésa es la verdad. Por lo general, lo único que hacemos es ver la televisión. Pero recuerdo aquella noche. Me acuerdo de la manera en que el pavo real levantaba sus patas grises y recorría centímetro a centímetro el contorno de la mesa. Y, luego, mi amigo y su mujer dándonos las buenas noches en el porche. Olla le dio a Fran unas plumas de pavo real para que se las llevara a casa. Recuerdo que todos nos dimos la mano, nos abrazamos, diciéndonos cosas. En el coche, Fran se sentó muy cerca de mí mientras nos alejábamos. Me puso la mano en la pierna. Así fuimos a casa desde el hogar de mi amigo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

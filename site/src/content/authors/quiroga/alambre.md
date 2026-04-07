@@ -331,6 +331,3 @@ chacarero impasible. El animal se había levantado, y podía caminar. Pero su
 dueño, comprendiendo que le costaría mucho trabajo curarlo —si esto aún era
 posible— lo carneó esa tarde, y al día siguiente al malacara le tocó en suerte
 llevar a su casa, en la maleta, dos kilos de carne del toro muerto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

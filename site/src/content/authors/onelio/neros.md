@@ -146,6 +146,3 @@ Ya en el muellecito me volví para saludar a la madre de Martínez. Estaba como 
 —Los nietos de Fidencio —dijo.
 Y se volvió para mirar el Cayo que era apenas un punto de ceniza sobre el horizonte.
 (1945)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

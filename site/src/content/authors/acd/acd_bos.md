@@ -249,6 +249,3 @@ Holmes se levantó y se sentó a la mesa con una pluma en la mano y un fajo de p
 Tambaleándose y estremecida por violentos temblores, la gigantesca figura abandonó la habitación.
 —¡Vaya por Dios! —exclamó Holmes tras un largo silencio—. ¿Por qué gasta el destino semejantes jugarretas a pobres gusanos indefensos? Siempre experimento cierta incomodidad ante casos como este.
 James McCarthy fue absuelto en el juicio, gracias a las múltiples objeciones que Holmes preparó y transmitió al abogado defensor. El viejo Turner vivió siete meses más después de nuestro encuentro, pero ahora ya ha muerto, y todo parece augurar que hijo e hija vivirán juntos y felices, ignorantes del negro nubarrón que envuelve su pasado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -133,6 +133,3 @@ Pero Richard descubrió que no podía parar, e incluso después de llegar a casa
 Estaba casi llorando; una extraña ternura se había apoderado de él en la cama, como si hubiera dado a luz, dado a luz a su voz, una voz que reclamaba atención a lágrima viva desde las profundidades de la opresión. En lo alto de la ventana, el cielo del final de la tarde clareó a medida que se marchaba la tormenta. En el calor de la cama, Richard cantaba para sí y en una ocasión gritó:
 —¡Señorita, señorita, no se preocupe usted! ¡El viejo Tom vivirá para ver otro amanecer!
 Pero Joan estaba en el piso de abajo, hablando por teléfono con voz firme.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

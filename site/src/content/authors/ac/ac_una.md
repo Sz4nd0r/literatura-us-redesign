@@ -66,6 +66,3 @@ Después de la comida, Pustiakov daba vueltas por las habitaciones enseñando la
 »¡Si lo hubiera sabido! —pensaba mirando a Tramblian, que conversaba con Spichkin con ojos envidiosos—.
 ¡Me hubiera colgado una Vladimir [condecoración]!… ¡Qué lástima no haberlo adivinado!
 Sólo este pensamiento le torturaba. Por lo más se sentía feliz, completamente feliz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

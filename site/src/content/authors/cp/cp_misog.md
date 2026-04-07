@@ -205,6 +205,3 @@ El joven subió y se sentó al volante. El coche retrocedió, luego giró hacia 
 —Adiós —gritó la muchacha.
 —Nos acordaremos siempre de ustedes —dijo asomándose el joven.
 —Más les valdría olvidarse —rezongó Giusto a Tosca, que se estremecía en la niebla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

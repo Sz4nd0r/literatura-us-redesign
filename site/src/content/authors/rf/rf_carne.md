@@ -46,6 +46,3 @@ Mi hermano fumaba mirando por la ventana el tránsito de la calle.
 Un sacerdote apareció y rezó.
 El cajón cerrado fue colocado en una camilla con ruedas. Seguimos, mi hermano y yo, a la camilla empujada por el sepulturero hasta la fosa abierta. El cajón de mi madre fue colocado en la parte inferior. Una losa fue sellada con cemento, dejando la parte superior vacía, a la espera del futuro ocupante. Sobre esa losa fueron depositadas provisionalmente las dos cajas con los restos de mi padre y mi hermano. La loza de mármol rosa con los nombres de los dos, grabados en bronce, cerró la sepultura.
 Deben haber robado las obturaciones de oro de los dientes de mi hermano mientras fui a la capilla para traer a mi madre, pensé. Pero estaba muy cansado para comentar eso. Caminamos en silencio hasta la puerta del cementerio. Mi hermano me dio un abrazo. ¿Quieres que te lleve?, preguntó. Le dije que iba a caminar un poco. Miré su carro que se alejaba. Me quedé allí, de pie, hasta que oscureció.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

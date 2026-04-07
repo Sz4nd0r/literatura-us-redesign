@@ -342,6 +342,3 @@ Incorporándose en la silla dejó escapar un profundo suspiro.
 —¿Cuándo? —preguntó el chico, impasible.
 Dos lágrimas ardientes inundaron la redonda faz de Guy.
 —Esta noche... —murmuró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

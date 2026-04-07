@@ -98,6 +98,3 @@ El rebenque cayó entre las piernas, después al suelo, y Petrus, sentándose, i
 —¿Y si nos tomáramos otra, comisario?
 Al salir Medina vio que una de las bestias dormía una siesta larga, protegida del sol.
 1976
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

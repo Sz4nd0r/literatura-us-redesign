@@ -109,6 +109,3 @@ Los dos se arrodillaron junto a la mesa del comedor y la madre de Krebs empezó 
 —¿Quieres que lo haga yo por ti?
 —Bueno.
 Entonces, su madre rezó por él, y cuando se levantaron, Krebs la besó de nuevo y se fue. Había hecho todo lo posible para evitar complicaciones en su vida, y hasta ese instante había triunfado. Pero entonces sintió lástima por su madre y se vio obligado a mentir otra vez. Resolvió ir a Kansas City para conseguir trabajo, y así ella se tranquilizaría, aunque quizá tuviera lugar una nueva despedida con lágrimas. También decidió no bajar a la oficina de su padre. Quería que su vida se deslizara suavemente, sin complicaciones, como había empezado. «Bueno, pero ya terminó, de cualquier modo. Esta tarde iré a ver cómo juega Helen al béisbol.»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

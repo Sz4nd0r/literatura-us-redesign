@@ -141,6 +141,3 @@ La seguí hasta la terraza de losas, con sus muebles de cristal y hierro. Sirvi�
 —Oh, un montón de cosas. No solo bromas. Los dos adorábamos a Fred y Adele Astaire, y les copiábamos los bailes. No lo hacíamos igual de bien, obviamente, pero todo el mundo adivinaba a quién estábamos imitando. Ganamos un par de premios en fiestas. A Johnny se le daba genial. “I lahv, yourfah, neeface. Your fah, neefah, neeface.”
 De pronto se echó a llorar y yo me quedé sentado, inmóvil.
 Eso fue hace veinte años. No creo que nada de lo que le haya ocurrido desde entonces haya cambiado mucho a Sallie, pero aunque así fuera, así es como la recuerdo y como siempre la recordaré.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -231,6 +231,3 @@ Ricardo Stepens se estremece. Mira al chófer y con cierta ansiedad, le grita:
 —Dársena Sur, chófer.
 Y mientras cierra la portezuela, un pensamiento triste cruza su mente:
 «¿Qué harán en lo de Julia con los regalos?»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

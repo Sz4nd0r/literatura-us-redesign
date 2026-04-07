@@ -315,6 +315,3 @@ animal lo preocupaba y de ningún modo daba el asunto por liquidado. Permanecía
 incómodo en un rincón trasero de su mente.
 Pronto, a la mañana siguiente sin falta, se
 apartaría de todos y se iría al monte a pensar en ello.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

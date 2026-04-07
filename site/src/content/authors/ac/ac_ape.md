@@ -68,6 +68,3 @@ Llegó el médico y arrancó la muela enferma. El dolor desapareció en el acto 
 Iván Yevseich miró con aire estúpido al médico, esbozó una sonrisa extraña y, sin responder palabra, batió palmas y echó a correr en dirección a la hacienda con tanta prisa como si le estuviera persiguiendo un perro rabioso.
 —¡Lo he encontrado, excelencia! —gritó alegremente, con la voz alterada, entrando como un torbellino en el gabinete del general—. ¡Lo he encontrado, que Dios conceda salud al médico! ¡Avénov! ¡El apellido del recaudador es Avénov! ¡Avénov, excelencia! ¡Mande el telegrama a Avénov!
 —¡Toma, para ti! —exclamó el general con desprecio, haciendo la higa ante sus mismas narices—. ¡Ya no necesito tu apellido de caballo! ¡Toma, para ti!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -55,6 +55,3 @@ Miriam le había escrito al cabo de esos cinco años, pidiéndole que volviera a
 Las manecillas del reloj señalaron las dos y media. El periodista tragó el último sorbo de su copa y siguió dibujando cruces en el mantel con mano serena. Su invitado deseaba decir: «No olvide invitarme a su boda», pero se lo pensó mejor. El periodista levantó sus párpados trémulos y volvió los ojos, inquieto, a la sombra que tenía delante y dijo: «Supongo que usted cree que yo no sé...».
 Su invitado se movió hacia el borde de la silla y observó a la orquesta que ya estaba recogiendo sus instrumentos. El café estaba casi vacío. El periodista hizo una pausa, no en busca de una respuesta, sino para dar peso a la importante declaración que estaba a punto de hacer.
 —Que no sé qué va a suceder esta vez —dijo—. No se llame a engaño. Esta vez lo sé.— Parecía estar previniéndose a sí mismo ante un espejo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

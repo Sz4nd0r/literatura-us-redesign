@@ -61,6 +61,3 @@ Y cuando la corte confirmó la sentencia del juez de paz, entornó los ojos…
 —Muy bien. Le estoy muy agradecido, excelencia, por su juicio rápido y equitativo. Me hago cargo de que sólo con el sueldo no se puede vivir, lo comprendo perfectamente; pero, perdóneme, ya encontraré un tribunal íntegro.
 No voy a referir todo lo que Grádusov le dijo a sus señorías… En la actualidad está procesado por “desacato al tribunal” y cuando sus conocidos tratan de explicarle que la culpa es suya, se niega a escucharlos… Está convencido de su inocencia y cree que, tarde o temprano, le darán las gracias por haber revelado esos abusos.
 —¡No hay nada que hacer con ese imbécil! —dice el arcipreste, haciendo un gesto de desesperación con la mano—. ¡No se entera!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -43,6 +43,3 @@ Noche de puercoespines. En cada espina, una gota luminosa de la máscara que Amb
 Los sacerdotes del eclipse, decían:
 ¡El que agrega criaturas de artificio a la creación, debe saber que esas criaturas se rebelan, lo sepultan y ellas quedan!
 Por la ciudad de los caballeros de piedra pasa el entierro de Ambiastro. No se sabe si ríe o si llora, la máscara de cristal de roca que le oculta la cara. Lo llevan sobre tablas de nogal fragante, los gigantes, los ídolos y los héroes de piedra nacidos de sus manos, hieráticos, atormentados, arrogantes, y le sigue un pueblo de figuras de barro amasadas con el llanto de Nana la Lluvia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

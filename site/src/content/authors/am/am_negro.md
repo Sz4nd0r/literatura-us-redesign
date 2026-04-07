@@ -128,6 +128,3 @@ Tomaron el camino de regreso. El pescador seguía aún allá, en el mar, rastrea
 —Harás muy bien —contestó ella, sin sombra de desprecio.
 Pero en el coche, antes de marcharse, de pronto ella le echó los brazos al cuello y lo besó en la boca, larga e intensamente. Entonces, en medio del ardor y la dulzura de ese beso, el primero que recibía, él advirtió algo que no le concernía y que había sido despertado por la voz quejumbrosa y cantarina del negro y por el hocino del pescador. Y sintió, al tiempo, remordimiento y celos.
 (1948)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

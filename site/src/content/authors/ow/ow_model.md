@@ -74,6 +74,3 @@ Hughie se inclinó, asintiendo.
 Y le alargó un sobre lacrado sobre el cual estaban escritas las siguientes palabras: «Regalo de boda ofrecido a Hughie Erskine y a Laura Merton por un viejo mendigo». Dentro de aquel sobre había un cheque por valor de diez mil libras.
 Cuando se celebró la boda, Alan Trevor actuó de padrino, y el barón pronunció un discurso en el banquete nupcial.
 —Millonarios modelos —observó Alan— son ya una cosa rarísima; ¡pero modelos millonarios son más raros aún!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

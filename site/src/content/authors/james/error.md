@@ -302,6 +302,3 @@ De Meyrau descendió por la escalerilla y se sentó en la popa del bote. Mientra
 Una hora más tarde Hortense Bernier salió de la casa, y comenzó a atravesar lentamente el jardín en dirección a la terraza desde la que se divisaba el mar. Las sirvientas, al bajar temprano, la habían encontrado levantada y vestida, o mejor dicho, aparentemente no se había desvestido, ya que llevaba las mismas ropas que la noche anterior.
 —Tiens! —exclamó Josephine al verla—, Madame envejeció diez años ayer, y ha envejecido otros diez durante la noche.
 Cuando Madame Bernier llegó al centro del jardín se detuvo, y permaneció inmóvil unos instantes, en actitud de escucha. A continuación, articuló un terrible grito. Vio cómo de la parte baja de la terraza emergía una figura y se dirigía hacia ella cojeando, con los brazos extendidos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

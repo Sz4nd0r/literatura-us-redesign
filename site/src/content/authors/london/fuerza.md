@@ -523,6 +523,3 @@ Y todos estos acontecimientos llegarán cuando todos los tontos hayan muerto y
 ya no existan más virtuosos que marquen el paso y entonen La Canción de las
 abejas.
 Las abejas no son seres humanos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

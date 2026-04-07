@@ -29,6 +29,3 @@ Después salieron a pasear alrededor del edificio de la Facultad, donde un poco 
 Entraron allí mecánicamente. A pesar de la oscuridad de la sala distinguieron al negro Jess, que estaba sentado en una silla. Jess se levantó con gesto agrio, todo ojos y todo dientes.
 —Estoy esperando a que me paguéis —dijo.
 Un poco más allá, desnudo sobre una gran mesa, yacía el cuerpo de Henry Armstrong, con la cabeza ensangrentada y llena de barro, a consecuencia de los golpes recibidos con una pala.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

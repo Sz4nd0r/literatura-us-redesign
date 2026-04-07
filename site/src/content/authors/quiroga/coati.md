@@ -257,6 +257,3 @@ cachorritos de antes, y, como antes, los coatís salvajes venían noche a
 noche a visitar al coaticito civilizado, y se sentaban a su lado a comer
 pedacitos de huevos duros que él les guardaba, mientras ellos le contaban
 la vida de la selva.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

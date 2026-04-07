@@ -240,6 +240,3 @@ noche, volvía a entrar lentamente en el mar, borrándose su
 gran sombra aparecida como para contar por sí misma la
 historia de los dos humildes amantes que se habían refugiado
 en su costa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

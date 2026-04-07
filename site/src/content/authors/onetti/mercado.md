@@ -22,6 +22,3 @@ Así que en la mañana Helena vistió a las niñas y fueron al mercado.
 La entrada era ancha pero al poco andar se tropezaba con gruesas columnas de mármol veteadas de intensos colores como en la mezquita de Córdoba y que obligaban, al avanzar, a desfilar y hombrearse e intentar caminos tortuosos hasta alcanzar el gran patio de azulejos con una fuente incesante de agua. Junto al techo revoloteaban lentas marmotas aladas y semidormidas. Una de ellas descendió y, sin mirar a Helena, mordisqueó suavemente las cabezas de las niñas y las fue llevando a través de un nuevo bosque de columnas hasta un pequeño altar donde un serafín las recibió sonriente y no necesitó preguntas para saber qué querían.
 Helena aún en la puerta, quién sabe, olvidada, e impedida por columnas que se elevaban, enormes y gruesos cilindros jaspeados, surgiendo a cada paso, ordenándose para obligarla a seguir un sendero viboreante, que se transformó en laberinto imperioso y desembocó, guiándola sin violencia hasta la puerta sin hojas, hasta la acera donde ya la esperaban las niñas con los conocidos pétalos de amapola que garantizan el sueño y su intocable absurdo.
 1982
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

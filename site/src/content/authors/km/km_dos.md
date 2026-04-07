@@ -57,6 +57,3 @@ La señora: ¿El martes? ¿Un bridge el martes? No, querida, no puede ser el mar
 El cobrador: Al paso que van, llegará el miércoles y no habrán salido todavía del autobús.
 La señora: Está bien, basta, buen hombre.
 La amiga: ¡¡...!!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -85,6 +85,3 @@ A poco llegó a la casa de Videla. Apeóse, empujó la verja de hierro del jard�
 —Disculpa, no he podido venir más temprano. ¿Qué pasa?
 Videla no le respondió; tenía las facciones descompuestas; le hizo una seña y fueron hacia una salita interior.
 Al entrar, Camilo no pudo sofocar un grito de terror: al fondo, sobre el canapé, estaba Rita muerta, ensangrentada. Videla lo asió de la solapa y, con dos tiros de revólver, lo desplomó, muerto, en el suelo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

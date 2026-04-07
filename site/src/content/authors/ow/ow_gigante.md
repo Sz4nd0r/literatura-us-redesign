@@ -212,6 +212,3 @@ Paraíso.
 Y cuando los niños llegaron
 esa tarde encontraron al Gigante muerto debajo del árbol.
 Parecía dormir, y estaba entero cubierto de flores blancas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

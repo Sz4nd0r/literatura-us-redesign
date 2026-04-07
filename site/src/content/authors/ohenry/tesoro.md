@@ -139,6 +139,3 @@ Muchas veces me he preguntado de qué le sirve la cultura a quien no sabe usarla
 May Marta Mangum vive conmigo. Tenemos una casa de ocho habitaciones en un bosque de encinas, y un piano con un tocadiscos, y ya cerca de tres mil reses en los corrales.
 Y cuando llego a casa por la noche, mi pipa y mis zapatillas están en sitios donde nadie puede encontrarlas.
 Pero ¿a quién le importa? ¿A quién, a quién?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

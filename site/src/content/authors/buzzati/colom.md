@@ -67,6 +67,3 @@ Stefano la cogió entre los dedos y miró. Era una perla de tamaño desmesurado.
 –Adiós, hombre infeliz –respondió el colombre. Y se sumergió en las aguas negras para siempre.
 Dos meses más tarde, empujado por la resaca, un bote arribó a una áspera escollera. Fue avistado por algunos pescadores que, movidos por la curiosidad, se acercaron. En el bote, todavía sentado, había un blanco esqueleto; y, entre sus dedos descarnados, sujetaba un pequeño guijarro redondo.
 El colombre es un pez de grandes dimensiones, espantoso a la vista, sumamente raro. Dependiendo de los mares y de los pueblos que habitan las orillas, recibe también el nombre de kolomber, kahloubrha, kalonga, kalu-balu, chalung-gra. Curiosamente, los naturalistas desconocen su existencia. Hay quien sostiene que no existe.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

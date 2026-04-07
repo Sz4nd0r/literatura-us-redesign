@@ -42,6 +42,3 @@ John y Mary mueren. John y Mary mueren. John y Mary mueren.
 Eso es todo lo que hay que decir sobre los finales. Los inicios son siempre más divertidos. No obstante, se sabe que los verdaderos conocedores prefieren alargar el espacio entre uno y otro, ya que es lo más difícil de trabajar.
 Eso es básicamente todo lo que se puede decir de las tramas: que al final no son más que una acción tras otra, un qué y un qué y un qué.
 Ahora intenta con Cómo y Por Qué.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

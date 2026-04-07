@@ -157,6 +157,3 @@ Ciertamente tenía una hermosa voz.
 —Adiós –dije yo.
 —¿Dónde van, muchachos? –pregunto el cocinero.
 —En dirección contraria a la tuya –repuso Tom.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

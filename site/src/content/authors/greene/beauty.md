@@ -45,6 +45,3 @@ Admito que me puse de su lado. Cualquier cosa era mejor que el abrazo de un pech
 Al doblar una esquina encontró un rincón oscuro, mucho más adecuado que cualquier otro para morder un intestino porque contenía un montón de basuras. Primero inspeccionó las inmundicias con el hocico, como un auténtico hombre de club, y después se revolcó largamente sobre ellas, con las patas al aire, restregándose la piel café con leche con ese oscuro champú sin soltar los intestinos de la boca, mientras los ojos satinados miraban imperturbables el gran cielo negro del Midi.
 La curiosidad me hizo regresar por el camino de las murallas. Allí, inclinada sobre el balcón, la mujer procuraba distinguir a su perro entre las sombras de la calleja. “¡Belleza!”, la oí llamar cansadamente. “¡Belleza!”. Después, con creciente impaciencia: “¡Belleza! ¡Vuelve a casa! Ya has hecho pipí, Belleza. ¿Dónde estás? ¡Belleza, Belleza!”.
 Hay detalles íntimos que nos impiden sentir compasión. De no haber sido por la horrible cinta anaranjada, sin duda habría sentido alguna piedad por la vieja estéril que clamaba desde el balcón por su irrecuperable Belleza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

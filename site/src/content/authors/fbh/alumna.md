@@ -114,6 +114,3 @@ La señora Hoover salió al vestíbulo a recibirlo; estaba cohibida.
 —¿Esa niña se ha casado?
 —No era una niña, señor Brooks. Nos engañaron. Mi hermano fue un tonto y los hombres no entienden estas cosas. Cuando vino aquí era una mujer adulta, según las costumbres y la edad de esos pueblos. Y eso era lo que me preocupaba.
 Hubo una semana de agitación en Chestnut Ridge, pero, aunque los niños lamentaron haber perdido a Concha, el maestro se alegró de que no llegaran a entender por qué se había ido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -192,6 +192,3 @@ Dos inmensas congojas...
 Lo último que cerró fueren las inmensas congojas de sus ojos que divisaban cada vez más lejos, la orilla del pequeño lago llamado desde entonces el “Espejo de Lida Sal”.
 Cuando llueve con luna, flota su cadáver. Lo han visto las rocas. Lo han visto los sauces que lloran hojas y reflejos. Los venados, los conejos lo han visto. Se telegrafían la noticia, con la palpitación de sus corazoncitos de tierra, los topos, antes de volver a sus oscuridades.
 Redes de lluvia de plata parpadeante sacan su imagen del espejo desazogado y la pasean vestida de “Perfectante” por la superficie del agua que la sueña luminosa y ausente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

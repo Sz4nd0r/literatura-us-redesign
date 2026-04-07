@@ -145,6 +145,3 @@ Cuando llegó Zamora, le preguntó:
 Cuando mi madre le explicó el episodio de los cincuenta pesos, Zamora dijo:
 —¡Qué infamia! ¡Cómo hay gente sinvergüenza!
 Pero a los ocho días, mandó al hijo “atropellado” a pedir cincuenta pesos “a cuenta de trabajos futuros”. Se los mandamos y después se cambió de casa sin dejar rastro y no hemos vuelto a verlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

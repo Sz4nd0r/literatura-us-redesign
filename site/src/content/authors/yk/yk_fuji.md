@@ -277,6 +277,3 @@ Jiro comprendió que Utako estaba sintiendo la despedida.
 La intensidad de las palabras de Utako nubló el entrecejo de Jiro.
 —¡De verdad que sí! —le aseguró Utako y tomó las manos de Jiro entre sus dos palmas.
 Jiro siguió mirando la primera nieve del monte Fuji.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

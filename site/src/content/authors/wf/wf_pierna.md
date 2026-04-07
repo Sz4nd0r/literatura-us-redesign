@@ -200,6 +200,3 @@ logaritmos, o bien Arthur Napier, profesor de Literatura inglesa en Oxford duran
 popular durante la guerra, que se prestaba a toda clase de variantes subidas de tono.
 «God Save the King» es el himno de Inglaterra. Christ Church es indistintamente el
 college del mismo nombre, el más grande de Oxford, o la catedral de la ciudad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

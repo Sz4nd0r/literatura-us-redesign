@@ -572,6 +572,3 @@ Lo aparté y eché a andar hacia la salida. Oí su enfurecida respiración a mi 
 —¡No te pasará nada! —dije, desde la puerta.
 Y, pensé, tampoco a Fishbein y Halpern, incluso en el Pacífico, si Grossbart veía algún provecho para sí mismo en la obsequiosidad del uno y la suave espiritualidad del otro.
 Me quedé junto al edificio de oficinas y oí a Grossbart llorando a mi espalda. Por las ventanas de los cuarteles, a la luz eléctrica, se veía a los reclutas en camiseta, sentados en sus catres, comentando las órdenes, como llevaban dos días haciendo. Con una especie de nerviosismo tranquilo, limpiaban las botas, pulían las hebillas del cinturón, plegaban la ropa interior, haciendo lo posible por aceptar su hado. A mi espalda, Grossbart tragó saliva, aceptando el suyo. Y yo, a continuación, poniendo toda mi fuerza de voluntad en no darme la vuelta y pedir perdón por mi venganza, hube de aceptar el mío.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

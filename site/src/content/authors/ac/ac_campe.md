@@ -280,6 +280,3 @@ El sol estaba alto y empezó a hacer calor. Zhúkovo quedó lejos, atrás. Era a
 Al mediodía, Olga y Sasha llegaron a una gran aldea. Allí, en una ancha calle, se encontraron con el cocinero del general Zhúkov. El viejecito tenía calor y su calva roja y sudorosa brillaba al sol. No se reconocieron al momento, después se cruzaron sus miradas, se acordaron el uno del otro y siguieron sin decir palabra cada uno su camino. Olga y la niña se detuvieron junto a la isba que les pareció más rica y nueva. La madre se inclinó ante las ventanas abiertas y entonó en voz alta, aguda y cantarina:
 —… Cristianos, gente de Dios, dennos una limosna por Cristo… Por caridad de Dios, que descansen en paz vuestros difuntos, que en gloria estén…
 —Cristianos, gente de Dios —entonó Sasha tras su madre—. Dennos una limosna por Cristo nuestro Señor. Por caridad de Dios. Que en gloria estén…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

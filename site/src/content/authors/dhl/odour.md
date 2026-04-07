@@ -254,6 +254,3 @@ Elizabeth dio media vuelta sin contestar, aunque se esforzó por llorar y compor
 —Está oreada —dijo, cogiendo la camisa de algodón por aquí y por allí para ver si estaba oreada. Casi sintió vergüenza al sujetarle; qué derecho tenía ella o cualquiera a ponerle las manos encima; pero el tacto de ella era un tacto humilde sobre su cuerpo. Fue difícil vestirle. Estaba tan pesado e inerte. Un miedo terrible la inundó durante todo el rato: que él pudiera estar tan pesado y tan inerte, insensible, distante… El horror de la distancia entre ellos era demasiado para ella. ¡Era un abismo tan infinito por el que debía mirar…!
 Por fin todo se acabó. Le cubrieron con una sábana y le dejaron tumbado, con el rostro amortajado. Cerró con llave la puerta del saloncito por miedo a que los niños le vieran allí tumbado.
 Entonces, sintiendo paz en lo más profundo de su corazón, salió a ordenar la cocina. Sabía que se sometía a la vida, que era su dueña inmediata. Pero de la muerte, su último amo, se apartaba con miedo y vergüenza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

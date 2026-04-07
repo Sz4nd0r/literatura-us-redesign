@@ -136,6 +136,3 @@ Joan se terminó el whisky y miró el reloj.
 —Creo que será mejor que aparezca por el despacho —dijo—. Te veré más tarde. Volveré esta noche. Ya verás cómo te sientes mejor para entonces, cariño.
 Cerró la puerta tras de sí, y él oyó sus pasos ligeros descendiendo la escalera.
 Jack vació la botella de whisky en el fregadero. Empezó a vestirse. Metió la ropa sucia en una bolsa. La enfermedad y el miedo lo hacían temblar y llorar. Veía el cielo azul a través de la ventana, y con el miedo le parecía milagroso que el cielo fuese azul, que las nubes blancas le recordaran la nieve, que desde la acera pudiese oír las agudas voces de los niños gritando: «Soy el rey de la montaña, soy el rey de la montaña, soy el rey de la montaña.» Vació en el retrete el cenicero que contenía recortes de uñas y colillas de cigarrillos, y barrió el suelo con una camisa para que, cuando aquella lujuriosa e inquisitiva forma de la muerte acudiera a buscarlo por la noche, no quedaran rastros ni de su vida ni de su cuerpo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

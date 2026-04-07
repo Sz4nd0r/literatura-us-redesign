@@ -113,6 +113,3 @@ Fe 34 cha Ms ñoa
 Febrero 349
 No, ya no tengo fuerzas para soportarlo. Dios mío, ¿qué hacen conmigo? ¡Me echan agua fría por la cabeza! No me escuchan, no me ven, no me oyen. ¿Qué les he hecho? ¿Por qué me atormentan? ¿Qué quieren de este pobre? ¿Qué puedo darles yo? Si no tengo nada. No me quedan fuerzas, no puedo soportar todos sus tormentos, me arde la cabeza y todo me da vueltas ante los ojos. ¡Salvadme! ¡Sacadme de aquí! ¡Dadme unos caballos rápidos como el viento! ¡Al pescante, cochero mío, cascabelead campanillas, volad, caballos, sacadme de este mundo! Más lejos, más, hasta que no se vea nada, nada. El cielo cabecea ante mí; una estrellita brilla a lo lejos; pasan los bosques con sus negros árboles oscuros y la luna; una bruma gris se extiende a mis pies; suena una cuerda en la niebla. A un lado está el mar, al otro, Italia. Ya se divisan las casas rusas. La que azulea a lo lejos ¿será la mía? ¿Quién está a la ventana? ¿Será mi madre? ¡Madre de mi alma, salva a tu pobre hijo! ¡Derrama una lágrima sobre su pobre cabeza! ¡Mira cómo le torturan! ¡Aprieta contra tu pecho a este pobre huérfano que no tiene sitio en el mundo, que es perseguido! ¡Madrecita, ten compasión de tu niño enfermo…!
 Pero ¿sabían ustedes que al bey de Argel le salió un lobanillo debajo de la nariz?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

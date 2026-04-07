@@ -102,6 +102,3 @@ El beso de mamacita en la mejilla de Violeta fue algo frío.
 Superada o no aquella impresión, nunca más se volvió a pronunciar una palabra sobre el tema. Violeta y su familia pasaron el verano en el campo. Ella se negaba a leer la poesía de Carlos, aunque mamacita la alentaba a hacerlo. Ni siquiera escuchó la lectura de sus cartas de París. Reñía en términos más igualitarios con su hermana Blanca, sintiendo que ya no era tan grande la diferencia de experiencia que las separaba. A veces la dominaba una dolorosa desdicha, porque no lograba responder a los interrogantes que anidaban en su mente. A veces se divertía haciendo feas caricaturas de Carlos.
 A principios del otoño regresó a la escuela, llorando y quejándose a su madre de que odiaba el convento. Allí no había, declaró mientras observaba cómo cerraban sus arcones, nada que aprender.
 1923
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

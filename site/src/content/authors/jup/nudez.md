@@ -63,6 +63,3 @@ Richard ha estado tumbado en la cama, medio desvestido, único miembro del públ
 Se pone en pie de un salto y termina de desnudarse mientras su sombra gira cerca de su cabeza. Están cerca el uno del otro, tan cerca como en la playa, cuando Joan volvió de ser rechazada por los jóvenes, una chica y dos chicos, con el grueso pene del chico a centímetros de su mano. «Como si fuera idiota». Su marido no estuvo comprensivo. Han vuelto a la playa; Joan lo está recordando. De nuevo, Richard siente que se le está hinchando el corazón en su estuche de grasa. Joan le mira, con ojos azules como el mar de la mañana, y sonríe.
 —No —dice Joan en una negación firme y complacida.
 Richard se siente cautivado, invadido. Esta desnudez es nueva para ellos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

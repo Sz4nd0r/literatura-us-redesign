@@ -1235,6 +1235,3 @@ Dalton. Disertación: Universidad de Nesbraska, 1992.
 Zeledon, Marco Tulio. El Acta de Independencia de Centro América a la
 luz del Derecho y la Razón. Costa Rica: Publicaciones del Instituto
 Cultural Costarricense Argentino, 1967.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

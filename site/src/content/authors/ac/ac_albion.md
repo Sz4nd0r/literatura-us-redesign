@@ -57,6 +57,3 @@ Griabov se quitó las botas y los pantalones, se despojó de la ropa interior y 
 Cuando el agua le llegó por las rodillas, estiró su enorme cuerpo, guiñó un ojo y dijo:
 —¡Que se entere, hermano, de que no está en Inglaterra!
 Miss Tfais cambió el cebo con la mayor sangre fría, bostezó y lanzó el sedal. Otsov se dio la vuelta. Griabov desenganchó el anzuelo, se zambulló y salió del agua resoplando. Al cabo de dos minutos estaba de nuevo sentado en la arena, pendiente de su caña.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

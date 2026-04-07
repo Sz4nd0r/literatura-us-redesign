@@ -412,6 +412,3 @@ de mi cambiante amor proclamo la pureza.
 La muerte es sólo piedra del olvido.
 Te amo, beso en tu boca la alegría.
 Traigamos leña. Haremos fuego en la montaña.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

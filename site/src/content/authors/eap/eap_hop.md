@@ -80,6 +80,3 @@ A causa de la alta combustibilidad del lino y la brea, la obra de venganza qued�
 Se supone que Trippetta, instalada en el tejado del salón, fue cómplice de su amigo en su ígnea venganza, y que ambos escaparon juntamente a su país, ya que jamás se los volvió a ver.
 N. del T.:
 [1] Hop, brinco; frog, rana.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

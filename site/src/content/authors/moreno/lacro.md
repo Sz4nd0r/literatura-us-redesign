@@ -69,6 +69,3 @@ Pero no se le pasaba. Veíamos contraérsele la cara, mientras una mano —la mi
 Después nos dijeron que habría que haberle practicado una sangría. No estoy seguro de que sea una opinión seria, pero tampoco ninguno de nosotros habría sabido hacerla. Le dimos coñac francés, haciéndoselo beber a buchitos, y le hicimos decir —como si con eso pudiéramos convencer a la misma enfermedad— que el trago le sentaba muy bien.
 Fue lo último que le hicimos decir, porque las mandíbulas so le ponían cada vez más rígidas, de dolor contenido. Entonces tomamos una servilleta, la rociamos también de coñac y le pusimos una compresa sobre el pecho. El Amiguito tenía los ojos cerrados, pero la mano buscaba la servilleta y la estrujaba como si también quisiera metérsela en el pecho.
 Y esto es lo que desde hoy iba a contarte: ¡lo que es el buen coñac! Es íncreible, pero cuando al rato le sacamos la servilleta, porque el pobre Ricardo ya no la precisaba, y el trapo estaba húmedo, y más que húmedo frío, el coñac no había perdido nada de su bouquet, como si hubiera estado todo el tiempo servido en una copa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

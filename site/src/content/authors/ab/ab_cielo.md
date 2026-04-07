@@ -51,6 +51,3 @@ La cara del hombre había palidecido, pero no mostraba signos de emoción. Despu
 —¿Bien…?
 —Mi padre.
 El sargento se levantó para marcharse. «¡Dios mío!», exclamó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

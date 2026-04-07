@@ -92,6 +92,3 @@ Le he puesto un mote.
 Falso Perpetuo. Anísio intentó reír, pero su corazón estaba pesado y triste.
 ¿Habría sido una ilusión? El otro le había mirado como alterado de súbito, y mientras tanto se acariciaba delicadamente los faldones de la chaqueta. Los dos quedaron mirándose en la penumbra del automóvil. Al darse cuenta de lo que iba a ocurrir, Anísio sintió como una especie de alivio.
 El Falso Perpetuo se sacó del cinturón una enorme pistola negra, apuntó al pecho de Anísio y disparó. Anísio oyó el estruendo y luego un silencio muy largo. Perdón, intentó decir, sintiendo la boca llena de sangre e intentado recordar una oración mientras el rostro huesudo de Cristo a su lado, iluminado por la luz de la calle, se oscurecía rápidamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

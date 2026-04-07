@@ -140,6 +140,3 @@ Pasó largo rato llorando. Al final exhaló un profundo suspiro y se calmó. Al 
 Sin embargo, una vez que la mujer se calmó y su respiración se hizo más regular, rozó su nuca con los dedos… cogió su gruesa trenza con la mano. Ella no se percató… Él entonces se envalentonó y le acarició el cuello.
 —¡Déjame! —gritó ella y le dio un codazo tan violento en el caballete de la nariz que le hizo ver las estrellas.
 El dolor desapareció pronto, pero el suplicio continuó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

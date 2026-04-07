@@ -149,6 +149,3 @@ El hombre gordo y desastrado que estaba con él resopló y movió su cabeza desp
 —Ese H. Ogden —continuó el de la cara colorada—, salió libre, con ayuda de un abogado, por circunstancias eximentes y otras terminalidades legales, según supe más tarde. No sufrió ningún daño. Me hizo favores y me fastidió mucho entregarle.
 —¿Y qué me dices de los billetes que le encontraron en el bolsillo? —preguntó el desastrado.
 —Se los metí yo cuando estaba dormido al ver que llegaba la patrulla —dijo el de la cara colorada—. Black Bill era yo. ¡Mira, Snipy, ahí llega! Lo abordaremos por los parachoques en cuanto pare a cargar agua en el depósito.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

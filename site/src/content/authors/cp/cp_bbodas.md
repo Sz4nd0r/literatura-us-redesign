@@ -232,6 +232,3 @@ reloj—. A las tres y media sale el tren, Cilia, démonos prisa, que la dueña 
 Luego, como no se movía, me acerqué a ella y le levanté el rostro sujetándole las mejillas.
 —Oye —le dije mientras sus ojos se llenaban de lágrimas—, ¿es por lo de anoche? Habría podido mentir, contarte que me había perdido, darte jabón. Si no lo hice es porque no
 me gustan los melindres. Quédate tranquila, he estado siempre solo. Tampoco yo —y la sentí sobresaltarse—, tampoco yo me he divertido demasiado en Génova. Pero no lloro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

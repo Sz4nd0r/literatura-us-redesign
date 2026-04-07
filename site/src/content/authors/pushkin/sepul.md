@@ -58,6 +58,3 @@ El sol llevaba largo rato iluminando la cama sobre la que yacía el sepulturero.
 —¿Es verdad eso? —preguntó el sepulturero, aliviado.
 —¡Pues no se lo estoy diciendo! —contestó la criada.
 —Bueno, si es así, trae el té en seguida y llama a mis hijas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

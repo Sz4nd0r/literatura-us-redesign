@@ -86,6 +86,3 @@ Como si fuese para retratar aquel instante, él mantuvo aún el mismo rostro aus
 Pero de pronto la tensión cayó. Sus hombros se bajaron, los rasgos del rostro cedieron y una gran pesadez lo relajó. Él la observó, envejecido, curioso.
 Ella estaba sentada con su vestido de casa. Él sabía que ella había hecho lo posible para no tornarse luminosa e inalcanzable. Con timidez y respeto, él la miraba. Envejecido, cansado, curioso. Pero no tenía nada que decir. Desde la puerta abierta veía a su mujer que estaba sentada en el sofá, sin apoyar las espaldas, nuevamente alerta y tranquila como en un tren. Que ya partiera.
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

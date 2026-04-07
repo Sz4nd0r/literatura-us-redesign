@@ -67,6 +67,3 @@ entiesado, todavía de pie en sus cuatro patas muertas y dio Fresneda un paso de
 varentierra y dijo:
 —¡Caballo!
 Y el caballo, estremeciéndose, se desmoronó al suelo en una nube de polvo muerto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -49,6 +49,3 @@ Y momentos después, la vieja sirvienta aparecía llevándolo cuidadosamente con
 Y Dollicas, mientras se agachaba para recogerla, pensaba: “La pobre señora ha estado durmiendo. Todavía no está despierta del todo.” Y ciertamente, parecía estar aún medio dormida. Cuando cogió el tejido se le escaparon todos los puntos de una aguja y empezó a deshacer lo que había hecho.
 —No olvide la nuez moscada —dijo. Su voz sonaba delgada y seca. Estaba pensando en el pollo para la cena. Dollicas lo comprendió así, y, mientras bajaba las cortinas antes de volverse a la cocina, repuso:
 —Es un ave muy tierna y muy hermosa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

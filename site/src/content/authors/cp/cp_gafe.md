@@ -120,6 +120,3 @@ Crucé miradas con los otros dos dependientes, quienes me hicieron con las manos
 alrededor y nadie se movía. Entonces crucé toda la sala, levantando la bici sobre el parquet, y bajé al almacén. La luz estaba ya apagada.
 Me quedé a oscuras, indeciso, hasta que ya en el último peldaño oí cómo la voz histérica gritaba:
 —¡Váyase, le digo! Y deje de mirar de ese modo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

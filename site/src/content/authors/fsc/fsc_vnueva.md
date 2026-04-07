@@ -222,6 +222,3 @@ Phil se alegraba de haber quitado de en medio el periódico que insinuaba la ale
 Pasaron un momento delicado, un año más tarde, pocos días antes de su boda, cuando ella dijo:
 —Deberías comprender lo que siento y siempre sentiré por Dick, ¿no crees, Phil? No era sólo por su belleza. Confiaba en él, y en cierto sentido no me equivocaba. Prefirió partirse en dos antes que doblegarse; era un hombre acabado, pefo no un hombre malo. Me lo dijo el corazón la primera vez que lo vi.
 Phil acusó el golpe, pero no dijo nada. Quizá había algo más que ellos no conocían. Era mejor que descansara en las profundidades del corazón de Julia y en las profundidades del océano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

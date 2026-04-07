@@ -109,6 +109,3 @@ María Gavrílovna le miró con sorpresa.
 —No sé nada —contestó Burmín—, no sé cómo se llama la aldea donde me casé; no recuerdo de qué posta salí. En aquel momento le di tan poca importancia a mi criminal travesura que al alejarme de la iglesia me quedé dormido y no me desperté hasta la mañana siguiente, ya en una tercera posta. El criado que me acompañaba murió en la campaña, así que ni siquiera me queda la esperanza de encontrar a la mujer a quien gasté esa broma tan cruel y que ahora se ha vengado tan cruelmente.
 —¡Dios mío, Dios mío! —dijo María Gavrílovna—, ¡entonces era usted! ¿No me reconoce?
 Burmín palideció... y se arrojó a sus pies...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

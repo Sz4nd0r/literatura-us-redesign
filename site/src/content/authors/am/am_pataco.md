@@ -128,6 +128,3 @@ Bueno, temblando de rabia, sudando, jadeante, trastornado, hice a la carrera el 
 —Mira, Ottavio, que no puedo darte el dinero... Si quieres, puedes coger a cambio esta moneda romana.
 Él la tomó con calma, sin mirarme, se la acercó al ojo, la examinó un momento sólo y luego comenzó a reír. Como para sí. Luego se levantó y, riendo siempre y palmeándome en el hombro, dijo:
 —Pataconero, pataconero... ¡Ah, ah, ah!... Has acabado en pataconero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

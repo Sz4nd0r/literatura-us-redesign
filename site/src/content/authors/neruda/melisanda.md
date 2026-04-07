@@ -201,6 +201,3 @@ se rompió en las palabras y se apegó a su vuelo,
 y en sus fugas heroicas lo llevan y lo arrastran,
 abandonado y loco, y olvidado bajo ellas
 como un pájaro muerto, debajo de sus alas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -617,6 +617,3 @@ para la última ronda de cerveza...
 Oh, Dios mío, Dios mío,
 ¿no podrías ser Tú quien pasara la noche con ella?
 U Fleku, Praga, 1966
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

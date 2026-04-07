@@ -278,6 +278,3 @@ compañía.
 —No voy, no —gritó entonces el Pelirrojo—. O yo o la Gina. No he regresado de África para dejarme mandar por la mujer de otro. Si ya no tienes libertad para el vino, ya no eres
 Celestino... Bebe, estúpido... Los negros son más listos que tú.
 Celestino se había marchado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -73,6 +73,3 @@ Pero al llegar aquí, o tal vez incluso antes, fue presa de una sorda irritació
 —¿Cómo un pretexto? Tú me despoetizas.
 —No quiero ocultarte nada. Lo que me pasa es que me siento resbalar y si no me agarro a algo corro el riesgo de acabar en el suelo.
 —¡En el suelo! Venga, querido muchachote, reconócelo. No hay mucho que entender en lo que a veces te pasa por la cabeza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

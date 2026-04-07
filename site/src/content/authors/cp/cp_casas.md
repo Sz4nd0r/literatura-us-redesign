@@ -79,6 +79,3 @@ Y además, no era solo Lina. Ciccotto conocía a muchas mujeres. Llega una edad 
 Pero después Ciccotto se casó. Ni siquiera me lo dijo: lo supe por mi hermana. La estanquera lo estaba volviendo loco, y casarse con ella fue la única manera de entrar en su casa. Él hasta el final nunca me dijo más que era demasiado celosa, que era una guapa mujerona y que si a mí me gustaba.
 —Para tomarle el pelo a una mujer —decía—, no hay que darle la razón.
 Se casó con ella casi a escondidas porque era viuda y le decía siempre que al volverse a casar perdería los clientes. Pero, una vez casada, lo colocó detrás del mostrador. Yo entonces me reí de Ciccotto, como se rieron todos, y acabamos peleados y nos veíamos solo cuando yo pasaba por la plaza. Pero ahora hay días, algún domingo, en que lo envidio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

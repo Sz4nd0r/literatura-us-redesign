@@ -497,6 +497,3 @@ La paz reinaba también en casa de Mauricio, en «El Arca de Noé», donde no se
 Tenía que acostumbrarse a la idea de que era un asesino. Pero, ¿a qué irlo divulgando por todas partes?
 Y todo porque un vulgar granuja, harto de arrastrar su única pierna por todo el mundo, con la policía siempre a la zaga, una noche, en un bar de sabe Dios donde, había oído cantar a un grupo de soldados coloniales la historia de la piragua y del verdadero Jules Chapus, el cual había muerto de muerte natural quince años después del episodio del Umbolé, en un apostadero de Indochina, y adonde le enviara su compañía.
 Y todo, también, porque aquel granuja, por pura casualidad, cogió un día, en Addis-Abeba, «Le Petit Var» y leyó el nombre de Oscar Labro y ello le dio la idea de ir a acabar sus días en paz a la isla de Porquerolles.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

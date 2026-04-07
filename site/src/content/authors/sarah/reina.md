@@ -92,6 +92,3 @@ Nuestra visita de la tarde se hizo breve. Las horas de septiembre lo son para ad
 —¿Por qué no? —respondió Mrs. Todd con calor y una sonrisa deliciosa.
 Más tarde hablaron de una visita prometida que se habría de llevar a cabo durante el verano indio al embarcadero y a Green Island, pero observé que Mrs. Todd le regalaba un pequeño paquete de hierbas secas, con instrucciones completas para una cura de primavera, como si en realidad no fuese posible que se volvieran a ver antes. Cuando desde el recodo del camino miramos hacia atrás, la gemela de la Reina estaba aún de pie en la entrada, viendo cómo nos alejábamos. Mrs. Todd se detuvo y permaneció inmóvil unos momentos, antes de volver a agitar su mano.
 —Una cosa es segura, querida —me dijo con buen criterio—, ¡no la hemos dejado sola!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

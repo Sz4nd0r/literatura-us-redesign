@@ -243,6 +243,3 @@ comedor y entró en su despacho, y por un momento lo cegó el reflejo del últim
 sol de la tarde sobre sus dos mil libros. Estaba bastante cansado. Se echaría
 diez minutos y luego vería si se le ocurría alguna idea en las dos horas que
 faltaban para cenar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

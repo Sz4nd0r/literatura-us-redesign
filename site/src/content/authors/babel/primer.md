@@ -74,6 +74,3 @@ Aunque hubiera podido no habría aguantado porque dejé de sentir vergüenza.
 Así comenzó mi enfermedad. Tenía yo diez años. A la mañana siguiente me llevaron al médico. El pogrom continuaba, pero a nosotros no nos tocaron. El médico, un hombre gordo, me halló una enfermedad nerviosa.
 Dispuso que saliéramos rápidamente a Odesa a que me vieran los profesores y a esperar allí el calor y los baños de mar.
 Así lo hicimos. Días después salí con mi madre para Odesa, donde vivía el abuelo Leivi-Itsjok y el tío Simón. Salimos en barco por la mañana y al mediodía las pardas aguas del Bug fueron desplazadas por la pesada ola verde del mar. Comenzaba para mí una vida al lado del demencial abuelo Leivi-Itsjok y me despedí para siempre de Nikoláyev, donde transcurrieron diez años de mi infancia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

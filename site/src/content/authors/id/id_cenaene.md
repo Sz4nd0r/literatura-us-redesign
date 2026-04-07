@@ -496,6 +496,3 @@ Después de un largo espacio de tiempo, Fanny fue recuperando el sentido de las 
 Las dos hermanas se miraron con visible emoción. Su hermano, su verdadero hermano Morten, el que fue colgado hacía muchos años, había estado con ellas, le habían visto y habían oído de sus labios cosas que ya conocían de su vida, y algunas otras que él les reveló.
 Elisa no separaba sus ojos del cuello blanco de su hermana.
 —Para pensar —dijo—, con el dogal al cuello, un minuto más en La Belle Elisa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

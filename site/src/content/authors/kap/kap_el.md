@@ -480,6 +480,3 @@ Emily; no podía hacer nada más. ¡Cuan doloroso
 que Él hubiera nacido!
 Llegaron al hospital; el vecino condujo muy rápido,
 sin atreverse a voltear.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

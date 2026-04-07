@@ -36,6 +36,3 @@ Uno de estos días espero morirme en La Puerta. El persa y el hombre de Madras e
 Siempre la quiso, creo. Pero lo mismo tomó sus anillos y sus pulseras.
 Yo quisiera morir como la mujer del Bazar, en una estera limpia y fresca, con una pipa del bueno entre los dientes. Cuando sienta que me voy se lo pediré a Tsing Ling y podrá seguir retirando mis sesenta rupias por mes, hasta que se harte. Luego me echaré de espaldas, tranquilo y confortable, y veré a los dragones rojos y negros pelear su última batalla, y después…
 Después, nada me importa mucho a mí; solo quisiera que Tsing Ling no pusiera afrecho en el Humo Negro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

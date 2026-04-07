@@ -135,6 +135,3 @@ Lo que hizo entonces la señora Sayther maravilló a Pierre, porque abrazó a la
 —Sé buena con él —le dijo entre lágrimas—. Trátalo bien.
 Luego descendió el terraplén, gritó: “Adiós”, mirando hacia atrás, y se dejó caer en el centro de la barca. Pierre la siguió y soltó amarras. Colocó en su sitio el remo de dirección y dio la señal. Le Goire atacó una vieja chanson francesa; los hombres, como una hilera de fantasmas a la tenue luz de las estrellas, curvaron las espaldas para tirar de la sirga; el remo de dirección dividió en dos la corriente y la barca se adentró en la noche.
 [1900]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -45,6 +45,3 @@ El médico levantó la cabeza de éste del suelo y observó una herida en la gar
 —Debería haber pensado en esto —dijo, suponiendo que se había suicidado.
 Cuando el hombre murió, el examen detallado reveló las señales inequívocas de unos colmillos de animal profundamente hundidos en la vena yugular.
 Pero allí no había habido animal alguno.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

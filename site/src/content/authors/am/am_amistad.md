@@ -86,6 +86,3 @@ Hablaba con una voz muy tranquila, y yo por primera vez comprendí que me había
 que, si él no llega a bajar la cabeza, lo mata. Luego no sabría decir lo que pasó. Ella, rígida, tranquila y loca, continuaba cogiendo del hornillo objetos pesados y peligrosos, como cuchillos, rodillos, ollas, y tirándoselos encima; él, tras dos o tres intentos de escudarse, cogió la puerta y escapó. También yo escapé, abandonando en el suelo dos o tres metros de plomo, y corrí por las escaleras a tumba abierta, mientras él me gritaba:
 —¡Que no te vuelva a ver, sabes!... ¡Como te eche la vista encima, te mato!
 No me sentí seguro hasta que pasé el puente y me encontré en los jardincillos de la Plaza de la Libertà. Allí me senté en un banco, para recuperar el aliento. Entonces pensé que había sido la amistad la que me había hecho hablar así, precisamente porque sabía que Attilio era de esa manera y me disgustaba, y me juré para mis adentros que desde ese día no sería amigo de nadie.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

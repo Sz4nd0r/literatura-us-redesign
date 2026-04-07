@@ -515,6 +515,3 @@ Me sobresalté: era un dato sutil que no aparecía en la lápida.
 —¡Desde luego que sí! Yo no soy ningún poeta muerto, créame. Soy lo que quedó de él. Una mujer ocupó su lugar, ¿sabe? Una vieja lunática. A mí me lo va a decir…
 Alzó el bastón reluciente y me descargó un golpe en el hombro. Luego se escabulló, temblando y tambaleándose con sus curiosos zapatos, entre los monumentos del Cementerio Protegido.
 En ningún momento me identificó. Si hubiera sido Elia me habría reconocido. Por eso estoy seguro de que me topé con un loco de verdad, por vez primera en más de cuarenta años. La Patrulla de los Museos, a petición mía, ha registrado a fondo el recinto del cementerio, pero hasta donde llega este relato no han descubierto más que la huella de sus tacones puntiagudos. Aun así no dudan de mi palabra, a pesar de mi provecta edad; la demencia senil ha sido erradicada de nuestra sociedad moderna.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

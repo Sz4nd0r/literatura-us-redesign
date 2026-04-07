@@ -36,6 +36,3 @@ En todas partes existe el romanticismo y la aventura. Los escritores de Forum ha
 Viva usted la vida plena de la mente, acuciado por nuevas ideas, intoxicado por el romanticismo de lo inusual.
 Dejó el folleto.
 Y entretanto, tendido en el lecho de una habitación oscura de su casa, en Triana, Manuel García, “Maera”, se ahogaba de neumonía, con un tubo en cada pulmón. Todos los diarios de Andalucía dedicaban suplementos especiales a su muerte, que desde días se esperaba. Hombres y muchachos compraban fotografías a todo color para recordarlo, y perdían el retrato que de él se habían formado en sus recuerdos, al mirar las litografías. Los toreros respiraban aliviados porque él hacía siempre en el ruedo las cosas que ellos sólo podían realizar de vez en cuando. Marchaban bajo la lluvia detrás de su ataúd y ciento cuarenta y siete toreros le siguieron al cementerio, donde fué enterrado al lado de “Joselito”. Después del funeral, todos acudieron a sentarse a los cafés, a cubierto de la lluvia, y los hombres compraban muchas fotografías, en colores, de “Maera”, las arrollaban y se las metían en los bolsillos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

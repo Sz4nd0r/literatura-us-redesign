@@ -222,6 +222,3 @@ más preciso que pueda hallarse. Las palabras serán todo lo precisas
 que necesite un tono más llano, pues así podrán contener algo. Lo
 cual significa que, usadas correctamente, pueden hacer sonar todas las
 notas, manifestar todos los registros.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

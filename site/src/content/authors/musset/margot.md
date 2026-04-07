@@ -235,6 +235,3 @@ Al día siguiente, al dejar la granja, el oficial dio las gracias a sus huésped
 —Y vuestro antiguo amor, Margot, ¿lo recordáis todavía?
 —A fe mía, señor conde —respondió Margot—, que se quedó en el río.
 —Y con licencia os diré, señor —añadió Pedro—, que yo no iría allí a pescarle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

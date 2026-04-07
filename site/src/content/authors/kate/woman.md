@@ -57,6 +57,3 @@ Conversaron sobre la posibilidad de recibirlo de nuevo en el próximo verano. As
 Sin embargo, antes de que terminara el año, ella propuso, por su propia iniciativa, decirle a Gouvernail que los visitara de nuevo. Su esposo se mostró sorprendido y encantado de que la sugerencia viniera de ella.
 —Me alegra saber, que finalmente has logradosobreponerte a tu fastidio hacia él; de verdad que no se lo merece.
 —¡Oh! —le contestó ella sonriendo, después de plantarle un largo y cariñoso beso en los labios—. ¡He logrado sobreponerme a todo! Ya lo verás. Esta vez seré muy amable con él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

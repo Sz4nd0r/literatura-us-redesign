@@ -124,6 +124,3 @@ Se produjo un momentáneo silencio en el castillo. Sólo se percibía el chirrid
 El viejo Ellison se acarició las barbas con mano trémula.
 —Sam —dijo, al cabo—, ¿quieres traer la guitarra y tocar aquello de Vuela, vuela, palomita? Siempre me parece que no hay tonada mejor y más tranquilizadora para quien se siente cansado y abatido.
 Y nada más hay que decir, salvo que el título de esta narración es erróneo, porque debí llamarla “El último barón”. Nunca se extinguirán los trovadores y hasta parece natural que de vez en cuando los sones de sus guitarras apaguen los fragores de los picos y los martillos de todos los trabajadores del mundo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

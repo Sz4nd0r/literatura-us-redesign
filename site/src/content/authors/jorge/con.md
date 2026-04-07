@@ -483,6 +483,3 @@ no sabía que no iba a haber invasión y estaba hablando nomás por
 hablar? ¿O porque sabía que no iba a haber invasión y nos dijo eso
 para que todos los allí presentes, al verlo equivocarse, creyéramos
 que no estaba enterado y que, por consiguiente, no era agente de la CIA?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

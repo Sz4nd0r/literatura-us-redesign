@@ -107,6 +107,3 @@ Sobre la silla de ruedas, esa muchacha contrahecha detiene una mano sobre la per
 Y desde la casa escucho, al mismo tiempo, el resuello tipludo del viejo, cada vez más cerca:
 —¿Dónde estás? ¿No sabes que no debes contestar las llamadas? ¡Regresa! ¡Engendro del demonio! ¿Quieres que te azote otra vez?
 Y el agua de la lluvia me escurre por la frente, por las mejillas, por la boca, y las pequeñas manos asustadas dejan caer sobre las losas húmedas la revista de historietas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

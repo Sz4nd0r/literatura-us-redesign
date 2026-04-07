@@ -57,6 +57,3 @@ Era el canario; estaba en la rama de un árbol. Pueden imaginarse cómo me qued�
 —¿Qué mundo? Tú no pierdes tus malas costumbres de profesor. El mundo —concluyó solemnemente—, es un espacio infinito y azul, con un sol en lo alto.
 Indignado, le respondí que, si tuviese que creerle, el mundo podía ser cualquier cosa; hasta una tienda de baratillos...
 —¿Una tienda de baratillos? —trinó él a pulmón pleno—. ¿Es que acaso existen las tiendas de baratillos?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

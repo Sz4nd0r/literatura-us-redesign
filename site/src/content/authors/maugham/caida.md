@@ -415,6 +415,3 @@ Apenas supo cómo le vino la inspiración, pero repentinamente la estrechó entr
 Le amaba. Apenas si podía creer que fuese verdad. Ella le ofreció sus labios adorables para que los besase y, mientras la tenía en sus brazos, tuvo una visión de la Hunter Motor Traction y Automobile Co. Bateman, creciendo en importancia, hasta ocupar centenares de acres, y de los millones de motores que construiría y de la magnífica colección de pinturas que podría tener, la mejor de Nueva York. Llevaría lentes de concha…
 Y ella, sintiendo la deliciosa presión de sus brazos, suspiró llena de felicidad, porque se imaginó la exquisita casa que tendrían, llena de muebles antiguos; los conciertos que darían, los “thés dansants” y las comidas a las que sólo acudiría la gente más aristocrática. Bateman llevaría unos lentes de concha.
 —¡Pobre Eduardo! —suspiró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

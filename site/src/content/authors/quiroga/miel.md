@@ -211,6 +211,3 @@ Las flores con igual
 carácter abundan en el trópico, y ya el sabor de la miel denuncia en la
 mayoría de los casos su condición; tal el dejo a resina de eucaliptus
 que creyó sentir Benincasa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

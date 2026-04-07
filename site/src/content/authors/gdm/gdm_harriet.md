@@ -188,6 +188,3 @@ Comprendía que creyera en Dios y hubiera esperado en otro mundo la compensació
 Pasaban las horas en aquel estar a solas siniestro y mudo. Una pálida luz anunció el alba; luego un rayo rojo llegó hasta el lecho, imprimiendo una barra de fuego sobre la sábana y las manos de ella. Era la hora que tanto le gustaba. Los pájaros, despertados, cantaban entre los árboles.
 Abrí de par en par la ventana, descorrí las cortinas para que el cielo entero nos viese e, inclinándome sobre el cadáver helado, cogí entre las manos esa cabeza desfigurada y lentamente, sin miedo ni repugnancia, deposité un largo beso en aquellos labios que no habían recibido nunca ninguno…
 Léon Chenal calló. Las mujeres lloraban. Se oía al conde de Étraille, en su asiento, sonarse una y otra vez. Sólo el cochero dormitaba. Y los caballos, al no sentir ya el látigo, habían demorado la marcha y tiraban débilmente. La pequeña diligencia apenas si avanzaba, vuelta pesada de repente, como si estuviese cargada de tristeza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

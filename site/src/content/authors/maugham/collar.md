@@ -98,6 +98,3 @@ A la mañana siguiente, cuando me levanté, empecé a afeitarme como de costumbr
 —¿Quiere tener la bondad de tirarlo por la portilla? Hice lo que me pedía, observándole mientras tanto con una velada sonrisa.
 —A nadie le gusta que lo tomen por tonto — me dijo. —Entonces, ¿las perlas eran legítimas?— le pregunté. —Si yo tuviera una esposa joven y bonita no la dejaría sola en Nueva York mientras yo me encontrara en Kobe— repuso.
 En aquel momento no me era tan antipático míster Kelada. Sacó la cartera del bolsillo y guardó el billete.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

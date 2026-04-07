@@ -187,6 +187,3 @@ Baby recogió el celular, lo abrió por detrás y se lo enseñó a Marina.
 Tiró el aparato sobre la cama y salió riendo fuerte.
 Marina cruzó el puente internacional de regreso a Ciudad Juárez. Tenía cansados los pies y se quitó los zapatos de tacones altos y picudos. El pavimento aún guardaba el temblor frío del día. Pero la sensación de los pies no era la misma que cuando bailó libremente sobre el césped prohibido de la fábrica maquiladora de don Leonardo Barroso.
 —Esta ciudad es el desmadre montado sobre el caos —le dijo Barroso a su nuera Michelina cuando se cruzaron con Marina, ella de regreso a Juárez, ellos a su hotel en El Paso. Michelina rió y le besó la oreja al empresario.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

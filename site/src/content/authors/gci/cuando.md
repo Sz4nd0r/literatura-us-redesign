@@ -127,6 +127,3 @@ Ella recogió la ropa del suelo y corrió desnuda —ahora él vio que no se hab
 Cuando regresó venía vestida con un vestido color azul violeta.
 —¿Y ahora? —preguntó ella.
 —Ahora vamos a seguir estudiando —dijo él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

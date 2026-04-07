@@ -334,6 +334,3 @@ almorzaron aquella mañana. El recuerdo lejano le
 torturaba el corazón.
 Sentóse al pie
 de los árboles, desnudos ya de hojas, y lloró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

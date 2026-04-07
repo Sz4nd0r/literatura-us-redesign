@@ -69,6 +69,3 @@ Y se quedó.
 No hubo manera de arrancarlo de aquel lugar, temía por ella, y sólo después de mucho rogarle me confesó que, para salvar a su mujer, tenía que cambiar de forma, dejar de ser hombre y convertirse en ese hormiguero, de larguísimo hocico y escasa vista.
 —Pero eso es imposible...
 —Lo intentaré cuando esté solo, y de conseguirlo... ¡ah!... de conseguirlo, la del oso: empezaré a lamer la tierra barrosa del hormiguero, hasta abrir un agujero por donde meter la lengua, para que en mi lengua se peguen las hormigas, que son el sueño que ella se comió; entre más, mejor, que cuando sean una nube, enfundaré de nuevo la lengua en mi boca y me las comeré hasta acabar con todas, instante en que mi mujer volverá a ser lo que era y... yo seguiré siendo lo que soy, el misterioso Juan Hormiguero...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

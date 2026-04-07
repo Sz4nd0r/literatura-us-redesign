@@ -199,6 +199,3 @@ La clienta de las once abrió la puerta giratoria y vio a Leota pegándole al ch
 —Ahí, hombrecito —dijo jadeando—. No volverías a sentarte en una semana, si por mí fuera.
 Billy Boy salió pitando, abriéndose paso entre el grupo de señoras despeinadas, pero mientras cruzaba la puerta, se volvió y dijo:
 —¿Por qué no eres rica si eres tan lista?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

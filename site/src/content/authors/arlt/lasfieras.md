@@ -523,6 +523,3 @@ Guillermito el Ladrón barbota una injuria, y una negrura que ni las
 mismas calles más negras tienen en sus profundidades de barro, se nos
 entra a los ojos, mientras tras el espesor de la vidriera que da a la
 calle pasan mujeres honradas del brazo de hombres honrados.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

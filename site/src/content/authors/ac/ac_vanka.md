@@ -182,6 +182,3 @@ Vio en sueños la cálida estufa
 aldeana. Sentado en ella, su abuelo les leía a las cocineras la carta
 de Vanka. El perro Serpiente paseábase en torno de la estufa y
 meneaba el rabo...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

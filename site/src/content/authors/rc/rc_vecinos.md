@@ -105,6 +105,3 @@ Se cogieron de la mano y recorrieron el breve trecho de pasillo. Y cuando Bill h
 Bill tentó el pomo. La puerta estaba cerrada. Luego lo intentó Arlene. El pomo no giraba. Arlene tenía los labios abiertos, y su respiración era pesada, expectante. Bill abrió los brazos y Arlene se fue hacia ellos.
 —No te preocupes —le dijo Bill al oído—. Por el amor de Dios, no te preocupes.
 Se quedaron allí, quietos. Abrazados. Se apoyaron contra la puerta, como en contra de un viento, el uno en brazos del otro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

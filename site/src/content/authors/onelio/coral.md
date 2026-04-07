@@ -178,6 +178,3 @@ Era como si me obligara, pero uno pone los ojos donde le da la gana y yo volví 
 De un salto llevé los ojos de la hoja de mangle a la cara de él. Yo no quería ver nada de este mundo ni del otro. Tenía que matarme si me obligaba, pero súbitamente él se olvidó de mí; me fue soltando el brazo mientras abría cada vez más los ojos, y en tanto yo, sin quererlo, miraba pasar por sus ojos, reflejado desde el fondo, un pequeño caballito rojo como el coral, encendido de las orejas a la cola, y que se perdía dentro de los propios ojos del hombre.
 Hace algún tiempo de todo esto, y ahora de vez en cuando voy al mar a pescar bonito y alguna que otra vez langosta. Lo que no resisto es el pan escaso, ni tampoco me resigno a que no se converse de cosas de cualquier mundo, porque yo no sé si pasó galopando bajo el Eumelia o si lo vi sólo en los ojos de él, creado por la fiebre de su pensamiento que ardía en mi propia frente. El caso es que mientras más vueltas le doy a las ideas, más fija se me hace una sola: aquella de que el hombre siempre tiene dos hambres.
 (1959)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

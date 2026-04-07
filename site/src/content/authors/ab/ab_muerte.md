@@ -40,6 +40,3 @@ Hawver, claramente turbado, abandonó su silla de un salto y se puso a recorrer 
 —Doctor, ¿tiene usted algo que decirme como médico?
 —No, Hawver; es usted el hombre más sano que he visto. Como amigo, le aconsejo que se marche a su habitación. Toca usted el violín como un ángel. Tóquelo pues; toque algo alegre y animado. Aparte este maldito asunto de su mente.
 Al día siguiente Hawver fue encontrado muerto en su dormitorio, con el violín en el cuello, el arco sobre las cuerdas y una partitura con la marcha fúnebre de Chopin ante él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

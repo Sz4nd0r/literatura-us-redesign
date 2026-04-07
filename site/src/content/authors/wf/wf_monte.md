@@ -362,6 +362,3 @@ presentes en el acto.
 [2] Si el lector ha seguido los relatos en el orden en que los dispuso Faulkner, sí ha
 visto pasar a Francis Weddel, como sucede efectivamente en el último de los relatos
 de la tercera parte, «¡He ahí…!».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

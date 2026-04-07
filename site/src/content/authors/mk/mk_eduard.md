@@ -320,6 +320,3 @@ Y
 por eso Eduard anhelaba a Dios, porque sólo Dios está exento de la dispersante obligación de aparecer y puede simplemente ser; porque únicamente él representa (él solo, único e inexistente) la contrapartida esencial de este inesencial (pero por ello tanto más existente) mundo.
 Y así Eduard se sienta de vez en cuando en la iglesia y mira pensativo hacia la cúpula. Despidámonos de él precisamente en uno de esos momentos: es por la tarde, la iglesia está silenciosa y vacía. Eduard está sentado en un banco de madera y le da lástima que Dios no exista. Y precisamente en ese momento su lástima es tan grande que de las profundidades de ella surge de pronto el verdadero, vivificante rostro de Dios. ¡Mírenlo! ¡Sí! ¡Eduard sonríe! Sonríe y su sonrisa es feliz...
 Consérvenlo, por favor, en su memoria con esta sonrisa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

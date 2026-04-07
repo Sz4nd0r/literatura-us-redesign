@@ -831,6 +831,3 @@ Y sonrió extrañamente, con infinita amabilidad. Nunca había dudado de que yo 
 El cuarto me pareció dar vueltas cuando lo dijo y por un momento cayó sobre mis ojos una verdadera oscuridad. Cuando pasó, la señorita Tita seguía allí, pero la transfiguración había terminado y había vuelto a cambiarse en una persona de cierta edad, vulgar y gastada. Con esa personalidad habló al decir:
 —No puedo quedarme más con usted, no puedo.
 Y con esa personalidad me volvió la espalda, como yo había vuelto la mía veinticuatro horas antes, dirigiéndose a la puerta de su cuarto. Allí hizo lo que no había hecho yo al dejarla: se detuvo lo bastante como para lanzarme una mirada. Nunca la he olvidado y a veces sigo sufriendo con ella, aunque no era ofendida. No, no había ofensa, nada duro ni vengativo en la pobre señorita Tita; pues cuando, después, le envié a cambio del retrato de Jeffrey Aspern una suma de dinero mayor de lo que había esperado reunir para ella, escribiéndole que había vendido el retrato, se lo quedó, dándome las gracias; no lo devolvió. Le escribí que había vendido el retrato, pero reconocí ante la señora Prest (la encontré en Londres, ese otoño) que cuelga sobre mi escritorio. Cuando lo miro, mi enojo por la pérdida de las cartas se hace casi intolerable.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

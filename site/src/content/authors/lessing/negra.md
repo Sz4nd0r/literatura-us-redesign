@@ -598,6 +598,3 @@ lentamente. Era desdichado porque Michele se había ido. Nada había herido tant
 al capitán en toda su vida como aquel burlón “sí, señor”. Nada. Se encaró hacia
 la pared y lloró. Pero en silencio. No se le escapó ni un sonido por temor a
 que lo oyeran las enfermeras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

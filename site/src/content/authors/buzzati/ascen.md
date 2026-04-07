@@ -97,6 +97,3 @@ El ascensor se detuvo. Con un silbido, la puerta se abrió. Habíamos llegado a 
 Ester se liberó dando un tirón.
 –¿Va a acabar de una vez? ¡Si no, voy a armar un escándalo que se va a acordar usted toda la vida!
 Una mirada de desprecio. Estaba ya en la calle. Se alejó. Caminaba muy erguida, con sus pasos airosos que eran otros tantos insultos para mí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

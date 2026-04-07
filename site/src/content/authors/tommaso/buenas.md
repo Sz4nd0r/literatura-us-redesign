@@ -33,6 +33,3 @@ Pero al llegar aquí el literato se dijo que el demasiado pretender es contrario
 Bueno, ¿cuándo? ¿Cuándo será el esperado final? ¿Y por qué seguía dándole largas al asunto por aquellas montañas, rumiando sus pensamientos, tragándoselos y volviendo a masticarlos y vacilando en lugar de dirigirse inmediatamente allí donde le esperaba su destino?
 El leñador llamó a la muerte y, una vez llegada, le rogó que lo ayudara a cargar sobre sus espaldas su propio hatillo… Esto es lo único malo y el verdadero inconveniente: uno puede figurarse la muerte próxima y presente cuanto quiera; no por ello la acepta.
 Pero no había la menor duda; un día u otro él vencería esta natural repugnancia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

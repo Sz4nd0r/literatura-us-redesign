@@ -91,6 +91,3 @@ Así, nos marchamos. Pero tan pronto como estuvimos fuera de los estudios, en el
 —Adiós, Renato..., cojo un taxi porque tengo prisa... No te digo que vengas porque vivimos en barrios opuestos.
 Y sin dejarme tiempo de resollar, se alejó, con todas sus borlas, a través de la calle inundada, hacia los taxis.
 No la he vuelto a ver más, porque al día siguiente no fui a la oficina e hice la prueba, y la prueba salió bien, y comencé a trabajar en los estudios, y desde entonces, más o menos, no lo he dejado. Estoy especializado en papelitos secundarios, incluso mudos, de hampón, explotador de mujeres, fullero, ladronzuelo y similares. Lo último que he sabido de ella, por un compañero de la oficina de paquetes a quien encontré en la calle, es que Valentina se ha comprometido con un empleado de la lista de correos, cuatro ventanillas más allá de la suya.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

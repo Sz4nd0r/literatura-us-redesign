@@ -70,6 +70,3 @@ El indio siguió erguido e inmóvil.
 Un disparo de rifle sonó entre los árboles. Al principio parecía que no había dado al indio y el hombre que había hablado apuntó con su arma. Pero al momento la alta figura de Jim se derrumbó y quedó en el suelo como un simple bulto con una manta.
 El hombre que había disparado se acercó con la actitud displicente de los conquistadores. Pero de repente se le echó encima un fantasma horrible, la encarnación de lo salvaje: un ser de ojos refulgentes, colmillos que destellaban y aliento caliente de carnívoro. Ni tiempo tuvo de gritar: “¡Un lobo!”, antes de que las mandíbulas lo apresaran por la garganta y cayeran los dos rodando por el suelo.
 Pero no era un lobo, como lo demostró el segundo disparo, sino el sigiloso perro de Jim; el único de los proscritos que, en aquel momento supremo, recuperó su verdadera naturaleza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

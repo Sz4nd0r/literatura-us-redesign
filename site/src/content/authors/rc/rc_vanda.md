@@ -161,6 +161,3 @@ Nick y Joanne, abrazados, siguieron mirando el incendio, pero mientras Joanne le
 Siguió abrazándola. Ella permaneció en silencio unos momentos y, al cabo, dijo:
 —Pienso en él de vez en cuando, ¿sabes? Al fin y al cabo fue el primer hombre al que quise.
 Él siguió abrazándola. Joanne apoyó la cabeza en su hombro y siguió mirando a la casa en llamas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

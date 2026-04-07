@@ -187,6 +187,3 @@ Mientras la mujer habla me palpo torpemente en busca de los cigarrillos. Me llev
 —Bud Roberts no vive aquí. No está en este número, y me temo que no va a estar nunca. No voy a ver jamás a ese individuo de quien me habla. Así que por favor no vuelva a llamar a este teléfono. No lo haga, ¿de acuerdo? ¿Me oye? Y hágame caso, porque, si no, me veré obligado a retorcerle el pescuezo.
 —Vaya caradura —dice Iris.
 Me tiemblan las manos. Creo que también mi voz traiciona mi estado de ánimo. Pero mientras estoy tratando de dejar las cosas bien claras, Iris se mueve de pronto e inclina un poco el cuerpo, y todo cesa. La línea queda muda, y no oigo nada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

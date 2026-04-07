@@ -196,6 +196,3 @@ El viejo se arrodilló para calzarla con manos torpes. Luego se pusieron de pie 
 Y tomando al viejo de la mano lo hizo caminar fuera de la sombra del sauce, al calor brutal del mediodía del verano. Lo iba guiando, llevándoselo, y le decía:
 —Mamos..., mamos...
 El viejo la siguió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

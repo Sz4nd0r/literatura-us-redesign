@@ -164,6 +164,3 @@ Hizo un gesto como para ponerse los guantes que estaban dentro del sombrero; per
 »Sólo en una cosa —dijo lentamente— soy más sabia que tú. Sé que sería mejor, mucho mejor, y más fácil para ti y para mí, que me creyeses.
 Jakob estaba acostumbrado a hacer un rápido resumen de una situación y tomar las decisiones pertinentes. Esperó un momento, después de haber dejado de hablar ella, para hacerlo ahora.
 —Sí, cariño —dijo—; es verdad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

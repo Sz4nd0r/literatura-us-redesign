@@ -30,6 +30,3 @@ La última, la mujer de negro con la hoz. El cielo estaba cargado de nubes, recu
 Nadie me ha dicho nunca nada, nunca: porque no pueden decirme nada, en aquel momento el valle estaba desierto. Pero cada noche, cuando las colinas se pierden en la oscuridad y no consigo seguir el razonamiento de un viejo libro a la luz de la lámpara, y la ciudad del género humano con sus luces y sus músicas está allá en el fondo, oigo las voces de todos ustedes acusándome.
 Y sin embargo no había allí en el valle nadie que me viera, la mujer ya no regresó a su casa, por eso dicen, pero no es cierto, que en las franjas de hierba que hay más arriba de mi casa está enterrado el cadáver de aquella mujer.
 Y si los perros que pasan se detienen a husmear siempre en el mismo lugar y aúllan y cavan la tierra con las patas, es porque hay una vieja madriguera de topos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

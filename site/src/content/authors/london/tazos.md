@@ -220,6 +220,3 @@ El cónsul Lingford tragó saliva y alzó los brazos, incapaz de hablar.
 —Yo ya he acabado con él, señor Lingford —anunció Duncan—. Y le entrego a usted y a la justicia lo que queda de este hombre.
 —¿Eso? —preguntó el cónsul, horrorizado.
 —Eso —respondió Boyd Duncan, mientras miraba apesadumbrado sus maltratados nudillos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

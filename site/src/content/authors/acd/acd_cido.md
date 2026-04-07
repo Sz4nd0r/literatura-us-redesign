@@ -248,6 +248,3 @@ Sherlock Holmes se sentó a su lado en la litera y le dio unas palmaditas en el 
 —Lo he jurado con el más solemne de los juramentos que puede hacer un hombre.
 —En tal caso, creo probable que el asunto no siga adelante. Pero si volvemos a encontrarle mendigando, todo saldrá a la luz. Tengo conciencia, señor Holmes, de que estamos en deuda con usted por haber aclarado este caso. Me gustaría saber cómo lo ha conseguido.
 —Lo conseguí —respondió mi amigo— sentándome sobre cinco almohadones y fumándome una onza de tabaco. Creo, Watson, que si un coche nos lleva a Baker Street, llegaremos justo a tiempo para el desayuno.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

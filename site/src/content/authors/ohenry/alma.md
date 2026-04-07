@@ -41,6 +41,3 @@ Los dos pasajeros sentados en el asiento contiguo habían oído la mayor parte d
 —Ese sheriff es un tipo estupendo. En el Oeste se encuentran muchos tipos como él.
 —Demasiado joven para un oficio así, ¿no cree? —inquirió el otro pasajero.
 —¿Joven? —exclamó el que había hablado primero—. ¡Oh! Ya veo que no se ha dado usted cuenta. Dígame… ¿cuándo ha visto que un sheriff lleve a un preso esposado a su mano derecha?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

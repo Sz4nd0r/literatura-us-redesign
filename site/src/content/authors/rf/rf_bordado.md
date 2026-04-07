@@ -127,6 +127,3 @@ Dramatizado, rarefacto, recesivo, coyuntura, hermandad: como todo pedante Deníl
 Estoy tranquila y muy feliz.
 Pero yo tenía ganas de esconderme. Para el resto de mi vida.
 Es una historia tonta, lo reconozco. La prosa es también eso, el mejor autor de ficción no pasa de ser un buen ventrílocuo. Mi poesía es diferente, pero de momento no la muestro. Está fláccida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

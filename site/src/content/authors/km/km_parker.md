@@ -333,6 +333,3 @@ Ma Parker
 permaneció inmóvil, mirando a uno y otro lado. El gélido viento le
 hinchó el delantal como si fuese un globo. Y empezó a llover. No,
 aquel sitio no existía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -74,6 +74,3 @@ Se llevó las manos a la cabeza, lamentándose:
 —¡No! ¡Nunca me lo perdonaré! ¡Jamás! ¡Apártate de mí, asquerosa! —gritó, echándose atrás y estirando con repugnancia sus brazos temblorosos para separarse de Pasha— Ella quería arrodillarse… ¿Ante quién? ¡Ante ti! ¡Dios mío!
 Se vistió deprisa y apartándose de malas maneras de Pasha, se dirigió a la puerta y se fue.
 Pasha se echó en la cama y rompió a llorar vivamente. Sentía haber perdido sus cosas, que había entregado en un arrebato. Se sentía humillada. Recordó que tres años antes un comerciante le había golpeado sin motivo alguno y lloró aún más vivamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

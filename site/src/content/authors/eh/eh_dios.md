@@ -94,6 +94,3 @@ Eso había sido a eso de las cinco del día anterior.
 —Puede que no para ti -dijo el doctor Wilcox.
 —¿Le ha oído, Horace? —dijo Doc Fisher—. ¿Le ha oído? Tras haber descubierto mi punto vulnerable, mi tendón de Aquiles, por así decir, el doctor quiere aprovecharse.
 —Eres demasiado listo —dijo el doctor Wilcox.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

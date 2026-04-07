@@ -76,6 +76,3 @@ En cuanto ella habló, Gonsukê levantó la vacilante mano izquierda. Con las do
 —Les estoy agradecido a los dos, desde lo más profundo de mi corazón. Ustedes me han hecho un sennin —dijo Gonsukê desde lo alto.
 Se le vio hacer una respetuosa reverencia y luego comenzó a subir cada vez más alto, dando suaves pasos en el cielo azul, hasta transformarse en un puntito y desaparecer entre las nubes.
 ¿Qué pasó con la pareja? Eso nadie lo sabe, solamente el pino del jardín del médico permaneció ahí hasta mucho después. Dicen que el comerciante Yodoya Tatsugoro hizo traer ese gran árbol a su jardín para contemplar el paisaje de nieve del pino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

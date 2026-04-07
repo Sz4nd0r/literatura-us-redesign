@@ -186,6 +186,3 @@ el asta, que se escapaba de sus manos... En ese aire malsano, en ese aire de
 muerte que pesa terriblemente sobre las ciudades rendidas, la bandera no podía
 flotar... Nada de orgulloso, nada de fiero podía vivir ahí... Y el viejo Hormus
 cayó fulminado...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

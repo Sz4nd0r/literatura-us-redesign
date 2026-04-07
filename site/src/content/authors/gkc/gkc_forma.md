@@ -196,6 +196,3 @@ Querido padre Brown: Vicisti Galilee. O en otros términos: tiene usted unos con
 ¿Qué me sucede…? ¿Estoy loco? ¿O será posible que tenga uno remordimientos, como si viviera en los poemas de Byron? No puedo escribir más.
 James Erskine Harris.
 El padre Brown dobló cuidadosamente la carta y se la guardó en el bolsillo del pecho, en el preciso instante en que se oyó un gran repiqueteo en la reja, y se vieron relucir en la calle los impermeables mojados de los guardias.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

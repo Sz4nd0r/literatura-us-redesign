@@ -48,6 +48,3 @@ Con lo cual, aunque envidiándolos, se quedó dormido. O sea, que tenía razón 
 Pero por la mañana aquella especie de examen y de penoso trabajo continuaba, a saber por qué torcedura o deformación de sus resortes interiores. Un sol violento y rojo encendía los pinastros de la playa, las cercanas cimas, blandamente recibido en su seno por el mar que azuleaba y transcoloraba. Y ellos partían en brillantes automóviles, y cada uno tenía una meta precisa, un centro de vida activo, de actividad libremente aceptada, no forzadamente vacía de compensaciones o de nuevos estímulos… ¿Y él?
 ¡Ah, correr allí, colocar en pilas de fichas todo su premio literario en el número diecisiete y esperar de ello (pues en otra parte no había esperanza) una solución cualquiera!
 (Por supuesto, no salió el número diecisiete: salió el número de al lado, el estúpido veinticinco, arisco como un mono. Siempre sale el número de al lado. Siempre parece que o que…; y a la hora de rendir cuentas…)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

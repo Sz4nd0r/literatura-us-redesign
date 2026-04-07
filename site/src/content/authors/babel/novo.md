@@ -34,6 +34,3 @@ Andamos buscando en torno nuestro. Bajo los dedos saltan botones de hueso, se ab
 ¡Oh, sacerdote estúpido, que cuelga los corpiños de sus cocineros en los clavos del Redentor! Detrás de la puerta de entrada encontramos un baúl con monedas de oro, un saco de cordobán con billetes de banco y estuches con anillos de esmeraldas de joyeros parisienses.
 Y en el cuarto del comisario contamos luego el dinero. Había columnas enteras, alfombras de piezas de oro. Y, por otra parte, las sacudidas del viento que soplaba sobre los cirios, la siniestra locura en los ojos de pani… Elisa, la risa atronadora de Romualdo y el aullar incesante de las campanas, desatadas por pan Robatski, el campanero loco.
 —¡Fuera de aquí —me dije—, lejos de los guiños de estas madonas engañadas por los soldados!…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

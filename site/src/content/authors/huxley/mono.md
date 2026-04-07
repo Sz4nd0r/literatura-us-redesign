@@ -229,6 +229,3 @@ Gregory se dejó hacer. ¡Qué remedio le quedaba!
 Al subir al vehículo, se las arregló de manera que el cordoncillo del monóculo se enredase en la manija de la portezuela. El cordoncillo estalló, y el cristal fue a caer sobre el suelo del coche.
 Spiller lo recogió y se lo entregó.
 —Gracias —dijo Gregory, guardándolo en el bolsillo, y poniéndolo así ya en la imposibilidad de hacer daño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

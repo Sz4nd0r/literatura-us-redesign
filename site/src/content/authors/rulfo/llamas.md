@@ -559,6 +559,3 @@ el Pichón —volvió a decir la mujer, aquella que ahora es mi
 mujer—. Pero él no es ningún bandido ni ningún asesino. Él es gente
 buena.
 Yo agaché la cabeza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

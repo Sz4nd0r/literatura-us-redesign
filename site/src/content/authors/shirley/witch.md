@@ -81,6 +81,3 @@ El chiquillo se apresuró a saltar del asiento y seguir a su madre. Ella sacó e
 —Gracias —respondió el niño—. ¿Es verdad que ese señor hizo pedacitos a su hermanita?
 —Hablaba en broma —le aseguró la mujer, y se apresuró a repetir—: Sí, sólo estaba bromeando.
 —Probablemente —murmuró el pequeño. Con la paleta en la mano, regresó a su asiento y se acomodó para seguir mirando por la ventana—. Probablemente, él era la bruja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

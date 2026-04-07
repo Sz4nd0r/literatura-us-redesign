@@ -132,6 +132,3 @@ En el porche, junto al cochero se hallaba el conocido guardia Iliá Loshadin, si
 —¿Qué haces aquí pasmado, viejo del demonio? Largo de aquí.
 —Excelencia, la gente está intranquila… —empezó a hablar Loshadin, con una sonrisa ingenua que se le extendía por toda la cara, al parecer satisfecho de ver a quienes había esperado durante tanto tiempo—. La gente anda muy intranquila, los críos lloran… Nos pensamos, excelencia, que se habían vuelto a la ciudad. Dígnense por el Altísimo, buenos señores…
 El doctor y el inspector no dijeron nada, subieron al trineo y se dirigieron a Syrnia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

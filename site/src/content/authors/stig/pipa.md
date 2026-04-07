@@ -48,6 +48,3 @@ Grito desesperado a mi especulador:
 —¡Pero, oiga, mi hijo fuma en pipa, mi hijo fuma en pipa de espuma de mar!
 Entonces se planta en medio de la habitación con las piernas abiertas y echa raíces en la casa, me parece ver cómo brotan de sus suelas compactas e inamovibles raíces de roble, crecen a través del piso, a través del techo, a través de la habitación bajo el techo, a través de la planta baja y siguen hasta la roca bajo la casa.
 —¿Y qué importa eso? —dice, y sonríe incómodo ante mi estallido—, ¿qué importancia tiene? No le quepa duda de que tiene que contarme más del asunto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

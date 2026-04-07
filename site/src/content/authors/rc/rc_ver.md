@@ -176,6 +176,3 @@ Me saludó con la cabeza y se dirigió a la casa con la caja de solomillos. Le d
 —Resulta que esta noche se ha quemado el motor del generador y el congelador se ha apagado y se le ha estropeado la carne.
 —¿Ah, sí? Qué lástima. Lo siento por ellos. Les has devuelto las llaves, ¿verdad? Nos hemos despedido de todos. Creo que ya nos podemos ir.
 —Sí —dije—. Podemos irnos ya.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

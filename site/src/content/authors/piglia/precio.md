@@ -176,6 +176,3 @@ Adela lo mira acomodarse, con una mano, el ala del sombrero y caminar despacio h
 Ella mira la puerta que se cierra y sigue quieta, las manos flojas. Del otro lado de la ventana ya es noche cerrada: las luces de la ciudad arden, suaves, en la oscuridad.
 —¿Se fue? —dice la chica.
 —Sí. Se fue —dice Adela—. Pero va a volver. Mañana va a volver.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

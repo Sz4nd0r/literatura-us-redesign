@@ -111,6 +111,3 @@ Legate se detuvo un instante en la entrada. No miró hacia atrás.
 —Sólo un ciervo, tío Ike —dijo con impaciencia—. Nada extraordinario.
 Y se fue; el faldón cayó a su espalda, y volvió a expulsar de la tienda la débil luz, la incesante y doliente lluvia. McCaslin se tendió de nuevo sobre el catre.
 —Era una gama —dijo al espacio vacío de la tienda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

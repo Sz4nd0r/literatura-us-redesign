@@ -209,6 +209,3 @@ Anti-cristiano, anti-cultural...
 Ya podian de nuevo, civilizadamente,
 construir cadalzos, restallar látigos, condecorar verdugos.
 Había que reírse, no era para menos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -135,6 +135,3 @@ Un desagradable escalofrío se extendió desde el lugar donde lo había tocado. 
 —Desde que te llevaste a Marjory —repuso Will—, Dios sabe que no deseaba ver a otro amigo más que a ti.
 Y los dos salieron del patio cogidos del brazo.
 Uno de los criados se despertó en ese momento y oyó el ruido de los cascos de los caballos antes de volver a quedarse dormido; esa noche en el valle se oyó un susurro como el de un viento que descendiera hacia el llano, y cuando el mundo despertó a la mañana siguiente, Will el del molino había emprendido por fin su viaje.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

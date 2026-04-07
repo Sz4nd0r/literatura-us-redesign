@@ -232,6 +232,3 @@ La sostuvo apretada contra sí, con el rostro hundido en el pelo y el pañuelo d
 Las gentes que habían seguido a Anne-Marie a lo largo del día continuaron de pie y agitándose por el campo durante muchas horas, mientras duró la luz del atardecer, y más. Mucho después, mientras unos habían hecho unas parihuelas con ramas de árboles y se habían llevado a la mujer muerta, otros deambulaban de un lado para otro por el rastrojo, imitando y midiendo su curso, de un extremo al otro del campo de centeno, y atando las últimas gavillas donde había terminado su siega.
 El viejo señor estuvo con ellos mucho tiempo, dando pasos y deteniéndose una y otra vez.
 En el sitio donde la mujer había muerto, el viejo señor, más tarde, mandó poner una piedra con una hoz grabada en ella. Los campesinos del lugar llamaron entonces al campo de centeno el «Arca del dolor». Con este nombre se siguió conociendo mucho después de que la historia de la mujer y su hijo se hubiese olvidado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

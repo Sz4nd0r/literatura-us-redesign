@@ -301,6 +301,3 @@ compañeras, pensando que el fin a que tienden nuestros esfuerzos —la
 felicidad de todos— es muy superior a la fatiga de cada uno. A esto los
 hombres llaman ideal, y tienen razón. No hay otra filosofía en la vida
 de un hombre y de una abeja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

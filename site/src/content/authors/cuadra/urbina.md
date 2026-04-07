@@ -1152,6 +1152,3 @@ Managua: Editorial Manolo Morales, 1987.
 WARD, Philip. Diccionario Oxford de la literatura
 espaņola e hispano-americana. Grabriela Zayas (trad.) Barcelona:
 Crítica, 1984. p. 200.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

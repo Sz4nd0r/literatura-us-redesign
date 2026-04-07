@@ -68,6 +68,3 @@ Cuando tomó impulso, no llegué a comprender cómo era posible que el mismo cad
 Añadió:
 —Y, ¿sabe?, estamos envenenados. Este es nuestro último viaje, puede estar completamente seguro de ello. Una fiebre tifoidea, he aquí lo que saldrá de todo esto. Yo ya empiezo a sentir que me viene encima, ahora, ahora mismo. Sí, señor, hemos sido predestinados, tan cierto como que ha nacido usted.
 Una hora después fuimos retirados de la plataforma, helados e insensibles, en la estación siguiente, y yo caí de inmediato en una fiebre virulenta, sin recobrar el conocimiento durante tres semanas. Supe más tarde que pasé aquella terrible noche con una inofensiva caja de fusiles y un montón de queso inocente, pero cuando me lo comunicaron era ya demasiado tarde para salvarme. La imaginación había hecho su trabajo, y mi salud quedó alterada para siempre. Ni las Bermudas ni ninguna otra tierra me la podrá devolver jamás. Este es mi último viaje, y me voy derechito hacia casa, a morir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -98,6 +98,3 @@ Los acoge a todos, siente sus cuerpos, los huesos finos de sus brazos, sus piern
 Sáquenos, dice con airado susurro. Sáquenos tal y como estamos. Le estamos mirando a usted. Sáquenos.
 N. del T.:
 [1] En el texto «Autoharp», literalmente: autoarpa. Es un instrumento musical norteamericano, semejante a la cítara, en el que se puede seleccionar un acorde apretando un registro. El nombre es la marca de fábrica.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -328,6 +328,3 @@ eran una maraña de la que iban desapareciendo
 incluso los menudos ojales blancos y sólo quedaba
 el negro, el negro más total, impenetrable,
 desesperado como un grito.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

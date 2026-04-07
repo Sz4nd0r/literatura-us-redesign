@@ -188,6 +188,3 @@ Estaba ultimando este pequeño análisis del caso cuando de pronto se abrió la 
 —Con frecuencia mi sino es dar malas noticias y, raras veces, buenas —dijo—, así que me alegra mucho hacerlo cuando tengo ocasión. No es lepra.
 —¿Cómo?
 —Un caso muy evidente de pseudolepra o ictiosis, una afección descamativa de la piel, desagradable, terca, pero con posibilidad de ser curada, y, desde luego, en absoluto contagiosa. Sí, señor Holmes, la coincidencia es sorprendente. Pero ¿es una coincidencia? ¿No habrá fuerzas sutiles en juego de las que poco sabemos? ¿Estamos seguros de que la aprensión que, sin duda, sentía este joven desde su exposición al contagio no puede causar un efecto físico que simule lo que teme? En cualquier caso, va en ello mi reputación profesional… Pero ¡si se ha desmayado la señora! Creo que el señor Kent haría mejor en estar con ella hasta que se recupere de esta feliz conmoción.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

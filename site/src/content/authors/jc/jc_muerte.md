@@ -51,6 +51,3 @@ Volví del cementerio a mi oficina. El anuncio descansaba sobre mi escritorio y 
 Estaba muy cansado. Coloqué otra hoja en la máquina y escribí: «El Señor es mi Pastor; nada me faltará. En lugares de verdes pastos me hará yacer; junto a aguas de reposo me pastoreará; confortará mi alma; me guiará por sendas de justicia en amor de su Nombre. Aunque ande yo por valle de sombra de muerte, no temeré mal alguno: porque Tú estarás conmigo; tu vara y tu cayado me infunden aliento. Aderezas tu mesa delante de mí, en presencia de mis enemigos; ungiste mi cabeza con aceite; mi copa está rebosando. Ciertamente que el amor y la misericordia me acompañarán todos los días de mi vida, y en la Casa del Señor moraré largos días
 [pertenece al número 23 de los Salmos y se transcribe la traducción de Casiodoro de Reina, revisada por Cipriano de Valera.] .»
 Entregué el texto a Ralphie y me marché a casa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

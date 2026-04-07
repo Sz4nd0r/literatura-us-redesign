@@ -361,6 +361,3 @@ La literatura, pues. La literatura antes y después, si es necesario. Lo cual no
 La única solución: saber y no saber. Literatura y no literatura, utilizando los mismos signos verbales.
 Entre los llamados románticos del siglo pasado, un viaje cristalizaba casi siempre en la producción de un libro. Se viajaba a Roma, Atenas, Jerusalén —y aún más allá— para escribir al respecto.
 Quizá escriba el libro sobre mi viaje a China antes de ir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

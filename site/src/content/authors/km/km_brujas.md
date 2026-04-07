@@ -74,6 +74,3 @@ Saltó por unos raíles y yo salté tras él. Luego corrió por el andén, sorte
 —Y unos pasteles —añadió él.
 —Sí, y quizás una botella de limonada.
 «Hay un diablejo que urde las novelas», iba pensando al subir al vagón. El tren arrancó. El aire que entraba por las ventanillas abiertas traía olor de hojas tiernas. Había clarores repentinos en medio de la obscuridad. Al llegar a Brujas tocaban las campanas, y una luna blanca y misteriosa brillaba sobre la Grand Place.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

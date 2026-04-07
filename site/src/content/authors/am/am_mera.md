@@ -67,6 +67,3 @@ Y ella, con su aire plácido y socarrón que antes me había hecho perder la cab
 Se fue, pero antes de irse me echó una ojeada como para decir:
 —¿Entendido, eh?
 Pensé entonces que, quizás porque era tan sana y fuerte, debía de experimentar un placer especial haciendo el amor con los enfermos. Pero yo, por desgracia, estaba sano; de modo que no podía abrigar ninguna esperanza. Renuncié inmediatamente a aquel trabajo y, sin esperar a que me llamasen, me marché de puntillas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

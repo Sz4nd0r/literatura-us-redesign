@@ -235,6 +235,3 @@ que hacía y deshacía la famosa tela, a la espera del esposo Ulises.
 misma castidad, paciencia y talentos. Rehagan la bolsa, amigas mías, rehagan
 la bolsa hasta que Ulises, cansado de vagar, venga a ocupar entre nosotros el
 lugar que le cabe. Ulises es la sapiencia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

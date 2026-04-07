@@ -74,6 +74,3 @@ Con repentino impulso Van Duyckink tendió la mano a lo que podría, con toda ra
 —Quiero conocerles de cerca —dijo con sinceridad—. Voy a ayudarles en todo lo que pueda. Hemos de ser amigos.
 Cuando el automóvil tornó a ponerse en despaciosa marcha Van Duyckink sentía cierta calidez en el corazón. Se notaba casi dichoso.
 Había estrechado la mano de Ikey Snigglefritz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

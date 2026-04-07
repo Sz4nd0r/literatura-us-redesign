@@ -175,6 +175,3 @@ Nunca llegó a ser, si me lo permiten, un hombre del todo moderno. Pero un día,
 —Es la mano de una hermosa criatura a la que yo, en otros tiempos, admiré mucho —dijo.
 —¿Una romana? —inquirió el visitante con una maliciosa sonrisa.
 —No, una griega —respondió el conde, frunciendo el ceño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

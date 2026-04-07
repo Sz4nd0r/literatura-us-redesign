@@ -54,6 +54,3 @@ Pero él la había contemplado desde la ventana, la había visto andar deprisa, 
 La última luz de la tarde estaba pesada y se abatía con gravedad sobre los objetos. Las arenas estallaban secas. El día entero había estado bajo esa amenaza de irradiación. Que en ese momento, aunque sin reventar, se ensordecía cada vez más y zumbaba en el ascensor ininterrumpido del edificio. Cuando Catarina volviera, cenarían apartando las mariposas. El niño gritaría en su primer sueño, Catarina interrumpiría un momento la cena… ¡¿y el ascensor no se detendría ni siquiera por un instante?! No, el ascensor no se detendría ni un instante.
 —Después de la cena iremos al cine —resolvió el hombre. Porque después del cine sería al fin de noche, y este día se quebraría con las olas en las rocas del Arpoador.
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

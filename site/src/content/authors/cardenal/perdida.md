@@ -123,6 +123,3 @@ noviciado.
 Pero para que se sepa por qué yo
 estaba entrando a un monasterio trapense debo retroceder en la historia de
 mi vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

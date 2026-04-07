@@ -88,6 +88,3 @@ Frente a él, el sol mostraba su filo sobre los árboles y se elevaba. La brisa 
 Inhaló profundamente y luego continuó con tono ensoñado:
 —Dentro de poco veré con suficiente claridad como para golpear, para golpear. Pero ahora ella acaba de morir y de momento sólo hay oscuridad.
 Extendió los brazos, los dejó caer sin vida y se quedó inmóvil, con su mirada pétrea fija en el sol. El hombre blanco descendió a su canoa. Los remeros se pusieron ágilmente a ambos lados del bote y vislumbraron por encima del hombro la trabajosa jornada que les esperaba. En la popa, con la cabeza cubierta por un turbante blanco, estaba sentado el sombrío juragan. El hombre blanco iba apoyado con los dos brazos sobre el techo de la popa y, durante un instante, se dio la vuelta para contemplar el dibujo de la estela. Levantó por última vez la vista antes de que el sampán abandonara la laguna. Arsat no se había movido. Allí seguía, en pie y solo, frente al amanecer, mirando más allá de la luz tremenda de un día sin nubes, hacia la oscuridad de un mundo de fantasmas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

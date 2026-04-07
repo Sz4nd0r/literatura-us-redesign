@@ -97,6 +97,3 @@ Sentí que huía y no podía retenerla. Le dije sobre el rostro:
 La voz respondió:
 —En verano.
 La penumbra del río era toda un chapoteo. Agucé el oído un buen rato, por si aún captaba la aérea canción de antes. Después, cuando estuve solo, del todo solo, me levanté bajo el cielo y me marché.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -27,6 +27,3 @@ He aquí la curiosa historia de David William Duck, contada por él mismo. Duck 
 “Le conté lo que me había pasado el día antes. Me escuchó igualmente impávido, sin observar nada. Al final dijo:
 “—Querido amigo, si tú eres Dave Duck, es mi deber informarte de que te enterramos hace dos meses. Salí con una partida de rastreadores y hallé tu cuerpo agujereado por un montón de balas y sin cabellera, incluso con unas cuantas mutilaciones, lamento contártelo, ya que en verdad pareces ser el que dices… Anda, ven conmigo, que te daré ropa para que te vistas y unas cuantas cartas que deberás llevar de vuelta… Debo añadir que el comandante recibió los despachos que se te habían encomendado.
 “El sargento cumplió su promesa. Me dio ropa, y me vestí de inmediato. Y unas cartas, que metí en mis bolsillos.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

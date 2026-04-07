@@ -40,6 +40,3 @@ Esa noche escuché a mis espaldas —no sabía que lo iba a escuchar por siempre
 —… y no nos dejaban jugar con los aros, Max, nos lo prohibían; teníamos que llevarlos en la mano, durante nuestros paseos por los jardines de Bruselas… pero eso ya te lo conté en una carta, en la que te escribía de Bouchot, ¿recuerdas? Pero desde ahora, no más cartas, ya estamos juntos para siempre, los dos en este castillo… Nunca saldremos; nunca dejaremos entrar a nadie… Oh, Max, contesta, las siemprevivas, las que te llevo en las tardes a la cripta de los capuchinos, ¿no saben frescas? Son como las que te ofrendaron cuando llegamos aquí, tú, Tlactocatzine… Nis tiquimopielia inin maxochtzintl…
 Y sobre el escudo leí la inscripción:
 ![CHARLOTTE](/assets/images/cf2.gif)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

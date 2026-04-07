@@ -78,6 +78,3 @@ Guido sonrió desdeñoso. Una sonrisa que, así de abajo arriba, nunca le había
 No solo desdeñosa, sino que en el relámpago de los ojos había habido algo cruel, maligno. Sabía perfectamente que si le hablaba de eso solo lo obligaría a mentir. Por eso me
 contenté con no tomármelo a la tremenda y decirle que viniese a jugar y ayudarlo a bajar.
 Recuerdo que Guido fue caritativo y no adoptó un aire exultante con su victoria. Pero esto va mucho con el carácter descrito por Alessio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

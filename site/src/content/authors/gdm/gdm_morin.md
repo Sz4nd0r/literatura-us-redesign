@@ -184,6 +184,3 @@ Y sentí que palidecía.
 Ella parecía perfectamente a sus anchas, y sonreía mientras me miraba.
 Apenas me quedé a solas con el marido, éste me estrechó la mano, apretándomela hasta casi rompérmela:
 —Hace tanto tiempo, querido señor, que deseaba conocerle... Mi mujer me ha hablado mucho de usted. Sé, sé perfectamente en qué dolorosas circunstancias la conoció, sé lo correcto que se mostró usted, lleno de delicadeza, de tacto, de dedicación en ese asunto… —Dudó, luego, en voz más baja, como si dijera una grosería, añadió—: En el asunto de ese cerdo de Morin.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

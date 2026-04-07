@@ -64,6 +64,3 @@ Corrí a buscar a Berthe, y durante todo el tiempo que me estuvo enjabonando, fr
 Y allí estaba la gorrita impermeable transformada. Una blusa a cuadros azules y blancos con cuello de crochet; el breve talle y las anchas caderas de las mujeres alemanas, y en la cabeza un horrible nido de pájaros que en Pfalzburg sin duda llamarían Reisehut.
 —¿Cómo cree usted que puedan comprarse ropas así? ¡Qué espantosas y despreciables criaturas! ¡Vamos! Bastaría con verlas para hacer que una jovencita pensara despacio las cosas.
 Y cuando las dos salieron de la antecámara, la gorrita impermeable se las quedó mirando con su rostro demacrado, todo ojos y boca, como la cara de un niño hambriento frente a la mesa donde no puede sentarse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

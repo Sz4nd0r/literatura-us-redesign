@@ -104,6 +104,3 @@ Mientras estaban esperando sus transportes Aboguin y el médico guardaban en sil
 Cuando algo más tarde el doctor se sentó en la calesa y partió, sus ojos aún mostraban desprecio. Estaba oscuro, más que una hora antes. La media luna roja ya se había ocultado detrás de la luna, y las nubes que la habían aprisionado parecían manchas oscuras detrás de las estrellas. Un carruaje con luces rojas subió por la carretera y adelantó al doctor. Era Aboguin, marchando a protestar, a hacer algo estúpido…
 Durante todo el trayecto el doctor no pensó sobre su mujer ni sobre Andréi, sino sobre Aboguin y la gente que vivía en la casa que acababa de dejar. Sus pensamientos eran injustos e inhumanamente crueles. Condenaba a Aboguin y a su mujer, y a Papchinski, y a todo aquel que viviera en esa rosada penumbra y oliera a perfume, y durante todo el trayecto los odió y los despreció, hasta que su alma comenzó a dolerle. Y en su mente se formó una fuerte convicción sobre estas personas.
 El tiempo pasaría, incluso el dolor de Kirilov pasaría, pero esta convicción, que era injusta e inmerecida para un corazón humano, no pasaría nunca, y permanecería en el alma del médico hasta la tumba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

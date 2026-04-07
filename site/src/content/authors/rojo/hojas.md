@@ -269,6 +269,3 @@ Pero Miyares, todavía examinando la figura del perro, no contestó.
 Durante el camino de regreso, volviéndose a un lado y dirigiendo la linterna a la perrera, Isolina dijo:
 —Seguro que viene más tarde, podemos dejar la puerta del fondo abierta. ¿No crees?
 Miyares, pensativo, tampoco contestó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

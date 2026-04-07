@@ -280,6 +280,3 @@ En ese momento, y sin más preámbulos, mi conocido se sacó una navaja del bols
 «Querido mío, querido mío», le dije, «por mi culpa te has herido. Ocupas una posición muy buena, estás rodeado de amigos y puedes salir a pasearte en pleno día, cuando entre las mesas o en los senderos de las colinas hay mucha gente pulcramente vestida. Piensa que en la primavera iremos al Baumgarten, aunque no, no iremos nosotros, esto ya es por desgracia seguro, sino que irás tú con Annerl, alegremente y trotando. Oh sí, créeme, te lo ruego, y el sol realzará vuestra belleza ante todo el mundo. Oh, suena una música, a lo lejos se oyen los caballos, ¿para qué preocuparse?, hay un griterío y los organillos resuenan en las avenidas.»
 «¡Ay, Dios!», dijo él, se levantó, se apoyó en mí y echamos a andar, «no hay ayuda posible. Todo eso no podría alegrarme. Disculpe. ¿Es muy tarde ya? Quizá debería hacer algo mañana temprano. ¡Ay, Dios!»
 Una farola encendida en lo alto, junto al muro, proyectaba la sombra de los troncos sobre el camino y la nieve blanca, mientras las sombras del intrincado ramaje, torcidas como si estuvieran rotas, caían sobre la ladera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

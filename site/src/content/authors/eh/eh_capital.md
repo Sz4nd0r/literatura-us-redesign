@@ -597,6 +597,3 @@ Tampoco tuvo
 tiempo para desilusionarse por la película de Greta
 Garbo, que defraudó a todo Madrid durante una
 semana.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

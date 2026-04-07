@@ -689,6 +689,3 @@ se cubrió con el manto de la estatua constituyéndose así, a los ojos de
 los indios, en el gran demoledor de la mentira católica, en redentor
 auténtico de la raza oprimida, en verdadero apóstol de aquel que dijo
 'Bienaventurados los humildes, porque ellos poseerán la tierra'.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

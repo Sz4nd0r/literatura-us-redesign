@@ -132,6 +132,3 @@ Pero la señora Panessa, que caminaba tras la caja, había escuchado.
 —De vejez —respondió con voz aguda.
 El trató de decir algo dulce, pero su lengua colgaba en la boca como la fruta muerta de algún árbol y su corazón era una ventana pintada de negro.
 La señora Panessa se mudó, primero a vivir con una hija de rostro imposible y luego con la otra. Y nunca se pagó la deuda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

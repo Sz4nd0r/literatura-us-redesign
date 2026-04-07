@@ -102,6 +102,3 @@ La voz de Mr. Brisher se debilitó hasta convertirse en un susurro, y una vez m�
 —En efecto. Falsas. Hubo un proceso muy largo. Pero le cazaron, aunque él se defendió lo suyo. Probaron que había pasado… ¡oh!… cerca de una docena de medias coronas falsas.
 —¿Y usted no…?
 —¡Ni hablar! A él tampoco le ayudó mucho decir que era un tesoro encontrado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -144,6 +144,3 @@ Concluido todo, la buena señora sacó de su armario un venerable traje de tafet
 La anciana reflexionó profundamente, acabó su tocado sin decir palabra, estrechó la mano de su futura sobrina y subió a la carroza, que a poco se detuvo ante la casa del señor Godeau, en la que penetró la dama con tal arrogancia, que parecía haber rejuvenecido diez años. Atravesó majestuosamente el salón donde Julia dejó caer su ramo de violetas, y cuando se abrió la puerta de la estancia donde esperaba el señor Godeau, dijo con firme voz al lacayo que la precedía:
 —Anunciad a la baronesa viuda de Croisilles.
 Este título fue lo que decidió la felicidad de los dos amantes. El señor Godeau se deslumbró con él. Aunque los quinientos mil francos le parecieron poca cosa, consintió en todo por hacer baronesa a su hija. Y baronesa fue; ¿quién se hubiera atrevido a disputarla el título? Bien ganado lo tenía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

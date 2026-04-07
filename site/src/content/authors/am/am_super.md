@@ -70,6 +70,3 @@ Tuve todo el tiempo disponible para preparar mi respuesta, porque él había est
 sandeces creyendo que soy una idiota que se deja llevar por las narices. Veo, en fin, que esta idiota lo manda al carajo y vuelve otra vez con su marido el cual, por lo menos, no sabe nada de dramas existenciales y sólo le interesa hacer dinero.
 Así fue que salí de su apartamento y regresé a mi casa, a dormir junto a mi mercader de carne humana. Desde esa noche renuncié a ser la protagonista de una película seria. Por su parte, mi marido no ha vuelto a pedirme que regrese al cine.
 (1976)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

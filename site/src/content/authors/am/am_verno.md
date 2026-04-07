@@ -72,6 +72,3 @@ El día del funeral no llovió, por primera vez, y al día siguiente apareció c
 Pensé de pronto que era una verdadera suerte vivir; y por primera vez después de tantos meses volví a disfrutar con el secreto sabor de la vida, compuesto de blando aburrimiento, de esperanza y de disponibilidad.
 La madre de Clara trató de volverme a ver, sin duda para llorar conmigo la muerte de su hija. Pero con el pretexto de que el dolor me impedía semejantes evocaciones conseguí eludirla. Por otra parte, Clara tiene un lugar en mi corazón; ¿cómo no iba a tenerlo? En cuanto al ruido del agua, me he curado de mi obsesión; y ya no hago ningún caso, los días de lluvia, a cualquier voz de una fuente que llegue a mis oídos. Así, viviendo, olvido que he vivido.
 (1940)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -29,6 +29,3 @@ Y entonces despierto, porque la mujer encinta me tienta la cara con los dedos.
 —Panie —me dice—, está usted gritando en sueños y dando vueltas. Voy a hacerle la cama en otro rincón, porque tropieza usted con mi padre.
 Levanta del suelo sus piernas flacas y el vientre redondo, y destapa al hombre que dormía. A mi lado veo a un anciano muerto, boca abajo, con la garganta abierta, el rostro partido y sangre azul en la barba como un pedazo de plomo.
 —Panie —dice la judía, mientras sacude el cobertor de plumas—, los polacos le han martirizado, y él suplicaba: “Matadme en el corral para que mi hija no me vea morir”. Pero hicieron lo que quisieron. En este cuarto murió pensando en mí... Y ahora quisiera yo saber —dijo la mujer alzando horriblemente la voz de pronto—, quisiera saber dónde encontrará usted otro padre como el mío en la tierra...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

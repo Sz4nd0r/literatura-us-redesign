@@ -56,6 +56,3 @@ Fuera de mí grité y penetré en el agua con impulso. Me sacó la mano impotent
 Me desperté en la cama enrollado en mantas. Mi abuelo paseaba por la habitación y silbaba. La gorda Bobka calentaba mis pies en el pecho.
 —Mira cómo tiembla, nuestro tontín —dijo Bobka—, ¿de dónde sacará el niño las fuerzas para temblar así?
 El abuelo se dio un repelón en la barba, silbó y reanudó su paseo. Tras la pared, con dolorosa expiración, roncaba Simón-Volf. Como se pasaba el día peleando, de noche nunca despertaba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

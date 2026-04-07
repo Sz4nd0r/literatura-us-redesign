@@ -291,6 +291,3 @@ Hidalgo. En Vallejo, hay ciertamente mucho de viejo romanticismo y
 decadentismo hasta Trilce, pero el mérito de su poesía se valora
 por los grados en que supera y trasciende esos residuos. Además,
 convendría entenderse previamente sobre el término romanticismo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

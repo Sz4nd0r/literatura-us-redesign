@@ -161,6 +161,3 @@ Recorrió en silencio el vestíbulo, a oscuras, pasando por la puerta del comedo
 —Ay, Señor; ay, Señor.
 Entonces llegó con agilidad a la puerta de la biblioteca y miró la estancia en donde, junto a la ventana oscura, permanecía inmóvil la anciana, indicada sólo por el tenue, único relumbre del cabello blanco, como si a lo largo de noventa años la vida hubiese ido abandonando lentamente su sobria figura, tan erguida, para quedar suspendida en un instante crepuscular por encima de su cabeza antes de apagarse, aun cuando la vida misma se hubiera extinguido. Elnora sólo se asomó un instante y volvió sobre sus pasos, ágiles y callados, a la puerta del comedor. La mujer seguía inclinada hacia el niño, hablándole. No repararon en la presencia de Elnora en un primer momento. Permaneció en la puerta, alta, sin tocar las jambas por ninguno de los lados. Su rostro era inexpresivo; no pareció que mirase a nadie, que hablase con nadie.
 —Mejor será que vengan cuanto antes, digo yo —dijo con esa voz perentoria, blanda a la vez que fría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

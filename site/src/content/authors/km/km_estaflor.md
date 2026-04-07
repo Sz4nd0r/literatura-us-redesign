@@ -48,6 +48,3 @@ Un brandi con soda, un brandi con soda, ¡sí!
 Un brandi con soda, ¡sí!
 El médico también parecía oírlo. Le dio la mano a ella y Roy lo acompañó hasta el pasillo para arreglar los honorarios. Oye cómo la puerta de entrada se cerraba, y luego... pasos rápidos, muy rápidos, por el pasillo. Esta vez sencillamente se precipitó en el cuarto y cayó en sus brazos, y se encontró aplastada y pequeña mientras él la besaba con besos rápidos y cálidos, murmurando entre uno y otro:
 —Mi amor, mi preciosa, mi encanto. Eres mía, estás a salvo —Y después tres suaves gemidos. —¡Oh! ¡Oh! ¡Oh! ¡Qué alivio!—. Siempre con los brazos alrededor de ella, apoyó la cabeza en su hombro como si estuviera exhausto. —Si supieras lo asustado que estaba —murmuró—. Pensé que esta vez estábamos perdidos. De veras que sí. Y hubiese sido tan... fatal... ¡tan fatal!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

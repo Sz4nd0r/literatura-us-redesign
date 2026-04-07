@@ -220,6 +220,3 @@ haciéndole carantoñas a la doncella?
 No olvides que vivimos... una ficción.
 —¡Caramba! —dijo Tommy, cambiando de dirección—.
 Sígame. Iremos por la puerta de servicio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

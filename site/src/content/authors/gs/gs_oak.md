@@ -369,6 +369,3 @@ A veces me visita en sueños. Nunca tiene buen aspecto. A veces lleva una bata s
 «Algunos lo tienen todo y yo no he tenido nada —dice—. ¿Por qué? ¿Por qué ha sido así?».
 Todas las veces le digo que no lo sé.
 Y no lo sé.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -61,6 +61,3 @@ hasta mi última novela, han pasado muchos años. Mi lozanía de entonces ha
 sido barrida por las arrugas, la calvicie y algún que otro diente postizo. Algunas
 cosas, sin embargo, no han envejecido: mi gusto por lo extraordinario y mi
 agradecimiento a tía Gloria, cuyo fantasma entrañable jamás he vuelto a ver.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

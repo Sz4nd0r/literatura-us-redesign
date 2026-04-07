@@ -134,6 +134,3 @@ Fue directamente a su cuarto, casi de puntillas, cerró la puerta y se sentó en
 —¿En qué piensas? —preguntó Patience—. ¿Sigues en la rue de Douai?
 —Sólo pensaba que las cosas podrían haber sido de otro modo —dijo él.
 Era la mayor protesta que se había permitido jamás contra las circunstancias de la vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -641,6 +641,3 @@ crepitantes, con la guadaña en alto, arremetió contra ellos, contra
 los ojos desorbitados y empavorecidos de los caballos y los
 relampagueantes caños de las escopetas, sin un grito, sin una
 palabra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

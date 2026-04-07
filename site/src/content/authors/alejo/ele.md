@@ -30,6 +30,3 @@ Cansado por sus emociones de la mañana, el estudiante entró en una funeraria y
 II
 El estudiante tenía una cita con la Albertina de Marcel Proust, a las 4, detrás de la Magdalena.
 (Fin del manuscrito, en el quinto renglón de la quinta cuartilla.)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

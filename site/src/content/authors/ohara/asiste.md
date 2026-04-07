@@ -157,6 +157,3 @@ Era mala suerte silbar antes del desayuno, pero ya había tomado dos tazas de ca
 El comedor aún estaba oscuro. Ella prendió las luces del cielo raso y se dirigió al barcito móvil. Fue en ese momento cuando lo vio, estaba sentado en una de las sillas de espaldar alto.
 —¿Cómo diablos llegaste hasta aquí? —dijo ella. Pero aún antes de finalizar la pregunta, ella se dio cuenta que nunca habría de recibir una respuesta. Él estaba en una actitud de dormir, la cual era una posición un tanto ridícula. Tenía la boca abierta, y abiertos también estaban sus ojos. El pobre infeliz yacía allí, inerme, con su camisa plisada y sus zapatos orlados con cuero de charol. Todo lo que ella sabía, o pretendía saberlo, era que él había muerto mientras esperaba que ella lo llamase a su dormitorio. Lo peor de todo eran sus ojos vistos a través de las gruesas lunas de sus anteojos.
 Ella se tomó el vodka, su asistente, y se dirigió al dormitorio para telefonear. La persona más lógica para llamar en ese momento era su abogado, y no tenía que buscar su número porque ella lo sabía de memoria.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

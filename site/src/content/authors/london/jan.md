@@ -89,6 +89,3 @@ El horror presente en la voz de Jan los llevó a desistir. La tienda caída se h
 —Pues eso es lo que me pasó. La bala me rozó la base del cráneo y me dejó sin sentido, pero no me hizo daño —dijo y luego se dirigió al hombre atado—. Levanta, Jan. Como no te disculpes te doy la paliza de tu vida. Y vosotros no os metáis.
 —¡Lo dudo mucho! Desátame y ya verás —contestó Jan el Impenitente, aún invicto el demonio que albergaba en su interior—. Y después de arrearte a ti, le voy a dar una buena tunda al resto de estos zoquetes, uno detrás de otro, ¡ya lo veréis!
 [1900]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

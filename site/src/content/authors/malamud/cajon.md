@@ -442,6 +442,3 @@ El escritor recogió su manuscrito apresuradamente, metió los papeles en su car
 Su hijo de nueve años, de regreso de la escuela, preguntó:
 —Papá, ¿qué estás quemando en la pila? Ése no es sitio para encender fuego.
 —Estoy quemando mi integridad —⁠dijo el escritor. Luego añadió⁠—: Mi talento. Mi herencia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

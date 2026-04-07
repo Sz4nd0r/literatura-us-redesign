@@ -262,6 +262,3 @@ comercio y también la exigua estatura de su cuerpo. Rechinando los
 dientes, se lanzó a través de la calle, y en aquel mismo momento un gran
 grito de horror se escapó de los labios de Piter. Un automóvil cargado
 de turistas acababa de arrollar bajo sus ruedas al infeliz mercader.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

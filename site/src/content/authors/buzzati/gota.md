@@ -28,6 +28,3 @@ Tampoco sirve de nada dormir en una habitación interior, alejada de la caja de 
 ¿No será entonces una alegoría? ¿Un símbolo de la muerte, por decirlo de alguna manera? ¿O de un peligro que acecha? ¿O de los años que pasan? Ni por asomo, señores: se trata simplemente de una gota, de una gota, eso sí, que sube por la escalera.
 ¿No será tal vez una representación más sutil de los sueños y las quimeras? ¿De las tierras anheladas y lejanas donde se supone que se encuentra la felicidad? ¿No será algo poético, en suma? No, en absoluto.
 O bien preguntan ¿no se tratará de un lugar más lejano todavía, en el fin del mundo, al que nunca llegaremos? Os digo que no, que hablo en serio, que no hay dobles sentidos. Por lo que se puede colegir, se trata exactamente, ¡ay!, de una gota de agua que de noche sube por la escalera. Tic, tic, misteriosamente, de peldaño en peldaño. Y que por eso tenemos miedo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

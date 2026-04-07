@@ -85,6 +85,3 @@ Ni por esas dejaban de llegarle mensajes de Flo. Como estaba en la estación cen
 Frances Farmer. Rose nunca había oído hablar de ella.
 Así se llamaba la actriz. Y Mavis fue a comprarse un gran sombrero que se ladeaba sobre un ojo y un vestido todo de encaje. Se marchó de fin de semana a la bahía de Georgia, a un balneario. Se registró como Florence Farmer, para que la gente pensara que en realidad era la otra, Frances Farmer, pero que se hacía llamar Florence porque estaba de vacaciones y no quería que la reconocieran. Fumaba con una elegante boquilla de concha y madreperla. “Podrían haberla detenido”, dijo Flo. Menuda desfachatez.
 Rose sintió el impulso de acercarse a la tienda de obsequios, para ver si Mavis aún estaba allí y si podía reconocerla. Pensó qué sensacional sería lograr una transformación como esa. Atreverte a hacerlo, salir airosa y vivir aventuras disparatadas, en tu propia piel pero con un nuevo nombre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -218,6 +218,3 @@ camino y allí sé quedó.
 Y el amo Chicot, al heredar la granja, declaró:
 —Si esa palurda no se hubiese entregado a la
 bebida, hubiera vivido aún diez años más.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

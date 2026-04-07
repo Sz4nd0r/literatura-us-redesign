@@ -38,6 +38,3 @@ La tragedia de los colonos de Starvation Peak, la formación rocosa conocida com
 Me costó un dinero ver todo eso. ¡Te bajas de un avión y piensas que van a devolverte el importe del billete! Sí, te dan uno. Uno. Uno por el precio de dos.
 Un vuelo de cinco horas equivale a tres días con sus noches de viaje en tren, de orilla a orilla.
 Puedes ir marcando con tiza las horas que llevas de viaje en el respaldo del asiento delantero. Pero unas setenta horas no te parecerán tan largas si antes te dices a ti misma: «Voy al lugar en el que pasaré el resto de mis días».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

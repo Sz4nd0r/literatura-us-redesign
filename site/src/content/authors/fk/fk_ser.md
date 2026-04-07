@@ -243,6 +243,3 @@ Y ahora si que, a decir verdad, podría
 haber salido tranquilamente a pasear; pero como me
 sentí tan desolado preferí subir, y me eché a
 dormir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

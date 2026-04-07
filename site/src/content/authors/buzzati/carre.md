@@ -51,6 +51,3 @@ Finalmente, Mortimer habló en la oscuridad:
 —Bien, amigos míos, os habéis sacrificado demasiado por mí. En cuanto amanezca, tomaréis el camino de vuelta. Yo continuaré todavía. Llegaré con retraso, lo sé, pero no quiero que los habitantes de San Piero me hayan esperado en balde. Esa pobre gente ha hecho tantos gastos para festejarme…
 Más tarde, Detui y Attesi contaron que, por la mañana, un viento repentino se llevó todas las brumas de la llanura, pero las casas de San Piero no aparecieron. Sordo a sus súplicas, Mortimer quiso proseguir solo el viaje inaugural hacia el desolado horizonte, por el reseco desierto que parecía no tener fin.
 Lo vieron avanzar a paso lento pero decidido por en medio de las áridas piedras, hasta que se perdió de vista. Dos o tres veces más les pareció sin embargo distinguir un breve centelleo, el producido por el sol al reflejarse en los botones de su uniforme.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

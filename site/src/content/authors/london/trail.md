@@ -124,6 +124,3 @@ Todas las miradas se volvieron acusadoramente hacia Malemute Kid, que dejó el r
 Paseó su mirada por el círculo de semblantes atentos y vio cómo se suavizaban las expresiones de aquellos rostros. Entonces alzó el brazo.
 —Por eso —dijo— propongo un brindis por el hombre que esta noche va por la pista. Que no le falte comida, que no flaqueen las patas de sus perros, que no le falle ninguna cerilla. En fin, que Dios le ayude y...
 —¡Que fracase la policía montada! —exclamó Bettles, mientras todos chocaban las tazas de latón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

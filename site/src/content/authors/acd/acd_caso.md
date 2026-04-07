@@ -162,6 +162,3 @@ Dio dos zancadas hacia el látigo, pero, antes de que pudiera cogerlo, sonó un 
 —Una vez identificado mi hombre, era fácil conseguir colaboración. Sabía para qué empresa trabajaba. Cogí la descripción del periódico, eliminé todos los elementos que pudieran atribuirse a un disfraz —las patillas, las gafas, la voz— y la envié a la empresa, con el ruego de que me comunicaran si alguno de sus viajantes respondía a la descripción. Yo ya había reparado en las peculiaridades de la máquina de escribir, y escribí al individuo en cuestión a la dirección de su oficina, pidiéndole que viniera aquí. Tal como esperaba, su respuesta llegó escrita a máquina y mostraba los mismos triviales pero característicos defectos. En el mismo correo recibí una carta de Westhouse and Marbank, de Fenchurch Street, comunicándome que la descripción coincidía en todos los puntos con su empleado James Windibank. Voilà tout!
 —¿Y la señorita Sutherland?
 —Si se lo cuento, no me creerá. Tal vez usted recuerde el antiguo proverbio persa: «Corre peligro quien le quita su cachorro a un tigre, y también corre peligro quien le arrebata una ilusión a una mujer». Hay tanta sabiduría y tanto conocimiento del mundo en Hafiz como en Horacio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

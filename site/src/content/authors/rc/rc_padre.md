@@ -42,6 +42,3 @@ La abuela se sentó en el borde de la cama y dijo:
 —¡Papá no se parece a nadie! —dijo Alice.
 —Pero tendrá que parecerse a alguien —dijo Phyllis, secándose los ojos con una de las cintas. Y todas salvo la abuela miraron al padre, que seguía sentado en la cocina.
 Se había dado la vuelta en su silla y tenía la cara pálida y sin expresión.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

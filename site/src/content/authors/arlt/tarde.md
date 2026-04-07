@@ -217,6 +217,3 @@ Ella sonrió ambiguamente. Cautelosamente:
 —¿Hemos hecho algo malo acaso?
 —Tiene razón. Hasta pronto.
 Leonilda, sin moverse del sofá, lo miró avanzar, dándole la espalda, hacia la puerta de madera maciza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

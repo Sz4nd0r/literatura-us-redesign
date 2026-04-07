@@ -113,6 +113,3 @@ Le ayudé a ponerse el abrigo; luego lo conduje por el codo.
 —De acuerdo —asentí—. Quizá la próxima vez.
 Nos dimos la mano. Y no lo he vuelto a ver. Camino de Chicago, caí en la cuenta de que había olvidado la bolsa de los regalos en el bar. Mejor. Mary no necesitaba dulces, ni Almond Roca ni nada parecido.
 Esto fue el año pasado. Ahora lo necesita aún menos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

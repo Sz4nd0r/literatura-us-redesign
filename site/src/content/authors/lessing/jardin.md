@@ -46,6 +46,3 @@ De regreso a través de un círculo tras otro, después cruzando el césped que 
 Desde lejos, la paloma exhibe su lustroso pecho mientras los mirlos y los zorzales exploran la tierra.
 Pero la ardilla llega corriendo a la puerta y alza sus patas delanteras, como si pidiera limosna; y entonces se frota en mis piernas, como un gato que reclama atención o comida.
 Vuelves la espalda, doblas la esquina: todo ha desaparecido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

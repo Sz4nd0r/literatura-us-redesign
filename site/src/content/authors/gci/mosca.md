@@ -52,6 +52,3 @@ Pero se posaron más cerca de su cuerpo, frente a su cara. Retrocedió hasta el 
 Al cabo, sudorosa y jadeante, no veía dónde golpeaba, y pegaba aquí y allá, sin mirar siquiera, los ojos llenos de lágrimas y sudor, llorando a grito. Así estuvo un rato. Cuando no pudo más, cayó al suelo, sofocada y extenuada, gimiendo sobre las losetas. Allí el calor se hizo más intenso a cada jadeo de la mujer, hasta que en un vaho caldeado, imposible, rompió una lluvia fuerte y continua, que chocaba con el piso del patio con un ruido hirviente, que crecía.
 El aire fresco y húmedo que venía del patio, la hizo alzar primero al cabeza y después los ojos a la lluvia, y quedó mirándola por un tiempo. Luego se levantó de repente, se despejó de las ropas y corrió hasta el agua que caía. Allí dejó que la lluvia la mojara un buen rato.
 Cuando regresó, desnuda, su cuerpo oscuro y ya viejo chorreando agua del patio donde se ha dejado que le caiga todo el aguacero encontró que una de las moscas se había ahogado en el vaso de leche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

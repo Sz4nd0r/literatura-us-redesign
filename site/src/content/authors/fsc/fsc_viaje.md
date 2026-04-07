@@ -224,6 +224,3 @@ Asentí. Las piezas separadas del rompecabezas empezaban a juntarse.
 Le di las gracias y diez dólares y me fui, pensativo, sin mencionar que una parte de Joe Varland había hecho su último viaje a casa.
 Ellen no vino al Oeste durante la Semana Santa, e incluso si hubiera venido no le hubiera contado nada: la he visto casi a diario este verano y hemos conseguido hablar sobre todo lo demás. Pero a veces Ellen calla sin motivo y entonces quiere estar muy cerca de mí, y sé lo que está pensando.
 Es verdad que ella se presenta en sociedad este otoño, y a mí me quedan dos cursos en New Haven; pero las cosas no parecen tan imposibles como hace pocos meses. Me pertenece de alguna manera: incluso si la perdiera, me pertenecería. ¿Quién sabe? De todas formas, siempre podrá contar conmigo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

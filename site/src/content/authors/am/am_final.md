@@ -495,6 +495,3 @@ lentamente; al fin reaccionó y, cerrando la ventana,
 volvió a sentarse en la butaca, frente a la cama
 vacía e iluminada.
 (1933)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

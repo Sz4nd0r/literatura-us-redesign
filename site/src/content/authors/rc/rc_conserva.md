@@ -109,6 +109,3 @@ El cogió el plato. Pero se quedó allí de pie, mirándolo. Entonces, ella se v
 —Siéntate —repitió a su marido.
 Él se pasó el plato de una mano a la otra. Pero permaneció en pie. Fue entonces cuando ella vio los charquitos de agua sobre la mesa. También lo oyó. Caía agua de la mesa al suelo de linóleo.
 Bajó la cabeza y vio los píes descalzos de su marido. Miró aquellos pies junto a una charco de agua. Sabía que en la vida volvería a ver algo tan raro. Pero no sabía qué hacer. Pensó que lo mejor sería pintarse un poco los labios, coger el abrigo y marcharse a la subasta. Pero no podía apartar la vista de los pies de su marido. Dejó el plato en la mesa y se quedó mirando hasta que los pies salieron de la cocina y volvieron al cuarto de estar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

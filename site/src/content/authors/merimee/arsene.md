@@ -327,6 +327,3 @@ Durante algunos minutos más el sacerdote continuó con sus exhortaciones; luego
 IV
 Y bien, señora, me dice que mi historia ha terminado, y que no quiere oír nada más. Habría creído que estaría curiosa por saber si el señor de Salligny hizo o no su viaje a Grecia; si… pero es tarde, ya tiene suficiente. ¡Felizmente! Al menos guárdese los juicios temerarios, protesto que no he dicho nada que pudiera autorizarla a ellos. Sobre todo, ne dude de que mi historia no sea cierta. ¿Lo duda? Vaya al Père-Lachaise; a veinte pasos a la izquierda de la tumba del general Foy, encontrará una lápida de piedra calcárea muy sencilla, rodeada de flores siempre cuidadas. Sobre la lápida, usted podrá leer el nombre de mi protagonista grabado con grandes caracteres: ARSENIA GUILLOT e, inclinándose sobre esta tumba, observará, si la lluvia no la ha borrado ya, una línea escrita en lápiz, con una escritura muy fina:
 —¡Pobre Arsenia!, ella ruega por nosotros.—
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

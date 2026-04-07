@@ -176,6 +176,3 @@ Y, por supuesto, tenían. Frank introdujo uno en su enorme boca, lo engulló y t
 —Pueden decir lo que quieran, pero la verdad es que juega al bridge horrorosamente mal.
 —Sí, es un desastre —convino Arrow.
 Pero a Beatriz se le ocurrió de pronto que con gusto se comería un merengue.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

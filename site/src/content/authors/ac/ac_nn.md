@@ -53,6 +53,3 @@ El sigue sentado en silencio y no me dice: “No llores”. Entiende que mi llan
 Cuando lo acompaño al recibidor, me parece que se las ingenia para emplear más tiempo del necesario en ponerse la pelliza. Me besa dos veces la mano en silencio y se queda mirando largo rato mi cara arrasada por las lágrimas. Creo que en ese instante se acuerda de la tormenta, de las ráfagas de lluvia, de nuestras risas, de mi rostro de entonces. Querría comunicarme algo, le gustaría poder hablar, pero no dice nada, se limita a sacudir la cabeza y a apretarme con fuerza la mano. ¡Que Dios le ampare!
 Después de conducirlo a la puerta, vuelvo al despacho y me siento de nuevo en la alfombra, ante la chimenea. Las rojas brasas se cubren de ceniza y empiezan a apagarse. La nevasca golpea con redoblada fuerza en la ventana y el viento silba en la chimenea.
 La doncella entra en la habitación y, pensando que estoy dormida, me llama…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

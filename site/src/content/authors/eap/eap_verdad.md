@@ -68,6 +68,3 @@ Instantáneamente reaparecieron los círculos hécticos en las mejillas; la leng
 Perdí por completo la serenidad y, durante un momento, me quedé sin saber qué hacer. Por fin, intenté calmar otra vez al paciente, pero al fracasar, debido a la total suspensión de la voluntad, cambié el procedimiento y luché con todas mis fuerzas para despertarlo. Pronto me di cuenta de que lo lograría, o, por lo menos, así me lo imaginé; y estoy seguro de que todos los asistentes se hallaban preparados para ver despertar al paciente.
 Pero lo que realmente ocurrió fue algo para lo cual ningún ser humano podía estar preparado.
 Mientras ejecutaba rápidamente los pases hipnóticos, entre los clamores de: «¡Muerto! ¡Muerto!», que literalmente explotaban desde la lengua y no desde los labios del sufriente, bruscamente todo su cuerpo, en el espacio de un minuto, o aún menos, se encogió, se deshizo… se pudrió entre mis manos. Sobre el lecho, ante todos los presentes, no quedó más que una masa casi líquida de repugnante, de abominable putrefacción.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

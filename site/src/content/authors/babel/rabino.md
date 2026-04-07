@@ -104,6 +104,3 @@ separé de Guedalye y me marché a casa, a la estación, donde me esperaba el
 frenesí de los centenares de luces de la imprenta, los mágicos fulgores de la
 estación radiotelegráfica, el rodar sin tregua de las máquinas y el artículo
 inconcluso para el periódico El Jinete Rojo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -250,6 +250,3 @@ Todo había acabado en diez minutos. Las mujeres de Huahine, entre risas, se aga
 —De eso nada —respondió Grief—. En una semana la habremos sacado del agua, le pondremos maderas nuevas a crujía, repararemos todos los daños y zarparemos. —Y añadió, dirigiéndose a la reina—: ¿Cómo estás hermana?
 —Naumoo ya no está, ni Motauro, hermano, pero Fuatino vuelve a ser nuestra. Queda mucho día por delante. Avisaremos a mi pueblo que se oculta en las tierras altas con las cabras. Esta noche, otra vez y más que nunca, festejaremos y nos alegraremos en la Casa Grande.
 —Hace años que necesitaba maderas nuevas a popa por el través —comentó el capitán Glass—. Pero los cronómetros no funcionarán el resto de la travesía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

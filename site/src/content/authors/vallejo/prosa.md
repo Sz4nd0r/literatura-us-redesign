@@ -593,6 +593,3 @@ mis huesos concuerdan en género y en número
 y el verbo encarnado habita entre nosotros
 y el verbo encarnado habita, al hundirme en el baño,
 un alto grado de perfección.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

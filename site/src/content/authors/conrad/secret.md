@@ -369,6 +369,3 @@ Caminé hasta la popa. En medio de la cubierta, y a oscuras, la tripulación esp
 —Por fin ha virado.
 Las velas giraron en medio de los gritos de alegría y los bigotes empezaron a dar las órdenes de rigor. El barco ya se dirigía mar adentro y yo estaba solo en su interior. Nada ni nadie podía ya interponerse entre nosotros, ni hacer sombra a nuestro conocimiento y afecto, esa perfecta comunión que ha de entablarse siempre entre un capitán y su primera embarcación.
 Mientras subía de nuevo al alcázar, pude ver de nuevo el límite de la oscuridad recortando aquella enorme masa de oscuridad que parecía la misma entrada del Erebo, y también el fugaz destello de mi sombrero blanco, que quedaba también en la distancia para señalar el punto exacto por el que había pasado aquel con quien había compartido en secreto mi propio camarote y también mis pensamientos, como si se tratara de un segundo yo. Se había arrojado al agua para afrontar su castigo: ese hombre libre, ese nadador orgulloso que ahora se dirigía hacia su nuevo destino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

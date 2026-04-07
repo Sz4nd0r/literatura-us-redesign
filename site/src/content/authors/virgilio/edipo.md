@@ -135,6 +135,3 @@ retiró algunos pasos, tembloroso y jadeante, y mientras el albañil
 completaba su labor, permaneció callado e inmóvil, con la mirada fija en
 la boca del nicho hasta que el último ladrillo la cerró por completo
 para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

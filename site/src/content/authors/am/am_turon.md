@@ -176,6 +176,3 @@ Advierto hasta qué punto todo esto ya se da por descontado y resulta, en consec
 Pero tal vez ese cinturón colgado de un clavo sea una admonición afectuosa. Mi marido clavó ese clavo y colgó de allí el cinturón precisamente para inspirarme estas reflexiones, esta repugnancia. Como si dijera: “Cuidado, éste es el abismo en que estamos cayendo”.
 Quién sabe. Acaso, como yo, él quiere y no quiere. Lo cierto, de cualquier modo, es que él fue quien clavó el clavo, quien colgó el cinturón.
 Mirando el cinturón que tengo sobre las rodillas, entre las manos, vacilo. Después me decido, me levanto, vuelvo a colgarlo del clavo. Miro el reloj. Es casi la una. Él llegará dentro de poco, para almorzar; es tiempo de que prepare algo de comer. Lanzo una última mirada al cinturón que cuelga sobre el cabezal; salgo del dormitorio. El vendrá y durante el almuerzo hablaremos de todo esto. Para eso sirve al menos una complicidad como la nuestra: para hablar de ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -275,6 +275,3 @@ te extrañarán —iba diciéndole—. Te mirarán a la cara y creerán
 que no eres tú. Se les afigurará que te ha comido el coyote cuando te
 vean con esa cara tan llena de boquetes por tanto tiro de gracia como te
 dieron.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

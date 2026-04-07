@@ -78,6 +78,3 @@ Yákov se pasó todo el día tumbado en la cama lleno de congoja. Cuando por la 
 —Dale mi violín a Rothschild —murmuró de forma apenas audible.
 —Muy bien —dijo el sacerdote.
 Ahora todos en la ciudad se preguntan: ¿dónde ha conseguido Rothschild un violín como ése? ¿Lo ha comprado, o lo ha robado, o tal vez alguien se lo ha dejado tras tomar prestado su dinero? Hace tiempo que ha abandonado la flauta y ahora siempre toca el violín. Son las mismas tristes melodías que solían salir de su flauta las que ahora describe el arco, pero cuando trata de reproducir lo que Yákov tocó sentado en la entrada de su casa, surge una canción lúgubre y afligida, y todos los que la escuchan lloran, y él mismo al final de la melodía entorna sus ojos y dice: «¡Ah!». Y esta nueva melodía gusta tanto en la ciudad que los comerciantes y los funcionarios siempre están invitando a Rothschild a sus casas, y pidiéndole que la toque una decena de veces.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

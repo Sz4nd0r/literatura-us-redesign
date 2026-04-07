@@ -153,6 +153,3 @@ He de reconocer que sonó ridículo.
 —En realidad —dice—, nadie te reprochará que dejes de venir. ¿Cuántas veces más tendremos que soportar a alguien soltándonos un refrito de Gregorio de Nisa? La gente es muy obstinada cuando en realidad debería ser libre. ¡Libre!
 Empiezo a hablar, pero descubro que no tengo ninguna necesidad de hacerlo. La sala me resulta más familiar de lo que me gustaría reconocer. ¿Quién fue el hombre cuyo último aliento no le sirvió para volver a casa?
 ¿O soy yo el primero?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -99,6 +99,3 @@ Hay una mancha en la pared, cerca del suelo —¿es sangre? La oscuridad no deja
 «Mami, no tengo miedo. Voy a morir y no tengo miedo.» (Esto está escrito a lápiz, con una letra fea, pero decidida). «HA LLEGADO EL TIEMPO DE LOS ¿No adivinan ustedes la palabra que falta? Algo —y cunde una sospecha temerosa— le impidió terminar. «CuER- ga eR 26». El autor quiso decir «Huelga el día 26». Hizo lo mejor que pudo y nadie sabe cuánto le costó escribir esta frase que al principio parece el discurso de un morón. «¡Viva Cuba Libre!» No queda otro remedio que pensar en un hombre maduro, que no ha querido sumarse a la causa de los jóvenes, pero que por ella ha sufrido prisión, sin duda torturas y acaso la muerte.
 «Que alguien diga a mi mujer Felá, que vive en Pasaje Romay 13, la habitación no recuerdo, que su marido Antonio fue torturado y que murió como un hombre. Antonio Pérez.» Hay un dibujo obsceno y una palabra encima, terrible: «Batista». Otro ha querido describir las torturas y ha hecho un garabato.
 Si hubiera más luz se podrían leer los demás mensajes. Pero los que hay bastan. Ellos son la verdadera literatura revolucionaria.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

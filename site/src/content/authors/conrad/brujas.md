@@ -148,6 +148,3 @@ Cuando Byrne preguntó por las brujas, González señaló silenciosamente con el
 Byrne no siguió preguntando. Aún había otra muerte que González consideraba “un asunto que había que resolver”. Bernardíno el tuerto fue arrimado contra la pared de su taberna y recibió en el pecho la descarga de seis escopetas. Mientras disparaban, el tosco ataúd con el cuerpo de Tom pasaba portado por un grupo de patriotas españoles con pinta de bandidos que lo bajaron desde la barranca hasta la orilla, donde los botes de la corbeta esperaban los restos del que en vida había sido su mejor marinero.
 El señor Byrne, muy pálido y débil, entró en el bote que llevaba el cuerpo de su humilde amigo. Porque se decidió que Tom Corbin debía descansar muy adentro del golfo de Vizcaya. El oficial tomó la caña del timón y, volviendo la cabeza para mirar por última vez a la costa, vio en la pendiente gris de la colina algo que se movía y reconoció como el hombrecillo del sombrero amarillento montado en un mulo: el mulo aquel sin el cual la muerte de Tom hubiera sido para siempre un misterio.
 Junio de 1913
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

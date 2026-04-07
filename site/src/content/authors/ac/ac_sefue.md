@@ -36,6 +36,3 @@ El marido se incorporó, apoyó la cabeza en los puños y leyó el acta de acusa
 He acabado. Tal vez el lector aún se pregunte:
 —¿Y ella dejó al marido? ¿Se fue?
 Sí, se fue… a otra habitación.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

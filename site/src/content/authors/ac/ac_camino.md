@@ -89,6 +89,3 @@ Sin explicárselo ella misma, se echó a llorar. Precisamente en aquel instante 
 —¡Sube, Vasílievna!
 Todo desapareció de pronto. Se alzó lentamente la barrera del paso a nivel. La maestra, tiritando y entumecida de frío, montó en el carro. El coche de Jánov atravesó la vía. Semión le siguió. El guardabarreras se quitó el gorro.
 —Ahí está Viazovíe. Hemos llegado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

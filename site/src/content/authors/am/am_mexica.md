@@ -316,6 +316,3 @@ Enteramente desnuda se revelaba aún más su aspecto rechoncho y exótico. Vién
 —No, amor no..., cantar, cantar —abriendo la boca y poniéndose la mano en el pecho.
 Ella lo entendió en seguida y sonrió con complacencia profesional. Tiró la toalla en la cama, se inclinó hacia Sergio y cogiéndole la barbilla en la palma, como se hace con los niños, le dijo algo con voz viva y acariciadora, en tono de lisonjero elogio, y después le dio un cachete en la mejilla. Sergio le sonrió, agradecido. Ella se sentó en la cama, a cierta distancia de Sergio, y cogió con la suya la mano que él apoyaba en la colcha. Tenía una mano grande, áspera y fresca. Le apretó la mano, cruzó las cortas piernas, miró un momento ante sí con ojos negros y brillantes y después, hinchando el pecho como con repentina inspiración, empezó a cantar.
 (1948)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

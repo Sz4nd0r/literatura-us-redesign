@@ -128,6 +128,3 @@ Entonces vio los ojos de sus compañeros, y sintió que por ellos se aparecía p
 —¡Viva Madero! —gritó Froilán en el instante de la descarga.
 El ave cayó despedazada en el río de Tierra Caliente, y el capitán se acercó a dar el tiro de gracia a los cuatro hombres que se retorcían en el polvo de Belén.
 —A ver si aprenden ya a matarlos con la pura descarga —le dijo al pelotón; y se fue mirándose las líneas de la mano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -80,6 +80,3 @@ Al día siguiente no fue posible encontrar a la muchacha en ningún lugar del ba
 Pero el serviola, poco antes de la madrugada, vio que el sobrecargo y el primer maquinista subían un abultado fardo de un tamaño aproximadamente igual al de una indígena, miraban cautelosamente alrededor y con grandes precauciones para no ser descubiertos lo arrojaban al mar. Entre los tripulantes se decía que aquellos dos hombres, con el fin de vengar la muerte de sus amigos, habían ido al camarote de la muchacha, la habían estrangulado y luego arrojado su cuerpo al mar.
 Cuando el barco llegó a Maccassar fueron arrestados y llevados a Batavia, donde se les procesó por homicidio. Las pruebas de la acusación eran de poco peso, por lo que fueron absueltos. Pero en todas las Indias Orientales se sabía que el sobrecargo y el primer maquinista se habían tomado la justicia por su mano en la causante de la muerte de los dos amigos a quienes tanto querían.
 Y éste fue el final de la cómica y celebrada amistad de los cuatro holandeses gordos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

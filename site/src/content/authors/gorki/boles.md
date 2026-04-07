@@ -91,6 +91,3 @@ Lo entendí… Algo me hizo sentir enfermo, mal, avergonzado. Cerca de mí, a tr
 … Mi conocido sopló la ceniza del emboquillado, miró pensativo al cielo y terminó:
 “Pues sí… Cuanta más amargura ha saboreado una persona, con mayor violencia ansía el dulce. Pero nosotros esto no lo comprendemos, envueltos en nuestras vetustas virtudes y mirándonos unos a otros a través de un velo de arrogancia y convicción en nuestra infalibilidad absoluta.
 Resulta bastante estúpido y… muy cruel. Al parecer, la gente perdida… ¿Y qué es eso de la gente perdida? Ante todo, gente, con la misma osamenta, la misma sangre, la misma carne y los mismos nervios que nosotros. Nos hablan de ello siglos enteros, día tras día. Pero nosotros lo escuchamos y… ¡el diablo sabe lo absurdo que es todo esto! En esencia, nosotros también somos gente perdida, y tal vez, incluso muy profundamente perdida… en el abismo de la arrogancia absoluta y la convicción de la superioridad de nuestros nervios y cerebros sobre los cerebros y los nervios de quienes únicamente son menos astutos que nosotros, que fingen peor que nosotros ser buenos… Y además, basta de hablar de eso. Todo ello es tan viejo… que hasta da vergüenza hablar…”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -116,6 +116,3 @@ Los niños ya tenían su provisión de guijarros y alguien le puso en la mano va
 Una piedra la golpeó en la sien.
 —¡Vamos, vamos, todo el mundo! —gritó el viejo Warner. Steve Adams estaba al frente de la multitud de vecinos, con la señora Graves a su lado.
 —¡No es justo! ¡No hay derecho! —siguió exclamando la señora Hutchinson e, instantes después, todo el pueblo cayó sobre ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

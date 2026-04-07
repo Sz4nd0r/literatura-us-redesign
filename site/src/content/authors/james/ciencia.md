@@ -641,6 +641,3 @@ contemplar detenidamente por unos momentos.
 —¡Creo que sobre todo (sin que fuese yo consciente de
 ello en su momento) tenía el fin de preservar mi ignorancia! —repuso finalmente
 éste, apartando el semblante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

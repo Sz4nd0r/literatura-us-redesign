@@ -169,6 +169,3 @@ inclinándose sobre el cuerpo moreno y sudado, lo interrumpió con una voz
 que sonó extraña aún para ella misma:
 —¡Mentiroso!...
 Sabías bien que yo terminaría por venir...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

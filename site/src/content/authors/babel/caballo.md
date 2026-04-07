@@ -123,6 +123,3 @@ de calma tomábamos juntos té caliente. Y me hablaba con tanto detalle de las
 mujeres, que yo me ruborizaba. Y me hacía bien oírle. Creo que era debido a que
 los dos teníamos las mismas pasiones. Considerábamos el mundo como una pradera
 en mayo..., como una pradera con caballos y con mujeres.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

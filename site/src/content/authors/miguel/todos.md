@@ -235,6 +235,3 @@ Alarica dobló el brazo para no destrozarse la cabeza en los cristales del parab
 Las ramas de los árboles recibieron con sus manos piadosas los cuerpos lanzados al vacío y de sus ramas, al choque, desprendiéronse como muñecos, cayendo a más de sesenta metros de profundidad en roca viva.
 Poco hubo que investigar. En fila de hormigas bajaron los indios que habían vuelto a trabajar como peones-esclavos en los caminos, y en parihuelas improvisadas con troncos y ramas tardaron casi dos días en extraer los cadáveres del fondo del abismo. Ambulancias movilizadas al sitio de la catástrofe volvieron con su dolorosa carga a la ciudad y un transporte aéreo vino por los despojos de las víctimas. Las poblaciones del interior se estremecieron, temerosas de nuevos bombardeos, al oír el rugido de los motores. Pero este avión no llegaba a dejar, sino a llevar carga de muerte. Los volcanes respiraban la paz del cielo con sus pulmones azules. El último cadáver que se rescató, entre peñascales y espinos, fue el del Guía de Turistas, Emilio Croner Jaramillo, el famoso Milocho, no muy desfigurado, con la boca abierta, como si todavía gritara:
 —¡Americanos… americanos todos!…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

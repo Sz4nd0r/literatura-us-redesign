@@ -54,6 +54,3 @@ Cariño, dije. Wes, escúchame.
 ¿Qué quieres?, me dijo. Pero eso fue todo. Parecía haber llegado a una conclusión. Pero, una vez decidido, no tenía prisa. Se recostó en el sofá, cruzó las manos sobre el regazo y cerró los ojos. No dijo nada más. No tenía por qué hacerlo.
 Pronuncié su nombre para mis adentros. Era fácil de decir, y estaba acostumbraba a repetirlo desde hacía mucho tiempo. Luego volví a decirlo. Esta vez en voz alta. Wes, dije.
 Abrió los ojos. Pero no me miró. Simplemente se quedó sentado donde estaba y miró a la ventana. Linda la Gorda, dijo. Pero yo sabía que no se trataba de ella. No era nada. Sólo un nombre. Wes se levantó, echó las cortinas y el mar desapareció como por ensalmo. Fui a preparar la cena. Aún teníamos un poco de pescado en la nevera. No quedaba mucho más. Esta noche haremos limpieza, pensé, y eso será el fin de todo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

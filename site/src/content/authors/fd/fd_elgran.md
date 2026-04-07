@@ -469,6 +469,3 @@ se reduce su respuesta! El anciano se estremece, sus labios tiemblan;
 se dirige a la puerta, la abre y dice: “¡Vete y no vuelvas nunca...
 , nunca! Y le deja salir a las tinieblas de la ciudad”. El preso se
 aleja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

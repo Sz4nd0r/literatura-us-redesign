@@ -97,6 +97,3 @@ De pronto ella se echó a llorar, más, según me pareció, porque comprendía q
 —Adiós.
 Se fue a la otra habitación, y en resumidas cuentas, también se fue de mi vida, porque no la he vuelto a ver desde aquella mañana. Un rato después me levanté de la cama y salí yo también. Era un día soleado, compré un panecillo y fui a comérmelo junto al Lungotevere. Mientras miraba cómo corría el agua me sentí de repente muy feliz y pensé que aquellos dos años de matrimonio no habían sido más que una aventura sin consecuencias; cuando fuera viejo, me acordaría de ellos no como de dos años, sino como de dos días. Comí lentamente mi pan y luego me acerqué al chorro de una fuente y bebí. Más tarde fui a ver a mi hermano y le pedí que me albergara hasta que encontrase un trabajo. Lo encontré, en efecto, como electricista, a las pocas semanas.
 A Valentina, como ya he dicho, no la he vuelto a ver. Pero ¿saben ustedes lo que va diciendo? Que soy un derrochador, que tengo las manos agujereadas, que ella no fue capaz de hacerme ahorrar, y que por eso me dejó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

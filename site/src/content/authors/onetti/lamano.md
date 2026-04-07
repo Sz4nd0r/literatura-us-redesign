@@ -24,6 +24,3 @@ Pero por miedo o desinterés nadie se acercó a invitarla a bailar y pasó la no
 Al amanecer, ya en su casa, tiró los largos guantes a un rincón y se desnudó, se lavó una y otra vez la mano enferma y en la cama, antes de apagar la luz, la estuvo sonriendo y besando. Y es posible que dijera en voz baja las ternuras y los apodos cariñosos que estuvo pensando.
 Se acomodó para el sueño y la mano, obediente y agradecida, fue resbalando por el vientre, acarició el vello y luego avanzó dos dedos para ahuyentar la desgracia y acompañar y provocar la dicha que le estaban dando.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

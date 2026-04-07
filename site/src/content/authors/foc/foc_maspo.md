@@ -167,6 +167,3 @@ El forastero retorció con fuerza la cara llena de surcos y dijo:
 Tarwater se quedó sentado, mirando con fijeza el resplandor que tenía enfrente.
 —Estaba dormido —masculló—. Recién ahora empiezo a despertarme.
 —Pues tendrías que haberme prestado atención —dijo el vendedor—. Te decía cosas que deberías saber.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -186,6 +186,3 @@ Recogió el papel y lo leyó.
 —Pero ¿no te das cuenta de su artimaña? ¿No entiendes? ¿Eres idiota, Julia?
 Esa noche durmieron volviéndose la espalda, sin tocarse siquiera con los pies. Desde su llegada, fue la primera noche que no hicieron el amor. Ninguno de los dos durmió demasiado. Por la mañana, Carter encontró una carta en el lugar más evidente, aunque no había pensado en él: entre los folios nuevos en que escribía sus cuentos. Empezaba:
 Querido: espero que no te importará si uso este viejo, viejo apelativo…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

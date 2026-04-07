@@ -264,6 +264,3 @@ habitan los lugares descritos cuentan cómo por las noches, junto al
 puentecillo, puede verse a un hombre desnudo, todo cubierto de pelo y
 tocado con una chistera. Cuentan también que, a veces, debajo del
 puente, se oyen roncos sonidos de contrabajo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -510,6 +510,3 @@ El jefe no quiere oír nada más.
 —A ése, si no le importa, jefe…
 Y fue así cómo en una mesa extraña, aquella noche, en la cervecería Dauphine, se pidió choucroute con fuerte aliño, mientras la voz de Lucas decía tímidamente:
 —Yo no tengo apetito, se lo aseguro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

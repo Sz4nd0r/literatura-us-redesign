@@ -133,6 +133,3 @@ De modo que hizo un montón con las papeletas y las escribió, apoyándolas en s
 —No es necesario molestarse en hacer el recuento —dijo George—. Todos han votado «No».
 Y eso es todo. Los hombres regresaron luego a la ciudad, llevándose la urna, mientras padre y Drusilla, con el vestido y el velo de novia desgarrados, les observaban erguidos al lado del tronco. Sólo que esta vez padre no pudo impedírselo. El grito retumbó de nuevo, fuerte y tenue, discordante y fiero, como cuando los yanquis solían escucharlo entre el humo y el galopar de los caballos.
 —¡Yaaaaay, Drusilla! —aullaron—. ¡Yaaaaaay, John Sartoris! ¡Yaaaaaay!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

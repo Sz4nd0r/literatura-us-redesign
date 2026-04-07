@@ -33,6 +33,3 @@ Y esto es lo que, horrorizado, leyó:
 “¿Acaso pienso en la gloria? ¿Cuando, yo muerto, alguien juzgue que dispuse bien en blanca página negras palabras? ¡Ah! ¿Y cómo gozaría de lo que ahora no puedo gozar y no podré, insensibles despojos, gozar nunca?
 “Negras palabras, y oscuras. En vano me esfuerzo en suscitar en ellas una luz; en vano intento penetrarlas y establecer en ellas una correspondencia con una realidad de cualquier orden; no responden sino a la nada. Bellos tiempos en que imaginaba una patria celestial revelada para ellas… A veces, en ciertos años, las buenas avellanas que vienen del monte están todas vacías a causa de una roncha secreta. Ávido muchacho, me encontraba con las manos llenas de cáscaras, nada más que de cáscaras… La misma suerte me preparo hoy si insisto.
 “No es que yo sea un mal poeta; aunque fuera bueno el resultado final sería el mismo. En conclusión, con o sin el Violante, sólo me queda cambiar de oficio… No sé, mi padre me dejó algún dinero, la tienda de ultramarinos de la esquina está en venta… ¿Tendero yo? ¿No podría elegir un oficio un poquito más poético?… ¡Tonterías! Tengo que armarme de valor y actuar rápidamente o será demasiado tarde y seguiré toda la vida entreteniéndome con cáscaras vacías”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -147,6 +147,3 @@ Jill pasa las páginas del catálogo, y de pronto se detiene y deja de hacerlo.
 Pero yo no miro. Me importan un rábano las cortinas.
 —¿Qué es lo que miras ahí fuera, cariño? —dice Jill—. Dime.
 ¿Qué puedo decirle? Las personas a quienes miro se abrazan en el porche unos instantes, y después entran juntos en la casa. Dejan la luz encendida. Luego caen en la cuenta y la apagan.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

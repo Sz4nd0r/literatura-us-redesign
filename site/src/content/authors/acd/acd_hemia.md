@@ -291,6 +291,3 @@ El rey le miró con estupor.
 —Gracias, Majestad. Entonces, ya no queda nada pendiente en este asunto. Tengo el honor de desear a Su Majestad muy buenos días.
 Holmes hizo una inclinación y, sin hacer caso de la mano que el rey le tendía, dio media vuelta y se encaminó, acompañado por mí, hacia su apartamento.
 Y así fue cómo un gran escándalo amenazó al reino de Bohemia, y cómo los mejores planes del señor Sherlock Holmes se vieron frustrados por el ingenio de una mujer. Tenía costumbre de bromear sobre la inteligencia de las mujeres, pero a partir de entonces no le he oído hacerlo. Y, cuando habla de Irene Adler, o se refiere a su fotografía, utiliza siempre el honorable título de «la mujer».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

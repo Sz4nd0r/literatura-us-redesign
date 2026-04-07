@@ -1151,6 +1151,3 @@ ni en la colocación de las palabras, ni en el color, ni en el peso de
 ellas. Es decir que la estabilidad de un poema que se escribe en español
 con derroche o economía verbal, pero que tiene una medida y una manera de
 posar cada palabra, m encuentra su equivalente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

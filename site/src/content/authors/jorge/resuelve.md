@@ -83,6 +83,3 @@ Pero esta deducción me llevó a
 otra todavía más importante: aquella mujer había estado presente en
 otra ocasión, muchos años antes, la noche en que desapareció la mitad
 de un pastel de pollo. El triple crimen estaba resuelto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -77,6 +77,3 @@ En la mesa, ese mismo día, los parientes hablaban en voz baja y demostraban un 
 —El aceite para Tino... Ofrézcale otra vez al señor Sangiorgio... ¿Quieres más asado?...
 Después de la comida, la mujer de aquel pariente se apartó con él y le dijo que ahora tenía que pensar en hacerse una nueva vida. Sangiorgio respondió que así lo haría. Pero pensaba que su vida ya no podría ser ni vieja ni nueva. Sangiorgio, poco después de comer, se despidió de la familia.
 (1939)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

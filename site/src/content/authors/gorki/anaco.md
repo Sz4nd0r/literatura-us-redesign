@@ -267,6 +267,3 @@ Se tumbó sobre un costado, se acurrucó, se cubrió la cabeza con el armiak… 
 Miré al viejo y pensé: “¿Será este hombre un santo, dueño del tesoro del amor infinito al mundo entero?”.
 Me acordé de la muchacha coja, con su vestido estampado y sus ojos tristes, y la vida entera se me presentó en la imagen de aquella chica: la vi en presencia de un dios deforme y pequeño, un dios que sólo sabía amar, y que ponía toda la fuerza hechicera del amor en una palabra de consuelo:
 —Queriiida…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -60,6 +60,3 @@ Sin llegar a una decisión sobre el folleto Bone, pasaron al dedicado al mercade
 —Es un buen chico, ese Lawrence —dijo Lowndes—. Escribió una novela pícara llamada Los placeres de un párroco.
 —Lo invitaremos —dijo King.
 El Comité de Publicaciones había terminado por una semana, y como la habitación quedaría vacía hasta la mañana, Skate abrió las grandes ventanas a las corrientes de aire nocturnas. Muy arriba, en el enorme cielo pálido, breves líneas blancas, como el rastro fosforescente de caracoles, mostraban hombres yendo a casa después del trabajo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

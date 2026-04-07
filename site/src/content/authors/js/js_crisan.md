@@ -187,6 +187,3 @@ Detuvo el coche para maniobrar mejor al entrar a la carretera de Salinas, pasand
 Ella se echó para atrás en el asiento.
 —Oh, no. No, no quiero ir. Seguro que no. —Apartó el rostro de él—. Ya es bastante si tomamos vino con la cena. No hace falta más.
 Se subió el cuello del abrigo para que él no se diera cuenta que estaba llorando... como una mujer débil y vieja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

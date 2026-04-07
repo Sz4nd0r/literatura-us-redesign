@@ -182,6 +182,3 @@ Y todos corrieron para allá y cuando llegaron vieron al hombre enganchado en la
 —No, no es. Éste es calvo.
 —¡Coñoo! —dijo uno.
 —¡Me cago en Dios! Hemos trabajado por gusto —murmuró otro en voz baja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -35,6 +35,3 @@ Tras despedirse de su paciente, la generala contempla durante un minuto, con ojo
 —Son los mismos… —dice perpleja— Hasta el papel es el mismo… ¡Ni siquiera lo ha desenvuelto! Pero, entonces, ¿qué es lo que ha tomado? Qué raro… ¡No habrá tratado de engañarme!
 Y, por primera vez en diez años de práctica, a la generala le asaltan las dudas… Llama a los enfermos siguientes y, mientras habla con ellos de sus males, repara en cosas que hasta entonces habían escapado a su atención. Los enfermos, desde el primero al último, como si se hubieran puesto de acuerdo, empiezan alabándola por la curación milagrosa, ponderando sus conocimientos médicos, insultando a los médicos alópatas; luego, una vez que ella está roja de emoción, pasan revista a sus necesidades. Uno pide una parcela de tierra de labor; otro, leña; un tercero, permiso para cazar en sus bosques. La mujer mira el orondo y bondadoso rostro del padre Aristarco, que le ha revelado la verdad, y una nueva verdad empieza a roerle el corazón. Una verdad maligna, penosa…
 ¡Qué astuto es el hombre!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

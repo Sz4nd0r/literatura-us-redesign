@@ -89,6 +89,3 @@ Cuando llegó a la Misión fue tiernamente atendido, e invirtió algunas semanas
 Tal fue el desenlace de la historia, y tiempo después de reunirse José con sus hermanos, su misterioso encuentro fue el tema de narraciones espeluznantes. Nadie se atrevió a acercarse al monte.
 Ésa es la leyenda del Monte del Diablo. Como he dicho al principio, carece de corroboración esencial. La discrepancia entre la narración del padre y la actual ha dado origen a cierto escepticismo por parte de ingeniosos sofistas. Lo que respecto de ella he referido, sencillamente consta en el informe de don Julio Serró, subprefecto de San Pablo, ante quien fue atestiguado lo que antecede.
 Respecto del asunto, el digno prefecto hace notar “que aunque el cuerpo del padre José mostró en la carne la evidencia de la penosa lucha, eso no prueba que el Enemigo de las almas, que pudo asumir la figura de un respetable hidalgo, pudiese al mismo tiempo transformarse en oso para sus viles propósitos”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -81,6 +81,3 @@ Ese enemigo es el niño.
 Se ríe. Se asombra: ¿cómo no ha podido entender antes algo tan sencillo? La mancha verde, las sombras y el grillo también parecen reírse y asombrarse.
 Esa falsa idea se apodera de Varka. Se levanta del taburete y, con una amplia sonrisa, sin pestañear, se pasea por la habitación. Le complace, y hasta le produce un cosquilleo, pensar que ahora se librará del niño que la tiene encadenada de pies y manos… Lo mataré y luego dormiré, dormiré, dormiré…
 Riéndose, haciendo guiños y amenazando con los dedos a la mancha verde, Varka se acerca cautelosamente a la cuna y se inclina sobre el bebé. Lo estrangula, se tumba rápidamente en el suelo, se ríe de la alegría de pensar que ahora podrá dormir, y al cabo de un minuto, duerme profundamente, como si estuviera muerta…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

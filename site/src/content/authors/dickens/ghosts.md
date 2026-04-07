@@ -50,6 +50,3 @@ La doncella contestó lanzando un fuerte grito y echando a correr al instante. L
 —Abrió la puerta con suavidad y miró hacia fuera. A veces penetraba uno o dos pasos en la habitación. Entonces yo le llamaba, para animarle, y él se encogía, se estremecía y volvía a meterse de nuevo, cerrando la puerta.
 —Charlotte, el gabinete no tiene comunicación con ninguna otra parte de la casa, y está cerrado con clavos.
 Aquello era indudablemente cierto y dos carpinteros necesitaron una mañana entera para abrir la puerta y poder examinar el gabinete. Sólo entonces Charlotte quedó convencida de que había visto al huérfano. Pero lo terrible de la historia es que fue visto sucesivamente por tres de los hijos de su hermano, todos los cuales murieron jóvenes. En cada ocasión, el niño enfermaba, regresaba a casa con fiebre, doce horas antes de la muerte, y le decía a su madre que había estado jugando bajo un cierto roble que había en un prado con un chico extraño, un chico de buen aspecto, pero que parecía abandonado, que era muy tímido y le hacía señas. A partir de esa experiencia fatal los padres llegaron a saber que se trataba del huérfano, y que el destino del niño al que había elegido como compañero de juegos estaba seguramente fijado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

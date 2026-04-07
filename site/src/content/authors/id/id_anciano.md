@@ -144,6 +144,3 @@ No podré olvidar que en el curso de su narración imitaba al mono de la forma m
 »Era realmente la calavera de un mujer joven. La tuve en mis manos unos momentos. Cuando quise imaginar el ancho de las cejas, la línea noble y clara de la barbilla y las hondas cavidades de los ojos, de súbito me pareció familiar. El hueso limpio brillaba a la luz de la lámpara. En aquellos segundos volví con la imaginación al apartamento de la plaza de Francisco I, una noche de lluvia, hacía quince años.
 —¿Preguntó a su amigo algo sobre el origen de aquella calavera?
 —No —contestó el anciano—. ¿De qué hubiera servido?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

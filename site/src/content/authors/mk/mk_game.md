@@ -195,6 +195,3 @@ El joven callaba, no se movía y advertía la triste falta de contenido de la af
 Y la chica pasó en seguida de los gemidos a un ruidoso llanto y volvió a repetir aquella emotiva tautología incontables veces:
 —Yo soy yo, yo soy yo, yo soy yo...
 El joven empezó a llamar en su ayuda a la compasión (tuvo que llamarla de lejos, porque por allí cerca no se encontraba), para acallar a la chica. Todavía tenían por delante trece días de vacaciones.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

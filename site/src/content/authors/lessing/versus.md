@@ -258,6 +258,3 @@ La mujer aguardó, frente a él, preocupada pero segura de sí misma.
 Al cabo de un rato, Charlie respondió:
 —Sí, supongo que tiene razón.
 La mujer asintió y le sonrió, y volvió al compartimiento. Unos instantes después, Charlie la siguió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

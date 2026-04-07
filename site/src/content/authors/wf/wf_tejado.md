@@ -125,6 +125,3 @@ Pero no me dio tiempo a hacerlo cuando volvió mamá. Le trajo un vaso de ponche
 —¿Qué es eso? —dijo.
 Pero mamá nunca le llegó a contestar, y se sentó en la cama y soltó un suspiro largo y estremecido que oímos todos, y pasado un minuto tanteó con la mano buscando el ponche y se quedó con él en la mano, respirando hondo, antes de darle un buen sorbo.
 —Por Dios que digo que si él y todos los demás juntos creen que me van a impedir arrimar el hombro en mi propia iglesia y trabajar en ella como el que más, mejor que sea otro quien lo intente —dio otro sorbo del ponche. Y luego dio un trago largo—. Pirómano —dijo—. Unidades de trabajo. Unidades de perro. Por Dios que… ¡vaya diíta que llevo!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

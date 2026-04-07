@@ -644,6 +644,3 @@ que alargándose estuviera casi a punto de tocar el borde plateado de la
 luna.
 Traducción:
 Ester de Andreis. Ediciones Cátedra SA. 1991.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

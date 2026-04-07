@@ -193,6 +193,3 @@ Los ojos de Frederick se iluminaron jubilosos: “No me importaría”, dijo.
 —Nos haríamos cargo de este negocito del colegio. Con un poco de capital lo podríamos hacer funcionar realmente. Ahora es solo una insignificancia.
 Se enamoraron sin razón alguna, en el parque, en una banca para ahorrar dos peniques, planeando la estafa a los viejos estafadores a los que sabían podrían superar. Luego regresaron y Elisabeth hizo una declaración antes de pasar por completo por la puerta: “Frederick y yo deseamos casarnos”. Casi compadeció a los viejos tontos cuando sus rostros se iluminaron de súbito, en forma simultánea, porque todo había sido tan fácil, y cuando después se ensombrecieron con precaución al mirarse furtivamente: “Esto es muy inesperado”, dijo Lord Driver, y el presidente dijo: “Dios mío, los jóvenes trabajan rápido”.
 Durante toda la noche los dos viejos planearon sus acuerdos, y los dos jóvenes se sentaron contentos en un rincón, viéndolos esgrimir, con el conocimiento secreto de que el mundo siempre está abierto a los jóvenes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

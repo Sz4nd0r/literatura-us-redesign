@@ -2493,6 +2493,3 @@ dedos, palabras, ojos:
 ahí están otra vez como grandes peces que completan el
 cielo
 con su azul material vagamente invencible.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

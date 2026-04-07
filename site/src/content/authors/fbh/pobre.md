@@ -37,6 +37,3 @@ Y con extrañeza mía, se animó su rostro.
 Sentíame hastiado de sobras por su modo de tratar al tal Abelardo para mostrarme amable; pero como el negocio era de provecho, prometí encargarme de él, y Fag partió.
 Transcurrió algún tiempo. Llegó el próximo vapor de regreso, y durante algunos días, un terrible accidente ocupó la atención de los Estados Unidos. En todas las regiones del Estado leíanse con avidez los detalles de un terrible naufragio, y los que tenían amigos a bordo se reunían para leer con aliento comprimido la larga lista de las víctimas. Busqué los nombres de todos los seres interesantes, afortunados y queridos que habían perecido, y creo que fui el primero en descubrir, entre éstos, el nombre de David Fag.
 El pobre hombre ¡había, pues, en realidad, vuelto a su casa!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

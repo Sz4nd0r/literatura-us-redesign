@@ -51,6 +51,3 @@ Todo volvía a su orden y ahora, de repente, parecía gratuita aquella reunión 
 —No, no diga nada.
 Lo miraba con ojos de perro apaleado en los que se reflejaba una absurda, una estúpida ansiedad; ojos brillantes, prontos al guiño. Tuvo miedo de que volviera a echarse a llorar, ¡no, por amor de Dios! Que al menos guardase silencio.
 ¿Y él? Bueno, ¿la quería, aunque fuera a su modo, sentía al menos curiosidad por ella? Sí y no, un poco.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

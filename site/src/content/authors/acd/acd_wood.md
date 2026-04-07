@@ -236,6 +236,3 @@ El pequeño hombre se sobresaltó y volvió sus malvados ojos hacia mi amigo.
 —Tengo que agradecerle muchas cosas —dijo—. Quizá le pague mi deuda algún día.
 Holmes sonrió con indulgencia.
 —Me figuro que durante unos pocos años se encontrará plenamente ocupado —dijo—. Por cierto, ¿qué introdujo en la pila de madera además de sus pantalones viejos? ¿Un perro muerto o conejos, o qué eran? ¿No va a contármelo? Madre mía, ¡qué desagradable se pone! Bueno, bueno, no me sorprendería que un par de conejos explicasen tanto la sangre como las cenizas carbonizadas. Si alguna vez escribe una historia, Watson, puede que le sirvan los conejos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

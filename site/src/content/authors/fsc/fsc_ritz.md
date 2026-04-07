@@ -389,6 +389,3 @@ Después de cenar, recogieron el mantel y extendieron las mantas para pasar la n
 —¡Pues es agradable estar loco!
 —Eso me han dicho —murmuró John con tristeza ; y no sé mucho más. Pero podemos querernos algún tiempo, tú y yo, un año o así. Es una forma de embriaguez divina al alcance de cualquiera. Sólo hay diamantes en el mundo, diamantes y quizá el miserable don de la desilusión. Bueno, yo lo tengo ya, pero, como es normal, no sabré aprovecharlo —se estremeció. Y añadió—: Álzate el cuello del abrigo, chiquilla, la noche es fría y vas a pillar una pulmonía. Quien descubrió la consciencia cometió un pecado mortal. Perdámosla unas horas.
 Se envolvió en su manta y se durmió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

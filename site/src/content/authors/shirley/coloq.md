@@ -41,6 +41,3 @@ La señora Arnold emitió un suspiro y explicó:
 —¿Y cómo vamos a conseguirlo? —replicó la señora Arnold—. ¿De veras todo el mundo menos yo se ha vuelto loco?
 —Señora —insistió el médico con severidad—, le ruego que se controle. En un mundo desorientado como el actual, la alienación de la realidad suele...
 —Desorientado... —repitió la señora Arnold, y se puso en pie—. Alienación... Realidad... —antes de que el doctor pudiera detenerla, llegó hasta la puerta y la abrió —. Realidad... —murmuró, y salió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

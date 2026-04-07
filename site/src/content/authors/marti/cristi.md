@@ -357,6 +357,3 @@ José Martí / M. Gómez
 Tomado
 de las Obras Completas, tomo 4, Editorial de Ciencias Sociales, La
 Habana 1975, páginas 93-101.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

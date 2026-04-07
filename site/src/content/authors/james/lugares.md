@@ -270,6 +270,3 @@ Sí, así había sido; había estado «ausente»… ausente, ausente, ausente. L
 Dane intentaba comprenderlo en toda su dimensión, pero estaba azorado y apenas fue capaz de decir, débilmente y de un modo bastante indirecto:
 —¡He sido tan feliz!
 —Yo también —dijo el joven. Decididamente, ésa era la impresión que daba; y al verlo George Dane volvió a asombrarse y en su asombro lo vio en efecto como otro rostro completamente distinto, completamente, inexplicablemente, el rostro de otra persona. Todos ellos eran en cierto modo otras personas. Y mientras se preguntaba qué otra persona era, pues, el joven, su benefactor, conmovido de nuevo por su mirada suplicante, rompió en una nueva exclamación de entusiasmo—: ¡Está todo en orden! —lo cual respondía a la pregunta de Dane; la cara era la cara del buen Hermano que le miraba allí en el pórtico mientras los dos escuchaban el murmullo de la lluvia. Todo era extraño, pero era agradable y era claro, tan claro que las últimas palabras que habían llegado a sus oídos (las mismas en los dos frentes) tenían el efecto de parecer una sola voz. Dane se incorporó y echó una ojeada a su habitación, que parecía aligerada, distinta, dos veces más grande. Estaba todo en orden.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

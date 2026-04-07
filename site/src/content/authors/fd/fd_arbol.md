@@ -154,6 +154,3 @@ al que no veía desde hacía cinco años. También miré a la novia… ¡Dios m�
 para salir de la iglesia. Entre la muchedumbre se hablaba de que la novia era rica, de que tenía quinientos mil rublos de dote…
 y no se sabía cuánto más en renta…
 «Pues, pese a todo, ¡le salió bien la cuenta!», pensé yo saliendo a la calle…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

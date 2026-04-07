@@ -57,6 +57,3 @@ Rubin le miró congestionado de ira, su rostro enjuto; se había dejado patillas
 —Eso.
 Rubin, aunque trató de evitarlo, rompió a llorar. Sollozaba en silencio, moviendo los hombros, las lágrimas resbalando, entre sus toscos dedos, por su cara. Arkin se había esfumado.
 Dejaron de esquivarse y cuando se encontraban, lo que no sucedía con frecuencia, charlaban amablemente. Un día, Arkin, al entrar en el lavabo de caballeros, vio a Rubin contemplándose al espejo con su gorra blanca, la que parecía tener cierta similitud con el sombrero de Rembrandt. La llevaba como una corona de fracaso y de esperanza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

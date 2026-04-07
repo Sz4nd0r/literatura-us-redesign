@@ -657,6 +657,3 @@ un momento en que Cate hizo una mueca, notó con placer que a fin de cuentas ten
 —Eres tú —rezongó Corradino.
 Cuando se despidió de ella —y fue una despedida sin ceremonias, casi sin incomodidad—, Corradino cruzó el jardincillo sin detenerse. No encendió un cigarrillo hasta que hubo
 doblado la esquina. Lo encendió tratando de recordar si en el café había fumado, pero no lo logró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

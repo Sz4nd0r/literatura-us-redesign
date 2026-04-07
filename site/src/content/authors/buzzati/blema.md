@@ -51,6 +51,3 @@ Es casi de noche. He perdido una jornada de trabajo. Quizá me despidan por esto
 Voy brincando, tengo una extraña ligereza en las piernas, esbozo unos pasos de baile. ¡Viva! Me vuelvo para echar una última ojeada a mi utilitario. Está allí lejos, muy pequeño, una cucarachita dormida en el regazo desnudo del desierto.
 ¡Pero al lado de él hay un hombre! Es un hombre alto, con bigote, si no me equivoco, y lleva gorra de plato. Me hace señas, muy enfadado, y grita, grita.
 Ah, no, basta ya. Salto, corro, galopo con mis viejas piernas, pataleo, me siento ligero como una pluma. Los gritos del maldito guardia se pierden poco a poco detrás de mí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

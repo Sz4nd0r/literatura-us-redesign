@@ -196,6 +196,3 @@ A la media hora, Kashtanka iba ya tras dos personas que olían a cola y a barniz
 —Por mi culpa me encuentro en el abismo del pecado —balbucía—. Y tú, Kashtanka, no representas nada. En comparación con un hombre, eres lo mismo que un dolador comparado con un carpintero.
 A su lado caminaba Fediushka con la gorra de su padre. Kashtanka les miraba por detrás, le parecía que llevaba mucho tiempo siguiéndoles, y se alegraba de que la vida no se hubiera interrumpido un solo instante.
 Recordaba la habitación con el empapelado sucio, al ganso, a Fiódor Timófeich; recordaba también las suculentas comidas, los ensayos, el circo; pero todo se le representaba como una larga pesadilla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

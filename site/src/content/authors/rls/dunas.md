@@ -403,6 +403,3 @@ Bajó a la playa, y el marinero que había desembarcado le ayudó a subir a bord
 Cuando salió el sol, estaban a mitad de camino del Red Earl y yo seguía en la playa observando su avance.
 Una cosa más y habré concluido mi historia: años después, Northmour murió combatiendo a las órdenes de Garibaldi por la liberación del Tirol.
 [Diferencias entre el relato de la revista y el del libro: en la revista, la historia aparece como una carta y testamento que un padre anciano, al borde de la muerte, deja a sus hijos para revelarles un secreto familiar: cómo conoció a su madre, ya fallecida; en el resto del texto, el narrador se dirige a los lectores con el vocativo “mis queridos hijos”, llama a la heroína “vuestra madre”, “vuestra querida madre”, “la madre de mis hijos” y llama al siniestro personaje, su padre, “vuestro abuelo”. En el libro, el relato pasa directamente a la narración desde la primera frase: “De joven, fui un gran solitario”; la heroína se llama “mi esposa” o por su nombre, Clara, y el anciano se llama “su padre” o Huddlestone. Aparte de esas modificaciones, las correcciones son mínimas: la supresión del preámbulo, del discurso a los hijos y de las referencias más dolorosas a la madre.]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -292,6 +292,3 @@ El miserable abrió la boca en una violenta aspiración. Irguióse y después de
 Los ojos de Johnson se abrieron lentamente, y murmuró:
 —¡Tommy, sí, Tommy! Siéntate a mi lado, Tommy. Pero no tan cerca de la orilla. ¿No ves cómo el río sube, llamándome, silbando e hirviendo por encima de las rocas? ¡Ya sube más arriba! ¡Tenme, Tommy! Tenme y no me sueltes todavía. Viviremos para arrancarle el corazón; viviremos... nosotros...
 Su cabeza cayó inerte y el río amenazador, invisible a todos los ojos menos a los suyos, se precipitó de la oscuridad hacia él y le llevó, ya no a las tinieblas, sino a través de ellas, al lejano, apacible y luminoso mar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

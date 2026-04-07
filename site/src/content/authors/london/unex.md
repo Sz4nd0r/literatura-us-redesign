@@ -686,6 +686,3 @@ Con los brazos de Hans a su alrededor, soportando su peso y
 dirigiendo sus desvalidos pasos, cruzó la nieve. Pero los indios
 aguardaron solemnes para ver actuar la ley del hombre blanco que
 obligaba a un hombre a bailar en el aire.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

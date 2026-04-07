@@ -37,6 +37,3 @@ El cura, que lo oyó, intentó irse, pero, insaciable, la gente lo retuvo. Parec
 El cura estaba literalmente temblando, pataleaba sobre el mármol, como un niño que se hubiera cogido una rabieta.
 —¿Y yo? ¿Y yo? —empezó a suplicar, desesperado. Aquellos miserables le privaban de la salvación del alma; que se fueran todos al diablo. ¿Pero cómo liberarse? ¿Cómo conseguir ocuparse finalmente de sí mismo? Estaba a punto de echarse a llorar.
 —¿Y yo? ¿Y yo? —preguntaba a los mil postulantes, voraces de Paraíso. Pero nadie le prestaba atención.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

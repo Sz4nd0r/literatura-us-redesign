@@ -92,6 +92,3 @@ Edward extendió su mano y delicadamente tomó la manecita del niño.
 Dicky seguía inmóvil en su cama. Y aquello era terrible. El padre se incorporó y fue hacia la ventana. El jardín estaba casi en sombras. La criada había salido de la casa y estaba recogiendo a manotadas la ropa blanca tendida en los arbustos, que iba amontonando sobre el otro brazo. Pero en el firmamento sin límites brillaba la estrella vespertina. Y el árbol de la goma, destacando su sombra en la pálida claridad, movía suavemente sus hojas. Todo esto lo veía Edward, mientras su mano buscaba las monedas que llevaba en el bolsillo del pantalón. Y, sacándolas, tomó una, una pieza flamante de seis peniques, y volvió hacia la cama de Dicky.
 —Aquí tienes, chiquitín. Cómprate alguna cosa —dijo tiernamente dejando la moneda encima de la almohada.
 Pero ¿podría, ni siquiera aquello, toda una moneda de seis peniques, borrar lo ocurrido?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

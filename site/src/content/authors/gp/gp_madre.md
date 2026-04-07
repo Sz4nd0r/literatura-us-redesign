@@ -24,6 +24,3 @@ Ojalá pudiera verla en el umbral de la puerta del salón.
 Se detiene allí un instante. Luego se sienta junto a él. Tenían un tocadiscos caro. Escuchaban a Bach. Ella dijo: Cuéntame algo. Ya casi no nos hablamos.
 Estoy cansado, dijo él. ¿Es que no te das cuenta? He visto hoy a unas treinta personas. Todos enfermos, todos venga a hablar, hablar y hablar. Escucha la música, dijo él. Creo que antes afinabas a la perfección. Estoy cansado, dijo él.
 Y luego ella murió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

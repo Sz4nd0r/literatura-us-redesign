@@ -215,6 +215,3 @@ con más arte. La señorita Willerton se quedó largo rato mirando la máquina d
 —¡Los irlandeses!—chilló—. ¡Los irlandeses!
 La señorita Willerton siempre había admirado a los irlandeses. «Su acento —pensó—, era muy musical, y su historia... ¡espléndida!» «¡Y las gentes —caviló—,
 las gentes de Irlanda! Llenas de temple... pelirrojas, de anchos hombros y enormes bigotes caídos.»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

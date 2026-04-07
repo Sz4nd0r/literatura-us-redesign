@@ -292,6 +292,3 @@ Sus palabras confirmaban la opinión de aquellos que no creen que fueron celos l
 —Sería monstruoso. Betty lo era todo para mí en el mundo. No podría hacer una cosa tan incorrecta.
 Hizo una pausa y le vi reflexionar. A pesar del horror que le había producido mi sugerencia, por un momento consideró el caso desde el punto de vista de un escritor. Pero movió la cabeza negativamente.
 —No puedo hacerlo, si no por ella, al menos por mí. También tengo mi amor propio. Y, además, no hay nada que contar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

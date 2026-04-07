@@ -294,6 +294,3 @@ Encendió un puro y se quedó con la mirada perdida. Notaba que el Mary Rogers
 navegaba ligero, a favor del viento, y supo que iba a nueve nudos. Una
 sonrisa de satisfacción iluminó su rostro lúgubre y peludo. Bueno, a fin de
 cuentas había conseguido navegar con rumbo oeste y se había burlado de Dios.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

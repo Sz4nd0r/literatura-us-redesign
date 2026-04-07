@@ -1093,6 +1093,3 @@ Y la lumbre y la rosa sean una.
 (Traducción:
 José Emilio
 Pacheco)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

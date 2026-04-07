@@ -113,6 +113,3 @@ Evidentemente el genio se estaba enfadando bastante por el hecho de que de pront
 Tras decir aquello, el barón volvió a sentarse en la silla y rió con tanta fuerza y alboroto que la habitación resonó.
 La figura retrocedió uno o dos pasos mirando entretanto al barón con terror intenso, y después recogió la estaca, se la metió violentamente en el cuerpo, lanzó un aullido atemorizador y desapareció.
 Von Koëldwethout no volvió a verla nunca. Una vez que había decidido actuar, inmediatamente obligó a razonar a la baronesa y a los Von Swillenhausen, y murió muchos años después; no como un hombre rico que yo sepa, pero como un hombre feliz: dejó tras él una familia numerosa que fue cuidadosamente educada en la caza del oso y el verraco bajo su propia vigilancia personal. Y mi consejo a todos los hombres es que si alguna vez se sienten tristes y melancólicos por causas similares (como les sucede a muchos hombres), contemplen los dos lados del asunto, y pongan un cristal de aumento sobre el mejor; y si todavía se sienten tentados a irse sin permiso, que primero se fumen una gran pipa y se beban una botella entera, y aprovechen el laudable ejemplo del barón de Grogzwig.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

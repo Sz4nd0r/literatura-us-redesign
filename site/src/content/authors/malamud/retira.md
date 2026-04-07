@@ -57,6 +57,3 @@ El doctor, procurando sostenerse en pie sin moverse, se oprimió el caballete de
 —Se presenta cuando menos te la esperas.
 El doctor trató de decirle algo amable pero no pudo.
 Flaherty le llevó en su ascensor al piso decimoquinto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

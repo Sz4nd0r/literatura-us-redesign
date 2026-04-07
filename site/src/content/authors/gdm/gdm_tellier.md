@@ -260,6 +260,3 @@ A medianoche se bailaba aún. Algunas veces una de las muchachas desaparecía, y
 La frase tuvo un éxito enorme y todos sucesivamente subían a ver dormir al señor Poulin con una u otra de las señoritas que se mostraron de una complacencia inusual. Madame cerraba los ojos; tenía largo ratos privados con el señor Vasse como para ultimar los detalles de un affaire ya acordado.
 Finalmente, a la una, los dos hombres casados, el señor Tournevau y Pimpesse, dijeron que se retiraban, y querían saldar sus cuentas. Se les cargó solamente el champaña, y, más aún a seis francos la botella en vez de diez francos, el precio de costumbre. Y como ellos se asombraron de esta generosidad, Madame, radiante, les respondió:
 —Porque no todos los días es fiesta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

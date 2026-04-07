@@ -62,6 +62,3 @@ Y es que en mala hora
 os he visto yo…
 Todo se fue al diablo y puso el mundo patas arriba. Recuerdo que un torbellino enloquecido y espantoso me alzó como una pluma. Me hizo rodar largo tiempo en su remolino y borró de la faz de la tierra a mi mujer, a la propia tía y todas mis fuerzas. Y de aquella pequeña estación en plena estepa me ha arrojado, como ven, a este oscuro callejón.
 Y ahora díganme: ¿qué otra desgracia me puede aún ocurrir?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

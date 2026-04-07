@@ -239,6 +239,3 @@ Fue un verdadero escándalo. Hubo un silencio y luego un repentino frenesí, un 
 El recepcionista había oído su nombre; lo repitió cuando descolgaron en la habitación de la señorita Cary.
 —Puede subir cuando lo desee, señor Harlan.
 Dolly dio media vuelta, a solas con su éxito, que conquistaba por una vez su corazón. Descubrió de repente que no le pertenecería tan íntimamente durante mucho tiempo; el recuerdo sobreviviría al triunfo e incluso el triunfo sobreviviría a aquel calor que sentía en el corazón y que era lo mejor de todo. Alto, con la cabeza bien alta, imagen de la victoria y el orgullo, atravesó el vestíbulo, ajeno al destino que lo esperaba y a los murmullos que dejaba a su espalda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

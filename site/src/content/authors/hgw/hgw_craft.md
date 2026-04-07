@@ -192,6 +192,3 @@ Y lo hizo. Y lo hace. Ahora está sentado detrás de mí, engullendo —¡tan se
 Me repetirá una vez más lo de siempre: cómo le afecta aquello y cómo no le afecta, y cómo a veces abriga la ilusión de que el efecto se disipe un poco. Y, como siempre, en alguna parte de su espeso y monótono discurso dirá:
 —El secreto estará seguro, ¿no? Si alguien se enterara, me sentiría tan ridículo… Una cosa así lo convierte a uno en una especie de estúpido, ¿comprende? Arrastrarse por el techo y todo lo demás…
 Y ahora, ¡a eludir el acoso de Pyecraft, que ocupa —como siempre— una admirable posición estratégica entre la puerta y yo!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

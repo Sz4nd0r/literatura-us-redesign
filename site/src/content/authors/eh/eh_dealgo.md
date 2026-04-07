@@ -84,6 +84,3 @@ Se quedó allí largo rato. Estaba acostado cuando Bill apareció en el claro de
 — ¿Cómo te sientes?
 — ¡Oh! ¡Vete, Bill! Déjame solo un momento.
 Bill eligió un sándwich del canasto y fue a echar un vistazo a las cañas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

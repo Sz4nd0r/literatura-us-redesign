@@ -122,6 +122,3 @@ Notas:
 [9] En La reina de las hadas, de Spenser, la virgen Una representa la verdad.
 [10] Marino y explorador inglés (1728-1779).
 [11] En la mitología griega, Memnón (Mέμνων) fue un rey de Etiopía, hijo de Titono y Eos, la diosa de la aurora, y sobrino de Príamo. Durante la Guerra de Troya, formó un ejército para la defensa de la ciudad, y fue muerto por el guerrero griego Aquiles como venganza por la muerte de Antíloco.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

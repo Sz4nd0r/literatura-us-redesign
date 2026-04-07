@@ -640,6 +640,3 @@ Parecía que los pies se le habían separado un poco del suelo, porque se iba ap
 Pero Eli recuperó la postura, súbitamente, y, como en sueños, sacudiendo los brazos, gritó:
 —¡Soy el padre!
 Pero la ventana desapareció. En un momento le quitaron el chaquetón —salió muy fácilmente, a la primera—. Luego, una aguja se deslizó bajo su piel. El fármaco le calmó el espíritu, pero sin llegar a lo más profundo, donde lo negro había alcanzado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

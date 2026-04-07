@@ -180,6 +180,3 @@ Ahora todos los Vernichtungsgeschütze hacían fuego al mismo tiempo. Doce husos
 Pero fue el último. De repente, justo en el punto donde se encontraba el acorazado Tod, se alzó de pronto una montaña de agua, con las paredes lisas y un tamaño indescriptible. Como un monstruo, se elevó en el aire superando la altura de las nubes. Allí permaneció inmóvil un segundo. Repentinamente tembló, se rompió en una catarata y se desplomó sobre el dorso gris de las olas.
 Después, de pronto, la nada. Los hombres de la motora, petrificados, no podían creer lo que estaban viendo. De golpe se desvanecieron los fúnebres navíos del abismo, cesaron las columnas de agua, los fogonazos, las detonaciones, desapareció el acorazado Tod. Como si todo lo que acababa de ocurrir sólo hubiera sido fruto de su imaginación. En la vasta y uniforme superficie de las aguas no quedaba nada, ni un desecho, ni un cadáver, ni una mancha de gasóleo iridiscente. El océano y nada más.
 En el cielo, como testigos, sólo algunos jirones de nubes alquitranadas. Y en el horrible silencio que se abrió en sus corazones como una tumba vacía e inmensa, la hélice de la motora que runruneaba, que runruneaba rítmicamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

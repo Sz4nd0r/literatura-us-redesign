@@ -448,6 +448,3 @@ N. del T.:
 [2] Literalmente, «Deja que se desangre».
 [3] El chiste consiste en que «Sue» se pronuncia igual que «sioux», que es otra tribu india.
 [4] En el siglo XVII, el predicador escocés Richard Cameron rompió su lealtad con Carlos II de Inglaterra. Sus seguidores fundaron la Iglesia Reformada Presbiteriana, de raíz calvinista
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

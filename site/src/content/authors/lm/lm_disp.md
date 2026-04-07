@@ -286,6 +286,3 @@ Pero ella ya se estaba convirtiendo en otra cosa, en un pájaro, un flamenco, un
 De repente él comenzó a llorar —al principio, fuerte, con muchos «ay», luego con cansancio, como si saliera de un sueño profundo, la cabeza enterrada en el poncho que había tirado sobre el brazo del sofá, el cuerpo hundiéndose en la felpa de los cojines, un rehén del impaciente reparto estelar de su sueño.
 —¿Qué puedo hacer? —preguntó.
 Pero su sueño había cambiado y ella había desaparecido, desaparecido por la ventana, desaparecido, desaparecido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -76,6 +76,3 @@ El hombre se quedó callado durante largo rato, con la vista apartada. Entonces 
 —¿Está usted seguro?
 —Sí —contesté—, le vi hacerlo.
 Esto ocurrió hace muchos años. Si me preguntaran hoy, respondería con menos seguridad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

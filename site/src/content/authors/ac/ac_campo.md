@@ -129,6 +129,3 @@ Y todos callaban, incapaces de dar respuesta a esas cuestiones; sólo Volodia se
 —¿Qué te pasa? —pregunta Rodión.
 —Vivíamos bien sin el puente… —dice Volodia con aire sombrío—. Vivíamos bien sin el puente y no lo pedimos… No nos hace falta.
 Ningún campesino le responde. Continúan andando en silencio, encorvados, cabizbajos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -295,6 +295,3 @@ Ella se puso de pie y siguió mirándolo con avidez.
 Cuando el dentista la vio ir hacia él tambaleándose sobre sus tacones altos, su cuello colorado se hinchó como un papo e interrumpió a su cuñado para que tocara una rumba.
 El médico observó al dentista y la consejera académica bailando juntos. La señorita Steinweh bailaba bien; aunque no era tan experta como el dentista, tampoco se achicaba. Sus brazos eran recios pero sinuosos. Desde la otra punta del salón, atestado de las burdas copias de Van Goghs y Degas que hacía Sophie, parecía agradable. Bailaba con el dentista y lo trataba con amabilidad.
 Entonces el fotógrafo volvió a capturar al médico y empezó a esbozar otra de sus ideas para hacerse famoso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

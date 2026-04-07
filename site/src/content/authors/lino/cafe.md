@@ -84,6 +84,3 @@ Ahí termina, hasta ahora, mi historia. Hasta ahora, porque aún falta mi parte,
 Lo siento por don Sergio que no cesa de aconsejarme: “Hijo, olvida eso. Ya no tiene remedio...”
 ¡Olvidar! Se dice fácil. Y ustedes que, según me dicen, son exiliados, ¿qué me dicen? ¿Qué harían en mi caso? Pero... ¿por qué callan? ¿Por qué me miran de ese modo? ¿No saben qué decir? Así me pasa a mí a veces. Pero otras hablo hasta por los codos, hasta con desconocidos... Ustedes mismos. No los conozco. ¿Dicen que los ha enviado don Sergio?
 ¡Extraño! Haciendo memoria... Don Sergio está ahora en el hospital y no le dejan recibir visitas. Oigan... ¿Por qué se marchan así, sin decir nada? ¿Quiénes son ustedes? Cuatro... ¡Un momento! Oigan... (tac-tac-tac-tac.)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

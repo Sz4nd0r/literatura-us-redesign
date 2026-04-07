@@ -410,6 +410,3 @@ Miré a Matriona… Todavía era una mujer vital y joven, y no sé por qué se m
 Tal vez un rayo de sol que asomaba detrás de una nube se ocultara detrás de otra, preñada de lluvia, oscureciendo nuevamente todo ante mis ojos. Probablemente me figuraría pasar fugaz y tristemente toda la perspectiva de mi futuro, viéndome en aquel momento quince años después, como un hombre envejecido en aquella misma habitación, igual de solitario y junto a la misma Matriona que no había ganado en luces durante esos años.
 Pero ¡recordar yo mi ofensa, Nástenka! ¿Ensombrecer con una oscura nube tu felicidad clara y serena? ¿Envenenar tu corazón con secretos remordimientos, obligándolo a latir con tristeza en los momentos de tu felicidad? ¿Ajar un solo pétalo de esas delicadas flores que entrelaces en tus negros rizos cuando junto a él te dirijas al altar…? ¡Eso jamás, jamás! ¡Que resplandezca tu cielo, que tu tierna sonrisa sea clara y serena, que Dios te bendiga por un minuto de felicidad que des a otro corazón solitario y agradecido!
 ¡Dios mío! ¡Un minuto entero de felicidad! ¿Acaso es poco para toda una vida humana…?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -508,6 +508,3 @@ Yo me tapé los oídos. Bajé la
 cabeza con ganas de vomitar. Entonces, por entre la piel de los dedos
 escuché un alarido. Después alguien cayó sobre el candelabro y se hizo
 la oscuridad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

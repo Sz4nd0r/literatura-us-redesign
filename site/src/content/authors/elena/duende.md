@@ -103,6 +103,3 @@ Alegre, se levantó de su hamaca. Estrellita oyó que para Leli se había levant
 —Tú sabes que no fui yo. ¿Verdad?
 —¡Claro que lo sé! Eva es una mentirosa y Leli es una matona. No les hagas caso —dijo Estrellita con voz segura y ya acostumbrada a los crímenes de su familia.
 El Duende se quitó el gorro rojo, se limpió el sudor de la frente con el dorso de la mano y desde el espacio libre de la teja levantada, miró con alivio a su única amiga: Estrellita Garro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -383,6 +383,3 @@ Incluso repetía las expresiones de Tony.
 Así siguió durante mucho rato. Quizás debí interrumpirla, quizás debí explicarle que su sueño no podía durar. Pero permanecí sentado en silencio, y al fin subí a mi cuarto e hice las maletas. Todavía quedaba un hotel en el parque de atracciones abandonado de Juan, entre Maxim y el local de striptease clausurado.
 Si me hubiera quedado… ¡Quién sabe si Peter fue capaz de seguir fingiendo una noche más! Pero yo tampoco le convenía. Si el problema de Peter eran las hormonas, el mío eran los años. No volví a verlos. Ella, Peter y Tony habían salido en el Sprite, y Stephen, según me dijo la recepcionista, estaba en cama con su reumatismo.
 Pensé escribirle una nota para explicarle, con cierta vaguedad, los motivos de mi partida, pero cuando me puse a escribirla recordé que no conocía otro nombre que el de Poopy para dirigirme a ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

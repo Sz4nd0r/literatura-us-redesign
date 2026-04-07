@@ -284,6 +284,3 @@ Descartes
 Engrisado por las muchas lluvias, no pocas nevadas y el descuido en que se le tiene desde hace años, el pequeño panteón de dos columnas dóricas se alza siempre en el Cementerio Montparnasse, no lejos de la tumba de Porfirio Díaz, cerca de la de Baudelaire y el General Aupick. Quienes contemplan su interior a través de la reja negra que resguarda una puerta de cristales montados en metal dorado, pueden ver un sencillo altar sobre el cual se asienta la imagen de la Divina Pastora —copia de la imagen que se venera en su Santuario Mayor de Nueva Córdoba. A sus pies, debajo de una mística guirnalda de rosas y querubines, se halla un arca de mármol, sostenida por cuatro jaguares, donde se guarda un poco de la Tierra del Sagrado Suelo Patrio.
 Lo que acaso ignoran algunos es que Ofelia, pensando que la Tierra es una y que la tierra de la Tierra es tierra de la Tierra en todas partes —memento homo, quia pulvis es et in pulverem reverteris— había recogido la sagrada tierra, perennemente custodiada por los cuatro emblemáticos jaguares, en una platabanda del Jardín de Luxemburgo.
 La Habana - París - 1971-1973
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

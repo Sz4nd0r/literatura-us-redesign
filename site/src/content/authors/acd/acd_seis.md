@@ -170,6 +170,3 @@ Nos quedamos en silencio durante un momento.
 —¡Gracias! —dijo Holmes—. ¡Gracias!
 Y cuando se dio la vuelta me pareció que estaba más cerca que nunca de sucumbir a las reacciones humanas más emocionales de lo que nunca lo había visto. Un momento después, volvía a ser el pensador frío y práctico de siempre.
 —Guarde la perla en la caja fuerte, Watson —dijo—, y saque los documentos del caso de la falsificación de Conk-Singleton. Adiós, Lestrade. Si se le cruza algún problemilla en su camino, estaré encantado, en la medida de mis posibilidades, de darle uno o dos consejos relativos a su solución.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

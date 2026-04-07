@@ -55,6 +55,3 @@ Lo miró en corto. ¿Se llevaba la mano a la cintura? No: es que la gente preve�
 Dijo aquello bajito y sonaba mal. Pero se volvió a todos los presentes, y los hermanos también. Agradecían a todos la molestia. Y hasta medio sonreían apresuradamente. Se sacudían el barro de los pies, se limpiaban el que a las caras les había saltado. Doricón, yéndose ya, dijo y completó:
 —Nos vamos a vivir a un pueblo grande.
 El entierro había terminado y empezaba otra vez a llover.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

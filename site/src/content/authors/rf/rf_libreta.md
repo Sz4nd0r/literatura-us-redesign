@@ -77,6 +77,3 @@ Le quité la libreta de la mano. Escribí: “Andressa, sofisticada, generosa, i
 Andressa leyó lo que había escrito. Me abrazó, cariñosamente. Nos fuimos a la cama. Pasó la noche conmigo. Mientras tuvimos sexo, me llamó, mi amor, varias veces.
 En la mañana, después de que se fue, tomé la libreta de nombres que Andressa dejó sobre la mesa y la coloqué en un cajón cerrado con llave, donde estaba la otra libreta, la verdadera, de discreta portada gris, que contenía, resumidamente, las particularidades reales y los nombres de las decenas de mujeres a las que yo me cogía. La de portada roja, que Andressa leyó, era una falsificación que astutamente preparé para aquella empresa difícil. ¡Cinco días!
 Con mi mejor caligrafía, escribí, en la verdadera libreta: “Andressa. Chupa. Anal. Celulitis. No sabe quién es Florbela Espanca”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

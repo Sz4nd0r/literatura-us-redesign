@@ -102,6 +102,3 @@ Y luego, cuando se marchó, me dijo:
 —Usted lo ha querido, profesor.
 —Mea culpa —dijo él.
 Tuda se quedó con el profesor el tiempo necesario para buscar otro puesto. Lo encontró, de fregona, en una lechería del barrio. A veces viene a vernos a la portería. Del asunto de los libros no hablamos nunca. Pero me dice que está aprendiendo a leer y a escribir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

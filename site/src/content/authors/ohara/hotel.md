@@ -77,6 +77,3 @@ Supongo que después de eso Raymond estuvo esquivándome, porque no volví a ver
 —De vista solamente —dije—. Nunca nos hemos presentado.
 —Oh —dijo Raymond—. Bueno, supongo que tendría que ir subiendo. El señor Hurley sí que la conoce. Puede pedirle que los presente. Bueno, hasta la vista.
 —Hasta la vista —dije.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

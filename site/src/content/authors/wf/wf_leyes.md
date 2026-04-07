@@ -153,6 +153,3 @@ Lucas se quedó mirándole un instante.
 —George Wilkins —dijo.
 —Señor —dijo George.
 —Yo no le doy consejos acerca de su mujer a ningún hombre —dijo Lucas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

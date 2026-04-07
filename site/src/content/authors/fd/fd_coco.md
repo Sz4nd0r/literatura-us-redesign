@@ -271,6 +271,3 @@ Y así sucesivamente.
 —¿Y qué importa? Nos compadecemos de un animal, incluso de un mamífero. ¿Tenemos algo que envidiar a Europa? ¿No sienten también allí mucha compasión por los cocodrilos? ¡Ji, ji, ji!
 Dicho lo cual, el estrambótico Prójor Sávich volvió a meter la nariz en sus papeles y no pronunció ya ni una palabra más.
 Me guardé El Cabello y La Hoja en el bolsillo, reuní también, para distraer aquella tarde a Iván Matvéich, todos los números atrasados que puede encontrar y, aunque tenía mucho tiempo por delante, aquel día me escabullí de la oficina antes de la hora para pasarme un rato en el Pasaje y, aunque fuera de lejos, contemplar lo que allí ocurría y escuchar los comentarios y juicios diversos. Previendo que habría gran gentío, me embocé bien con el cuello del capote porque me sentía un poco avergonzado. Y es que estamos tan poco habituados a la publicidad… Pero, noto que, ante un suceso tan extraordinario y original, no tengo derecho a comentar mis prosaicas sensaciones personales.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -174,6 +174,3 @@ Ed lo miró con curiosidad. La cabeza de Peter pendía entre sus hombros. Su bar
 La cabeza de Peter se alzó lentamente. Sus ojos apagados miraron a Ed.
 —Ella no murió del todo —dijo con voz espesa—. No me ha dejado hacer nada a mi gusto. Ha estado martirizándome todo el año con lo de los malditos guisantes. —Sus ojos miraban al vacío—. Sigo sin saber cómo puede dominarme de esta manera. —Luego frunció el entrecejo—. Pero te aseguro, Ed Chappell, que no volveré a ponerme el arnés. De eso puedes estar bien seguro. No lo olvides. —Volvió a dejar caer la cabeza. Al instante la levantó de nuevo—. He estado borracho —afirmó—, y he ido a sitios poco recomendables. —Se acercó a Ed con aire confidencial, mientras su voz se reducía a un susurro—. Pero no se me notará. Cuando vuelva a casa, ¿sabes lo que voy a hacer? Instalar luz eléctrica. Emma siempre ha deseado tener luz eléctrica. —Se dejó caer en la cama, volviéndose hacia el lado opuesto.
 Ed Chappell lo desnudó y lo cubrió con las sábanas antes de irse a su cuarto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

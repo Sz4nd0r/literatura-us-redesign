@@ -135,6 +135,3 @@ inocente fondo de la fotografía —flores y palomas— estaban de pie como árb
 dos mozarrones; dos raros gigantes de mirada apagada, caras anchas, tiesos como
 a la voz de “¡Firmes!” Eran los dos hermanos de Kurdyukof: Feodor y
 Semión.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

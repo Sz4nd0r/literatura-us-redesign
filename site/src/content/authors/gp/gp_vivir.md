@@ -235,6 +235,3 @@ Yo me arrodillo, aunque sé que jamás en su vida ha llevado gemelos. Pero serí
 —Has sabido arreglártelas sola, ¿verdad? —dice, y se ríe.
 —Sí, creo que sí.
 Y, antes de que pueda instalarme cómodamente sobre el piso de linóleo con lunares, me posee sin contemplaciones allí donde estamos, y la verdad es que nos sentimos tan contentos, que nos olvidamos de tomar cualquier precaución.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

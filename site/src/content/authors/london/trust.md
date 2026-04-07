@@ -85,6 +85,3 @@ Churchill cogió el maletín y comprobó que estaba vacío.
 —El revólver está oxidado —dijo Bondell—. Debe de haber estado expuesto a la lluvia.
 —Sí —respondió Churchill—. Está completamente oxidado. Creo que be sido un poco descuidado.
 Se puso en pie y salió de la casa. Diez minutos después Bondell salió y le encontró en los escalones del porche, sentado, con los codos apoyados en las rodillas y la barbilla entre las manos, contemplando fijamente un punto indeterminado del espacio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

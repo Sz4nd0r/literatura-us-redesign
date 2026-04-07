@@ -252,6 +252,3 @@ Y se puso a bailar, saltando como
 loca, mientras la baronesita murmuraba:
 —¿Por qué no me invitaste a
 ver eso?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

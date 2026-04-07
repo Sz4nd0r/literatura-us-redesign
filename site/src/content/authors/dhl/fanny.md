@@ -205,6 +205,3 @@ Y así continuó la charla después de la cena, hasta que fue prácticamente la 
 —Tendrás que ir preparándote, Fanny —dijo la señora Goodall.
 —No, no voy esta noche —dijo Fanny abruptamente. Y hubo una repentina interrupción en la familia—. Lo dejamos por esta noche, madre —añadió.
 —Que tengas buena suerte, hija —dijo la señora Goodall, aduladora y confiada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

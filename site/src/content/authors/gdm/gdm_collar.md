@@ -387,6 +387,3 @@ impresionada, cogióle ambas manos:
 —¡Oh! ¡Mi pobre Matilde! ¡Pero
 si el collar que yo te presté era de piedras falsas!... ¡Valía
 quinientos francos a lo sumo!...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

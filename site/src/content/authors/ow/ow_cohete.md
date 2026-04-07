@@ -154,6 +154,3 @@ Y, en efecto, estalló.
 Pero nadie la oyó, ni siquiera los dos muchachos que dormían profundamente. No quedó del cohete más que el palo, que cayó sobre la espalda de una oca que daba su paseo alrededor de la zanja.
 —¡Cielos! —exclamó—. ¡Ahora llueven palos! —Y se tiró al agua.
 —¡Me parece que he causado una gran sensación! —musitó el cohete. Y expiró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

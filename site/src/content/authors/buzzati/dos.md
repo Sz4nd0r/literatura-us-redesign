@@ -109,6 +109,3 @@ Consonni se llevó la mano al cuello de la camisa. No podía respirar.
 Esta vez también Petercondi rió satisfecho; parecía un avispón. Los dos se alejaron, mofándose descaradamente, hasta que desaparecieron tras la tapia del ferrocarril, por los tétricos terraplenes.
 —¡Malditos! ¡Malditos cerdos! —imprecó Consonni—. ¡Esos malditos caballeros! ¡Siempre acaban saliéndose con la suya!
 Miraba turbado a su alrededor. Pero no había nadie, sólo un silencio absoluto. Una rata salió de una alcantarilla. El bramante se desató de su dedo y el paquetito blanco cayó al suelo con un ruido de papel. “Malditos”, volvió a murmurar el hombre. Y con precaución se tocaba, rozándola con los dedos, aquella cosa que le dolía al lado de la nariz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

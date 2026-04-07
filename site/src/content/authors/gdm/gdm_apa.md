@@ -242,6 +242,3 @@ Se efectuó una visita minuciosa a la casa de campo abandonada. No se descubrió
 Ningún indicio reveló que hubiera alguna mujer oculta en aquel lugar.
 La investigación no llegó a ningún resultado, y las pesquisas fueron abandonadas.
 Y, tras cincuenta y seis años, no he conseguido averiguar nada. No sé nada más.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

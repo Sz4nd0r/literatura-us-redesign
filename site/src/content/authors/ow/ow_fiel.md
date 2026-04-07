@@ -153,6 +153,3 @@ Gritó su «¡pse!» a toda voz y, dando un coletazo, se volvió a su agujero.
 —Temo haberle molestado —respondió el pardillo—. El hecho es que le he contado una historia que tiene su moraleja.
 —¡Ah, eso es siempre una cosa peligrosísima! —dijo la pata.
 —Y yo comparto absolutamente su opinión.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

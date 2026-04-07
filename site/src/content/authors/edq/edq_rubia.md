@@ -289,6 +289,3 @@ Y, acercándose a ella, le dijo en voz baja:
 Y, dándole la espalda, se alejó, despacio, rayando el suelo con el bastón.
 A distancia, se volvió: todavía vio, a través de los bultos, su vestido azul.
 Como partió esa misma tarde para provincias, no supo nada más de aquella chica rubia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

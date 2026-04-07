@@ -88,6 +88,3 @@ En ese momento, entró una criada gruesa.
 Al oír esas palabras, León se derrumbó sobre una silla; y su compañera hizo otro tanto. Les entraron ganas de reír, y tuvieron que hacer un esfuerzo para no explotar. La joven le apretó alegremente la mano.
 —Finalmente —dijo León al hotelero— no nos iremos hasta el tren de las dos. Prepárenos un buen almuerzo para mediodía.
 Biarritz, septiembre de 1866
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

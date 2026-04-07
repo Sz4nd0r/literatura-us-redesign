@@ -331,6 +331,3 @@ Me asalta la visión de mi cuerpo desnudo, y extendido sobre una mesa en la Morg
 Daniel me toma del brazo y echa a andar con la mayor naturalidad. Parece no haber dado ninguna importancia al incidente. Recuerdo la noche de nuestra boda… A su vez, él finge, ahora, una absoluta ignorancia de mi dolor. Tal vez sea mejor, pienso, y lo sigo.
 Lo sigo para llevar a cabo una infinidad de pequeños menesteres; para cumplir con una infinidad de frivolidades amenas; para llorar por costumbre y sonreír por deber. Lo sigo para vivir correctamente, para morir correctamente, algún día.
 Alrededor de nosotros, la niebla presta a las cosas un carácter de inmovilidad definitiva.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

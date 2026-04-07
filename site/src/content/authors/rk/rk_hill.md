@@ -160,6 +160,3 @@ A setecientas yardas, y a doscientas ladera abajo, el desertor de los aurangabad
 Learoyd, pensativo, observó cómo se disipaba el humo.
 —Quizá hubiese una chica en la vida de él también —dijo.
 Ortheris no contestó. Estaba mirando hacia el otro lado del valle, con la sonrisa de un artista que contempla su obra acabada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

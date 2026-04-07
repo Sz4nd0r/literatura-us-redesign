@@ -175,6 +175,3 @@ En los tiempos del viejo Ramsés,
 esa historia tenía paresia,
 ¿estás de acuerdo, estás de acuerdo, estás de acuerdo?
 —Bien; me alegro de que te hayas encontrado a ti mismo —dijo el vapor—. La verdad es que estaba un poco cansado de tener que hablar con todas esas cuadernas y vagras. Ahora viene la cuarentena. Después iremos a nuestro muelle a limpiar un poco y... el próximo mes volveremos a hacerlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

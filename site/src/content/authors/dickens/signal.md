@@ -99,6 +99,3 @@ La noche siguiente se presentó lindísima, fresca. Salí temprano. Al aproximar
 —¿Qué le gritó?
 —Le grité: “¡Cuidado, el de abajo! ¡Cuidado! ¡Cuidado! ¡Por amor de Dios, despeje el camino!”. Fue un momento terrible, señor. No dejé de gritar, tratando de atraer su atención. Me puse el brazo delante de los ojos, para no ver, y agité el otro hasta el último; pero todo inútil.
 No quiero prolongar este relato. Pero voy a recalcar la extraña coincidencia de que el aviso del maquinista incluyera, no solo las palabras que el señalero me había repetido, sino las que yo usé la primera vez y hasta el mismo gesto que él imitaba al contarme la historia del espectro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

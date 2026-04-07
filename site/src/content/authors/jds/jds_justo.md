@@ -627,6 +627,3 @@ mano para dejarlo caer en la calle, pero volvió a guardardo en el
 bolsillo. Pocos años atrás, le había llevado tres días tirar el
 pollito de Pascua que había encontrado muerto en el serrín del fondo
 de papelera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

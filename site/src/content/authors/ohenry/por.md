@@ -46,6 +46,3 @@ La joven dobló la carta y se la entregó al muchacho.
 —El caballero desea una contestación —dijo el mensajero— ¿Qué le digo?
 Los ojos de la muchacha relampaguearon rápidamente, brillantes, sonrientes y húmedos.
 —Dígale al tipo que está sentado en ese banco —dijo con una risa feliz y trémula— que esta muchacha lo desea.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

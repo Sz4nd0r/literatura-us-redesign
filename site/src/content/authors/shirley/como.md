@@ -108,6 +108,3 @@ El señor Harris se incorporó y declaró con entusiasmo:
 Sorprendido, David tomó la llave del apartamento de la muchacha, se despidió del señor Harris y se dirigió a la puerta.
 —Buenas noches, Davie, cielo —le dijo Marcia desde lejos, y David respondió:
 —Gracias por una cena sencillamente maravillosa, Marcia —y cerró la puerta tras él. Cruzó el pasillo y franqueó la puerta del apartamento de Marcia. El piano seguía invadiendo el vestíbulo, los papeles seguían en el suelo, la ropa para lavar continuaba esparcida por la estancia y la cama, sin hacer. David se sentó en la cama y miró a su alrededor. La sala estaba fría y sucia y, mientras pensaba, abatido, en su hogar cálido y confortable, le llegó desde el otro extremo del pasillo el débil sonido de unas risas y el ruido de una silla arrastrada por el suelo. Después, también muy débil, oyó sonar la radio. Con gesto cansino, David se inclinó y recogió un papel del suelo. Después empezó a recogerlos uno a uno.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -107,6 +107,3 @@ El mozo, quien, como todos los de su clase, admiraba el empuje de su fogoso patr
 El mozo se apartó tímidamente. Sonó un latigazo y una blasfemia, pateó el caballo y Jacobo caminaba ya a trote tendido.
 Un momento después, a los ojos somnolientos del mozo no era más que una movediza nubecilla de polvo en el horizonte hacia donde una estrella, separándose de sus hermanas, dejaba un rastro luminoso.
 Los moradores a orillas del camino de Wingdam, oyeron, al amanecer, una voz vibrante como la de la alondra, cantando por la llanura. Los que dormían se revolvieron en sus toscos lechos para soñar en la juventud, en el amor y en la vida. Campesinos de rostro implacable, afanosos buscadores de oro que ya estaban trabajando, interrumpieron su labor y se apoyaron sobre las palas para escuchar a aquel romántico vagabundo que cabalgaba al trote, y cuya figura se recortaba sobre el rosado resplandor del sol primero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

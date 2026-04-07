@@ -80,6 +80,3 @@ El sabio consulta su reloj y coge un libro.
 —Entonces ¿va a prestarme un ejemplar de Gógol? —pregunta Iván Matveich, poniéndose en pie.
 —Sí, sí. Pero ¿por qué tiene tanta prisa, amigo? Siéntese y cuénteme algo…
 Iván Matveich se sienta y esboza una amplia sonrisa. Pasa casi todas las tardes en el despacho del sabio, en cuya voz y mirada percibe un matiz especialmente delicado y afectuoso, casi paternal. En algunos momentos hasta le asalta la sospecha de que el sabio le aprecia y se ha acostumbrado a él, y se figura que los reproches que le dirige cuando se retrasa sólo se deben a que echa de menos sus comentarios sobre las tarántulas y el modo de coger jilgueros a orillas del Don.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

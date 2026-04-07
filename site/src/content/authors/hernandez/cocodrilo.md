@@ -541,6 +541,3 @@ dormí. Cuando me desperté sentí el escozor de las lágrimas que se
 habían secado. Quise levantarme y lavarme los ojos, pero tuve miedo que
 la cara se pusiera a llorar de nuevo. Me quedé quieto y hacía girar los
 ojos en la oscuridad, como aquel ciego que tocaba el arpa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

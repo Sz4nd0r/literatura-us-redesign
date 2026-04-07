@@ -163,6 +163,3 @@ De manera que Keola le contó todo al primero que apareció. Y el misionero le r
 Pero avisó a la policía de Honolulú de que, por lo que había podido sacar en limpio, Kalamake y Keola habían acuñado moneda falsa, y no estaría de más vigilarlos.
 Keola y Lehua hicieron lo que el misionero les había aconsejado, y dieron una elevada cantidad de dólares para los leprosos y para el fondo.
 Y no cabe duda de que el consejo fue bueno, porque desde entonces no se ha vuelto a saber nada de Kalamake. Pero en cuanto a si murió en la batalla de los árboles o está todavía vivito y coleando en la Isla de las Voces, ¿quién podrá decirlo?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

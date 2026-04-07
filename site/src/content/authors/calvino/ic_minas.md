@@ -48,6 +48,3 @@ Se detuvo. Sentía dentro una extraña agitación hecha de hambre y de miedo, qu
 Continuó. «Hasta ahora no he encontrado el campo de minas», pensó. «Ahora serán cincuenta, cuarenta pasos…».
 Cada vez que apoyaba el pie, al sentir debajo la tierra dura y firme, respiraba. Un paso, otro, otro más. Esa losa de esquisto que parecía una trampa es en cambio sólida; esa mata de brezo no esconde nada; esa piedra… bajo su peso la piedra se hundió dos dedos. Guiii… guiii… hacían las marmotas. Adelante, el otro pie.
 La tierra se convierte en sol, el aire se convierte en tierra, el guiii de las marmotas se convierte en trueno. El hombre sintió una mano de hierro que lo aferraba por los cabellos, en la nuca. No una mano sino cien manos aferrándolo cada una por un cabello, rasgándolo hasta los pies como se desgarra una hoja de papel, en cientos de trocitos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

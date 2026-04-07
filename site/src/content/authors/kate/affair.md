@@ -74,6 +74,3 @@ Ella no protestó. Todo en su porte parecía indicar que estaba de acuerdo con l
 —Oh —aventuró él con vehemencia—, ¡quiere usted olvidarlo! Entonces, ¿es posible que ya que está dispuesta a olvidar, sea lo bastante generosa como para perdonar un día a quien la ofendió?
 —Algún día —repitió en un tono casi inaudible, mirando a su través, pero sin mirarle—, tal vez, algún día; cuando me haya perdonado a mí misma.
 Él se quedó inmóvil, mirando su esbelta figura erguida empequeñecerse a medida que se alejaba caminando lentamente. Se preguntaba qué habría querido decir. Después, cuando se dio cuenta a qué podía haberse referido, una repentina oleada le golpeó la garganta morena tiñéndola de rojo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

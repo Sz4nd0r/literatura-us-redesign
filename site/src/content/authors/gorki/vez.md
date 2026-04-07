@@ -93,6 +93,3 @@ Fueron los primeros besos de mujer que me deparó la vida, y fueron los mejores 
 Estuvimos toda la noche abrazados.
 Y, cuando amaneció, salimos de la barca y nos dirigimos a la ciudad… Después nos despedimos amistosamente, y no volvimos a encontrarnos jamás, a pesar de que estuve más de medio año buscando en todos los tugurios a aquella adorable Natasha, con la que pasé aquella noche, una vez, en otoño…
 Si acaso ha muerto —¡qué suerte para ella!—, ojalá descanse en paz. Y, si aún vive, espero que disfrute de sosiego. Y que no se despierte en su alma la conciencia de la caída… Pues sólo supondría un sufrimiento inútil y estéril…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

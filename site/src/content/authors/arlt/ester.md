@@ -185,6 +185,3 @@ La nieve cae oblicuamente. En la oscuridad avanza un enfermero. De pronto en su 
 —Ya voy.
 Hace setecientos días que pienso en ella. La nieve cae oblicuamente. Dejo la reposera y me encamino al pabellón. Pero antes de llegar tengo que rodear una baranda que mira hacia el sur. Allá, a ochocientos kilómetros está Buenos Aires. La noche infinita ocupa un espacio de desolación. Y yo pienso:
 —Ester Primavera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -363,6 +363,3 @@ Miller le miró durante unos instantes. Nelson estaba blanco y temblando convuls
 —¿Listo? —preguntó Miller al australiano.
 Ambos se arrojaron al agua y nosotros esperamos en la orilla silenciosos. Nos pareció que permanecían en el fondo más de lo que un hombre puede resistir. Hasta que, al fin, Cárter salió a la superficie e inmediatamente después Miller, con el semblante congestionado, como si le fuese a dar un ataque. Arrastraban algo que debía de pesar mucho. Un tercero se lanzó al agua para ayudarlos, y entre los tres fueron empujando la pesada carga, hasta dejarla en la orilla. Entonces vimos lo que tanto terror había causado a Nelson: era el cadáver de Lawson, con una enorme piedra atada a la cintura.
 —Hizo su trabajo a conciencia —murmuró Miller mientras se secaba el agua de los ojos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -605,6 +605,3 @@ Publicado por primera vez en Poetry en septiembre de 1916 y recopilado luego en 
 Publicado en Poetry en septiembre de 1916 y recopilado luego en Prufrock. El Preste Juan es un legendario gobernante cristiano de Oriente.
 [17] Se publicó por primera vez en el número de septiembre de la revista Poetry, antes de ser recopilado en Prufrock. Durante su estancia en París, en 1911, Eliot decidió hacer un viaje por el norte de Italia y un amigo le conminó a ver, en un determinado museo, un bajorrelieve llamado La figlia che piange, que representaba a una joven con un ramo de flores llorando una muerte. Al parecer, Eliot fue incapaz de encontrar el bajorrelieve y la figura imaginada constituyó el estímulo del poema, que es en realidad una écfrasis de una imagen soñada.
 [18] El epígrafe es del primer libro de la Eneida de Virgilio, en concreto del episodio en que Eneas se encuentra con su madre, Venus, disfrazada de cazadora. Cuando Eneas oye su voz, le dice: «O quam te memorem, virgo? Namque haud tibi voltus / mortalis nec vox hominem sonat. O dea certe», que puede traducirse como «Oh, ¿cómo te llamas, joven? Ni tienes cara / de mortal ni suena tu voz humana. Oh, ciertamente eres una diosa».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

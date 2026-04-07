@@ -421,6 +421,3 @@ N. del T.:
 [8] Bebida nutritiva a base de leche de yegua fermentada.
 [9] La ciudad portuaria de Sebastopol, situada a orillas del mar Negro, en la península de Crimea (Ucrania), sufrió un largo asedio durante la Guerra de Crimea (1853-1856), que enfrentó al Imperio ruso con la alianza formada por Francia, Reino Unido y el Imperio otomano. El 9 de septiembre de 1855, tras once meses de resistencia rusa, las tropas franco-británicas tomaron Sebastopol.
 [10] El salop (en plural, salopy) era una prenda de abrigo femenina, amplia y larga, con mangas anchas y con esclavina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

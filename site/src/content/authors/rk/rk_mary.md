@@ -158,6 +158,3 @@ Sin embargo era evidente. Una mujer podía seguir siendo útil aun cuando careci
 —Vamos —murmuró a media voz—. Esto no es el fin.
 El fin llegó luego con absoluta nitidez, como un arrullo entre dos ráfagas de lluvia. Mary Postgate soltó de golpe el aire entre los dientes y se estremeció de la cabeza a los pies.
 Eso es —asintió con satisfacción, y volvió a la casa, poniendo patas arriba la rutina doméstica al darse el lujo de tomar un baño caliente antes del té, y después bajó con un aspecto que, al verla relajadamente tendida en el otro sofá, la señorita Fowler calificó de “¡muy atractivo!”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

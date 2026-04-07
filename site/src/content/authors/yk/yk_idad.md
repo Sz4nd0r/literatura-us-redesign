@@ -54,6 +54,3 @@ La muchacha se deslizó sin dificultad a través del tronco. Y también el viejo
 —Has muerto. ¿Es así? Qué extraño no haberte encontrado en el mundo de los muertos. Bueno, intenta atravesar este tronco una vez más para verificar si estás muerto o vivo. Si estás muerto podremos entrar en el árbol y quedarnos allí.
 Desaparecieron dentro del árbol. Ni el viejo ni la muchacha volvieron a aparecer.
 El color de la noche empezaba a flotar sobre los retoños que estaban detrás de los grandes árboles. El cielo a lo lejos se tiñó de un pálido rojo allí donde rugía el océano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

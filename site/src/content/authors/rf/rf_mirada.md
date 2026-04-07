@@ -174,6 +174,3 @@ Comencé a saborearlo delicadamente, en pequeñas porciones. ¡Ah!, ¡qué place
 Después fui a cepillarme los dientes. Contemplé, a través del espejo, pensativo, la bañera. ¿Quién me había dicho que los cabritos tenían una mirada al mismo tiempo amable y perversa, una mezcla de pureza y depravación? ¿Y la mirada de los seres humanos? Hum... Aquella bañera era pequeña. Necesitaba comprar una mayor. Tal vez un jacuzzi, de los grandes, con chorros estimulantes.
 Permanecí viendo mi rostro en el espejo. Miré mis ojos. Mirando y siendo mirado —una cosa finalmente irreflexiva, un eje de acero, lava de un volcán siendo expelida, nube interminable.
 La mirada. La mirada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

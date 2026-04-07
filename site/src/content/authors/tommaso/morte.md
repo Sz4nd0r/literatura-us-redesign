@@ -69,6 +69,3 @@ Ella seguía acusando a la suerte, y él, si bien consciente de que las acusacio
 Reconocía, el incauto, sin saber que basta con la mínima admisión para estar perdido, perdido en un mundo dudoso, contradictorio y, sobre todo, incomprensible.
 Los dos se casaron y todavía hoy son esposos felices… “Felices”, así es como hemos convenido en decir: en realidad, en ese punto comenzó lo oscuro, a veces lo ignominioso, lo ignoto.
 Lo cierto es que a él no se le ha vuelto a antojar el ir a dar vueltas por las estaciones muertas. En efecto, no ve la necesidad de ello: su vida, su propia vida, es una estación muerta, en la que ningún tren se detiene nunca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

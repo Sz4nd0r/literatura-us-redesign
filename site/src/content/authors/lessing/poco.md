@@ -142,6 +142,3 @@ Las largas veladas en que Frederick estaba en la clínica, o de visita, y era co
 Pero Muriel levantaba la vista, sonreía, les ofrecía preparar un té o decía que había oído el coche de Frederick y que estaba cansada y que se iba a la cama; porque era discreta, y por la noche nunca se quedaba más de la cuenta.
 Pero este es el futuro que nos espera, pensaba Althea. Su futuro, el de ella y el de Muriel, para cada una de ellas era la otra.
 Ella lo sabía. Pero era neurótico pensar así y debía tratar de reprimirse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

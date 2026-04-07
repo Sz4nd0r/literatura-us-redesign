@@ -115,6 +115,3 @@ Lentamente, echaron a andar. El teniente volvió a ceñirse la canana con los re
 La barranca por la que surcaba el arroyo comenzaba a llenarse de las sombras del crepúsculo. A lo lejos, donde desembocaba el amplio cañón de río Grande, se divisaba un panorama inundado por el esplendor del crepúsculo.
 De pronto, un grito de horror escapó de los labios de Alvarita. Retrocedió para refugiarse entre los protectores brazos de Buckley. ¿Qué monstruo provocaría el final del reinado de la antes indomable reina?
 Por el sendero avanzaba una oruga; una horrorosa oruga de casi dos pulgadas. “Kuku” quedaba vengada, pues había asistido a la abdicación de la reina de las serpientes. Y puesto que la reina abdicó, ¡viva la reina!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

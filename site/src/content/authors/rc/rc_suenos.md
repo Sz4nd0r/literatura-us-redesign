@@ -108,6 +108,3 @@ Se lo dije y luego le pregunté:
 —¿Le parece bien a las seis?
 —¿Cuándo? Ah, sí. A las seis está bien. —Empuñó la pala y removió la tierra—. Voy a seguir, a ver si planto las semillas. Iré a las seis. Gracias.
 Volví a casa y le dije a Dotty lo de la cena. Saqué los platos y los cubiertos. Cuando volví a mirar por la ventana Mary Rice se había metido en casa, ya no estaba en el jardín.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

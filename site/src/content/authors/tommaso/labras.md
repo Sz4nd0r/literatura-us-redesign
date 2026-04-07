@@ -74,6 +74,3 @@ No querían y hacían obstruccionismo intentando embrollarme, pero las obligué 
 Ya, pero ahora hay un gran problema. Porque cada una de ellas tomó un cierto significado y se quedó con él, de acuerdo; pero, ¿quién tomó ese determinado significado? Ése es el problema. No sé si me explico. ¿Entienden el problema? Todo se hizo a la buena de Dios, de palabra. En la agitación del momento, no me acordé de anotar los varios cambios y las distintas atribuciones de significado. No me quedó nada en la mano, ni un solo documento probatorio. De modo que ahora, abreviemos, ellas saben lo que significan, yo no. Es terrible.
 Además, estoy un tanto preocupado. He contado que, al salir de la botella, huyeron a saber dónde, pero seguro que se quedaron en casa y un día u otro, ya lo verán, volverán a mí.
 Sólo por una cosa estoy satisfecho: que, al menos, por fin, he comprendido el sentido de la expresión “enjuagarse la boca con las palabras”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

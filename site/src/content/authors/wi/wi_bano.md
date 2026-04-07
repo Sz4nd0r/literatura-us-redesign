@@ -58,6 +58,3 @@ Con estas lágrimas, estos lamentos y clamores de la mujer y de su tierna famili
 Más muerto que vivo, sacaron del calabozo al ex-sonriente y satisfecho llenapapeles. Toda su presunción había desaparecido y, según dicen, su pelo había encanecido de terror; con aire tan hundido y con tan extraviada mirada se presentó como si hubiera sentido realmente en su cuello el contacto de la cuerda fatal.
 El viejo gobernador apoyó encorvado en el pecho su único brazo y lo miró un instante con fiera sonrisa:
 —En adelante, amigo —le dijo—, reprímase esas ganas de mandar gente a la horca y no se crea tan seguro aunque la ley esté de su parte… ¡Ah, y sobre todo ándese con ojo de no venirle con bromitas a quien ya se las sabe todas!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

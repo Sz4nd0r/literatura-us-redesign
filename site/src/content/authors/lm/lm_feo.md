@@ -217,6 +217,3 @@ Earl se volvió y se inclinó sobre la barandilla del balcón. Se hacía tarde. 
 Por detrás, la línea de marcador que le dibujaba el trasero se ensanchaba, negro sobre rosa, como una página de tiras cómicas. Zoë se acercó por atrás, lento, y le dio un empujón. Sus manos resbalaron hacia delante, más allá de la barandilla, sobre la avenida. La cerveza escapó de la botella, cayendo veinte pisos hasta el asfalto.
 “¡Hey! ¿Qué estás haciendo?” dijo él, volviéndose rápidamente. Se puso derecho, listo, y se alejó de la verja, esquivando a Zoë. “¿Qué mierda estás haciendo?”
 “Sólo bromeaba,” dijo ella. “Sólo estaba bromeando.” Pero él la contempló, atónito, aterrorizado, con el trasero dibujado por marcador vuelto por completo hacia la ciudad, una supuesta mujer desnuda con un brazalete azul en la muñeca, atrapado en un balcón con… ¿con qué? “En serio, sólo fue una broma!” gritó Zoë. El viento le levantó el cabello hacia el cielo, como espinas detrás del hueso. Si hubiera un lago, la luz de luna bailaría sobre él en un arrebato. Ella le sonrió y se preguntó qué aspecto tendría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

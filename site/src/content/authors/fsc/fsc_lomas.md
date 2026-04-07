@@ -185,6 +185,3 @@ George inclinó la cabeza de repente, y en el mismo instante Jonquil se le acerc
 —Sí —le susurraba George en la boca—. Todo el tiempo del mundo...
 Todo el tiempo del mundo: la vida de él y la vida de ella Pero, por un momento, mientras la besaba, comprendió que, aunque buscara durante toda la eternidad, nunca encontraría aquel abril perdido. Podía abrazarla hasta que le dolieran los músculos: Jonquil era algo extraño, deseable, por lo que había luchado, que le había pertenecido, pero nunca volvería a ser un susurro intangible en la oscuridad, en la brisa nocturna...
 «Bueno, se acabó», pensaba. «Se acabó abril, se acabó. Existen en el mundo amores de todas las clases, pero nunca el mismo amor dos veces».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

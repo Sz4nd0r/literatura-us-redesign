@@ -166,6 +166,3 @@ en la Secretaría de Catastro y Prevención, el joven cantante fue
 atro­pellado por un tranvía en la Avenida Cuauhtémoc, Juan Cartesio
 vive muy lejos, en un destierro volun­tario y honorable. Sólo quedo
 yo, que de vez en cuando hago argumentos para el cine.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -199,6 +199,3 @@ De la mañana blanca, tendida sobre el mantel, surgió la pregunta: «¿Cuál es
 —No sé… —respondió Evita.
 —Sí, sí… —asintió Leli.
 —Eso se dice, que fueron ustedes las que dejaron la puerta abierta. Salía tanta pestilencia, que los arrieros, al pasar por allí, la notaron, se metieron hasta el patio y allí lo hallaron tirado en el mero centro. Dicen que fueron las mujeres las que lo mataron, porque la Semana desapareció… ¿Están seguras de que les habló?… Dicen que murió hace varios días…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

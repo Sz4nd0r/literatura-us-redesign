@@ -216,6 +216,3 @@ Cuando se apearon frente al Southern Hotel, Davies apoyó la mano en el coche y 
 —¡Buen chico!
 Wemple hizo lo mismo. Y la señorita Drexel, a punto de decir algo, mientras los dos la miraban, sintió que los ojos se le llenaban de lágrimas, por lo que se volvió en dirección al coche, lo acarició y repitió:
 —¡Buen chico!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

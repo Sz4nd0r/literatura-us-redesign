@@ -159,6 +159,3 @@ Se mete en el lago, deslizándose en el agua como entre las capas de un espejo: 
 Se oye una campana, suena débilmente desde la casa lejana. La campana que anuncia la cena. Le toca cocinar a Pamela. ¿Qué cenarán? Algún mejunje extraño. Pamela tiene sus propias ideas sobre la comida.
 Mira hacia la orilla, a la línea del agua, donde termina el lago. Ya no es horizontal: parece inclinada, como si hubiera habido un corrimiento en el lecho de roca; como si los árboles, los afloramientos de granito, Wacousta Lodge, la península, el continente entero se deslizaran gradualmente hacia abajo, se sumergieran. Portia piensa en un barco —un barco enorme, un transatlántico de pasajeros— que se inclina, que desciende, con las luces todavía encendidas, la música sonando aún, los pasajeros hablando, ajenos todavía al desastre que ya les ha acometido. Se ve corriendo desnuda por el salón de baile, una figura absurda y perturbadora con el cabello chorreante, agitando los brazos, gritándoles: «¿No lo veis? Se desmorona, todo se desmorona, os estáis hundiendo. ¡Estáis acabados, estáis perdidos, estáis muertos!».
 Naturalmente, ella sería invisible. Nadie la oiría. Y, a decir verdad, no ha ocurrido nada que no haya ocurrido antes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

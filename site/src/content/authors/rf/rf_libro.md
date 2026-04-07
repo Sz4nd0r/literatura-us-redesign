@@ -469,6 +469,3 @@ Ella escribe en un papel sus direcciones y sus teléfonos, de la casa, del hospi
 En la calle, luego de destruir la tapa y arrancar la mayoría de las páginas del libro, arrojo todo a la basura. Mi homenaje al viejo.
 Voy al hotel Itajubá, en el centro de la ciudad.
 Me quito los zapatos, me acuesto y espero a que llegue la noche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

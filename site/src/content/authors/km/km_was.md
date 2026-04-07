@@ -106,6 +106,3 @@ Al ver a la niña que se sentía cansada el nene abrió los ojos y chilló más 
 —Un momento... casi está dormido ya —gritó.
 Y entonces, delicadamente, sonriendo, de puntillas trajo el almohadón color rosa de la cama de la Frau y tapó con él la boca a la criatura. Luego apretó con todas sus fuerzas hasta que el nene se retorció —así le parecía a ella— “como un patito a quien le retuercen el pescuezo”.
 Se le escapó un largo suspiro y cayó de espaldas en el suelo. Y se fue andando, andando, por un blanco caminito con altos árboles negros a cada lado. Un caminito que no llevaba a parte alguna y por el cual no transitaba nadie... Absolutamente nadie.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -142,6 +142,3 @@ sábana rígida parece la palma verde que se coloca a la cabecera de los muertos
 Salvette ha comprendido. Entonces, aunque llorando, y algo ebrio por la fiesta
 y por el dolor, se pone a cantar a plena voz en el silencio del dormitorio el
 alegre estribillo provenzal: “Retírense, pastores”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

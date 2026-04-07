@@ -193,6 +193,3 @@ La respuesta de la señora fue inesperada:
 El joven se emocionó de alegría, pero la vieja señora H, extrañada, sólo
 le repitió en susurros insistentes:
 –No, no se llamaba Loti. Era Julien Viaud, estoy segura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

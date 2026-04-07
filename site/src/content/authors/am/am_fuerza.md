@@ -87,6 +87,3 @@ Había armado tal alboroto por Sestilia que ahora tenía que demostrarle que ver
 —¡Enhorabuena, Luigi!
 —Sí —pensaba yo—, ¡enhorabuena, un cuerno!
 Pero desde entonces nunca más he vuelto a llevar el cuchillo encima.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

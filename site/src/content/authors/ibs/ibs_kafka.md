@@ -57,6 +57,3 @@ Dijo:
 Saqué unas monedas del bolsillo y se las di.
 —¿Tanto me da? Realmente parece que haya asaltado un banco… ¡Cuarenta y seis groschen! ¡Así, como si tal cosa! En fin, si hay Dios, no tengo la menor duda de que le recompensará. Y si no hay Dios, ¿quién es ése que juega al ajedrez con Jacques Kohn?
 (Traducido del yiddish al inglés por el autor y Elizabeth Shub).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

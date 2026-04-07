@@ -99,6 +99,3 @@ Cien voces gritaron la respuesta:
 —¿Dónde está el cobarde? —preguntó la voz.
 —Ha ido a llevar la noticia —respondieron las cien voces—. Ha ido a llevar la noticia. Ha ido a llevar la noticia.
 Narau gimió con el espíritu angustiado. Lo que decía aquella vieja canción era cierto. Él era el cobarde y ya nada podía hacer sino correr a llevar la noticia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

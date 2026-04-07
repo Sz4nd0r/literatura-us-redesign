@@ -66,6 +66,3 @@ Cavaron en la arena, buscando conchas que iban echando a las cestas. La arena es
 —¡Ay, ay, qué bonito! —gritó chapoteando, agitando con los pies aquella agua tibia y poco profunda.
 Juntó las dos manecitas para coger un poco de ella. Pero en sus manos el agua dejó de ser azul. Estaba tan contenta, que corrió hacia la mujer y, echándole al cuello los brazos, la acarició y la besó.
 De pronto la muchacha dio un grito de espanto. La mujer se incorporó y Pearl, dejándose caer en la arena, miró hacia el lado de tierra. Hombrecitos uniformados de azul, hombrecillos azules, se acercaban corriendo, dando voces y tocando silbatos. Una multitud de hombrecillos azules que venían a llevársela a la casa de cuartitos chiquitos como cajones.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

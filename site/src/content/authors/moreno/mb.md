@@ -108,6 +108,3 @@ El color que el Infierno me escondiera (1981).
 Número. Nros. 15-16-17,julio-diciembre 1951.
 (4) En
 La Mañana. 3/5/63: “Siete preguntas a Carlos Martínez Moreno”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

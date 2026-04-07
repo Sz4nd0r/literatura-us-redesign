@@ -268,6 +268,3 @@ A lo largo de la playa caminaba un hombre. Andaba despreocupadamente, como si hu
 —Hola, capitán —gritó cuando llegó a la altura del Malahini—. ¿Puedo subir a desayunar?
 El rostro y el cuello del capitán Warfield comenzaron a hincharse y a teñirse de púrpura. Trató de hablar, pero la indignación se lo impedía.
 —Por menos de nada… Por menos de nada… —fue todo lo que pudo articular.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

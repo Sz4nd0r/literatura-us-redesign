@@ -154,6 +154,3 @@ Pero no creo que creyese de verdad lo que decía. Creo que sencillamente no sab�
 A partir de entonces creo que las cosas empezaron a irle mal a mi padre. Le pasó lo que a Dummy: ya no era el mismo. Aquel brazo saliendo del agua y volviendo a hundirse fue como un adiós a los buenos tiempos y una caída en los malos. Porque eso es lo que fueron los años que siguieron al día en que Dummy se quitó la vida ahogándose en aquella charca oscura.
 ¿Es eso lo sucede cuando muere un amigo? ¿La mala suerte para los camaradas que deja atrás?
 Pero, como ya he dicho, Pearl Harbor y tener que volver a la granja de su padre tampoco le hicieron ningún bien a papá.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

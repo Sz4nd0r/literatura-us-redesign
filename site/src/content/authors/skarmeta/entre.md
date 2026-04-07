@@ -157,6 +157,3 @@ Luego me pasó el otro.
 —La vida es sueño —dije yo.
 —Libros magníficos —dijo—. ¡Grandes escritores, señor!
 Después giró el asiento, apoyó los codos en el escritorio, puso la cabeza entre las manos y empezó a estudiar. Yo abrí Don Quijote en el Capítulo 33, me recosté en la cama, y no paré de leer hasta las tres de la mañana. Después puse el libro en el suelo, me tapé el rostro con la almohada y no tardé en quedarme dormido. Hasta donde recuerdo, mi primo continuaba estudiando.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

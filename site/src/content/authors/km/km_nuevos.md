@@ -160,6 +160,3 @@ No daba muestras ni de sorpresa ni de agrado, y Malcolm se sintió decepcionado.
 —Aunque, sin duda, Helen hubiera olvidado mañana la azotaina. Y como además le había prometido yo una muñeca...
 La anciana hablaba casi con aire apenado, y el doctor Malcolm cerró violentamente el maletín.
 “¿A qué hablar más con este viejo pajarraco? —pensó—. No se ha enterado ni de la mitad de lo que he dicho. No parece haber sacado en limpio sino que Helen se quedará sin la muñeca.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

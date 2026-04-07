@@ -253,6 +253,3 @@ causa de un colapso post operatorio, no podemos hacer nada. Coronel... No siga, 
 con reportes médicos ni lamentaciones a mí. No los necesito. Si está muerto, nada puede hacerse ya,
 usted hizo todo lo que pudo, magnífico, ya buscaremos las palabras adecuadas para explicar la desaparición
 de este desgraciado que por fin ha tenido la suerte de iniciar su
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

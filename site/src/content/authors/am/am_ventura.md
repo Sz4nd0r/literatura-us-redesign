@@ -142,6 +142,3 @@ Siguió una escena confusa y furiosa. Sacando a Cosma del agua, los guardias arr
 Pero Cosma comprendía ahora que mientras hablaba con Albina en la cabaña la gran cuestión no había sido, para ella, hacerse una nueva vida ni otras frases similares, sino, crudamente, la libertad o la prisión.
 Y su corazón estaba con ella.
 (1940)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

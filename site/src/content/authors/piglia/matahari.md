@@ -381,6 +381,3 @@ mientras ella seguía hablando lo más tranquila, porque no era a mí (y
 esto lo pienso ahora por primera vez) a quien le estaba descubriendo las
 reuniones y los nombres, detalladamente, no era a mí sino a ella misma. A
 ella misma, ¿te das cuenta?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

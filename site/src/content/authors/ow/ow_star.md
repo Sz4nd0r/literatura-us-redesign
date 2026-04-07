@@ -260,6 +260,3 @@ Y dijo el rey:
 Y se arrojaron a su cuello y le besaron, y le llevaron a palacio, y le vistieron con hermosos ropajes, y le pusieron la corona en la cabeza y el cetro en la mano. Y sobre la ciudad que estaba edificada junto al río gobernó, y fue su señor. Mucha justicia y misericordia mostró a todos, y al mago malvado le desterró, y al leñador y a su mujer les envió muchos ricos dones, y a sus hijos les concedió altos honores. Y no consintió que nadie fuera cruel con los pájaros ni con ningún animal; por el contrario, enseñó el amor y la tierna bondad y la caridad, y a los pobres les dio pan, y a los desnudos les dio vestido, y hubo paz y abundancia en el país.
 No obstante, no gobernó mucho tiempo; tan grandes habían sido sus sufrimientos, y tan amargo el fuego de su prueba, que murió al cabo de tres años.
 Y el que le sucedió gobernó perversamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -168,6 +168,3 @@ Con los ojos clavados en los de ella, empujó la silla hacia atrás y se levant�
 —Más fuerte —aconsejó—. Aún no está ni a medio camino. Vamos, apriete con fuerza y mate a un hombre. Eso es, mate a un hombre, haga que sus sesos salpiquen el suelo o plántele un agujero en el pecho del tamaño de su puño. Eso es lo que significa matar a un hombre.
 El percutor descendió a sacudidas, pero con suavidad. El hombre le dio la espalda y caminó despacio hacia la puerta. Ella giró el revólver para apuntar a su espalda. Dos veces elevó el percutor hasta la mitad y dos veces lo volvió a bajar de mala gana.
 Al llegar a la puerta, el hombre se giró un momento antes de cruzar el umbral. En sus labios había una mueca de desprecio. Le habló en voz baja, casi arrastrando los sonidos, pero su voz encerraba la quintaesencia del asco y la repugnancia cuando la insultó con una palabra vil y atroz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

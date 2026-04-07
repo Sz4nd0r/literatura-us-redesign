@@ -105,6 +105,3 @@ La señora Hart le dirigió una sonrisa y le contestó con voz animada:
 —Y si, además, se trata de otra mujer; una mujer que tiene más años y más experiencia —continuó la señora Anderson—. Y que sabría fijarse un poco mejor que su esposa, tal vez.
 La señora Hart, con los dedos rígidos en torno al asa de la taza de té, imaginó por un instante a la señora Martin, apoyada cómodamente en el mostrador (“Veo que tiene una nueva huésped en casa, señora Hart. La señora Anderson se ocupará de que esté usted perfectamente atendida”). E imaginó a sus vecinas, observándola con sus muecas heladas mientras bajaba la calle para recibir a Bill al pie del autobús, y a las chicas de la oficina de Nueva York, leyendo sus cartas y envidiándola (“una verdadera joya... ¡Vendrá a vivir con nosotros y se ocupará de todo el trabajo!”).
 Y cuando alzó la vista y observó la sonrisa perspicaz de la señora Anderson al otro lado de la mesa, la señora Hart se dio cuenta, con una certeza rotunda e imprevista, de que estaba perdida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

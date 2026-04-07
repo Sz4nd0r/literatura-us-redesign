@@ -68,6 +68,3 @@ Pampa Hash montó en cólera:
 El elevador empezó a subir con Pampa Hash y el botones, y yo mirándola. Era de esos de rejilla, así que cuando llegó a determinada altura, pude distinguir sus pantaletas. Comprendí que era la señal: había llegado el momento de desaparecer.
 Ya me iba pero el administrador me dijo: “Espere la maleta.” Esperé. Al poco rato, bajó el botones y me entregó una maleta que, por supuesto, no era mía. La tomé, salí a la calle, y fui caminando con paso cada vez más apresurado.
 ¡Pobre Pampa Hash, me perdió a mí y perdió su maleta el mismo día!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

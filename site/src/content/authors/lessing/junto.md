@@ -107,6 +107,3 @@ Entonces, ¿había sido amigo de Ephraim? ¿Alguien que conocía a Ephraim?
 Sí, se podría decir que sí. Conocía a Ephraim desde hacía, veamos, casi cincuenta años. Sí, podía afirmar que era amigo de Ephraim.
 Durante el vuelo, el doctor Rosen estuvo leyendo, sin contarnos nada más.
 Pero algún día conoceré a un joven llamado Nikki o Raffaele; o a una chica que lleve una perla única alrededor del cuello, colgando de una cadena de oro, o quizá a una mujer de mediana edad que diga que las perlas traen mala suerte y que ella nunca tocaría ninguna, pues en una ocasión, un hombre regaló una perla a su hermana pequeña y le arruinó la vida. Algo así sucederá y esta historia será distinta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

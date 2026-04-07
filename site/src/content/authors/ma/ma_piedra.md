@@ -130,6 +130,3 @@ El estromatolito quedará expuesto sobre la mesa con las demás muestras geológ
 La verdad saldrá a la luz al final de la travesía, cuando Bob no se presente para saldar la cuenta y recoger el pasaporte; tampoco hará el equipaje. Habrá un revuelo de alarma, seguido de una reunión de la tripulación, a puerta cerrada para no alarmar al pasaje. Por último, se hará pública la noticia: es muy probable que, por desgracia, Bob se cayera al mar durante la última noche de la travesía al inclinarse por la borda para conseguir con la cámara un mejor ángulo de la aurora boreal. No existe otra explicación posible.
 Entretanto, los pasajeros ya se habrán desperdigado cada uno por su lado, Verna incluida. Eso siempre y cuando consiga llevar a cabo su plan. ¿Lo conseguirá o no lo conseguirá? Debería centrarse más en eso, debería tomárselo como un reto estimulante, pero en este momento sólo se siente cansada y un tanto vacía.
 Y al mismo tiempo en paz, y segura. Con la mente en calma, toda pasión consumida, como su tercer marido tenía la exasperante costumbre de repetir tras sus sesiones de Viagra. Los victorianos aquellos siempre mezclaban el sexo y la muerte. ¿De qué poeta era la cita? ¿Keats? ¿Tennyson? Empieza a fallarle la memoria. Pero ya recordará los detalles más adelante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

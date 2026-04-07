@@ -83,6 +83,3 @@ La portera la miró con odio y dijo:
 —En primer lugar, no era suyo —dijo ella, volviéndose—. No debe hablar como si yo se lo hubiese robado.
 —No es a mí, sino a ella a quien se lo está robando —dijo la portera, y bajó las escaleras.
 Dejó el bolso sobre la mesa, se sentó con la taza de café frío y pensó: no me faltaba razón cuando decía que no tenía miedo a ningún ladrón... salvo a mí misma, que terminaré por dejarme sin nada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

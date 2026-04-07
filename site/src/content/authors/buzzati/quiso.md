@@ -67,6 +67,3 @@ El viejo preguntó:
 —¿Lo pago? ¿Y por qué?
 —Porque lo que te sostenía era la gracia. Y la gracia del Todopoderoso no perdona. Estás curado, pero ya no eres el mismo de antes. De día en día, a medida que la gracia trabajaba en ti, perdías sin saberlo el gusto por la vida. Tú te curabas, pero las cosas por las que deseabas con tanta fuerza curarte poco a poco se alejaban, ¡se convertían en fantasmas, en navecillas a la deriva en el océano de los años! Yo lo sabía. Creías que eras tú el que vencías, pero era Dios el que te vencía a ti. Así has perdido para siempre los deseos. Eres rico, pero ahora el dinero no te importa; eres joven, pero no te importan las mujeres. La ciudad te parece un estercolero. Eres un hidalgo, eres un santo, ¿comprendes la diferencia? ¡Finalmente eres de los nuestros, Mseridon! La única felicidad a la que puedes aspirar es permanecer entre nosotros, los leprosos, y consolarnos… Vamos, centinela, ya puedes cerrar la puerta, nosotros volvemos a entrar.
 Y el centinela tiró del batiente hacia sí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

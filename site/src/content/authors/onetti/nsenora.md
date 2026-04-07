@@ -22,6 +22,3 @@ Pero las chicas y los chicos de Santa María vieron, puede discutirse, los copos
 Ellas, las muchachas imposibles, y ellos, los complicados idiotas caídos de la última película («filmes», dicen idiotas de otra clase), caídos sin mayor violencia de un cielo, otro, novedoso y pasajero. El pelo largo, abundante y grasiento para todos, machos o hembras.
 Pantalones de cowboys asesinos, repartidos con generosidad despreocupada, sin meditaciones sobre sexos. Ellas y ellos, con abrigos largos cubriendo la estólida y persistente y breve imbecilidad de aquel invierno que tal vez no haya existido nunca, que acaso hayan inventado ellos, los adolescentes, con bolas de algodón en las orejas, aquí se permitían colores diversos e increíbles, con guantes excesivos, con un propuesto aliento que se hacía vapor, hielo casi en el aire cada vez que discutían, cantaban o pedían otra vuelta de ponches en el Berna.
 Bastaba mirarlos, tan hermosos y envidiables; bastaba escucharlos tan persistentes, tan, acaso, irremediablemente burros y pájaros. Pero, si no hubo nieve ni posibilidad de juegos invernales, estuvieron ellos tan jóvenes en el Berna, en la plaza Brausen, en la rambla, alguna vez, con desafío en el bar del Plaza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

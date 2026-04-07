@@ -714,6 +714,3 @@ me desvanecí al verlos entrar. Es posible.
 ¿Y ahora se dan
 cuenta por qué el hi jo del diablo, el maldito jorobado, castigaba a la
 marrana todas las tardes y por qué yo he terminado estrangulándole?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

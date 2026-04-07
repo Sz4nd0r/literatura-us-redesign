@@ -678,6 +678,3 @@ evocan do, a los diez años del suceso, el alma del pobre buque cuyos restos me
 rodeaban. A lo lejos, en el estrecho, rugía la tempestad, la tempestad; la
 llama de la hoguera tumbábase con las rachas de viento, y oía danzar a nuestra barca
 al pie de las rocas, haciendo rechinar las amarras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

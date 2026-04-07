@@ -78,6 +78,3 @@ Entonces se presentó un funcionario para capturar a los gatos y llevárselos. A
 “Tú eres un viejo soldado, ¿no? —dijo el hombre—. Un viejo vagabundo de los de antes.”
 Tal vez el gato pensara incluso que había encontrado otro amigo y un hogar.
 Pero no fue así. Aquella semana la caza de gatos ascendió a cientos, y si Tibby hubiera sido más joven le habrían podido encontrar una casa, porque era amistoso y le gustaba agradar a la raza humana, pero era muy viejo, apestaba y estaba magullado. Así que le pusieron una inyección y, como suele decirse, “lo durmieron” para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -236,6 +236,3 @@ avanzadilla del ejército de la lluvia, alcanzaron a los escarabajos que se
 habían escondido bajo el precipicio por el que, al día siguiente, cuando
 hubiera cesado de llover y llegara el ganado a pastar y saliera el sol, se
 pondrían a trabajar de nuevo y tendrían una pelota de bosta fresca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

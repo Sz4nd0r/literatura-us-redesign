@@ -127,6 +127,3 @@ Los huevitos habían caído al suelo. Uno de ellos reventó contra el borde del 
 Mi mujer estaba realmente furiosa. Eue hasta el límite del balcón y miró hacia la terraza de al lado. Luego vino a donde estaba yo y descargó su furia en una sola pregunta:
 —¿Pero y tú no les dijiste nada?
 La miré y me quedé callado. ¿Cómo explicarle?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

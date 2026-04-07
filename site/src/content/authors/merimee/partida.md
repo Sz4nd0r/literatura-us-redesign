@@ -100,6 +100,3 @@ En el momento en el que nuestra bandera fue arriada…
 —¡Capitán, una ballena a babor! —interrumpió un alférez corriendo hacia nosotros.
 —¡Una ballena! —exclamó el capitán transportado de alegría y abandonando en ese punto su relato—; Rápido, ¡la chalupa al agua!, ¡la canoa al agua! ¡todas las chalupas al agua!, ¡harpones, cuerdas!, etc., etc.
 No pude saber cómo murió el pobre teniente Roger.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

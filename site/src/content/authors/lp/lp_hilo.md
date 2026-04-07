@@ -90,6 +90,3 @@ El viejo, al principio, no se dio cuenta; pero sintió que toda la habitación s
 —Ah, por eso… por eso…
 Los demás no podían verlo, no podían sentirlo en su interior, porque aún estaban tan dentro de la vida. Él, que ya casi estaba fuera de ella, lo había visto, lo había sentido en ellos. Por eso, aquella mañana, la niña no sólo temblaba, palpitaba; por eso la nuera se reía y se vanagloriaba tanto de su pelo; por eso aquella sirvienta suspiraba, por eso todos tenían aquel aire insólito y nuevo, sin saberlo.
 Había llegado la primavera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

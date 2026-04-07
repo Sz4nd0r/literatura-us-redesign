@@ -131,6 +131,3 @@ Digamos que estamos todos dormidos. ¿Queremos despertar?
 ¿Es justo que yo despierte y vosotros, la mayoría de vosotros, no? ¿Justo?, decís con desdén. ¿Qué tiene que ver la justicia con esto? Que cada alma se apañe como pueda. Pero yo no quise despertar sin vosotros.
 Vosotros sois las lágrimas de las cosas, yo no. Si lloráis por mí, yo lloraré por vosotros. Ayudadme, yo no quiero llorar por mí. No me rindo.
 Yo, Sísifo. Me aferro a mi roca, sin necesidad de que me encadenéis. ¡Quietos! La hago rodar hacia arriba… arriba, arriba. Y… allá vamos. Sabía que sucedería esto. Mirad, estoy nuevamente en pie. Mirad, empiezo a hacerla rodar nuevamente hacia arriba. No intentéis disuadirme. Nada, nada podría arrancarme de esta roca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

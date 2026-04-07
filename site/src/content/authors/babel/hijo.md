@@ -88,6 +88,3 @@ había muerto. Murió el último príncipe entre poesías, amuletos y arambeles.
 enterramos en una estación abandonada por Dios. Y yo, desatado el torrente de
 la fantasía ante aquel cuerpo de antiguo linaje, permanecí al lado de mi
 hermano hasta su último suspiro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

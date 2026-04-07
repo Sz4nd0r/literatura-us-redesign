@@ -82,6 +82,3 @@ Los silbidos se multiplicaron. Todos los costales se vaciaban a gran velocidad. 
 —Le voy a ayudar a buscar, ya que le conté la triste historia del que fue Perfecto Luna.
 —¡Ya no! —contestó el desconocido de pie junto al narrador. Éste apenas tuvo tiempo para ver el rostro sin rostro de su nuevo amigo: el cuerpo del desconocido terminaba sobre los hombros.
 —¡Se endemonió! —dijo don Celso al día siguiente—. Me soltó todo el maíz y murió en medio de la huizachera. ¡Caray! ¡Y parecía tan buen muchacho el tal Perfecto Luna!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

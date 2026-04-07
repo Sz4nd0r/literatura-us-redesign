@@ -48,6 +48,3 @@ Al día siguiente vi en el diario que los deudos de doña Ester de Arancibia anu
 Asistí al cementerio, siguiendo el cortejo lentamente por las avenidas largas, entre personas silenciosas que conocían los rasgos y la voz de la mujer por quien sentían dolor. Después caminé un rato bajo los árboles oscuros, porque esa tarde asoleada me trajo una tranquilidad especial.
 Ahora pienso en la señora sólo muy de tarde en tarde.
 A veces me asalta la idea, en una esquina por ejemplo, que la escena presente no es más que reproducción de otra, vivida anteriormente. En esas ocasiones se me ocurre que voy a ver pasar a la señora, cejijunta y de impermeable verde. Pero me da un poco de risa, porque yo mismo vi-depositar su ataúd en el nicho, en una pared con centenares de nichos todos iguales.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

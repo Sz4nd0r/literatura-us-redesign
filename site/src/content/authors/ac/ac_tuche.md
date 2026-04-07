@@ -111,6 +111,3 @@ Los pasos dejaron de oírse.
 —Ver y escuchar cómo mienten —comentó Iván Ivánich, dándose la vuelta—, y que te llamen imbécil por tolerar sus mentiras; soportar ofensas y humillaciones, no atreverse a declarar abiertamente que estás del lado de las personas honestas y libres, mentirse a uno mismo, sonreír, y todo eso por un mendrugo de pan, por un rincón donde cobijarse, por un puestecillo que no vale ni un centavo. ¡No, no se puede seguir viviendo así!
 —Bueno, eso ya es otra cosa, Iván Ivánich —dijo el profesor—. Vamos a dormir.
 Diez minutos después Burkin ya dormía. Pero Iván Ivánich seguía dando vueltas y suspirando, luego se levantó, se sentó junto a la puerta y encendió su pipa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

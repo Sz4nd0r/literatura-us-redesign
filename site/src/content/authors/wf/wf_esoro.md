@@ -216,6 +216,3 @@ Estaba temblando. Tomó una honda inspiración y caminó con firmeza hacia el vi
 —Y ahora que nos hemos librado de él —decía Lucas—, yo y George Wilkins...
 Edmonds, mientras caminaba con firmeza hacia él, expelió el aire inspirado. Había imaginado que sería un grito, pero no fue mucho más que un susurro.
 —Sal de aquí —dijo—. Vete a casa. Y no vuelvas. No vuelvas nunca. Cuando necesites provisiones, manda a tu mujer por ellas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

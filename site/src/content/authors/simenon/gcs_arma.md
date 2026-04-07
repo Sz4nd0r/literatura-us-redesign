@@ -430,6 +430,3 @@ En el momento de partir se le vio precipitarse hacia un rincón de la sala. En e
 —¿…?
 —¡Como recuerdo! Con esto el caballero tenía que hacerme pasar de vida a muerte mientras yo dormía; ustedes comprenderán que…
 ¡Ésa fue la primera pieza de su panoplia; el principio de su colección!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

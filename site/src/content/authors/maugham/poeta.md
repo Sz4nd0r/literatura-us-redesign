@@ -59,6 +59,3 @@ Era el único superviviente de ese linaje de grandes hombres y un digno represen
 Pude ver en sus penetrantes ojos cuánto le divertía la ocurrencia. Una leve sonrisa se dibujó un instante en sus austeros labios.
 —Disculpe, señor. No soy poeta; soy un simple comerciante. Se ha confundido usted. Don Calixto vive al lado.
 ¡Me había equivocado de casa!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -154,6 +154,3 @@ las aves, diminutos en el medio habitual, llegan a adquirir en ciertas
 condiciones proporciones enormes. La sangre humana parece serles
 particularmente favorable, y no es raro hallarlos en los almohadones de
 pluma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -31,6 +31,3 @@ Entre sábanas, viéndolo desnudo, sintiendo lo que sentía, supe que él no era
 —Bueno. Vamos a mirar el Van Gogh. Sigo creyendo que es falso, que hiciste una mala compra para la galería.
 Lo mismo, iguales palabras, me había dicho Jesús antes de viajar a Londres. Y sólo Él y yo estábamos enterados de la compra clandestina del Van Gogh.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

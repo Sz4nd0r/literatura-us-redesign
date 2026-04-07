@@ -94,6 +94,3 @@ Pero a Reginald no le parecía tan sencillo como todo eso. Le parecía dificilí
 Se detuvo y se dio media vuelta. Pero cuando ella vio su mirada tímida, confusa, no pudo contener una risita.
 —Vuelve, señor Palomo —dijo.
 Y Reginald regresó poco a poco por el césped.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

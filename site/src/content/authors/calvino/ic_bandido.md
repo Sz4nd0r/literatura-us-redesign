@@ -101,6 +101,3 @@ Salieron. En el pasillo Lilín dormía aferrado al borde del desvencijado sofá;
 Armanda fumaba sentada en la gran cama; apagó la lámpara porque una luz gris entraba ya en la habitación.
 –Lilín —llamó—. Ven, Lilín, ven a la cama, anda, Lilín guapo, ven.
 Lilín recogía ya la almohada, el cenicero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

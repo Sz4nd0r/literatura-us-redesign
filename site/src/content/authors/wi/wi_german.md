@@ -52,6 +52,3 @@ Trataron de calmarlo, pero todo fue en vano. Estaba dominado por la horrible ide
 El anciano de cabeza fantasmal terminó su relato.
 —¿Es este un hecho verdadero? —preguntó el otro caballero.
 —Un hecho del cual no se puede dudar —replicó el primero—. Lo obtuve de la mejor fuente. El estudiante mismo me lo contó. Lo conocí en el manicomio de París.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

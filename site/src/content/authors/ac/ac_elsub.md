@@ -38,6 +38,3 @@ El suboficial Prishibéiev se levanta las lentes y mira sorprendido al juez de p
 —¿Por qué? —dice, abriendo, perplejo, los brazos— ¿En qué ley se basa?
 Para él está claro que el mundo ha cambiado y que ya no hay modo alguno de vivir en la tierra. Sombríos y melancólicos pensamientos se apoderan de él. Pero, al salir de la sala y ver a los muzhiks que se reúnen en corros y hablan de algo, él, movido por la fuerza de una costumbre que ya no puede dominar, agita las manos y grita con voz ronca y enojada:
 —¡Circulen! ¡Dispérsense! ¡A casa!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -95,6 +95,3 @@ Stockton, que había jugado un poco al fútbol en el instituto, bloqueó el avan
 —Lamento que haya ocurrido esto —dijo el señor Fitweiler—. Le ruego que lo borre de su memoria, Martin.
 —Sí, señor —dijo el señor Martin, anticipándose a su jefe y abriendo la puerta—, ya ha pasado todo. Lo olvidaré.
 Salió y cerró la puerta, y recorrió el pasillo con pasos ligeros y rápidos. Cuando entró en su departamento había recuperado su habitual andar pausado y cruzó tranquilamente la sala hasta el archivo W20 con una mirada de estudiada concentración.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -69,6 +69,3 @@ Se negó a quedar con él por la tarde, y por el tono le dio a entender que «ta
 La situación no mejoró en los días siguientes. Incluso hubo un chico de los recados que tuvo la impertinencia de decir que se alegraba de que a Scatelli lo hubieran condenado a la silla, porque estaba harto de oír hablar del caso. El señor Harrisburg empezó a pensar que todo el personal de la oficina se había vuelto en su contra, y eso lo trastornó tanto que cometió un error que le costó dos mil dólares a la compañía.
 —Lo siento, Harrisburg —dijo el señor Adams—, sé que son malos tiempos para buscar trabajo, pero desde lo del asesinato no nos sirve usted para nada, así que va a tener que marcharse.
 Al día siguiente, después de pasarse la mañana buscando otro empleo y la tarde en un cabaret en Broadway, el señor Harrisburg llegó a casa y se encontró una nota intercalada en la libreta del banco. La libreta indicaba que la señora Harrisburg había retirado todos los fondos de la cuenta, salvo diez dólares, y en la nota le decía que se había ido con un hombre con el que solía verse por las tardes. «Tendría que haber hecho esto hace cuatro años», había escrito la señora Harrisburg. El señor Harrisburg se fue a la cocina, donde descubrió que ni siquiera le había dejado un poco de ginebra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

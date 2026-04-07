@@ -59,6 +59,3 @@ Soy un enorme espacio que se extiende, que crece, que se despliega con la crecie
 Es como si, desde que te volviste hacia mí y me sonreíste, haciendo que la luz me atravesara otra vez, es como si un rey hubiera tomado la mano de una reina y la hubiera sentado en su trono. Un rey y su reina, tomados de la mano en la cima de mi montaña, están sentados sonriendo, en la tranquilidad de su país.
 La mañana se acerca a la pared de ladrillos, la sombra del árbol ha desaparecido y yo pienso en cómo saldré esta noche al escenario, envuelta por el frío círculo de mi castidad, el círculo de mi disciplina, y en cómo alzaré mi rostro (el rostro en flor de mi juventud) y en cómo levantaré los brazos, de los que manará el calor que me has dado.
 Y ahora, querido, vuélvete hacia tu esposa y deja que su cara repose en tu hombro, y sumergíos dulcemente en el sueño de vuestro amor. Te concedo que partas hacia tus deleites sin mí. Te dejo con tu amor. Te dejo con tu vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

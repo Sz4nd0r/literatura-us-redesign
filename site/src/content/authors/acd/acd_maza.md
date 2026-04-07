@@ -283,6 +283,3 @@ Un momento después, el asombrado prócer, pestañeando y tartamudeando, tenía 
 El anciano prócer iba con la mirada de la piedra al rostro sonriente que tenía delante una y otra vez.
 —Señor mío, me ha dejado estupefacto. Pero, sí, es la auténtica piedra de Mazarino. Tenemos una gran deuda con usted, señor Holmes. Es posible que su sentido del humor sea algo retorcido, como usted mismo admite, y que su exhibición esté extraordinariamente fuera de lugar, pero, al menos, he de retirar cualquier reflexión que haya hecho sobre su increíble capacidad profesional. Pero ¿cómo…?
 —El caso no está cerrado del todo; los detalles pueden esperar. Sin duda, lord Cantlemere, el placer de comunicar este triunfo en las altas esferas a las que regresa servirá en cierta forma de compensación por mi broma. Billy, acompaña a su Señoría a la salida y pregúntale a la señora Hudson si no le importaría hacer que me suban algo de cena para dos personas en cuanto le sea posible.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

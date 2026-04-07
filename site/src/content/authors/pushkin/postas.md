@@ -95,6 +95,3 @@ Llegamos al cementerio, un lugar desnudo, sin vallado, sembrado de cruces de mad
 —¿Es aquí donde vino la señora? —pregunté.
 —Sí —contestó Vanka—, yo la miraba desde lejos. Se tumbó aquí y se quedó así mucho rato. Luego fue al pueblo y llamó al pope, le dio dinero y se fue, y a mí me dio cinco kópeks de plata, ¡una señora buenísima!
 Yo también le di cinco kópeks al chico y ya no me arrepentía ni del viaje ni de los siete rublos que había gastado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

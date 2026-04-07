@@ -130,6 +130,3 @@ Cuando regresé a casa, el silencio de la cocina y el espectáculo del fuego ext
 Ella se paró, se puso chanclas y abrigo, me deshizo las agujetas de las botas mientras yo me sentaba en la cama. Pero aún antes de que terminara yo ya estaba dormido. No la vi vestirse ni la oí salir, pero algún tiempo después sentí una mano sobre la frente y noté que Minnie Ryan me atisbaba risueña.
 —Ah, no tiene importancia —dijo ella, dándole a su capa un tirón—. Estará bien por la mañana. El Señor sabe, señora Sullivan, que es usted quien debería estar en cama.
 Sabía que aquello implicaba una crítica dirigida a mí, mas no podía replicar nada. Más tarde vi que mi madre entraba con una vela y su periódico. Le sonreí. Ella me devolvió la sonrisa. Minnie Ryan podía despreciarme cuanto quisiera, pues había otras que no lo hacían. El milagro se había cumplido después de todo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -404,6 +404,3 @@ Y
 sonreí, mientras él me miraba estupefacto, con el sol de
 la tarde que se colaba por un cristal roto, reflejado en
 los ojos muy abiertos y asombrados.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

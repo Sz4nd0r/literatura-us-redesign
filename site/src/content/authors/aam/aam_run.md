@@ -489,6 +489,3 @@ A lo mejor no. Allí no había nada.
 Podían haber pasado otras cosas. Él podría haber ahuyentado a Flora. O haberla atado a la parte trasera de la furgoneta para llevarla a cierta distancia y soltarla. Haberla devuelto al lugar donde la habían comprado para no verla alrededor, trayéndoles el recuerdo a la memoria.
 Podría estar en libertad.
 Pasaron los días y Carla no se acercó al lugar. Resistió la tentación.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -262,6 +262,3 @@ corona, la puse, sobre el cabello castaño de la ex–señorita Bates y la oblig
 a volverse para que su marido la viese de perfil.
 —¡Caramba! —dijo él— ¿Verdad que la cabeza de
 Ida es idéntica a la de esa dama del dólar de plata?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

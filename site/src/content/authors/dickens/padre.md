@@ -91,6 +91,3 @@ Realmente no sé lo que significa soledad en mi castillo. Varios de nuestros hij
 —Así es mi castillo y así son los detalles reales de mi vida, allí guardados, adonde suelo llevar a menudo a mi pequeño Frank. Es muy bien recibido por mis nietos y juntos planean toda clase de juegos. En esta época del año, Navidad y Año Nuevo, raras veces estoy fuera de mi casa. Porque los recuerdos de la estación parecen sujetarme allí, y los preceptos de la misma época me dicen que obro bien al no apartarme de mi hogar.
 —¿Y el castillo está...? —observa una voz grave y afectuosa entre el grupo.
 —Sí. Mi castillo —contesta el pariente pobre sacudiendo la cabeza y mirando siempre al fuego—, mi castillo está en el aire. John, nuestro estimado anfitrión, indica exactamente su situación: “¡Mi castillo está en el aire!” He concluido ya. ¿Serán ustedes tan amables que querrán contar otra historia?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

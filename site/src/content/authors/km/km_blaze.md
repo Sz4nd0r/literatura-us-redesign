@@ -87,6 +87,3 @@ Otra vez se encogió ella de hombros.
 —¡Uf!, terriblemente. ¡Ay!, que le has pinchado con una horquilla a tu mujer, nene malo.
 Le echó los brazos al cuello y se le quedó mirando, riéndose a medias como una niña hermosa y adorable.
 —¡Dios mío! ¡Qué mujer más extraordinaria eres! —dijo él—. Haces que me sienta tan terriblemente orgulloso de ti, amor mío, que... que no puedo menos de decírtelo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

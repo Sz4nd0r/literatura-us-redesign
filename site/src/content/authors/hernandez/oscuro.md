@@ -154,6 +154,3 @@ Habíamos seguido caminando. Pero cuando dijo lo de Arañita me paré a mirarla.
 —No, otro día.
 A ella le volvió la rabia que tuvo cuando no quise subir al árbol y arrugó el labio de arriba para decirme:
 —Andá, andá, pobre pianista.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

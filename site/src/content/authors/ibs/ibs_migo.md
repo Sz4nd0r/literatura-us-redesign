@@ -62,6 +62,3 @@ Chaikin cogió una colilla y empezó a hurgar en sus bolsillos buscando cerillas
 —A veces los camareros cambian de sitio. ¡Oh, lo que no se le ocurra a unos nervios alterados…! Además, creo que le vi unas semanas después en Nueva York. Entré en una taberna para llamar por teléfono y allí estaba, sentado ante la barra…, a menos que fuera otro fantasma.
 Nos quedamos callados durante un rato bastante largo.
 —En cuanto a lo que tenía contra mí, nunca lo sabré —acabó diciendo Chaikin.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

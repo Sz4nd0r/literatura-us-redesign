@@ -48,6 +48,3 @@ Muriel salió corriendo del Happyland, jadeante, sin parar hasta su casa. Ana no
 ¡Primera de la cosecha, a veinte dólares cada una! No le quedaba sino esperar, tendido en la cama, a que diariamente, entre doce y dos, floreciera una nueva. Acaso nacerían multiplicadas —cuarenta, ochenta, cien dólares diarios.
 Y entonces, sin aviso, del lugar exacto en que la flor había sido cercenada, brotó una estaca ríspida y astillosa. Muriel ya no pudo gritar; con un chasquido desgarrante, la estaca irrumpió entre sus piernas y ya aceitada de sangre, corrió, rajante, por las entrañas del hombre, devorando sus nervios, lenta y ciega, quebrando en cristales el corazón. Ya no hablar, ya no describir. Y allí amaneció Muriel, partido por la mitad, empalado, sus brazos crispados en dos direcciones. Los pétalos de la orquídea marchita en el vaso seco, reflejaban en los ojos muertos de Muriel un lento oleaje de luz.
 Afuera, entre las preposiciones, Panamá se colgaba de los dientes a su propio ser. Pro Mundi Beneficio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

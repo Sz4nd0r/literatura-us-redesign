@@ -252,6 +252,3 @@ La mandíbula de Kennerly se contrajo y su voz tembló:
 —¡Dios mío! ¡Claro que tengo que preocuparme! Alguien tiene que pensar en el futuro.
 Diez minutos más tarde, el poderoso automóvil de don Genaro pasó por delante de la sala de billar y desapareció en el oscuro camino agreste rumbo a la capital.
 Por la mañana empezaron a hacer sus preparativos para ir regresando poco a poco a la ciudad, en tren y automóvil. «Quédese —me decía cada uno al marchame—, volveremos mañana. Uspenski se sentirá mejor y reiniciaremos el trabajo.» Doña Julia estaba en cama. Me despedí de ella por la tarde. Parecía adormilada y blanda, acurrucada con el pequinés sobre su hombro. «Mañana Lolita estará aquí y habrá mucho movimiento. Van a repetir algunas de las mejores escenas», me dijo. Yo no podía esperar al día siguiente en aquel ambiente mortal. «Si volviera dentro de unos diez días —me dijo el chófer indio—, vería un lugar diferente. Ahora es triste. Pero entonces, el maíz verde estará maduro y ¡habrá bastante para volver a comer todos!»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

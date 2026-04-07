@@ -48,6 +48,3 @@ Mientras esperaba la llegada del alba, Vaksin se acurrucó en el baúl, acomodó
 “¡Hay que ver lo que hacen los nervios! Soy un hombre sensato, reflexivo y sin embargo… ¡El diablo lo entiende! ¡Hasta me da vergüenza!”.
 Poco después, al escuchar la respiración serena y acompasada de Rosalía Kárlovna, se tranquilizó del todo…
 A las seis de la mañana la mujer de Vaksin volvió de la fiesta de la Trinidad y, al no hallar a su marido en la habitación, se dirigió al cuarto de la institutriz en busca de unas monedas para pagar al cochero. Nada más entrar, se encontró con el siguiente cuadro: en la cama, toda destapada por el calor, dormía Rosalía Kárlovna y apenas a unos metros, hecho un ovillo sobre el baúl, roncaba, con el sueño de los justos, su marido. Dejo a otros la tarea de referir lo que dijo la mujer y la cara de tonto que puso el marido cuando se despertó. Yo, por mi parte, me declaro vencido y rindo las armas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

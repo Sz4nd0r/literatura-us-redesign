@@ -157,6 +157,3 @@ El rebe envolvió la segunda arma en su pañuelo.
 —A veces —dijo el rebe—, ni siquiera el rebe cree. Mi padre, cuando fue rebe, algunas veces tampoco creía. Es propio de los creyentes no creer de vez en cuando. Y es propio de los que no creen creer de vez en cuando. Incluso usted, señor Bleilip…, incluso usted de vez en cuando cree en el Santísimo, alabado sea, ¿verdad? Incluso usted de vez en cuando percibe al Altísimo, ¿a que sí?
 —No —dijo Bleilip; y luego rectificó—: Sí.
 —Pues entonces es usted tan sanguinario como cualquiera —dijo el rebe (esa fue su primera opinión verdadera), y con sus atroces manos dejó encima de la mesa el abultado pañuelo blanco para que Bleilip se lo llevara, cualquiera que fuese el propósito por el que creía necesitarlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

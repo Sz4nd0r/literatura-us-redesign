@@ -85,6 +85,3 @@ Presuroso, con gran satisfacción, al parecer, y como si temiese que alguien le 
 Después de lo cual desapareció.
 A la vera del pajar estaban los hijos de Zhmujin: el mayor, con la escopeta entre las manos; el menor, con un pollo gris, de hermosa y reluciente cesta. El más pequeño de los hermanos, con toda su fuerza, lanzó por el aire al gallo, que voló hasta más arriba de la casa y dio luego la vuelta como un palomo; disparó el mayor y el ave cayó al suelo fulminada.
 El viejo, aturdido y sin hallar explicación al extraño e inopinado grito del huésped, entró lentamente en la casa. Allí, sentado junto a la mesa, caviló largo rato sobre las tendencias en boga, la inmoralidad general, el telégrafo, el teléfono, las bicicletas y la inutilidad de todo ello. Se tranquilizó poco a poco; tomó luego un bocado, se bebió, sin prisas, cinco vasos de té y se acostó a dormir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

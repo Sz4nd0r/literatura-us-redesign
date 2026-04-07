@@ -81,6 +81,3 @@ Anthony llamó a Kelly cuando este ya había llegado a la puerta.
 —¿No notó usted entre la congestión del tránsito a un niño regordete y desnudo que disparaba flechas con un arco? —le preguntó.
 —No —respondió Kelly, intrigado—. No lo noté. Si estaba desnudo, como usted dice, es probable que los policías lo hayan detenido antes de llegar allí.
 —Ya me imaginaba yo que ese bribonzuelo no se dejaría ver —dijo Anthony, riendo entre dientes—. Adiós, Kelly.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

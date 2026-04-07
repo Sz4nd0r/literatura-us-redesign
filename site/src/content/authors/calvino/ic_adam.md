@@ -208,6 +208,3 @@ Pero en ese momento la señora llamó y Maria-nunziata desapareció.
 Cuando volvió a la cocina, Libereso no estaba. Ni dentro ni al pie de la ventana. Maria-nunziata se acercó al vertedero. Entonces vio la sorpresa.
 En el escurridor, en cada plato, saltaba una ranita, una culebra se enroscaba dentro de una cacerola, había una sopera llena de lagartijas y los caracoles babosos dejaban estelas irisadas en la cristalería. En el barreño lleno de agua nadaba el viejo y solitario pez rojo.
 Maria-nunziata dio un paso atrás y vio entre sus pies un sapo, un gran sapo. Pero debía de ser una hembra porque la seguía toda una camada, cinco sapitos en fila que avanzaban a pequeños saltos por las baldosas blancas y negras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

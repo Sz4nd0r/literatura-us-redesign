@@ -382,6 +382,3 @@ Ella no le prestó atención. Se sentó junto al fuego. Aún lloraba.
 A los pocos segundos ella levantó su rostro bañado en lágrimas, hinchado, y le miró con ojos desamparados y patéticos. Un gran rayo de angustia le traspasó el cuerpo. Se acercó lentamente y, muy suavemente, la cogió en sus brazos. Ella se dejó abrazar. Entonces, cuando estuvo apoyada en su hombro, sollozó y dijo:
 —Nunca quise…
 —Mi amor, mi querida pequeña —exclamó él, con angustia en el alma, abrazándola.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

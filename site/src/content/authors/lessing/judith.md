@@ -174,6 +174,3 @@ Judith consideró mis palabras muy seriamente. Frunció el entrecejo mientras pe
 —Si uno no se puede fiar de lo que siente, entonces, ¿de qué puede fiarse?
 —De lo que uno piensa; es lo que esperaría que dijeras.
 —¿De verdad? ¿Por qué? En serio, sois todos muy raros. No os entiendo. —Apagó la estufa eléctrica con una expresión de perplejidad en el rostro. Sonrió, amistosa y distante, y dijo—: No creo que tenga sentido discutir todo esto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

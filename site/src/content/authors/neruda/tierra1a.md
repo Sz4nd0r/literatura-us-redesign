@@ -618,6 +618,3 @@ es la forma de olvido que prefiero,
 el nombre que doy a la tierra, el valor de mis sueños,
 la cantidad interminable que divido
 con mis ojos de invierno, durante cada día de este mundo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

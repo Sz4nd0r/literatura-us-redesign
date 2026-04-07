@@ -227,6 +227,3 @@ Terminadas las «tomas» de la Quinancha, la mejor vedette para la publicidad de
 Entrada la noche aún andaban en su triste faena con ayuda de algunas carretillas de mano que les facilitó el guardián.
 Se prendieron fogatas. No sólo para ahuyentar a los perros aulladores, sino a los coyotes, a los coyotes y a los espantos. Temblaban de miedo en el calor de la noche tropical llena de estrellas, enloquecidas por los piquetes de los insectos. Cuando levantaron el cuerpo de la Quinancha para darle sepultura creyeron escuchar en medio de la noche caliente y estrellada su grito desgarrador, como si otra vez la fueran a enterrar viva:
 —¡Geraldino! ¡Geraldino! ¡Tu caimana! ¡La Quinancha! ¡Tu caimana!…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

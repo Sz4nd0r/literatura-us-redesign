@@ -377,6 +377,3 @@ estas puertas
 marcádolas con nieve,
 nieve eterna en donde te desperezas
 tú, fuego rodeado por la nieve.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

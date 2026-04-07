@@ -101,6 +101,3 @@ Con un largo silbido aullante, se llegaba a la pequeña estación donde Ángela 
 Naturalmente, eso no tenía la menor importancia: hay personas que siempre se arrepienten, es un rasgo de ciertas naturalezas culpables. Pero la dejó perturbada la imagen de la vieja cuando despertara, la visión de su rostro espantado frente al banco vacío de Ángela. Al fin, nadie sabía si se había dormido por confianza en ella.
 Confianza en el mundo.
 Onde estivestes de noite (1974)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

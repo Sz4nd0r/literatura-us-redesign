@@ -203,6 +203,3 @@ Le recordó. Se trataba del acompañante con quien Chikako se había casado.
 Confundido, se dijo a sí mismo que debía pensar en algo dulce. Cierto pasaje le pasó por la mente.
 Poseía los escritos de una muchacha que había muerto a los quince años. Su mayor placer estos días residía en los escritos de chicos y chicas jóvenes. Al parecer la madre había maquillado su rostro muerto. Después de lo escrito en el diario el día de la muerte de la muchacha, la madre escribió:
 «Maquillada por primera vez: como una novia.»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

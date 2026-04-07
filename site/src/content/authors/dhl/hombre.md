@@ -156,6 +156,3 @@ el jarro, y volcó el jarro. El jarro cayó al suelo y se rompió en pedazos. Y
 cuando Maimónides vio que la frágil criaturilla le apuntaba con un dedo, como
 señal de que había quebrantado su juramento a Aristóteles, Maimónides lloró
 amargamente, y todo el resto de su vida rezó por su perdón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

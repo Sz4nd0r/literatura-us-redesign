@@ -22,6 +22,3 @@ N. del T.:
 [2] En húngaro: perro de caza.
 [3] Cuerpo paramilitar alemán de extrema derecha que actuó contra elementos considerados por ellos como disolventes: izquierdistas, judíos, etc., en los años siguientes a la primera guerra mundial.
 [4] Es la Galitzia polaco-germánica.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

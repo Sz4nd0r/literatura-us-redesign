@@ -299,6 +299,3 @@ aburrió en el teatro y pasó toda la noche con mujeres.
 Se volvió a casar al medio año.
 La segunda mujer —verdaderamente honrada— tenía un carácter
 insoportable y lo hizo sufrir mucho.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

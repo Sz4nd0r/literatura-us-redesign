@@ -66,6 +66,3 @@ Me sentía anonadado hasta límites inimaginables. No dudaba de su palabra; no p
 —¿Quién es ese hombre?
 —En otro tiempo fue miembro del Congreso, y uno de los buenos. Pero en una ocasión se quedó atrapado en un tren durante una gran nevada, y al parecer casi murió de hambre. Quedó tan trastornado por el frío y tan consumido por la falta de alimento, que después de aquello perdió la cabeza durante dos o tres meses. Ahora está bien, solo que es monomaníaco, y cuando habla de aquel viejo asunto no hay manera de pararle hasta que se ha comido todo el cargamento humano de aquel vagón. Si no llega a tener que apearse, a estas horas ya habría acabado con toda la gente del tren. Se sabe sus nombres tan de corrido como el abecedario. Cuando se los ha comido a todos y solo queda él, entonces siempre dice: «Habiendo llegado la hora de la habitual elección para el desayuno, y al no encontrar ningún tipo de oposición, salí debidamente elegido, tras lo cual, al no plantearse ninguna objeción, renuncié. Por eso estoy aquí».
 Me sentí indeciblemente aliviado al saber que solo había estado escuchando las inofensivas divagaciones de un demente, en lugar del relato de la experiencia real de un caníbal sanguinario.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -663,6 +663,3 @@ Paula comprendió, y se quedó en silencio. Cuando llegó Maurice con la leña, 
 Y durante el tiempo que los cuatro estuvieron sentados alrededor del fuego, bebiendo el café humeante, comiendo cada uno un trozo de panceta asada, Paula buscó con avidez los ojos de Maurice, pero él evitó mirarla. Era amable, pero se negaba a responder a sus miradas. Y Geoffrey sonrió constantemente a Lydia, que observaba con gravedad.
 La joven alemana logró volver a entrar sin problemas en la rectoría; su escapada pasó desapercibida para todos menos para la doncella. Antes de que pasase una semana, estaba oficialmente comprometida con Maurice, y cuando expiró el mes que tenía de plazo, se fue a vivir a la granja.
 Geoffrey y Lydia se mantuvieron fieles el uno al otro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

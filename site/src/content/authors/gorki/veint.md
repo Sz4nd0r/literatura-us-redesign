@@ -140,6 +140,3 @@ Y vino directa hacia nosotros, caminando, igual que las otras, como si no nos vi
 Y se marchó.
 Nos quedamos de pie en el centro del patio, en medio del barro, bajo la lluvia y el cielo gris, encapotado…
 Después, volvimos todos en silencio a nuestra húmeda cárcel de piedra. E igual que antes, el sol nunca logró colarse por nuestras ventanas. Y Tania jamás regresó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

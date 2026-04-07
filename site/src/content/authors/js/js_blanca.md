@@ -170,6 +170,3 @@ Mary lo llamó cuando pasaba ante su puerta.
 —Si lo has matado, me alegro, pero no quiero saber los detalles.
 Harry entró en la salita y se sentó en la butaca. La habitación estaba todavía bastante obscura, pero por la vidriera de colores se veía claramente el jardín, cuyos robles gigantescos parecían antorchas en las que había prendido el fuego del amanecer.
 —¡Qué salvaje soy! —murmuró Harry entre dientes—.¡Qué asesino, dando muerte a un ser que ella amaba tanto! —Inclinando la cabeza, contempló pensativo la alfombra—. Estoy muy solo —dijo—. ¡Oh, Dios mío, qué solo estoy!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

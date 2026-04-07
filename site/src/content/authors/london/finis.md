@@ -622,6 +622,3 @@ picea de Sitka, es originaria de la región costera del Pacífico en América de
 Norte.
 [3]. Chaquetón de piel con capucha que se usa en
 el noroeste de Asia y Alaska
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

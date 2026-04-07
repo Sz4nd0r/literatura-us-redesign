@@ -38,6 +38,3 @@ Cuando se acabó la ginebra y el señor Testator se preguntó lo que iba a suced
 El señor Testator (que no se había casado nunca) respondió con gran sentimiento:
 —Con gran ansiedad, la pobre, pero bien en otros aspectos.
 Entonces el visitante se dio la vuelta y se marchó, cayéndose dos veces por las escaleras. Desde ese momento no volvió a saber de él. No supo si se había tratado de un fantasma, o de una ilusión espectral de la conciencia, o de un borracho que no tenía ninguna relación con el cuarto, o del dueño verdadero de los muebles, borracho, con una recuperación transitoria de la memoria; no supo si había llegado a salvo a casa, o no tenía casa alguna a la que ir; no supo si por el camino lo mató el licor, o si vivió en el licor para siempre; no volvió a saber nada de él. Ésta fue la historia, traspasada con los muebles y considerada auténtica por el que los recibió en una serie de habitaciones de la parte superior de la triste Lyons Inn.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

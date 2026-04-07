@@ -367,6 +367,3 @@ el momento de colocar la inscripción, sólo pudimos recordar las dos palabras
 qué le fueron murmuradas por la señorita Pinkey, y que siempre creímos que
 habían producido el milagro de su conversión:
 —“¡Buen perro!”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

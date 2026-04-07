@@ -376,6 +376,3 @@ Esther.Jou vriend, Johannes Potgieter”.
 Vale.
 Jou vriend,
 Martin du Preez.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

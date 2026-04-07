@@ -262,6 +262,3 @@ Ella se inclinó y le besó. Jamás le había besado antes, no desde que era una
 —Bésale a él —dijo el hombre.
 Obediente, Matilda acercó los labios y besó a su joven esposo.
 —¡Eso es! ¡Eso es! —murmuró el moribundo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

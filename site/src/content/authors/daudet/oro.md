@@ -118,6 +118,3 @@ leyenda es cierta por los cuatro costados... Hay en el mundo personas
 condenadas a vivir de su cerebro, y pagan con oro de ley, con su médula y su
 propia sustancia, las más ínfimas cosas de la existencia. Cada día es para
 ellos un sufrimiento, y luego, cuando están hartas de sufrir...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

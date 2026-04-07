@@ -78,6 +78,3 @@ La mujer me miró a mí, a él, miró al medio, nos miró a ambos y tenía de nu
 Callamos un momento y me levanté. Fuera la niebla había adquirido un tono azul, casi caliginoso.
 —Ya no llueve —dije mirando al cristal—. Voy a ver si en la fonda hay alguien. Ven tú luego a cenar.
 Y sin hacer caso de Carletto, lancé una sonrisa y un ademán de saludo a la gitana, me abroché el impermeable y salí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

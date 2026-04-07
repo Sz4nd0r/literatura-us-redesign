@@ -122,6 +122,3 @@ La madre, dejándose llevar por él instinto de mujer, se indignó, insultando a
 El marido la hizo callar. Al coger la gorra para ir a tratar de sus asuntos con el señor César Omont, hizo este comentario:
 —Es aún más estúpida de lo que me imaginaba. Ni siquiera se daba cuenta la tontaina de lo que se hacía.
 En la plática del domingo siguiente, anunciaba el anciano sacerdote las amonestaciones del señor Onofre César Omont con Celeste Adelaida Malandain.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

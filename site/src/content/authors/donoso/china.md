@@ -49,6 +49,3 @@ En esta época, cuando comprendí que no cuidarse mayormente del largo del cabel
 Más tarde salí del país por varios años. Un día, a mi vuelta, pregunté a mi hermano, quien era a la sazón estudiante en la Universidad, dónde se podía adquirir un libro que me interesaba muy particularmente, y que no hallaba en parte alguna. Sonriendo, Fernando me respondió:
 —En “China”…
 Y yo no comprendí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

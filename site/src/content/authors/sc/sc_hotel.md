@@ -407,6 +407,3 @@ El vaquero volvió a poner la sartén con el cerdo en el fuego, pero prosiguió 
 —Jugáramos o no para pasar el rato —dijo el del Este—, lo cierto es que Johnnie hizo trampa. Lo vi. Sé bien lo que digo. Lo vi con mis propios ojos. Y yo me negué a levantarme y a comportarme como un hombre. Dejé que el sueco se las arreglase a solas. Y tú…, tú te limitabas a dar bufidos de un lado para otro y a caldear los ánimos. ¡Y por si fuéramos pocos, el viejo Scully vino a enredar más las cosas! ¡Todos estamos en el ajo! Ese pobre jugador no es siquiera un nombre. Es una especie de adverbio. Todo pecado es el resultado de una colaboración. Nosotros, los cinco, hemos colaborado en el asesinato de ese sueco. Por lo general, en todo asesinato hay entre doce y cuarenta mujeres implicadas, pero en este caso parece que sólo hay cinco hombres: tú, yo, Johnnie, el viejo Scully y ese pobre desgraciado jugador, que no es sino la culminación, el vértice de un movimiento humano, sobre el que recae todo el castigo.
 El vaquero, ofendido y rebelde, exclamó a ciegas en medio de aquella niebla de misteriosa teoría:
 —Bueno, al fin y al cabo, yo no hice nada, ¿verdad?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

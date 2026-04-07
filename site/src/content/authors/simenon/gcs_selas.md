@@ -465,6 +465,3 @@ El Astoria lanzó dos largas pitadas de sirena. Se recogieron las pasarelas.
 —Si ustedes me impiden hacer este viaje de negocios, lo cual me causará un perjuicio enorme, darán cuenta de ello ante los tribunales y… En todo caso, desde ahora no responderé a ninguna pregunta y escojo como defensor al letrado Weil-Levy, del Colegio de Abogados de París.
 La pobre Liske no salía de su asombro. Haber recogido setecientos mil francos, si, sin hacerlo adrede, haberse comprado, por fin, la ropa interior de seda que siempre había deseado tanto, ¡ay!, y luego, en el último minuto, por culpa de aquel joven pelirrojo de las gafas ridículas…
 —¡Eso sí que es no tener suerte!, ¿sabe usted? —exclama contemplando los artículos de lujo que todavía van saliendo de su baúl.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

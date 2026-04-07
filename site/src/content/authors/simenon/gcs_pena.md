@@ -148,6 +148,3 @@ Por lo demás, la sonrisa sarcástica del joven proclamaba:
 —¡Ya ve como no tendrá mi cabeza!
 ¡Su cabeza, no! ¡Lo que no impide que ya no pueda hacer daño!
 ¡Y que, por fin, Maigret tenía derecho a pensar en otra cosa!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

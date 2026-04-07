@@ -317,6 +317,3 @@ Hasta que una noche, luego de preguntar a la redacción de El Liberal, próxima 
 —Sí. Como diría Goerdel, que los muertos entierren a sus muertos. Y que los hijos de perra se conserven fieles a su destino. Y también está escrito, creo, que el que mata se condena a la difamación y la mentira.
 Era ya de mañana cuando dejamos de jugar al ajedrez. Me levanté para entreabrir las ventanas y silenciar el andante de Bach.
 (1973)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

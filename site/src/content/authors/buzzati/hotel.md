@@ -30,6 +30,3 @@ Como en mi primera salida, acabé por escurrirme en el hueco de una puerta desco
 Asomando apenas un ojo de la jamba (a causa de la distancia no podía ver si el otro hacía lo mismo), permanecí al acecho largo tiempo. Cansado de estar de pie, en un momento dado acabé poniéndome de rodillas sin interrumpir ni por un momento mi vigilancia. Pero el hombre no se decidía a salir. Y, sin embargo, estaba ahí todo el rato, escondido, en las mismas condiciones que yo.
 Oí dar las dos y media, las tres, las tres y cuarto, las tres y media. No podía más. Por fin, me dormí.
 Me desperté con los huesos molidos cuando eran ya las seis de la mañana. De momento, no recordaba nada. ¿Qué había pasado? ¿Por qué estaba tirado allí en el suelo? Luego vi a otros como yo, en bata, acurrucados en los huecos de los cientos y cientos de puertas, dormidos: uno de rodillas, otro sentado en el suelo, otro adormilado de pie, como los mulos; pálidos, destrozados, como después de una noche de batalla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

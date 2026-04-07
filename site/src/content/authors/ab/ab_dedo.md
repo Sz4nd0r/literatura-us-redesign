@@ -69,6 +69,3 @@ Pero el señor King no dijo nada de eso. Con su mejor luz estaba tratando de pen
 Andando a tientas en la oscuridad intelectual, en busca de una pista en su laberinto de dudas, su mirada, dirigida de modo mecánico hacia abajo, a la manera de uno que pondera asuntos de gran momento, cayó sobre algo que allí, a la luz del día y en presencia de los compañeros vivientes, lo afectó con terror. En el polvo de años que yacía espeso en el suelo —que conducía desde la puerta por la que habían entrado, recto por la habitación hasta una yarda del cadáver agachado de Manton— había tres líneas de pisadas paralelas, las ligeras pero definidas impresiones de unos pies descalzos, las externas de unos niños pequeños, las internas de una mujer. Desde el punto en que terminaban no retornaban, apuntaban todas en una sola dirección. Brewer, que las había observado en el mismo momento, se inclinaba hacia adelante en una actitud de atención extasiada, horriblemente pálido.
 —¡Mire eso! —gritó, apuntando con ambas manos a la más cercana impresión del pie derecho de la mujer, donde ésta, al parecer, se había detenido y parado—. ¡El dedo medio no está, era Gertrude!
 Gertrude era la finada señora Manton, la hermana del señor Brewer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

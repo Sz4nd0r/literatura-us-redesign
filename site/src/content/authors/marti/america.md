@@ -327,6 +327,3 @@ los padres sublimes, la América trabajadora; del Bravo a Magallanes,
 sentado en el lomo del cóndor, regó el Gran Semí, por las naciones
 románticas del continente y por las islas dolorosas del mar, la semilla
 de la América nueva!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

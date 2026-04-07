@@ -87,6 +87,3 @@ El campesino relató todo esto con un ligero tono irónico, como si nada tuviera
 —Bueno, pues ya ve usted… Pásame un gusano, Stepán… Eh, Stepán, ¿te has dormido?
 Stépushka se despertó. El campesino se sentó con nosotros. Todos guardamos silencio. En la orilla opuesta una voz inició una tonada, pero era triste y demasiado larga… Mi pobre Vlas dio rienda suelta a su desesperación…
 Media hora más tarde, cada uno siguió su camino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

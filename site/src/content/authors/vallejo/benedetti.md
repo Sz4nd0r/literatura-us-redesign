@@ -145,6 +145,3 @@ actitud de incanjeable calidad humana, está milagrosa­mente afirmado en
 nuestro presente, y no creo que haya crítica, o esnobismo, o mala
 conciencia, que sean capaces de desalojarlo.
 (1967)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

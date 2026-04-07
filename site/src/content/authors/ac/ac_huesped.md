@@ -93,6 +93,3 @@ El cazador contempló un momento el semblante lloroso de Artiom, luego hizo una 
 —¡Ah…! ¡Da asco mirarte! —dijo entre dientes—. ¡No puedo verte siquiera…! ¡Sea como sea, ya no quiero dormir en tu casa…! ¡Adiós…! ¡Fliorka…! ¡Aquí…!
 La puerta dio un golpetazo y el inquietante huésped se alejó con su perro…
 Artiom cerró la puerta tras él, se santiguó y se echó a dormir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

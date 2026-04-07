@@ -88,6 +88,3 @@ Caminó por Main Street entre los compradores de última hora y la gente que vol
 —George, ¿cómo tú por aquí? Hoy es martes —dijo Nan Brown.
 —¿Te importa si entro? ¿Está abierto? —dijo George.
 —Oh, claro que sí. Cuando quieras —dijo Nan—. Puedes venir cuando quieras, y el martes es tan buen día como cualquiera. Estábamos a punto de cenar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

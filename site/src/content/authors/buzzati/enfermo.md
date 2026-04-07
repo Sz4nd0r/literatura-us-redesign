@@ -49,6 +49,3 @@ Hace sólo cuatro años era un cachorrillo que miraba amablemente a su alrededor
 Y lo ha conquistado. ¡Miradle ahora, grande y grueso, al perrazo con pecho de toro y boca de bárbaro dios azteca, mirad al inspector general, al coronel de coraceros, a su majestad! Tiene frío y tirita.
 —¡Tronk, Tronk! —le llama el profesor.
 Por primera vez el perro no responde. Su corazón aún late y se estremece. Pálido, con esa terrible palidez que se apodera de los perros, de los que se piensa equivocadamente que nunca pueden empalidecer, mira hacia abajo, en dirección a la selva virgen, por la que avanzan hacia él, lúgubres, los rinocerontes de la noche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

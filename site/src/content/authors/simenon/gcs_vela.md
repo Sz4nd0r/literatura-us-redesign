@@ -136,6 +136,3 @@ El cielo seguía tan blanco como siempre y el viento del oeste movía los árbol
 —¿Ha encontrado algo?
 Respondió evasivamente, sin alegría, y sin embargo, sabía ya que aquel caso sería objeto de largos estudios en los archivos criminales, no solamente de París, sino de Londres, de Berlín, de Viena e incluso de Nueva York.
 ¡Al verle, se hubiera podido jurar que estaba borracho!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -122,6 +122,3 @@ Bajamos las escaleras. Cuando estuvimos ante la ventanilla de la portera cogí a
 —Este es Mario..., mi cuñado... Viene de Milán... Ahora se quedará con nosotros.
 —Mucho gusto, mucho gusto...
 “El gusto es mío”, pensé saliendo a la calle. Por culpa de las habladurías de las mujeres había perdido mil liras, y ahora, encima, tenía que aguantarme al ladronzuelo en casa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

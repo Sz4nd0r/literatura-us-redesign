@@ -240,6 +240,3 @@ Hollis paró, pero antes de levantarnos de la mesa le pregunté si sabía qué h
 Contó cuidadosamente el cambio que el camarero chino le había entregado, y levantó la cabeza.
 —¡Oh! Ése es el toque final. Era un muchachito listo, como sabes, y los Padres se esmeraron mucho en su educación. Davidson esperaba en su corazón obtener consuelo con él. A su tranquila manera es un hombre que necesita afecto. Bien, Tony se ha convertido en un joven excelente..., ¡pero ya ves! Quiere ser sacerdote, su único sueño es ser misionero. Los Padres aseguran a Davidson que se trata de una vocación seria. Le dicen también que tiene una disposición especial para el trabajo de la misión. Así que el chico de Anne la Risueña llevará una vida de santidad en algún lugar de China, incluso se puede convertir en mártir, pero el pobre Davidson se quedará sin nadie. Tendrá que envejecer sin afecto humano a su lado por culpa de esos viejos dólares.
 Enero de 1914
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

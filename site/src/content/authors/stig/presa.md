@@ -58,6 +58,3 @@ Se tomó café con coñac y el ambiente era animado. Cuando la madre hubo levant
 Entonces Åke apagó. Seguro que se hizo una mella en el disco, pero eso daba igual. Frío como una anguila le iba atravesando el dolor. Los ojos se le empañaron y las caras ebrias y enrojecidas a su alrededor se volvieron brillantes como hojalata. Alguien de Upsala o de Gävle se echó a reír y esa risa le hizo salir de la sala, cruzar el zaguán y entrar en la oscuridad de la alcoba. Se quedó de pie con el disco en las manos y finalmente se le hizo tan pesado como su propia vida. Se oyó el chasquido de la puerta y en la estría de luz se le acercó callada la madre. Él se deslizó en sus brazos con su dolor y los cálidos y húmedos susurros de la madre acariciaron sus mejillas.
 —No llores, mi niño —susurró—, tú no llores.
 Pero ella lloraba tanto que se estremecía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

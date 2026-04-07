@@ -204,6 +204,3 @@ Ahora la oscuridad extiende un manto
 sobre las aguas revueltas. Ya no se ven las siluetas de esos dos.
 Adiós, adiós. ¡No nos olviden!... Pero, ahora el barco se ha ido.
 El viento... el viento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

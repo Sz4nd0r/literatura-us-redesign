@@ -118,6 +118,3 @@ Mientras él hablaba, su madre se puso de pie y avanzó de puntillas para correr
 —Supongo que te quejarías.
 —No dije una palabra, pero puse el dedo al borde, del plato, de manera ostensible.
 Después de escuchar otro relato, su madre se marchó a la cocina para poner en el horno el pastel de cordero. Henry Cooper fue al vestíbulo para recoger el bolso. “Hay que deshacer el equipaje”, pensó. Era un hombre muy ordenado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

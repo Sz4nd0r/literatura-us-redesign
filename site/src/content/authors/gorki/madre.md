@@ -76,6 +76,3 @@ Al día siguiente, a consecuencia de un hartazgo, su hijo murió entre convulsio
 La madre se sentó en el patio, junto a la caja, con las manos cruzadas sobre aquella cabeza inerte. Permanecía quieta, inmóvil, y parecía más que nunca esperar algo. Fijaba la mirada interrogante en cada uno de los que desfilaban ante el cadáver.
 Todos guardaron silencio. Nadie le preguntó nada, aunque muchos se sentían inclinados a felicitarla por haberse liberado de aquella esclavitud, o tal vez hubieran deseado consolarla por haber perdido al que, después de todo, era su hijo. Pero nadie despegó los labios. Hay momentos en que todos comprenden que ciertas cosas no pueden expresarse sin que parezcan reticencias.
 Mucho tiempo después de la muerte del monstruo, la madre seguía mirando a la gente a la cara, como si preguntase no se sabe qué. Pero luego, poco a poco, pareció ir olvidándolo todo...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

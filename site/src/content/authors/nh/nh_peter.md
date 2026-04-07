@@ -104,6 +104,3 @@ Con un violento esfuerzo de ambas manos, Peter forzó el paso de la herrumbrosa 
 —No, no, mi viejo amigo Peter —respondió John Brown—. Tengo un cuarto para usted y Tabby, y una bóveda segura para el arca del tesoro. Mañana procuraremos llegar a un acuerdo acerca de la venta de esta antigua casa. Las propiedades están muy bien cotizadas y yo podría pagarle una suma muy tentadora.
 —Y yo —observó Peter Goldthwaite, con renovado entusiasmo—, tengo un plan para invertir el dinero con grandes beneficios.
 —En cuanto a eso —murmuró John Brown para sus adentros—, deberemos recurrir al tribunal de justicia más próximo para que designe un curador encargado de controlar el dinero contante. Y si Peter insiste en especular podrá hacerlo, a su gusto, con el TESORO DEL VIEJO PETER GOLDTHWAITE.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

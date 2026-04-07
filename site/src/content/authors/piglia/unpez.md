@@ -117,6 +117,3 @@ De pronto Renzi se escuchó decir:
 —Yo también vine para olvidarte —dijo ella y se empezó a reír—. Seguimos para el norte, si querés ir te llevamos.
 —No —dijo Emilio y él también sonrió.
 Se quedaron un momento callados. Por fin, Inés le rozó apenas la cara con los labios y se alejó. Después se dio vuelta antes de subir al auto y se miraron otra vez. El coche se perdió en una nube de polvo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

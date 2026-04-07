@@ -235,6 +235,3 @@ fuma.
 Y luego, el bastón del realismo sonó “¡bang,
 bang, bang!” contra las suelas de los zapatos del príncipe Michael, del
 Electorado de Valleluna.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

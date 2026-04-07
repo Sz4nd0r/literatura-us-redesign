@@ -33,6 +33,3 @@ Yo estallé en llanto y contesté:
 —Razón de más para ir allí.
 Había muerto hacía más de un mes pero me habían ocultado la noticia.
 El resto del curso pasó como Dios quiso y, una vez acabado, dejé el Cicognini para siempre, de acuerdo con mis deseos. No es que fuera a estar mejor. Al contrario, en el nuevo colegio (del que acabé escapándome, pero ésta es otra historia) caí, como es fácil deducir de lo que dejo aludido en el presente escrito, de la sartén a las brasas. Así pues, haciendo de la necesidad virtud, yo también me convertí en un zoquete. Más tarde volví a ver y a visitar en parte ese mi primer colegio y sentí una especie de desesperado amor por él y, al mismo tiempo, la misma opresión de entonces.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

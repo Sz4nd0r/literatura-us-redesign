@@ -73,6 +73,3 @@ Me quedé en aquella obra, en el campo, haciendo de perro guardián, sin salir n
 —¿Con Ferdinando?
 —Pues claro, quería su basurero y lo tiene... Él no ocultaba su oficio, más aún, se jactaba de él... Son novios.
 Me fui de sopetón, dejándolo con la boca abierta. Me habría gustado morderme los puños. Para una vez que la cuenta se había detenido en mí, más aún, en que, como dice la retahíla, “me tocaba a mí”, no lo había comprendido. Entre todas las mujeres, me había encontrado con una a la que le gustaba el oficio de basurero y no lo había adivinado. ¡Ah!, en la vida, hágase lo que se haga, uno se equivoca. Y así, una vez más, no me había tocado a mí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

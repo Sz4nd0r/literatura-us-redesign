@@ -82,6 +82,3 @@ El agua saltó, burbujeó, se agitó, después se calmó, mientras unas pequeña
 Flotaba un poco de sangre.
 El oficial, siempre sereno, dijo a media voz: “Ahora los peces se ocuparán de ellos.” Después regresó hacia la casa.
 Y de pronto vio la red con los zarbos en la hierba. La recogió, la examinó, sonrió, gritó: “¡Wilhelm!” Acudió un soldado de delantal blanco. Y el prusiano, lanzándole la pesca de los dos fusilados, le ordenó: “Fríeme en seguida esos animalitos, mientras aún están vivos. Serán deliciosos.” Y volvió de nuevo a fumar su pipa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

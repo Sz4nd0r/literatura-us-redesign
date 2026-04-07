@@ -115,6 +115,3 @@ se opuso. Dicen que él mismo se amarró la soga en el pescuezo y que
 hasta escogió el árbol que más le gustaba para que lo ahorcaran.
 Tú te debes acordar de
 él, pues fuimos compañeros de escuela y lo conociste como yo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -51,6 +51,3 @@ Interrumpió tan grata conversación un alarido que rompió de rincón a rincón
 Mas cuando así estaba se le ocurrió apartar la vista del cadáver, lo que llevó su mirada bajo la cama.
 —¡Santo cielo! —gritó el doctor Druring—. ¿Qué demonios hace esto aquí?
 Raudo metió el brazo bajo la cama, sacó a la serpiente y la arrojó hacia el otro extremo de la habitación. Con un sonido áspero se deslizó sobre la madera del piso encerado hasta chocar contra la pared, donde quedó inmóvil. Era una serpiente disecada. Por eso tenía dos botones por ojos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

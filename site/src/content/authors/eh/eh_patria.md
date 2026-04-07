@@ -159,6 +159,3 @@ Arrancó la hoja, escrita con lápiz tinta y me la entregó. La leí.
 Me obsequió con una hermosa sonrisa italiana y escribió algo en su libreta, manteniéndola de manera que no pudiera verla.
 —Sigan —dijo—, antes de que se les ensucie de nuevo la chapa.
 Viajamos durante dos horas hasta que oscureció y esa noche dormimos en Mentone. La ciudad parecía muy alegre, limpia, sana y hermosa. Habíamos viajado de Ventimiglia a Pisa y Florencia, a través de la Romania, hasta Rímini y de vuelta por Forli, Imola, Bolonia, Parma, Piacenza y Génova, nuevamente hasta Ventimiglia. El viaje había durado sólo diez días. Como es natural en un viaje así no habíamos tenido oportunidad de ver cómo era el país, ni su gente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

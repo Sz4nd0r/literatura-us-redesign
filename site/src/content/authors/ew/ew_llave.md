@@ -380,6 +380,3 @@ cigarrillo. Con el cerillo encendido cerca de su cara miró hacia adelante y en
 sus ojos, a la vez salvajes y penetrantes, había, además de compasión, una
 mirada a la vez inquieta y cansada, muy acostumbrada a lo cómico. Se notaba que
 despreciaba y veía la futilidad de lo que acababa de hacer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

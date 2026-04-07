@@ -45,6 +45,3 @@ Tuvo un instante de duda. Lo suficiente para que sus párpados temblaran un poco
 Ahora podía huir, encerrarse por ejemplo en una habitación interior donde no se vieran las nubes. Pero huir no servía de nada. Hubiera sido una capitulación. Prefirió buscar la ayuda de Dios. Se puso a rezar con rabia, furioso, como si estuviera en el último kilómetro de una carrera.
 ¿Quién vencería? ¿La impía y dulce nube o bien él con su pureza? Mientras tanto, seguía rezando. Cuando le pareció estar lo bastante fortalecido, concentró sus fuerzas y levantó los ojos.
 Pero en el cielo, por encima del Col Giana, qué desilusión, no vio más que nubes indiferentes, con expresión estúpida, burbujas de vapor, mucílagos de niebla que se deshacían en jirones. Esas nubes, evidentemente, no podían pensar, ni ser malvadas, ni gastar bromas a los curas jóvenes de aldea. Ni seguramente se habían interesado por él para atormentarlo. Eran sólo nubes. De hecho, el Servicio Meteorológico había anunciado para aquel día: “Cielo poco nuboso con alguna nubosidad de evolución por la tarde. Viento en calma. Temperaturas sin cambios”. Del Demonio, ni una palabra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

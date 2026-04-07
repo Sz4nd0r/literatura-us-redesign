@@ -270,6 +270,3 @@ Eloise llegó hasta la llave de luz y la apagó. Pero se quedó mucho tiempo de 
 Bajó la escalera, ahora tropezando unas cuantas veces, y despertó a Mary Jane.
 —¿Qué pasa? ¿Quién? ¿Eh? —dijo Mary Jane, irguiéndose de repente en el sofá.
 —Mary Jane. Escúchame. Por favor —dijo Eloise, llorando—. ¿Te acuerdas de nuestro primer año y de que yo tenía ese vestido marrón y amarillo que había comprado en Boise, y que Miriam Ball me dijo que en Nueva York nadie usaba vestidos como esos, y yo lloré toda la noche? —Eloise sacudió el brazo de Mary Jane—. Yo era una buena chica —suplicó—. ¿No es cierto?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -538,6 +538,3 @@ Luego Houston entró en el almacén y los que estaban en el porche siguieron tra
 —No es la pérdida de la tierra lo que parece irritar a Houston —dijo un tercero—. Aunque es cierto que se enoja con facilidad.
 —Entiendo —dijo Ratliff de nuevo—. Le irrita lo que le ha sucedido a la tierra desde entonces, por lo que parece. O a quién se la ha arrendado el tío Will. Así que Flem todavía tiene algunos primos más. Sólo que éste parece ser un tipo diferente de Snopes, de la misma manera que un mocasín de agua es un tipo diferente de serpiente venenosa —así que aquélla no fue la última vez; este sujeto va a seguir creándole problemas a su primo, pensó. Pero no lo dijo, sino que se limitó a añadir, perfectamente cordial, tranquilo, inescrutable—: Me pregunto dónde estarán ahora tío Will y su socio. Todavía no me he aprendido el recorrido tan bien como vosotros, muchachos.
 —Esta mañana pasé junto a los dos caballos y el coche, atados a la cerca del Viejo Francés —dijo el cuarto hombre. También él se inclinó para escupir cuidadosamente por encima de la barandilla. Luego añadió, como si se tratara de una ocurrencia tardía y sin importancia—: Flem Snopes estaba sentado en el barril de harina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

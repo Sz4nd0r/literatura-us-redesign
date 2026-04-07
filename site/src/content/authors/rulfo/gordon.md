@@ -197,6 +197,3 @@ expre­sión notablemente similar: «Mejor vamos platicando.» Bambi, «
 [7] «Macario», producida por Clasa Films Mundiales, fue un gran éxito
 artís­tico y financiero. V. Efraín Huerta, «‘Pedro Páramo’ para
 Nacho López Tar­so...», Diario de México (8 enero 1963).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

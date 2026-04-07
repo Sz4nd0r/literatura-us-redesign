@@ -94,6 +94,3 @@ Sonreía con aire de ensueño, me miraba con aire de ensueño.
 —¿En qué estás pensando, mi bien amada?
 —Estoy pensando si querrías bajar al pueblo después de comer para preguntar en correos si hay alguna carta para mí del reparto de la tarde. No te molestaría, ¿verdad? No es que espere ninguna, pero, si la hubiese, ¿no crees que es absurdo el no recogerla y tener que esperar tontamente hasta mañana?
 Hizo girar el tallo de la copa entre sus dedos. Tenía su hermosa cabeza un poco inclinada. Yo alcé la mía y bebí, sorbí más bien, sorbí despaciosamente, deliberadamente, sin dejar de mirar aquella morena cabeza, y pensando en los carteros, en los escarabajos azules, en las despedidas que no eran despedidas y... ¡Dios de Dios! ¿Sería mi imaginación? No, no era mi imaginación. El aperitivo tenía un sabor escalofriante, amargo, muy extraño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

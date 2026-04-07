@@ -47,6 +47,3 @@ Luego, como su respiración se hacía más débil, dijo con impaciencia:
 —¡Absuélveme antes! —replicó el moribundo.
 Pero el sacerdote vacilaba todavía, y hallábase debatiendo con el enfermo cuando sonó la campana del buque y, en medio de una triunfante y burlona carcajada del forastero, el barco se hizo pedazos repentinamente y las turbulentas aguas se precipitaron sobre ellos, envolviendo al moribundo, al sacerdote y al personaje misterioso.
 El padre no recobró el conocimiento hasta la tarde del día siguiente, cuando se encontró echado en una pequeña cavidad entre las colinas de la Misión. Su fiel mula, a pocos pasos de él, pacía tranquilamente la rala hierba. El padre hizo lo mejor que pudo el camino de su residencia, pero, discretamente, se abstuvo de narrar los sucesos antes mencionados, hasta después de descubiertos los áureos tesoros; entonces fue relatado todo este verídico acontecimiento, con la aserción del padre de que el secreto del que había sido misteriosamente desposeído no era otro que el del paradero del oro hallado años antes por los marineros fugados de la expedición de sir Francis Drake.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

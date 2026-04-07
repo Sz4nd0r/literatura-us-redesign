@@ -44,6 +44,3 @@ Hasta que oyó un coro de voces angélicas difuso y conmovedor y vio un rayo de 
 —Hermano —gimió don Valentino al límite de sus fuerzas, helado—, tenga piedad de mí. Por mi culpa, mi arzobispo se ha quedado solo y necesita a Dios. Dame un poco, te lo ruego.
 El hombre que estaba rezando se volvió lentamente. Y al reconocerlo, Valentino se puso más pálido si cabe.
 —Feliz Nochebuena, don Valentino —exclamó el arzobispo saliendo a su encuentro, completamente rodeado de Dios—. Bendito muchacho, ¿dónde te habías metido? ¿Se puede saber qué has ido a buscar en esta noche de perros?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

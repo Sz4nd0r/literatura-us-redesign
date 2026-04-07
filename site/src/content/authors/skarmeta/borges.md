@@ -160,6 +160,3 @@ Luego Natalie adelantó su rostro y apoyando los codos sobre la mesa sostuvo su 
 —¿Qué me dices? ¿Te quedas? —preguntó.
 Aspiré muy hondo la segunda succión y me limpié una mota de tabaco que había quedado sobre el labio.
 —Sí —dije.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

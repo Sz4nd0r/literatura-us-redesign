@@ -144,6 +144,3 @@ Ya estoy casado. Todo el mundo me felicita y Várenka continúa abrazada a mí, 
 Y al decir esto se le hincha la nariz.
 Me acabo de enterar que el oficial herido encontró un procedimiento muy hábil para esquivar el himeneo. Presentó a la joven un certificado médico, según el cual, en razón de la herida de la sien no está bien de la cabeza y, por tanto, de acuerdo con la ley, no puede casarse. ¡Qué buena idea! Yo también hubiera podido presentar otro igual. Un tío mío era borracho perdido, otro muy distraído (un día en vez de coger su sombrero cogió el manguito de una señora y se lo colocó en la cabeza) y, en cuanto a mi tía, se pasaba la vida tocando el piano, y al encontrarse con los hombres les sacaba la lengua.
 También se podía añadir mi carácter irascible y colérico, síntoma de lo más sospechoso. Pero ¿por qué se nos ocurren tan tarde estas buenas ideas? ¿Por qué?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

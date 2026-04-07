@@ -144,6 +144,3 @@ Ella se le rio a la cara, una extraña risita que encerró su aliento, toda la a
 Ella alejó la cara con una risita vacilante. A él se le subió la sangre fuerte, abrumadoramente. Se resistió. Pero le empujó y le transportó. Al ver la nuca frágil, graciosa de su cuello, le asaltó un amor fuerte por ella; y una ternura.
 —Lo único que tenemos que hacer es decírselo a tu madre —dijo él. Y se quedó sufriendo, resistiendo su pasión.
 —Sí —replicó ella con la voz muerta. Pero había una emoción de placer en esa muerte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

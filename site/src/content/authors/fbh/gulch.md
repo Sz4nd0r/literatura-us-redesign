@@ -81,6 +81,3 @@ Tommy sacó su cuchillo nuevo y cortando una rama de una alta mata de azalea vol
 —¿En marcha ya?
 —En marcha.
 Y la portezuela de la diligencia se cerró sobre idilio de Red-Gulch.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

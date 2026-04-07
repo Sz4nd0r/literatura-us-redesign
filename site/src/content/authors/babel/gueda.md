@@ -109,6 +109,3 @@ poco de agua en las manos blanduchas y se alejó, diminuto, solo, meditabundo,
 con su sombrero de copa en la cabeza y un gran libro de versos debajo del
 brazo. El sábado empezó y Guedalye, el fundador de una Internacional
 irrealizable, se fue a orar al templo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -139,6 +139,3 @@ Miré las bellas viñetas que decoraban las láminas.
 —Es que —observé yo— el presidente de esta minera firma A. L. Fredericks, y se me ocurría...
 —Déjame ver esas láminas —dijo Jeff, arrebatándomelas de un tirón.
 Para mitigar, por levemente que fuera, el subsiguiente embarazo, llamé al camarero y le encargué otra botella de Barbera. Me pareció que era lo menos que podía hacer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

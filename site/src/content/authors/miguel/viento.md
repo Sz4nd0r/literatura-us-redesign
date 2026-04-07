@@ -158,6 +158,3 @@ Los ojos azules de John Pyle se jugaban tras sus lentes vivos de tan limpios y g
 —Somos autómatas —decía Pyle— a quienes la vida como aventura les está negada, porque si somos empleados subalternos el más pequeño cambio en la rutina del oficio nos haría perder la reputación y el puesto, y si fuéramos jefes principales, el dinero suprime la posibilidad del riesgo, y sin riesgo no hay aventura vital.
 Pyle se frotaba las manos esperando ver el efecto que sus palabras causaban en su esposa. Ella le contradecía. Las grandes empresas, para Leland, eran siempre la aventura de muchas vidas.
 —¡De acuerdo! ¡De acuerdo! —repetía él, saltando como un chiquitín—; pero los hombres de la aventura en esta empresa no son los que están ahora, aquellos perecieron en la aventura misma, devorados por los climas o la vida, y sustituidos, sustituidos por nosotros que no somos ni buenos ni malos, ni alegres ni tristes, simplemente máquinas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

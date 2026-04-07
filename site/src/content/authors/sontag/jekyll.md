@@ -330,6 +330,3 @@ Durante un lapso de silencio, Jekyll mira sus manos bellas, huesudas.
 —¿Y qué dijo Utterson al respecto?
 —Ya conoces a Utterson. —Lanyon ríe, con su risa disonante de viejo—. Dice que no se habría inmutado si Hyde se hubiera salido con la suya. Dice que todo hombre o mujer es libre de hacer lo que se le antoje.
 —Oh, la libertad… —Jekyll mastica un caramelo de vainilla que su esposa le ha llevado esa mañana. Se recuesta cómodamente en su camastro, coloca las piernas, escayoladas hasta la mitad de la pantorrilla y una de ellas con el yeso todavía húmedo, sobre la almohada extra que le han dado y sonríe—. No me hables a mí de libertad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -66,6 +66,3 @@ Un rizo de cabello rubio atado con una cinta. Una fotografía de una hermosa jov
 Otra de la misma, pero singularmente desfigurada. Un nombre en el dorso de la fotografía: “Jefferson Doman”.
 Unos momentos después, un grupo de ansiosos caballeros rodeaba a la señora Porfer mientras seguía sentada e inmóvil al pie del árbol, con la cabeza caída hacia adelante, aferrando con los dedos una fotografía aplastada. Su marido le levantó la cabeza, descubriendo un rostro fantasmalmente blanco salvo la larga cicatriz, conocida por todos sus amigos, que ningún arte podía ocultar, y que atravesaba ahora la palidez de su semblante como una maldición visible.
 Mary Matthews Porfer tenía la mala suerte de estar muerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

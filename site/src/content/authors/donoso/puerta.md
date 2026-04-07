@@ -181,6 +181,3 @@ Pero la mujer ya lo había hecho, y el rostro del muerto, debajo de sus barbas y
 —Cállate, no digas estupideces —exclamó Marambio, furioso.
 —Parece que estuviera viendo…
 Antes que María Patricia pudiera decir lo que parecía que el muerto estuviera viendo, Marambio tomó a sus dos hijas violentamente y las empujó para que entraran a la casa. Ellas, de la mano, obedecieron sin los lloriqueos ni los pucheros de siempre cuando su padre las contrariaba, hablando de lo bonito que eran los muertos y preguntándose por qué la gente grande les tenía tanto miedo. Marambio llamó a la policía para comunicar que un vagabundo había amanecido muerto en el umbral de su puerta. Y como don Aquiles era un hombre de pro, y además con gran sentido cívico, dispuso que ya que el cadáver había amanecido en su puerta no podía permitir que lo echaran así no más a la fosa común. Él se haría cargo de los gastos del funeral —no de primera, claro, eso sería absurdo, sino que de un buen funeral de tercera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

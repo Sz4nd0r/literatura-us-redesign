@@ -174,6 +174,3 @@ Lorenza perdió el habla muchos meses, hasta que su mamá bajó de la cuadrilla 
 —¿Y Julián…?
 —¡Hum! Piense usted, niña Evita, no me quiere ver. A él no le gustan las mujeres que hablan con lengua de animal…
 Y era verdad que su voz había cambiado. La lengua del conejo era demasiado chica y apenas le alcanzaba para hablar suspirando…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

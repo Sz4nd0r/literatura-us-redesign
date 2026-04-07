@@ -82,6 +82,3 @@ Ya en la puerta, el ciudadano se volvió.
 —Me olvidaba el dinero en el tocador.
 El ladrón le cogió por la manga.
 —No se preocupe —respondió—. Yo convido. ¿Ha probado el aceite de siempreviva con vaselina?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

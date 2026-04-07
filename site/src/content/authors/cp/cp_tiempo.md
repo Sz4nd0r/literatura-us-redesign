@@ -26,6 +26,3 @@ Mi amigo miró la luna, y se lo pensó. De veras me parecía que nunca la había
 —No sé —respondió mi amigo—. Para mí siempre es la misma.
 Ahora el escalofrío me había abandonado y la luna con su sabor de vendimia nos miraba a ambos como una criatura a la que yo conocía y recobraba. Y, como una criatura, su pasado no contaba para mí, que era joven y habría podido ir a su encuentro y hablarle, subir hasta allí arriba entre los arbolitos, entre los dulces vapores estivales que siempre habían existido y no envejecen nunca. Mi amigo callaba, y yo pensaba ya en el placer que sentiría al día siguiente llevando en mí bajo el sol la certeza de que también la noche está viva.
 Así pasaban para mí aquellos días, monótonos y frescos, con su novedad. No sabía que su tumultuosa audacia la vería un día como un quieto recuerdo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

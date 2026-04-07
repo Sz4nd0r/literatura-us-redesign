@@ -1148,6 +1148,3 @@ Estaba tan decidida a reunir todas las pruebas, que me volví de hielo para desa
 Me parece oír todavía aquellas palabras, con las que se había rendido; eran el supremo tributo a mi devoción.
 —¿Qué importa ahora, querido? Ya no tendrá ninguna importancia. Estás conmigo —me volví hacia la bestia y dije—: En cambio, él te ha perdido para siempre —luego, como una demostración suprema de mi obra, añadí—: ¡Allí, allí!
 Pero él había vuelto ya a la ventana, y miró una y otra vez sin ver absolutamente nada. La impresión de aquella pérdida de la que yo me sentía tan orgullosa, le hizo proferir un grito igual al de una criatura que se lanzara al abismo, y el ademán con que lo acogí fue el necesario para salvarlo de la caída. Lo cogí, sí, y es fácil imaginar con qué pasión; pero al cabo de un minuto comencé a darme cuenta de lo que en realidad tenía entre mis brazos. Estábamos solos, el día era apacible, y su pequeño corazón, desposeído, había dejado de latir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

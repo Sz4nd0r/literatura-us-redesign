@@ -55,6 +55,3 @@ Volvió a hacerse el silencio en la habitación y el viejo Edward King se rió d
 —Lo dicho, ojalá estuviera aquí Sarah —exclamó Joe Welling—. Vayamos a su casa. Quiero contarle todo esto.
 Se oyó el chirriar de unas sillas en la habitación. George Willard se retiró a su cuarto. Desde su ventana vio a Joe Welling andando junto a los dos King. Tom King tenía que dar grandes zancadas para mantenerse a la altura de aquel hombrecillo. Y, mientras andaba, se agachaba y escuchaba absorto, fascinado. Joe Welling hablaba otra vez muy excitado.
 —Piensen, por ejemplo, en la cerraja —exclamaba—. La de cosas que se pueden hacer con la cerraja, ¿eh? Resulta casi increíble. Quiero que se paren a pensarlo. Quiero que los dos se paren a pensarlo con detenimiento. Habría un nuevo reino vegetal. Interesante, ¿verdad? Es una idea. Esperen a que veamos a Sarah, ella lo entenderá. Seguro que le interesa. A Sarah le interesan mucho las ideas. No es fácil dárselas con queso, ¿eh? Pues claro que no. Ustedes lo saben de sobra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

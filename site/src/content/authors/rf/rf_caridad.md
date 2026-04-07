@@ -292,6 +292,3 @@ N. del T.:
 [2] Se refiere al Down-East que aparece en la revista The Down-East Pennysaver, ya mencionada. En Maine es normal utilizar esa expresión para referirse a los distritos costeros del este.
 [3] Maine es un homófono de main, que significa «principal, fundamental».
 [4] En los Estados Unidos es el primer lunes de septiembre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

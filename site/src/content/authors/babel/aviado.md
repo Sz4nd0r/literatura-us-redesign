@@ -267,6 +267,3 @@ buscar los cadáveres. El de Andriuscka Vosmilietof se lo llevaron dos de sus
 parientes que servían en nuestro escuadrón, y el de Trunof, nuestro comandante
 muerto, lo llevamos nosotros al gótico Sokal y allí lo enterramos en un lugar
 digno, en medio de la ciudad, en un lecho de flores del parque municipal.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

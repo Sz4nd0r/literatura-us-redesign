@@ -96,6 +96,3 @@ Le pedí disculpas por la cruel
 lección y le entregué, para su gran asombro, los ochenta rublos.
 Tímidamente balbuceó su merci y salió... La seguí con la
 mirada y pensé: ¡Qué fácil es en este mundo ser fuerte!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

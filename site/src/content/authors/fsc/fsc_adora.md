@@ -33,6 +33,3 @@ A los pocos años los dos murieron en una epidemia de gripe y fueron al cielo. C
 Se sentaban al atardecer e intentaban recordar lo que echaban de menos. No eran los libros, pues allí todo el mundo sabía todas las cosas de memoria, ni era el niño, pues nunca había sido realmente suyo.
 No podían recordar, así que, tras un periodo de perplejidad, renunciaron a los recuerdos, y hablaban de lo maravilloso que era el otro, o de las victorias que Chico Lindo conseguiría al día siguiente.
 Y así van las cosas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

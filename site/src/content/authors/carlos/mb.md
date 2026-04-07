@@ -611,6 +611,3 @@ de la Universidad de México, agosto de 1962, págs. 19-20.
 (12) Con posterioridad a la redacción y publicación de este
 trabajo, Fuentes publicó dos nuevas novelas: Zona sagrada
 (1967) y Cambio de piel (1967).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

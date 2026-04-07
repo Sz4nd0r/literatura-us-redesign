@@ -98,6 +98,3 @@ Lucy, apoyada con abandono en una puerta, intentó sintonizar con la conversaci�
 Los humanistas —Lucy se dio cuenta de que todos eran compasivos caballeros— se levantaron. En el suelo había un pequeño charco de salsa que se derramaba de la mesa.
 —Ah, ya recogeré yo eso —dijo Lucy a los caballeros—. Ni os preocupéis.
 Feingold y el refugiado surcan el salón en las alturas. Sus palabras son motas de polvo. Todos los judíos están en el aire.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

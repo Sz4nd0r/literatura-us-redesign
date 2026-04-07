@@ -503,6 +503,3 @@ Nadie las había tenido.
 —Tilín, tilín —dijo la nueva hija de los Organski, y todo el mundo sonrió.
 Contra todo pronóstico, la visita fue un éxito. Observó el matrimonio de los Organski. Tenían una mesa pesada y llena, y sirvieron tres postres: primero pudin, luego fruta, después pastel y té. Saltaba a la vista que sus dos hijos nunca serían extraordinarios. El acento de Boris era tan nefasto como siempre. Rosalie dejaba que el polvo se acumulara; se peleaba con todas las asistentas domésticas. La casa no deparaba grandes glorias ni grandes guerras.
 Rosalie le dijo a Una que volviera pronto, y ella aceptó, aunque solo de palabra. Por dentro rehusó el ofrecimiento. No era que a esas alturas le molestara la imperfección, pero no soportaba la idea de que su educación tuviera que prolongarse indefinidamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

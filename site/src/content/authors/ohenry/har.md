@@ -462,6 +462,3 @@ El comandante Talbot, que pasaba por el vestíbulo, vio abierta la puerta del do
 —¿Ha llegado correo para nosotros, querida Lydia? —preguntó.
 Ella escondió la carta en un pliegue del vestido.
 —He dejado La Crónica de Mobile sobre tu escritorio —se apresuró a responder.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

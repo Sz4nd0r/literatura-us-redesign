@@ -194,6 +194,3 @@ Y Maigret gruñó, siempre furioso:
 Y se fue a beber un medio mientras Vinchon iba a hacer lo que le había dicho su tío. Los viejos trucos son buenos puesto que lograron su cometido. Y lo lograron sobre todo porque Lena Leinbach tenía una enorme flecha de brillantes en su sombrero y porque Popaul, como le llamaba la señora Maigret, la señaló diciendo:
 —No puede negarlo… Hay sangre encima…
 ¡Y no era cierto! Lo que no fue óbice para que tuviese una crisis de nervios y confesase.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

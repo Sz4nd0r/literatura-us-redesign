@@ -61,6 +61,3 @@ Esa noche le correspondía a la señora McCool ir con la jarra en busca de cerve
 —Como ya lo dijo usted, es necesario ganarse la vida —subrayó la señora Purdy.
 —Sí, señora; ésa es la verdad. Hace exactamente una semana que la ayudé cuando usted puso en orden el cuarto del tercer piso. Era una chica demasiado bonita para matarse con gas... Tenía una carita muy dulce, mi querida señora Purdy.
 —Se la hubiera podido considerar hermosa, como usted dice, si no hubiese tenido ese lunar junto a la ceja izquierda —opinó la señora Purdy, con actitud de asentimiento crítico—. ¿Me llena el vaso otra vez, señora McCool?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

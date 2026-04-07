@@ -48,6 +48,3 @@ Al volver en sí, el sacristán se mete los dedos en la boca y en el lugar de la
 —Diablo sarnoso… —exclama—. ¡Para martirizarnos os ha creado Dios, malditos!
 —Y todavía me insulta… —farfulla el enfermero, dejando las tenazas en el armario—. Grosero… No te debieron zurrar mucho en el seminario… El señor Aleksandr Ivánich Yeguípetski, que ha vivido siete años en San Petersburgo… es un hombre educado… sólo su traje costará unos cien rublos… y, sin embargo, no se atrevió a insultarme… ¿Quién te has creído que eres? ¡No te preocupes, no te morirás de ésta!
 El sacristán coge el pan bendito que había dejado sobre la mesa y, sujetándose la mejilla con la mano, se vuelve a su casa…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

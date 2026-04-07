@@ -97,6 +97,3 @@ Serlavis se echó a reír, movió la cabeza y, enternecido, dio un
 sonoro beso en la mejilla a Nicolás.
 —Anda, pilluelo, enséñaselo a
 mamá para que lo vea ella también.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

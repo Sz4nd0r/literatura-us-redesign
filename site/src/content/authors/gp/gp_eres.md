@@ -167,6 +167,3 @@ Mi madre no se enteró porque había acontecimientos demasiado importantes en su
 Luego ella se dedicó a sus cosas, es decir que, libre del desencanto que habíamos sufrido Browny y yo, se casó con el alférez de navío. Todos estábamos contentos, a pesar de que nadie ignora que nunca llegó a divorciarse de papá. El nombre que aparece al lado del suyo en el certificado de matrimonio es Sidney LaValle, Jr., alférez de navío de la Armada de los Estados Unidos. Una generación anterior, y no tan introvertida, de hombres apellidados LaValle llegó a Michigan procedente de Quebec, y Sid sabe un par de frases en el idioma favorito de mamá.
 Browny me ha enviado una postal. Tiene una vista aérea de Joplin, estado de Misuri, y dice: «Hola, niña, ánimo, cariños, Browny. P. S. Mi salud mejor».
 Como mi vida es una auténtica autopista de desesperación, me alegra oír los incesantes ruidos alegres que vienen de la habitación de al lado. Me gustó abrazar el cuerpo de Browny, aunque me parece que para él yo no era más que una esperanza de triunfar en su vida civil. Joanna duerme ahora conmigo. Aunque se pasa las noches enteras haciendo ruido con los dientes, agradezco su compañía. Desde que estoy comprometida me tiene mucho respeto. Es una niña muy cariñosa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

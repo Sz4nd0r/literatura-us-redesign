@@ -115,6 +115,3 @@ Lo habían traído en un camión abierto y cuando lo soltaron en el potrero los 
 5. Los zambos, mestizos de indios y negros, eran el punto más bajo de la escala social en el Río de la Plata.↩
 6. «La evasión impositiva se debe, principalmente, a las actividades que desarrollan los denominados valijeros. Se los llama así porque llevan dinero en efectivo en un portafolio. Ofrecen mejores precios a acopiadores, invernadores y productores agrarios en general, negociando en negro, con facturas pertenecientes a empresas inexistentes» (La Prensa, 10 de febrero de 1972).↩
 7. El parejero más conocido en la historia argentina fue el Pangaré azul, propiedad del coronel Benito Machado. Este caballo fue ganador de todas las cuadreras disputadas y murió ahorcado en su box por descuido del cuidador.↩
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

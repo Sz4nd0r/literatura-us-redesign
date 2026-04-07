@@ -75,6 +75,3 @@ Se percataron de que no colocó la forma que llevaba en la camilla de la ambulan
 Eso es todo. ¿Es un cuento! En el diario de la mañana siguiente leí una breve noticia, cuya última frase puede ayudar a ustedes (como me ayudó a mí) a hilar los incidentes.
 Anunciaba la recepción, en el hospital Bellevue, de una joven que había sido conducida desde el número 49 de la calle East, afectada de debilidad por inanición. Concluía con estas palabras.—
 “El doctor William Jackson, médico que fue en la ambulancia y atendió el caso, dice que la paciente se repondrá”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

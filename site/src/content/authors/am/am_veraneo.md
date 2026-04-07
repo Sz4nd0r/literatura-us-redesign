@@ -130,6 +130,3 @@ Una vez apagada la luz le pareció volver a verse en el tren, con el embriagado 
 En el sueño que lo anegaba se confundían las dos imágenes de sí mismo, la primera esperanzada del tren y la segunda desilusionada del parapeto. El parapeto se convertía en ventanilla, el río en rieles. Y esta confusión era una delicia nueva, aunque triste.
 El rumor que hacía, a oscuras, en la madera de un mueble, una carcoma tenaz, lo distrajo. Mientras escuchaba aquel ruido tan seco y nítido que sugería la vista de las garras que desmenuzaban la madera, le pareció de pronto, al apretar los párpados, que se le salían las lágrimas. Pero quizás se engañaba. Con esta duda se quedó dormido.
 (1938)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

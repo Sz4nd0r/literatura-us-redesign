@@ -189,6 +189,3 @@ coloradas. Todos los peces saben por qué es, y se burlan de ellos. Pero
 los flamencos, mientras se curan en el agua, no pierden ocasión de
 vengarse, comiéndose a cuanto pececito se acerca demasiado a burlarse de
 ellos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

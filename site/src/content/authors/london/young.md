@@ -470,6 +470,3 @@ llevar en el bolsillo de su chaleco y utilizar de inmediato y sin fallos en cual
 situación. Pero su esposa no lo tiene por cobarde. Lo conoce bien. Y, como cualquier
 héroe, él se contenta con dormirse en los laureles. Los amigos que están al tanto del episodio
 de Mill Valley jamás cuestionan su valentía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

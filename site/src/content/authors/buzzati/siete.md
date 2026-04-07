@@ -39,6 +39,3 @@ Por esto pretendo que, cuando Ettore y los otros mensajeros me hayan alcanzado d
 De un tiempo a esta parte, por las noches se apodera de mí una ansiedad inusitada, y ya no es la nostalgia por las alegrías abandonadas, como me sucedía al principio del viaje, sino más bien la impaciencia por conocer las ignotas tierras a las que me dirijo.
 Voy notando —y hasta ahora no se lo he confesado a nadie— que de día en día, a medida que avanzo hacia la improbable meta, el cielo irradia una luz insólita que nunca había visto, ni siquiera en sueños; que las plantas, los montes, los ríos que atravesamos, parecen estar hechos de una esencia diferente a la de nuestra tierra y que el aire trae presagios que no sé explicar.
 Una esperanza nueva me llevará mañana por la mañana más adelante aún, hacia aquellas montañas inexploradas que las sombras de la noche están ocultando. Una vez más levantaré el campamento, mientras Domenico desaparecerá en el horizonte por la parte opuesta, para llevar a la ciudad lejanísima mi inútil mensaje.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

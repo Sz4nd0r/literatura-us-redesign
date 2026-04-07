@@ -119,6 +119,3 @@ Giacomino se pone ante él:
 —¡Yo lo haré! —le grita el profesor Toti con el rostro impasible—. ¡Y para impedir que te cases soy capaz de hacer que te echen del banco! Te doy tres días de tiempo.
 Y, girándose, desde el umbral de la puerta, con el niño de la mano, dice:
 —¡Piénsatelo, Giacomino! ¡Piénsatelo!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

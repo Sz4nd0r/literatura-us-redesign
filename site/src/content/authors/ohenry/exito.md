@@ -266,6 +266,3 @@ Pero Morley bajó por la bocacalle hasta llegar a
 un lugar tranquilo y apoyó su rostro súbitamente ardiente contra el frío hierro
 de una farola, y dijo sordamente:
 —¡Dios mío, quisiera morirme!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

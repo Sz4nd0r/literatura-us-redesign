@@ -110,6 +110,3 @@ Suspiré y me mordí los labios.
 —¿Qué objeciones opone al voto de la mujer? —preguntó Guy, mientras seguía con la vista el plácido cortejo de las monjas que cruzaban entre los árboles.
 —Siempre creí que te interesabas mucho por el futuro de la mujer —dijo Betty—. Ven esta noche a cenar con nosotros. Plantearemos con amplitud la cuestión. Ya sabes que tras de la vida agitada de Londres, aquí, en esta ciudad de la vieja Europa, le parece a uno ver las cosas de modo diferente.
 —Diferente por completo —respondí, saludando con leve movimiento de cabeza, como a un viejo conocido, a la guía turística que asomaba en el bolsillo de Guy.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

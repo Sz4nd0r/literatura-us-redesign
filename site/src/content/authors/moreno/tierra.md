@@ -206,6 +206,3 @@ Ella no quiere que haga nada, pero pregunta:
 Dobla índice y mayor de la misma mano, como una garra, como un garfio, apuntando hacia abajo. Pero no es hábil y los demás dedos siguen el mismo movimiento y se doblan también y la mano entera, suspendida en la noche, semeja una zarpa.
 —Con la uña es un galope, te digo... Está regalada, una carnicería que está regalada. Vas a ver qué boleto.
 La mano se distiende, vuelven los dedos más largos y rozan el mentón de ella, se acartuchan allí, en un gesto que quiere ser tranquilizador. Han llegado al café.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

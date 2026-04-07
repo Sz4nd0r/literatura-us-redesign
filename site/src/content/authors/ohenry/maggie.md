@@ -75,6 +75,3 @@ Luego se dirigió a Maggie.
 —Oye, Maggie —dijo—. Te veré en tu casa. Y, ¿qué me dices del sábado por la noche? ¿Vendrás al baile conmigo si te hablo?
 Era extraordinaria la rapidez con que los ojos de la muchacha podían variar del opaco al marrón brillante.
 —¿Contigo, Dempsey? —tartamudeó— ¡Caramba!... ¿qué más quiere el pato, que lo echen al agua?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

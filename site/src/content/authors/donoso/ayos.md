@@ -57,6 +57,3 @@ Pero lo acarició mientras él indagaba sobre el calor de su vientre y de sus pi
 Y se quedaron inmóviles un rato, ambos cansados y doloridos e incómodos.
 Luego Jua'n Acevedo acompañó a su amiga hasta la casa en la cuadra siguiente. Ella le preguntó cuánto tiempo estaría en Los Andes y él le dijo que por lo menos un año. Estaba contento. Juana se alegró con él. En la puerta de la casa le deseó buena suerte y se dieron la mano al despedirse. La mano de Juan estaba tibia porque la traía en el bolsillo del pantalón. La de ella era muy chica y fría y blanda.
 Al acostarse Juana sintió un dolor terrible. Pero como estaba fatigada se quedó dormida rápidamente, pensando en la cara que pondría Rosa al día siguiente cuando le contara que por fin tenía un «firmeza».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

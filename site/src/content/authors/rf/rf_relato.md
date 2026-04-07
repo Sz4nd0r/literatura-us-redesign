@@ -48,6 +48,3 @@ La vaca está semidescarnada. No fue fácil cortar el rabo. La cabeza y las pata
 Elías llenó los dos sacos. Los otros hombres usan las camisas como si fueran sacos.
 El primero que se retira es Elías con su mujer. Hazme un bistec, le dice sonriendo a Lucília. Voy a pedirle unas papas a doña Dalva, te haré también unas papas fritas, responde Lucília.
 Los despojos de la vaca están extendidos en un charco de sangre. João llama con un silbido a sus auxiliares. Uno de ellos trae un carrito de mano. Los restos de la vaca son colocados en el carro. Sobre el puente sólo queda una poca de sangre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

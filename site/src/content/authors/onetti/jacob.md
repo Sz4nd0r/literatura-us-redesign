@@ -324,6 +324,3 @@ Había volado, con los grandes bigotes, con la absurda flexión de las piernas q
 En seguida empezaron a caer sobre el ring pedazos de madera y botellas vacías; yo tenía mi discurso completo, mi exagerada sonrisa para extranjeros. Pero continuaban cayendo los proyectiles y los gritos no me hubieran dejado hablar.
 Entonces los milicos se movieron con entusiasmo, como si no hubieran hecho otra cosa desde el día en que consiguieron empleo, dirigidos o no, supieron distribuirse y organizarse y comenzaron a romper cabezas con los palos flamantes hasta que solo quedamos en el Apolo el campeón, el juez y yo sobre el ring, los milicos en la sala, el pobre muchacho muerto, de veinte años, colgado sobre dos sillas. Fue entonces, y nadie supo de dónde, y yo sé menos que nadie, que apareció junto al turco la mujer chiquita, la novia, y se dedicó a patear y a escupir al hombre que había perdido, al otro, mientras yo felicitaba a Jacob sin alardes y asomaban por la puerta los enfermeros o médicos cargados con la camilla.
 (1961)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

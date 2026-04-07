@@ -85,6 +85,3 @@ Abrimos la puerta y entramos.
 —¿De qué va a ser? —dijo Memo riéndose.
 Creo que hicimos bien. Somos demasiado jóvenes para cuidarnos tanto. Después, cuando seamos viejos y la presión nos suba, como al gordito que bailaba el charlestón, entonces será el momento de cuidarnos. Ahora no.
 Y pedimos tres botellas de vino tinto, del mejor, del más caro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

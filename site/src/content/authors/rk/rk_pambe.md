@@ -43,6 +43,3 @@ Se oyó una tos densa y malsana, y el cuerpo del africano se resbaló despacio d
 —¡Ahora ya puedo morir! —dijo Pambé.
 Pero no murió. Lo cuidaron y le devolvieron a la vida con toda la habilidad que proporciona el dinero, porque la Ley lo perseguía; y al final se puso lo suficientemente sano y en forma como para ser colgado en forma debida y conveniente.
 A Pambé no le importó demasiado, pero fue un golpe muy triste para el amable caballero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

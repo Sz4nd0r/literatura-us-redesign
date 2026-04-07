@@ -56,6 +56,3 @@ Me hallaba en los muelles. Del río subía un frío glacial.
 ¿El Sena seguía aún corriendo?
 Quise saberlo, bajé la escalera… no se oía el ruido gorgoteante de la corriente, bajo los arcos del puente… Aún quedaban dos escalones… después la arena… el cieno… después el agua… metí el brazo… el agua corría… corría… fría… fría… fría… casi helada… casi aterida… casi muerta…
 Comprendí que nunca jamás tendría fuerza de volver a subir… y que iba a morir allí… yo también. De hambre, de cansancio, de frío.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

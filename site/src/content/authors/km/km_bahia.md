@@ -1767,6 +1767,3 @@ delante cíe la luna. En este instante de tinieblas, el ruido del mar
 retumbó, profundo y turbado. Luego, la nube se fué a bogar a lo lejos,
 y el ruido del mar se convirtió en un vago murmullo, como si despertase
 de un sombrío sueño. Todo quedó tranquilo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

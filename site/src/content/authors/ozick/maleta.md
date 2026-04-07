@@ -232,6 +232,3 @@ Catherine apareció de repente en escena con su vestido blanco (la esposa del ar
 Agarró el cheque y bajó corriendo la larga escalera, tan deprisa que las cenefas de óvalos y rectángulos superpuestos se mezclaron en un tono gris. En su alma vaporosa como el plumón, un alma en la que creía con una certeza ancestral, el padre del artista ardió en un mar de comino silvestre, de botón de oro, de resplandor amarillo, mientras las crines del caballo se enredaban ante sus ojos como una retícula. ¿Y por qué el caballo no iba más rápido?
 —Cielo santo —dijo Catherine—, ¿por qué tienes la maleta abierta y todo revuelto? Papá, ¿te han robado a ti también? —exclamó con su tono más correcto, más cultivado, más ventrílocuo—. ¡A cuántos delincuentes habremos albergado aquí esta noche sin saberlo!
 Sonó exactamente igual que una frase de Genevieve.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -162,6 +162,3 @@ La América, Nueva York, abril de 1884.
 Tomado
 de las Obras Completas, tomo 15, Editorial de Ciencias Sociales, La
 Habana 1975, páginas 388-392.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

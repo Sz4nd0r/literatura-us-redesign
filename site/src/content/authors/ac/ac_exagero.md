@@ -194,6 +194,3 @@ tembló. Klim azotó al animal por segunda vez y el vehículo se
 tambaleó. Después del cuarto azote, cuando el carro se puso en
 marcha, el agrimensor se tapó las orejas con el cuello del abrigo y
 se quedó pensativo. Ni el camino ni Klim le parecían ya peligrosos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

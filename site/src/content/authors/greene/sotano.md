@@ -225,6 +225,3 @@ El policía se volvió rápidamente hacia ellos: “¿Qué? ¿Qué? ¿Por qué n
 —Emmy —dijo Philip—, Emmy —ya no iba a guardar ningún secreto: iba a terminar de una buena vez con todo, con Baines y la señora Baines, y con la vida adulta que rebasaba su entendimiento. No era cosa suya, y nunca más, nunca más, decidió, compartiría sus confidencias y su amistad.
 —Todo fue culpa de Emmy —protestó con un sollozo que le recordó a Baines que después de todo no era más que un niño; qué lamentable error esperar su ayuda. Era un niño; no entendía lo que todo esto significaba; no podía leer estas señas de terror. Había sido un largo día y estaba exhausto. Se le veía caerse de sueño apoyado en el aparador, regresando al mundo apacible y cómodo de su récamara. No se le podía culpar. Al despertar en la mañana, no se acordaría de nada o casi.
 —A ver, a confesar —le dijo el policía a Baines con ferocidad profesional—. ¿Quién es ella? —al igual que sesenta años después el anciano sorprendió a su secretario, su único cuidador, al preguntar “¿Quién es ella, quién es ella?” hundiéndose más y más en la muerte, tal vez cruzándose en el camino con la imagen de Baines: Baines desesperanzado, Baines, la cabeza agachada, Baines “confesando”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

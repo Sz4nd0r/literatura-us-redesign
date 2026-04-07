@@ -83,6 +83,3 @@ La tarde había sido horrenda. Había llegado una carta de Willie Brent, una car
 Cuando las Kelvey estuvieron bien lejos de la casa de las Burnell, se sentaron a descansar sobre un enorme caño rojo al costado del camino. Las mejillas de Lil todavía ardían; se sacó el sombrero y lo apoyó en sus rodillas. Como en una ensoñación, miraron largamente los corrales, atravesando la ensenada, hasta la valla de juncos donde las vacas de Logan esperaban el ordeñe. ¿Qué pensaban?
 De pronto nuestra Else codeó suavemente a su hermana. Ya se había olvidado de la señora enojada. Acarició con su dedito la pluma del sombrero de su hermana y le dio una de sus poco frecuentes sonrisas.
 “Yo vi la lamparita”, dijo suavemente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

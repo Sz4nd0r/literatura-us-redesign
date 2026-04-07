@@ -156,6 +156,3 @@ Se alejó sin decir adiós.
 Percival Ford dio un par de palmadas.
 —Chico —dijo al criado japonés—. Una limonada.
 Y mientras disfrutaba de su limonada siguió sonriendo con satisfacción.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

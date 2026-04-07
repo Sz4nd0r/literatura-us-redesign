@@ -196,6 +196,3 @@ También Richard supo, cuando una enfermera acercó a su nieto al cristal, que a
 —¿Puedo?
 —Es usted el abuelo, ¿no? Aquí tratamos muy bien a los abuelos.
 Y el cuerpo en miniatura del niño se adhirió a su pecho y a sus brazos, aunque más débilmente que el de los niños que se había atrevido a llamar suyos. Nadie nos pertenece, excepto en el recuerdo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -105,6 +105,3 @@ Por supuesto, es en mi madre en quien estoy pensando, en mi madre como era en aq
 He descubierto que los cameronianos eran o fueron un residuo irreconciliable de los Covenanters, aquellos escoceses que en el siglo
 XVII
 se comprometieron con Dios a resistir a los libros de oraciones, a los obispos, a cualquier mancha de papismo por parte del rey. Su nombre procede de Richard Cameron, un predicador proscrito, o «de campo», pronto derribado. Los cameronianos —durante largo tiempo han preferido ser llamados presbiterianos reformados— iban a la batalla cantando los salmos 74 y 78. Acuchillaron en la carretera al arrogante obispo de Saint Andrews hasta matarlo e hicieron que sus caballos pasaran sobre su cuerpo. Uno de sus ministros, con el ánimo de gozar firmemente de su propia ejecución en la horca, excomulgó a todos los demás sacerdotes del mundo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -34,6 +34,3 @@ Pero dejemos a las autoridades gubernativas y su maldita tacañería. El hecho e
 Bien, he recibido un premio de cuatro millones, imprevisible, inesperado, extraño a mi presupuesto y, hasta diría, superfluo. ¿Y qué hago ahora?
 Está claro. Me lo juego.
 Y volvió a subir las amadas y odiadas escaleras, y cómo acabó no seré yo el que lo cuente: yo no halago la ociosa curiosidad del lector.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

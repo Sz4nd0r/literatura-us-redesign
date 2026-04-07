@@ -262,6 +262,3 @@ Caminamos en silencio hacia la tienda y, a medio camino, el jefe dijo:
 —Nunca he dicho lo contrario, jefe.
 —Nunca lo has dicho, pero actúas como si lo fueras. Tu padre sí era mejor que la mayoría de nosotros, pero no lo demostraba.
 —No, no tenía por qué —dije yo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

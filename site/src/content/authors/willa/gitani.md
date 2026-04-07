@@ -495,6 +495,3 @@ El chico la miró y se acercó con suavidad.
 —Oh, madre —dijo—. No me importa la granja. He vuelto porque pensé que tal vez me necesitaría.
 Agachó la cabeza y no dijo nada más.
 —Muy bien —dijo la señora Ericson. Su mano se levantó de repente y se aposentó en su cabeza. Sus dedos se entrelazaron con el suave y pálido cabello. Las lágrimas del chico llegaron a las tablas. La felicidad llenó su corazón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

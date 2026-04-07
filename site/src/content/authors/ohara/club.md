@@ -33,6 +33,3 @@ Kirby sonrió.
 —¿Y qué pasa con Hope Westmore? ¿Era verdad? —dije.
 Kirby se quedó mirándome larga y fijamente.
 —No creo que eso tenga la menor importancia —dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

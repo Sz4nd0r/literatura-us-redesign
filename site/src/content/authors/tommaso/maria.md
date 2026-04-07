@@ -32,6 +32,3 @@ Bueno, señores, casi he terminado. Sí, sí, mírenme como les plazca. ¿A mí 
 Señores, denme un vasito de agua, pequeño. Y ustedes, ¿qué Cristo miran? ¿Saben que soy capaz de tirarles el agua a la cara? ¡Ja, ja! Estoy bromeando, ¿o prefieren que hable en serio?
 Así pues, y para terminar, ahora estoy solo en la casa, solo de verdad. Una mujer viene a hacer las labores de la casa durante media hora y luego se va, la muy bestia, no sé por qué. Pero me importa un rábano. Todas las tardes voy a pasear y a veces llego hasta el camposanto, como ya les he dicho. Tengo treinta y cuatro años. He dicho. Buenas noches, señores.
 1929
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

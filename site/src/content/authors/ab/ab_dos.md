@@ -47,6 +47,3 @@ El teniente Dudley se acercó lentamente hasta el capitán.
 Acto seguido, el teniente Dudley cayó de rodillas e instantes después yacía muerto.
 Poco más tarde aquel ejército llegaba a la primera línea de fuego para relevar a los hombres que hasta entonces habían sostenido el frente. Y en breve, victoriosa aquella tropa, no volvió a sonar un tiro.
 De Bennett Greene, experto en ejecuciones castrenses, no se volvió a tener noticia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -199,6 +199,3 @@ Una chalupa se abarloó a su costado y un hombre pasó por encima de la barandil
 —¡Calma! ¡Calma! —El tono de Grief era frío y amenazador—. Devuélveme las mil doscientas libras, por favor.
 Una enorme impotencia se apoderó de Griffiths. Se sintió poseído por un asco profundo: asco por esas tierras de sol y las fiebres que causaba, por la futilidad de su esfuerzo, por ese hombre superior, de ojos azules y piel morena, que lo vencía en todo.
 —Jacobsen —dijo—, ¿serías tan amable de abrir la caja del dinero y pagarle a esta… a esta sanguijuela mil doscientas libras?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

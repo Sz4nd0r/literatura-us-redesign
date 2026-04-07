@@ -47,6 +47,3 @@ Se casaron por la iglesia y por lo civil. En la iglesia, el que los casó fue el
 Ella regresó embarazada, satisfecha y alegre.
 Tuvieron cuatro hijos, todos hombres, todos con mucho cabello.
 A via crucis do corpo (1974)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -595,6 +595,3 @@ de calzoncillos y camisetas, una Ortgies calibre 7,65. Sacó el
 cargador, lo examinó y volvió a colocarlo. Quitó el seguro.
 Después se sentó en la cama desocupada, miró a la chica, apuntó
 con la pistola y se disparó un tiro en la sien derecha.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

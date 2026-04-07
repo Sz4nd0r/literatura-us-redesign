@@ -36,6 +36,3 @@ Recostada cómodamente en el sofá, Fabrizia Smith-Lombrassa, una chica la mar d
 —Fíjate, fíjate, Diomeda, qué maravilla —dijo dirigiéndose a su amiga—, fíjate cómo Malusardi les canta las cuarenta a esos pobres figurativos… ¡Rifé comenzando por rerar la bifecta posea o pisca!
 Las dos rieron con ganas.
 —Es divertido, ya lo creo —aprobó Diomeda—. Ah, Malusardi, le adoro. ¡Es formidable!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

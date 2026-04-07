@@ -189,6 +189,3 @@ El director gritó en voz alta al vapor:
 Y empezó a subir trabajosamente por la empinada orilla. El capitán y el maquinista del vapor subieron tras él. Mientras subían, la niebla comenzó a disiparse y pudieron ver al director a buena distancia. De pronto le vieron caminar más aprisa, llamándolos por encima del hombro:
 —¡Corran! ¡Hacia la casa! He encontrado a uno de ellos. ¡Corran y busquen al otro!
 ¡Había encontrado a uno de ellos! Y hasta un hombre como él, de variadas y desagradables experiencias, se sintió un tanto descompuesto por el encuentro. Se quedó en pie y buscó afanosamente en sus bolsillos una navaja mientras miraba a Kayerts, que estaba colgado por una cuerda de cuero de la cruz. Evidentemente, había subido a la tumba, que era alta y estrecha, y después de atar el extremo de la correa al travesaño, se había dejado caer. Los dedos de sus pies estaban a sólo unas pulgadas de la tierra; sus brazos colgaban, tiesos; parecía estar rígidamente cuadrado en posición de firmes, pero con una mejilla de color púrpura juguetonamente posada sobre su hombro. Y, con indolencia, mostraba su hinchada lengua al director gerente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

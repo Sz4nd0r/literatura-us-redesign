@@ -133,6 +133,3 @@ Sintió resonar sus pasos, lentos,
 medrosos, a través de la sala. “Cuando vuelvas seré tuya.” Los pasos
 estaban ya junto a la puerta. “Cuando vuelvas...” El hombre saltó la
 baranda y se perdió entre los callejones.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

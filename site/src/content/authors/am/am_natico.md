@@ -95,6 +95,3 @@ Entonces no pude contenerme y grité:
 —¡Qué fanático!
 Después bajó y, muy digna, soberbia, altiva, menéandose dentro de aquel trajecito serpentino, se encaminó entre los automóviles y el tráfico de Porta San Giovanni. Yo me quedé atontado, mirándola mientras se alejaba, hasta que desapareció. En aquel momento alguien subió al taxi, gritando:
 —A la Plaza del Popolo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -322,6 +322,3 @@ yo, y aquí me contó su historia epilogada con estas palabras:
 —Si no me hubiera
 ido tan lejos creo que hubiera muerto a Lucía. Aquello de hacerme
 despedazar por los perros no tuvo nombre...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

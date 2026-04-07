@@ -71,6 +71,3 @@ La historia del hombre de piel tostada degeneró otra vez en improperios.
 —Imagínese —dijo cuando emergió una vez más a la pureza del lenguaje—, ¡cuarenta mil libras esterlinas en oro!
 —¿Volvió aquel pequeño misionero? —pregunté.
 —¡Oh, sí! ¡Pobre bendito! Y apostó su reputación afirmando que había un hombre dentro del dios y se dispuso a demostrarlo con una tremenda ceremonia. Pero allí no había nada… y quedó otra vez como un novato. Yo he odiado siempre las escenas y las explicaciones, y mucho antes de que llegara me había esfumado, dirigiéndome hacia Banya a lo largo de la costa, ocultándome entre los arbustos durante el día y robando comida en los poblados por la noche. Como única arma, una lanza. Ni ropas, ni dinero. Nada. Mi cara era mi fortuna, como reza el dicho. Y ni un penique de las ocho mil libras esterlinas en oro, mi quinta parte correspondiente. Pero los nativos le dieron una buena al sonrosado misionero, gracias a Dios, porque creyeron que había sido él quien había ahuyentado su buena suerte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

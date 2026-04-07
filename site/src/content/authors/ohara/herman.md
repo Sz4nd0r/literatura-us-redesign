@@ -88,6 +88,3 @@ Paul ensayó una carcajada.
 —Auf Wiedersehen, Herman.
 Paul se quedó mirando a Herman mientras este recorría la corta distancia hasta el ascensor. El hombre pulsó el botón, esperó unos segundos a que el ascensor llegara y entró en él sin mirar atrás.
 —Adiós, Herman —dijo Paul, pero estaba seguro de que Herman ya no lo oía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

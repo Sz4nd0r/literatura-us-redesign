@@ -1455,6 +1455,3 @@ Vámonos a buscar sobre los rascacielos
 el hilo roto
 de la cometa de mis niños
 que se enredó en el trípode viejo del artillero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

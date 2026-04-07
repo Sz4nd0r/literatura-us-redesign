@@ -345,6 +345,3 @@ aquellos incendiaron panales y arrecifes
 son hoy este reposo de tu sangre en la mía,
 este cauce estrellado y azul como la noche,
 esta simplicidad sin fin de la ternura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

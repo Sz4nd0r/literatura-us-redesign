@@ -82,6 +82,3 @@ La vejez nos impide confirmar muchos de nuestros temores. Me pregunté a qué ed
 Los oí hablar mientras iban en busca de sus abrigos al fondo del restaurante.
 —Me pregunto qué harán aquí todos esos japoneses —dijo él.
 —¿Japoneses? —dijo ella—. ¿Qué japoneses, querido? A veces eres tan evasivo que pienso que no tienes la menor intención de casarte conmigo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

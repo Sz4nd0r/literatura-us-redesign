@@ -77,6 +77,3 @@ La mirada del anfitrión recorrió rápidamente la estancia.
 —Una chica realmente extraordinaria.
 El anfitrión movió la cabeza, apenado.
 —Los jóvenes de hoy... —murmuró.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

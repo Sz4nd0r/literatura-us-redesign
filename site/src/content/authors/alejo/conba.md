@@ -118,6 +118,3 @@ Quiero dar las gracias al eminente musicólogo y ferviente vivaldiano Roland de 
 En cuanto al gracioso ambiente del Ospedale della Pietá —con sus Cattarina del cornetto, Pierina del violino, Lucieta della viola, etc. etc.— a él se han referido varios viajeros de la época y, muy especialmente, el delicioso Presidente De Brosses, libertino ejemplar y amigo de Vivaldi, en sus libertinas Cartas italianas.
 Pero debo advertir que el edificio a que me refiero no era el que ahora puede verse —construido en 1745—, sino el anterior, situado en el mismo lugar de la Riva degli Schiavoni. Es interesante observar, sin embargo, que la actual iglesia della Pietá, fiel a su destino musical, conserva un singular aspecto de sala de conciertos, con sus ricos balcones interiores, semejantes a los de un teatro, y su gran palco de honor, al centro, reservado a oyentes distinguidos o melómanos de alta condición.
 A. C.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

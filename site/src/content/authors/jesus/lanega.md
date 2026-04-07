@@ -221,6 +221,3 @@ a achicar los ojos.
 —¿Yo? —dijo éste acusándose— No, ¿por qué?
 —Tienes los ojos rojos.
 —Ah, es que anoche no dormí, estuve de posta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

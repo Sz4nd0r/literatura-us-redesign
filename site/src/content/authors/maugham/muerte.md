@@ -411,6 +411,3 @@ Es el día de Navidad, y quiero decirte que mi corazón no tiene para ustedes do
 Hay que dejar a los que se quieren que sean felices a su manera, y amarlos bastante para no sentir amargura. Me inclino ante esa felicidad que acaba de entrar en tu vida. Ya no me inspira ni penas ni celos. No tengas remordimientos para conmigo. Si alguna vez tienes necesidad de mí, ven a buscarme: serás acogido con alegría, sin odios ni reproches. Te guardo un profundo reconocimiento por todos los hermosos años que me diste, por la ternura que siempre me has testimoniado. En cambio, te conservo mi afecto. No exige nada de ti y es, lo creo, completamente desinteresado. Piensa en mí con amistad y sé feliz, feliz, feliz.
 Firmó y puso la carta en un sobre. Aunque el correo no partía sino en la escala de Port-Said, se apresuró a colocarla en el buzón, sin esperar. En seguida, cuando comenzó a desvestirse, se miró en el espejo. Sus ojos brillaban.
 Comprobó que después de quitarse el rouge conservaba su tez clara. El porvenir se abría ante ella lleno de promesas. Se deslizó en el lecho y cayó inmediatamente en un profundo sueño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

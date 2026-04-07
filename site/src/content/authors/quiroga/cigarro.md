@@ -286,6 +286,3 @@ encogió de hombros, levantando hasta mi cuello la sábana un poco caída.
 —Me parece que mejor haría en ser amigo de este microbio —murmuró.
 —Creo lo mismo —le respondí.
 Y me dormí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

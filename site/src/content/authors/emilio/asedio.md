@@ -288,6 +288,3 @@ hacia aquella multitud de seres altivos y bárbaramente normales que la
 asediaban con el alarde de la felicidad. Escupió una, dos, tres veces,
 hasta que sintió que el llanto, un llanto duro que se negaba a humedecer
 su rostro, se cuajaba bajo sus párpados.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

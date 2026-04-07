@@ -306,6 +306,3 @@ Las mantas les ayudaron. El viento les seguía dando en la cara y a Frank en las
 Se rió y Tub también. Tub sonrió mirando por la ventanilla trasera. Kenny estaba tumbado con los brazos cruzados sobre el estómago, moviendo los labios y mirando las estrellas. Justo sobre su cabeza estaba la Osa Mayor y detrás, colgando entre las puntas de sus pies, en la dirección del hospital, estaba la Estrella del Norte, la Estrella Polar, la guía del marinero. Mientras el camión iba serpenteando por las suaves colinas, la estrella se balanceaba entre las botas de Kenny, manteniéndose siempre a la vista.
 —Voy al hospital —dijo Kenny.
 Pero estaba equivocado. Habían tomado otra carretera muchos kilómetros atrás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

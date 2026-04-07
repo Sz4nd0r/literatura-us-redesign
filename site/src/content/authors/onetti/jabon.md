@@ -28,6 +28,3 @@ Tuvo la esperanza absurda, en la que creyó por un tiempo, de que iba a matar la
 Hasta que, casi de un día al otro, Saad comenzó a aceptar. A desear, más que la posesión física de Ello, la permanencia del secreto, de la duda. Y ahora vigilaba celoso a Ello, con miedo de que una imprudencia, una frase, le revelara la verdad por cuya ignorancia gozaba ahora en seguir sufriendo.
 Veía a Ello trepar el sendero, ágil y rápido, un poco inclinado el cuerpo por el peso de la cesta. Sintió frío y vejez, entró en la casita pensando vagamente qué habría comprado Ello para la comida de la noche.
 1979
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -108,6 +108,3 @@ Y Fate dice que quizá King sabía que era Halloween. ¿Cree usted que sería ca
 De hombres como King se puede pensar cualquier cosa. Volaba como el viento, le juró Plez a la señorita Lizzie Stark; aunque no pudo decir hacia dónde porque cambiaba continuamente de dirección.
 Pero apuesto mi becerrito Jersey a que King se paró lo suficiente para hacer algún niño más por ahí.
 ¿Por qué digo esto? No se lo diría ni a mi marido, así que olvídelo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

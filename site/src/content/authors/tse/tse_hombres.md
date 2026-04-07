@@ -122,6 +122,3 @@ Y así se acaba el mundo
 No con un estallar, con un sollozo.
 (Traducción:
 Julio Hubard)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

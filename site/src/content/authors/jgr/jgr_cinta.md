@@ -42,6 +42,3 @@ Pero ahora Cinta Verde se espantaba, más allá de entristecerse al ver que hab�
 Cinta Verde más se asustó, como si fuese a tener juicio por primera vez. Gritó:
 —¡Abuelita, tengo miedo del Lobo!
 Pero la abuela no estaba más allá, estaba demasiado ausente, a no ser por su frío, triste y tan repentino cuerpo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

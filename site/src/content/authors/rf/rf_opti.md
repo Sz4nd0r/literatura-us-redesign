@@ -161,6 +161,3 @@ Terminé de hacer mis compras y pasé por caja y salí al aparcamiento. Y subí 
 —¿No? Bien. No lo estaba. Boyd estaba enamorado de Penny. Yo estaba enamorada de Roy. Ésa es la realidad. Y quiero que la sepas. Tienes que creerme. ¿Me crees?
 —Sí. Te creo.
 Se inclinó y me besó en la mejilla a través del hueco de la ventanilla, y cogió mi cara entre sus manos, y la retuvo por espacio de un instante que me pareció eterno, y al cabo se dio la vuelta y se fue. Y me dejó allí solo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

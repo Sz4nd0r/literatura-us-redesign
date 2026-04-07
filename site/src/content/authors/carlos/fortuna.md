@@ -88,6 +88,3 @@ Se hincó frente a un casillero y sacó los volúmenes y Alejandro hojeó las l�
 Salió de la librería al Paseo de la Reforma.
 Se detuvo un instante; en seguida caminó con rapidez al estacionamiento, pagó y subió al Opel. Arrancó por la lateral y dio vuelta a la derecha en Bucareli.
 La nueva exposición de Alejandro se inauguró la semana pasada y fue un escándalo. Lo han acusado de negarse a sí mismo, de darle la espalda al país y de plagiar descaradamente el Pop Art. Rojas acaba de escribir un artículo en defensa de Sevilla. Se titula «La sacralización de lo baladí». Adela, Lola y Lupe ya desaparecieron. La exposición conjuró a varias nuevas mujeres que hoy se reparten los días de la semana en la casa del Olivar de los Padres. Todos dicen que, buen o mal artista, Alejandro es un Donjuán afortunado e impenitente. Hace poco le recordé que ya cumplió 33 años y que debe pensar en casarse algún día. Alejandro sólo me miró con tristeza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

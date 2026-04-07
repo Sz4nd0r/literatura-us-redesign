@@ -64,6 +64,3 @@ El niño, agradecido, alzó los ojos y trató de sonreír. Por un segundo, una e
 Pero fue sólo un instante.
 ―¡Vamos, Dolfi, ven a cambiarte! ―le ordenó airadamente su madre, y lo arrastró de forma enérgica de vuelta a casa. Entonces el niño volvió a sollozar desconsoladamente; su cara de pronto se volvió fea, un duro rictus le torció la boca.
 ―¡Qué lata de niños! ―exclamó la otra señora despidiéndose―. ¡Hasta la vista, señora Hitler!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

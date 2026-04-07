@@ -51,6 +51,3 @@ Bajo un árbol, el profesor Leonard, con birrete y toga, permanece junto a su ca
 Y por fin, se llega a la cima de la colina. ¡Uf, qué calor! ¡Pero que día tan hermoso! La taberna está abierta y el gentío se apretuja a la entrada. La madre se sienta al borde de la carretera con el niño y el padre le trae un vaso de algo oscuro, pardusco, y luego se vuelve a abrir violentamente paso hacia adentro, a codazos. De la taberna sale un vaho a cerveza y el bullicio y la algarabía de las voces.
 El viento ha amainado, y el sol cae con más fuerza que nunca. Fuera, junto a las dos puertas batientes, hay un montón de chiquillos que acuden como moscas al tarro de los caramelos.
 Y, colina arriba, la gente sigue subiendo, con plumeros y monigotes, y rosas y plumas. Arriba, siempre arriba, bajo la luz y el sol, gritando, riendo, chillando, como si algo les empujase desde abajo, y desde arriba, desde el sol, algo les llevase hacia el esplendor pleno, refulgente, deslumbrante de… ¿de qué?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

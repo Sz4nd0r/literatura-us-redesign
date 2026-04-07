@@ -30,6 +30,3 @@ Como cambiara de lugar, detuvo la mirada en algunas dependencias cuyo aspecto er
 Durante un instante quedó estupefacto por la brutal revelación. Después se puso a correr en torno a las ruinas. Allí, plenamente visible a la luz del incendio, yacía el cadáver de una mujer: el rostro pálido vuelto al cielo, las manos extendidas, agarrotadas y llenas de hierba, las ropas en desorden, el largo pelo negro, enmarañado, cubierto de sangre coagulada; le faltaba la mayor parte de la frente, y del agujero desgarrado salía el cerebro que desbordaba sobre las sienes, masa gris y espumosa coronada de racimos escarlata obra de un obús.
 El niño hizo ademanes salvajes e inciertos. Lanzó gritos inarticulados, indescriptibles, que hacían pensar en los chillidos de un mono y en los cloqueos de un ganso, sonido atroz, sin alma, maldito lenguaje del demonio. El niño era sordomudo.
 Después permaneció inmóvil, los labios temblorosos, los ojos fijos en las ruinas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

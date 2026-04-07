@@ -471,6 +471,3 @@ Marta vio la cara de piedra de Francisco. Tenía
 los ojos abiertos, fijos, desolados, y la boca
 torcida y enlodada. Desde el catre, entre las
 sombras, llegó el llanto pequeñito de Martica.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

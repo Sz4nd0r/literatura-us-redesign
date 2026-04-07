@@ -132,6 +132,3 @@ Noel asintió.
 —Supongo que era la forma de las colas de su saco [o sea, la forma peculiar del saco de los pastores protestantes] —dijo simplemente.
 —Ya me lo figuraba —contestó Gale—. Bueno, ese es el camino de la realidad. Buenas noches.
 Y prosiguió su camino por una ruta suburbana, adquiriendo conscientemente el tono de los campos bañados de luna. Pero no encontró ningún otro pavo real y es probable que no lo deseara tampoco.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

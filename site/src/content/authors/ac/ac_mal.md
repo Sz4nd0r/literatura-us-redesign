@@ -75,6 +75,3 @@ No he robado, me parece, y no me he metido en peleas… Y si tiene alguna duda s
 —Ya me callo… —balbucea Denís—. Lo que pasa es que el capataz ha mentido en las cuentas, eso se lo puedo jurar… Somos tres hermanos: Kuzmá Grigoriev, Yegor Grigoriev y yo, Denís Grigoriev.
 —Me estás molestando… ¡Eh, Semión! —grita el juez— ¡Llévatelo!
 —Somos tres hermanos —masculla Denís cuando dos corpulentos soldados le cogen y le sacan de la sala—. ¡Un hermano no debe responder por el otro! Kuzmá no paga y tú, Denís, responde por él… ¡Jueces! Si nuestro amo, el difunto general, Dios le tenga en la gloria, no estuviera muerto, ya les enseñaría a ustedes, los jueces… Hay que saber juzgar, y no de cualquier manera… Bueno, que me azoten, pero que sea por algo, en conciencia…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

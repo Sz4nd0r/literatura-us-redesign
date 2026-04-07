@@ -156,6 +156,3 @@ Y el pueblo cayó de rodillas sobrecogido de temor, y los nobles envainaron las 
 —Uno más grande que yo os ha coronado —exclamó.
 Y se arrodilló ante él.
 Y el joven rey bajó del altar mayor y regresó a palacio pasando entre su pueblo. Pero nadie se atrevió a mirar su rostro, pues era como el rostro de un ángel.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

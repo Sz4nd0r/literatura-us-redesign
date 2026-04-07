@@ -627,6 +627,3 @@ mientras bebía despacio, alzó los ojos hacia la bóveda. Oyó crujir la verja.
 A contraluz no reconoció enseguida a aquel vagabundo con la chaqueta al hombro, que paseó la mirada por la estancia. Luego le entró un sobresalto y se le cayó el vaso. Pero el
 otro dijo:
 —Beba, beba, ya sé el camino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -108,6 +108,3 @@ Cerca de la una de la madrugada Varvara Stepánovna encendió una vela, se puso 
 “Querido Nikolai: Hoy estuvo Mirlits, un judío muy decente, y mañana vendrá el señor que da el dinero por la casa. Creo hacer bien, pero cada vez estoy más intranquila, porque no confió en mí.
 ”Sé que tienes tus sinsabores, tu trabajo y no debiera escribirte eso, pero nuestra casa, Nikolai, no se arregla. Las niñas se hacen mayores, hoy la vida exige muchas cosas —cursillos, taquigrafía las chicas quieren más libertad. Hace falta un padre, quizá haya que gritarles, pero en mí no se puede confiar. Sigo creyendo que tu viaje a Kamchatka fue un error. Si estuvieras aquí nos mudaríamos al Starokolenni, allí se alquila un pisito muy soleado.
 ”Rimma adelgazó y tiene mal aspecto. Todo el mes cogimos nata en la lechería de enfrente y las niñas mejoraron mucho, pero hemos dejado de cogerla. Mi hígado tan pronto se deja sentir como se calma. Escribe más a menudo. Después de tus cartas me cuido, no como arenques y el hígado me deja tranquila. Ven, Kolia. Descansaríamos. Saludos de las niñas. Te beso muy fuerte. Tu Varia”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

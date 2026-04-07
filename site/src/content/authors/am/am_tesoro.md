@@ -112,6 +112,3 @@ Y diciendo así entró en la barraca y nos dio con la puerta en las narices.
 Así acabó la historia del tesoro. Al día siguiente, a la hora de costumbre, Marinese entró en la hostería y, cuando le llevé su litro, me gritó:
 —¡Ah, tú eres el del tesoro!... ¿Dónde has metido la pistola?
 Por fortuna, nadie nos hizo caso, porque, como ya dije, charlaba mucho y solía decir cosas sin sentido. Pero, de todas formas, no me sentía muy seguro, y además, no me gustaba que se burlaran de mí ante Remigio, que lo sabía y se divertía mucho, como si él no hubiera creído también en el tesoro. De modo que aproveché una oferta de trabajo y me fui a una trattoria en el Trastevere, en la Plaza San Cosimato. En cambio, Remigio se quedó en San Pancrazio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

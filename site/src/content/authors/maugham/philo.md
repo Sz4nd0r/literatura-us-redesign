@@ -78,6 +78,3 @@ The brightness of your eyes, the peach-bloom of your skin, [La brillantez de tu 
 And all the charming splendour of your youth. [Y todo el maravilloso esplendor de tu juventud.]
 Alas, I do not love you [¡Ah!, pero yo no te amo ahora]
 And I care not if you care. [Y no me importa que te importe.]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

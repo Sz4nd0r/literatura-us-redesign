@@ -111,6 +111,3 @@ Pero él seguía pisando el acelerador. En lugar de tomar el desvío, seguimos c
 Luego dijo que quería que viera algo. Pisó a fondo el acelerador. Me até el cinturón de seguridad y apreté los dientes.
 —Písale fuerte —dije—. ¿A qué esperas, George?
 Y fue entonces cuando volamos de verdad. El viento aullaba en las ventanillas. George llevaba el pie metido hasta el piso, y avanzábamos a todo gas. A velocidad de vértigo por la carretera en aquel enorme coche de motor rectificado aún por pagar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -45,6 +45,3 @@ A la mañana siguiente temprano una partida fatigada, comandada por un capitán 
 El cirujano estaba examinando la espada. Era la de un oficial de línea de la infantería federal, exactamente igual a la usada por el capitán. Era, de hecho, la propia de Byring. La única otra arma descubierta fue un revólver no descargado en el cinturón del oficial muerto.
 El cirujano puso abajo la espada y se aproximó al otro cuerpo. Éste estaba atrozmente acuchillado y apuñalado, pero no había sangre. Echó mano del pie izquierdo y trató de enderezar la pierna. En el esfuerzo el cuerpo fue desplazado. El muerto no desea ser movido, éste protestó con un tenue olor nauseabundo. Donde había yacido había unos pocos gusanos, que manifestaban una actividad estúpida.
 El cirujano miró al capitán. El capitán miró al cirujano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

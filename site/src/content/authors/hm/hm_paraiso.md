@@ -180,6 +180,3 @@ N. de la trad.
 [5]I Timoteo 5:23.
 [6] Sobrenombre con el que era conocido el duque de Wellington (1769-1852).
 [7] Luigi Pulci (1432-1484) fue un famoso poeta italiano, protegido de Lorenzo de Medici.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -195,6 +195,3 @@ La gigantesca figura del doctor Sterndale se levantó, inclinó la cabeza con gr
 —Quizá algo de humo que no sea venenoso resulte agradable —dijo—. Creo que estará de acuerdo, Watson, en que no es un caso donde se nos haya pedido que nos entrometamos. Hemos realizado una investigación independiente y nuestra actuación así debe serlo también. No denunciaría a ese hombre, ¿verdad?
 —Desde luego que no —respondí.
 —Nunca he estado enamorado, Watson, pero, si lo estuviera y la mujer a la que quiero hubiese tenido un final así, quizá actuase de la misma manera en que lo ha hecho nuestro cazador de leones. ¿Quién sabe? Bueno, Watson, no insultaré su inteligencia explicándole lo obvio. La grava del alféizar fue, claro, el punto de partida de mi investigación. Era improbable algo así en el jardín de la vicaría. Hasta que el doctor Sterndale y su casa no atrajeron mi atención, no encontré otra similar. La lámpara encendida a plena luz del día y los restos de polvo sobre la pantalla fueron los eslabones siguientes de una cadena muy obvia. Y ahora, mi querido Watson, creo que podemos apartar el asunto de nuestra mente y volver con la conciencia tranquila al estudio de esas raíces caldeas que posiblemente se encuentren en el idioma celta de la rama de Cornualles.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

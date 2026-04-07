@@ -164,6 +164,3 @@ Tiéndete a fondo en tu carrera, aunque apenas se te dé para comer. Pues si
 llegas sin valor a la gloria, y adquieres estilo para trocarlo fraudulentamente
 por pingüe forraje, te salvará el haberte dado un día todo entero por un puñado
 de pasto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -116,6 +116,3 @@ Después de mirar cuánto tenía en la cartera, el hombre joven sacó un billete
 — ¿Quién sabe si iré? —dijo el hombre joven, guardándose la cartera en el bolsillo.
 — ¿Cómo? —exclamó Peduzzi—. Llevaré peces para cebo, signor. Salami, todo. Usted, yo y la signora. Los tres.
 — ¿Quién sabe si iré? —repitió el otro—. Es muy probable que no. En todo caso, lo dejaré dicho al padrone del hotel.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

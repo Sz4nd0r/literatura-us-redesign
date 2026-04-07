@@ -118,6 +118,3 @@ Cuando Nuestro Señor fue avisado, vino a la puerta del paraíso y encontró a F
 —Por tí, vale —le dijo a Federigo—; pero a esas doce almas que el infierno reclama, no podré en conciencia, dejarlas entrar.
 —¡Pues qué! Señor —dijo Federigo-, ¿cuando tuve el honor de recibiros en mi casa, no estabais acompañado de doce viajeros que yo acogí, como a Vos, lo mejor que me fue posible?
 —No hay manera de resistir a este hombre —dijo Jesucristo—. Entrad, dado que ya estáis aquí; pero no presumáis de la gracia que os he hecho; sería un mal ejemplo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

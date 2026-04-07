@@ -238,6 +238,3 @@ A veces se despertaría llorando después de que se repitiera el sueño de Kyle.
 «Pero gracias a vosotros, chicos», dijo Papá, «no sucedió nada».
 «Lo hicisteis tan bien», dijo Mamá.
 «De fábula», dijo Papá.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

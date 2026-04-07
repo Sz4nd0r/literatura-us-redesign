@@ -45,6 +45,3 @@ Recortado en un Evening Post de aquellos días
 “Israel Johnson, el conocido hombre de negocios, acaba de entablar un proceso contra el fabricante de ascensores Jacob Wilson. La causa de ello, está en el inexplicable accidente ocurrido en el mecanismo de uno de los ascensores de esta marca, que funcionaba en el building de Mr. Johnson, y que causó desperfectos considerables en dicho edificio, rompiendo su techumbre, y destrozando una valiosa instalación de radio.”
 El proceso fue perdido por Jacob Wilson. Pero, como Israel Johnson era judío y se le sabía tiránico con sus mecanógrafas, su victoria no satisfizo a nadie.
 Mayo de 1929.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

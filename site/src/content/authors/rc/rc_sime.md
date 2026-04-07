@@ -110,6 +110,3 @@ Ella me miró largamente y me acarició la cara. Entonces me dio la espalda y se
 Ve, mi más querida, y que Dios esté contigo.
 Ella abordó el avión y yo me mantuve en mi lugar hasta que se encendieron los motores y la nave empezó a carretear por la pista y despegó sobre la bahía y se convirtió en una mancha en el horizonte.
 Volví a la casa, estacioné el coche y miré las huellas que habían dejado los caballos la noche anterior, los trozos de pasto arrancado y las marcas de herraduras y los montones de bosta aquí y allá. Entonces entré en la casa y, sin sacarme el saco siquiera, levanté el teléfono y marqué el número de Susan.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

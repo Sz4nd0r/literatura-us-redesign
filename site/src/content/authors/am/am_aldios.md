@@ -181,6 +181,3 @@ Sacudió la cabeza.
 —Tras permanecer un momento callada, me informó—: Presenté la renuncia, ahora trabajo en un instituto de belleza, por lo menos allí hay solamente mujeres.
 —Después, filosóficamente, concluyó—: Era una enfermera valerosa y consciente, y una viciosa.
 Me he convertido en una mujer sana y normal, y en una asesina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

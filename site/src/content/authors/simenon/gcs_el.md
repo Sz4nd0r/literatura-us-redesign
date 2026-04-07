@@ -532,6 +532,3 @@ La miraba sin estar plenamente convencido. Ella continúa:
 —No hay derecho a que en un buen momento te impidan llegar hasta el final…
 Entonces él, con un falso arrebato:
 —¿Sabes qué es todavía peor? ¡El haberte encontrado en casa de esa señorita Augustine! Porque, en suma, estabas en los sitios que yo… ¡Cierto que se trataba de tu enamorado!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

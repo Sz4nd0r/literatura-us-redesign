@@ -79,6 +79,3 @@ Un instante después ya estaba tumbado en el sofá y Tobías arrodillado frente 
 —¡Mi pobre animal! ¡Mi pobre animal! ¡Qué triste que es todo! ¡Qué tristes que estamos los dos! ¿Sufres? Sí, sí, sé que sufres… ¡Qué mal aspecto tienes! ¡Pero yo estoy contigo! ¡Yo te consolaré! Con mi mejor pañuelo voy a…
 Pero Esaú seguía ahí tumbado, entre estertores. Sus ojos turbios e interrogativos estaban fijos en su amo, llenos de incomprensión, inocencia y queja. Un instante después estiró un poco las patas y se murió.
 Pero Tobías continuó inmóvil en la misma postura. Había apoyado la cara contra el cuerpo de Esaú y lloraba amargamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

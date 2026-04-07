@@ -287,6 +287,3 @@ El enfermero, Andrade y yo encogimos los hombros y escuchamos en seguida el moto
 Me senté en el diván, estremecido y en paz; preferí no moverme cuando entró la muchacha y fue recta hasta la cama, copió con increíble lentitud mi ademán de descubrir y cubrir.
 El sargento y Gunz ocupaban la puerta, la vieja y el enfermero se adelgazaban contra la pared, Andrade retrocedió con la boina en la mano. Casi sin respirar, miré a la muchacha que inclinaba la cara sobre el conjunto inoportuno, airadamente horizontal, de zapatos, pantalones y sábanas. Estuvo inmóvil, sin lágrimas, cejijunta, tardando en comprender lo que yo había descubierto meses atrás, la primera vez que el hombre entró en el almacén —no tenía más que eso y no quiso compartirlo—, decorosa, eterna, invencible, disponiéndose ya, sin presentirlo, para cualquier noche futura y violenta.
 (1954)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

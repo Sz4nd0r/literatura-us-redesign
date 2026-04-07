@@ -342,6 +342,3 @@ Hicks—, creí que alguien descargaba un culatazo
 sobre mi oreja izquierda, y el caso es que solo fue un
 escobazo que, con todas sus ganas, acababa de
 arrearme la señora Hicks”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

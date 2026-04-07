@@ -170,6 +170,3 @@ Maigret volvió a ver a Martin para el interrogatorio definitivo.
 Se contentó con encogerse de hombros.
 Miss Laurence Wilfur, enamorada del doctor Barion hasta el punto de querer matar por despecho a los hijos de éste, hasta conocer sus pormenores gestos, hasta envenenar los pasteles en su voluntad salvaje de alcanzar su meta, Miss Laurence Wilfur, que había tenido la idea casi genial de servirse sin saberlo del inocente señor Lunes, ha sido internada, de por vida, en una casa de salud.
 ¡Y allí, desde hace dos años, anuncia a sus compañeras que va a dar un hijo al mundo!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

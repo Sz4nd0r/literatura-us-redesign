@@ -59,6 +59,3 @@ Siete meses después, se les condenó a morir quemados en la Plaza Mayor. La ví
 ¡Pues mi pensamiento es el que se torna invisible!
 Sin perder un segundo la Tatuana hizo lo que el Maestro dijo: trazó el barquito, cerró los ojos y entrando en él —el barquito se puso en movimiento—, escapó de la prisión y de la muerte.
 Y a la mañana siguiente, la mañana de la ejecución, los alguaciles encontraron en la cárcel un árbol seco que tenía entre las ramas dos o tres florecitas de almendro, rosadas todavía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

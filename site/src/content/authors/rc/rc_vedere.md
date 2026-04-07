@@ -112,6 +112,3 @@ Voy hasta la ventana y miro a través de la cortina. Alguien grita algo allá ab
 Oigo como arranca un coche. Luego otro. Proyectan los faros sobre el edificio y, uno después de otro, se retiran y se sumergen en el tráfico.
 —Duane —dice Holly.
 También en esto tenía razón ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

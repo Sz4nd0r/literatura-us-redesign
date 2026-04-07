@@ -263,6 +263,3 @@ el viejo perro se alejaba con un paso silencioso, empezó a preguntarse
 en qué había estado pensando antes. ¿Qué era? Era... Sacó el
 pañuelo y se lo pasó por delante del cuello de la camisa. Aunque le
 fuera la vida en ello no se podía acordar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

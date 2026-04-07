@@ -117,6 +117,3 @@ LA ROSA DE DIXIE
 POR
 T ROOSEVELT
 MIEMBRO DE LA FAMOSA FAMILI BULLOCH, DE GEORGIA.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

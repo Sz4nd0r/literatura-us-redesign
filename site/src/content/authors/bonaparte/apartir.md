@@ -150,6 +150,3 @@ En el mortuorio
 algunas personas comentaban:
 —Estaba muy
 metido en política...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

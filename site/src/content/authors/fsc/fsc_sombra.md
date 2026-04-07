@@ -310,6 +310,3 @@ Instintivamente se apartó de la mano que iba a acariciarlo.
 Pero cuando llegó a casa se quedó profundamente dormido en el sofá. Su madre no sabía si despertarlo. Lo tapó con una manta y un edredón, le puso una almohada bajo la cabeza, que se resistió, y subió a su dormitorio.
 Estuvo arrodillada junto a la cama mucho rato.
 —Dios mío, ayúdalo, ayúdalo —rezaba—, porque la ayuda que necesita yo ya no puedo dársela.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -224,6 +224,3 @@ buscando pozos, túneles, hormigas,
 bocas de tristes muertos,
 por donde ir al azul de la tierra
 en donde se confunden la lluvia y los ausentes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

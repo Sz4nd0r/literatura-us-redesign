@@ -68,6 +68,3 @@ Manna-Loulou no siempre tenía una historia a punto, pues Madame solo quería es
 Pero, en realidad, esta era la forma en la que Madame Delisle y Manna-Loulou se hablaban una a la otra:
 —Vou pré droumi, Ma’zéll Titite?
 —Non, pa pré droumi, mo yapré zongler. Ah, la pauv’ piti, Man Loulou. La pauv’ piti! Mieux li mouri!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

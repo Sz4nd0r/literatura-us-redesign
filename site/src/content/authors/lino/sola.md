@@ -118,6 +118,3 @@ Hizo una pausa.
 —Joven, aquí todos navegamos en el mismo barco y nadie se va a tirar por la borda. Ésta no es más que una visita, para darnos por enterados. Usted sabe que lo mejor, en estos casos…
 Angusola se volvió lentamente y se fue hacia el tinglado. Un instante después los cuchillos estaban danzando de nuevo entre sus manos. Sofonsiva se apoyó primero sobre una cadera, luego sobre la otra. Se volvió como tirando con esfuerzo de la mirada que había pegado al rostro de Lajos. Luego siguió también hacia el tinglado.
 Y éste es el fin. Desde entonces han ocurrido muchas cosas, pero ésa sería otra historia. Lajos no ha llegado a ser jamás un tenedor de libros bueno, pero tiene una mujer llamada Sofonsiva, y en su sala guarda una rica colección de cuchillos, que pertenecieron a Pedro Angusola. Pero nuestra sociedad se rompió aquel día, y yo me estoy todavía preguntando qué habría pasado de haber sido a mí, y no a Lajos, mi socio, al que le cayera en suerte ir a llevar los libros del Vasco ferretero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

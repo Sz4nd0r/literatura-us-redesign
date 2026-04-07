@@ -140,6 +140,3 @@ Al cabo de un largo interrogatorio, me dijo:
 —¿Desea recibir a algunos amigos?
 —No, señor; a nadie. El hombre de Ruán podría tratar de llegar hasta aquí mismo con idea de vengarse…
 Y desde hace tres meses vivo solo, solo, absolutamente solo. Estoy casi tranquilo. Un miedo tengo, sin embargo: que el anticuario se vuelva loco…, y que lo traigan a este asilo… Ni las cárceles son seguras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

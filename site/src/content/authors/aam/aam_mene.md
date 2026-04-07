@@ -171,6 +171,3 @@ Pensé que Almeda debería de haber sido enterrada en alguna otra parte. Cuando 
 Me aseguré de que había llegado al borde de la lápida. Ese era todo el nombre que había: Meda. De modo que era cierto que en la familia se la llamaba así. No solo en el poema. O quizá escogió su nombre por el poema, para que lo escribieran en su lápida.
 Pensé que, salvo yo, no había nadie vivo en el mundo que supiera eso, que pudiera establecer la relación. Y que yo sería la última persona en establecerla. Pero quizá no es así. Las personas son curiosas. Algunas personas lo son. Se ven impulsadas a averiguar cosas, incluso cosas triviales. Recopilan cosas. Se las ve yendo por ahí con libretas, rascando la suciedad de las lápidas, leyendo microfilmes, solo con la esperanza de ver ese goteo en el tiempo, de establecer una relación, de rescatar una cosa de la basura.
 Y, después de todo, pueden entenderlo mal. Puedo haberlo comprendido mal. No sé si ella tomó láudano alguna vez. Muchas señoras tomaban. No sé si hizo alguna vez jalea de uva.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

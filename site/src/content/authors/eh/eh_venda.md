@@ -246,6 +246,3 @@ Oyeron el sonido de una escopeta.
 —Vamos por la pradera, a ver si cazamos algo —propuso Bill.
 —Bueno —aceptó su amigo.
 Ningún detalle tenía ahora importancia. El viento vació la cabeza de Nick. Además, podría ir a la ciudad el sábado a la noche. Fue un acierto no haber dicho nada de esto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

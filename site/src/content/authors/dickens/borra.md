@@ -85,6 +85,3 @@ La corriente refluía y el agua se movía a sus pies. La lluvia había cesado, e
 No habían pasado cinco segundos cuando volvió a subir a la superficie de las aguas, pero ¡qué cambio habían experimentado en tan breve tiempo sus pensamientos y sentimientos! La vida; sí, la vida de cualquier forma, con pobreza, miseria, hambre, ¡todo menos la muerte! Luchó y lidió con el agua y quiso gritar en las angustias de su terror; pero la maldición de su hijo sonó en sus oídos. Una mano que le diesen y estaba salvado... Mas la corriente se lo llevó bajo los arcos del puente, y se hundió en ella.
 Aun pudo subir y pelear por la vida. Por un instante, un solo instante, los edificios de los muelles de la orilla, las luces del puente, a través del cual la corriente le había arrastrado, el agua negra y las nubes rápidas fueron visibles para él distintamente; pero se hundió de nuevo y otra vez volvió a salir. Llamas brillantes cayeron del cielo a la tierra, y se agitaron ante sus ojos, mientras el agua atronaba sus oídos y le aturdía con su ruidoso bramido.
 Una semana más tarde, un cuerpo apareció en la orilla, unas millas más allá; era una masa informe y horrible. Sin ser identificado ni llorado por nadie fue trasladado a la tumba. Y hace tiempo que allí su cadáver se ha descompuesto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

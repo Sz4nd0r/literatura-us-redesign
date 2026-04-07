@@ -213,6 +213,3 @@ Peter, con dedos hábiles, adiestrados en el aparejo del bricbarca Rosa, desató
 En ese momento, de repente, sin previo aviso, el hielo se quebró bajo los pies de los dos como si hubiesen pisado una grieta oculta, y hubiese cedido bajo su peso. La rotura les hizo caer de rodillas, el uno sobre el otro. Durante un minuto, el hielo los sostuvo aún, un pie por debajo de la superficie del agua. Podían haberse salvado entonces, si se hubiesen separado a uno y otro lado de la grieta; pero a ninguno de los dos se le ocurrió tal posibilidad.
 Peter, al notar que perdía el equilibrio, y el agua helada en los pies, cerró los brazos con un gran movimiento en torno a Rosa, y la atrajo hacia sí. Y en este último instante la impresión fantástica, desconocida, de no pisar nada firme debajo de él se mezcló en su conciencia con una sensación de dulzura, del cuerpo de ella contra el suyo. Rosa apretó su rostro contra la clavícula de Peter y cerró los ojos.
 La corriente era fuerte; los arrastró hacia el fondo, el uno en brazos del otro, en pocos segundos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

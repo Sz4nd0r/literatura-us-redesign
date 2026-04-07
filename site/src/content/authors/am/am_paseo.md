@@ -28,6 +28,3 @@ Dicho y hecho. La mujer, como lo había previsto, ha cambiado de humor y acepta 
 Lo extraño es que ella acepta inmediatamente la hipótesis:
 —Viste en sueños un lugar hermosísimo y en seguida pensaste en visitarlo conmigo. ¿No es acaso hermoso todo eso?
 Sin embargo, no fue así, piensa él, con cierta amargura. Y, en síntesis, no se atreve a contarle que en el sueño no se vio con ella en ese lugar, sino que vio a dos desconocidos que se puso a espiar con envidia, excitación y reprobación. El verdadero amor, en cambio, habría consistido en no ver a nadie y decirse: “He aquí el lugar perfecto para venir mañana con ella”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -362,6 +362,3 @@ El joven y rubio idealista aún no había dicho nada. Mantenía su mecedora en c
 El doctor calló unos instantes. Entonces, de repente, con un movimiento breve, brusco, casi espasmódico, su mano derecha se hundió en pleno ramo de lilas, las mismas cuyo aroma aún había estado aspirando lenta y profundamente un momento antes.
 —Qué demonios —dijo—, ¡porque ese «buen tipo» de la historia era yo! Si no, todo esto me traería sin cuidado.
 Desde luego, viendo cómo lo decía mientras agarraba las lilas con esa brutalidad amargada y triste…, igual que debió de hacer entonces… Desde luego, bien se podía decir que de aquel «buen tipo» ya no quedaba ni rastro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

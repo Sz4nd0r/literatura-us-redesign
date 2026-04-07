@@ -47,6 +47,3 @@ Levantó la cabeza, se incorporó en el rincón del vagón para escuchar las res
 Pero, de pronto, vio que en el rostro de aquellos cinco viajeros se dibujaba el mismo asombro que tenía que ser el suyo, cuando, sin querer, como si de verdad no hubiera oído ni entendido nada, le preguntó a aquel viejo:
 —Entonces… ¿su hijo ha muerto?
 El viejo se volvió a mirarla con sus ojos torvos, desmesuradamente abiertos. La miró, la miró y de pronto, a su vez —como si solamente ahora, ante aquella pregunta incongruente, ante aquel asombro fuera de lugar, comprendiera, en aquel momento, que su hijo había muerto de verdad— se retorció, se estremeció, sacó de pronto el pañuelo del bolsillo y, entre el estupor y la conmoción de todos, estalló en agudos, desgarradores e irrefrenables sollozos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

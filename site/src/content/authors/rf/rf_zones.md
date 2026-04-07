@@ -177,6 +177,3 @@ Mi vida da para una novela…, dijo Peçanha. Esto queda entre nosotros dos, ¿d
 Yo no sabía bien lo que él quería que quedara entre nosotros, que su vida daba para una novela o que él era Pedro Redgrave. Pero respondí:
 Claro, sólo entre nosotros dos.
 Gracias, dijo Peçanha. Y dio un suspiro que cortaría el corazón de cualquier otro que no fuera un ex reportero judicial.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

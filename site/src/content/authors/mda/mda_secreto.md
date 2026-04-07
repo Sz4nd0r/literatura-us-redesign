@@ -891,6 +891,3 @@ Si alguien lo sabe, tenga a bien avisarle. Después de lo que acabamos de
 contar, Vasconcelos y Gomes se encuentran a veces en la calle o en el Alcázar;
 charlan, fuman, caminan tomados del brazo, exactamente como dos amigos, cosa que
 nunca fueron, o como dos canallas, cosa que sí son.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

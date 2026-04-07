@@ -41,6 +41,3 @@ Fa-fa, fa-fa, hacía la bomba. Ahora estaba lanzando agua sobre las patas del ca
 Toda la clase se alborotó.
 —Muchas gracias, señoritas —exclamó Monsieur Hugo, inclinándose desde su alto pupitre sobre aquel mar encrespado.
 —Quédate con él, preciosa. Souvenir tendré —dijo Eve a Katie, tirándole el clavel contra el peto de blusa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

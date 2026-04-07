@@ -223,6 +223,3 @@ Me observó, sonriendo, y cuando terminé miró a los otros y movió la cabeza.
 —¿Qué?
 —Cualquier cosa.
 Se inclinaron hacia mí. De pronto las ventanillas quedaron cegadas por la lluvia. El conductor se había dormido y roncaba suavemente mecido por el balanceo del autobús. Fuera la luz cenagosa se volvió amarillo pálido por un instante y se oyó un trueno a lo lejos. La mujer que iba a mi lado se recostó en su asiento y cerró los ojos y entonces todos los demás hicieron lo mismo mientras yo les cantaba en lo que sin duda era una lengua antigua y sagrada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -129,6 +129,3 @@ mezcla de perro callejero y de cerdo! ¡Buenas noches!
 —Adiós —dijo Knaps.
 La puerta de la verja se cerró y
 el teniente quedó solo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

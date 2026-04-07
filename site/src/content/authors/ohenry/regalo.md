@@ -232,6 +232,3 @@ caer en el sofá, cruzó sus manos debajo de su nuca y sonrió.
 olvidémonos de nuestros regalos de Navidad. Son demasiado hermosos
 para usarlos en este momento. Vendí mi reloj para comprarte las
 peinetas. Y ahora pon la carne al fuego.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

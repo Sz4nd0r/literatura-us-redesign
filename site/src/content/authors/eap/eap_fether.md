@@ -144,6 +144,3 @@ El «sistema de la dulzura» —con importantes modificaciones— se ha reanudad
 Sólo me resta añadir que, aunque he revisado todas las bibliotecas de Europa en busca de las obras del doctor Tarr y del profesor Fether, he fracasado hasta ahora en mi empeño por procurarme un ejemplar de las mismas.
 N. del T.:
 [1] De tar, alquitrán, y feather, pluma. To tar and feather significa untar a alguien con alquitrán y cubrirlo luego de plumas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

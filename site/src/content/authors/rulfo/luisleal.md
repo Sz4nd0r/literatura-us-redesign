@@ -242,6 +242,3 @@ de un punto culminante y un desenlace sorpresivo y, sobre todo, la
 preponderancia que se da al ambiente, que eclipsa a los otros elementos
 del cuento, hasta el punto de convertirse en protagonista, en torno al
 cual se organiza la narración.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

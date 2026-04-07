@@ -63,6 +63,3 @@ Las dos muchachas sentáronse al lado— de la ventana, mirando las luces de fue
 —Algún día tendremos que casar —dijo en forma soñadora—. Tenemos tanto dinero que no se nos permitirá desagradar al público. ¿Quieres que te diga qué clase de hombre podría amar?
 —Continúa, cabeza de chorlito —sonrió la otra.
 —A un hombre de ojos azul obscuro y bondadoso, que sea cortés y respetuoso para con las muchachas pobres, buen mozo, bueno y que no trate de flirtear. Pero sólo podría amarlo si él tuviera alguna ambición, un objetivo, alguna obra por realizar en el mundo. No me importaría lo pobre que él fuese, si lo pudiera ayudar a abrirse camino. Pero, querida hermana, el tipo de hombre con el que siempre nos encontramos… —el hombre que vive una vida ociosa, que se desliza entre la sociedad y el club—; no me sería posible amar a un hombre semejante, aunque sus ojos fueran azules y se mostrasen siempre bondadosos hacia las muchachas pobres que encuentra en la calle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

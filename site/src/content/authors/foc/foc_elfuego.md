@@ -257,6 +257,3 @@ La señora Cope empezó a llamar a gritos a los negros mientras la señora Pritc
 Ellos pasaron por su lado casi sin mirarla y cruzaron lentamente el campo en dirección a la humareda. Ella corrió un momento tras ellos, chillando:
 —¡Deprisa, deprisa! ¿No lo veis? ¿No lo veis?
 —Estará allí cuando lleguemos —dijo Culver, y adelantaron poco los hombros y siguieron al mismo paso. La niña se detuvo al lado de su madre y le miró la cara como si nunca la hubiera visto. Era el rostro de la nueva tristeza que ella había sentido, pero en su madre parecía vieja y era como si pudiera pertenecer a cualquiera, a un negro o a un europeo o al mismo Powell. La niña volvió la cabeza rápidamente y, más allá de las lentas figuras de los negros, vio la columna de humo que se elevaba y se ensanchaba sin control dentro de la línea granítica de los árboles. Se quedó tensa, con el oído aguzado, y oyó a lo lejos unos locos chillidos de alegría, como si los profetas estuvieran bailando en el horno feroz, en el círculo que el ángel había limpiado para ellos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

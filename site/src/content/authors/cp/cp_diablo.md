@@ -1588,6 +1588,3 @@ Gabriella hizo cargar las maletas. Comimos en silencio. Ella tuvo que levantarse
 Subimos al coche. Nosotros tres detrás. Poli no dijo una palabra y me sorprendió que no tomase el volante. Oreste llevaba el fusil en bandolera y sostenía su bicicleta sobre el estribo.
 A los pies del Greppo no pensé en volverme. Hubo una discusión para enseñar la carretera al chófer. En pocos minutos nos encontramos en la estación, entre las casas floridas, ante las colinas familiares. Me pareció haberlas conocido siempre. Bajamos en el paso a nivel. Allí empezaba la carretera provincial con paracarros y cercados bajos, asfaltada y blanca. Cambiamos algunas palabras, bromeamos; el rostro duro de Gabriella sonrió un instante. Poli agitó la mano.
 Luego se alejaron y nosotros nos fuimos a beber al Molino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -262,6 +262,3 @@ Morris lo había llamado judío.
 Morris rezaba. Le rezaba a su madre: abajo, derríbalo, haz que algún mal caiga sobre él. La divina madre contesta a los que creen sinceramente. ¡Oh, Tanake-Tuka!
 Y mientras en África, en una villa blanca a orillas del mar azul, el vulgar consentido del primer ministro, fumando sin cesar en un sofá azul frente a una ventana abierta, bajo el aliento perfumado de los árboles, bajo la sombra de la nieve azulada, bajo los pilares negro azulados de los bosques polacos, bajo el aliento de Andor, bajo las palmas despiadadas y los puños de los campesinos, bajo las vigas, bajo las marmóreas estrellas colgantes de Polonia, Lushinski.
 Contra las piedras y bajo la nieve.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

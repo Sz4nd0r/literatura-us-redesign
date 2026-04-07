@@ -141,6 +141,3 @@ Al principio no creí siquiera que le hubiera oído bien.
 —De acuerdo —dije, y me levanté—. ¿Quiere del maíz de tío Ike o de ese whisky de ciudad de Roth Edmonds?
 —¿Es que no puedes decir “señor” Roth o “señor” Edmonds? —dijo el señor Ernest.
 —Sí, señor —dije yo—. Bien, ¿cuál de ellos quiere? ¿El de maíz de tío Ike o ese mejunje de Roth Edmonds?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -120,6 +120,3 @@ Y leyó:
 “Recibí: Jorge Evans.”
 En el mismo instante entraba el joven cómico en su cuarto de la hostería de los Tres Pichones y restituía a su baúl dos vestidos de mujer.
 —¡Vaya! —se dijo—. ¡Mucha prisa se ha dado en quebrar el empresario de este pueblo! Yo hubiera podido hacerle recaudar algunos ingresos con mi estreno. He tenido bastante éxito en mis papeles de la tía Truman y de la prima Juana. Deducidos de mis doscientas cincuenta libras esterlinas el alquiler de la casa de la calle de Salisbury, las dos libras del armario, lo que debo por la silla de posta y la propina de seis peniques, tan generosamente dada al ambicioso Benson, aún me quedarán las doscientas libras de mi padre, con los intereses de diez años. ¡Ojalá la conciencia de mi deudor esté tan tranquila como la mía!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

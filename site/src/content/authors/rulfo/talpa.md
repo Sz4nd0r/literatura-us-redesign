@@ -323,6 +323,3 @@ Es de eso de lo que quizá
 nos acordemos aquí más seguido: de aquel Tanilo que nosotros enterramos
 en el camposanto de Talpa; al que Natalia y yo echamos tierra y piedras
 encima para que no lo fueran a desenterrar los animales del cerro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

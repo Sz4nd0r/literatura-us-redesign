@@ -58,6 +58,3 @@ Ahora estoy en la entrada. Al abrir la puerta, casi me llevo por delante un tron
 —¿La señora Canestrini?
 ;—Aquí no hay ninguna señora —y… me despierto.
 De modo que sólo había soñado: ¡aquella señora de la valija, en el aeropuerto, debió de haberme producido en verdad una fuerte impresión! Recorrí con la mirada mi frío y triste dormitorio de soltero y me dije que, tal vez, en mi sueño hubiese habido algo de verdad: el inconsciente deseo de contar con una casa más habitada y habitable. Me puse a pensar en los embellecimientos que me reservaba para mí mismo introducir: flores, cuadros, chucherías, alfombras, cojines y otras cosas por el estilo. En medio de estas agradables conjeturas, me volví a dormir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

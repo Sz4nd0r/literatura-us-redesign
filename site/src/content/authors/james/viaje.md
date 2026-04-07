@@ -462,6 +462,3 @@ Y mientras hablaba pasé mi brazo con firmeza en torno a su cintura. Ella dejó 
 —Una puede representar el amor que negué, y la otra… —dijo ella.
 —La otra —murmuré— el amor que, con este beso, acepta.
 Enlacé su brazo con el mío, y ante los envidiosos ojos que nos miraban desde los marcos dorados atravesamos la galería y abandonamos el palacio. Aquella tarde fuimos a la Villa Pamfili-Doria. Al decir hace un momento que mi estancia en Florencia tuvo un color especial por las circunstancias, quise decir que me encontraba allí con mi esposa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

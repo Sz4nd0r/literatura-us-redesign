@@ -98,6 +98,3 @@ Desde el otro lado de la puerta, oyó un sonido pesado, como el de un gran perro
 Lena habló de nuevo, como si su boca estuviera cerca de la ojo de la cerradura. Habló en un tono más bajo del que nunca le había oído antes, tan bajo que tuvo que pegar la oreja a la cerradura para poder escucharla.
 —Tampoco es a él a quien quiero, Canute… preferiría que tú estuvieras aquí.
 Durante un momento, Lena no oyó ningún ruido, pero entonces hubo algo parecido a un gemido. Con un grito de miedo, abrió la puerta y vio a Canute estirado en la nieve a sus pies, con el rostro entre sus manos, llorando en el umbral.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -586,6 +586,3 @@ aquellos sinvergüenzas invulnerables, aquellas salamandras del destino, aquello
 basiliscos de la buena suerte, habían escapado indemnes, con heridas leves y localizadas,
 mientras que Nina, a pesar de haberlos imitado fielmente durante largos años,
 había resultado ser, después de todo, mortal.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

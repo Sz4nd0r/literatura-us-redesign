@@ -410,6 +410,3 @@ JUAN DARIÉN
 —Ya estamos en paz —dijo. Y enviando con sus hermanos un
 rugido de desafío al pueblo aterrado, concluyó:
 —Ahora, a la selva. ¡Y tigre para siempre!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

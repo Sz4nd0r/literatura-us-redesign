@@ -52,6 +52,3 @@ Onofrio Clérici subió.
 El juez introdujo la cabeza en el lazo corredizo. Los otros casi no lo miraban.
 —Ahora, dale una patada al banco —dijeron y se fueron.
 El juez Onofrio Clérici volcó el banquito y sintió que la cuerda le apretaba el cuello, que la garganta se le cerraba como un puño, que los huesos se le rompían. Y los ojos como grandes gusanos negros le salían de la cuencas de las órbitas, como si la luz que buscaban pudiera convertirse en aire, y entretanto la oscuridad se iba espesando en las pilastras del patio desierto; desierto porque la gentuza italiana no había ido siquiera a verlo morir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -197,6 +197,3 @@ situación que produjo su apresurada decisión, y desea comunicarte que a partir
 de ahora todo volverá a ser como... —Mead interrumpió la frase y gritó a su
 ayudante—: ¡Eh, Adams! Traiga un vaso de agua... Mister Vallance acaba de
 desmayarse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

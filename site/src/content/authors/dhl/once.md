@@ -394,6 +394,3 @@ Ella tardó un rato en responder
 —Oh, sí que la he sentido —dijo con
 gravedad.
 Oyéndola, se me paralizó el corazón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

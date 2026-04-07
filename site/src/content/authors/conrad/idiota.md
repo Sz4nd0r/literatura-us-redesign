@@ -178,6 +178,3 @@ La señora Levaille estaba sentada con los ojos secos entre la alta vegetación 
 Los ojos se le llenaron de lágrimas y un instante después ya le caían en un gran torrente por sus mejillas. Se cubrió con el chal. El marqués se inclinó en su montura y dijo:
 —Todo esto es muy triste. La acompaño en el sentimiento. Hablaré con el cura. No hay duda de que ella estaba enloquecida y de que la caída no fue más que un accidente. Eso es lo que asegura Millot sin dudar. Que tenga un buen día, señora.
 Y mientras se alejaba trotando de aquel lugar, pensaba para sí: “Tengo que conseguir que a esa vieja la hagan tutora de los idiotas y administradora de la granja. Prefiero eso a tener por aquí a los primos de Bacadou, casi seguro serán republicanos y acabarán corrompiendo a toda la comarca”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

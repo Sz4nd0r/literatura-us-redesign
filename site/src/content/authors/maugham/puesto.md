@@ -298,6 +298,3 @@ Mr. Warbuton vaciló un momento, y aunque su voz siguió siendo dura, en sus ojo
 —Es lo mejor que puede hacer.
 El boy se retiró. Mar. Warbuton cogió su Times y, cuidadosamente, rompió la banda de papel que lo envolvía. Disfrutaba abriendo sus inmensas páginas. Aquella mañana tan fresca, tan suave, era deliciosa, y por un instante sus ojos se pasearon con una mirada de placer por el jardín. Se le había quitado un gran peso de encima. Buscó la página de sociedad, con los matrimonios, nacimientos y defunciones. Era siempre lo primero que leía en el periódico. Sus ojos descubrieron un nombre conocido: Lady Ormskirk, por fin, había tenido un hijo. ¡Por Júpiter, qué contenta estaría la abuela! En el próximo correo mandaría una carta felicitándola.
 Abas sería un excelente criado. ¡Qué loco había sido Cooper!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

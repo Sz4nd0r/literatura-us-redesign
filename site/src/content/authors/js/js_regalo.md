@@ -298,6 +298,3 @@ Carl Tiflin limpió la sangre del rostro del muchacho con un pañuelo de badana 
 —Sí, lo sé —replicó Jody cansadamente.
 Billy Buck, que había levantado a Jody en sus brazos para conducirle a casa, se volvió hacia Carl Tiflin con impaciencia.
 —Claro que lo sabe —dijo furiosamente—. ¡Por amor de Dios, hombre! ¿No puede comprender lo que siente el muchacho?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

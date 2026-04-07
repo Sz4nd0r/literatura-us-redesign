@@ -183,6 +183,3 @@ Alice también estaba de pie, junto a él; seguía cogiéndole de la mano, ofrec
 —Esos enormes quevedos de lentes convexas… los vi, me di cuenta de qué clase eran…, ese hombre ve muy mal. ¡Y la mano derecha…!
 —¡Ah! —Brydon hizo una mueca de dolor…, bien fuera porque quedaba demostrada la identidad de aquel ser, bien por los dos dedos que le faltaban. A continuación añadió lúcidamente—: Tiene un millón al año, pero no te tiene a ti.
 —Y él no es…, no, ¡él no es tú! —musitó Alice cuando Brydon la atrajo hacia su pecho.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

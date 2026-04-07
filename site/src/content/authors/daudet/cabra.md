@@ -203,6 +203,3 @@ muchas veces de la “cabra del señor Seguin, que luchó toda la noche con el
 lobo, y después, por la mañana, el lobo se la comió” [en el original, en occitano: cabro de moussu Seguin, que se battègue touto la neui emé lou loup, e piei lou matin lou loup la mangé].
 —Óyeme bien, Gringoire:
 “Y después, por la mañana, el lobo se la comió”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

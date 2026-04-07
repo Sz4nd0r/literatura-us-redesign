@@ -75,6 +75,3 @@ No quiero decir nada más de aquel día maldito. Pero una semana después, en el
 Ella no dijo nada porque en aquel momento se acercaba Ugo, llevando en los brazos una pieza de algodón, y desplegándola con el habitual chasquido decía:
 —Esto es lo que usted necesita, señora.
 Pero por las miradas de Grazia comprendí que estaba muy enamorada. ¡Qué diablos!: un hombre guapo, fuerte, joven y, por añadidura, también tabú.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

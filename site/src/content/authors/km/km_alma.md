@@ -124,6 +124,3 @@ Ella no hizo el menor movimiento. Inicié el regreso, y aunque de vez en cuando 
 Salió corriendo y oí sus pasos que hacían retemblar la escalera.
 Cuando bajé a la mañana siguiente para almorzar, hallé dos sitios vacíos. Fräulein Sonia y Herr Professor habían salido a hacer una excursión por el bosque.
 Me sorprendí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -234,6 +234,3 @@ Algunas horas después de los funerales de Alphonse, me dispuse a salir de Ille.
 Desde entonces, no he sabido que se haya hecho nueva luz sobre aquella misteriosa catástrofe.
 El señor de Peyrehorade murió pocos meses después de su hijo. En su testamento me legó sus manuscritos, que publicaré quizá algún día. Entre ellos no encontré la memoria relativa a las inscripciones de la Venus.
 P. S.— Mi amigo el señor de P. acaba de escribirme de Perpiñán diciendo que la estatua ya no existe. Después de la muerte de su marido, la señora de Peyrehorade se apresuró a mandarla fundir y hacer con su bronce una campana. Bajo esta nueva forma se utiliza en la iglesia de Ille. Pero, añade el señor de P., parece que la desgracia persigue a los poseedores de ese bronce. Desde que la campana suena en Ille, las viñas se han helado dos veces.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

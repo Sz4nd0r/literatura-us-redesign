@@ -217,6 +217,3 @@ la señora Murachkin.
 —dijo momentos después, cuando acudió la servidumbre.
 El jurado dictó un veredicto de
 inculpabilidad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

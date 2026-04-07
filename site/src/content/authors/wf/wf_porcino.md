@@ -128,6 +128,3 @@ Smith la leyó.
 Y hubo algo más, mientras esperábamos a que el pastor baptista se lavara las manos y se pusiera la chaqueta; la señora Meadowfill llevaba sombrero, el primero que le habíamos visto en toda la vida; tenía todo el aspecto de ser el primer sombrero confeccionado por el hombre.
 —Pero papá... —dijo la que pronto iba a ser Essie Smith.
 —Oh —dijo tío Gavin—. Te refieres a esa silla de ruedas. Ahora es mía. Fue el pago de la minuta legal. Te la voy a dar a ti como regalo de bodas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

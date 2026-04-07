@@ -175,6 +175,3 @@ Escuchó atentamente unos momentos, porque un sonido familiar había llegado a s
 Pepe bajó la cabeza, abrumado. Quiso decir algo, tal vez las palabras de una oración, pero sus labios permanecieron inmóviles. Con la mano izquierda hizo la señal de la cruz sobre su pecho. Luego, con gran esfuerzo, se incorporó. Lenta y mecánicamente fue hasta una gran roca, a la que se encaramó. Una vez en ella, se puso en pie, mirando hacia la espesura donde había dormido. Su silueta se recortaba claramente contra el cielo de la mañana.
 Sonó un chasquido a sus pies. Una esquirla de piedra saltó con violencia y una bala pasó zumbando en dirección al valle cercano. Muy abajo resonó el estampido de un disparo. Pepe miró un momento hacia el fondo del abismo y volvió a erguirse como una estatua en su pedestal.
 Se tambaleó. Su mano izquierda se dirigió vacilante hacia su pecho, al mismo tiempo que un segundo disparo resonaba en la cañada solitaria. Pepe se inclinó hacia delante y cayó de lo alto de la roca. Su cuerpo rebotó contra el suelo pedregoso y descendió rodando por la ladera, arrastrando un aluvión de tierra, grava y arena. Cuando por fin se vio frenado en su caída por unos matorrales, la avalancha cubrió su cabeza antes de detenerse del todo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -51,6 +51,3 @@ Notas:
 [1] «Difícil será descubrir un mejor (método de educación) que el descubierto ya por la experiencia de tantas edades; puede resumírselo en gimnasia para el cuerpo y música para el alma» (República, lib. 2). «Por esta razón la música es una educación esencial, pues hace que el Ritmo y la Armonía penetren íntimamente en el alma, afirmándose en ella, llenándola de belleza y embelleciendo la mente humana… Alabará y admirará lo hermoso; lo recibirá con alegría en su alma, se alimentará de él e identificará con él su propia condición» (id. lib. 3). La música, μουσική, tenía entre los atenienses una significación muchísimo más amplia que entre nosotros. No sólo abarcaba las armonías de tiempo y melodía, sino la dicción poética, el sentimiento y la creación, todos ellos en un sentido más amplio. En Atenas el estudio de la música consistía en el cultivo general del gusto —ese gusto que reconoce lo hermoso— distinguiéndolo claramente de la razón, que sólo atiende a lo verdadero.
 [2] «Historia», de ίστορείν, contemplar.
 [3] Purificación parece emplearse aquí con referencia a su raíz griega πϋρ, fuego.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

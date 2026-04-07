@@ -172,6 +172,3 @@ Poco después estábamos sentados en las barcas: en una yo con Isái; en otra, M
 Dos hombres de su barca también se persignaron con devoción y se pusieron a empujar con los bicheros los bloques de hielo que se apretaban contra las barcas. Pero los bloques de hielo golpeaban contra los bordos y se oía un ruido funesto, crujiente. En el agua hacía frío. El rostro de Mamáev, yo lo vi, se puso como pardo. El jefe del zemstvo, frunciendo el ceño, miraba con gravedad e intranquilo río arriba, al lugar de donde nuestras lanchas habían traído enormes trozos de hielo gris azulado. Pequeños trozos de hielo susurraban sobre la quilla, y parecía como si unos enormes y agudos dientes estuvieran royendo la madera de la barca.
 Estaba húmedo, ruidoso y siniestro, y todos mirábamos más allá de los bordos, a aquel sucio y frío hielo, tan poderoso y estúpido, cuando de pronto, en el susurro que nos envolvía, oí una voz que venía de la orilla y miré hacia allí. Ya quedaba a unas diez verstas de nosotros, y en ella, sin gorra, estaba parado Kirilka; vi sus ojos grises, animados y burlones, y oí su insólitamente fuerte voz:
 —¡Tío Antón! Cuando venga a por el correo, tráigame pan, ¿me oye? Los señores que estaban esperando en el camino me comieron el mendrugo, solo tenía uno…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

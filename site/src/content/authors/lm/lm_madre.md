@@ -457,6 +457,3 @@ Pero ella sólo podía seguir mirando por la ventana mientras tocaba con los ded
 Fuera, encima de la torre de la capilla de la Sfondrata, donde había aclarado la niebla, le pareció ver una estrella sola, como el morro distante de un avión. Había gente en las nubes arcillosas. Se volvió y por un momento pareció que todos estaban en los ojos de Martin, todos los muertos absolutorios que residían en su cara, el ángel del niño muerto brillando como una criatura en llamas, y fue hacia él, para protegerlo y rodearlo, en busca del mejor truco del corazón, «oh, corazón tremendo».
 —Por favor, perdóname —dijo ella.
 —Claro —susurró él—. Es lo único que se puede hacer. Claro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

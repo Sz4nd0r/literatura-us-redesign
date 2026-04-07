@@ -86,6 +86,3 @@ El negro rió.
 —¡No me digas! —gritó Iblis, golpeándole de nuevo con el dedo en todo el estómago—. ¿Así que, según tú, me han enviado para nada? ¿Según tú, se han equivocado? No, no, tú has trabajado muy bien. Los míos estarán muy satisfechos ahí abajo… ¡Oh, si tú supieras!
 —¿Si yo supiera qué?
 Pero el otro se había desvanecido. Ya no se veía el surtidor de gasolina. Ni tampoco el taburete de madera. Sólo la noche y el viento, y allí, a lo lejos, un vaivén de automóviles. En Princeton, Nueva Jersey.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

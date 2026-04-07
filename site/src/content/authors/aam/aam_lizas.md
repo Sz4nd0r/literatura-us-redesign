@@ -217,6 +217,3 @@ Hubo una pausa, de reconocimiento, se diría, y luego la voz del locutor explic�
 Hat Nettleton.
 De arriero a centenario. Fotografiado en su cumpleaños, atendido por enfermeras, sin duda besado por una joven reportera. Deslumbrado por los destellos de los flashes. La grabadora empapándose del sonido de su voz. El vecino más viejo. El arriero más viejo. Un eslabón vivo con nuestro pasado.
 Contemplando el lago frío por la ventana de la cocina, Rose deseó poder contárselo a alguien. A Flo le habría gustado oírlo. La imaginó diciendo: “¡Figúrate!”, pletórica, como dando a entender que eso confirmaba sus peores sospechas. Sin embargo, Flo estaba en el mismo geriátrico donde había muerto Hat Nettleton, y Rose ya no podía comunicarse con ella. De hecho, estaba allí cuando grabaron esa entrevista, aunque seguro que ni la escuchó ni se enteró de nada. Cuando Rose la metió en la residencia, un par de años antes, dejó de hablar. Se encerró en sí misma, y pasaba casi todo el tiempo sentada en un rincón de su cama de barrotes, hosca y desagradable, sin contestar a nadie, aunque de vez en cuando mostraba sus sentimientos mordiendo a una enfermera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

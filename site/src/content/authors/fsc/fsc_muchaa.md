@@ -114,6 +114,3 @@ La mirada de Pat coincidió con la de Max, que miró hacia otra parte inmediatam
 Llegó el médico. Pat vio que le decía algo a la encargada de la cafetería y oyó cómo la voz chillona de la encargada mandaba a la cocina a las camareras, que volaban como hojarasca.
 —¡Pongan agua a hervir, mucha, mucha!
 Aquellas palabras, descabelladas e irreales, hicieron mella en el alma abrumada de Pat Hobby. Y, aunque se daba cuenta de que pronto sabría de primera mano lo que sucedía a continuación, era incapaz de imaginar cómo salir del paso después.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

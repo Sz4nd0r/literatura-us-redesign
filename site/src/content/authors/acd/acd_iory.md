@@ -370,6 +370,3 @@ Holmes abrió la vitrina, y, tras humedecerse el dedo, lo pasó por la herradura
 —¿Y el primero?
 Holmes dobló su cheque y lo metió cuidadosamente en su libreta.
 —Soy un hombre pobre —dijo mientras le daba afectuosas palmaditas a la libreta y la introducía en las profundidades de su bolsillo interior.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

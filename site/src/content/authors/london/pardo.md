@@ -42,6 +42,3 @@ El hombre leopardo sonrió de un modo dulce y melancólico, y la mirada perdida 
 —Y ese fue el final de Wallace el Rey —prosiguió con su voz baja, triste—. Después de que se calmara el alboroto esperé el momento oportuno y me agaché a oler la cabeza de Wallace. Luego estornudé.
 —¿Era…? —pregunté con vacilante impaciencia.
 —Rapé…, que De Ville dejó caer en su pelo en la tienda donde se vestían los artistas. El viejo Augustus nunca tuvo intención de hacerlo. Solamente estornudó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

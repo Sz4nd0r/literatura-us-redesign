@@ -264,6 +264,3 @@ El viejo le recibió en sus brazos.
 Y de esta manera, manchado de lodo y sangre, casi desnudo, anonadado, andrajoso, con un brazo colgando inerte a su lado, San Nicolás llegó a Simpson’s Bar y cayó desfallecido en el umbral de la primera puerta.
 El sol extendía ya por el firmamento sus dorados rayos; elevose dulcemente, y con inefable amor pintó de rosadas tintas los lejanos picachos.
 Y el albor de Navidad acarició tan tiernamente a Simpson’s Bar, que la montaña entera, como sorprendida en una acción generosa, se sonrojó hasta las nubes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

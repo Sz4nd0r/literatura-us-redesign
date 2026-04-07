@@ -59,6 +59,3 @@ Joan le interrumpió.
 —Ponme más hielo.
 —… A quien parezco necesitar más. Esta noche he odiado que no estuvieras en casa. Lo he odiado más de lo que me habría imaginado.
 Hablaba muy despacio, con la vista fija en la encimera mientras rellenaba los vasos, que parecían guardar equilibrio al borde de un precipicio; el regreso de Joan sana y salva había despertado dentro de él la insondable nostalgia de, con su voz reconfortante y firme, la otra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

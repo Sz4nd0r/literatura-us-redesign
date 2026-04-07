@@ -605,6 +605,3 @@ en la boca.
 El tren partió. Inmóvil, Nébel siguió con la vista la ventanilla que se
 perdía.
 Pero Lidia no se asomó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

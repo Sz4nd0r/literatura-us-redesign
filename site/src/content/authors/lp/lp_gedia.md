@@ -68,6 +68,3 @@ Yo extendía las manos para pararlo, sonriendo y diciendo:
 —Está bien… está bien… pero, ¿y usted, perdone?
 —¿Yo? ¿Cómo que yo?
 —Se queja de su autor; ¿pero usted, querido doctor, ha sabido verdaderamente sacar provecho de su teoría? Así es, precisamente esto quería decirle. Déjeme explicarme. ¿Si usted cree realmente, como yo, en la virtud de su filosofía, por qué no la aplica a su propio caso? ¿Usted busca, hoy, entre nosotros, a un escritor que lo consagre a la inmortalidad? Pero mire lo que todos los críticos más destacados dicen de nosotros, pobres escritoruchos contemporáneos. ¡Somos y no somos, querido doctor! Y, junto con nosotros, someta a su famoso catalejo al revés los hechos más notables, las cuestiones más ardientes y las obras más admirables de nuestros días. Querido doctor mío, me temo que usted no verá nada ni a nadie. Por tanto, vamos, consuélese, o más bien, resígnese y deje que me ocupe de mis pobres personajes que, serán malos, serán adustos, pero al menos no tienen su extravagante ambición.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

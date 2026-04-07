@@ -202,6 +202,3 @@ Los labios de Val se entrabrieron, pero no le salieron las palabras. Ella dio un
 Val callaba.
 —Podrías contestar —dijo con impaciencia—. Podrías contestar... Ya pensaba que habías muerto en la guerra —entonces se dirigió al funcionario—: Por favor, preséntenos —exclamó—. ¿Sabe? No puedo saludarlo porque ni siquiera sabemos cómo nos llamamos.Es cierto que se suele desconfiar de estos matrimonios internacionales. Según la tradición norteamericana siempre acaban mal, y estamos acostumbrados a titulares como éstos: “Cambiaría el título por un verdadero amor americano, dice la duquesa” o “El conde Mendicant torturaba a su esposa”. Nunca aparecen titulares que digan: “El castillo joven rico es un nido de amor, afirma una antigua belleza de Georgia” o “El duque y la hija del empaquetador celebran sus bodas de oro”.
 Hasta el momento los jóvenes Rostoff no han aparecido en ningún titular. El príncipe Val está demasiado ocupado en la cadena de taxis color azul claro de luna que dirige con inusitada eficacia, y no concede entrevistas. El príncipe y su esposa sólo abandonan Nueva York una vez al año, y todavía existe un barquero que se alegra cuando el Privateer entra en el puerto de Cannes una noche de mediados de abril.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

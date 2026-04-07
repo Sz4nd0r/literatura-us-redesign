@@ -257,6 +257,3 @@ hace saltar la sangre en las venas y reventar de risa los tiradores. Usa burla.
 —¿Media noche? Entras a tus veintidós años, mi muchacho; ya eres definitivamente mayor de edad. Vamos a dormir, que es tarde. Rumia bien lo que te
 dije, hijo mío. Guardando las proporciones, la charla de esta noche bien vale
 lo que El Príncipe de Maquiavelo. Vamos a dormir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -93,6 +93,3 @@ No, sólo que me extraña, dije.
 Bien, será mejor que me vaya, dijo. Pero siguió allí de pie. ¿Quiere o no quiere la aspiradora?
 Miré la enorme maleta, ya cerrada y lista para seguir viaje. No, dije, creo que no. Voy a dejar esta casa pronto. Lo único que haría sería estorbarme.
 Muy bien, dijo, y cerró la puerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

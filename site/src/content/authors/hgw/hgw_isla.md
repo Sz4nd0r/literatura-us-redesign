@@ -76,6 +76,3 @@ El hombre de la cicatriz hizo una pausa.
 »Vendí los huesos a un hombre llamado Winslow, un negociante cerca del Museo Británico, y él dice que se los vendió al viejo Havers. Parece ser que Havers no se enteró de que eran de un tamaño extra y fue únicamente después de su muerte cuando atrajeron la atención. Los llamaron Æpiornis. ¿Qué era eso?
 —Æpiornis vastus —respondí yo—. Es curioso, pero eso mismo me contó un amigo mío. Cuando encontraron un Æpiornis con un fémur de una yarda de largo creyeron que habían alcanzado el tope de la escala y le llamaron Æpiornis maximus. Después alguien se presentó con otro fémur de cuatro pies y seis pulgadas o más y lo llamaron Æpiornis titan. Luego encontraron su Æpiornis vastus en la colección del viejo Havers cuando murió, y a continuación apareció un vastissimus.
 —Eso mismo me contaba Winslow —dijo el hombre de la cicatriz—. Piensa que como consigan algún Æpiornis más habrá cierta marejada científica que hará estallar algún vaso sanguíneo. Pero, en general, fue algo extraño para sucederle a alguien, ¿verdad?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

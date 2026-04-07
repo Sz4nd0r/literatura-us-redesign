@@ -107,6 +107,3 @@ En cuanto a los italianos, apenas nos habíamos puesto en camino cuando ya nos a
 Fiel a su manía, Charley no se dejó desanimar por ello.
 —La imaginación —repitió, señalando con el dedo el “Streak”—. Mirad un poco ese ingenio y respondedme francamente: ¿la invención de una máquina como ésa no es el fruto de una imaginación prodigiosa?
 —Reconozco —añadió— que se trata de la imaginación de otro, pero ¿ha funcionado peor por ello?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

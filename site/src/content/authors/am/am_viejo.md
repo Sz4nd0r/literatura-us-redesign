@@ -63,6 +63,3 @@ Me asomé: Iole sonreía en su rincón, ante la mesita de manicura; Giuseppe son
 —¡Mi enhorabuena, mi más cálida enhorabuena!
 Luego abracé a Iole y la besé en ambas mejillas. En resumen, en el salón yo era el más feliz de los tres.
 Al día siguiente era domingo; y, por la tarde, salí de paseo. Y me di cuenta, al pasear, de que volvía a mirar otra vez a las mujeres, como en el pasado, una a una, por delante y por detrás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

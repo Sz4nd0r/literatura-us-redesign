@@ -77,6 +77,3 @@ El señor Preble dio unas caladas al cigarro y dijo:
 —Si buscas en el lugar adecuado, la encontrarás —sugirió la señora Preble—. Y no tardes mucho. Ni se te ocurra entrar en la tabaquería. No pienso pasarme toda la noche aquí abajo, en este sótano helado, para congelarme.
 —De acuerdo, me daré prisa —dijo el señor Preble.
 —¡Y a ver si cierras esa puerta! —le gritó ella cuando él salió—. ¿Dónde has nacido…, en una tienda de campaña?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -275,6 +275,3 @@ El Gominola se volvió: miraba a Clark con ojos apagados, por encima del hombro.
 —Tengo que irme —murmuró—. Llevo mucho rato de pie. Me encuentro mal.
 —¡Ah!
 Hacía mucho calor a las tres de la tarde, y hacía mucho más calor a las cuatro; el polvo de abril parecía atrapar al sol en una red, y soltarlo, y atraparlo de nuevo, en una broma antigua como el mundo, repetida por siempre en una eternidad de tardes. Pero, a las cuatro y media, la tranquilidad empezó a asentarse, y las sombras se alargaron bajo los toldos y el espeso follaje de los árboles. En aquel calor nada tenía importancia. Toda la vida era clima: esperar, bajo aquel calor en el que los hechos no tenían sentido, a que volviera el frescor, acariciador y suave como una mano de mujer sobre una frente cansada. Allá en el Sur, en Georgia, existe la convicción, quizá inconsciente, de que ésta es la gran sabiduría del Sur. Y así, un rato después, el Gominola llegó a Jackson Street y entró en la sala de billar, seguro de que encontraría a gente como él, que repetiría las mismas bromas de siempre, las que él conocía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

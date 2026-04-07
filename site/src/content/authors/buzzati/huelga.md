@@ -105,6 +105,3 @@ De hecho, pasados un par de minutos, él, el enigma, volvió a hablar en voz baj
 —Sí —contestó ella con un tierno susurro—, te oigo. ¿Estás seguro de que todos los demás se han ido?
 —Todos menos uno —respondió él con afabilidad—, menos uno que ha estado todo el tiempo escuchando pero que no ha abierto en ningún momento la boca.
 Era yo. Temeroso, colgué de inmediato. ¿Quién era? ¿Un ángel? ¿Un vidente? ¿Mefistófeles? ¿O el espíritu eterno de la aventura? ¿La encarnación de lo desconocido que nos espera a la vuelta de la esquina? ¿O simplemente la esperanza? La antigua e indómita esperanza que anida en los sitios más absurdos e inesperados, incluso en los laberintos del teléfono cuando hay huelga, para redimir la mezquindad del hombre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

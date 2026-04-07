@@ -88,6 +88,3 @@ Bajo unas tiendas, ponían en filas jarrones de cobre sobre alfombras descolorid
 —¿Quieres que tengamos una pendencia, hermana?
 No, yo no quería tener una pendencia. Acordamos encontrarnos por la tarde, y yo volví a poner las dos piezas de oro en mi portamonedas.
 Todo esto sucedió hace mucho tiempo y, desde entonces, a menudo he recibido dinero de editores, de hombres ilustrados y de judías que comercian con los libros. Por victorias que fueron derrotas, por derrotas que se convirtieron en victorias, por la vida y por la muerte que me pagaron sumas insignificantes, mucho más pequeñas que las que recibí en mi juventud de mi primer “lector”. Pero no estoy amargado, porque sé que no moriré hasta que haya arrebatado una moneda de oro más, y ésta será la última, de las manos del amor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

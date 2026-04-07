@@ -75,6 +75,3 @@ Y a esas alturas el irresistible progreso tecnológico había mejorado tanto el 
 Prácticamente todas las mujeres cosidas seguían cosidas hasta la muerte.
 Y los parias, la única fuente de nuevas madres de ahí en más, procrearon triunfales como los monos, hasta que las grandes vulvas de piedra cubrieron todos los rincones del planeta y del frívolo recuerdo de los harenes de costura no quedó más que el leve rastro de su leyenda.
 [Aquí termina el segundo fragmento]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

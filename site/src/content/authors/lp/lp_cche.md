@@ -349,6 +349,3 @@ Margheritina no contesta. Berecche comprende que no, que su querida niña no pue
 Aprieta de nuevo contra el pecho a su pequeña y adorada ciega, siempre encerrada en su negro silencio. Le susurra:
 —¡Y por esto, hija mía, por todo esto hay que darle las gracias a Alemania!
 Roma, finales de 1914 - Principios de 1915
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

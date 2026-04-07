@@ -145,6 +145,3 @@ Al llegar a lo alto de la colina, los deslumbró la luz escarlata de una posada 
 Entraron en la taberna de las cortinas rojas, que no sólo era cómoda, sino casi lujosa. Sobre una mesa se veía una reproducción en plata de la tumba de St. Clare, con la cabeza de plata recostada sobre el cañón, y la espada de plata, rota. En los muros se veían bonitas fotografías en colores del sitio y la explicación del sistema de coches para los turistas. Los dos amigos se sentaron en los confortables bancos acolchados.
 —Venga usted, que hace frío —dijo el padre Brown—. Que nos sirvan algo de vino o cerveza.
 —O brandy —dijo Flambeau.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

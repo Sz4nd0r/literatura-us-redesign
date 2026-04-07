@@ -37,6 +37,3 @@ Había prometido a mis hijos poner fin a las guerras antes de que fueran mayores
 Hubiera querido estar casada para siempre con la misma persona, bien mi ex marido, bien mi marido actual. Cualquiera de los dos tiene suficiente personalidad para llenar una vida, lo cual, si bien se mira, tampoco es tanto tiempo. En una vida breve no puedes agotar las cualidades del hombre ni meterte debajo de la roca de sus argumentos.
 Esta mañana, precisamente, me asomé a la ventana para mirar un rato la calle y vi que los pequeños sicomoros que el ayuntamiento había plantado soñadoramente un par de años antes de que nacieran los niños habían llegado a su plenitud.
 ¡Bueno! Decidí devolver aquellos dos libros a la biblioteca. Lo cual demuestra que, cuando surge una persona o un acontecimiento que me conmueve o me hace darme cuenta de mi propia valía, soy capaz de obrar de la manera adecuada, aunque sea más conocida por mis comentarios afables.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

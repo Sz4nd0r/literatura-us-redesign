@@ -67,6 +67,3 @@ Trató de gritar: un vago ronquido le salió de la garganta. Lentamente levantó
 —Operadora... es... urgen... te... Operadora.
 —Dígame su número, por favor. ¿Cómo dice? Hable más alto, no le entiendo... ¡Eh! pero... ¿cómo? ¿Seguro que es una bomba? ¿En el Wakamba, dice? ¡En el Wakamba...! ¿No me está tomando el pelo?... ¡Oiga, contésteme! ¿Le pasa algo? ¡Contésteme!
 Pero el hombre había resbalado por la pared y estaba en el suelo, junto al teléfono descolgado, quieto, boca arriba, desnudo. El resplandor violeta le caía sobre el rostro, le daba un aire de hermosa y reposada dignidad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

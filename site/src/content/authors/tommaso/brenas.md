@@ -206,6 +206,3 @@ Una vez más, ¿por dónde entró si en este cuarto nadie entra nunca, ni siquie
 Me mira con sus redondos, saltones y brillantes ojos. Acecha la ocasión de caer sobre mi pecho, de caer sobre mí, cara contra cara… Me mira con sus redondos, saltones y brillantes ojos. Acecha la ocasión de caer sobre mi pecho, de caer sobre mí, cara contra cara… Conoce su mirada, su inmenso poder…
 En ella se concentra todo el mal, todo el dolor del mundo…
 ¡Dios mío, sálvame!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

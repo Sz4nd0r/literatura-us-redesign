@@ -310,6 +310,3 @@ Su euforia molestaba a Stuart, y el éxito que irradiaba lo obligaba a pensar en
 —Así que Helen se ha ido —la señora Ruthven lo miraba como si estuviera recordando algo—. Nunca olvidaré vuestra boda. Erais tan guapos, tan ideales... Estabais tan compenetrados el uno con el otro... Todo el mundo lo decía.
 Stuart se acordaba; por un instante pensó que era de lo poco digno de ser recordado.
 —Sí—asintió, moviendo la cabeza, como si recordara—, supongo que formábamos una hermosa pareja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

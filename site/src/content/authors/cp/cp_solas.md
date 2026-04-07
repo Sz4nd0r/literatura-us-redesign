@@ -1375,6 +1375,3 @@ Toda la tarde se me clavaron en la cabeza los ojos trastornados de la madre, la 
 La doncella me dijo llorosa que habían encontrado a la señorita. Estaba muerta. En una habitación de alquiler de la via Napione. Se puso Mariella al teléfono. Me dijo con voz rota que no cabía duda. Momina y los otros habían ido a reconocerla. Ella no, no podía, habría enloquecido. La llevaban a casa. Se había envenenado de nuevo.
 A medianoche supe el resto de la historia. Pasó Momina por el hotel con el coche y me dijo que Rosetta estaba ya en casa, tendida en su cama. Ni siquiera parecía muerta. Solo una hinchazón en los labios, como si estuviera enfurruñada. Lo curioso había sido la idea de alquilar un estudio de pintor, pedir que le llevaran una butaca, nada más, y morir así delante de la ventana que miraba hacia Superga. Un gato la había traicionado, estaba en la habitación con ella, y al día siguiente, maullando y arañando la puerta, consiguió que le abriesen.
 FIN
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

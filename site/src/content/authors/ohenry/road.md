@@ -338,6 +338,3 @@ mujercita dirigía a Perry al volverse y comprobar que regresaba a casa sano y
 salvo, por un instante me pareció que aquella mirada valía más que todas
 nuestras sandeces, zarzaparrilla y damas incluidas; y que si en aquella
 historia había un tonto, no era el que respondía al nombre de Perry Rountree.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

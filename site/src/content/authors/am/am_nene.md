@@ -87,6 +87,3 @@ insistía: “¿Pero qué es lo que se lleva? ¡Este coche es mío, mío! ¡No e
 te quita nada. ¡Mira cómo escupo tu coche!” Y, dicho y hecho, le escupió la portezuela. “Pero ese bulto… ”, siguió diciendo el hombre, asombradísimo. Y ella: “No es un bulto… Es mi hijo… ¡Mira!”.
 Le destapó la cara al nene, mostrándoselo, y agregó: “Tú, ni naciendo otra vez, podrás tener con tu mujer un nene tan bonito como éste… ¡Y no te atrevas a ponerme las manos encima, porque grito y
 llamo a los policías y les digo que querías robarme a mi hijo!”. En fin, le dijo tantas cosas, que al pobre hombre, con la cara roja y la boca abierta, por poco y le da un ataque. Finalmente, sin prisa alguna, se alejó del coche y me alcanzó en la esquina de la calle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

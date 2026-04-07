@@ -430,6 +430,3 @@ Ella lo miró fijamente, como si ráfagas de viento le azotasen el rostro. El ro
 Luego esa expresión se desvaneció con el laborioso retorno de cierta gracia humorística. Con mucho cuidado, ella dejó el libro, se puso de pie y alzó los brazos para estrecharlo. Su piel o su aliento despedían un tenue olor nuevo, un olor, le pareció a él, de tallos cortados que han estado demasiado tiempo en agua.
 —Qué alegría verte —exclamó ella, y le tiró de las orejas—. Podrías haberte marchado. Haberte marchado sin el menor reparo en abandonarme. Abandonarme. Abandonada.
 Él mantuvo la cara apretada contra el pelo blanco, la coronilla rosa, la dulce curva del cráneo. Ni en sueños, dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

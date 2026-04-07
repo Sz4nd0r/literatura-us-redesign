@@ -299,6 +299,3 @@ Mackintosh dejó escapar un gemido. Su corazón pareció destrozarse. Cogió la 
 Los indígenas se desahogaron con grandes gritos. Las lágrimas corrían por sus semblantes y se golpeaban el pecho.
 Mackintosh apartó su mano de la del muerto y, tambaleándose como un borracho, salió de la habitación. Se dirigió al cajón cerrado con llave de su mesa y sacó el revólver. Entonces se encaminó hacia el mar y entró en la laguna.
 Anduvo cuidadosamente para no tropezar contra alguna roca de coral, hasta que el agua le llegó al pecho. Seguidamente se pegó un tiro en la cabeza. Una hora después, media docena de tiburones delgados y de color moreno se agitaban en el lugar donde había caído Mackintosh.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

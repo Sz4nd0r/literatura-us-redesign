@@ -32,6 +32,3 @@ El cazador asintió y sacó la punta de la lengua entre los labios.
 —Ninguna —dijo Gracchus—. Yo era cazador, ¿eso es ser culpable de algo? Estaba empleado como cazador en la Selva Negra, donde aún quedaban lobos. Yo acechaba, disparaba, acertaba, despellejaba, ¿hay alguna culpa en ello? Mi trabajo fue bendecido. Yo era el gran cazador de la Selva Negra. ¿Hay alguna culpa?
 —A mí no me corresponde decidirlo —dijo el alcalde—, pero tampoco me parece que haya culpa alguna. Pero ¿quién si no tiene la culpa?
 —El piloto —dijo el cazador.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

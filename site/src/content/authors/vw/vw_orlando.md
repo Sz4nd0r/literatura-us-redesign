@@ -539,6 +539,3 @@ como la que la tarde— despliega en el cielo, inflamada, rosa y ardiente —hab
 empalidecido, rota por vivos rubores encendidos, antorchas del sepulcro.
 [6] El original inglés dice: To dine, to meet, que trae un eco de las cavilaciones de
 Hamlet: To die, to sleep.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

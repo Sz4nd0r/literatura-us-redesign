@@ -91,6 +91,3 @@ La señora Wilson empezó a recoger la mesa y Johnny agarró de la mano a Boyd y
 —¿Tu madre aún sigue enfadada? —oyó la señora Wilson que Boyd preguntaba en voz baja.
 —No lo sé —respondió Johnny—. A veces es un poco absurda.
 —La mía también —dijo Boyd. Vaciló un instante y añadió—: Usted primero, mi querido Alphonse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

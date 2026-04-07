@@ -138,6 +138,3 @@ Y ella lo dijo.
 Sabía que eso era un golpe bajo, pero no pudo resistir darle como un tiro de gracia la penitencia que le daría a un niño.
 Sabía que ella no olvidaría la penitencia aun cuando olvidara todos sus consejos. Cerró la rejilla y no abrió la que se encontraba en el lado opuesto. Detrás se encontraba una mujer que al rezar producía demasiado ruido. Por el volumen de la voz parecía como si estuviera bebida. Sintió que necesitaba aire fresco. Salió por el pasillo, haciendo crujir el piso bajo sus fuertes pisadas, lo recorrió frente al presbiterio, agachando la cabeza y con las manos detrás de la espalda. Vio a la joven salir y bajar las escaleras; bajo las pesadas columnas del pórtico parecía pequeña y acongojada.
 Al llegar a la acera se irguió tratando de recobrar el aplomo y se derrumbó nue-vamente. Las luces de la ciudad brillaban y dibujaban círculos de luz. Cuando el sacerdote regresó a la iglesia empezó a reír, con una alegre risa ahogada, y al pasar delante de la estatua de Santa Ana, Patrona de las jóvenes casaderas, se sorprendió a sí mismo guiñándole un ojo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

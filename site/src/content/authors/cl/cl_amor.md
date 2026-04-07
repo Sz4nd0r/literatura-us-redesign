@@ -62,6 +62,3 @@ Había terminado el vértigo de la bondad.
 Y, si había atravesado el amor y su infierno, ahora se peinaba frente al espejo, por un momento sin ningún mundo en el corazón. Antes de acostarse, como si apagara una vela, sopló la pequeña llama del día.
 Alguns contos (1952)
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

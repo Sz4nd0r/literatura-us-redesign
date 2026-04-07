@@ -447,6 +447,3 @@ Y cuando recibió la contestación el doctor colgó el aparato, pensativo.
 —Pues, porque ha recibido un misterioso mensaje de aquel país —había contestado Ricou—. Alguien le está esperando… Una joven…
 ¡Naturalmente! ¡La joven del vestido azul pálido!
 Y él, metido en aquello…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

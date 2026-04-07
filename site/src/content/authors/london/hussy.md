@@ -198,6 +198,3 @@ Se detuvo, hasta que leyó en la expresión de mi semblante que le iba comprendi
 —Y luego derritieron todo el oro o lo soldaron a martillo, hasta formar una sola pieza. Ya sabe usted que las gentes de Pizarro recorrían el país en busca de oro. Los indios ocultaron todo el que pudieron en aquella montaña inaccesible. Y allí está aguardando a que yo, o usted, o los dos juntos lo recojamos, si a usted le parece bien.
 Y aquí terminó mi amistad con Julián Jones, al borde de la laguna, frente al palacio de Bellas Artes. Como yo manifestara estar de acuerdo con el proyecto de la aventura, me prometió venir a mi hospedaje al día siguiente por la mañana, con las cartas de Seth Manners y de la Compañía del Ferrocarril, a fin de concluir el trato. Pero Julián Jones no cumplió su palabra. Por la tarde telefoneé al hotel, donde me informaron que el señor Jones y su esposa habían partido aquella mañana, a primera hora, en compañía de sus equipajes.
 ¿Se lo llevaría su esposa, a las buenas o a las malas, a la granja de Nebraska? Yo sólo sé que al despedirnos creí descubrir en el rostro de Sara una sonrisa vulpina que me recordó la imagen enigmática de Mona Lisa…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

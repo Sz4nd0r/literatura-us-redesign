@@ -116,6 +116,3 @@ Y lo vio entrar en la habitación. En aquella habitación que se había transfor
 —¡Cuidado! Arriba esos ánimos, hombre —dijo el doctor sujetando a Binzer por un brazo. Y al tocarlo, añadió por lo bajo—: Blanduchos como la manteca.
 Un cálido resplandor se esparcía en torno de Andreas. Estaba exultante.
 —¡Dios mío! —exclamó—. Nadie podrá decir que no sé lo que es el sufrimiento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

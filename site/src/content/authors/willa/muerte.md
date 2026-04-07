@@ -136,6 +136,3 @@ Mientras el tren se detenía, Everett retorció la mano de Gaylord en medio de l
 —Herr Got, Adriance, lieber Freund! —gritó, emocionada.
 Everett apartó con rapidez el brazo y se alzó el sombrero, sonrojándose.
 —Discúlpeme, madam, pero veo que me ha confundido con Adriance Hilgarde. Soy su hermano —dijo en voz baja y, alejándose de la cariacontecida cantante, se apresuró a entrar en el coche del tren.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

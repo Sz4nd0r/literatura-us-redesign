@@ -68,6 +68,3 @@ Es el aire que había quedado dentro, dijo Azevedo. Es curioso, ¿eh? Reímos si
 No dejó ninguna nota, dije.
 Conozco a esta gente, dijo Azevedo, cuando no aguantan más se matan deprisa, tiene que ser deprisa, si no se arrepienten.
 Azevedo orinó en el retrete. Luego se lavó las manos y se secó en los faldones de la camisa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

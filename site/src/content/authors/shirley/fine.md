@@ -71,6 +71,3 @@ Las dos se echaron a reír.
 —No dejaré de hacerlo —contestó ella.
 —Bueno, adiós entonces —se despidió la señora Friedman.
 —Adiós —dijo la señora Concord.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

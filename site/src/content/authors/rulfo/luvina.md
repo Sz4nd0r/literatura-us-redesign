@@ -350,6 +350,3 @@ camichines. El griterío ya muy lejano de los niños. Por el pequeño
 cielo de la puerta se asomaban las estrellas.
 El hombre que miraba a
 los comejenes se recostó sobre la mesa y se quedó dormido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

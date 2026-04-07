@@ -73,6 +73,3 @@ Por la mañana, Jacinto y la Repa recogieron sus ropas ya muy usadas. Repa guard
 —¡Hay que quemar todas estas porquerías! —dijo la Repa.
 —¡Quémalas tú! Yo debo hacer otras cosas, ya lo sabes; los chicos nos ayudarán en todo, como siempre… Necesito descansar un rato, después de la noche que he pasado —dijo Jacinto.
 Las moscas escucharon sus voces, que cruzaron la puerta de oro cerrada para siempre. Sabían que jamás, jamás volverían a dormir en esas camas de hierro… Petrouchka saltaba entre las pilas del jabón de oro y Lola estaba quieta. La frase «Andamos huyendo Lola…» nunca más la volvería a escuchar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

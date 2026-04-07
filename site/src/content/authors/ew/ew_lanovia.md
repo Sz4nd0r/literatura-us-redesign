@@ -372,6 +372,3 @@ Cuando a primera hora de la mañana la novia había sonreído, casi se diría qu
 Avanzando a través del lluvioso anochecer, la joven volvió a refugiarse en la cálida puerta del bar, sujetando el mensaje, aún sin terminar y sin enviar.
 —¡Ah, eso es una herejía, se lo dije! —gritó un hombre en el bar en mitad de su historia. Una camarera iluminó el callejón con sus abalorios, se oyó un grito de alegría cuando entró en el bar, como si ella misma fuera la herejía, y cuando todos gritaron a la vez algo impertinente, fue como si hubieran dado el pie de una canción.
 La joven soltó su mensaje en la corriente de la calle, abrió la puerta y se adentró en aquella encantadora sala llena de extraños.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

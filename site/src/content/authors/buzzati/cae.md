@@ -46,6 +46,3 @@ En un comedor del vigésimo octavo piso, un hombre de unos cuarenta años se tom
 –Siempre pasa igual –rezongó el hombre–. Por estos pisos tan bajos no pasan más que viejas caducas. Las chicas guapas se ven del quingentésimo para arriba. No por nada cuestan esos apartamentos tan caros.
 –Pero aquí abajo –observó la mujer– por lo menos tenemos la ventaja de que se puede oír el golpe cuando llegan al suelo.
 –Esta vez, ni siquiera eso –dijo él meneando la cabeza después de haberse quedado escuchando unos instantes. Y se tomó otro sorbo de café.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

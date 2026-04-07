@@ -170,6 +170,3 @@ De este modo, mi vecino de cama en el hospital terminó su narración, diciéndo
 -¿Y no te molesta esto?
 Se echó a reír.
 —¡Qué quieres!... Nada tengo que ver yo en el asunto. Nadie tiene que pedirme cuentas de ello. Y por otra parte, nadie es culpable de nada, ya que al fin y al cabo todos somos igualmente unos brutos. ¿O dices tú lo contrario?...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

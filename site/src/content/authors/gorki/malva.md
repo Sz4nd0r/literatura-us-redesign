@@ -791,6 +791,3 @@ En la explotación comenzaba a bullir el trabajo.
 Yákov oyó la voz cadenciosa y grave de Malva que gritaba:
 —¿Quién ha cogido mi cuchillo?
 Las olas sonaban, el sol brillaba, el mar reía…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

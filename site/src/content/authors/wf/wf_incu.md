@@ -293,6 +293,3 @@ Bajamos del carro. Nos miró.
 —Pero nosotros mentimos. Arrodillaos —dijo yaya.
 Ella se arrodilló primero. Después, nos quedamos los tres arrodillados junto al camino, mientras ella rezaba. La colada ondeaba suave, plácida y luminosa en el tendedero.
 Y entonces nos vio Louvinia; ya corría por los pastos mientras yaya rezaba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

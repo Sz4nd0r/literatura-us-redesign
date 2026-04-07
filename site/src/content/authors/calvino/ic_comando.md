@@ -85,6 +85,3 @@ Pero el otro no bajaba el arma, sino que apretaba el gatillo.
 «Balas de fogueo, son balas de fogueo», tuvo tiempo de pensar el espía. Y cuando sintió la descarga que le caía encima como puñetazos de fuego ininterrumpidos, todavía alcanzó a pensar: «Cree que me ha matado, pero estoy vivo».
 Cayó de cara al suelo y lo último que vio fue un par de pies calzados con sus zapatones que le pasaban por encima.
 Así quedó, un cadáver en el fondo del bosque, con la boca llena de agujas de pino. Dos horas después estaba negro de hormigas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

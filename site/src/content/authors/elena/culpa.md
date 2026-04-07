@@ -208,6 +208,3 @@ Las dos mujeres se quedaron quietas. Nacha devorando poco a poco otro puñito de
 Después, cuando ya Laura se había ido para siempre con él, Nachita limpió la sangre de la ventana y espantó a los coyotes, que entraron en su siglo que acababa de gastarse en ese instante. Nacha miró con sus ojos viejísimos, para ver si todo estaba en orden: lavó la taza de café, tiró al bote de la basura las colillas manchadas de rojo de labios, guardó la cafetera en la alacena y apagó la luz.
 —Yo digo que la señora Laurita no era de este tiempo, ni era para el señor —dijo en la mañana cuando le llevó el desayuno a la señora Margarita.
 —Ya no me hallo en casa de los Aldama. Voy a buscarme otro destino —le confió a Josefina. Y en un descuido de la recamarera, Nacha se fue hasta sin cobrar su sueldo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

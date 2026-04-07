@@ -118,6 +118,3 @@ Alzó la mano. Makamuk blandió el hacha, una gran hacha para encuadrar troncos.
 Los atónitos salvajes vieron rebotar la cabeza a un metro del tronco sangriento.
 Hubo un gran silencio y estupor, hasta que poco a poco fueron comprendiendo que no había tal remedio. El ladrón de pieles los había embaucado. Él sólo, entre todos los prisioneros, había escapado a la tortura. Se había jugado por entero en esa apuesta. Hubo una explosión de risas. Makamuk inclinó la cabeza, avergonzado. El ladrón de pieles se había burlado de él. Lo había puesto en ridículo ante su gente. Todos seguían riéndose a carcajadas. Makamuk se dio la vuelta y se retiró con la cabeza gacha. Sabía que ya no le llamarían Makamuk. Le llamarían: Cara Perdida; la historia de su afrenta lo seguiría hasta la muerte; y cuando las tribus se reunieran en primavera para la pesca del salmón, o en verano para traficar, recorrería las fogatas la historia de cómo el ladrón de pieles murió apaciblemente, de un solo golpe, a manos de Cara Perdida.
 —¿Quién es Cara Perdida? —le parecía oír preguntar a algún mozo insolente—. Cara Perdida, el que se llamó Makamuk antes de cortar la cabeza del ladrón de pieles.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

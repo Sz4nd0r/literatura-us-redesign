@@ -109,6 +109,3 @@ Leli pensó que el río de Ceferino era muy viejo y había visto muchas lluvias,
 Boni examinó largo rato su actitud seria, sus manos quietas y sus ojos valientes.
 —El tuyo tiene rápidos. Es un río de general mexicano… Pero todos los ríos, el tuyo, el mío, el de Ceferino y el del general Rueda Quijano, van a dar al mismo mar.
 Sus ojos amarillos se enfrentaron a los de la niña y sus labios le regalaron una sonrisa. El desconsuelo del periódico se disolvió en sus palabras, y Leli supo que allí en el mar todos éramos el mismo, y que nunca más el general Rueda Quijano iría solo, andando desdeñoso al paredón, mirado por los ojos serios de los soldados y las cámaras absurdas de los fotógrafos de prensa. El lugar al que lo habían llevado las balas de los máuseres era el mismo al que se dirigía su río de rápidos violentos: un mar azul de soles amarillos. Desde ese resplandor, el general la miraba acercarse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

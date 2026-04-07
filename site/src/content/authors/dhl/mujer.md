@@ -1322,6 +1322,3 @@ de hielo. Entonces el anciano heriría, heriría en pleno corazón, consumaría 
 sacrificio y alcanzaría el poder.
 La dominación de la que el hombre debe
 apoderarse y que pasa de raza en raza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

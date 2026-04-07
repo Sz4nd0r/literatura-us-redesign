@@ -50,6 +50,3 @@ Llamé a McCarthy, uno de los garçons franceses, y le pregunté el motivo del c
 —El hombre de corbata roja (era mi cosmopolita) —me repuso—, se enojó a causa de las cosas que el otro tipo decía acerca de los holgazanes callejeros y el abastecimiento de agua del pueblo del que aquél procede.
 —Caramba —dije confundido—, ese individuo es un ciudadano del mundo… un cosmopolita… El…
 —Es oriundo de Mattawamkeag, Maine —continuó McCarthy—, según dijo, y no admitía que desprestigiaran ese pueblo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

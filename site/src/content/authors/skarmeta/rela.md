@@ -151,6 +151,3 @@ Conté el dinero que quedaba y pensé que la vida no era ni corta ni larga. Que 
 —Bueno.
 Afuera de la heladería estaba otra vez lloviendo y la pizza estaba tierna y el queso y el tomate se enredaban abundantes en fláccidos borbotones sobre la masa.
 Tres meses después en un zaguán de Belgrano hice el amor con la primera muchacha de mi vida. No me importó haber gastado el dinero aquella tarde ni haber dejado de visitar a la chica de la calle Zabala. El dinero que gasté lo pasé al rubro de relaciones públicas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

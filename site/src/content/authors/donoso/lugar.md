@@ -127,6 +127,3 @@ La Manuela se paró antes de doblar la esquina.
 —Para que estacione delante de la puerta de la casa. Así Pancho ve que usted está con nosotros y no se atreve a entrar.
 —Si no vengo en auto, dejo a los perros afuera. Pancho les tiene miedo.
 —Claro, si es un cobarde.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

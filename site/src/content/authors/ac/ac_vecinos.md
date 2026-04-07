@@ -140,6 +140,3 @@ Piotr Mijáilich recordó lo del estudiante a quien habían arrojado a este esta
 “Olivier fue inhumano, pero, después de todo, resolvió el problema, mientras que yo no he resuelto nada, no he hecho más que enredarlo —pensó, mirando la oscura silueta, que semejaba un aparecido—. Él decía y hacía lo que pensaba, y yo no digo ni hago lo que pienso. Ni siquiera sé seguro lo que en realidad pienso…”.
 Se acercó a la negra silueta: era un viejo tronco podrido, lo único que quedaba de una antigua construcción.
 De la arboleda y la hacienda de Koltóvich venía hasta él un fuerte perfume de muguete y de hierbas aromáticas. Piotr Mijáilich siguió a lo largo de la orilla del estanque, contemplando tristemente el agua, y al rememorar su vida, se convenció de que hasta entonces no había dicho y hecho lo que pensaba, y de que los demás le habían pagado con la misma moneda. Esto le hizo ver su vida entera tan sombría como aquella agua en que se reflejaba el cielo de la noche y se confundían las algas. Y le pareció que aquello no tenía remedio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

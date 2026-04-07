@@ -459,6 +459,3 @@ costumbre—, ¿estás seguro de que tu madre besó una vez el retrato que dijis
 Cherokee consultó el reloj.
 —Son las nueve y media. Llegaremos al empalme a
 tiempo de celebrar la Navidad. ¿Tienes frío? Acércate más, hijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

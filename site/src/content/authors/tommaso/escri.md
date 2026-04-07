@@ -39,6 +39,3 @@ Quería fumar un último cigarrillo antes del almuerzo, pero se dio cuenta de qu
 Pero a sus ojos se hizo visible el revólver que tenía allí dentro: un viejo y pequeño revólver de tambor que resplandecía con una suave luz.
 Y, mirándolo, le pareció de repente que toda su vida adquiría un sentido definitivo y simple, de la misma manera que simple y definitivo era lo que ahora, en seguida, tenía que hacer. Tomó el revólver, hizo girar el tambor: no faltaba ni una bala, bastaba con apretar el gatillo.
 Como quien realiza un acto cotidiano que no exige una particular atención pero cuya oportunidad es evidente por sí misma, levantó el revólver, se lo apoyó en la sien, apretó el gatillo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

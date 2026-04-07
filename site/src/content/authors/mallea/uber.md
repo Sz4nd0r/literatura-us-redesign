@@ -829,6 +829,3 @@ repente dejó de nadar y gritó. El grito recorrió largo
 espacio. El agua se abrió, por un segundo, luego volvió
 a dar al anochecer infinitamente en calma su superficie
 inmóvil y sin color.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -178,6 +178,3 @@ recomenzaron a girar en su vieja órbita.
 John Perkins miró su reloj. Eran las 8:15. Tendió la mano hacia su sombrero y se encaminó hacia la puerta.
 —Vamos… ¿Adónde vas, John Perkins, puede saberse? —preguntó Katy, con tono quejumbroso.
 —Creo que haré una escapada al café de McCloskey a jugar unas partiditas con los muchachos —dijo John.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

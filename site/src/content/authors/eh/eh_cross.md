@@ -104,6 +104,3 @@ Nick se puso de pie y se abrochó bien la chaqueta. Se inclinó sobre George par
 —No se gana nada con hacer promesas —expresó.
 Luego abrieron la puerta y salieron. Hacía mucho frío. La nieve amontonada estaba dura. El camino subía por la colina hasta el bosque de pinos.
 Los dos amigos fueron a buscar los esquís que habían dejado junto a la pared del albergue. Nick se puso los guantes. George empezó a subir por el camino con los esquíes al hombro. Volverían juntos al pueblo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

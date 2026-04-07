@@ -108,6 +108,3 @@ Y
 ENTREGÓ SUS PUESTAS
 EL 7 DE DICIEMBRE DE 1850.
 Y sin pulso y frío, con un revólver a su lado y una bala en el corazón, todavía tranquilo como en vida, yacía bajo la nieve el que a la vez había sido el más fuerte y el más débil de los expulsados de Poker-Flat.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

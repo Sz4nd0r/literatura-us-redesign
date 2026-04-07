@@ -78,6 +78,3 @@ En el muro que se alzaba al fondo del quintal vio entonces algo parecido a dos o
 No se durmió en seguida, debido a dos ruedecillas ópalo que estaban incrustadas en la pared; advirtiendo que se trataba todavía de una ilusión, cerró los ojos y se durmió. Soñó que moría, que su alma, arrebatada por los aires, volaba en dirección a una hermosa estrella doble. El astro se escindió, y ella voló hacia una de las dos partes; no encontró allí la sensación primitiva y se dirigió hacia la otra; igual resultado, igual regreso, y ahí la tienen, yendo de una a otra de las dos estrellas separadas. Entonces una voz surgió del abismo, con palabras
 que ella no entendió.
 —Es tu castigo, alma sedienta de perfección; tu castigo es oscilar por toda la eternidad entre dos astros incompletos, al son de esta vieja sonata del absoluto: la, la, la...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

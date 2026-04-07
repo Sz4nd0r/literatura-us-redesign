@@ -194,6 +194,3 @@ Y con una sola voz atronadora contesta toda la gente de Londres a través de la 
 Entonces el velero comprende que está en el buen camino y desaparece tan adentro en la tiniebla más densa que nadie vuelve a verle. Y con él desaparecen todos los ruidos. Sólo el cielo gotea y gotea y sus pasos gotean entre las casas ocultas.
 Cuando había andado bastante en dirección al mar sale a su encuentro el viento y la niebla se disipa. Y de pronto, como por encanto, la niebla sube directamente al cielo. El sol brilla intenso y esplendoroso. Pasa por un muelle recién embreado y va hacia una ciudad. Las fachadas laterales relucen hacia él con colores iridiscentes, las ventanas centellean, un caballo blanco alza su hocico de un tonel de arenques y relincha a su paso. Apoyado en el alegre caballo empieza a quitarse sus pesados zapatos y cuando lo ha hecho los tira al agua azul donde se hunden enseguida.
 Y poco a poco empieza a nevar. El sol se apaga. Las estrellas se encienden. Sale la luna. Descalzo continúa el velero su marcha hacia Bergen en Noruega.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

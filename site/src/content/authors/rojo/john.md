@@ -159,6 +159,3 @@ lentejas, tomando su atmósfera irreal de los hechos, sí logra tejer
 una nauseabunda visión de la crueldad, codicia, opresión y destrucción
 desatada en el Nuevo Mundo por los conquistadores españoles. Esta novela
 nos hace lamentar el descubrimiento de América.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

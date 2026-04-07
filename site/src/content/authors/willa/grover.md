@@ -80,6 +80,3 @@ B. & Q 26387
 “Cuando volví a ver a Larry O’Toole, mi amigo yacía muy rígido en la funeraria de Omaha. Iba vestido de etiqueta y llevaba calcetines negros en los pies, tal y como lo había visto cuarenta y ocho horas antes. El abanico de Helen Masterson estaba en su bolsillo. Tenía la boca abierta, llena de algodón blanco.
 “Le habían disparado en la boca, y la bala se había alojado entre la tercera y la cuarta vértebra. La hemorragia fue escasa, pues la había contenido el algodón. La discusión había tenido lugar a las cinco de la tarde. Después de cenar, Larry se había vestido, sin calzarse, y se había acostado para echar una cabezadita, confiando en que el pitido del especial lo despertara. Fue entonces cuando Freymark regresó y le disparó mientras dormía, y luego ocultó su cadáver en el vagón del algodón que, de no ser por mi telegrama, no habrían abierto hasta pasadas varias semanas.
 “Y esta es toda la historia. No me queda nada más que añadir, salvo un detalle que no mencioné al jefe de policía. Cuando me despedí de mi amigo, antes de que la funeraria y el juez de instrucción se hiciesen cargo del cuerpo, le levanté la mano derecha para retirar un anillo que la señorita Masterson le había regalado. Las yemas de sus dedos estaban manchadas de tiza azul”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

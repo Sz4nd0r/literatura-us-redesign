@@ -78,6 +78,3 @@ Pero la cabeza con un pelo endurecido, la nariz achatada, la boca oscura, alarga
 —Bueno. Ya basta —dijo Capurro y todos se callaron, mientras seguía goteando la esquina de la mesa.
 Miró al joven rubio que esperaba con el cigarrillo entre los dedos frente al pecho, dirigió la cara hacia la muerta y se detuvo observando las arpilleras que colgaban desde el techo. Sólo tenía para contarles una historia larga, entrecortada, llena de momentos brillantes y misteriosos que nada tenía que ver con aquello que interesaba a los hombres de pie en el galpón, mirándole la boca, que acaso tampoco tuviera relación con nada concreto que él pudiera imaginar. Hizo a cada uno un corto gesto de amistad y giró para salir, creyendo que iban a detenerlo en cada paso, pero oyó en seguida que los hombres lo seguían sin tocarlo, sin hacerle ya ninguna pregunta, sin prisa, como si acabara de contarles la larguísima historia, y todos marcharan sin propósito, un poco inclinados por el cansancio de escuchar, escuchando ahora el susurro intermitente que la historia sin medida iba haciendo dentro de la cabeza de cada uno.
 1944
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -399,6 +399,3 @@ La justicia de Santa Cruz de las Cruces, por la inseguridad de la cárcel, acord
 Amarrados de los brazos, a la espalda un atado de ropas en un petate, sábana y poncho, y colgando una jarrilla para hacer café, un tecomate con agua y un guacal, así como algún vidrio con aceite de almendras, salieron los compadres de Santa Cruz de las Cruces, custodiados por una escolta al mando de un capitán.
 Goyo Yic cerró los ojos. Por un instante volvió al mundo de la María Tecún, flor escondida en el fruto, mujer que él llevaba en el alma. Pálido y cejijunto, le seguía Revolorio, ensayando una falsa risa de reo que se llama Domingo, luchando por no hacer el movimiento de subirse las mangas no fuera a creer el jefe que se le quería soltar, y encomendándose a Jesús de la Buena Esperanza, con la rarísima oración de los Doce Manueles.
 Aquel día era sábado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

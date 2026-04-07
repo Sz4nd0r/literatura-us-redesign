@@ -973,6 +973,3 @@ Bessie reflexionó durante un instante.
 Lord Lambeth no le contó a Percy Beaumont que se había producido el imprevisto para el que no estaba en absoluto preparado; pero Beaumont, al enterarse de que las dos damas habían dejado Londres, se preguntó con cierta intensidad qué había pasado; es decir, se lo preguntó hasta que la duquesa de Bayswater acudió en su ayuda. Las dos damas fueron a París, y durante el viaje a dicha ciudad la señora Westgate no cesó de repetir en todo momento:
 —Lo que de verdad lamento es que pensarán que nos aterrorizaron.
 Pero Bessie Alden parecía no lamentar nada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

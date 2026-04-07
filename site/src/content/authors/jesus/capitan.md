@@ -156,6 +156,3 @@ hacia mí el sargento, viene. El viejo se interpone, con su traje blanco, como V
 —Y me dan ganas, y se lo digo, le digo...
 —¡Maestro!
 Como ahora le repito cuando lo veo y corre hacia mi y me abraza y siento otra vez sus lágrimas, ahora sobre mis barbas de capitán rebelde.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

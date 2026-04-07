@@ -1460,6 +1460,3 @@ recoger por escrito estos mensajes “del más allá”. También recibe el mism
 nombre el puntero de similares características, pero sin lápiz, empleado en la tabla
 ouija.
 2. la secta norteamericana fundada por Mary Baker Edy, en el siglo XIX, y que todo lo basa en la fuerza del espíritu.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

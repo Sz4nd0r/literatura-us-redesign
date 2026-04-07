@@ -127,6 +127,3 @@ Yo lo apuré para que me
 dijera el secreto. Entonces él abrió la mano y dijo:
 —Venga el peso. —Y
 después que se lo di agregó: —Dése un baño de pies bien caliente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

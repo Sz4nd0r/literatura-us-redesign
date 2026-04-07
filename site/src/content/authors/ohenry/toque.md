@@ -76,6 +76,3 @@ Woods le ofreció el papel escrito.
 Hagan el favor de abonar a John Kernan la recompensa de mil dólares que me corresponde por su captura y condena.
 “Bernard Woods”.
 —Estaba seguro de que ellos harían eso —dijo Woods— cuando los provocaste tan duramente. Ahora, Johnny, acompáñame a la comisaría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

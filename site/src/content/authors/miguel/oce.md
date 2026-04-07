@@ -245,6 +245,3 @@ Tras el cortinaje estaban sus hijos escondidos y salieron, encabezados por el ma
 —¡Mamita, mamita! —le gritaron—. ¿Dónde está para que lo matemos?
 Momentáneamente confundida por la pregunta de los niños, ella pareció buscarlo, como si en verdad estuviera allí.
 —No, mis hombrecitos, no… el Ocelotle 33 ya se ha ido… fue una pesadilla y de las pesadillas, se despierta. —Y luego, sólo para ella, sin saber si tragarse o soltar las lágrimas—, de las pesadillas se despierta, pero no de la realidad. De la realidad no hay quien despierte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

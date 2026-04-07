@@ -187,6 +187,3 @@ Permaneció desnudo sobre las baldosas antes de meterse en el baño. Se cogió e
 Siguió encerrado en el baño hasta que oyó a Marian en el cuarto de los niños. Estaba vistiéndoles, y les preguntaba si no querían jugar con Warren y Roy. Salió del baño, atravesó la casa, entró en el dormitorio y cerró la puerta. Miró la cama, y luego se acostó. Permaneció boca arriba, con la mirada fija en el techo. Se había levantado del sofá, había entrado en la cocina y… y se había sentado. Al ver que Marian entraba en el cuarto cerró los ojos de inmediato y se dio la vuelta hacia un costado. Marian se quitó la bata y se sentó en el borde de la cama. Deslizó una mano bajo las mantas y empezó a acariciarle la parte baja de la espalda.
 —Ralph —dijo Marian.
 Tensó los músculos ante el contacto de sus dedos, y luego cedió un poco. Era más fácil ceder un poco. Marian le pasaba la mano por la cadera, por el vientre, y ahora apretaba su cuerpo contra el suyo y se movía sobre él, gravitando aquí y allá sobre su cuerpo. Se contuvo —se diría más tarde— cuanto pudo. Y al cabo se dio la vuelta. Se daba la vuelta una vez y otra en lo que podía haber sido un reparador y espléndido sueño, y seguía dándose la vuelta, maravillado ante los imposibles cambios que sentía bullir en su interior.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

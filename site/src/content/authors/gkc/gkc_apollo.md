@@ -117,6 +117,3 @@ El Padre Brown tuvo una especie de sobresalto.
 —Hablo completamente en serio —respondió el sacerdote—. Le digo que supe que lo había hecho antes incluso de saber qué era lo que había hecho.
 —Pero, ¿cómo es posible?
 —Estos paganos estoicos —dijo Brown reflexivamente— siempre fallan por exceso. Se produjo un estrépito y un gran alarido en la calle, y el sacerdote de Apolo ni se sobresaltó ni miró alrededor. Yo no sabía lo que había pasado; pero supe inmediatamente que él lo estaba esperando.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -129,6 +129,3 @@ Todo esto sucedió no hace muchos años. George Brainard sigue tan apuesto como 
 Tal vez hayan visto en el periódico de la mañana que la famosa pianista, Fräulein Paula von Stoltz, se encuentra descansando en Leipzig tras una prolongada y lucrativa gira de conciertos.
 El profesor Max Kuntzler también se encuentra en Leipzig, con la perseverante voluntad de siempre, la paciencia tenaz que, tan a menudo, termina por ganar.
 (1889)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

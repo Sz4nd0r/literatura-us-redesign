@@ -73,6 +73,3 @@ sabía dónde iba a dormir aquella noche. Más tarde, fui con un amigo a recoger
 —Todo lo que digo es que tú nunca tuviste madre —le dije. Eso es lo peor que puede decirse en España para insultar a un hombre.
 —Es verdad —dijo—. Mi pobre madre murió cuando era tan pequeño que parece como si nunca la hubiera tenido. Es muy triste.
 Eso es un marica. No se les puede conmover. Nada; nada del mundo puede conmoverlos. Gastan el dinero en sí mismos, o por vanidad, pero nunca pagan. Traten ustedes de conseguir que alguno de ellos les pague. Le dije lo que pensaba de él, allí mismo en la Gran Vía, frente a sus tres amigos. Pero ahora, cuando lo encuentro, me habla como si fuésemos amigos. ¿Qué clase de sangre tiene en las venas un hombre como ése?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

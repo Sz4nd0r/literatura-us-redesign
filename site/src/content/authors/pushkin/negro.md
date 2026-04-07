@@ -254,6 +254,3 @@ El sueco, sorprendido, se levantó de un salto.
 —Ya no te acuerdas de mí —dijo el joven visitante con una voz llena de emoción—, ya no recuerdas al muchacho al que enseñabas maniobras suecas de fusil, con el que por poco armas un incendio en esta habitación al disparar un cañón de juguete…
 Gustav Adámych lo miraba fijamente.
 —¡Eh! —exclamó al fin dándole un abrazo—. Hola, ¿cuándo has llegado? Siéntate, pillo, y hablamos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

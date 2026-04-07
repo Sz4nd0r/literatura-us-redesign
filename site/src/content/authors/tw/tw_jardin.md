@@ -158,6 +158,3 @@ A Mary se le habían acabado los datos. No sabía qué había dicho Brébeuf. El
 Louise estaba agitando los brazos.
 —¡Mary! —gritó.
 Pero Mary tenía más que decir, mucho más; contestó a Louise moviendo un brazo y luego desconectó su audífono para que nada la distrajera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

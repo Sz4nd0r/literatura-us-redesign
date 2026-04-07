@@ -173,6 +173,3 @@ Continuaron sentados. Pool meditaba y memorizaba en su interior el cántico maor
 —He hablado mucho tiempo, Kanaka Oolea. Mi boca no conserva la humedad duradera de la juventud. Siento que vuelve a dominarme la sed que me atormentó mientras me perseguía la imagen de la lengua del arponero. La leche y la ginebra, Kanaka Oolea, son buenas para una lengua como la del arponero.
 La sombra de una sonrisa aleteó en el rostro de Pool. Dio una palmada y la niña llegó corriendo.
 —Trae un vaso de leche con ginebra para el anciano Kumuhana —ordenó Hardman Pool.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

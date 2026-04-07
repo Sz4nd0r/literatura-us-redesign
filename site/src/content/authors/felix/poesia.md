@@ -191,6 +191,3 @@ Que él ponga el precio y él decida
 —si es contra mí, tanto peor—,
 que él ponga el precio y él decida:
 Siempre diré: tuvo razón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

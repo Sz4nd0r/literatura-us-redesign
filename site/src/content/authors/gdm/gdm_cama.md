@@ -191,6 +191,3 @@ Y él se fue, en efecto, huyendo, a grandes zancadas, pasando por entre las dos 
 —Más que tú, sí, yo he matado más que tú, más que tú…
 Bajó los escalones de cuatro en cuatro y corrió a encerrarse en su cuartel.
 Al día siguiente, supo que ella había muerto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -899,6 +899,3 @@ odio. Se le doblaban las rodillas y sollozaba de puro agotamiento. Ante sus ojos
 el vértigo de la náusea. Luego recordó que las caras eran las
 armas. Y que las armas eran suyas. La revolución podría seguir
 adelante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

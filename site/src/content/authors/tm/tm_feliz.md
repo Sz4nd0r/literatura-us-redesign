@@ -195,6 +195,3 @@ Me quedé un buen rato viéndolo partir, de pie tras el ventanal del mirador del
 ¿Qué más me queda por decir? Paolo ha muerto. Murió la mañana que siguió a su noche de bodas… Casi en la noche de bodas misma.
 Tenía que ser así. ¿No fue la voluntad, la simple voluntad de ser feliz, la que le había permitido mantener durante tanto tiempo a la muerte bajo dominio? Era forzoso que muriera, que muriera sin lucha ni resistencia en el momento en que su voluntad de ser feliz se hubiera visto suficientemente satisfecha. Ya no le quedaba ningún pretexto para seguir viviendo.
 Muchas veces me he preguntado si obró mal, mal de una forma consciente, para con la mujer a la que se unió en matrimonio. Sin embargo, tuve ocasión de verla durante el entierro, de pie a la cabeza de su ataúd. Y también en ella pude reconocer la expresión que había visto en el rostro de mi amigo: la seriedad solemne e intensa del triunfo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

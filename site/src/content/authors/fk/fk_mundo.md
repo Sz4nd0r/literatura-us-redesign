@@ -66,6 +66,3 @@ Lo hizo patente agitando las palmas de las manos.
 —Si pretendes insinuar con eso, Oscar, que tus novedades me interesan poco, tienes toda la razón. Eso es lo mejor, pues el fuego que prenderán en tu interior, arderá por sí mismo sin mezclarse con nuestra amistad.
 —La información será todavía más clara, necesito una información clara, eso lo tengo muy presente. Pero si buscas corbatas y cuellos, están allí, sobre el sillón.
 —Gracias —dijo el Ingeniero, y comenzó a ponerse el cuello y la corbata—. En ti se puede confiar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

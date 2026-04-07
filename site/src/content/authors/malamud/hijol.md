@@ -97,6 +97,3 @@ Harry permaneció inmóvil en el agua y, al cabo de un rato, el padre se marchó
 Mi padre escucha en el pasillo. Me sigue por la calle. Nos encontramos a la orilla del mar.
 Corre detrás de su sombrero.
 Mi hijo se queda en la playa con los pies en el océano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

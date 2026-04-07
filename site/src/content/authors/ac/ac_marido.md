@@ -67,6 +67,3 @@ La cantante vuelve la cabeza y sólo entonces ve una cara desconocida. El visita
 La mujer exhala un grito y huye a su dormitorio.
 —Ahí tiene usted —concluye el marido, tendiéndose en el diván—. Todo marchaba como sobre ruedas: querido mío, amor de mi vida, encanto, besos y abrazos… Pero en cuanto se trató de dinero, fíjese… ¡Lo que puede el dinero…! Buenas noches.
 Un minuto más tarde se le oía roncar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

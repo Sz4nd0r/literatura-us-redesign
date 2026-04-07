@@ -208,6 +208,3 @@ Estaba de pie junto al banco de madera, bajo el toldo de la tienda, y a sus pies
 ¡Qué cantidad de emociones, cuánto había aprendido ya sobre sí mismo!
 —Aquí estoy —dijo ella, con una hermosa y tímida sonrisa.
 —Me alegro —dijo él, y se inclinó para abrir la puerta del establecimiento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

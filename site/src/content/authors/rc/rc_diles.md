@@ -149,6 +149,3 @@ Siguió subiendo durante un rato; el sendero empezó a descender y a encaminarse
 Bill sacó un cigarrillo. Pero no pudo encenderlo. Entonces vio a Jerry. Y después de aquello, ya no importaba.
 Lo que Bill había querido era joder con ellas. O verlas desnudas. Pero tampoco le habría importado mucho que la cosa no saliera.
 No llegó a saber lo que quería Jerry. Pero todo empezó y acabó con una piedra. Jerry utilizó la misma piedra con las dos chicas: primero con la que se llamaba Sharon y luego con la que se suponía que le tocaría a Bill.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

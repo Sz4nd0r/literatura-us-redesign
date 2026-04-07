@@ -104,6 +104,3 @@ Ni Juanito ni Eileen pueden verlo, desde que forma parte de un mimodrama que han
 —El arte, si ha de ejercer sobre nosotros una fascinación révoltante...
 Pero quien me fascina —por detrás de la fluencia cada vez más autónoma de mi pensamiento— es Ponciano, su cuerpo poderoso y grácil, desnudo y elástico; negro y emblemático (pienso en un túnel, por dentro de lo que digo) negro y emblemático como mi corcel preferido en la alegoría de Platón.
 Acabo de discernir con claridad, no en el arte sino en mi vida: ésta es, a cambio de la naturalidad que doy, la penosa ficción que en el orden de la convivencia me espera. Que dos mediocres se animen a abolir, a derogar ante mis ojos simpatizantes, a Lucía bailando su sueño irrecuperable y a Ponciano estornudando y resoplando —¡oh, querida veracidad!— sobre la sopa de espárragos y la porcelana quebrada. ¿O es que estaré, también yo, un poquito borracho?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

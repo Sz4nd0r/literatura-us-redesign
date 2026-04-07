@@ -97,6 +97,3 @@ Durante unos instantes siguió imperando el silencio. Después se dejaron oír a
 Amra Jacoby y Alfred Läutner, sin mirarse, continuaban al piano. Él, cabizbajo, parecía seguir atento a su transición a fa mayor. Ella, incapaz de comprender tan rápidamente con su cerebro de gorrión lo que estaba pasando, miraba a su alrededor con cara de total vacuidad…
 Poco después el joven médico, un pequeño caballero judío de rostro serio y perilla negra, volvió a salir a la sala. A algunos señores que lo rodearon en el umbral de la puerta les respondió, encogiéndose de hombros:
 —Se acabó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -87,6 +87,3 @@ Míster Rosenbaum sacó una ficha del bolsillo de su chaleco y me la enseñó.
 —¿Qué es? —le pregunté.
 Una sonrisa se dibujó en su astuto semblante. Tras los gruesos cristales de sus gafas, sus ojos, que denunciaban un padecimiento reumático, parpadearon, reflejándose en ellos una irónica mirada de alegría. Demostraba una malicia y una astucia increíbles. Lanzó una carcajada y me contestó empleando una sola palabra:
 —¡Caridad!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

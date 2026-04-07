@@ -1105,6 +1105,3 @@ costas de su isla.
 Tocaron tierra las embarcaciones, y los
 tripulantes saltaron sobre la arena blanca.
 —Ahora —dijo McCoy— debo volver a Pitcairn.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

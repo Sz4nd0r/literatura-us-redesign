@@ -203,6 +203,3 @@ Por segunda vez, Holmes le tendió la mano al marinero.
 —Solo estaba probándole, y siempre me suena sincero. Bueno, es una gran responsabilidad la que adquiero con esto, pero le he dado a Hopkins una pista excelente, y, si no es capaz de aprovecharla, no puedo hacer más. Mire, capitán Croker, haremos esto de la forma debida. Usted es el acusado. Watson, usted es el jurado británico, y nunca he conocido a un hombre tan sumamente apropiado para representarlo. Yo soy el juez. Ahora, señor del jurado, ha oído el testimonio. ¿Encuentra al acusado culpable o no culpable?
 —No culpable, señoría —dije.
 —Vox populi, vox Dei. Le declaro absuelto, capitán Croker. Siempre que la policía no acuse a nadie injustamente, está a salvo de mí. Vuelva con la dama dentro de un año, y tal vez su futuro y el de usted justifiquen la sentencia que hemos dictado esta noche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

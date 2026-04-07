@@ -157,6 +157,3 @@ mano. Por fin se derrumbaron todos sobre el catre y allí inmovilizaron a Lorenz
 Un guardia se apartó y alzando la barra dio sus golpes ensordecedores. Luego se marcharon y cerraron la puerta.
 Un instante después se abrió la mirilla.
 —¿Le ha hecho daño ese loco? Esté preparado para el acta. —Y volvieron a cerrar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

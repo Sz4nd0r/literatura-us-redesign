@@ -158,6 +158,3 @@ Yo le había oído mencionar el caso en más de una ocasión, aunque nunca habí
 »—¿Y cómo se explica que Carlos no recuperara la corona a su regreso? —preguntó Musgrave metiendo la reliquia en su bolsa.
 »—Pones el dedo sobre el único punto que probablemente jamás lograremos aclarar. Es posible que el Musgrave que guardaba el secreto muriera antes del regreso del monarca y que en un exceso de precaución dejara esta guía a su descendiente sin explicarle el significado. Desde entonces ha pasado de padres a hijos, hasta caer en manos de un hombre que descifró el secreto y perdió la vida por su causa.
 »Y esta es, Watson, la historia del Ritual de los Musgrave. Conservan la corona en Hurlstone, aunque tuvieron algún problema legal y hubo que pagar una considerable suma de dinero para que les permitieran quedarse con ella. Estoy seguro de que, si les menciona usted mi nombre, estarán encantados de enseñársela. De la mujer no ha vuelto a saberse nada. Lo más probable es que saliera de Inglaterra, llevándose el secreto de su crimen al otro lado de los mares.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

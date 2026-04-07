@@ -135,6 +135,3 @@ Así que vino aquella noche y ha seguido viniendo todas las noches de esta seman
 —Volodya Vlashkin —le dije mirándole fijamente—, cuando era joven calenté tu fría espalda más de una noche sin hacer preguntas. Tú mismo lo admites. No te pedí nada. Tenía el corazón demasiado blando. No quería que andasen por ahí diciendo: Mira a Rosie Lieber, esa que va por el mundo rompiendo hogares. Pero ahora, Vlashkin, ahora eres libre. ¿Cómo puedes pedirme que viaje contigo y vaya en el mismo compartimiento de tren y duerma en tu misma habitación de hotel, rodeada de norteamericanos, sin ser tu esposa? Deberías avergonzarte.
 De modo que ahora, Lillie, anda y ve a contarle esta historia a tu madre con tus labios jóvenes. A mí nunca me hace caso. Se pone a chillar: «¡Que me desmayo! ¡Que me desmayo!». Dile que al final tendré marido. Todo el mundo sabe que, antes de que acabe la historia, las mujeres deberían tener, al menos, uno.
 ¡Dios mío, voy a llegar tarde! Dame un beso. Al fin y al cabo, te he visto crecer. Anda, deséame suerte en el día de mi boda. Deséame una vida larga y feliz. Y muchos años de amor. Abraza a mamá, y dile, de parte de tía Rose, ¡adiós, que te vaya bien!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

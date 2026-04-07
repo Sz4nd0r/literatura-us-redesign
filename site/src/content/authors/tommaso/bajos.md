@@ -88,6 +88,3 @@ Post scriptum
 ¿No juegan los peces en el fondo del mar?
 Pues yo cuanto me plazca quiero jugar
 Y jugarme, si es el caso, la vida eterna.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

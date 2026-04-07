@@ -89,6 +89,3 @@ Soltó una risita infantil. Cierto porte victorioso animó su figura. Se sentía
 —Lo que es a nosotros dos, ni se nos pasaba por la cabeza —respondió el galán—.
 Ahora deme un buen beso, tierna criatura.
 Y con esto se despidieron. Al señor Briley, a pesar de su pistola, lo habían asaltado por el camino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

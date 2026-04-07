@@ -52,6 +52,3 @@ Me levanté un poco después, envolviéndome en la bata. Recuerdo haber mirado e
 Mientras esperaba la comunicación en la cabina del teléfono, ya en el hotel, oía el ruido de los truenos y los primeros golpes de agua en las vidrieras. La voz de Eduardo empezó a repetir, lejana: «Hola, hola… ¿Quién? Hola…». Detrás de la voz, más allá del rostro que la voz formaba, imaginé percibir el zumbido de la ciudad, el pasado, la pasión, el absurdo de la vida del hombre.
 Desde el coche, yendo a la estación, derrumbada entre maletas, busqué el pedazo de playa donde había vivido. La arena, los colores amigos, la dicha, todo estaba hundido bajo un agua sucia y espumante. Recuerdo haber tenido la sensación de que mi rostro envejecía rápidamente, mientras, sordo y cauteloso, el dolor de la enfermedad volvía a morderme el cuerpo.
 1940
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

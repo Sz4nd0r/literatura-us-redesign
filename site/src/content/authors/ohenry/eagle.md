@@ -394,6 +394,3 @@ mensajero del tren encendió su pipa y se asomó a la ventanilla, exclamando
 sentidamente:
 —¡En verdad que el sitio es ideal para un
 asalto!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

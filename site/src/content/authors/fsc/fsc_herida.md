@@ -205,6 +205,3 @@ Josephine se volvió inmediatamente.
 —¡Por Dios! ¡Es espantoso! —exclamó Josephine—. Eso... —se contuvo cuando estaba a punto de decir la verdad: que, aunque Travis y ella se habían lanzado a la aventura de recorrer treinta kilómetros en coche hasta New Ulm, habían sido incapaces de encontrar un clérigo que quisiera casarlos. Aquello le parecía a siglos de distancia, infantil, olvidado—. ¡Es espantoso! —repitió—. Ese es el típico chisme que lanzan las chicas envidiosas.
 —Lo sé —corroboró Ed—. Me encantaría que alguien se atreviera a repetírmelo. Pero, bueno, nadie se lo creyó.
 Era un invento de las chicas feas y envidiosas. Ed Bement, que sentía la proximidad de su cuerpo, el fulgor de la cara de Josephine resplandeciendo como fuego en la penumbra, sabía que nadie tan hermoso podía hacer algo verdaderamente malo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

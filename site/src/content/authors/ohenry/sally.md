@@ -519,6 +519,3 @@ lo de “señorita Sally” iba por mí.
 —Porque —dijo con calma el cocinero— yo era el
 marqués. Mi padre fue el marqués de Borodale. Perdona,
 Sally, pero no pude evitarlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

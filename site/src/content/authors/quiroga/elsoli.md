@@ -163,6 +163,3 @@ La joya, sacudida por la convulsión del ganglio herido, tembló un instante
 desequilibrada. Kassim esperó un momento; y cuando el solitario quedó por fin
 perfectamente inmóvil, pudo entonces retirarse, cerrando tras de sí la puerta
 sin hacer ruido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

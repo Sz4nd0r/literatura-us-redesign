@@ -158,6 +158,3 @@ cita a la hora justa. Cuando encendiste el fósforo te reconocí como
 el hombre que buscaban en Chicago. Como no pude hacerlo personalmente,
 fui en busca de un agente de civil para que se hiciera cargo.
 Jimmy
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

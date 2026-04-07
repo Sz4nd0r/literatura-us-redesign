@@ -207,6 +207,3 @@ La señora sonrió.
 —Tampoco le atribuyas todo el mérito a ella, señorita Page Wetterling.
 —¿Perdón? No tengo la menor idea de a qué se refiere, señora Davis.
 —Te lo explicaré en una carta —dijo la señora Davis.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

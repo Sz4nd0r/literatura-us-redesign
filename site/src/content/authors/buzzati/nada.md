@@ -173,6 +173,3 @@ Después se asomó al pretil, extendió el brazo por encima de la jaula y apunt�
 En la turba hubo un instante de indecisión. Después, la vieja se alejó con una sonora risotada.
 En el silencio que siguió, del muro del foso contra el que se encontraba apoyada la jaula se alzó el trémulo canto de un grillo. Cri-cri… Parecía acercarse.
 A través de los barrotes, Anna extendió lentamente una manita temblorosa hacia el grillo, como para pedirle ayuda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

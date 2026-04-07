@@ -126,6 +126,3 @@ Robertson se quedó en silencio unos instantes.
 —Bien. En ese caso, me hago cargo de la parte de George Mulvane, pero tiene que darme su palabra de honor de que nunca se lo dirá a Mae. No quiero que piense que soy un pelele.
 —Se lo prometo, Mae no lo sabrá nunca —dijo Kemper—. Podemos pedir el almuerzo aquí y tomar otra copa antes de subir.
 —Claro que sí, ¿por qué no? —dijo Robertson. Se reclinó en su asiento y echó un vistazo al salón—. Qué sitio tan agradable. Creo que me apuntaré. Ahí está el viejo Tom Conville. Creo que me acercaré a saludarlo, si me disculpa. Será solo un minuto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -64,6 +64,3 @@ Jones dijo:
 Esta respuesta confirmó al muchacho en su idea. Sabía que las personas que mueren no vuelven a sus casas.
 La actitud de Jones hacia la historia del hombre del hacha era muy singular. Se mostraba incrédulo. Protestaba contra el convencimiento de los chiquillos, pero no consiguió que cambiaran su versión. Estaban absolutamente convencidos de haberlo visto.
 La historia, en realidad, termina aquí. Pero quiero añadir algo que les divertirá. El jurado condenó a Jones a morir en la horca, y su veredicto fue completamente justo: antes de morir, Jones confesó. Freddy es ahora un respetable comerciante de Ogdensburg. Y lo curioso del caso es que está convencido de que la confesión de su padre fue una mentira. Considera a su padre como una víctima de la estupidez de los jurados, y tiene la esperanza de encontrar, algún día, al hombre de pelo rojo, grandes dientes blancos y manos blancas, cuya imagen permanece grabada en su memoria con tal nitidez, que podría localizarle en medio de una multitud de diez mil hombres.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

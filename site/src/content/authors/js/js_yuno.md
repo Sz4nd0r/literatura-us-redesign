@@ -55,6 +55,3 @@ El viejo hizo un gesto negativo con la mano.
 —No hay de qué. Hemos tenido mucho gusto.
 Se alejaron juntos. Por oriente el firmamento era una orgía de luz. Reemprendí la marcha por el sendero.
 Esto es todo. Conozco algunas de las razones que hacen que me resulte tan agradable el recuerdo. Pero además había cierto elemento de sublime belleza en la escena que hace que me inunden oleadas de placer cada vez que vuelve a mi memoria.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

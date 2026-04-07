@@ -118,6 +118,3 @@ Abrió la navaja y la clavó en el tronco. Sacó una de las truchas agarrándola
 Las limpió, cortándolas desde el ano hasta la punta de la mandíbula. Agallas, entrañas y lengua salieron juntas. Las dos eran machos. Arrojó los despojos hacia la orilla para que sirviesen de alimento a los visones.
 Después terminó de limpiarlas en el río. Al ponerlas en el agua le pareció que revivían, pues todavía conservaban el color. Se lavó las manos y las puso a secar en el tronco. Guardó los peces en la bolsa, haciendo un paquete y lo envolvió todo en la red. La navaja estaba clavada en el tronco. Se la puso de nuevo en el bolsillo, después de limpiarla frotándola en la madera.
 Se detuvo un instante con la caña en una mano y la red colgando en la otra. Por último se introdujo en el agua y chapoteó hacia la costa. Subió a la orilla y regresó al campamento por el bosque. Al volverse vio el río a través de los árboles. Faltaban muchos días para que se decidiera a ir a pescar en el pantano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -133,6 +133,3 @@ Está en la puerta, mirándola.
 —Antes que volvamos —dice él.
 —Entonces, ¿por qué te llevas a Jewel? —le digo.
 —Le necesito para que me ayude a cargar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

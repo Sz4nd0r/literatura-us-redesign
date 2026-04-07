@@ -356,6 +356,3 @@ Con mucha dificultad logró alcanzar una esquina del cuaderno. El esfuerzo neces
 —¿Señor Frost? Oh…, señor Frost…
 Lo habían encontrado ya, apenas había tenido tiempo para descansar. Estaba inconsciente, pero respiraba. El gran hombre, caído sobre la hierba silvestre, delante de la Cabaña del Poeta de Bread Loaf, Vermont, en un atardecer bochornoso de agosto de 1951.
 El poeta, en cualquier caso, respiraba. No había error posible, el poeta respiraba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

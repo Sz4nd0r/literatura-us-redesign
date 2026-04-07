@@ -176,6 +176,3 @@ Los hombros del sacerdote se hundieron y una expresión profundamente abatida ap
 —Eric, no esperaba esto de ti. Creía que, si había un hombre marcado por Dios, ese eras tú. Y son cosas como estas las que alejan tu alma mil años de Dios. ¡Oh, qué generación perversa y estúpida!
 Eric se irguió con toda su presencia y miró hacia donde el nuevo día doraba las mazorcas de maíz e inundaba las montañas de luz. Cuando su nariz aspiró el aliento del rocío y de la mañana, un pedazo de la única poesía que había leído pasó por su mente y, medio para sí mismo, murmuró con un júbilo soñador:
 —“Y un día es como mil años, y mil años son como un día” [Pedro, 3.8, Nuevo Testamento].
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

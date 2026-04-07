@@ -204,6 +204,3 @@ Ludlow la miró con cierta dureza.
 —Si es amarga, ¿por qué quiere cambiarla?
 —Porque no me gustan las cosas amargas.
 Ludlow había alcanzado a entrever la verdad —esa verdad que el lector ha vislumbrado— y se quedó allí, emocionado y molesto al mismo tiempo. No sólo tenía un corazón, también una conciencia. «No es culpa mía», murmuró a esta última. Pero fue incapaz de añadir, de forma coherente, que sí era su desgracia. Sería muy heroico, muy poético, muy caballeroso, perder su barco de vapor, y sintió que estaría justificado hacerlo… por la insinuación de un hecho. Pero el motivo aquí era menos que un hecho: una idea; menos que una idea: una mera intuición. «Ha sido una pequeña y hermosa aventura romántica —pensó—. ¿Por qué estropearla? Jamás he conocido a una mujer como ella, y haber tenido la suerte de verla así… ¡es suficiente para mí!» Se llevó a los labios la mano de la joven, la besó y, después de soltarla, alcanzó la puerta y salió a grandes zancadas del jardín.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

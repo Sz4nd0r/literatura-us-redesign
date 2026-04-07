@@ -251,6 +251,3 @@ Se hizo de nuevo el silencio.
 —Ahora ya puedo bajar, mamá —dijo por fin el chico del tejado. Miró en ambas direcciones, como si fuera a cruzar la calle.
 —Ahora bajo.
 Y lo hizo, en pleno centro de la red amarilla que resplandecía al borde de la noche, igual que un halo demasiado grande.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

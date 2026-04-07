@@ -78,6 +78,3 @@ En consecuencia: Ella cambió. Su hijo nunca volvió a casa, por supuesto. Pero 
 —No —dijo—. La verdad ante todo. Ella irá hundiéndose. Una persona ha de tener carácter. Y ella no lo tiene.
 —No, papá —dije—. De veras. Ha conseguido un trabajo. En serio. Trabaja en esa clínica.
 —¿Cuánto tiempo crees que va a durar? —preguntó—. ¡Es una tragedia! ¡Tú también! ¿Cuándo mirarás las cosas cara a cara?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

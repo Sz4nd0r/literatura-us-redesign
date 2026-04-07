@@ -34,6 +34,3 @@ En primavera, con la llegada de las noches cálidas y cuando estaba en avanzado 
 En aquel campo estéril yacían miles de niños enterrados que luchaban por salir de la tierra. Luchaban por llegar hasta ella. La voz del arroyo que corría entre las piedras empezó a gritar. Ella permaneció mucho tiempo en aquel campo, temblando de dolor.
 Estaba sentada sobre una gran piedra, se levantó y se dirigió hacia la granja. Mientras caminaba por el sendero, delante de un silencioso establo, escuchó el lamento de las voces gritando en la oscuridad.
 Un solo niño luchaba en sus entrañas. Se metió en la cama y sintió sus pies dando patadas en los muros de su cárcel. Permaneció inmóvil, escuchando. Solo una pequeña voz parecía llegar hasta ella en el manto de silencio que cubría la noche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

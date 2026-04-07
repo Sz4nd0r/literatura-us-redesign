@@ -497,6 +497,3 @@ A excepción del resplandor blanco de la rompiente, el mar era un gran vacío at
 el viento. De entre la multitud de mujeres encantadoras flotaba el perfume de muchas flores. Más
 tarde flotó hasta ellas un cuerpo con la calmada expresión de un irlandés. La expedición del
 Foundling nunca pasará a la historia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

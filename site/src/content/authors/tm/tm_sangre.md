@@ -184,6 +184,3 @@ Ella le besó los ojos cerrados. Él la besó en el cuello y bajo la puntilla de
 Sieglinde seguía sentada en la piel, los labios abiertos, apoyándose en una mano, y se apartó el pelo de la cara. Siegmund, las manos a la espalda, se reclinó contra la cómoda blanca, balanceando las caderas y mirando al aire.
 —Pero Beckerath… —dijo ella, tratando de poner orden en sus pensamientos—. Beckerath, Gigi… ¿Qué va a pasar con él…?
 —Pues bien —dijo él, y por un instante las características de su estirpe destacaron fuertemente en su rostro—, debería estarnos agradecido. A partir de ahora va a llevar una existencia menos trivial.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

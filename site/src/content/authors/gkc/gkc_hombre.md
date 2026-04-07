@@ -163,6 +163,3 @@ Y diciendo esto, dio tres largos pasos y puso la mano sobre el hombro de un cart
 —Sí —continuó el sacerdote reflexionando—, nadie se fija en los carteros y, sin embargo, tienen pasiones como los demás hombres, y a veces llevan a cuestas unos sacos enormes donde cabe muy bien el cadáver de un hombre de pequeña estatura.
 El cartero, en lugar de volverse, como hubiera sido lo natural, se había metido, chapuzando y dando traspiés, en la zanja que corría junto al jardín. Era un hombre flaco, rubio, de apariencia ordinaria; pero al volver a ellos el azorado rostro, los tres vieron que era más bizco que un demonio.
 Flambeau volvió a sus espadas, a sus tapices rojos y a su gato persa, porque tenía muchos negocios pendientes. John Turnbull Angus volvió al lado de la confitera, con quien el imprudente joven logró arreglárselas muy bien. Pero el padre Brown siguió recorrien­do durante varias horas aquellas colinas llenas de nieve, a la luz de las estrellas y en compañía de un asesi­no. Y lo que aquellos dos hombres hablaron nunca se sabrá.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

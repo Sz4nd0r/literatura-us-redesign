@@ -31,6 +31,3 @@ Así a lo lejos, contra raso sol, se vio la fila de canoas, recta rápida, remad
 Era cierto, se supo.
 Llegaron. Proas en los fondos de la Hacienda del Calcañar, en un espejo, y atacaron, de navaja en carne. Tronó, corto, el tiroteo. Normán, vencedor, raptada en paz la mujer, en la ribera se encendió la fogata de fiesta. Mientras tanto las canoas todas se perdieron. Solo con sus pensamientos, Heterio continuó, en deporte de ir, río abajo, popero de proa, de ida, estaba herido, no la conducía, bogavagante; y su otro hijo había terminado en pleito, baleado.
 Adelante, en el crucero del Fervor, arrecife peligroso, la canoa tomó rumbo. Todavía él mismo la volteó entonces, boca abajo, en un completar. Libre, se escabulló en la espuma, braceante, alcanzó el matorral de la orilla, donde empantanado se aquietó. Lo encontraron — risueño muerto, muy viejo, agreste — la calidad de su persona.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

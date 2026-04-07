@@ -117,6 +117,3 @@ Con paso de enfermo, Schroder comenzó a bajar las escaleras. Movía la cabeza d
 —¡Yo no tengo la culpa! —balbució el doctor Lugosi—. ¡Ha sido una desgracia, una gran desgracia!
 —¡Adelante! ¡Adelante! —le incitaba mientras tanto el alcalde, como a un animal—. Agita la campanilla, te digo, ¡la gente debe saber que llegas!
 Schroder siguió bajando las escaleras. Poco después, salió por la puerta de la fonda y se encaminó lentamente a través de la plaza. Decenas y decenas de personas se echaban a los lados para dejarle pasar, retrocediendo a medida que él se acercaba. La plaza era grande, larga de atravesar. Con ademán rígido, agitaba ahora la campanilla, que emitía un sonido límpido y festivo: “tilín, tilín”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

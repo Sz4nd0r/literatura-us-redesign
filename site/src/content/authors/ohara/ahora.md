@@ -66,6 +66,3 @@ Una mañana Mary le dijo:
 —No, no pienses. Te he dicho que no es culpa tuya. Te lo he dicho para quedarme tranquilo.
 —Ahí te equivocas, Herbert. Mi culpa es haberte dejado hablar primero. Si tú no hubieras dicho nada, lo habría dicho yo. O te lo habría demostrado de alguna manera, y quizá lo hice. Bueno, al menos ya está dicho.
 —Sí, supongo que sí. En fin, ahora ya lo sabemos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

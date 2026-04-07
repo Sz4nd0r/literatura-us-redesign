@@ -2721,6 +2721,3 @@ entonces, a pesar de su humilde origen, Coquelin actuó con ese temperamento
 superior que siempre asocio a su recuerdo. No llegó a formar parte de los sans-culottes,
 como habría sido previsible. Así que los dos terminaron en el cadalso, junto al
 resto de los girondinos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

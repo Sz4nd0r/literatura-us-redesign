@@ -126,6 +126,3 @@ Decidí quedarme. Al cabo de una semana sonó el timbre de mi departamento y sal
 Casi como si lo adivinara, quise llevar mi mano al pómulo para protegerlo. En un segundo me convencí que sería un gesto inútil. Estévez me marcó la mejilla con su filo desde el pómulo hasta la comisura del labio superior derecho. Sentí el tajo profundo y caliente y me aguanté el dolor apretando los dientes.
 Luego puso la navaja sobre mi cama, y en el furor de la hemorragia percibí que la colcha se manchaba de una línea roja. Cruzó sus dedos y, en un gesto que le era característico, hizo sonar los huesos. Consideró algunos segundos con desgano mi sangre alborotada, y ciertamente satisfecho de su faena se encaminó a la salida. Allí puso las manos en los bolsillos para enfatizar su indiferencia.
 —Llegamos hasta aquí, porque si te mato, capaz que tu nombre aparezca mañana en la prensa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

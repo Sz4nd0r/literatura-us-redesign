@@ -121,6 +121,3 @@ Vi cómo caían unas gotitas oscuras al suelo; destacaban claramente sobre el fo
 Y, como no quería que su sangre manchase un edificio oficial, Zazúbrina hacía todo lo posible para que las gotas fueran a parar al suelo de tierra, sin alcanzar en ningún caso la pared.
 Cómo se rieron de él…
 A partir de aquel día el gato no volvió a aparecer. Y Zazúbrina ya no tuvo que compartir con nadie la atención de los presos de aquella cárcel.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

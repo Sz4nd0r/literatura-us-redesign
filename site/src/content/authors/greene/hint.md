@@ -77,6 +77,3 @@ Los negros hornos de Bedwell Junction aparecieron a lo largo de la línea. El ca
 —Oh, bueno —dijo vagamente—, para mí fue un extraño comienzo, aquel asunto, cuando lo pienso bien —pero nunca habría sabido lo que quería decir si su abrigo, al levantarse para tomar su maleta de la rejilla, no se hubiera abierto y revelara el alzacuello de un sacerdote.
 Dije: “Supongo que en su opinión le debe mucho a Blacker”.
 —Sí —dijo—. Soy un hombre muy feliz, ¿comprende?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

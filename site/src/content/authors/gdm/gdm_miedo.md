@@ -219,6 +219,3 @@ El hombre de rostro moreno se calló; luego añadió:
 corrí ningún peligro, pero preferiría volver a empezar todas las horas
 en las que me enfrenté con los peligros más terribles, antes que el
 minuto único del disparo sobre la cabeza barbuda de la mirilla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

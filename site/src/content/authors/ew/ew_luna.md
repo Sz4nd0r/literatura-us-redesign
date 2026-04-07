@@ -415,6 +415,3 @@ Sin embargo, de pie, allí, junto a la tienda inclinada, con el brazo lleno de b
 Pero Jinny Love pensaba en términos de futuro.
 —Voy a contarlo mañana en Morgana. Es el explorador más presumido de toda la tropa, y patizambo. —Luego añadió—: Tú y yo no nos casaremos nunca.
 Después subieron para unirse a las que cantaban.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

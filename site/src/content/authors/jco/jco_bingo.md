@@ -127,6 +127,3 @@ Llega al primer rellano de la escalera de incendios y sufre un terrible ataque d
 —Oh, Joe Pye —murmura—, oh, Cristo bendito, qué has hecho…
 Llora, se sorbe los mocos y finalmente consigue abrir el cierre de su bolso, el cierre de metal cromado que imita el oro, y mete la mano dentro, sollozando, para ver si…, pero ya no está…, ha desaparecido…, ah, no, allí está; allí está después de todo, doblado una y otra vez y un poquito arrugado (se había sentido tan incómoda que se apresuró a guardarlo dentro de su bolso): el cheque de 100 dólares. Un cheque en el que debería haber una gran firma negra, unas letras elegantes y orgullosas, la firma de Joe Pye; si al menos pudiera enfocar sus pupilas el tiempo suficiente para verla…
 —Joe Pye, ¿qué clase de personas? —gimotea, parpadeando—. Nunca oí hablar de… ¿Qué clase de personas, dónde…?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

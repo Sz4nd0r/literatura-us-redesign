@@ -266,6 +266,3 @@ Kind adelantóse para intervenir. Nunca había visto que se le pegara a un hombr
 —¡Con mayor razón, pues si hemos de intervenir, siempre será en favor de los que pegan!
 La sirena de un barco cuajó su sonido en la distancia. El manco no dijo nada, pero cuando estuvo en la nave blanca que había entrado a cargar correspondencia, comunicó a Geo su decisión de volver a Nueva Orleáns. Ya su equipaje estaba a bordo, y al despedirse, sacando la voz sobre el barullo del cadenaje que levantaba el ancla, gritó en inglés:
 —¡Somos el hampa, el hampa!… —Ya no le oían, sólo se veía su mano de muñeco—. ¡El hampa de una nación de las más nobles tradiciones!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

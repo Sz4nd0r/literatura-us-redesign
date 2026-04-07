@@ -38,6 +38,3 @@ Entonces el joven miró a su padre, me guiñaron el ojo y volvieron a reír.
 Pero el joven negó con la cabeza y reía.
 —Papá nunca hará nada —dijo bajito.
 En efecto, no hicieron nada, y en mi casa se siguió armando follón sobre los desórdenes de empleados y obreros a quienes había estropeado la vida fácil de los años de guerra. Yo escuchaba y callaba, y pensaba en las huelgas como en una fiesta que permitía a los obreros ir de paseo. Pero una idea —al principio no fue sino una sospecha— se me habíametido en la sangre: trabajar no era un placer ni siquiera en el campo y esta vez sabía que la necesidad de ver la cosecha y llevársela a casa era lo que impedía a los labriegos hacer algo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

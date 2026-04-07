@@ -155,6 +155,3 @@ espalda para que las tablas del piso no crujan en la casa despojada. Pero
 nosotros queremos arrancar el piso para que se levante contra nuestra inocente
 rudeza y derramaremos sangre negra en esas botas que han aprendido a andar sin
 crujidos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

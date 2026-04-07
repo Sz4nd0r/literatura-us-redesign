@@ -140,6 +140,3 @@ escuadrón del estado mayor, y nos fuimos al pajar a dormir. Allí dormimos de
 seis en seis, entrelazando las piernas para calentarnos bajo aquel techo
 agujereado que dejaba pasar las estrellas. Yo veía mujeres en el sueño. Sin
 embargo, mi corazón, rojo de muerte, suspiraba y sangraba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

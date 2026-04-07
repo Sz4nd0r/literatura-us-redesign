@@ -49,6 +49,3 @@ Ahora, en parte por el calor y el sofoco de aquel cuchitril, estaba fuera de mí
 —¡Me muerde!
 Después pasos, voces en el jardín, voces en la casa, puertas que se batían, conminaciones. Por último se abrió la puerta del guardarropa: la habitación estaba iluminada, varias personas sujetaban a Silvano por los brazos y, ante mí, estaban los consabidos carabineros.
 Luego reconstruí todo lo sucedido: Silvano, desgraciado y tonto, queriendo rehacerse a toda costa, había metido los dedos en la boca del muerto con la idea de arrancarle los dientes de oro. Como si fueran flores que se cogen sin más, y no hicieran falta unas tenazas de dentista. El muerto, ante la sacudida, había cerrado la boca y él, aterrorizado, había chillado. Pero todo esto lo pensé más tarde, en la Comisaría. De momento, miré a Silvano y, con rabia concentrada, sacudí la cabeza: con aquella nariz no había nada que hacer; y toda la culpa era mía, que no lo había comprendido antes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

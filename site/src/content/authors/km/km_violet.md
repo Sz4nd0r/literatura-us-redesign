@@ -82,6 +82,3 @@ Se puso de un rojo subido y se mordió los labios. Lo cierto era que empezaba a 
 —¿Y eso es todo? —exclamé—. ¡No querrás decir que eso ha sido todo!
 —¿Qué otra cosa iba a ser? ¿Qué diablos era lo que esperabas? ¡Qué rara eres! ¿Cómo me miras de ese modo?
 Y en la larga pausa que siguió oí de nuevo la fuentecilla, medio risueña, medio maliciosa. Debía de estarse riendo de mí, no de Violet.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

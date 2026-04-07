@@ -92,6 +92,3 @@ N. del T.:
 [3] «Old Blood-and-Thunder», que también se ha respetado sin traducir, tiene un significado similar a «El viejo/ tío Sangre-y-Trueno».
 [4] «Battleblast» era otra palabra compuesta: «battle» tiene el significado de «batalla» y «blast» indica «golpe de viento, trompetazo, sacudida…»
 [5] «Old Stony Phiz» significa literalmente «Vieja Fisonomía Pétrea» después de desarrollar la abreviatura «Phiz». Es de observar la intencionalidad fonético-semántica del autor al contraponer la expresión Great Stone Face (el Cran Rostro de Piedra) a Old Stony Phiz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

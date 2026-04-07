@@ -509,6 +509,3 @@ El sufrimiento que siguió fue inmenso. Pero a la mañana siguiente ya no esper�
 quemaba como el fuego y todavía hoy me brinca en la garganta cuando pienso en el pasado: “Él te quita los vicios, ¿verdad?”.
 Durante mucho tiempo me sentí aplastado, como cuando de niño me dormía apaleado y llorando. Pensaba en Mina y su esposo como en dos seres adultos que tienen un secreto
 suyo y a quienes un crío solo puede mirar de lejos ignorando los goces y los dolores que constituyen su vida. Encontré trabajo también para las largas mañanas en mi garaje y poco a poco me resigné mientras pasaba el verano. Ahora que me he hecho viejo y he aprendido a sufrir, Mina ya no está.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

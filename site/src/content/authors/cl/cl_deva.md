@@ -55,6 +55,3 @@ Había ciertas cosas buenas porque eran casi nauseabundas: el ruido como el de u
 Era la tristeza.
 Los dedos del pie jugaron con la chinela. El piso no estaba demasiado limpio. Qué descuidada y perezosa me saliste. Mañana no, porque no estaría muy bien de las piernas. Pero pasado mañana habría que ver cómo estaría su casa: la restregaría con agua y jabón hasta arrancarle toda la suciedad, ¡toda!, ¡habría que ver su casa!, amenazó colérica. Ay, qué bien se sentía, qué áspera, como si todavía tuviese leche en las mamas, tan fuerte. Cuando el amigo del marido la vio tan bonita y gorda, de inmediato sintió respeto por ella. Y cuando ella se sentía avergonzada no sabía dónde tenía que fijar los ojos. Ay, qué tristeza. Qué habría de hacer. Sentada en el borde de la cama, pestañeaba con resignación. Qué bien se veía la luna en esas noches de verano. Se inclinó un poquito, desinteresada, resignada. La luna. Qué bien se veía. La luna alta y amarilla deslizándose por el cielo, pobrecita. Deslizándose, deslizándose... Alta, alta. La luna. Entonces la grosería explotó en súbito amor; perra, dijo riéndose.
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

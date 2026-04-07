@@ -234,6 +234,3 @@ Laurie le echó un brazo al hombro.
 —No llores —dijo su voz cálida, cariñosa—. ¿Ha sido horrible?
 —No —sollozó ella—. Ha sido maravilloso. Pero Laurie… —Se detuvo y miró a su hermano—. ¿No es la vida… —balbuceó—, no es la vida…? —Pero era incapaz de explicar lo que la vida era. No importaba. Laurie la había comprendido.
 —Lo es, querida —dijo él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

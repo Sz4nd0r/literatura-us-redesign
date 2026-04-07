@@ -185,6 +185,3 @@ Podría haber sido allí. Allí podrían haber estado las calles de la compañí
 El taxista me miraba con indulgencia mientras yo tropezaba, hundido hasta las rodillas en la maleza, buscando mi juventud en una tabla, unos restos de techumbre o una lata de tomate oxidada. Intenté usar como orientación un grupo de árboles que me resultaba vagamente familiar, pero cada vez era más de noche, y no podía estar seguro de que aquéllos fueran los árboles que yo creía.
 —Van a reconstruir el viejo hipódromo —gritó Ailie desde el coche—. Tarleton, a la vejez, se está volviendo presumida.
 No. No parecían, pensándolo bien, los árboles que yo había creído. De lo único que podía estar seguro era de que aquel lugar, tan lleno una vez de vida y esfuerzo, había desaparecido, como si no hubiese existido nunca, y que, dentro de un mes, Ailie también habría desaparecido y el Sur, para mí, se quedaría vacío para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

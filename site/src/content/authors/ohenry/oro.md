@@ -60,6 +60,3 @@ Después de que la policía hubo reconvenido a James Williams por imitar a un la
 —Si puedes explicarme —comenzó él en forma algo dura— ¿por qué tú…?
 —Querido —lo interrumpió—, escucha. Ha sido una hora de tristeza y prueba para ti. Hice eso por ella, quiero decir por la muchacha que me habló en el vehículo. Yo estaba tan feliz, Jim, tan feliz contigo, que no me atreví a negar esa felicidad a otro. Jim, esos dos habían casado recién esta mañana, de manera que procuré dejarlo escapar. Mientras ellos luchaban contigo, lo vi deslizarse por detrás de un árbol y atravesar aprisa el parque. Eso es todo, querido; me vi obligada a hacerlo.
 Así, una hermana del grupo de oro puro conoce a otra que se coloca en la luz encantada que brilla una sola y breve vez para cada uno. El hombre simple se entera de las bodas por el arroz y la corbata de satén. Pero la desposada conoce otra desposada echándole una simple ojeada. Y entre ellas se establece de inmediato la armonía y el entendimiento en un lenguaje que los hombres y las viudas no conocen.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

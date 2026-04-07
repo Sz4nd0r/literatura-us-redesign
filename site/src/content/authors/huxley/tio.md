@@ -342,6 +342,3 @@ Dos o tres veces dieron distintas direcciones. Pero las patrañas de las casas d
 Mi tío cerró los ojos y dejó escapar un suspiro mientras se pasaba la mano por la frente. ¿Qué espantosas imágenes bullían dentro de su cabeza? Hubiera preferido creerla muerta.
 —Y sin embargo, el indio… —murmuró—, el indio siempre tenía razón; la tuvo en todo lo que dijo…
 Y puede ocurrir que todavía la tenga. ¿Quién sabe?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

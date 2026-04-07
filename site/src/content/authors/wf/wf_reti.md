@@ -300,6 +300,3 @@ Siguieron su camino. Había vuelto Louvinia; ella y Ringo estaban detrás de nos
 —¡Qué bastardos, yaya! —dije—. ¡Qué bastardos!
 Y luego lo repetimos los tres, yaya y yo y Ringo, diciendo al unísono:
 —¡Qué bastardos! ¡Qué bastardos! ¡Qué bastardos!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

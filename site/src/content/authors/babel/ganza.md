@@ -49,6 +49,3 @@ chimenea y se desvanecía; en el establo se oía el bramido de los bueyes
 abandonados. El incendio resplandecía como un domingo. Prischchepa desató el
 caballo, saltó a la silla, se arrancó un mechón de pelos, los arrojó al fuego y
 se alejó al galope.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

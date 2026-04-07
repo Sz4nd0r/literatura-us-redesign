@@ -97,6 +97,3 @@ Corrimos hacia la granja. El fuego había prendido en todo el establo y no se po
 —Vámonos —dijo Pino—; vámonos.
 Esta vez no se equivocaba. No teníamos que ser los primeros allí arriba. Y además temblaba como una hoja. Estaba todo arañado. Lo agarré y, pasando por los bosques, fuimos a encerrarnos en casa.
 El fuego lo apagaron los demás. Se ve que Roia conocía su oficio, porque de Ganola no encontraron gran cosa. Pero del caballo menos aún y se explicaban el incendio diciendo que había matado a Ganola de una patada y tirado la linterna. Estuvieron buscándolo mucho rato por estos montes, pero estoy convencido de que Roia lo ha cogido y se lo ha llevado. La gente, en cambio, y Pino también, dicen que el caballo anda por los bosques, y algunos días pueden oírlo pasar por las cimas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

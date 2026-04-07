@@ -296,6 +296,3 @@ La señora Webster le dijo que le vería a la mañana siguiente, muy temprano, c
 —¡Perfecto! —exclamó Carlyle, como si hubieran acordado algo importante.
 La pareja de ancianos se dirigieron despacio a la acera y subieron a la furgoneta. Jim Webster se inclinó bajo el salpicadero. La señora Webster miró a Carlyle y le saludó con la mano. Entonces, mientras estaba de pie junto a la ventana, sintió que había terminado algo. Tenía que ver con Eileen y con su vida anterior. ¿La había saludado alguna vez con la mano? Claro que sí, estaba seguro, pero ahora no se acordaba. Comprendió que todo había concluido y se sintió capaz de dejarla marchar. Estaba convencido de que su vida en común había transcurrido del modo en que lo había descrito. Pero era algo del pasado. Y ese pasado —aunque le hubiese parecido imposible y hubiera luchado contra ello— ahora se convertiría en parte de él, igual que todo lo que ya había dejado atrás.
 Cuando la furgoneta arrancó con dificultad, levantó el brazo una vez más. Vio a la pareja de ancianos inclinarse brevemente hacia él cuando se alejaban. Entonces bajó el brazo y se volvió hacia sus hijos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

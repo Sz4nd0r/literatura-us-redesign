@@ -246,6 +246,3 @@ Fifi acabó de beberse su limonada; la pajita hizo un gorgoteo con el azúcar de
 —Tenemos que volver para testificar en el juicio, y nos quedaremos unos meses más —se levantó—. Adiós, tengo que probarme un vestido.
 No la habían atrapado, todavía no. Las Furias se habían apartado un poco y esperaban al fondo del escenario con cierto rechinar de dientes. Tenían tiempo de sobra.
 Pero, mientras Fifi atravesaba el vestíbulo contoneándose, con la cara radiante de nuevas esperanzas, y salía a buscar su destino aunque pareciera que iba al couturier, la Furia de más edad y mayor experiencia tuvo ciertas dudas de que, después de todo, consiguieran atrapar a Fifi algún día.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

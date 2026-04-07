@@ -493,6 +493,3 @@ Aquellos importantes personajes se congratulan. El maletín es transportado al c
 Y Emilio encarga, quitándose de la boca un cigarrillo devorado a medias:
 —¡Dos vodkas…, dos!
 En cuanto a Barbet, éste puede esperar en el Vieux Beaujolais, donde el vino tinto no debe de ser malo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

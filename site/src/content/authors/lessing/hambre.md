@@ -4248,6 +4248,3 @@ Jabavu le da las gracias y le dice:
 El señor Tennent le dedica su sonrisa seca y dubitativa, se va y el celador cierra la puerta.
 Jabavu se sienta en el suelo con las piernas estiradas. Ya no ve las paredes grises de la celda, ni siquiera piensa en el juzgado, o en la cárcel que le espera más adelante.
 “Nosotros”, dice Jabavu una y otra vez. Nosotros. Y es como si en sus manos vacías sintiera las manos cálidas de los demás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

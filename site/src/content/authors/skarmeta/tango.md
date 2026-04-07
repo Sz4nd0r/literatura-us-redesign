@@ -126,6 +126,3 @@ cuando amanezca definitivamente, y tendrás tu propia repugnancia, tu
 conciencia latinoamericana, tu traje barato, pero yo estaré ahí donde
 tú dices, en una nación remota, ahí donde tu dices en otra galaxia,
 ahí lo tienes campañero: ese es el final del tango.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

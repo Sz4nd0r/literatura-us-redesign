@@ -65,6 +65,3 @@ Sus eses seguían siendo más mojadas de lo normal.
 —Bien —dije—. De acuerdo. Lo entiendo.
 —¿Ah, sí? —dijo—. Bueno, eso está muy bien. —Entonces Mack simplemente se alejó de mí y comenzó a decirle algo a la muchacha rubia que estaba en medio de la multitud, sonriendo. Lo que dijo fue—: ¡Uaau, vaya, vaya, vaya, tienes un aspecto imponente!
 Y yo seguí andando hacia Billy’s, hacia aquel nuevo amigo con el que pasaría la velada. Naturalmente, me había equivocado con la conexión de los momentos, con lo que era preliminar y lo que era primario. Fue un error, un error que no volvería a cometer. Aquello no había sido una buena idea. Y como esta es una ciudad muy grande, mucho más grande que, pongamos, Saint Louis, supe que no volvería a verle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -244,6 +244,3 @@ lucharan; el cuerpo del morocho es un arco, Celaya está encorvado sobre
 gemidos y la voz quebrada de Celaya se mezclan, son un solo jadeo violento
 mientras Renzi se aplasta contra el cemento, cara a la pared, hecho un
 ovillo entre las mantas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -67,6 +67,3 @@ Un cuarto de hora más tarde dije adiós a Mardari Apollónich. De camino a la a
 —¿Por qué te mandó pegar?
 —Me lo tenía merecido, buen amo, me lo tenía merecido. Aquí no le pegan a uno por nada. No es así como tenemos organizadas las cosas, oh, no. Nuestro amo no es así, nuestro amo… No encontrará usted otro amo como el nuestro en ningún lugar de la provincia.
 —¡Vámonos! —le dije a mi cochero. “¡En fin, eso sí que es la antigua Rusia!”, me dije mientras me dirigía a casa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

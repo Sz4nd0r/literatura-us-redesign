@@ -100,6 +100,3 @@ Lelinca contempló los carbones encendidos y vio que los muros de la cocina se a
 El carbón encendido se movió de lugar y Lelinca supo que estaba en la mano de Tefa y que la criada no permitiría que se apagara hasta que le hubiera hecho la limpia con las ramas de pirú.
 —Desobedeciste a tus padres. Te fuiste corriendo ese domingo. Anduviste en parajes lejanos, abandonada de tus padres y contaminada por extraños, por eso me quedé yo a esperarte en la cocina. Así se lo prometí a tu santa madre, cuando iba a despuntar el día de San Pedro y San Pablo. Pensaste sólo en vanidades… Primero iremos al Camposanto, para que les rindas cuentas a tus padres, que durante tantos años te estuvieron esperando y derramaron lágrimas de pena. Después, iremos a buscar las ramas de pirú y luego, limpia, llamaremos humildemente a las Puertas de Oro y Plata de la Gloria. Si no te permiten entrar, volveremos aquí, a esta cocina oscura, en donde te expliqué los dos caminos, el de las rosas y el de las espinas y que tú no quisiste escuchar y sembraste la desdicha en tu familia…
 Dijo la voz de Tefa, que va guiando a Lelinca entre las sombras…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

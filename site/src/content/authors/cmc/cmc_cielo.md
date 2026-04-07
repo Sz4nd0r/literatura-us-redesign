@@ -168,6 +168,3 @@ La señorita Whelan se mantuvo plácidamente en su línea de visión cuando se m
 Constance agitó dos veces la cabeza sobre la almohada.
 —Ya verás. Una vez que ya estés dentro de casa te encontrarás perfectamente.
 Sus manos, tan flácidas y descoloridas como sebo, descendieron sobre la caliente humedad que le corría por las mejillas. Y Constance nadó sin respirar en un azul tan amplio e indiferente como el del cielo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

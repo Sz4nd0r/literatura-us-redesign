@@ -137,6 +137,3 @@ no se le pasó jamás por la cabeza someterse al suttee, sino todo lo contrario�
 ejército norteamericano, I. O. designa «Initials Only», es decir, «iniciales».
 [3] La frase es una muletilla que aparece a menudo en The Virginian (1902), de Owen
 Wister, un libro muy querido en toda la familia Faulkner.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

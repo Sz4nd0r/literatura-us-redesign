@@ -1018,6 +1018,3 @@ de mi partida. Mr. Mixter se había levantado del suelo y estaba sirviéndole el
 a la condesa. De vuelta, mientras pasaba junto a la iglesia anabaptista,
 reflexioné que la pobre Miss Spencer había estado en lo cierto cuando presintió
 que todavía llegaría a ver algo de esa querida y vieja Europa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

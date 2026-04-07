@@ -229,6 +229,3 @@ Cuando, al cabo de un rato, volví a la carga, decidió sermonearme un poco:
 Sin embargo, mi comentario había tocado un tema al que ella concedía, quizá sin proponérselo, mucha importancia. Se quedó meditando, y al cabo de un rato me confesó que Mene era demasiado austera para sí misma, y muy benévola para con su madre. No pude por menos de coincidir con ella; pero le dije que era demasiado severa consigo misma.
 Gertrud me miró; la red de delicadas arrugas de su cara se contrajo. En sus ojos brillaron un momento dos lágrimas menudas. Me cogió la mano y me la apretó.
 —¿Sabes una cosa, Vilhelm? —dijo—. ¡No lleva camisa!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -62,6 +62,3 @@ El enfermo se estremece y se sobresalta.
 —¡Esto es una canallada, una vileza! —se indignan los viajeros— ¡Váyase de aquí! ¡Le va a costar cara esta burla! ¡Fuera!
 Podtiaguin hace un gesto de desaliento con la mano, suspira y sale. Se dirige anonadado al vagón de servicio, se sienta ante la mesa y se lamenta: “¡Qué público! ¡Cualquiera los contenta! ¡Ya puede uno cumplir con su obligación, esforzarse! Al final, lo quieras o no, acabas desentendiéndote de todo y dándote a la bebida… Si no haces nada, se enfadan; si te pones a trabajar, lo mismo… ¡Me tomaré una copita!”.
 Podtiaguin se bebe media botella de un trago y deja de pensar en el trabajo, en el deber y en la honradez.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

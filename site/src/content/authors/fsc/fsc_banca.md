@@ -233,6 +233,3 @@ Edward se levantó de pronto. Notaba cómo la apatía inmensa y trágica de Jose
 —Adiós.
 Se sentía muy cansada y se echó boca abajo en el sofá. Era terriblemente consciente de que todas las frases hechas son verdad: nadie puede gastar y poseer a la vez. Había tenido el amor de su vida al alcance de la mano, pero, cuando buscó en su cesta vacía, no encontró ni una flor que poder ofrecerle, ni una. Se echó a llorar.
 —¿Qué me he hecho a mí misma? —sollozó—. ¿Qué he hecho? ¿Qué he hecho?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

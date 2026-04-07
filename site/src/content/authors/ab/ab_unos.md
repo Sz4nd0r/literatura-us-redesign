@@ -65,6 +65,3 @@ Antes de que el hombre que estaba leyendo el manuscrito hubiera terminado, la ve
 De The Times
 “Ayer los comisarios del lunatismo internaron en un asilo al sr. James R. Colston, un escritor de cierta reputación local, conectado con el Messenger. Se recordará que en la noche del 15 corr., el Sr. Colston fue dado en custodia por uno de sus compañeros-huéspedes a la Casa Baine,
 quien lo ha observado actuando de modo muy sospechoso, desnudando su garganta y afilando una navaja, probando en ocasiones su filo y, realmente, cortando al través la piel de su brazo, etc. Siendo entregado a la policía, el hombre infortunado hizo una resistencia desesperada, y desde entonces ha sido tan violento, que ha sido necesario mantenerlo con una camisa de fuerza. La mayoría de nuestros estimados, contemporáneos otros escritores sigue en libertad.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -96,6 +96,3 @@ Y luego dijo:
 —Harry.
 Harry se disponía a encender un cigarrillo con la última cerilla cuando de pronto le empezaron a temblar las manos. La cerilla se apagó, y él se quedó con la caja de cerillas vacía y el cigarrillo en las manos, mirando fijamente hacia la vasta arboleda que se extendía al fondo de la radiante pradera.
 —Harry, tenemos que amarnos —dijo—. Lo que tendremos que hacer es sólo amarnos —dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

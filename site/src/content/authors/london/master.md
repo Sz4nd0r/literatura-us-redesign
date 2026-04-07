@@ -149,6 +149,3 @@ Los habitantes de la aldea dejaron de arrojar piedras para observar la escena.
 —No, no entra en mis costumbres, buena Hooniah —dijo Scundoo extendiendo la mano hacia los cobertores—. Y para mostrar que no soy exigente, me conformaré con éste. ¿No soy un hombre sabio, hijos míos?
 —¡Sí, Scundoo, tú eres sabio! —gritaron al unísono.
 Y Scundoo, el Maestro del Misterio, desapareció en la noche con el cobertor al hombro y Jelchs, la graja, posada en el brazo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

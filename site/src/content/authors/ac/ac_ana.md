@@ -123,6 +123,3 @@ Modest Alekseich se llevó dos dedos a los labios para no soltar una carcajada y
 Aludía a la Orden de Vladimir de cuarto grado y ya imaginaba cómo referiría por todas partes este juego de palabras tan feliz en su agudeza y osadía; y hubiera dicho alguna otra sutileza igualmente feliz, pero Su Excelencia volvió a sumirse en su periódico y le despidió con un movimiento de cabeza.
 Anna se paseaba en troika por doquier, iba de caza con Artinov, hacía papeles en obras teatrales de un acto, asistía a cenas y visitaba a su familia cada vez con menos frecuencia. Ahora los miembros de ésta comían solos. Piotr Leóntich bebía más que antes, no había dinero y el armonio hacía ya tiempo que lo habían vendido para pagar deudas. Los muchachos ya no dejaban al padre salir solo e iban tras él para que no cayera. Y cuando por la calle Staro-Kievskaia pasaba Anna, en un coche tirado por dos caballos con un tercero de repuesto y con Artinov haciendo de cochero en el pescante, y se encontraba con su familia, Piotr Leóntich se quitaba el sombrero de copa y se preparaba a decirle algo a gritos, pero Petia y Andriusha le cogían del brazo y le decían con voz suplicante:
 —No debes, papá…, ¡ya basta, papá…!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

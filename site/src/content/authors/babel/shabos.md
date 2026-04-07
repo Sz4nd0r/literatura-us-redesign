@@ -89,6 +89,3 @@ Así, pues, el ventero se desnudó y se arrimó al árbol. Guérshele subió al 
 Aquí Guérshele cargó el fardo a la espalda, soltó el caballo y echó a andar por el camino que llevaba recto a casa del santo rabino Borujl.
 Ya había amanecido. Cantaban los pájaros con los ojos cerrados. El caballo del ventero, cabizbajo, arrastró el carro hasta donde había dejado a su dueño.
 Este esperaba arrimadito al árbol, desnudo bajo los rayos del sol. El ventero tenía frío y continuamente cambiaba de pie.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

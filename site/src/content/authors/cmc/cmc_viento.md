@@ -282,6 +282,3 @@ Convertido en una figura encorvada y ojerosa de mirada brillante y perdida, Ken 
 Un policía a caballo pasó por la calzada cerca de él. El aliento del caballo se hizo visible en el aire frío e inmóvil, y sus ojos eran morados, transparentes.
 —Oiga, agente. Tengo que presentar una denuncia. Mi mujer alzó las tijeras contra mí…, apuntando a esta vena azul. Luego abandonó el apartamento. Mi mujer está muy enferma…, loca. Habría que ayudarla antes de que suceda algo horrible. No ha querido cenar nada…, ni siquiera un higadito de pollo.
 Ken siguió avanzando con dificultad, y el agente se lo quedó mirando mientras se alejaba. La meta de Ken era tan poco controlable como el viento que nadie ha visto; y él pensaba sólo en sus pasos y en el camino inmaculado que tenía por delante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

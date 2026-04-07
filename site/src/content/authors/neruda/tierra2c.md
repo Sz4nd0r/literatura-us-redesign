@@ -148,6 +148,3 @@ Es como un huracán de gelatina,
 como una catarata de espermas y medusas.
 Veo correr un arco iris turbio.
 Veo pasar sus aguas a través de los huesos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

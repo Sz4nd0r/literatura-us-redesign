@@ -126,6 +126,3 @@ McTavish extrajo un saco hecho de estera y vació su contenido en el suelo. Davi
 —No sé cómo ocurrió —se oyó la voz cansada del escocés—. Pero me figuro que se adentraron en la jungla para perseguir al viejo demonio.
 —¿Y dónde está Koho? —preguntó Grief.
 —De vuelta en la jungla, borracho como una cuba. Por eso pude recuperar las cabezas. No se tenía en pie. Se lo llevaron a cuestas de la aldea en cuanto llegué. Le agradecería mucho que me librase de estas cabezas. —Hizo una pausa y suspiró—. Supongo que decidirán enterrarlas. Pero en mi opinión, serían un buen recuerdo. Cualquier; museo respetable pagaría cien libras por cada una. Tómese otra copa. Lo veo un poco pálido. Vamos, tómesela de un trago y, si quiere mi consejo, señor Grief, póngase muy serio e impida que nadie gaste más bromas a los negros. Siempre surgen problemas y resulta una diversión muy cara.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

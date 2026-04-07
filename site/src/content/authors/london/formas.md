@@ -129,6 +129,3 @@ ESTAR SIEMPRE SENTADO en una silla resulta agotador. Transcurren las semanas, lo
 *
 ÉL YA NO VIENE. No existe la eternidad de las formas. Lo he demostrado. He permanecido en esta silla durante casi dos años y no lo he visto ni una sola vez. Cierto, sufrí mucho durante un tiempo. Pero está claro que lo que creía ver solo era una alucinación. Él nunca volvió. Sin embargo, no abandono la silla. Tengo miedo de abandonarla.
 (1910)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

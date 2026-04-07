@@ -103,6 +103,3 @@ Pero, en el Coliseo, por fin apareció el cliente de mis sueños: un jorobado co
 —¿Qué dice? —me preguntó al subir.
 —Nada... ¿A dónde vamos?
 Me dijo la dirección, encendí el motor y partí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -39,6 +39,3 @@ Era necesario seguir jugando con el niño, sentir que la pelota le golpeaba la b
 El niño, puro y sencillo, tan cerca de la casa y el horror; el niño, lo único que subsistía de los padres en aquel momento y ella tenía que ser padre y madre mientras durara la pesadilla infinita, las voces groseras en la casa, la risa nerviosa del chico en el árbol.
 Porque si prolongaba sin pausa el monótono juego, ambos quedarían apartados del tiempo, nunca rozados por la suciedad del mundo.
 1986
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

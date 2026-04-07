@@ -216,6 +216,3 @@ Y así fue como llamó Khem Singh al postigo de la fortaleza. Conducido a la pre
 Pocos días después vi a Khem Singh por la primera vez como Kehm Singh. El me habló suponiendo que había habido una inteligencia entre los dos.
 —Lo hizo usted muy bien, Sahib. Yo admiré la astucia con que usted me llevó audazmente hasta ponerme a la vista de los soldados, que me habrían hecho pedazos al reconocerme. Hay actualmente en el castillo de Ultargaid un prisionero cuya evasión podría auxiliar fácilmente un hombre de la sangre fría de usted. Voy a trazarle aquí en la arena la posición del castillo...
 Yo, entre tanto, pensaba cómo llegué a ser efectivamente el visir de Lalun.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

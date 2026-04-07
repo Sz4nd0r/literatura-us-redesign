@@ -130,6 +130,3 @@ Ella miró a la india, a sus ojos amarillos como las cuencas de los ojos de las 
 La mujer comprendió que nunca sabría nada de aquella otra mujer.
 —Fue un sueño raro, Anastasia -—dijo.
 —Sí niña —dijo la india.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

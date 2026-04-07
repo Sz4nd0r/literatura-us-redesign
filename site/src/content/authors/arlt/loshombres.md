@@ -263,6 +263,3 @@ aguardiente de palma, y le dijo al flamante juez:
 que haga ejecutar al pequeño caníbal que usted tiene que juzgar, pero
 que esta historia le sirva para ponerse en guardia, que jamás bebió vino
 ni mordió carne.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

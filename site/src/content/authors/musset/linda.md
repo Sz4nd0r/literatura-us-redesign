@@ -263,6 +263,3 @@ Sara consintió. Ocuparon su puesto y siguieron hablando de Ermelinda. Pero de v
 Cuando llegó la hora de retirarse se levantaron los dos con cierta solemnidad.
 —Me habéis dado vuestra palabra —dijo ella—, y cuento con vos para salvar a mi hermana. Si os vais —añadió apretándole la mano sin fijarse en que la observaban—, si os vais, seremos dos a pensar en el pobre viajero.
 Se despidieron con estas palabras y Gilberto partió al otro día.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

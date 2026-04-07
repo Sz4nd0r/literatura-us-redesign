@@ -126,6 +126,3 @@ El otro respondió con una carcajada. Un guerrero joven se dispuso a arrojar su 
 —Sí, el dios de mis antepasados.
 Movió el hacha para agarrarla mejor. Baptiste el Rojo dio la señal y la lanza atravesó el pecho de Stockard. Sturges Owen vio la hoja de marfil asomar por la espalda del hombre, lo vio tambalearse, reír y partir la vara al caer sobre ella. Luego descendió hacia el río para llevar a los rusos el mensaje de Baptiste el Rojo, en cuya región no existía el bien.
 [1899]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

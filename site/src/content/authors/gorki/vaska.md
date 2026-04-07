@@ -262,6 +262,3 @@ Y Aksinia seguía chillando:
 Las chicas la rodearon, mirándola a la cara, observando las lágrimas que manaban de sus ojos.
 Y Lida, inclinada sobre ella, intentaba aplacarla con aspereza:
 —¿A qué vienen esos berridos, Ksiushka? Ni que se hubiera muerto… Pero si puedes ir a verlo… Mira, ¡mañana mismo puedes ir!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

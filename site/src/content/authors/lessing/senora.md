@@ -169,6 +169,3 @@ El calor del triunfo le llegó hasta la médula; sonrió. Había recuperado a su
 —Haz lo que te dé la gana —le dijo, y se dirigió a la puerta.
 —Adiós, buenas noches, que no te piquen los chinches —dijo ella, según un ritual de la infancia, del año anterior.
 —Oh, no seas niña —respondió él. Cruzó la repugnante oscuridad de la habitación de sus padres sin pensar nada más que: pobrecillos, no tienen remedio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

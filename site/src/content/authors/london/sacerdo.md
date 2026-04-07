@@ -200,6 +200,3 @@ El padre Roubeau apartó la pipa de la boca y reflexionó.
 —No. Kid, lo he pensado mucho y no puedo verlo de otra manera. Yo lo sabía y aun así la hice volver con él.
 El trino nítido de un petirrojo les llegó desde el bosque de la orilla, la llamada de una perdiz resonó a lo lejos y un alce se metió en el agua haciendo mucho ruido, pero los dos continuaron fumando en silencio.
 [1899]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

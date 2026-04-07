@@ -43,6 +43,3 @@ aquí. Fuera de aquí, nada más, es la única manera en que puedo
 alcanzar mi meta”. “żAsí que usted conoce su meta?”, preguntó.
 “Sí”, repliqué, “te lo acabo de decir. Fuera de aquí, esa es
 mi meta”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

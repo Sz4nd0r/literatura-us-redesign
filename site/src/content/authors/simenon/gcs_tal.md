@@ -156,6 +156,3 @@ Y cuando, más tarde, alguna persona aludía a la caída en el río y se referí
 ¿No sería más sencillo aún decir que el hombre del vendaje había tenido miedo? En todo caso, fue lo bastante prudente como para no confesarlo nunca, y se contentaba con mover su enorme cabeza, que había quedado deformada.
 —En resumen, que por lo menos, había tenido su noche.
 ¡Hay tantos hombres que no la tienen nunca!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

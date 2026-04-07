@@ -203,6 +203,3 @@ Nosotros seguimos
 adelante, más adentro del pueblo.
 La tierra que nos han dado
 está allá arriba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

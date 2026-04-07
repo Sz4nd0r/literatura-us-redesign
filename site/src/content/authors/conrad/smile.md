@@ -605,6 +605,3 @@ Supongo que sentía por mí verdadero afecto, pero cuando le dije que le había 
 —Así es, Burns —lo interrumpí—, ha sido un guiño de la fortuna.
 No le conté que lo que me expulsaba de aquel barco era lo mismo que había comenzado a querer, y, mientras yo seguía allí sentado, anegado en la melancolía de la despedida y anticipando un modesto futuro lleno de complicaciones —porque aquel puesto de mando era como un pie en el estribo para alguien joven—, Burns abandonó definitivamente su crítica actitud:
 —¡Qué afortunado es usted! —dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

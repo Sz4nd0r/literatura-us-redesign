@@ -661,6 +661,3 @@ montaña. En el aire flotaban las níveas pelusas de las semillas de
 quieta luz solar. Sólo quedaban las huellas de los cascos en la pradera y
 la desgarrada ladera como indicio del paso turbulento de la vida que
 había roto la paz del lugar y pasado por él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

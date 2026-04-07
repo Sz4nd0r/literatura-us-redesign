@@ -155,6 +155,3 @@ Y entonces vio a la perra. Se dio cuenta de que llevaba mirándola un buen rato.
 —Suzy, Suzy, Suzy…
 La perra se detuvo al verle. Alzó la cabeza. Al se sentó sobre los talones, alargó un brazo, esperando. Ambos se miraron. Suzy movió el rabo a modo de saludo. Se echó en el césped con la cabeza entre las patas delanteras, y se le quedó mirando. Al esperó. Suzy se levantó. Fue hasta una esquina de la valla y desapareció de sus vista.
 Al siguió allí sentado. Pensó que, mirándolo bien, no se sentía tan mal. El mundo estaba lleno de perros. Además había, perros y perros. A algunos no se les podía sacar ningún partido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

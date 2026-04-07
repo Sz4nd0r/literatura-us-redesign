@@ -529,6 +529,3 @@ Desembarcó por la mañana en el extremo del jardín y encontró paz, quietud, l
 Nunca se encontró nada..., y la desaparición de Renouard se quedó en su mayor parte sin explicar. Pues, ¿a quién se le podría haber ocurrido que un hombre pudiera encaminarse tranquilamente a nadar más allá del confín de la vida..., con brazada firme..., sus ojos fijos en una estrella?
 La tarde siguiente, desde la goleta que se alejaba, el redactor jefe miró por última vez hacia atrás, a la isla desierta. Una nube negra amenazaba con indiferencia sobre la roca alta de la loma central; y bajo el silencio misterioso de esa sombra, Malata yacía melancólica, con aire de aflicción en la salvaje puesta de sol, como recordando el corazón que allí se había roto.
 Diciembre de 1913
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -51,6 +51,3 @@ El coronel sonrió amargamente.
 —Vamos, señor —me dijo—, usted tiene el mando; haga fortalecer inmediatamente la trinchera del reducto con esos carros, pues el enemigo es superior; pero el general C*** va a mandarle refuerzos.
 —Coronel —le pregunté— ¿está usted gravemente herido?
 —Me importa un bledo, querido, lo importante es que el reducto ha sido tomado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

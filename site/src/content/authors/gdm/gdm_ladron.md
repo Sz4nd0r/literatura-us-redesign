@@ -57,6 +57,3 @@ A las armas, ciudadanos…
 “—Abuelo, tenga usted cuidado al llegar al último escalón”.
 Todos nos reímos abiertamente cuando finalizó el narrador. Éste se puso de pie, encendió su pipa y agregó, mirándonos de frente:
 —Pero lo más curioso de mi historia es que es cierta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

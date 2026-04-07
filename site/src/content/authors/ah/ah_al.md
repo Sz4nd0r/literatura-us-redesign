@@ -141,6 +141,3 @@ En el transcurso del experimento, aquella chimpancé tuvo una cría. Imagínense
 Cariño, bebe leche.
 Cariño, juega a la pelota.
 Y cuando la cría murió, la madre se inclinó sobre el cuerpo, moviendo sus manos arrugadas con una elegancia animal, formando una y otra vez las palabras: Cariño, dame un abrazo, expresándose con fluidez en el lenguaje del dolor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

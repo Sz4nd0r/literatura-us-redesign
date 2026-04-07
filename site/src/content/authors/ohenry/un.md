@@ -293,6 +293,3 @@ Solo que Delia lo interrumpió tapándole la boca con
 la mano.
 —No, no —continuó—, di únicamente: «Cuando se
 ama…»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

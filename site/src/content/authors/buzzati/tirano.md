@@ -75,6 +75,3 @@ Pero el niño volvió a examinarlos uno a uno: al padre, la madre, el abuelo, la
 —Mirad, es un bendito… ¡mirad, es un bendito! —canturreó imitándola. Dio una patada a la carcasa de su camión, que fue a chocar contra la pared, y después se echó a reír frenéticamente. Reía como un descosido.
 —¡Mirad, es un bendito! —repitió socarrón, saliendo del cuarto.
 Aterrorizados, los mayores callaron.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

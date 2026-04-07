@@ -98,6 +98,3 @@ Comprende que el asesinato, el proceso, la sentencia de muerte, la silla
 eléctrica, son parte de un sueño. Aún trémulo, besa en la frente a su mujer. En
 ese momento, lo electrocutan.
 La ejecución interrumpe el sueño de Murray.]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

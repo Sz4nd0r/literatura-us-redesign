@@ -226,6 +226,3 @@ rincón y le contó, con voz que hacía temblar la cólera, cómo le
 habían engañado. Lloraba a lágrima viva y fuertes estremecimientos
 sacudían todo su cuerpo. Era la primera vez, en su vida, que chocaba
 con la mentira de un modo tan brutal.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

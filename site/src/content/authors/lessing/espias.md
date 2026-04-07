@@ -651,6 +651,3 @@ aquellos relacionados con los Nativos, materia en la que se lo considera toda
 una autoridad.
 Un viejo bulldog de pura raza, eso es lo que
 es de la cabeza a los pies.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

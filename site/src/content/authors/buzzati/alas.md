@@ -167,6 +167,3 @@ Sólo, don Francesco, unos meses después, encontrándose solo con Lucina, le di
 —Dios te quiere mucho, Lucina. No me negarás que como ángel has tenido una suerte extraordinaria.
 —¿Suerte? ¿Qué suerte?
 —La de encontrar al Diablo en el momento justo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

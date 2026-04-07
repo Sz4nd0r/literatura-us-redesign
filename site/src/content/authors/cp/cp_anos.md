@@ -37,6 +37,3 @@ Nos levantamos juntos, los dos. No la vi vestirse. Estuve pronto en pie, junto a
 Bruna, sentada al borde de la cama, se puso a arreglarse las uñas. Antes se las arreglaba siempre en la mesa. Parecía abstraída y el cabello le caía continuamente sobre los ojos. Entonces daba sacudidas con la cabeza y se liberaba. Yo deambulé por el cuarto y recogí mis cosas. Hice un montón sobre una silla y de repente Bruna se puso en pie de un salto y corrió a apagar el café que se derramaba.
 Luego saqué la maleta y metí las cosas. Mientras tanto, por dentro me esforzaba en recoger todos los recuerdos desagradables que tenía de Bruna —sus futilidades, sus malos humores, sus frases irritantes, sus arrugas—. Eso me llevaba de su cuarto. Lo que dejaba era una niebla.
 Cuando hube acabado, el café estaba listo. Lo tomamos de pie, junto al hornillo. Bruna dijo algo, que ese día iría a ver a un tipo, a hablar de un asunto. Poco después dejé la taza y me marché con la maleta. Fuera la niebla y el sol cegaban.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

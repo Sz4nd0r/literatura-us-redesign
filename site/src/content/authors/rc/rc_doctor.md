@@ -154,6 +154,3 @@ Casi inmediatamente volvió a sonar el teléfono, y esta vez levantó el auricul
 —¿Arnold? ¡Madre mía, qué ceremonioso estás hoy! —dijo su mujer con voz fuerte, burlona—. Te llevo llamando desde las ocho. ¿Has estado por ahí de juerga, Arnold?
 Él permaneció en silencio, calibrando su tono de voz.
 —¿Sigues ahí, Arnold? —dijo su mujer—. No pareces el mismo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

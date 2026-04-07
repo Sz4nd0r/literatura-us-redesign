@@ -506,6 +506,3 @@ mientras sus labios expresaban esta reflexión sorprendente:
 —Es así... ¡eso es! ¡Fleet siempre tuvo
 debilidad por la chica! Es probable... sí, es probable... ¡que le haya estado
 escribiendo a hurtadillas!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

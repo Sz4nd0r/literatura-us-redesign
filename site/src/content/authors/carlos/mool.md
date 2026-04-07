@@ -49,6 +49,3 @@ Aquí termina el diario de Filiberto. No quise volver a pensar en su relato; dor
 Antes de que pudiera introducir la llave en la cerradura, la puerta se abrió. Apareció un indio amarillo, en bata de casa, con bufanda. Su aspecto no podía ser más repulsivo; despedía un olor a loción barata; su cara, polveada, quería cubrir las arrugas; tenía la boca embarrada de lápiz labial mal aplicado, y el pelo daba la impresión de estar teñido.
 —Perdone… no sabía que Filiberto hubiera…
 —No importa; lo sé todo. Dígale a los hombres que lleven el cadáver al sótano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

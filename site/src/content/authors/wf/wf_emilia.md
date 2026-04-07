@@ -82,6 +82,3 @@ La fuerza empleada en derribar la puerta pareció llenar toda la alcoba de un fi
 Y el hombre estaba en la cama.
 Nos quedamos allí largo rato, de pie, contemplando aquel gesto profundo y descarnado que parecía reír. Según nos pareció, el cuerpo había estado un tiempo en la posición de quien abraza, pero luego, el dilatado sueño más duradero que el amor y que incluso a las muecas del amor domina, lo había traicionado. Lo que quedaba de él, bajo lo que se conservaba de su camisa de dormir, había llegado a confundirse con la cama en que yacía, y la delgadísima capa del polvo paciente y prometedor se tendía sobre él y sobre la almohada vecina.
 Notamos luego en esta segunda almohada la huella del peso de una cabeza. Alguno de nosotros levantó algo de ella y después de inclinarnos aún más, siempre con ese polvo invisible penetrándonos la nariz, distinguimos una larga trenza de cabellos gris acero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -306,6 +306,3 @@ le pregunté por qué le decían “murciélago” a mi compañero de
 pieza.
 —¡Ah! ¿no sabés? Les
 tiene terror a los murciélagos y cree que entrarán por la ventana.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

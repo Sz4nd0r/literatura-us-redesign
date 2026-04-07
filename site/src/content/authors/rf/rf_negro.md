@@ -536,6 +536,3 @@ Estos seres de las aguas, con su aparente concreción impenetrable, le causan al
 18 AÑOS POST SCRIPTUM
 Al revisar sus viejos trabajos, la mayoría de los traductores cae en la tentación de corregirlos. Yo no he sido la excepción y —ayudado por Adriana Gómez— he introducido numerosos cambios a la versión del año 96. No creo que para el lector sea especialmente atractivo saber en qué consisten esos cambios. Me limitaré a decir, pues, que si bien rehicimos muchos pasajes, no pocas enmiendas nos fueron sugeridas por la idiosincrásica puntuación de Fonseca. Hace dieciocho años, cuando traduje el cuento por primera vez, decidí respetar ese estilo de manera muy fiel; ahora me pareció que esa decisión afectaba la fluidez de la lectura.
 Lo que tal vez sí interese a los lectores es que en portugués, como en español, la palabra “romance” tiene dos acepciones: es una narración en prosa, pero también un relato de amor. Si el caso fuera ser literales, el título de este cuento debería ser simplemente “novela negra”. Dado que la palabra lo permite, y dado que la relación entre sus protagonistas combina un thriller policíaco y una oscura historia de amor, he optado, ahí sí, por ser fiel a la decisión del 96.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

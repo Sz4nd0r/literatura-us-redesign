@@ -133,6 +133,3 @@ Tal vez haya sobornado al guardián, con sonrisas o con promesas, con el cansanc
 Porque le dejaron entrar el coche, guiarlo tironeando de la quijada humeante del caballo hasta el panteón encolumnado, con un ángel negro de alas quebradas y con fechas y exclamaciones metálicas.
 Porque lo vieron de pie y de rodillas en el pescante, y luego de pie sobre la tierra gorda, negra y siempre húmeda, sobre el pasto irregular e impetuoso, braceando sin pausas, jadeando por la mueca resuelta y fatigada que le descubría los dientes, para trasladar al voleo las flores recién cortadas, del coche a la tumba, un montón y otro, sin perdonar ni un pétalo ni una hoja, hasta devolver los quinientos pesos, hasta levantar la montaña insolente y despareja que expresaba para él y para la muerta lo que nosotros no pudimos saber nunca con certeza.
 1956
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

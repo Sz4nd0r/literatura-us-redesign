@@ -102,6 +102,3 @@ El viejo médico tomó el libro y lo miró con ayuda de sus anteojos y de la lin
 Levantó la cabeza, volvió a apoyarla en mi brazo y dijo:
 —Ponme un poco en el otro ojo, querido Sandy.
 Por lo tanto, si mañana o cualquier otro día usted hace un alto en Rosa, verá una casa amarilla nueva y hermosa y a la señora Pratt —anteriormente conocida como señora Sampson— embelleciéndola y ornamentándola. Y si usted penetra en esta morada, advertirá sobre la mesa recubierta de mármol que se halla en el centro de la sala el Manual de Herkimer sobre Información Indispensable, recién encuadernado en tafilete rojo y listo para ser consultado sobre cualquier asunto concerniente a la felicidad y a la sabiduría humanas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

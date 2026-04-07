@@ -30,6 +30,3 @@ Sólo muy entrada la noche abandoné esta crónica triste y conmovedora, estos f
 De noche, por el parquet opacado de los pasillos tomé el camino de la salida. El despacho de Alejandro III era un cajón alto con las ventanas que daban a la Nevski tapiadas. Las habitaciones de Mijail Alexándrovich —alegre apartamento de un oficial culto que hace gimnasia, paredes forradas de una tela clarita con manchas de rosa pálido, sobre las chimeneas bajas chucherías de porcelana, imitando la ingenuidad y la carnosidad innecesaria del siglo diecisiete.
 Esperé un largo rato recostado sobre una columna, hasta que se durmiera el último lacayo del palacio. Este agachó las mejillas arrugadas, afeitadas por vieja costumbre; un farol doraba débilmente su alta frente decaída.
 Cerca de la una de la madrugada salí a la calle. La Nevski me recogió en su regazo insomne. Fui a dormir a la estación Nikoláyevski. Sepan los de aquí huidos que en San Petersburgo un poeta sin hogar tiene donde pasar la noche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

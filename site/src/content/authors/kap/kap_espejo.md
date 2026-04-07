@@ -297,6 +297,3 @@ Ella se irguió y le acarició las mangas con delicadeza.
 —No lo pensemos —dijo Dennis moviendo los pies.
 —No lo pensemos, vale —dijo Rosaleen—, pues si me reprocharas algo podría llorar.
 Ciudad de México-Berlín, 1931
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

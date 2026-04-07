@@ -550,6 +550,3 @@ El muchacho se la llevó al oído también, e inmediatamente su rostro adoptó u
 Bajó la escalinata de la entrada, echó a andar por el paseo con el bulto en la mano y desapareció.
 Elishama se quedó mirándole. Cuando le dejó de ver, se llevó la concha al oído. Sonaba un rumor bajo, profundo, como un rugido distante de grandes rompientes. La cara de Elishama adoptó la misma expresión que el rostro del marinero hacía unos momentos. Le hizo el extraño, suave, profundo efecto del sonido de una voz nueva en la casa y en la historia: «Yo he oído esa voz antes —pensó—, hace tiempo. Hace mucho, mucho tiempo. Pero ¿dónde?».
 Dejó caer la mano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

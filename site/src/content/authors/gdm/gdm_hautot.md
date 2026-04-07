@@ -190,6 +190,3 @@ El contestó sencillamente:
 —Pues... si usted lo desea, yo no rehuso.
 —De acuerdo, don César, el jueves próximo a las doce, como hoy.
 —¡El jueves a las doce, señorita Donet!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

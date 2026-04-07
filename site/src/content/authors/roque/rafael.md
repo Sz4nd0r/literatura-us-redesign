@@ -142,6 +142,3 @@ y financiero para escribir, ya no un artículo, sino un voluminoso libro
 sobre Roque Dalton, esa persona es Luis Melgar Brizuela.
 Revista Tendencias,
 No 52. San Salvador, El Salvador, junio de 1996.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

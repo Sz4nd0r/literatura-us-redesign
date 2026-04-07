@@ -65,6 +65,3 @@ Y ahora, ¿quién está entrando en el vagón, sostenida por dos bomberos? Una p
 Y cuando se lo hubimos asegurado y le hicimos sitio, se dejó caer con un «¡Gracias a Dios!» sobre los cojines de felpa como si su salvación no se hubiera producido hasta ese momento.
 En Hof eran las cinco y ya había amanecido. Allí nos ofrecieron un desayuno y me recogió un tren rápido que me llevó a mí y a mis cosas a Dresde con tres horas de retraso.
 Sí, éste fue el accidente de tren que yo viví. Alguna vez tenía que sucederme. Y aunque los expertos en lógica puedan hacerme alguna objeción al respecto, creo que a partir de ahora sí que cuento con un grado de probabilidad considerable de que, por lo pronto, nunca más volverá a pasarme nada parecido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

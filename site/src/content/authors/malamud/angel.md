@@ -199,6 +199,3 @@ habría jurado que vio una figura oscura elevándose gracias a un par de magníf
 Una pluma fue cayendo. Manischevitz lanzó una exclamación al verla cambiar a blanco, pero era tan sólo un copo de nieve.
 Voló escaleras abajo. En el departamento Fanny manejaba el trapeador, metiéndolo bajo la cama y luego por las telarañas de la pared.
 —Es algo maravilloso, Fanny —dijo Manischevitz—. Créemelo, hay judíos en todas partes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

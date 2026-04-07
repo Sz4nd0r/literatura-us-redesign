@@ -523,6 +523,3 @@ Sopesé esa posibilidad; pensé en los campos de Ohio.
 —Bueno, amigo, hasta la vista. Buena suerte cuando lo averigües.
 —¿Cuando averigüe qué? —dije con voz de víctima.
 Pero el hombre se había puesto de perfil y, aunque miré con todas mis fuerzas, ya no conseguí volver a verlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

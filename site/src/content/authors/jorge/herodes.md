@@ -138,6 +138,3 @@ determinación propia de los burgueses, la dejó pasar como sana, y
 ella, haciendo a un lado las reglas más elementales del compañerismo,
 salió de allí y fue a contarle a todo el mundo que yo me había
 doblegado ante el imperialismo yanqui.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

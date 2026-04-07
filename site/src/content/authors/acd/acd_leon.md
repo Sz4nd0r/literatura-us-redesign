@@ -206,6 +206,3 @@ Y salieron juntos como dos amigos, agarrados del brazo. El inspector se quedó m
 —Vaya, ¡lo ha logrado! —exclamó por fin—. Había leído cosas acerca de usted, pero no me las creía. ¡Es usted asombroso!
 Me vi obligado a negar con la cabeza, puesto que aceptar un halago así habría sido rebajar mi nivel.
 —Al principio estuve lento, lento, sin excusas. Si hubiésemos descubierto el cadáver en el agua, difícilmente se me habría escapado esa posibilidad. La toalla me despistó. Al pobre hombre ni se le pasó por la cabeza secarse y eso, a mi vez, me llevó a pensar que nunca había estado en el agua. Y por eso, ¿qué me iba a sugerir que había sido el ataque de una criatura marina? Ahí fue donde perdí el hilo. Vaya, vaya, inspector, cuántas veces no les habré tomado yo el pelo a los señores de las fuerzas policiales: pues la Cyanea capillata ha estado a punto de vengar a Scotland Yard.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

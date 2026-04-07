@@ -174,6 +174,3 @@ Cuando llegó Riki-tiki a la casa, Teddy, la madre de Teddy (que aún estaba pá
 Riki-tiki se despertó sobresaltada, porque las mangostas son de un sueño muy ligero.
 —¡Ah! ¡Sois vosotros! ¿Por qué me molestan? Ya murieron todas las cobras; y si alguna queda, aquí estoy yo.
 Tenía derecho Riki-tiki a sentirse orgullosa; pero no se enorgulleció más de lo justo, y conservó el jardín como una mangosta debe conservarlo, defendiéndolo con los dientes, y a saltos, y de todas maneras, hasta que ni una sola cobra se atrevió ya a asomar la cabeza dentro de las paredes del recinto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

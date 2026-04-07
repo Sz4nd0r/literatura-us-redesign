@@ -152,6 +152,3 @@ La viuda empezó a pensar que era ya un buen momento de llorar, por lo que sacó
 —Ay, claro que lo encontrará, mi querida señora —exclamó Tom Smart dejando caer una verdadera lluvia de enormes lágrimas por la piedad que sentía por el infortunio de la viuda. En la energía de su compasión, Tom Smart había rodeado con un brazo la cintura de la viuda; y la viuda, movida por la pasión de la pena, había sujetado la mano de Tom. Ésta miró a Tom al rostro y le sonrió entre sus lágrimas. Tom miró el semblante de ella, y sonrió entre las suyas.
 Nunca pude averiguar, caballeros, si Tom besó o no a la viuda en ese momento particular. Solía decirle a mi tío que no lo había hecho, pero tengo mis dudas al respecto. Entre nosotros, caballeros, estoy convencido de que lo hizo.
 En todo caso, Tom echó a patadas al hombre alto por la puerta delantera media hora más tarde y se casó con la viuda al cabo de un mes. Y solía recorrer el campo con el calesín de color arcilla y rueda, rojas y la yegua zorruna de paso rápido hasta que muchos años después abandonó el negocio y se fui a Francia con su esposa; y más tarde, la vieja casa se vino abajo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

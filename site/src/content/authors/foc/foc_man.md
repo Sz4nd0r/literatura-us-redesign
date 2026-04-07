@@ -190,6 +190,3 @@ Sin las gafas, los ojos del Desequilibrado estaban bordeados de rojo y tenían u
 —Habría sido una buena mujer —dijo el Desequilibrado— si hubiera tenío a alguien cerca que le disparara cada minuto de su vida.
 —¡Pequeña diversión! —dijo Bobby Lee.
 —Cállate, Bobby Lee —dijo el Desequilibrado—. No hay verdadero placer en la vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

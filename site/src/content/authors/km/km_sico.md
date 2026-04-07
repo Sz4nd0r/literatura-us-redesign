@@ -81,6 +81,3 @@ Pero al hablar era abrazada con más ternura, abrazada de una manera hermosa, so
 —Sí, sí. Volveré. Esta vez volvió al estudio caminando lentamente y de pie en la mitad de la habitación con los ojos entrecerrados se sintió tan ligera, tan descansada, como si hubiera despertado de un sueño infantil. Aún el simple acto de respirar era una felicidad. El sommier estaba muy desordenado. Todos los almohadones “como montañas furiosas”, decía; los ordenó antes de sentarse al escritorio.
 “He estado pensando en nuestra conversación y acerca de la novela psicológica”, escribió rápidamente, “y es realmente tan interesante...” Y así sucesivamente.
 Para terminar puso: “Buenas noches, amigo mío. Vuelve pronto”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

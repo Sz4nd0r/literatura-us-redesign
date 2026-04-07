@@ -179,6 +179,3 @@ comenzaba en el momento en que dejé de oír el zumbido, la noche anterior.
 Terminaba con estas líneas:
 ‘‘...el hospital Bellevue, donde se dice que sus
 heridas no son serias. Parece ser un típico Hombre de la Ciudad”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

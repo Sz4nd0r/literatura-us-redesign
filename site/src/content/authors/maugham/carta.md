@@ -445,6 +445,3 @@ Se interrumpió, jadeante. Una mezcla inaudita de crueldad, rabia y dolor desfig
 —Ven, Leslie… Ya está preparada tu habitación. Debes de estar muriéndote de sueño.
 Las facciones de Mrs. Crosbie fueron serenándose poco a poco. Las pasiones que se retrataban tan claramente en su rostro se desvanecieron como se estira un papel arrugado, y al cabo de unos instantes su rostro ofrecía la franca y serena expresión de siempre. Estaba un poco pálida, pero sus labios se curvaban con una afable y atrayente sonrisa. Era una vez más la mujer distinguida y bien educada de siempre.
 —Ya voy, Dorothy querida… No sabes cuánto siento molestarte de esta manera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

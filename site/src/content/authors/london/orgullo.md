@@ -171,6 +171,3 @@ Recogió una caja abierta de tabaco, que contenía seis o siete centenas de ciga
 Hinchó los bíceps bajo el fino tejido de la manga, agarró a los dos camareros negros y los alzó por encima de su cabeza como si fueran pesas.
 —¡Vamos! Que alguien mueva ese aparejo de mano de la botavara —gritó Carlsen desde popa, donde estaban estibando la mayor a los costados.
 Pankburn soltó a los camareros, echó a correr y llegó a la zona de virada antes que un marinero de Rapa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

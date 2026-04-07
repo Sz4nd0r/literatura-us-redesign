@@ -161,6 +161,3 @@ Por algún rato Macfarlane quedó inmóvil, con el farol en la mano. A Fettes un
 —Mujer era cuando la pusimos dentro… —murmuró Fettes.
 —Tenga esta lámpara —dijo el otro—. Debo verle la cara.
 Y, mientras Fettes empuñaba el farol, su compañero deshizo las ataduras que retenían el saco y echó abajo la parte que cubría la cabeza. La luz cayó nítida y precisa sobre las oscuras y torneadas facciones y las mejillas enjutas de una cara que les era harto conocida, de una cara varonil que ambos jóvenes habían contemplado a menudo en sus sueños… Un salvaje alarido se levantó en la noche; cada cual saltó a la carretera por su lado; el farol resbaló, se hizo añicos y se apagó. Y el caballo, aterrorizado por esa insólita conmoción, se encabritó y salió al galope tendido hacia Edimburgo, llevando consigo, como único ocupante del birlocho, el cuerpo del difunto y ya de tiempo disecado míster Gray.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

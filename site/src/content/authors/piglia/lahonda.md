@@ -93,6 +93,3 @@ entre la camisa y el pecho; entonces me dí vuelta y le grité a mi
 patrón:
 —Patrón, el chico se escondió la
 honda en la camisa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

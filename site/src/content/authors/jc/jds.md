@@ -52,6 +52,3 @@ Nine Stories (1953):
 —Linda boquita y verdes mis ojos
 —El periodo azul de Daumier-Smith
 —Teddy
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

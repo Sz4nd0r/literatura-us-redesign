@@ -86,6 +86,3 @@ Pero Donald miraba fijamente a la parte alta del río. De repente, se oyó su vo
 De pie, con el agua helada hasta las rodillas, los hombres de Minook, con Montana Kid y el policía, se agarraron de las manos y elevaron las voces para cantar el funesto Himno de batalla de la República. Pero el estruendo en movimiento ahogó la letra.
 A Donald se le concedió contemplar una imagen que ningún hombre puede ver y seguir con vida. Una pared gigantesca de blancura se abatió sobre la isla. Árboles, perros y hombres desaparecieron, como si la mano de Dios hubiese limpiado por completo la faz de la naturaleza. Eso fue lo que vio, después se balanceó un instante más en su atalaya y se precipitó al infierno de hielo.
 [1899]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

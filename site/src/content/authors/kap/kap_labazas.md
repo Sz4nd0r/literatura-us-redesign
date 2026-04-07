@@ -450,6 +450,3 @@ ningún otro sufrimiento porque aquel dolor
 había barrido los demás. No, nada hay más cruel que
 esto. Nunca se lo perdonaré. Se distendió con un
 suspiro profundo y apagó la luz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

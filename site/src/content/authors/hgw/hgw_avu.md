@@ -56,6 +56,3 @@ No obstante, Taddy tenía bastante curiosidad y tuvo que soportar una dura lucha
 Nuestra conversación fue íntima, por decirlo así, pero sin llegar a la confidencialidad.
 —Los sirvientes Dyak hablan de un Gran Colugo, un Klangutang, sea lo que sea. No ataca a menudo al hombre, pero supongo que le puse nervioso. Dicen que hay Gran Colugo, Pequeño Colugo, y algo distinto que suena como zampar. Todos vuelan de noche. Por mi parte sé que por aquí hay zorros y lémures voladores, pero ninguno de ellos es muy grande.
 —Hay más bestias en el cielo y en la tierra —dijo Woodhouse, y Taddy gruñó a la cita bíblica—, y más especialmente en los bosques de Borneo, de las que somos capaces de soñar en nuestras filosofías. En general, si la fauna de Borneo va a desparramar ante mí alguna más de sus novedades, preferiría que lo hiciera cuando no estuviera ocupado en el observatorio por la noche y solo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -156,6 +156,3 @@ Ella miró fugazmente la puerta cerrada del dormitorio, y luego a su marido.
 —Sí —murmuró—. Me parece una buena idea —. Al cabo de unos momentos, añadió—: ¿Volverás a pegarme... por esto?
 —No; por esto, nunca más.
 Jelka sonrió. Fue a sentarse junto a él, y Jim, conmovido, le acarició el pelo y la nuca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

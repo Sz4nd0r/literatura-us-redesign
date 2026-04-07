@@ -95,6 +95,3 @@ En la puerta parecía esperarlo un hombre corpulento.
 Y entonces Ben Price obró de una manera bastante extraña.
 —Creo que se equivoca, señor Spencer —dijo—. Que yo sepa, no lo conozco. Tengo entendido que su coche lo espera... ¿verdad?
 Y Ben Price le volvió la espalda y echó a andar despaciosamente calle abajo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

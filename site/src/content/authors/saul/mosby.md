@@ -185,6 +185,3 @@ Después de haber dispuesto de todas las cosas humanas, debería haberse encontr
 Pero, después de haber dispuesto de todo, ¿qué Dios había que encontrar?
 Ahora los llevaban abajo, dentro de la tumba. Había una pesada puerta de hierro. Las piedras eran enormes. La cámara estaba cerrada. Se sintió oprimido. Tuvo miedo. Había mucha humedad. En los muros elaboradamente grabados en zigzag había unos tenues esbozos de luz fluorescente. Unas cajas planas de limo molido trataban de absorber la humedad. Su corazón se sintió paralizado. Sus pulmones no funcionaban. ¡Dios! ¡No puedo respirar! ¡Que me encierren aquí! ¡Morir aquí! ¡Si sucediera! No como si hubiera sucedido un accidente, que terminaba, pero no del todo, con la existencia. Muerto-muerto. Se inclinó y buscó la luz del día. Sí, seguía allí. Allí estaba la luz. Todavía estaba allí la gracia de la vida. O, si no era la gracia, al menos era aire. Continúa mientras puedas.
 —Tengo que salir —le dijo al guía—. Señoras, no puedo respirar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

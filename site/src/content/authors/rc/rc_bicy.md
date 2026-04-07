@@ -168,6 +168,3 @@ Hamilton se olió la mano y luego los dedos.
 El chico se puso de costado y vio cómo su padre iba hasta la puerta y lo miraba y ponía la mano en el interruptor. Y al cabo dijo:
 —¿Papá? Pensarás que estoy mal de la cabeza, pero me gustaría haberte conocido cuando eras pequeño. O sea, cuando tenías más o menos mi edad. No sé cómo decirlo, pero eso me hace sentirme un poco solo. Es como… como si te echara ya de menos si ahora me pongo a pensarlo. Una idea de locos, ¿no te parece? Bueno, déjame la puerta abierta, por favor.
 Hamilton dejó abierta la puerta, y luego lo pensó mejor y la cerró hasta la mitad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

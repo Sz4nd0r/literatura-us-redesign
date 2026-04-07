@@ -28,6 +28,3 @@ Elide a ratos se movía, a ratos se sentaba en la silla de paja le daba indicaci
 La mesa puesta, con todo listo y al alcance de la mano para no tener que levantarse, llegaba el momento en que los dos sentían la zozobra de tener tan poco tiempo para estar juntos, y casi no conseguían llevarse la cuchara a la boca de las ganas que tenían de estarse allí tomados de las manos.
 Pero todavía no había terminado de filtrarse el café y él ya estaba junto a la bicicleta para ver si no faltaba nada. Se abrazaban. Parecía que sólo entonces Arturo se daba cuenta de lo suave y tibia que era su mujer. Pero cargaba al hombro la barra de la bici y bajaba con cuidado la escalera.
 Elide lavaba los platos, miraba la casa de arriba abajo, las cosas que había hecho su marido, meneando la cabeza. Ahora él corría por las calles oscuras, entre los escasos faroles, quizás ya había dejado atrás el gasómetro. Elide se acostaba, apagaba la luz. Desde su lado, acostada, corría una pierna hacia el lugar de su marido buscando su calor, pero advertía cada vez que donde ella dormía estaba más caliente, señal de que también Arturo había dormido allí, y eso la llenaba de una gran ternura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

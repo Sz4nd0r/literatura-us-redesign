@@ -180,6 +180,3 @@ orgullosa.
 Llorando y riendo al mismo tiempo,
 apoya las manos en los hombros de Yegor Savich y mira con honda
 devoción al pequeño dios que se ha creado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

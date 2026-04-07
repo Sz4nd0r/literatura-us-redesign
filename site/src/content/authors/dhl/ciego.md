@@ -245,6 +245,3 @@ Bertie cogió la linterna y abrió la puerta. El gato desapareció. Los dos homb
 Él estaba de veras contento. Isabel tomó su mano entre las suyas, y la sujetó con fuerza.
 —Ahora serás más feliz, querido —dijo ella.
 Pero ella estaba mirando a Bertie. Ella sabía que tenía un deseo, escapar de esa intimidad, de esa amistad que se le había confiado. No podía soportar haber sido tocado por el hombre ciego, su obsesiva reserva había sido rota. Era como un molusco al que le han roto su concha.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

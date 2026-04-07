@@ -29,6 +29,3 @@ La Perla desciende de su mula:
 —Caballero, tenga buen ánimo: vivirá todavía para casarse con una bella mora, mi mano sabe curar las heridas que hace mi caballero.
 —Oh perla tan blanca, oh perla tan bella, arranca de mi seno este trozo de lanza que lo desgarra; el frío del acero me hiela.
 Ella se ha acercado sin desconfianza; pero él ha reanimado sus fuerzas, y con el filo de su cimitarra marca ese rostro tan bello.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

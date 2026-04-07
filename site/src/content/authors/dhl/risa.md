@@ -740,6 +740,3 @@ difícilmente podía hablar. Ella oyó castañetearle los dientes.
 —Eso parece —balbuceó.
 Había en la atmósfera un leve aroma de
 flores de almendro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

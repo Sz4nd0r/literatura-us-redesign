@@ -111,6 +111,3 @@ Le contesté mientras me arrastraban de allí:
 Mientras tanto el dueño, que había recuperado su dinero, recomendaba, como buena persona que era:
 —¡Suéltenlo! Ha sido un momento de locura.
 —Nada de eso —dije yo—, llévenme a la prevención... ¡Nunca se sabe!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

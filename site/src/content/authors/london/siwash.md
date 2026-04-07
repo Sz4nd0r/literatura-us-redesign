@@ -137,6 +137,3 @@ Tommy desabrochó las correas que sujetaban el bulto de la espalda. Al alzarlo s
 —Caramba, Dick, esto le ha embotado el filo para lo que queda de viaje —farfulló Tommy mientras se agachaba a sotavento de la tienda.
 —Pero es precisamente ese filo lo que la salva —respondió Dick, agachando la cabeza ante una ráfaga de aguanieve que surgió por detrás de una esquina de la lona—. El filo que tú y yo tenemos, Tommy, y el que, antes que nosotros, tuvieron nuestras madres.
 [1899]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

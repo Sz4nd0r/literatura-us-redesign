@@ -63,6 +63,3 @@ Sobre la pequeña plataforma abierta entre nuestro vagón y el siguiente había 
 Sonó la tercera campana y el ruido de silbidos, y el tren se puso en marcha. Al lado de nuestra ventana pasó como un rayo otro guarda, el jefe de estación, el jardín, seguidos de la bella muchacha, con su maravillosa, infantil y juguetona sonrisa.
 Saqué mi cabeza por la ventanilla y pude verla un rato más observando al tren alejarse mientras recorría la plataforma y pasaba por delante de la ventana con el operador de telégrafos al otro lado, y la vi arreglarse el cabello con la mano, y salir corriendo hacia el jardín. El edificio de la estación ya no escondía el crepúsculo. Nos encontrábamos en campo abierto, pero el sol ya se había ocultado y un humo negro se depositaba sobre el maíz joven, verde y aterciopelado. El aire primaveral, el cielo oscurecido, el vagón, todo me resultaba triste.
 El encargado de nuestro vagón entró y se dispuso a encender las velas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

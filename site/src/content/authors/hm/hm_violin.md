@@ -73,6 +73,3 @@ Cuando, después de dejarlo, Standard y yo estuvimos otra vez en la calle. Le pe
 —He oído que tu poema no ha sido muy bien recibido —dijo Standard, cambiando bruscamente de asunto.
 —¡Ni una palabra más, por el amor de Dios! —grité yo—. Si Cicerón, al viajar por Oriente, encontró consuelo en contemplar la árida ruina de una ciudad antaño esplendorosa, ¿acaso no se reduce a la nada mi trivial asunto al ver en Hautboy a la viña y al rosal trepando por las columnas derruidas del hundido templo de la Fama?
 Al día siguiente, rompí todos mis manuscritos, me compré un violín, y fui a que Hautboy me diera clases particulares.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

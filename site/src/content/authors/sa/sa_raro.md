@@ -81,6 +81,3 @@ Elmer Cowley danzó con furia junto al chirriante tren en la oscuridad del andé
 —Cógelos —gritó—. No los quiero. Dáselos a mi padre. Los he robado.
 Con una mueca de rabia, dio media vuelta y sus largos brazos empezaron a batir en el aire. Como quien trata de librarse de alguien que lo está sujetando, golpeó a George Willard, una y otra vez, en el pecho, en el cuello y en la boca. El joven periodista rodó semiinconsciente sobre el andén, aturdido por la fuerza terrible de los golpes. Elmer saltó al pasar el tren y, avanzando sobre los vagones, llegó a una vagoneta descubierta, se tendió boca abajo y volvió la vista atrás, tratando de ver al hombre caído en la oscuridad. Se sintió lleno de orgullo.
 —Le he dado una buena lección —gritó—. Supongo que le habrá quedado claro. No soy un bicho raro. Le he dejado bien claro que no soy un bicho raro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -247,6 +247,3 @@ Ella no tenía mucho más que decirme sobre Simon, y tampoco le interesaba saber
 Dije que sí.
 —Todo el mundo la maneja —dijo—. Todos y cada uno de nosotros, en el mundo entero.
 ¿Y sería cierto lo que Essie reveló en aquel instante, con su susurro volátil y frenético? La mentira, la ilusión, el engaño, dijo… ¿Sería esa de veras la lengua universal que todos hablamos?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

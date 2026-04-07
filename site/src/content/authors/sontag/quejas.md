@@ -206,6 +206,3 @@ Si empezara de nuevo desde el principio, ¿me entenderíais mejor? No os riais.
 He oído decir que hay miembros de la organización que nunca abren su correspondencia. Están demasiado atareados hablando o leyendo. O suspirando. O haciendo aspavientos. O criando hijos con la esperanza de que sean futuros miembros. O perfeccionándose y mejorando el mundo. O acariciándose la barba. O huyendo de sus posibles asesinos. O quedándose y dejándose matar. O escribiendo libros. O ganando dinero. O mirando irónicamente en torno a ellos con ojos expresivos, melancólicos, de párpados pesados. Ninguna de estas es una solución. Yo también puedo hacer esas cosas.
 ¡Habladme! ¡Contestadme!
 Esperaré vuestras respuestas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

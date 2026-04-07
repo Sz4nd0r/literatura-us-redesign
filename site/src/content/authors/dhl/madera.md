@@ -258,6 +258,3 @@ El jardinero, un hombre bajo, de bigotito pardo y ojos también pardos, pequeño
 Pero el niño murió esa noche.
 Y aún yacía en su lecho cuando la madre oyó la voz de su hermano, que decía:
 —Dios mío, Hester, has ganado ochenta mil libras y has perdido un hijo. Pobrecito, pobrecito, más le vale haber salido de una vida donde debía montar en su caballito de madera para encontrar un ganador.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

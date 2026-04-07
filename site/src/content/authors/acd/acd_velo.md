@@ -109,6 +109,3 @@ Era espantoso. No hay palabras para describir la forma de un rostro cuando este 
 Dos días después, cuando fui a visitar a mi amigo, me señaló con cierto orgullo un pequeño frasco azul que había sobre la repisa de su chimenea. Lo cogí. Tenía una etiqueta roja de veneno. Y salió de él un agradable aroma a almendras cuando lo abrí.
 —¿Ácido prúsico?
 —En efecto. Me ha llegado por correo. «Le envío mi tentación. Seguiré su consejo». Así decía el mensaje adjunto. Creo, Watson, que seremos capaces de adivinar el nombre de la valiente mujer que lo ha enviado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

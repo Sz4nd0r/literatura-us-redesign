@@ -111,6 +111,3 @@ Y el arzobispo los saludó con veneración. Los staretzi permanecieron un instan
 Y hasta el alba se vio un gran resplandor del lado por donde habían desaparecido.
 N. del T.
 [1] staretzi: religiosos de avanzada edad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

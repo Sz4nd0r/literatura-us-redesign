@@ -51,6 +51,3 @@ Al cabo de unos instantes se cerró la puerta y unos pasos se alejaron rápidame
 —¡Oh! ¡Qué alivio, Dios mío! —La abrazaba estrechamente, como si nunca hasta aquel momento se hubiese dado cuenta de que podía perderla—. ¡Si supieras el miedo que he pasado! —añadió.
 Volvió a besarla.
 —Si la cosa hubiera ido mal, creo que me hubiera muerto... ¡He pensado unas cosas tan terribles...! ¡Tan terribles...!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

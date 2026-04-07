@@ -73,6 +73,3 @@ Craven dejó caer el receptor. Se dijo a sí mismo en voz alta:
 Estaba sumido de nuevo en el horror de su sueño: la angosta calleja era solamente uno de los innumerables túneles que enlazaban tumba con tumba, allí donde yacen los cuerpos imperecederos. Craven murmuró: “Ha sido un sueño, ha sido un sueño”.
 Al inclinarse hacia adelante, vio en el espejo colocado encima del teléfono su propio rostro moteado de diminutas gotas de sangre. Empezó a gritar: “¡No estoy loco! ¡No estoy loco! ¡Estoy cuerdo! ¡No estoy loco!”.
 Una pequeña multitud empezó a reunirse a su alrededor. Poco después se presentó un agente de la autoridad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

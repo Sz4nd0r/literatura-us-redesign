@@ -861,6 +861,3 @@ Aquel mensaje hizo que seis meses después volviese Eduardo Falkner, Intendente 
 —Todo está como el día en que ví esta casa por primera vez; nada ha cambiado, a no ser, sin emhargo, su hermana de usted.
 —No la sienta nada bien este sitio —respondió tristemente la joven—. Tanto es así, que mi cuñado ha resuelto dejar las Águilas antes de que comience el invierno.
 —¡Qué lástima! —exclamó Falkner—. Las últimas palabras que Jorge me dirigió al marchar para reunirse con su primo en el ejército de Rappahannock fueron éstas: “Si no me matan, Ned, espero encontrarme algún día en las Águilas, asomado a la ventana con la señora de Hale y verte regresar a la casa con Kate”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

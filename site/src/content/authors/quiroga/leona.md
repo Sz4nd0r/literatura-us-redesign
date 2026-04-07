@@ -48,6 +48,3 @@ Lamentamos haber puesto en un ser ajeno a nosotros las esperanzas de nuestra raz
 Y acompañaron hasta las puertas de la ciudad a la pobre criatura, que caía a cada instante implorando piedad con las manos juntas.
 Ya había cerrado la noche. La joven caminó como una autómata, internándose en el desierto, hasta que el viento caliente que pasaba en la oscuridad azotándole los cabellos, le hizo abrir los ojos. Su nariz dilatóse entonces ampliamente a los vahos agrestes que le llegaban sin roces quién sabe desde dónde, y deteniéndose, vuelta a la ciudad, se desvistió. Quitóse el traje, todo cuanto había disimulado hasta ese instante su condición primera, hasta quedar desnuda. Y plantándose entonces con la cola rígida y los duros ojos fosforescentes, la leona rugió.
 Durante largo rato, sola y como alargada por la tensión de sus ijares, rugió hacia la ciudad decrépita, hundiendo los flancos hasta el esqueleto, como si en cada rugido cantara, libre y sin trabas por fin, la voz pura y profunda de sus entrañas vírgenes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

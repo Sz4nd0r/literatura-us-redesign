@@ -215,6 +215,3 @@ Deacon estrechó las manos de todos los presentes, quienes le desearon buena sue
 —¿Tom Butler juega a las cartas? —le preguntó a Grief.
 —Al solitario —fue la respuesta.
 —Pues le enseñaré a jugar al solitario doble. —Deacon se volvió hacia la puerta, donde esperaba el capitán Donovan, y añadió con un suspiro—: Y supongo que también me despellejará, si juega como el resto de los hombres de las islas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

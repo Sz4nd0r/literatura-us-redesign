@@ -115,6 +115,3 @@ La noche anterior Wilkinson y MacAndrew se habían enzarzado en una violenta dis
 —Es cierto que era muy poca cosa, un cobarde, pero en lo que se refiere a su ciencia, no era un impostor —dijo MacAndrew—, y yo estoy dispuesto a hacer una demostración práctica de esta verdad, Mr. Wilkinson, tan pronto como podamos disfrutar de algo de tranquilidad, pues no tengo ninguna fe en todo este despliegue publicitario para las pruebas experimentales.
 Y con este objetivo, mientras el mundo entero se dedicaba a leer las noticias referentes al fracaso de la nueva máquina voladora, MacAndrew se elevó hacia los cielos y describió curvas de gran amplitud y mérito sobre los campos de Epsom y Wimbledon; y Banghurst, que había recuperado una vez más la esperanza y la energía, sin prestar atención a la seguridad pública ni al Ministerio de Comercio, seguía de cerca sus evoluciones e intentaba atraer la atención del aeronauta desde un automóvil, y en pijama —pues había contemplado la escena de la ascensión en el momento en que levantaba la persiana de la ventana de su dormitorio—, equipado, entre otras cosas, con una máquina fotográfica que más tarde se comprobó que estaba estropeada.
 Y Filmer yacía sobre la mesa de billar del pabellón verde con una sábana sobre su cuerpo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

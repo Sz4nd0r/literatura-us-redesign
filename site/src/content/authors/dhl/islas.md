@@ -182,6 +182,3 @@ Algo le hizo volver en sí. Se arrastró hasta su casa. Casi no sentía ninguna 
 Reapareció el viento. ¿Era de noche otra vez? En el silencio le parecía que podía escuchar la caída, igual que una pantera, de la nieve infinita. El trueno retumbaba más cercano, crujiendo rápidamente tras el relámpago rojizo y confuso. Se tumbó en la cama con una especie de estupor. ¡Los elementos! ¡Los elementos! Su mente repetía la palabra en silencio. No puedes vencer a los elementos.
 Cuánto duró, nunca lo supo. Otra vez, como un espectro, salió y subió a lo alto de la blanca colina de su isla irreconocible. El sol calentaba. Es verano, se dijo, y el tiempo de las hojas. Miraba estúpidamente la blancura de su isla extraña y el desierto mar sin vida. Pretendía imaginar que veía el destello de una vela. Porque sabía demasiado bien que nunca habría de nuevo una vela en ese mar espantoso.
 Mientras miraba, el cielo misteriosamente oscureció y heló. De la lejanía llegaba el murmullo de un trueno insatisfecho y sabía que era la señal de la nieve cayendo sobre el mar. Se dio la vuelta, y sintió su propia respiración.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

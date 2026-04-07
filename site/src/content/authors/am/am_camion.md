@@ -221,6 +221,3 @@ detuvimos nunca, pero era lo mismo: me hacía daño ver a Italia detrás del
 mostrador y al jorobado que le pasaba los vasos y las botellas de cerveza. Me
 fui. El camión, con el letrero “Viva Italia” y Palombi ante el volante, sigue
 con sus viajes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -240,6 +240,3 @@ equivocado, Iván. Mi nombre debiera haberte amedrentado. Tú, en cambio, te has
 sentado en mi carro. Hubieras podido seguir así antes de haber caído en mis
 manos, pero ahora..., bueno, ahora quiero convidarte otra vez a beber, y luego
 voy a terminar contigo, Iván.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

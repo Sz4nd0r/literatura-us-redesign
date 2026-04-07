@@ -677,6 +677,3 @@ un rato, y llama por un Golomón —negro de mejillas tasajeadas a
 cuchillo—, que cae de un árbol, casi encima de Juan, y le baja el
 sombrero sobre la cara, con tal fuerza que la cabeza se lo raja a media
 copa. Metido en la noche del fieltro, lo hacen caminar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

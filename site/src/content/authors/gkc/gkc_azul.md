@@ -164,6 +164,3 @@ La sombra de una sonrisa cruzó por la cara redonda y sencillota del clérigo.
 Y como se volviera en este instante para recoger sus paquetes, los tres policías salieron de entre los árboles penumbrosos. Flambeau era un artista, y también un deportista. Dio un paso atrás y saludó con una cortés reverencia a Valentín.
 —No; a mí, no, mon ami—dijo éste con nitidez argentina—. Inclinémonos los dos ante nuestro común maestro.
 Y ambos se descubrieron con respeto, mientras el curita de Essex hacía como que buscaba su sombrilla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

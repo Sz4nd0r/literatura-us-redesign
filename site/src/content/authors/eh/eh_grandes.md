@@ -526,6 +526,3 @@ Estaba allí, tendido. Tenía los ojos abiertos y su rostro conservaba aún aque
 —Es curioso lo rápidamente que se puede pensar cuando hay tanto dinero en juego —dijo Jack.
 —Eres magnífico, muchacho —declaró John.
 —¡Bah! —dijo—. No tiene importancia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

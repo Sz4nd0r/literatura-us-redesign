@@ -40,6 +40,3 @@ Al anciano se le empezaron a caer las lágrimas y se limpió las manos con su mu
 Al anciano se le volvieron a humedecer los ojos. El forastero trató de consolarle. —¿Es usted feliz?—, le preguntó.
 —Sí —le respondió el anciano—, y además soy buena gente. Pregunte por ahí si quiere. Me llamo Tom, soy herrero de profesión. Aunque tiene un pie torcido, mi mujer camina con estilo. Le he regalado un vestido largo. Tiene treinta años, yo setenta y cinco. Tiene montones de zapatos. Yo ya le he comprado algunos, tiene el pie torcido, pero a mí me da igual, yo le compro zapatos rectos.
 —Ella cree que no me entero —todo el mundo cree que Tom no se entera—. Le he regalado un vestido largo que le llega hasta los pies. Me llamo Tom, soy herrero de profesión. Tengo setenta y cinco años. Me da asco la vejez. Elimino las verrugas de las manos sin derramar una gota de sangre. Pueden escribirme, contesto todas las cartas. No cobro. Es gratis.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

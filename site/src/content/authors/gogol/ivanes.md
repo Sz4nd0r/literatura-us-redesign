@@ -418,6 +418,3 @@ Vi entonces a un hombre demacrado. ¿Era Iván Ivánovich? Su rostro estaba cubi
 —¿Cuál? —pregunté yo.
 —Mañana sin falta se resolverá el caso. Me lo han asegurado en la Audiencia.
 Tras emitir un suspiro aún más profundo, me despedí a toda prisa, pues un asunto importante me obligaba a continuar el viaje, y me monté en el coche. Los escuálidos jamelgos, conocidos en Mírgorod con el nombre de caballos de posta, se pusieron en marcha, produciendo un ruido desagradable cuando sus cascos se hundían en la masa gris del barro. La lluvia caía a chorros sobre el judío sentado en el pescante, que se cubría con una estera. La humedad me traspasaba los huesos. La deprimente barrera y su garita, en la que un inválido remendaba su uniforme gris, pasaron lentamente ante mis ojos. De nuevo se sucedieron los campos, en unos puntos labrados y negros, en otros cubiertos de hierba. Las chovas y los cuervos empapados, la monótona lluvia, el cielo lloroso y encapotado. ¡Qué triste es este mundo, señores!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

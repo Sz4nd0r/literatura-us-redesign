@@ -125,6 +125,3 @@ Creo que se refería a Frau Puckler y al comisario. Entonces alcanzó el clímax
 —Hombres con ropas de mujer… El terrible pecado de Sodoma.
 —¿Y cuál es ese pecado? —pregunté, lleno de curiosidad.
 —A tu edad —dijo mi padre—, algunas cosas deben permanecer en secreto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

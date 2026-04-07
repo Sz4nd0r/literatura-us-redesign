@@ -1836,6 +1836,3 @@ París, verano, 1963.
 Sinaia (Rumania), Invierno, 1964.
 Venecia, Nápoles, Milán, Roma, Génova, 1964.
 Terminado en Génova, el 13 de julio de 1964.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

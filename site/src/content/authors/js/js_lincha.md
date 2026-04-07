@@ -127,6 +127,3 @@ Vio que la duda asomaba a sus ojos desconfiados.
 —Averígualo tú misma si eres tan lista. Yo no pienso decirte nada.
 Atravesó la cocina y pasó al cuarto de baño. Se acercó al espejo. Quitándose la gorra se miró atentamente el rostro.
 —Desde luego tiene razón —murmuró—. Es lo que me parece haber estado haciendo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

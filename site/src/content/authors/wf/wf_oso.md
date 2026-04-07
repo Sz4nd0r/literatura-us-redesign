@@ -155,6 +155,3 @@ Mississippi. Se disputó entre Nueva Orleáns, de donde salieron los barcos el 2
 junio de 1870, y St. Louis. Despertó gran interés en la prensa de la época y se
 cruzaron cuantiosas apuestas. Ganó de largo el Lee, cuyo capitán despojó el barco de
 todo lo que no fuera indispensable para ir menos cargado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

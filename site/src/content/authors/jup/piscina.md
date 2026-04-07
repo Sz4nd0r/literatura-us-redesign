@@ -219,6 +219,3 @@ edad, y, para evitar accidentes, esta familia no sólo vació la
 piscina sino que la sello con tubos de fierro y una densa tela
 metálica encima. Pusieron carteles de precaución alrededor, como si
 se tratara de un perro encadenado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

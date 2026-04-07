@@ -115,6 +115,3 @@ Elizabeth lo oye. «Cielo santo», dice. Se lleva a su hija al cuarto de baño y
 —Mamá, quiero tener las uñas verdes como esa niña.
 —Elizabeth —la llama Sam—. Sal, por favor. La casa está llena de gente. Me estoy emborrachando. Llevamos casados una hora y quince minutos.
 Sam cierra los ojos y apoya la frente en la puerta. Entra milagrosamente. El pestillo no estaba echado. La niña se escapa por el resquicio, feliz de recuperar su libertad. Sam besa a Elizabeth junto a la bañera azul. La besa junto al lavamanos y delante del espejo de pie. La besa mientras apoyan sus cuerpos en el alféizar de la ventana. Juntos, en su abrazo animista, salen flotando por la ventana y rodean la casa, mirando desde las alturas a todos aquellos que, abajo, no han encontrado el amor verdadero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -617,6 +617,3 @@ La señora generala D’Hubert levantó las manos desesperada tras leer aquella 
 —¿Lo ves? Jamás se reconciliará conmigo —le dijo su esposo—. Nunca, bajo ninguna circunstancia, debe descubrir de dónde sale el dinero. No serviría de nada, no lo podría soportar.
 —Eres un brave homme, Armand —dijo gratificada la señora generala.
 —Querida, tenía el derecho a volarle los sesos, pero, como no lo hice, no podemos permitir que ahora se muera de hambre. Se ha quedado sin su pensión y es totalmente incapaz de hacer nada por sí mismo: debemos cuidarlo en secreto hasta el final de su vida. ¿Acaso no le debo el momento más exultante de la mía? ¡Ja, ja, ja! ¡Cruzaste corriendo un prado de tres kilómetros! ¡No lo podía creer cuando lo escuché…! Si no hubiese sido por su estúpida furia, me hubiese llevado años descubrirlo. Es extraordinario cómo, de una manera o de otra, este hombre ha conseguido conquistar hasta el más profundo de mis sentimientos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

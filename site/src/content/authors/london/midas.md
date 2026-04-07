@@ -120,6 +120,3 @@ La sociedad está sacudida hasta sus cimientos. En vez de las masas contra las c
 Tú, John, por mi último pedido, publica esto. No temas. El destino de la humanidad está ahora en tus manos. Que la prensa tire millones de ejemplares, que la electricidad lo difunda por el mundo, que donde los hombres se encuentren y hablen, hablen de ello temblando de terror. Y entonces, cuando estén bien despiertos, que la sociedad se alce con toda su potencia y arroje de sí esta abominación.
 Tuyo, en largo adiós
 Wade Atsheler.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

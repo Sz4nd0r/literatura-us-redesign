@@ -59,6 +59,3 @@ Solución del problema policial
 Como un sonámbulo
 Vuelve a irse, silencioso, como había llegado, y se pone a caminar bajo la lluvia, al azar, derecho hacia adelante. Consulte ahora el plano de Montevideo. Nuestro hombre ha enfilado la calle Cuareim, cruzando Soriano, Canelones… Derecho, siempre derecho, y sin cambiar de vereda. Recuerde mi insistencia sobre los números impares. Si hubiera vivido en la acera de enfrente, no hay dudas de que, al llegar a Gonzalo Ramírez, hubiese seguido por esta avenida y no por Curuguatí. Podemos suponer que, en este caso, el epílogo del drama hubiera sido muy distinto. Pero dejemos las suposiciones y volvamos a los hechos. Llegado a la rambla, el esposo engañado cambia de dirección. Dobla hacia la izquierda. ¿Por qué? Porque no puede resistir a la atracción que una corriente de agua ejerce siempre sobre nosotros. El pobre no seguirá mucho tiempo por la rambla. Es, en efecto, una especie de sonámbulo que avanza sobre el camino resbaloso, sin la defensa ya del parapeto. El más ligero obstáculo: un agujero, una piedra, cualquier desperfecto del suelo, significa la caída mortal…
 1939
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

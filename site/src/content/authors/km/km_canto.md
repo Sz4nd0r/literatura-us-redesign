@@ -73,6 +73,3 @@ con canastillas de frutas y de cintas adornadas,
 para así felicitar…
 —¡Basta, basta! —exclamó la señorita Meadows—. Esto es tremendo, horroroso. —Y sonrió a las muchachas—. ¿Qué demonios os pasa hoy? Pensad, pensad un poco en lo que cantáis. Emplead la imaginación. De flores coronadas. Canastillas de frutas y de cintas adornadas. Y para felicitar —exhaló la señorita Meadows—. No pongáis esa cara tan triste, niñas. Tiene que ser una canción cálida, alegre, placentera. Para felicitar. Una vez más. Va, aprisa. Todas juntas. ¡Ahora!
 Y esta vez la voz de la señorita Meadows se levantó por encima de todas las demás, matizada, brillante, llena de expresividad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

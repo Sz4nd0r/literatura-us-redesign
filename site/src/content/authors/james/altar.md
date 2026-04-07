@@ -169,6 +169,3 @@ Un instante después miró a su alrededor con un decaimiento que lo hizo sentir 
 —Ellos dicen que hay una ausencia en el despliegue…, dicen que no está lleno, completo. Un cirio más —siguió insistiendo suavemente—. ¿No era eso lo que usted deseaba? Sí, uno más, uno más.
 —¡No, ninguno más, ninguno más! —gimió casi privada del habla, como presa de una súbita repugnancia imprevista hacia semejante idea.
 —¡Sí, uno más, uno más! —reiteró él sencillamente. Y, dicho esto, su cabeza cayó sobre el hombro de ella, quien lo creyó desmayado de debilidad. Pero, sola con él en la oscura iglesia, sintió un gran temor de lo que aún pudiera seguir, pues el rostro de él tenía la blancura de la muerte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

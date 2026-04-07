@@ -68,6 +68,3 @@ Me acerqué al barrendero, abracé su vieja espalda derrengada, con un hombro so
 El barrendero puso más serrín bajo el muerto, se quitó el mandil de carpintero y me tomó de la mano.
 —Vamos a ver a tu padre —murmulló cogiéndome más fuerte—, tu padre anda buscándote desde la mañana. No vaya a ser que se muera…
 Y Kuzmá y yo nos fuimos a casa del recaudador de impuestos, en la que mis padres se escondían del pogrom.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

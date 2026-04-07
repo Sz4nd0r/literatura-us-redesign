@@ -153,6 +153,3 @@ Era medianoche cuando McLendon llegó en el coche a su casa recién estrenada. E
 —No, John. Por favor. Es que no podía dormir. El calor, o lo que fuese. Por favor, John. Me estás haciendo daño.
 —¿Cuántas veces te lo tengo que decir, eh? —la soltó, y a medias le dio una bofetada, a medias la empujó hacia el sillón, donde quedó ella sentada, viéndole salir de la sala.
 Atravesó la casa a la vez que se quitaba de cualquier manera la camisa, y a oscuras, en el porche de atrás, se frotó la cabeza y los hombros con la camisa antes de tirarla a un rincón. Se quitó la pistola del cinto y la dejó en la mesilla de noche, sentándose en la cama a quitarse los zapatos y levantándose para quitarse los pantalones. Estaba sudando de nuevo, y se agachó en busca, enfurecido, de la camisa. Por fin la encontró y volvió a secarse el cuerpo, y con el cuerpo apretado contra la polvorienta mosquitera se quedó jadeando. No se oía un solo movimiento, nada, ni siquiera un insecto. A oscuras, el mundo parecía yacer abatido bajo la luna fría y las estrellas sin párpados.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -82,6 +82,3 @@ Esto lo experimenté con Yelena ***, de quien estuve perdidamente enamorado. Le 
 Adiós, querido mío, ¿qué hay de nuevo en el mundo? Anúnciales a todos que al fin me he lanzado a escribir poesía. El otro día escribí unas líneas para el retrato de la princesa Olga (por lo cual Liza me riñó muy dulcemente):
 Tonta como la verdad, aburrida como la perfección. ¿No será mejor aburrida como la verdad, tonta como la perfección?
 Las dos cosas encierran una idea. Pídele a V. que componga el primer verso y que de hoy en adelante se me considere poeta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

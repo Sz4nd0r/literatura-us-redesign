@@ -74,6 +74,3 @@ A partir de aquel episodio comencé a introducir en mis experiencias de esa índ
 Los domingos salíamos con algunas muchachas, íbamos a Palermo, a las barrancas de Belgrano, al Tigre, en los trenes atiborrados de turistas hebdomadarios. Durante el trayecto, desde las ventanillas, veíamos el río, el río inmóvil, plano, taciturno y extenso como el sueño del país adolescente. ¡Qué días de fiesta y qué noches, a la entrada de los canales del Delta, echados en los botes con las manos cruzadas detrás de la cabeza, viendo el alto cielo nocturno, la veraniega calma, la disparada súbita de una estrella, la titilante timidez de la polvareda cósmica!
 No sabe usted hasta qué punto éramos jóvenes y felices.
 Nada nos sacaba de nuestro ritmo, nada alteraba en nosotros el ilusorio cálculo de un magno destino, nuestra vida era como una aspiración capaz de materializarse en cualquier instante, pero que, por un moroso deleite, prolongaba todavía su abstracto proceso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

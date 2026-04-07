@@ -34,6 +34,3 @@ De repente, y cuando los empleados ya habían anunciado las tres últimas jugada
 Ahora no mira a nadie. Yo, en cambio, le miró a él y me parece, cómo lo diría, que a todo eso le falta algo. O mejor, me espero algo, que, en efecto, inmediatamente aconteció. En cuanto la bolita empezó a rodar, el señor, que ya ha recuperado toda su gravedad, levanta el brazo derecho y hace la santa señal de la cruz.
 Una media docena de jugadores peripatéticos se detiene alrededor de nuestra mesa para no perderse el resultado de la apuesta. La bola da vueltas, primero vertiginosamente, luego más despacio, tropieza y cae.
 Pues claro, que saliera precisamente el treinta y dos y que con ello el amigo ganase una discreta dosis de millones (embolsados con la calma habitual), era algo de esperar. Más bien, ¿nunca se han empeñado tozudamente en un porqué al que nadie puede dar respuesta? Es lo que me ocurre a mí esta noche. Ese treinta y dos salió, bien, ¿pero por qué salió? Sigo preguntándome. O sea, para darle la vuelta a la cuestión en términos más elementales: ¿qué es lo que quiso premiar la suerte (llámenla providencia, si les place), la devoción del amigo o su truhanería?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -350,6 +350,3 @@ mientras ella deja que el vestido le resbale por el cuerpo mojado, desnuda
 cuando la en­contraron, las ventanas clausuradas, la pieza oscura y
 Luciana con el brazo tapándole los ojos como quien tra­ta de borrar el
 sol, boca arriba en la arena y cerca del mar, a mediodía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

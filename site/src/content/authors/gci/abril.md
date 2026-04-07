@@ -109,6 +109,3 @@ Lo hizo. Ella lo besó fuerte, con dolor.
 Estuvo mirando al sol cómo bajaba. Era un círculo lleno de fuego al que el horizonte convertía en tres cuartos de círculo, en medio círculo, en nada, aunque quedara un borboteo rojo por donde desapareció. Luego el cielo se fue haciendo violeta, morado y el negro de la noche comenzó a borrar los restos del crepúsculo.
 —¿Habrá luna esta noche? —se preguntó en alta voz ella.
 Miró abajo y vio un hoyo negro y luego más abajo la costra de la espuma blanca, visible todavía. Se movió en su asiento y dejó los pies hacia afuera, colgando en el vacío. Luego afincó las manos en la roca y suspendió el cuerpo, y sin el menor ruido se dejó caer al pozo negro y profundo que era la playa exactamente ochenta y dos metros más abajo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -156,6 +156,3 @@ Le dieron un gatito que, como no corría el riesgo de ser envenenado, la mayorí
 ¿Cuánto tiempo dura el luto por una hermana? Un año, ¿no es así?
 Ni siquiera hubiese podido llevarlo hasta el final. Murió por la Candelaria, completamente sola, una noche, mientras los vecinos, que conocían su cansancio, habían parado la música y freían hojuelas.
 Murió, no de una enfermedad, sino de todas y de ninguna, como mueren las bestias que se aburren; y, puesto que también sus bienes los había entregado a cambio de una renta vitalicia, no hubo nadie que la heredase, nadie que pudiera mantener encendida en Saint-Mesmin la fría llama del odio que había hecho vivir durante veinte años a las dos hermanas Sirouet.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

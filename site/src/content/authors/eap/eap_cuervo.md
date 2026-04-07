@@ -305,6 +305,3 @@ y su mirada aguileña es la de un demonio que sueña,
 cuya sombra el candil en el suelo proyecta fantasmal;
 y mi alma, de esa sombra que allí flota fantasmal,
 no se alzará… ¡nunca más!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

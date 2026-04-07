@@ -108,6 +108,3 @@ Y, naturalmente, cuando llegamos al Casino la señora Raddick no estaba. Ni somb
 Ante esas palabras se echó el abrigo hacia atrás: se dio la vuelta y me miró; sus labios se abrieron:
 —Vaya por Dios, ¿y por qué? A mí…, a mí no me importa lo más mínimo. Me…, me gusta esperar. —Y de repente sus mejillas se ruborizaron y sus ojos se hicieron más oscuros. Por un instante pensé que iba a echarse a llorar—. Dé…, déjeme, por favor —balbuceó, con voz cálida e impaciente—. Me gusta. ¡Me encanta esperar! De verdad… ¡me gusta! Siempre estoy esperando…, en toda clase de sitios…
 Su oscuro abrigo se abrió, y su blanco cuello —y todo su cuerpo suave y juvenil revestido por el trajecito azul— apareció como una flor que empezara a brotar de un oscuro capullo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

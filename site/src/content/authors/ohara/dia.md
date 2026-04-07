@@ -81,6 +81,3 @@ El señor Attrell reconoció la voz de Henry O’Donnell.
 —Me gustaría saber qué le importa a usted que… —dijo una de las voces jóvenes, y entonces se oyó un fuerte bofetón.
 —Porque me importa. Y ahora vestíos y largo de aquí —dijo O’Donnell—. Me la trae al pairo de quién seáis hijos.
 El señor Attrell oyó la profunda respiración de Henry O’Donnell, que esperó un instante a que obedecieran su orden y luego pasó por delante de la caseta del señor Attrell con la cabeza mirando hacia el otro lado. El señor Attrell se quedó ahí sentado, probablemente muchos minutos, preguntándose cómo podría volver a mirar a la cara a Henry O’Donnell, preocupado por cómo podría volver a mirar a la cara a su esposa. Pero entonces, claro está, cayó en la cuenta de que no había nada, absolutamente nada que mirar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

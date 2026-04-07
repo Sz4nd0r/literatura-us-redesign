@@ -268,6 +268,3 @@ tiempos ser práctico es serlo todo, volveré a la Filosofía y al
 estudio de la Metafísica.
 Y al llegar a su casa, abrió un
 libro lleno de polvo, y se puso a leer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

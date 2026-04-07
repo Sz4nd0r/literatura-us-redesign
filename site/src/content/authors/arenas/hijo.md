@@ -73,6 +73,3 @@ Luego cerró la reja de entrada y salió a la calle. El hijo lo vio alejarse. De
 —Mamá —dijo, como en otros tiempos, cuando todavía era joven y era hijo. —Mamá,—dijo; porque no había aprendido a decir otra cosa. Y recordó todo el día. Y la espera. Y la llegada del visitante. Y se paseó solo dentro de aquella casa enorme, que se agrandaba. Y tuvo de golpe una visión de su soledad pasada y una visión plena e iluminada de sus soledades venideras. Y hasta quiso explicaciones y consejos. Pero, como siempre, nadie le respondió... Hacía tanto tiempo que la madre lo regía sin acompañarlo, disminuyéndolo, acosándolo, eliminándolo. —Mamá —dijo, y la vio caminando por un costado del cielo, a grandes zancos, siempre como apurada; siempre tratando de aprisionar el tiempo para gastarlo en labores vulgares. Pero esta vez ella tampoco le respondió. Hacía mucho tiempo que la madre estaba muerta.
 En la oscuridad, el viejo caminó hasta una de las paredes de la sala.
 —Luces —dijo, prendiendo el enchufe, como un nuevo creador automatizado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

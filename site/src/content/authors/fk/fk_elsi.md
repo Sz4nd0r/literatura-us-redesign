@@ -50,6 +50,3 @@ cuentan, fue tan zorro, tan rico en astucias, que ni aun la diosa del destino lo
 penetrar en su fuero más íntimo. Quizá —aunque esto ya no pueda concebirlo la
 razón humana— advirtió realmente que las sirenas callaban, y sólo, por decirlo así, a
 manera de escudo, les opuso a ellas y a los dioses el referido simulacro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

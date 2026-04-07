@@ -140,6 +140,3 @@ Puso una pantalla sobre la lámpara de modo que la habitación casi se sumió en
 “Lo que nos despertó cuando el bosque volvía a llenarse de sombras, cuando el fuego ya estaba apagado, cuando abrimos los ojos y miramos como ahogados la luz que se erguía brillante y espesa en la copa de los árboles, lo que nos despertó fue el ruido de los lobos…”
 —No —negó el vicario levantándose de repente—, vivieron felices.
 —No —dije yo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

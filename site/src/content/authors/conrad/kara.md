@@ -197,6 +197,3 @@ Junto a los bordes de la calzada giraban lentamente las grandes ruedas de los ca
 Lo decía mirando a su alrededor con sus claros ojos azules, insolentes y alegres, como los de un niño. Un torpe cordón de ómnibus rojos, amarillos y verdes marchaba dando tumbos de una forma monstruosa y chillona, unos niños llorones cruzaban la calle a toda prisa, un grupo de hombres medio sucios y con pañuelos rojos al cuello se agitaba maldiciendo, y un viejo vendedor de periódicos gritaba de una manera espantosa con un gesto desesperado, mientras a lo lejos, y entre las cabezas relinchantes de los caballos, el brillo de los arreos y el cúmulo de ventanillas y cubiertas de carruajes, se veía en la calzada a un sombrío guardia con casco y un brazo extendido hacia la calle.
 —Sí, lo entiendo —respondió Jackson despacio—. Ésta es la realidad: gime, arrasa, empuja, está viva… Si no tuviéramos cuidado nos acabaría aplastando y aun así… que me cuelguen si es más real que aquello… que la historia que nos contó Karain.
 Creo que no hay duda de que mi amigo había pasado demasiado tiempo fuera de Inglaterra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

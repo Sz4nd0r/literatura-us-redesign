@@ -87,6 +87,3 @@ Luego no sé lo que ocurrió. A mí me habían gustado aquellas dos bofetadas, i
 —Te espero fuera, cuando hayas acabado. Tengo ahí el coche... ¿A qué hora sales?
 —A las cuatro —dijo ella, con una luz de esperanza en los ojos—. ¿Me acompañas a casa en coche?
 Comprendí de pronto que para ella, realmente, no existía más que el interés: a las cuatro se habría reunido conmigo, pero no por mí, sino por el coche. Y era justo, en el fondo: vivía en San Giovanni. Pero comprendí que para mí todo había acabado, que no podría resistir el dolor de verla siempre tan interesada. De forma que le dije que la esperaría y luego salí. Fuera, en la calle, no encontré ya ni a Giorgio ni a los sudamericanos. Subí al coche y me fui a casa, a dormir. Lo de Corsignana ya había acabado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

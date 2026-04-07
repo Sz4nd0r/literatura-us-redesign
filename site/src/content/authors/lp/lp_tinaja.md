@@ -132,6 +132,3 @@ Y se fue, sin pensar en las cinco liras que había tirado en la tinaja por la ma
 En cierto momento don Lollò, que se había ido a dormir, fue despertado por un ruido infernal. Se asomó a un balcón de su granja y vio en la era, bajo la luna, a una multitud de diablos: los campesinos borrachos que, cogidos de la mano, bailaban alrededor de la tinaja. Zi’ Dima, en su interior, cantaba a grito pelado.
 Esta vez don Lollò no aguantó más: se abalanzó afuera como un toro enfurecido y, antes de que tuvieran la oportunidad de detenerlo, con un empujón envió la tinaja abajo, por la cuesta de la montaña. Rodando, acompañado por las risas de los borrachos, la tinaja se quebró contra un olivo.
 Y Zi’ Dima venció.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

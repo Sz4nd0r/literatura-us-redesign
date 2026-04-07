@@ -147,6 +147,3 @@ Isabel se incorporó, sentándose en la cama. Ahora era el momento. Era ahora qu
 —¿Isa-bel?
 No, era demasiado difícil. “Iré…, iré con ellos, y luego escribiré a William. Le puede escribir en cualquier momento. Más tarde. Ahora, no. Pero desde luego debo escribirle”, pensó Isabel apresuradamente.
 Y, riendo de aquella manera nueva, bajó corriendo las escaleras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

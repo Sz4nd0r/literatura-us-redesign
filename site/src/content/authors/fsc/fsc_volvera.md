@@ -321,6 +321,3 @@ Fue al teléfono y llamó al apartamento de los Peters; Lincoln descolgó.
 Volvió a su mesa. El vaso de whisky estaba vacío, pero negó con la cabeza cuando Alix lo miró, interrogante. Ya no le quedaba mucho por hacer, salvo mandarle a Honoria algunos regalos; al día siguiente se los mandaría. Más bien irritado, pensó que sólo era dinero: le había dado dinero a tanta gente…
 —No, se acabó —dijo a otro camarero—. ¿Cuánto es?
 Algún día volvería; no podían condenarlo a estar pagando sus deudas eternamente. Pero quería a su hija, y al margen de eso ninguna otra cosa le importaba. No volvería a ser joven, lleno de las mejores ideas y los mejores sueños, sólo suyos. Estaba absolutamente seguro de que Helen no hubiera querido que estuviese tan solo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

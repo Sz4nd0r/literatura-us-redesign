@@ -1417,6 +1417,3 @@ desesperados; esperanza para los que murieron sin esperanza, buenas
 noticias para quienes murieron sofocados por insoportables
 calamidades. Con mensajes de vida, estas cartas se apresuran hacia la
 muerte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

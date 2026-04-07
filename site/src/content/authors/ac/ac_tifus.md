@@ -77,6 +77,3 @@ Esa terrible e inesperada novedad se apoderó por entero de la conciencia de Kli
 Solo al cabo de una semana, cuando, vestido con una bata y sostenido por Pável, contempló el cielo encapotado de ese día de primavera y escuchó el ruido desagradable de unos viejos raíles que alguien transportaba por la calle, sintió que el corazón se le encogía de dolor, se echó a llorar y apoyó la frente en el marco de la ventana…
 —¡Qué desdichado soy! —balbució—. ¡Dios mío, qué desdichado!
 Y la alegría cedió su lugar al tedio de la vida cotidiana y a un sentimiento de pérdida irreparable.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

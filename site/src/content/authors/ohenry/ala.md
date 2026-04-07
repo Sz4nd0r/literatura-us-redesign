@@ -233,6 +233,3 @@ dorados había hecho que sus dedos operaran teclas extrañas.
 Entre el repollo colorado y los pimientos verdes
 rellenos figuraba el plato:
 QUERIDÍSIMO WALTER, CON RODAJAS DE HUEVO DURO.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

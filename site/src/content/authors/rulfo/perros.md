@@ -174,6 +174,3 @@ los dedos con que su hijo había venido sosteniéndose de su cuello y, al
 quedar libre, oyó cómo por todas partes ladraban los perros.
 —¿Y tú no los oías,
 Ignacio? —dijo—. No me ayudaste ni siquiera con esta esperanza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -43,6 +43,3 @@ Volvió: todos callaban, incluso los niños. Después el varón le preguntó:
 Nanín alzó los ojos hasta él, ojos iguales a los de su padre Battistín.
 —¡Nunca! —gritó.
 Dio un portazo y se fue a dormir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

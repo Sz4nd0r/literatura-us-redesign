@@ -162,6 +162,3 @@ Encontró un pájaro negro muerto en un pequeño montículo cerca del río, sus 
 [2] Dybbuk: [espíritu maligno del folklore judio]
 [3] Schnapps: [tipo de aguardiente]
 [4] Liga Ivy: [Grupo de las ocho Universidades más prestigiosas de los EEUU]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

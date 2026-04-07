@@ -137,6 +137,3 @@ Durante la espera no cesó de estremecerse el doctor Noel y el coronel Geraldine
 —¿Qué dice usted? ¿Cómo que aguarda su hora? —se extrañó el príncipe—. Usted me ha ayudado a castigar a quien más lo merecía. Doctor Noel, muchos y muy honestos y nobles afanes nos aguardan a usted y a mí juntos; con eso pagará más que de sobra sus antiguas deudas…
 —Bien, mientras eso acontece —dijo el médico—, permita, Alteza, que vaya a enterrar a mi viejo amigo.
 Así —observa mi erudito árabe— termina felizmente este cuento. El príncipe, no habría necesidad de decirlo, no arrojó al olvido a quienes le prestaron ayuda en esta impar aventura, pues gozan hasta el presente, las carreras de esos hombres, del apoyo que les da la autoridad magnánima del príncipe, así como de su amistad, toda una delicia para sus vidas privadas. Agrupar tan extraños acontecimientos, en los que el príncipe fue mano de la Providencia —sigue diciendo mi autor árabe— supondría llenar de libros el mundo habitable.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -188,6 +188,3 @@ Nick se alejó de la hoguera rumbo a la vía del ferrocarril. Cuando estuvo fuer
 —Tengo un horrible dolor de cabeza, Bugs.
 —Ya se le pasará, señor Francis —le calmó el negro—. Tome esta taza de café caliente y ya verá como se le pasa, señor Francis.
 Nick subió al terraplén y echó a andar. Cuando se dio cuenta de que tenía un sándwich de jamón en la mano, lo guardó en el bolsillo. Al llegar a la curva que hacía el terraplén antes de ascender por las colinas, Nick volvió la cabeza y pudo ver el resplandor en el llano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

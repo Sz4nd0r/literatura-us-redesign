@@ -124,6 +124,3 @@ Encontré cerrado su almacén, defendido por la policía contra los ataques posi
 Puse mi mano conmovido sobre su pecho, sentí algo que se desmenuzaba bajo su blusa y miré interrogativamente a Hop-Sing.
 Este introdujo su mano entre los pliegues de seda, y con la única sonrisa de amargura que vi jamás en la cara de aquel caballero pagano, retiró un objeto.
 Era el dios de porcelana de Wan-Lee, aplastado por una piedra de aquellos iconoclastas cristianos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

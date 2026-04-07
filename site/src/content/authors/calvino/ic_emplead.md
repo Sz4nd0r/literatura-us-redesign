@@ -87,6 +87,3 @@ Sonó el teléfono. Era el director. Preguntaba por los antecedentes de la recla
 Apoyó el auricular. Tenía la frente perlada de sudor. Se sentía cansado ahora, muerto de sueño. Había hecho mal en no pasar por casa para refrescarse y cambiarse: hasta la ropa interior le molestaba.
 Se acercó a la ventana. Había un gran patio rodeado de paredes altas y pobladas de balcones, pero era como estar en un desierto. El cielo se veía sobre los techos no ya límpido sino blanquecino, invadido por una pátina opaca, así como en la memoria de Gnei una blancura opaca iba borrando todo recuerdo de sensaciones, y una indistinta, quieta mancha de luz indicaba la presencia del sol como una sorda punzada de dolor.
 Se acercó a la ventana. Había un gran patio rodeado de paredes altas y pobladas de balcones, pero era como estar en un desierto. El cielo se veía sobre los techos no ya límpido sino blanquecino, invadido por una pátina opaca, así como en la memoria de Gnei una blancura opaca iba borrando todo recuerdo de sensaciones, y una indistinta, quieta mancha de luz indicaba la presencia del sol como una sorda punzada de dolor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

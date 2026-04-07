@@ -94,6 +94,3 @@ Pero él no lo soltaba.
 Él vio que el bebé se le
 escurría de las manos, y estiró con todas sus fuerzas.
 Así, la cuestión quedó zanjada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

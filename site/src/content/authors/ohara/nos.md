@@ -61,6 +61,3 @@ Cuando se hubieron marchado de la sala, Campbell se volvió a sentar y cruzó la
 —¿Mañana? ¿Es que nos marchamos mañana?
 —Sí.
 Él se puso en pie y le apartó la mesa para que pudiera salir. Después de que ella se marchara, él se sentó de nuevo para esperarla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -62,6 +62,3 @@ Al día siguiente no había ningún Muhammad Din al final de la entrada de coche
 Imam Din me dijo que el niño sufría ligeramente de fiebre y necesitaba quinina. Consiguió el medicamento y un doctor inglés.
 —No tienen resistencia estos mocosos —dijo el doctor al salir de los cuartos de Imam Din.
 Una semana más tarde, aunque me hubiera gustado mucho evitarlo, me topé en el camino al cementerio musulmán con Imam Din, acompañado por un amigo, cargando en sus brazos, envuelto en una tela blanca, lo que quedaba del pequeño Muhammad Din.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

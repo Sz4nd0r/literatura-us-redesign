@@ -472,6 +472,3 @@ Acércate más. A veces me pregunto… ¿no es demasiado sacrificado para
 tí estar todo el tiempo conmigo, aquí, lejos de todo?
 Él se agacha y la besa. La arropa le acomoda la almohada.
 —¡Sandeces! —murmura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -213,6 +213,3 @@ Root hablaba lentamente, porque el dolor le producía somnolencia.
 La respuesta de Dick fue áspera.
 —Déjate de historias de religión, muchacho. No olvides que «la religión es el opio del pueblo».
 —Sí, sí; ya lo sé —replicó Root—. Pero es que... así era como yo pensaba en aquel momento. Eso era lo que sentía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

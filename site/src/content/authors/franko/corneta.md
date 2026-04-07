@@ -89,6 +89,3 @@ Al llegar, cuando la banda formó fuera de la estación, nos quedamos mirándolo
 —No, no, no —gritó mi padre con enfado—. Os digo que, a partir de este momento, la música ha acabado para mí.
 —Querrás decir que la música ha acabado con nosotros —rugió Jim—. ¡Maldito sea el día en que oímos hablar por primera vez de Redmond y de O’Brien! Antes de eso éramos hombres felices… Está bien, muchachos —gritó, volviéndose con un brusco movimiento del brazo—. Mick Twomey no quiere saber nada más de nosotros. Tendremos que seguir sin él.
 Una vez más, oí los tres golpes solemnes del bombo, y la calle volvió a inundarse con un atronador torrente de música, y, aunque ya no sonaba para mí, tocó mi corazón como siempre y los ojos se me llenaron de lágrimas. Sin soltarme la mano, mi padre avanzó por la acera. Estaban tocando la Marcha de Brian Boru, su favorita. Los seguimos por las calles mal iluminadas de la ciudad y, cuando tomaron el desvío hacia el puente, mi padre se detuvo en el bordillo, observándolos mientras se alejaban como si quisiera grabar en su memoria hasta el último detalle. Así estuvimos hasta que la música cesó y el silencio volvió a adueñarse de la estrecha calle; entonces reanudamos nuestro solitario camino de vuelta a casa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -147,6 +147,3 @@ Phoenix se levantó con mucho cuidado y extendió la mano. Recibió el níquel y
 Entonces dio un golpecito con el bastón en el suelo.
 —Esto es lo que tenía que hacer —dijo—. Ahora iré a la tienda y le compraré a mi niño un molino de viento de papel que venden allí. No va a creerse que haya algo así en el mundo. Volveré a su lado llevándoselo en la mano, en esta mano.
 Levantó la mano libre, hizo una inclinación, se dio la vuelta y salió del consultorio. Luego empezaron a oírse sus pasitos lentos en las escaleras, bajando.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

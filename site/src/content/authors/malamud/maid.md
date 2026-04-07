@@ -138,6 +138,3 @@ Cuando salieron del cuarto, Armando llevando un bolso de compras y Rosa con una 
 Ella no contestó nada. Armando, que fumaba una colilla de cigarro, le abrió amablemente la puerta para que pasara y salieron juntos.
 Más tarde el profesor inspeccionó el cuarto de servicio y vio que Rosa se había llevado todas sus cosas menos los zapatos que él le había regalado.
 Cuando volvió su mujer al departamento, un poco antes del día de Acción de Gracias, le dio los zapatos a la portinaia que los usó una semana y luego se los regaló a su nuera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -83,6 +83,3 @@ En la mesa grande del Salón de Banquetes, que nunca en mi vida había visto que
 No pusimos mucho picante para no estropear el gusto. Está casi cruda, es un pedazo de nalga, muy blando, dijo tía Helena. El gusto de Ermé era ligeramente dulce, como ternera lechal, pero más sabroso.
 Cuando engullí el primer bocado, tía Julieta, que me observaba atentamente, sentada como las otras alrededor de la mesa, retiró el Anillo de su dedo índice, colocándolo en el mío.
 Fui yo quien lo sacó del dedo de tu padre, el día de su muerte, y lo guardaba para hoy, dijo tía Julieta. Eres ahora el jefe de la familia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

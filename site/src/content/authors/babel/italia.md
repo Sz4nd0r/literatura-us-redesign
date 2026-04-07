@@ -113,6 +113,3 @@ Así fue la noche: llena de lejanos y graves
 rumores; en la húmeda oscuridad, un resplandor cuadrado y dentro de él el
 rostro cadavérico de Sidorof, una máscara muerta sobre el fulgor amarillo de
 una vela.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

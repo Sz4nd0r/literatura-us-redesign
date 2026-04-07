@@ -119,6 +119,3 @@ Confuso, Ferris pensó solamente en otro niño, el niño pecoso, mimado por su f
 —Iremos a las Tullerías a menudo, a montar en el caballito y ver el guiñol. Lo veremos y no tendremos prisa nunca más.
 —Monsieur Jean —dijo el niño—. El guiñol está cerrado ahora.
 Otra vez el terror, la comprensión de años desperdiciados, y la muerte. Valentin, impulsivo y confiado, se acurrucaba entre sus brazos. Su mejilla tocó la mejilla suave y sintió el roce de las pestañas delicadas. Con íntima desesperación estrechó al niño como si una emoción tan cambiante como su amor pudiera dominar el pulso del tiempo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

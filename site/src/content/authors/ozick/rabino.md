@@ -321,6 +321,3 @@ Solo pude hacer un pequeño gesto de disculpa.
 —¿Y qué querrías que hiciera allí? ¿Danzar alrededor de un árbol y ponerles nombres griegos a las hierbas?
 —El alma de tu esposo está en ese parque. Consulta con ella.
 Su carcajada burlona me acompañó hasta casa, con lo que recordé sus palabras y tiré tres plantas de interior por el inodoro; tras un viaje de varias millas por los conductos llegaron directamente a la ensenada de Trilham, donde se descompusieron entre los excrementos de la ciudad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

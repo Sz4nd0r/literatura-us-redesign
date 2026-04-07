@@ -36,6 +36,3 @@ A las diez de la mañana les permitieron avanzar unos metros cada media hora, y 
 A mediodía corrió la voz de cuadra en cuadra, metros y metros de cola de lento avanzar: «Tiene la frente verde. Cierran para pintarla».
 Y fue el rumor más aceptado porque, aunque mentiroso, encajaba a la perfección para los miles y miles de necrófilos murmurantes y enlutados.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

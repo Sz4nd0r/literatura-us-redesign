@@ -70,6 +70,3 @@ Refiriéndose a la buena o mala suerte, se expresa así:
 “El endosar documentos es una práctica perniciosa, pero está muy lejos de poder compararse a una partida de póker a crédito; el problema de la ganancia o de la pérdida no debiera nunca interponerse en los finos cálculos intelectuales necesarios para practicar este juego.”
 Contienen una profunda convicción las observaciones que formula sobre el jugador que ha podido disciplinar su talento para aceptar con lógica los principios y las sorpresas que encierra dicho juego. “Se sentirá así completamente seguro frente a cualquier posible fluctuación que ocurra, y, en consecuencia, sabrá cómo abstenerse de forzar el juego de un contrario ignorante o de mentalidad débil más allá de lo imprescindible, con el propósito de que la partida se juegue con corrección y para castigar las infracciones de algún presumido.”
 Me despido ahora de míster John Blackbridge transcribiendo sus últimas palabras, que casi le oigo decir con una sonrisa de tolerancia: “Debemos acostumbrarnos a tomar a la naturaleza tal como es.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

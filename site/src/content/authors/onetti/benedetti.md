@@ -877,6 +877,3 @@ siempre vacíos, son recipientes que tomarán la forma del sentimiento que
 los llene». Eso es lo que ha variado: el sentimiento. Y es de es­perar
 que el cambio ayude a Onetti a convertir su vieja derrota metafísica en
 una nueva victoria de su arte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

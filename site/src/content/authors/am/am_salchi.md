@@ -89,6 +89,3 @@ Más vale no hablar del regreso. Recorrí cinco kilómetros a pie; estaba tan at
 —¡Ladrona!... ¡Por fin te encuentro, ladrona! —fingió no conocerme e incluso dijo, descarada:
 —¿Quién conoce a este tipo? No he visto en mi vida esa cara de salchichero.
 ¿Comprenden ustedes? También ella me llamaba “cara de salchichero”, como mis amigos, como la muchacha de via Pinciana. Por eso, desde entonces, me he dejado crecer el bigote, caído, rubio, largo. Pero, a pesar del bigote, aún no he encontrado una muchacha.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

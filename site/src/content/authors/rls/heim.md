@@ -113,6 +113,3 @@ Markheim observó fijamente a su consejero.
 Las facciones del visitante empezaron a experimentar un hermoso y extraordinario cambio: una expresión de triunfo iluminó y suavizó su cara, al tiempo que la hacía apagarse hasta desaparecer. Pero Markheim no se detuvo a observar ni a comprender la transformación. Abrió la puerta y bajó las escaleras muy despacio mientras reflexionaba. Ante él vio pasar con calma su pasado; lo contempló tal como era, desagradable y agotador como un mal sueño, aleatorio como un homicidio sin premeditación, la escena de una derrota. La vida, así analizada, dejó de tentarlo; pero a lo lejos atisbó un tranquilo puerto para su barca. Se detuvo en el pasillo y desde arriba contempló la tienda; la vela seguía ardiendo al lado del cadáver. Todo estaba sumido en un raro silencio. Mientras así estaba, lo asaltaron pensamientos sobre el anticuario. Y entonces el timbre sonó de nuevo con impaciencia.
 Recibió a la criada en el umbral con una especie de sonrisa.
 —Será mejor que vaya a buscar a la policía —dijo—, he matado a su señor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

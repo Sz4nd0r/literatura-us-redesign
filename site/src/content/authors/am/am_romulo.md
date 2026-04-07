@@ -81,6 +81,3 @@ Todo esto se lo decían mientras yo, medio atontado por el bienestar, pensaba en
 Él, aterrado, echó a correr por la trattoria, derribando las mesas y las sillas. La niña, entre tanto, había estallado en llanto; el niño se había ido también a la cocina y ahora blandía un rodillo de amasar, no sé si para defender a su madre o a su padre. Comprendí que éste era el momento propicio. Me levanté, diciendo:
 —¡Calmal... ¡Qué diablos!... ¡Calma, calma!
 Y mientras repetía: —“ ¡Calma, calma!”, me encontré fuera de la trattoria, en el callejón. Apresuré el paso, doblé la esquina; en la plaza del Panteón recobré mi pase normal y me dirigí hacia el Corso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

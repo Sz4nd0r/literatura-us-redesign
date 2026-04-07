@@ -127,6 +127,3 @@ Cuando hubo terminado y dejado la taza, Sunniva le acompañó hasta la puerta y 
 Ella le miró fijamente a los ojos.
 —Nosotras no olvidamos —dijo—. Tú me diste un golpe en la cabeza, allá, en lo alto del mástil; así que te lo devolveré —y a continuación le dio una bofetada con todas sus fuerzas, al punto de que la cabeza le daba vueltas—. Ahora estamos en paz —dijo; le dirigió una mirada centelleante, larga, maligna, le empujó suavemente para hacerle trasponer el umbral y le hizo un signo afirmativo con la cabeza.
 Así, pues, el muchacho marinero regresó a su barco, que iba a zarpar a la mañana siguiente, y vivió para contarlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

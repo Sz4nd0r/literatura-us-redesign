@@ -237,6 +237,3 @@ Cayó al suelo y, levantándose sobre las manos, volvió a llamar:
 —¡Tania!
 Llamaba a Tania, al gran jardín con flores magníficas, salpicadas de rocío; llamaba al parque, a los pinos con raíces de terciopelo, a los campos de centeno, a sus asombrosos conocimientos, a su audacia, a su alegría; llamaba a aquella vida de antaño tan hermosa. En el suelo, junto a su cara, veía un gran charco de sangre; la debilidad le impedía ya pronunciar palabra, pero una felicidad inefable e infinita embargaba todo su ser. En la planta inferior, bajo el balcón, interpretaban una serenata y el monje negro le susurraba que era un genio y que moría solamente porque su débil cuerpo humano había perdido el equilibrio y ya no podía servir de envoltorio a un genio.
 Cuando Varvara Nikoláievna se despertó y salió de detrás del biombo, Kovrin ya había muerto; en su rostro se había petrificado una sonrisa de felicidad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -114,6 +114,3 @@ Yo no me había quedado nada satisfecho y antes de salir intenté continuar:
 —El arte —interrumpió el gran crítico amablemente impaciente—; todos saben qué es el arte.
 La continuación de esta historia es demasiado triste para que la cuente con todo detalle. Al lector bástele con saber que después de aquella visita parece que el cerebro del amigo Y. empezó a perder algún tornillo. Ha pasado mucho tiempo pero él se obstina en llevar por las redacciones extrañas poesías sin pies ni cabeza, pretendiendo su publicación y cobrar por ellas. Todos le conocen ya y sin más ceremonias lo ponen en la puerta.
 Ya no ha vuelto a visitar al gran crítico desde el día en que ese personaje se vio obligado, para liberarse de su atosigamiento, a hacerle bajar rodando las escaleras, o poco menos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

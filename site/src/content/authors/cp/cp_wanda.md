@@ -20,6 +20,3 @@ Al verla se me quitan las ganas de llorar y me entra la sospecha de que es idén
 Por fin se ha levantado y cruza el salón. Puedo llorar ahora. ¿No es ya más que llorar, venir de noche a casa de Wanda, verla sufrir y saber que nada de lo que yo haga le sirve, porque total no me importa nada ella? ¿Me importaba algo Bruno?
 Ahora Wanda debería regresar y no regresa. Estoy solo con Bruno.
 “Oh, Wanda, escúchame, me siento como un perro.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

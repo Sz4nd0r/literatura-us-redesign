@@ -62,6 +62,3 @@ pienses en tus amigos al escribir, ni en la impresión que hará tu
 historia. Cuenta como si tu relato no tuviera interés más que para el
 pequeño ambiente de tus personajes, de los que pudiste haber sido uno. No
 de otro modo se obtiene la vida del cuento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -183,6 +183,3 @@ Cuando acabó de hablar se agazapó, celoso, sobre la estufa. Durante unos momen
 —Pero Kid —protestó Prince—. Ha cometido un crimen.
 —¡Silencio! —ordenó Malemute Kid—. Hay cosas que exceden a nuestra sabiduría y que están más allá de nuestra justicia. No podemos decir quién ha hecho bien y quién ha hecho mal. No nos toca a nosotros juzgar.
 Naas se acercó más al fuego. Luego se hizo un profundo silencio, y ante los ojos de cada uno de nosotros, innumerables imágenes pasaron y se desvanecieron.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

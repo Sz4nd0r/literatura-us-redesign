@@ -218,6 +218,3 @@ Maigret sonríe.
 Se encontró, en el alféizar de la ventana, los restos del petardo y un trozo de hilo de cobre unido al teléfono interior.
 —¡Eso no es cierto! —gritó Descharneau el primer día.
 Pero, al día siguiente, se le encontró ahorcado en su celda, por medio de bandas de tela que había confeccionado con su camisa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

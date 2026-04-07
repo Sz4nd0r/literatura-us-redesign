@@ -78,6 +78,3 @@ Era un argumento imposible de refutar y me mantuve en silencio durante unos mome
 Consultó su reloj.
 —Está ocurriendo algo totalmente anormal. Son casi las 4.10 y ni siquiera han puesto las señales para el tren de las cuatro desde Bletchley. Sí, puedes verificar la hora, pero esta tardanza no puede explicarse por una diferencia de nuestros relojes.
 Hasta hoy he olvidado por qué llevaba tanto retraso el tren de las cuatro. Hasta había olvidado al doctor Crombie y nuestra conversación. El doctor Crombie sobrevivió unos años sin ejercer su profesión y al fin murió tranquilamente de neumonía, consecuencia de una gripe. Me casé cuatro veces —tan poco había tenido en cuenta el consejo del doctor Crombie—. Sólo hoy he recordado su teoría, cuando mi especialista me ha revelado, con exagerada gravedad y cautela, que tengo cáncer de pulmón. Mis deseos sexuales, ahorita que he pasado los sesenta, empiezan a disminuir y estoy resignado a hundirme en las sombras con los dinosaurios. Desde luego, los médicos atribuyen mi enfermedad al exceso de cigarrillos. Sin embargo, me divierte creer, con el doctor Crombie, que ha sido provocada por excesos de índole más agradable.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -521,6 +521,3 @@ Marcel volvió la cabeza hacia la pared encalada.
 —Te prometo…
 —Y que jamás volveré a encontrar en tus bolsillos un cerdito sin rabo…
 Sólo a partir de entonces empezaron a hablar en serio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

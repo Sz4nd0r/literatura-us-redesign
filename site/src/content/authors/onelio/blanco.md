@@ -154,6 +154,3 @@ Al otro día el médico vino a casa de Alejandro, al atardecer, y al preguntar p
 —Desde esta mañana –dijo la tía,
 y el médico, mirando por la ventana el carrusel, dijo sentándose de un golpe:
 —¡Contra! ¡Increíble! ¡Pues sí que son buenas estas medicinas mías!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

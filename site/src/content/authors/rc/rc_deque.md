@@ -182,6 +182,3 @@ Mel volcó su vaso. Lo derramó sobre la mesa.
 Oía los latidos de mi corazón. Oía el corazón de los demás. Oía el ruido humano que hacíamos allí sentados, sin movernos, ninguno lo más mínimo, ni siquiera cuando la cocina quedó a oscuras.
 N. del T.:
 [1] Mel dice vessels (vasijas, navios) en lugar de vassals (vasallos). La confusión es en inglés quizá venial merced a la gran similitud fonética entre ambos vocablos. En castellano, sin embargo, al no existir una palabra susceptible de confundirse verosímil y equiparablemente con «vasallo», se ha juzgado inevitable recurrir a una deformación —harto forzada— de la palabra misma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -80,6 +80,3 @@ Casi me dieron ganas de reír; y confieso que no me desagradaba que Torello hubi
 Durante un rato no hablamos nada. Por fin Torello dijo:
 —Toda la culpa es de aquella bruja.
 Me habría gustado decirle que la culpa era suya, pero me callé; total, sabía que de nada iba a servir. En Roma nos separamos y desde aquel día no lo he vuelto a ver.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

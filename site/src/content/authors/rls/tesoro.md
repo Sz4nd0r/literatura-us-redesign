@@ -469,6 +469,3 @@ Y se sentó sobre el cesto y rompió a llorar como un niño.
 —Ahora no os iréis a París —dijo Jean-Marie tímidamente.
 —Casimir —dijo Desprez, alzando la cara cubierta de lágrimas—, ¿ves a ese chico, ese ángel? Él es el ladrón: le robó el tesoro a un hombre a quien no podía confiársele y me lo devuelve ahora que me he vuelto más sobrio y más humilde. Estos, Casimir, son los Frutos de mis Enseñanzas, y este momento es la Recompensa de mi Vida.
 —Tiens —dijo Casimir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

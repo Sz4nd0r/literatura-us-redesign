@@ -64,6 +64,3 @@ Callaron otro poco.
 —Cuando hace sol hace sol en todas partes.
 —No querías el sol.
 —No me gusta trabajar con sol. Me gusta irme de paseo por la mañana. Me gusta despertarme cuando todo está hecho. Ya verás como mañana, cuando, hayamos terminado, ya no hará sol.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -298,6 +298,3 @@ Yo hablo:
 —No la cague usted, compadre.
 Él se sienta por su cuenta en la punta del escritorio. Yo voy hacia el sillón y también me siento.
 Y ahí nos quedamos mirándonos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

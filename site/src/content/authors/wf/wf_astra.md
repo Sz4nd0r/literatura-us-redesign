@@ -234,6 +234,3 @@ Notas de la traducción:
 [1]Subadar: en el ejército británico de la India, oficial nativo y jefe al mando de una
 compañía de soldados nativos. La palabra, anglo-india, está compuesta por la voz
 subah (provincia del imperio mongol) y el sufijo -dar, «señor».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -190,6 +190,3 @@ Gritó:
 —¡Quita esa porquería de mi vista! ¿Qué diablos te pasa? ¡Saca ahora mismo de la cocina esa piltrafa y tírala al cubo de la basura!
 Salí a la parte de atrás. Miré en la cesta. Lo que había dentro lanzaba un brillo plateado bajo la luz del porche. Lo que había dentro llenaba toda la cesta.
 Lo saqué. Lo levanté. Y me quedé con aquella mitad en la mano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

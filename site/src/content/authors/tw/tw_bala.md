@@ -67,6 +67,3 @@ Llegan los dos últimos chicos, Coyle y un primo suyo de Mississippi. Anders no 
 —Parador —dice el chico—. Parador es la fetén, chavea.
 Anders se vuelve y lo mira. Le gustaría oír al primo de Coyle repetir lo que acaba de decir, pero sabe que no debe pedírselo. Los otros creerán que se está burlando de la forma de hablar del chico y le llamarán memo. Pero no se trata de eso, en absoluto, sino de que esas dos últimas palabras, su pura imprevisibilidad, su música, han producido en Anders un extraño entusiasmo, un extraño regocijo. Entra en el campo en trance, repitiéndoselas para sus adentros.
 La bala ya está en el cerebro; no se la puede adelantar perennemente ni detener por arte de magia. Terminará por hacer lo que tiene que hacer y dejará el cráneo atrás, arrastrando su cola de cometa trenzada de memoria y esperanza y talento y amor hasta el templo marmóreo del comercio. Es inevitable. Pero por el momento Anders todavía puede ganar tiempo. Tiempo para que las sombras se alarguen sobre el césped, tiempo para que el perro atado ladre a la pelota que pasa por el aire, tiempo para que un muchacho al lado derecho del campo palmotee su guante de béisbol, negro de sudor, mientras recita suavemente fetén, chavea; fetén, chavea; fetén, chavea.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

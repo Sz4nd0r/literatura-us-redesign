@@ -87,6 +87,3 @@ Se desplomó en el asiento, jadeando. Estaba aún más pálido. Tenía los labio
 »Y yo sin saberlo, yo sin saberlo —murmuraba, hundiéndose en el asiento y secándose el sudor con manos temblorosas.
 El coche botaba, se balanceaba e iba dando bandazos por las esquinas a tal velocidad que cualquier conversación era imposible. Además, no había nada que decir. Pero yo podía oírle murmurar una y otra vez:
 —Y yo sin saberlo, yo sin saberlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

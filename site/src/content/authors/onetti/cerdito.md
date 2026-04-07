@@ -23,6 +23,3 @@ Revolvieron en todos los muebles del dormitorio, buscaron debajo del colchón. S
 —Dale otro golpe. Por las dudas.
 Caminaron despacio bajo el sol y al llegar al tablón de la zanja cada uno regresó separado, al barrio miserable. Cada uno y su choza y Guido, cuando estuvo en la suya, vacía como siempre en la tarde, levantó ropas, chatarra, desperdicios del cajón que tenía junto al catre y extrajo la alcancía blanca y manchada para guardar su dinero; una alcancía de yeso en forma de cerdito con una ranura en el lomo.
 1982
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

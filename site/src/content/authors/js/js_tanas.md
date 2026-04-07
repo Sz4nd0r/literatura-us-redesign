@@ -231,6 +231,3 @@ Carl rió.
 —¿Quieres salir a buscarle, Carl?
 —Bah, no; así me ahorrará el trabajo de enterrar a ese caballo. Pero me pregunto de dónde habrá sacado ese revólver y qué es lo que va a hacer allá.
 Jody cruzó la huerta, hacia el matorral. Desde allí, miró con ojos interrogadores las montañas que se erguían majestuosamente, sierra tras sierra, hasta el mar. Por un minuto creyó divisar una mancha negra que se arrastraba en la sierra más lejana. Pensó en el espadín, y en Gitano, y en las grandes montañas. Sentía un gran deseo, un deseo tan agudo, que hubiera querido llorar para arrancárselo del pecho. Se tendió en el césped cerca del abrevadero al borde de la pradera. Se cubrió los ojos con los brazos y estuvo allí largo rato, lleno de una tristeza sin nombre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

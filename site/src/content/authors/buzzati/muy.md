@@ -80,6 +80,3 @@ A no ser que usted, señor director, sea diferente de lo que yo siempre he pensa
 Pero no. Usted no lo hará. Al contrario, hasta ahora usted siempre ha sido un hombre generoso, incapaz de dar el más mínimo empujón al condenado para arrojarlo al abismo, aunque se lo merezca.
 Además, su periódico nunca publicaría como artículo de tercera página una porquería como ésta. ¿Qué quiere? Lo que es yo, escribo de pena. No tengo práctica. No es lo mío. Nada que ver con esas cosas formidables que me proporcionaba Bissàt; y que llevaban mi firma.
 No. Aun en la hipótesis absurda de que usted fuera un hombre abyecto y quisiera destruirme, jamás sacaría a la luz esta ignominiosa carta (¡que me cuesta lágrimas y sangre!). Con ello el periódico recibiría un duro golpe.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

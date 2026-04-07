@@ -93,6 +93,3 @@ Sale corriendo hacia el río y se tira al agua.
 La corriente arrastra tablas de madera y más cosas. La crecida del agua es enorme. No se oye el menor sonido procedente del río después de que se haya zambullido, así que me precipito hacia la orilla. Miro a mi alrededor. Está oscuro. Lo veo ya en medio del cauce y sé que no ha llegado allí nadando sino arrastrado por la corriente. Está lejos. Oigo su voz, no obstante, muy clara por encima del agua.
 —Se me están llenando las botas de agua —dice.
 Lo dice con voz tranquila, como si acabara de reparar en ello y no supiera qué pensar. Después, desaparece. Pasa una rama. Luego otra. Para cuando salgo del río y me suelto del tronco al que me he agarrado, el sol ya se ha puesto. Camino hasta el coche, enciendo los faros y acerco el descapotable hasta la orilla. Meto primera y quito el pie del embrague. Salgo del coche, cierro la puerta y observo cómo se abre camino dentro del río. Las potentes luces hienden el agua a medida que se va sumergiendo mientras buscan, todavía encendidas después de que el agua haya engullido la parte trasera. Al final todo es oscuridad. Luego solo queda el agua y el murmullo del agua que va y corre, va y corre y sigue corriendo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

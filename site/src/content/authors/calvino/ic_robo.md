@@ -72,6 +72,3 @@ Niñojesús se agachó detrás del mostrador. No debían de haber dado en el bla
 Los de la policía verificaban el robo y las huellas de la comilona en los anaqueles. Y así, distraídamente, empezaron a llevarse a la boca algunas pastitas que habían quedado sueltas, tratando de no confundir las huellas. Al cabo de unos minutos, estimulados por la búsqueda del cuerpo del delito, estaban todos comiendo a dos carrillos.
 Niñojesús masticaba, pero los otros masticaban más fuerte que él y tapaban el ruido. Y sentía que algo denso se le licuaba entre pecho y camisa, y que la náusea le subía desde el estómago. Estaba tan mareado a fuerza de comer frutas confitadas que tardó un poco en darse cuenta de que el camino hacia la puerta estaba libre. Los de la policía dijeron después que habían visto un mono con el hocico empastelado que atravesaba a saltos la tienda, derribando bandejas y tortas. Y antes de que se repusieran del estupor y de que hubieran despegado los pies de las tortas, Niñojesús había desaparecido.
 Cuando se desabotonó la camisa en casa de Mary la Toscana, se encontró con el pecho cubierto de una extraña mezcla. Y estuvieron hasta la mañana, él y ella, tendidos en la cama, lamiéndose y picoteándose hasta la última migaja, hasta el último resto de crema.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

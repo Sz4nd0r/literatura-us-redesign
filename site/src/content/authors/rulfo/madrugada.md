@@ -186,6 +186,3 @@ cirios, mientras velaban el cuerpo del difunto. Voces de mujeres cantaban
 en el semisueño de la noche: “Salgan, salgan, salgan, ánimas, de penas”
 con voz de falsete. Y las campanas estuvieron doblando a muerto toda la
 noche, hasta el amanecer, hasta que fueron cortadas por el toque del alba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

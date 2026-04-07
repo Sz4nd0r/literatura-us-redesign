@@ -64,6 +64,3 @@ El asesino vio detenerse el camión. Los obreros bajaron, descargando su materia
 —¿Cree usted que los policías estarán ya en funciones a esta hora?
 Y luego de oír la respuesta afirmativa del guardabosques, que no entendía el porqué de la pregunta, el asesino se puso en marcha hacia su castigo.
 1940
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -54,6 +54,3 @@ El capitán Woodward se pasó la mano por las cicatrices que cruzaban su pelada 
 —Yo ya he cumplido —dijo—. Llevo cuarenta años dedicado a esa tarea. Éste será mi último viaje. Luego volveré a casa y no me moveré de allí.
 —Le apuesto lo que quiera a que no será así —le desafió Roberts—. Usted morirá con las botas puestas, no en su casa.
 El capitán Woodward aceptó inmediatamente la apuesta, pero, personalmente, creo que ganará Charley Roberts.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

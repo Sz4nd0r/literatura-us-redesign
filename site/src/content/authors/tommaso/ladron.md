@@ -27,6 +27,3 @@ El ladrón no respondió y se levantaba despacio.
 —¿Querías robar, eh? —continuó el otro, pero no irónicamente, sino casi con melancólica alegría. Y lo miraba con sus ojos oscuros. En los del ladrón seguro que brillaban las lágrimas, temblaba un poco y no se movía.
 —Pero pasa, querido amigo —dijo el señor de repente—, entra en mi casa. ¿Eres pobre? (continuó serio). Tu mujer y tus hijos no tienen que comer, ¿no? Pero entra —y lo empujaba dentro por un brazo.
 En la luz turbia los dos hombres se miraban profundamente a los ojos; los del señor también se llenaron de lágrimas; luego sonrió dulcemente. Uno de los dos abrió los brazos, el otro se arrojó en ellos sin miedo. El señor y el ladrón se abrazaron llorando, sollozando como niños. Y aquellas lágrimas no querían parar; corrían, corrían y lavaban sus rostros. Eran un consuelo para sus corazones.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

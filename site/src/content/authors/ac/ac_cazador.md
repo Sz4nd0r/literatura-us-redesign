@@ -59,6 +59,3 @@ Le entrega un billete de un rublo todo arrugado y se aleja con rapidez.
 —¡Adiós, Yegor Vlásich! —dice ella, cogiendo maquinalmente el rublo.
 El cazador avanza por un camino largo y recto como una correa tendida… Ella, pálida e inmóvil como una estatua, sigue con la mirada cada uno de sus pasos. Pero pronto el color rojo de su camisa empieza a fundirse con la tonalidad oscura de los pantalones; sus pasos se hacen invisibles; el perro ya no se distingue de las botas. Sólo se ve la gorra, pero… de repente Yegor gira bruscamente a la derecha y también esta desaparece entre el follaje.
 —¡Adiós, Yegor Vlásich! —susurra Pelagueia y se pone de puntillas para ver al menos una vez más la gorra blanca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

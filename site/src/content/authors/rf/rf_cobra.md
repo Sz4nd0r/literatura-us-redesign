@@ -149,6 +149,3 @@ Noticia: El gobernador se va a disfrazar de Papá Noel. Noticia: Menos festejos 
 La víspera de Navidad es un buen día para que esa gente pague lo que debe, dice Ana. Al Papá Noel del baile quiero matarlo yo mismo a cuchilladas, digo.
 Le leo a Ana lo que he escrito, nuestro mensaje de Navidad para los periódicos. Nada de salir matando a diestra y siniestra, sin objetivo definido. Hasta ahora no sabía qué quería, no buscaba un resultado práctico, mi odio se estaba desperdiciando. Estaba en lo cierto por lo que a mis impulsos se refiere, pero mi equivocación consistía en no saber quién era el enemigo y por qué era enemigo. Ahora lo sé, Ana me lo enseñó. Y mi ejemplo debe ser seguido por otros, sólo así cambiaremos el mundo. Ésta es la síntesis de nuestro manifiesto.
 Meto las armas en una maleta. Ana tira tan bien como yo, sólo que no sabe manejar el cuchillo, pero ésta es ahora un arma obsoleta. Le decimos adiós a doña Clotilde. Metemos la maleta en el coche. Vamos al Baile de Navidad. No faltará cerveza, ni pavos. Ni sangre. Se cierra un ciclo de mi vida y se abre otro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

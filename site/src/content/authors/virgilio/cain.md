@@ -173,6 +173,3 @@ desapareció, Vicente sacó su mechero de plata del bolsillo, lo encendió
 con un movimiento del pulgar y lo acercó a la tarjeta que tomó del
 escritorio, manteniéndolo allí hasta que ésta ardió totalmente con una
 llama rojiza y brillante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

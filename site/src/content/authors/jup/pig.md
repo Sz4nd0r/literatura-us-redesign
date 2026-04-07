@@ -39,6 +39,3 @@ En la cama, observó ella:
 —¿Quieres que te frote la espalda?
 —¡Humm! Sería realmente estupendo.
 Y mientras su mano izquierda trabajaba en la suave, cálida y flexible piel, su esposa, aquella pequenez que era exclusivamente de ella, se puso fuera de su alcance. Noche tras noche, se quedaba dormida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

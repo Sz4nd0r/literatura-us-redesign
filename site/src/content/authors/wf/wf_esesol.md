@@ -324,6 +324,3 @@ el hombre al que amo no se hubiera ido.
 Tengo el blues de St. Louis, la pena más grande.
 Él tiene el corazón como una piedra tirada al mar.
 Si no, no se habría ido tan lejos de mí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

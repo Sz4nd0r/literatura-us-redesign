@@ -89,6 +89,3 @@ largas que sus tenazas. Entonces el cangrejito, no sabiendo si llorar o reír de
 volar para siempre.
 Desde aquella mañana todo el mundo vivía asombrado, con las caras vueltas hacia arriba para ver el cangrejito volador atravesar el aire, y hasta el viejo abuelo solía decir orgulloso ahora:
 —¡Tengo un nieto plumoso, lindo como un tocororo y vuela como el viento!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

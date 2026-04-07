@@ -76,6 +76,3 @@ Comieron juntos.
 —Mamá —le dijo—, puedo aguantar debajo del agua dos, tres minutos. —Le salió de dentro de pronto.
 —¿Ah, sí, cariño? —contestó ella—. Bueno, no deberías pasarte. Me parece que ya está bien de nadar por hoy.
 Estaba lista para una disputa de voluntades, pero él cedió al instante. Ir a la cala ya no tenía la más mínima importancia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

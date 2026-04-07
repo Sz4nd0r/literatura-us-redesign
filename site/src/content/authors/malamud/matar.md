@@ -61,6 +61,3 @@ Marcus se precipitó hacia ellos, gritando:
 —¡No, no, por favor, por favor!
 Agitaba los descarnados brazos, asqueado, enervado (y entre aquel estrépito no oía más que el atronador reloj), y su corazón, como una frágil jarra, se cayó del estante y botó y rebotó escaleras abajo, rompiéndose al fin y dispersando los tiestos por todas partes.
 Aunque los ojos del viejo judío estaban vidriosos cuando se encogió, los dos asesinos leyeron en ellos, con toda claridad, las preguntas: «¿Qué les dije? ¿Lo ven?»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

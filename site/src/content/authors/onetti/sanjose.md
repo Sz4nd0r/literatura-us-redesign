@@ -32,6 +32,3 @@ Llegó la madrugada y estuvo erguido el inmenso palomar. José se arrastró del 
 —¿Lo hiciste? —preguntó ella.
 —Orden del Señor —respondió, y se entregó a la persistencia del cansancio.
 Y una tarde de sol rojo y amarillo, mientras martillaba las suelas de las sandalias de un peregrino, vio cruzar y alzarse desde su casa, atravesando el agujero que le servía de ventana, en el taller, alejándose majestuoso y seguro, levantando apenas las alas, deslumbrante de santidad y belleza, al palomo de plata del Espíritu Santo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

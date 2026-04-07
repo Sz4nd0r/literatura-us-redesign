@@ -174,6 +174,3 @@ En París tenían cinco horas para matar el tiempo.
 Estaban caminando junto al río, cerca de la feria, cuando de pronto Mary se detuvo delante de una tienda de objetos de cerámica.
 —Esa vasija —exclamó, y su voz parecía renovada, vital—, esa vasija grande y roja, esa de allí, es perfecta para el árbol de Navidad.
 —Claro. Ve y cómprala, abuela —asintió él de inmediato, con profundo alivio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

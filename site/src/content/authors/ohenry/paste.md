@@ -130,6 +130,3 @@ Era un par de pastelillos calientes, de un espléndido color tostado. Me los sir
 —Deliciosos —dije—. ¿No comes tú alguno, Jud?
 Pareciome percibir un sofocado suspiro.
 —No los probaré en toda mi vida —respondió Jud.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

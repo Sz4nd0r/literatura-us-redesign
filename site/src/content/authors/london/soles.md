@@ -666,6 +666,3 @@ entiende.
 —Sí —contestó—. Pero, ¿qué final?
 —Fue un trozo de vida —dije.
 —Sí —respondió—. Fue un trozo de vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

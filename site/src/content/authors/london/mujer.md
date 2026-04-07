@@ -363,6 +363,3 @@ La boca de Shorty se abrió y en los labios y la luz de los ojos surgió el enig
 Shorty se tragó la broma y cambió de idea.
 —¡Ja! No me hace falta una corazonada para adivinar el nombre de la chica. Todos los demás se han ido al lago Surprise para la operación de drenaje, pero Joy Gastell se negó a ir. Se ha quedado en Dawson, a la espera de ver si regreso contigo. Y ha jurado que, si no lo consigo, venderá sus propiedades y contratará un ejército de tiradores para adentrarse en el país del caribú y dejar al condenado de Snass y a toda su pandilla sin fluido vital. Si eres capaz de contener tus ansias un par de minutos, creo que me dará tiempo a recoger y acompañarte.
 (1912)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

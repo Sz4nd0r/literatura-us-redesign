@@ -86,6 +86,3 @@ Fortaleza Pedro y Pablo, en San Petersburgo, donde murió ese mismo año. El cua
 del que se habla es obra del pintor K. D. Flavitski (1830-1866). En él se representa a
 la princesa Tarakánova en una celda durante una inundación, que llevó a las ratas de
 la cárcel a buscar refugio junto a ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

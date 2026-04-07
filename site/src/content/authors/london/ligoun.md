@@ -72,6 +72,3 @@ Palitlum alargó la mano.
 —Ese Tres Estrellas que guardas entre las piernas es mío por el relato que te he contado —dijo.
 Y mientras yo miraba hacia el ceño fruncido del risco a nuestras espaldas, vi la sombra de un torso humano, monstruoso bajo una enorme botella invertida.
 [1902]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

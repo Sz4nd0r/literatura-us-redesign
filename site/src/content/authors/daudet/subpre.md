@@ -110,6 +110,3 @@ señor, entran en el bosquecillo, Ven un espectáculo que les hace retroceder co
 horror. El señor subprefecto estaba echado boca abajo encima de la hierba,
 despechugado como un bohemio. Habíase quitado la casaca, y mascando violetas,
 el señor subprefecto hacía versos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

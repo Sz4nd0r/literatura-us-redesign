@@ -206,6 +206,3 @@ En la terraza de los Babcock se abre de golpe una puerta y por ella sale la señ
 Un pobre gato cruza por el jardín, hundido en la más completa aflicción espiritual y física. Lleva atado a la cabeza un sombrerito de paja —un sombrero de muñeca—, y lo han abotonado a conciencia dentro de un vestido también de muñeca, de cuyas faldas sobresale el largo y peludo rabo. Al andar, sacude las patas, como si se hubiera caído al agua.
 —¡Ven aquí, garito, ven aquí! —lo llama Julia—. ¡Aquí, garito, pobre garito!
 Pero el gato le dirige una mirada de escepticismo y se aleja a trompicones con sus faldas. El último en aparecer es Júpiter. Salta atravesando las tomateras, sosteniendo en la boca generosa los restos de una zapatilla. Luego llega la oscuridad; ésta es una noche en la que reyes con trajes dorados cabalgan sobre las montañas a lomos de elefantes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -99,6 +99,3 @@ El conde me acercó una butaca, y con enorme curiosidad escuché el siguiente re
 “—No lo haré —contestó Silvio—, ya estoy satisfecho, he visto tu desesperación, tu miedo; te he obligado a que me dispararas, tengo suficiente. Te acordarás de mí. Te dejo en manos de tu conciencia.
 “Se dirigió a la salida, pero se detuvo en la puerta; miró al cuadro que yo había atravesado; casi sin apuntar disparó en el mismo lugar y desapareció. Mi mujer se había desmayado; los criados no se atrevían a detenerle, le miraban con horror; salió a la calle, llamó al cochero y se marchó antes de que yo pudiera reaccionar”.
 El conde guardó silencio. De esta manera conocí el final de la historia, cuyo comienzo tanto me había impresionado. A su héroe no le volví a ver. Dicen que Silvio, durante la sublevación de Aleksandr Ypsilanti, dirigió un destacamento de hetairistas, y fue muerto en la batalla de Skulyany [Aleksandr Ypsilanti (1792-1839), general mayor del ejército ruso; en 1821 intentó, sin éxito, una sublevación contra los turcos, que acabó en una sangrienta derrota en Skulyany].
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

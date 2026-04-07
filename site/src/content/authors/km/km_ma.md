@@ -87,6 +87,3 @@ Y pensando en la posibilidad de llorar fue como si el pequeño Lennie hubiera vu
 No podía ir a su casa, Ethel estaba allí. La pobre se hubiera llevado un susto de muerte. No podía sentarse en un banco en cualquier parte; la gente se pararía a hacerle preguntas. Y no podía regresar al piso del caballero literato; no tenía ningún derecho a llorar en casa de otros. Y si se sentaba en las escaleras de cualquier edificio algún policía le diría que estaba prohibido hacerlo.
 ¡Ay!, ¿no existía ningún sitio en donde pudiese esconderse, estar sola tanto como quisiera, sin que nadie la molestase y sin molestar a otros? ¿No existía ningún lugar en el mundo en donde pudiese, por fin, solazarse llorando?
 Ma Parker permaneció inmóvil, mirando a uno y otro lado. El gélido viento le hinchó el delantal como si fuese un globo. Y empezó a llover. No, aquel sitio no existía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

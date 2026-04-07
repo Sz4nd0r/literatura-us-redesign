@@ -256,6 +256,3 @@ V
 Era tarde, como si el tiempo se nos hubiera escapado mientras permanecíamos atrapados, enredados en el estampido del mosquete, y estuviéramos demasiado ocupados para darnos cuenta de ello; el sol brillaba casi a la misma altura de nuestras caras mientras estábamos en la galería de atrás, escupiendo, enjuagándonos el jabón de la boca, dando vueltas y vueltas al cazo de calabaza, escupiendo directamente al sol. Durante un rato, con sólo respirar podíamos hacer pompas de jabón, pero pronto preferimos solamente escupir. Luego, hasta eso pasó, aunque no el impulso de hacerlo, mientras a lo lejos, hacia el norte, veíamos un distante montón de nubes, tenues y azules en la base, con un tinte cobrizo del sol en la cresta. Cuando padre vino a casa en primavera, tratamos de saber algo de montañas. Por fin señaló el montón de nubes para explicarnos a qué se parecían las montañas. De manera que, desde entonces, Ringo creía que el montón de nubes era Tennessee.
 —Allá están —dijo, escupiendo—. Allá está. Tennessee, donde el amo John suele combatir. También parece enormemente lejos.
 —Demasiado lejos para ir solamente a luchar contra los yanquis —dije, escupiendo también. Pero ya había desaparecido todo: la espuma, las cristalinas, ingrávidas, iridiscentes burbujas; incluso el sabor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

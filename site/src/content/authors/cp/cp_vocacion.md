@@ -137,6 +137,3 @@ Cuando me llegó el retumbo de los tranvías me recobré, y sin embargo tenía u
 aún haber ocultado el prado, pero yo no pensaba en eso entonces, y no miré. Veía en cambio al fondo de la sala una puertecita entornada que daba al aire libre, e, ignorando cuánto
 tiempo llevaba allí, me asaltó la inquietud de que aparecieran los dueños y se quejaran de mi permanencia clandestina. No era solamente inquietud, era espanto. Atravesé la
 puertecita y, tras recorrer temblando un trecho de prado, me escabullí por detrás de una fábrica.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -38,6 +38,3 @@ Aunque inquieta, la multitud aún guardaba silencio. Delante de mí, en el terce
 ¡Qué voz! Yo reculé tratando de dominarme. Eché una última ojeada y vi a los militares agitándose febrilmente en torno a los artefactos, como si ya no consiguieran dominarlos. Más tarde comprendí que, aunque pálidos y malcarados, ellos también eran auténticos soldados. ¿Me daría tiempo? Con paso rápido, pero teniendo cuidado de no hacerme notar, deprisa, cada vez más deprisa, me aparté de la muchedumbre y tomé una de las calles laterales.
 Detrás de mí oía el fragor de la multitud, finalmente horrorizada, presa del pánico. Tras recorrer cerca de trescientos metros, tuve la fuerza de ánimo de volverme a mirar: las torres de sombra rojiza, en un supremo esfuerzo, se balanceaban, retorciéndose lentamente los puentes que las unían. Su alucinante movimiento se aceleraba cada vez más, se volvía frenético. Entonces un aullido tenebroso y atroz tronó en medio de las casas.
 Después sucedió lo que todo el mundo sabe.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

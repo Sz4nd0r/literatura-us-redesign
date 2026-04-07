@@ -541,6 +541,3 @@ erróneamente manejada. Pero nos queda lo real maravilloso de
 a proliferar en la novelística de algunos novelistas jóvenes de
 nuestro continente.
 [2] Véase Jacques Roumain, Le Sacrifice du Tambour Assoto (r).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

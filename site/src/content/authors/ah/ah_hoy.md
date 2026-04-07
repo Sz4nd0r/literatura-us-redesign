@@ -130,6 +130,3 @@ Fue su hija la que contestó:
 —Acabemos de una vez. Empieza por las malas.
 El padre sonrió. Llegó a la conclusión de que estaban bien. Mis chicos son tan buenos como esta lluvia. Sonrió a las siluetas de la cabeza de ambos, porque sabía que estaban vueltas hacia él, y tuvo la impresión de que jamás volvería a sentirse no mejor, sino a sentir más que lo que sentía en aquel preciso instante.
 —Era mentira. No tengo malas noticias.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

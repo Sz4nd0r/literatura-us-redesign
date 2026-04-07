@@ -433,6 +433,3 @@ soldados lo arrastraron con furia al rincón de la rotonda, antes de que
 la Muerte y los otros recogieran las piedras del cantero, pensó que no
 escaparía de aquel sueño, que ya no era posible el regreso y lo
 seguiría soñando toda la vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

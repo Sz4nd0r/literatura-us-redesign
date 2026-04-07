@@ -44,6 +44,3 @@ Wash Williams se detuvo y se quedó mirando a George Willard. El cuerpo del much
 —Entró desnuda en la habitación. Su madre la obligó. Mientras yo esperaba allí sentado, ella le estaba quitando la ropa, tal vez con algún engaño. Primero oí voces en la puerta que daba al pasillo y luego vi cómo se abría muy despacio. La chica se avergonzó y se quedó inmóvil mirando al suelo. La madre no entró en la habitación. Empujó a la chica y se quedó en el pasillo esperando, con la esperanza de que…, bueno, ya sabes, esperando…
 George Willard y el telegrafista llegaron a la calle Mayor de Winesburg. Las luces de los escaparates iluminaban las aceras. La gente iba y venía charlando y riendo. El joven periodista se sintió débil y enfermo. En su imaginación, él también se sintió viejo e informe.
 —No maté a la madre —dijo Wash Williams mirando a un lado y otro de la calle—. La golpeé una vez con una silla y luego llegaron los vecinos y se la llevaron. Había que oír sus gritos. Ahora ya nunca podré matarla. Murió un mes después, de un ataque de fiebre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

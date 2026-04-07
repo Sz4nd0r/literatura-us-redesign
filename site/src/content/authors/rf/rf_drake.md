@@ -501,6 +501,3 @@ Tengo que encontrar a Guedes. Coge un taxi. Y busca inmediatamente un buen aboga
 Todo está perdido, ¿no?
 Desgraciadamente. Para todos nosotros, respondí.
 La metí en un taxi. Salí en busca de Guedes. Pensé en Eva. Adiós, mi amor, un largo adiós. El gran sueño. No había nadie en mi cuerpo, mis manos en el volante parecían ser de otra persona.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

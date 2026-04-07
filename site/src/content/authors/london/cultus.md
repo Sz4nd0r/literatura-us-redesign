@@ -153,6 +153,3 @@ Smoke empezó a levantar la mano para dar la señal.
 —Y cuando la expedición de rescate fue a buscarme —contó Shorty en el Annie Mine—, ese cascarrabias de Cultus George fue el primero en llegar, tres horas por delante de Smoke, y ya sabemos cómo corre Smoke. De todos modos, fue justo a tiempo, cuando oí a Cultus George gritar a sus perros desde la cima de la divisoria, porque esos condenados indios se habían comido mis mocasines, mis manoplas, las cintas de cuero, la funda del cuchillo… y algunos empezaban a mirarme con hambre porque estoy bien alimentado.
 »¿Smoke? Llegó casi muerto. Anduvo un rato por allí, ayudando a organizar una comida para aquellos doscientos indios hambrientos, y luego se quedó dormido en cuclillas mientras recogía nieve para derretirla. Le preparé mi cama y tuve que meterlo dentro, tan cansado estaba. Claro que gané los palillos de dientes. ¿Acaso no necesitaron de verdad los perros los seis salmones que Smoke les dio al mediodía?
 (1912)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

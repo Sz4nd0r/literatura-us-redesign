@@ -272,6 +272,3 @@ costado.
 El mancebo
 retrocedió. Un hilo de sangre escapaba de la boca del sedero. Y el
 mancebo comprendió que Mahomet se había muerto de miedo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

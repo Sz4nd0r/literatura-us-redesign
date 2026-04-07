@@ -116,6 +116,3 @@ Oía cómo zarandeaban la puerta de fuera. Oía pasos en la acera, por encima de
 —¡Maldito hijo de puta! —le oí a Edith.
 Me metí en el cuarto de baño y me quedé dentro un buen rato. Luego subí y salí a la calle. Había refrescado; me subí la cremallera de la cazadora. Eché a andar hacia Paul’s. Si llegaba antes de que mi madre saliera del trabajo podría tomarme un sandwich de pavo. Luego podría irme hasta el quiosco de Kirby a ojear unas revistas. Y luego me iría a casa, me metería en la cama y leería alguno de los libros hasta que me venciera el sueño.
 Las mujeres no estaban cuando salí, y seguro que tampoco estarían cuando volviera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

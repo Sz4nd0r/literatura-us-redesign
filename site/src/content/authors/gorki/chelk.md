@@ -381,6 +381,3 @@ Gavrila se quedó mirando hasta que desapareció entre la lluvia, cada vez más 
 Luego Gavrila se quitó la empapada gorra, hizo la señal de la cruz, miró el dinero que tenía apretado en el puño, hizo una inspiración libre y profunda, guardó los billetes en el seno y con paso largo y firme siguió por la orilla en sentido opuesto a aquel por el cual se ocultaba Chelkash.
 El mar bramaba, arrojaba sobre la arena de la orilla grandes y pesadas olas que se deshacían en finas gotas y espuma. La lluvia flagelaba afanosa el agua y la tierra... el viento aullaba... alrededor todo se había llenado de alaridos, de rugidos, de estruendos... y la lluvia impedía ver el mar y el cielo.
 El agua de las nubes y la salpicadura de las hojas no tardaron en barrer la mancha roja que se había formado donde Chelkash estuvo tumbado, barrieron las huellas de Chelkash y las del mozo en la arena de la costa... Y en la desierta orilla del mar no quedó nada que recordase el pequeño drama que se había desarrollado entre dos hombres.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

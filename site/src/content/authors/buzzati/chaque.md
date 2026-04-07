@@ -53,6 +53,3 @@ Libre, por fin. Y rico, por suerte.
 Pero mi automóvil no estaba en el claro. Y, de vuelta a la ciudad, mi suntuosa casa había desaparecido; en su lugar, un prado sin cultivar con dos pancartas que decían “Se vende. Terreno comunal”. Y las cuentas bancarias, no me explicaba cómo, completamente a cero. Y desaparecidos, de mis numerosas cajas de seguridad, los gruesos paquetes de acciones. Y polvo, nada más que polvo, en el viejo baúl.
 En la actualidad he vuelto a trabajar, apenas me las arreglo y, lo que es más raro, nadie parece asombrarse de mi súbita ruina.
 Y sé que aún no ha acabado. Sé que un día sonará el timbre, iré a abrir y me encontraré, con su abyecta sonrisa, para saldar la última de las cuentas, al sastre de la mala suerte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

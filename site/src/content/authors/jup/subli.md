@@ -133,6 +133,3 @@ En concreto pensaba si las mujeres que había amado irían a llorar con Joan; no
 Es posible que Joan, con su tercer ojo, le leyera los pensamientos; mientras que normalmente se daba la vuelta y le mostraba su suntuosa espalda —si lo hacía a manera de retirada o de provocación era algo que le correspondía a él decidir—, aquella noche permaneció inmóvil, paralela.
 —Supongo —propuso— que en cierta manera es purificante. Tú piensa en toda esa energía dedicada a las Cruzadas.
 —Sí, desde luego —convino Richard nada convencido—. Igual descubrimos algo importante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

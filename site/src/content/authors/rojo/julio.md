@@ -128,6 +128,3 @@ escritura, que la salva de todos sus tiempos.
 Más que una consagración del
 pasado, esta ceremonia es aquí un despojamiento: un ejercicio de libertad
 y sabiduría. Esa gracia del relato alienta en esta novela memorable.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -118,6 +118,3 @@ La chica les llevó el menú. John se despertó. El menú estaba escrito con tin
 —Tampoco quiere beber conmigo, ahora que yo también sé lo de su mujer —dijo el posadero.
 —Escucha —dijo John—. ¿Y si comemos?
 —De acuerdo —dije.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -76,6 +76,3 @@ Fue entonces cuando me acordé de que se me había olvidado cerrar la verja.
 Abrí los ojos y me quedé allí, acostada. Sacudí un poco a Cliff. Se aclaró la garganta. Tragó. Algo se le había atravesado y le gorgoteaba en el pecho.
 No sé. Me hizo pensar en aquellos bichos a los que Sam Lawton echaba el polvo de la lata.
 Pensé durante un instante en el mundo exterior a mi casa, y luego ya no tuve más pensamientos, salvo el de que tenía que darme prisa en conciliar el sueño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

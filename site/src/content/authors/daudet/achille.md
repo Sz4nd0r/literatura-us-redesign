@@ -134,6 +134,3 @@ visto y me voy contento. Hasta la vista.
 —Buena suerte, muchacho.
 Se dan la mano fríamente; el hijo se va por su
 lado, el padre sube a su casa; no volvieron a verse jamás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

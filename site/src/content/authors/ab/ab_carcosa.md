@@ -35,6 +35,3 @@ Una ráfaga de viento barrió algunas ramitas y hojas secas que había sobre su 
 Mientras me ponía en pie lleno de terror, un rayo horizontal de luz iluminó el tronco del árbol. El sol estaba saliendo por el este rosáceo. Aunque me encontraba entre el árbol y el amplio disco rojo, ¡ninguna sombra oscurecía el tronco!
 Un coro de lobos aullantes saludaba el amanecer. Los vi sentados —unos solos, otros en grupo— sobre los túmulos y montículos irregulares que llenaban la mitad de aquella desierta perspectiva que se extendía hacia el horizonte. Entonces supe que aquellas ruinas eran las de la antigua y conocida ciudad de Carcosa.
 Tales son los hechos que el espíritu Hoseib Alar Robardin transmitió al médium Bayrolles.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

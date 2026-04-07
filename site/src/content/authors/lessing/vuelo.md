@@ -242,6 +242,3 @@ tomándose su tiempo: alzó la mirada y sonrió con orgullo a su nieta, al otro
 lado del jardín. Ella lo miraba fijamente. No sonreía. Tenía los ojos como
 platos y la cara muy pálida en la frialdad de la penumbra, y el anciano vio que
 las lágrimas temblaban al rodar por sus mejillas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

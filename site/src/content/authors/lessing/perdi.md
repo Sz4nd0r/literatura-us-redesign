@@ -93,6 +93,3 @@ Me levanté, pues habíamos llegado a Notting Hill Gate y, seguida de los satisf
 Sin corazón. Sin corazón alguno. Qué dicha. Qué libertad…
 ¿Oyes ese ruido? Una risa, sí.
 Soy yo, que me estoy riendo, sí, soy yo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

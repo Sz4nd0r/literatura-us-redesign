@@ -304,6 +304,3 @@ Hasta que él, difunto, se consumió, en cenizas —y, por ellas, después,
 todavía se encaminó, señor, para la tierra, gleba tumularia, sólo; como las
 consecuencias de mil actos, continuadamente.
 El —que como en el destinado se había convertido—: Man’Antonio, mi Tío.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -26,6 +26,3 @@ Pero ya por entonces el corazón de Bichi era mío, obsequiado sin que yo se lo 
 Y así llegó la mañana en que atravesando la resaca entré a la iglesia o capilla, soporté el latín del cura, vi como le mojaba a Bichi la frente con óleos sagrados, le ponía sal en la lengua y pasaba con Rodrigo a la sacristía para colocar la manufactura de un ángel. Bichi disfrazada de novia imposible; solamente el Señor podía darle acomodo en su lecho.
 Ya en la calle vi empañarse mis lentes; estaba mezclando a la hija ausente con mi única ahijada. Y recordé que ambas iban a crecer y perder para siempre el paraíso de la infancia.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

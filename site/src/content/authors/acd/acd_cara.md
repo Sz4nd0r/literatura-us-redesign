@@ -181,6 +181,3 @@ Holmes y yo le seguimos a lo largo del camino y mi amigo me cogió por el brazo.
 —Creo —dijo— que hacemos más falta en Londres que en Norbury.
 No volvió a mencionar el caso hasta muy entrada la noche, en el momento en que, con una vela en la mano, se encaminaba hacia su dormitorio.
 —Watson —dijo—, si en alguna ocasión le parece que peco en exceso de confianza en mis facultades o que le presto menos atención de la que merece a un caso, le ruego que me susurre al oído la palabra «Norbury». Le quedaré infinitamente agradecido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

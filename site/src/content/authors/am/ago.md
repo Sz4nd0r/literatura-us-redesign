@@ -747,6 +747,3 @@ La madre se echó a reír y le acarició una mejilla.
 —Bueno, pues de ahora en adelante, te trataré como a un hombre… ¿mejor así?… Y ahora duerme… es muy tarde.
 Ella se inclinó y lo besó. Apagó la luz, Agostino la oyó acostarse.
 «Como a un hombre», no pudo dejar de pensar antes de dormirse. Pero no era un hombre, y habría de transcurrir mucho tiempo de infelicidad antes de que lo fuera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

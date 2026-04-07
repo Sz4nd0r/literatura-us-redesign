@@ -238,6 +238,3 @@ Repentinamente un gran bienestar invadió su alma. Dejó de añorar su casa. Ya 
 sentía deseos de salir de la prisión; sólo esperaba que llegase su último momento.
 Makar Semionovich no hizo caso a Aksenov y confesó su crimen. Pero cuando
 llegó la orden de libertad, Aksenov había muerto ya.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

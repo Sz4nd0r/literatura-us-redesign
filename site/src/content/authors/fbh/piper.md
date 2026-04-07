@@ -614,6 +614,3 @@ archivos de familia demostraron que mientras el capitán Fairfax continuó siend
 el “capitán Fairfax” y que los demás yernos no progresaron en cuanto a posición
 o fortuna, el rengo dueño de la tienda de Red Gulch llegó a ser el Honorable
 Senador Tom Sparrell.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

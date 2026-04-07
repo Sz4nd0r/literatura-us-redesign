@@ -156,6 +156,3 @@ Treolar guardó silencio. Giró la cabeza y dedicó una mirada fría e inquisiti
 —Bueno —dijo al fin—, clasifíquela.
 El hombrecillo tragó saliva.
 —No tengo nada que decir —contestó—. No tengo absolutamente nada que decir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

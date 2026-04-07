@@ -79,6 +79,3 @@ la presencia del joven, único medio a través del cual expresaba su amor al hom
 los pocos platos sucios de su comida tan simple y, tras instalar un catre junto a la puerta de alambre que daba al porche, se desvistió para pasar la noche. Quedaron unas cuantas morusas de pan blanco
 esparcidas por el piso limpio junto a la mesa; colocó la lámpara en un banquito y comenzó a recoger las migajas, llevándose una por una a la boca con increíble rapidez. En la mancha de luz bajo la mesa,
 la figura arrodillada parecía un sacerdote ejerciendo servicio en su iglesia. Los dedos expresivos y nerviosos que entraban y salían de la luz podrían haberse confundido con los de un devoto que repasa ágilmente diez tras diez de su rosario.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

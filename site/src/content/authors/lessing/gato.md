@@ -53,6 +53,3 @@ Desde que entré en el parque, la tierra ha girado una décima parte sobre sí m
 Mientras cruzo y dejo atrás la lluvia de oro que mana de la pala del hombre, el viento arremolina las hojas de la carretilla o las arranca de los árboles, esparciendo la hierba brillante de oro y cobre.
 Hojas, palabras, gentes y sombras, juntas dan vueltas hacia el otoño y hacia el solsticio.
 Fuera del parque, en el pavimento, estaba ella. Todavía riéndose, y todavía tirando de las puntas de su pañuelo de lunares rojos, aparentemente rebosando alegría. Estaba al lado, por no decir debajo, de un inmenso policía que la miraba sin expresión, con sus rasgos decididos a no hacer ningún comentario. “Pero ¿y eso?”, parecía decir su pose, o incluso: “¡Mira tú por dónde!” a las explicaciones de ella sobre su relación con el sol, la luna y este nuestro húmedo planeta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

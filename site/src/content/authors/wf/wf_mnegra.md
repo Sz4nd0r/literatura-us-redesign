@@ -241,6 +241,3 @@ en francés, pero en inglés puede haber un juego de palabras a partir de payer,
 «pagador», o to pay, “pagar”, dando a entender que el joven trabaja en alguna
 institución financiera; asimismo, se sobrentiende pay out, con lo que se da a entender
 que hay soborno y chantaje.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

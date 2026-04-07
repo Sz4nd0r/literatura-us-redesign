@@ -121,6 +121,3 @@ Así que estaba decidido a hacer caer a mi esposa, a forzar una confesión, pero
 “¿Dónde estás, cariño? ¿Qué estás haciendo?”, dije en voz alta, y ella me contestó que estaba bañándose.
 Así que me fui al parque.
 Pero ahora tengo que regresar a casa. La cena ya debe de estar lista. Me pregunto qué propiedad tenía en la cabeza el tal señor Albright. Cuando me siente a cenar con mi esposa me temblarán las manos. Derramaré el postre. Un hombre no entra en un lugar y habla de propiedades de ese modo tan brusco a menos que haya habido una conversación anterior sobre el asunto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -380,6 +380,3 @@ Los oficiales lo reconocieron y lo llevaron a la fortaleza. Los soldados se aleg
 Zhilin contó cómo le había ido y dijo:
 —¡Y yo que iba a casa, a casarme! Es evidente que no era mi destino.
 Y se quedó a servir en el Cáucaso. Y a Kostylin lo rescataron pasado un mes, por cinco mil. Lo trajeron medio muerto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

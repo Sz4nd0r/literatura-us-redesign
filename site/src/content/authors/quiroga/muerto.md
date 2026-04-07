@@ -155,6 +155,3 @@ desearía. Ante las voces que ya están próximas —¡Piapiá!— vuelve
 un largo, largo rato las orejas inmóviles al bulto: y tranquilizado al
 fin, se decide a pasar entre el poste y el hombre tendido que ya ha
 descansado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

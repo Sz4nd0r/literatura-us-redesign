@@ -1498,6 +1498,3 @@ guía al joven muerto, no debe identificarse con
 Egipto, sino verse como sólo una especie de reflejo
 del país del Nilo en la claridad de desierto de la
 conciencia del muerto.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

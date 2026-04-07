@@ -29,6 +29,3 @@ Se oyó lloriquear:
 —¿No te da vergüenza la luna?
 —Mujer, ¿estamos lejos de casa?
 Ahora hablaban, hablaban. Cada uno con su voz más solitaria, como convencido de que el otro no lo escuchaba, como si lo escuchase la luna. Era noche avanzada, y empezaban a pasar nubes por delante de la luna, ocultando la explanada, los barracones, todo. Daba pena pensar que los dos muertos se esforzaban tan inútilmente. Pero poco a poco las voces se adelgazaron y bajo un nubarrón mayor que los demás enmudecieron definitivamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

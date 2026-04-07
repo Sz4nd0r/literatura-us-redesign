@@ -449,6 +449,3 @@ Torrence llegó al mediodía al «Quai des Orfèvres» y entró pesadamente en e
 —¡Contra el doctor, pardiez!… No se me hará creer qué ese hombre…
 No obstante, tuvo que creerlo, y la misma noche, el doctor Tant-Pis cenaba en el cuarto piso del bulevar Beaumarchais, con la dulce y calmosa Carmen Pedretti, que no se había desconcertado ni un solo instante.
 El doctor tenía una razón más para despreciar a sus semejantes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -306,6 +306,3 @@ arroja a un rincón. Valiéndose del alfiler de su sombrero, está disolviendo
 algo en el vaso.
 —Vamos, miss Rosa —dice el camarero con cortés
 familiaridad—, ¡aún es muy temprano para echar sales en la cerveza!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

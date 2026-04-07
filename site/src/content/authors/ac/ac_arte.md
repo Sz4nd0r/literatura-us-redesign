@@ -61,6 +61,3 @@ El cómico siguió este consejo…
 Dos días más tarde, cuando el médico Kochelkov estaba sentado en su gabinete con la cabeza entre las manos, pensando en los ácidos biliares, se abrió la puerta de repente y entró en la habitación Sasha Smirnov. Sonreía resplandeciente de felicidad. Llevaba en las manos algo envuelto en un papel de periódico.
 —¡Doctor! —exclamó todo sofocado—. ¡Figúrese qué alegría! Ha sido una suerte enorme para usted. Hemos encontrado la pareja de su candelabro… Mi madre está contenta… Usted me salvó la vida.
 Y Sasha, cuya voz temblaba de emoción, colocó delante del médico el candelabro. El médico abrió la boca intentó decir algo, pero no pudo: su lengua estaba paralizada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

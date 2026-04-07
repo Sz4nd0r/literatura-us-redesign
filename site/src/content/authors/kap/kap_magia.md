@@ -22,6 +22,3 @@ Y ahora, madame Blanchard, si quiere oírlo, voy a la parte extraña de la histo
 Madame Blanchard cerró su botella de perfume haciendo un suave ruido. «Sí, ¿y qué más?»
 Luego, al cabo de siete noches, la muchacha regresó y se la veía muy enferma, con las mismas ropas y todo, pero feliz de estar allí. Uno de los hombres dijo: «¡Bienvenida a casa, Ninette!», y cuando ella intentó decirle algo a la alcahueta, esta dijo: «¡Calla y sube a vestirte!». Entonces, Ninette, esa muchacha, dijo: «Bajaré en un minuto». Y después de aquello, vivió allí tan tranquila.
 1924
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

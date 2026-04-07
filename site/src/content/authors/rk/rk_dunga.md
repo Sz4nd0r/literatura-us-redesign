@@ -366,6 +366,3 @@ Si alguien quiere emprender la obra de la conversión
 de los Buria Kol, puede aprovechar los muros de la casa que está todavía en la
 colina de Panth. Pero hace mucho tiempo que la capilla y la escuela han sido
 invadidas por la espesura de la selva.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

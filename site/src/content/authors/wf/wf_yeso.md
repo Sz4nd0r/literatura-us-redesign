@@ -160,6 +160,3 @@ dólares, dejando en su lugar las acciones emitidas por la Sociedad de Compresor
 por lo que la operación parece legítima. Ha dejado un cheque falso en la Sociedad, de
 modo que en realidad ha robado cuatro mil dólares: los dos mil originales más las
 acciones de la madre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

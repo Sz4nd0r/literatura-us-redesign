@@ -244,6 +244,3 @@ tan sólo una forma muy conocida de...
 Ella se había ido. El se quedó allí sentado, atónito, como herido por un rayo... Y
 después llamó a la camarera y le pidió la cuenta.
 —No hemos tocado la crema —dijo—, así que, por favor, no la cobre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

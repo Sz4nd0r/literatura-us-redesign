@@ -221,6 +221,3 @@ envejecido.
 Al
 cabo de un rato, quitó la toalla que cubría el lienzo y trató de completar el
 rostro de la modelo, pero ya no se acordaba de él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

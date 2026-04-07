@@ -43,6 +43,3 @@ Pero duermo el sueño de los justos por saber que mi vida fútil no molesta la m
 Pero ¿y el huevo? Este es uno de los subterfugios de ellos: mientras yo hablaba sobre el huevo, había olvidado el huevo. «Hablad, hablad», me instruyeron ellos. Y el huevo queda enteramente protegido por tantas palabras. Hablad mucho, es una de las instrucciones, estoy tan cansada.
 Por devoción al huevo, lo olvidé. Mi necesario olvido. Mi interesado olvido. Porque el huevo es un esquivo. Ante mi adoración posesiva podría retraerse y nunca más volver. Pero si fuera olvidado. Si yo hiciera el sacrificio de vivir tan sólo mi vida y de olvidarlo. Si el huevo fuera imposible. Entonces libre, delicado, sin ningún mensaje para mí quizá todavía una vez se desplace del espacio hasta esta ventana que siempre dejé abierta. Y de madrugada descienda en nuestro edificio. Sereno hasta la cocina. Iluminándola con mi palidez.
 A legião estrangeira (1964)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

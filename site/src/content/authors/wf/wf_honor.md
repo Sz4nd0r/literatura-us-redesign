@@ -142,6 +142,3 @@ N. del T.:
 [1] Con esta alusión que hace Buck al subadar de la India y con su paráfrasis de los
 comentarios que él hace en «Ad Astra», es posible identificar la presencia de Buck en
 ese otro relato, con el cual claramente engarza este pasaje de «Honor».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

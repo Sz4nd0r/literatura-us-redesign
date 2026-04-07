@@ -254,6 +254,3 @@ vestía de alférez y me sentaba frente al espejo, leyendo, mirando, meditando; 
 tres horas me desvestía otra vez. Con este régimen pude atravesar, sin sentirlos, seis días más de
 soledad...
 Antes de que los otros pudieran reaccionar, el narrador había descendido las escaleras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

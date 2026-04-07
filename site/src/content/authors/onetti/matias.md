@@ -123,6 +123,3 @@ Soy inocente. Hablé amistoso pero nada atrevido, expliqué que su novio, Atilio
 —Por qué no te vas a joder a tu madrina, guacho de mierda.
 Colgó el teléfono rabiosa y las lamparitas rojas se fueron apagando velozmente, en orden inverso al anterior, hasta que la pared planisferio volvió a incrustarse en las sombras y tres continentes confirmaron en silencio que Atilio Matías tenía razón.
 1970
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

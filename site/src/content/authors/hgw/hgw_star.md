@@ -75,6 +75,3 @@ La presente historia nada dice de la nueva fraternidad nacida entre los humanos,
 Ahora bien; los astrónomos de Marie —porque es cosa averiguada que en Marte existen astrónomos, si bien difieren en su conformación física de sus colegas terrestres— siguieron con especial interés el admirable fenómeno, y consignaron así, según parece, sus observaciones:
 «Teniendo en cuenta la masa y la temperatura del proyectil lanzado a través de nuestro sistema solar, es para causar sorpresa el poco daño que ha sufrido la Tierra, no obstante haberse encontrado a tan escasa distancia del viajero sideral. Puede observarse, en efecto, que siguen inalterables todas las antiguas demarcaciones de continentes y las masas oscuras de los mares. La única diferencia perceptible es una disminución de las grandes manchas blancas que en un tiempo circundaban los polos, y que, según todas las probabilidades, eran agua congelada.»
 Estas palabras de los sabios marcianos demuestran sencillamente cuan poca cosa puede parecer la mayor de las catástrofes humanas contemplada a una distancia de algunos millones de kilómetros.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

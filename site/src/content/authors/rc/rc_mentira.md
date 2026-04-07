@@ -36,6 +36,3 @@ Tenía ideas interesantes, respondí. Era todo un personaje. Los dedos de las ma
 Venga acá mi mujikito, dijo de repente.
 Quiero saber la verdad, dije débilmente, postrado a gatas. La frescura y suavidad de la alfombra me excitaron. Había andado a gatas hasta el sofá y puesto mi mejilla sobre uno de los cojines. Ella deslizó su mano entre mi cabello, sonriendo. Unos granitos de sal brillaban en sus labios carnosos hasta que, de momento, observé cómo sus ojos se llenaban de una inexpresable tristeza y, a pesar de ello, continuaba sonriendo y mesándome el cabello.
 A ver mi pachá, dijo. Venga aquí mi bollito. ¿En verdad creyó usted a aquella mujer horrorosa esa mentira inmunda? Venga acá, recueste su cabecita en el seno de mami... Así, así, ahora cierre sus ojos. ¡Así! ¿Cómo pudo creer semejante cosa? Usted me decepciona. Usted me conoce mejor que eso. Mentir es nada más un deporte para cierta gente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

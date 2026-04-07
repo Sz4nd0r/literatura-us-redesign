@@ -116,6 +116,3 @@ Sí, es cierto, sólo que..., empieza ella. Pero no termina lo que había empeza
 Y deja el tema. El ve reflejado en el cristal cómo ella se estudia las uñas. Luego ella levanta la cabeza. Pregunta con viveza si le va a enseñar la ciudad, de todas formas.
 El asiente: ponte las botas y vámonos.
 Pero se queda en la ventana, recordando. Habían reído. Se habían apoyado el uno en el otro y habían reído hasta que se les saltaron las lágrimas, mientras todo lo demás —el frío y el lugar adonde él iba a ir— quedaba fuera. Al menos durante cierto tiempo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

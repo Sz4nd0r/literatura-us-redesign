@@ -207,6 +207,3 @@ por Genoveva: si estaba más bonita, si había llorado mucho su ausencia,
 etcétera. Él respondía a todo con una sonrisa satisfecha y discreta, la sonrisa
 de alguien que vivió una gran noche. Parece que tuvo vergüenza de la realidad
 y prefirió mentir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

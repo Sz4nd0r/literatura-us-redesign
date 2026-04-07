@@ -95,6 +95,3 @@ León abrió los ojos desmesuradamente.
 Y el rostro de León se iluminó con una suprema sonrisa.
 —Muriéndome—repitió,—me lleva consigo. Conste, muchachos, que me quedo con La Suerte.
 Y aquella viril figura, asiendo al débil pequeñuelo, como el que se ahoga se aferra en una paja, desapareció en el tenebroso río que corre a abocarse en la inmensidad del mar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

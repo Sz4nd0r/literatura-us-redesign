@@ -99,6 +99,3 @@ Dicho y hecho; entre cinco nos pusimos a ello, el cochecito de Peppino era liger
 Se produjo una gran risotada y también algún silbido. Peppino, con el block en la mano, se quedó como aturdido. Agregué:
 —Y ahora, sube a tu coche y lárgate.
 Esta vez obedeció; subió al coche y se fue a toda prisa. Los del círculo de mirones lo siguieron con un bramido. La señora francesa, mientras tanto, se había ido también. Yo atravesé la calle y fui a un bar a tomar el aperitivo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

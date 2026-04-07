@@ -66,6 +66,3 @@ Entonces le relato el sueño. Se pone serio, reflexiona, y al fin contesta:
 —Por casualidad, ¿no fue Enrico uno de los que intervino en el tiroteo de ayer? —le pregunto, sorprendido, señalándole el diario, donde bajo el título de la noticia hay una fila de fotografías.
 Casimiro observa, niega con la cabeza:
 —No, no es ninguno de éstos. —Permanece un instante en incertidumbre, y agrega—: Pero la llave, aquel día, no se la diste a él. Me la diste a mí. Tenía una amiguita y no sabía dónde encontrarme con ella, porque entonces vivía en casa de mi familia. Te pedí que me prestaras tu estudio, y me diste la llave. Recuerdo incluso lo que me dijiste, para hacer una broma, al darme la llave: “Aquí tienes de facto la prenda de mi pacto”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

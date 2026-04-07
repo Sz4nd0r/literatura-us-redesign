@@ -95,6 +95,3 @@ Un ligero rubor tiñó las mejillas de Louise, y aunque parecía sonreír, sus o
 —Iris se casará dentro de un mes —me dijo—, y si algo me pasa espero que tanto usted como ella sabrán perdonarse mutuamente.
 La palabra de Louise era como un documento. Se fijó la fecha, mandó que le hicieran un soberbio ajuar y se repartieron las invitaciones.
 Iris y su joven prometido no cabían en sí de gozo. Pero el día de la boda, a las diez de la mañana, Louise, aquella endiablada mujer, tuvo uno de sus acostumbrados ataques al corazón y falleció tranquilamente, perdonando a Iris por ser la causa de su muerte...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

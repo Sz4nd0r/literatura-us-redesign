@@ -296,6 +296,3 @@ Carl dejó la lata en el suelo y se quedó de costado mirando fijamente el hall 
 —¿Qué hay en Alaska? —dijo Mary.
 Carl se volvió boca abajo y se movió con cuidado hasta el borde de su lado de la cama. Un instante después Mary estaba roncando.
 Justo antes de apagar la luz, Carl creyó ver algo en el hall. Se quedó mirando fijamente y creyó verlo de nuevo: unos ojos pequeños. Le dio un vuelco el corazón. Parpadeó y siguió mirando. Se inclinó fuera de la cama buscando algo que arrojar. Cogió uno de sus zapatos. Se incorporó hasta quedar erguido y sostuvo el zapato con ambas manos. Oyó a Mary roncar y apretó los dientes. Esperó. Esperó a que aquello se moviera una vez más, a que hiciera el más ligero ruido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

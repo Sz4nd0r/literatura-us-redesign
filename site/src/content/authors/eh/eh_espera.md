@@ -73,6 +73,3 @@ Todo el día, desde las nueve de la mañana, había estado esperando la muerte.
 —Absolutamente —le dije—. Es como las millas y los kilómetros. ¿Tú sabes a cuántos kilómetros vamos cuando viajamos a setenta millas en un coche?
 —¡Ah! —exclamó.
 Pero su mirada, fija en los pies de la cama, se alivió lentamente. Su tensión disminuyó también y al día siguiente, muy relajado, lloraba muy fácilmente por cosas pequeñas que no tenían importancia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

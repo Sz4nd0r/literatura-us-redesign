@@ -169,6 +169,3 @@ El abogado Gooch cerró el maletín y lo puso sobre la mesa. Vaciló un momento 
 —Archibaldo —dijo con voz suave, mientras abría la puerta—, me voy al Tribunal Supremo. Dentro de cinco minutos pasa al despacho interior e informa a la señora que espera allí de que...
 El abogado Gooch empleó un vulgarismo.
 —De que no hay nada que hacer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

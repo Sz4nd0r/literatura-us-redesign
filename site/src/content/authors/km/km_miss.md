@@ -35,6 +35,3 @@ Precisamente en aquel instante un muchacho y una chica tomaron asiento en el lug
 —No, aquí no —dijo ella—. Todavía no.
 Camino de casa acostumbraba a comprar un trocito de pastel de miel en la pastelería. Era su extra de los domingos. A veces le tocaba un trocito con almendra, otras no. Aunque entre uno y otro existía una gran diferencia. Si tenía almendra era como volver a casa con un pequeño regalo —con una sorpresa—, con algo que hubiese podido dejar de estar allí perfectamente. Los domingos que le tocaba una almendra corría a su casa y ponía el agua a hervir precipitadamente.
 Pero hoy pasó por la pastelería sin entrar y subió las escaleras de casa, entró en el cuartucho oscuro —su aposento que parecía un armario— y se sentó en el edredón rojo. Permaneció allí sentada durante largo rato. La caja de la que había sacado la piel todavía estaba sobre la cama. Desató rápidamente la tapa; y rápidamente, sin mirar, volvió a guardarla. Pero cuando volvió a colocar la tapa le pareció oír un ligero sollozo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

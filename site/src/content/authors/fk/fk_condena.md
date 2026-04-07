@@ -468,6 +468,3 @@ cubriría con facilidad el ruido de su caída. Exclamó en voz baja:
 dejó caer.
 En ese momento atravesaba el
 puente un tráfico verdaderamente interminable.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

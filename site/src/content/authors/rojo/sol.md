@@ -63,6 +63,3 @@ Valdés repitió su orden, esta vez en voz más alta.
 El camarero terminó de limpiar y tras secarse el sudor alzó la cabeza; paseó su mirada acuosa sobre las mesas y se dirigió indiferente a la de Valdés, el paño mugriento colgado del brazo.
 Retiró la taza, el periódico, y comenzó a frotar la superficie del mármol. El trapo bordeó los dedos de Valdés. De pronto el camarero, con un movimiento brusco, restregó la mano izquierda de Valdés, y después la derecha; finalmente, tarareando algo impreciso, con el paño sacudió sus muslos. Valdés se paró de un salto: el camarero se alejaba. Corrió hacia el largo espejo de la pared del fondo, y buscando su imagen agitó los brazos por sobre la cabeza. Dio unos gritos. Pero nadie se movió.
 Salió a la acera. Se detuvo frente al cine. Junto a la taquilla aguardó su turno. Pero giró de repente, y bajo la fina lluvia que había comenzado a caer, caminó hacia donde las calles eran más oscuras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

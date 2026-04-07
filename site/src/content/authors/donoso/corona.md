@@ -187,6 +187,3 @@ Tomó aliento. Con el aire que entró a sus pulmones pareció adquirir bríos pa
 —¡Lo voy a obligar que me ponga los dientes! ¡Lo voy a obligar! En la calle Sierra Bella vi la plancha de un abogado… Lo voy a obligar que me ponga toditos los dientes, todos…
 —¿No te podís quedar callada? —aulló Mario.
 Y levantándose dio un portazo para salir de la pieza a llorar en el largo pasadizo helado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

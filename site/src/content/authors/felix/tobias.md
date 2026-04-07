@@ -482,6 +482,3 @@ el que habló fue un hombre. Pero cuando uno estuvo una vez en la
 cochina cárcel de San Pedro Sula y conoció a Tobías, a ése no se
 le pueden contar historias rellenas de paja, como las cajas de botellas.
 Yo lo sé.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

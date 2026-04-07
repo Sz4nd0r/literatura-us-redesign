@@ -673,6 +673,3 @@ No podía explicar qué era la vida.
 No importaba. Él le comprendió.
 —¿No es qué, queridita?
 —dijo Lorenzo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

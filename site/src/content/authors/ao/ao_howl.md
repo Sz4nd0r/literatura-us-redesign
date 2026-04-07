@@ -157,6 +157,3 @@ Entonces ella retrocedió hacia la alejada pared. Él apartó la mesa caída. De
 La salida del sol en nuestro lugar no es majestuosa. Con sensiblería barata despunta el sol por las cimas de las montañas del este y envía rayos escrutadores a nuestras tierras. Sin esplendor ni complejos juegos de luces. Una belleza puramente convencional, más como una postal que como un paisaje real.
 Pero este es sin duda uno de los últimos ortos. El otoño avanza a toda velocidad. Dentro de unos días nos despertaremos por la mañana y estará lloviendo. Tal vez también granizando. El sol saldrá tras una pantalla de nubes grises y sucias. Los más madrugadores se envolverán en los abrigos y saldrán a enfrentarse a los cuchillos del viento.
 Los cambios de estaciones son algo muy trivial. Otoño, invierno, primavera, verano, otoño. No hay nada nuevo. Aquel que quiera encontrar un asidero en el curso del tiempo y de las estaciones, debería escuchar los sonidos de la noche, que no cambian jamás. Esos sonidos nos llegan de allí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

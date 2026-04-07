@@ -147,6 +147,3 @@ El misterio de Marie Rogêt fue escrito lejos de la escena del asesinato y sin o
 [21] Evening Post, de Nueva York.
 [22] The Standard, de Nueva York.
 [23] De la revista donde se publicó por primera vez este trabajo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

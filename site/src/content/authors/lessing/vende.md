@@ -317,6 +317,3 @@ tristeza a Teddy, quien lo contemplaba maliciosamente desde el otro lado de la
 cocina:
 —Ah, Cabecita Dorada, cuánto has crecido.
 Pronto serás mayor y tendrás tu propia granja...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

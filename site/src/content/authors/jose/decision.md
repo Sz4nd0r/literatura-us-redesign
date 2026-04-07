@@ -111,6 +111,3 @@ puerta y ves a Phillip con una mirada interrogativa, anhelante, que le
 respondes con un beso. Cuando cierras la puerta asiéndote a su mano,
 Phillip ya sabe que has decidido acostarte con él, como te había
 pedido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

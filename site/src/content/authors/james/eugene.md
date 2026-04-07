@@ -260,6 +260,3 @@ Levantó la vista, extrañado; y después, con un profundo rubor, dijo:
 Después de esto le di otra interpretación a su melancolía. Examinando sus esperanzas y temores, al cabo de seis semanas de activas contemplaciones y hondas degustaciones, Pickering se encontraba tan bien como era menester. Nos dirigimos a Italia y pasamos una quincena en Venecia. Allí ocurrió algo que yo había estado aguardando confiadamente; me había dicho para mis adentros que ello era sólo cuestión de tiempo. Habíamos pasado el día en Torcello, y volvíamos en barca bajo el resplandor del ocaso, con regulares golpes de remo.
 —Estoy a más de medio camino —dijo Pickering—; ¡creo que iré! —Llevábamos un buen rato sin hablar, conque naturalmente le pregunté que adónde. Su respuesta se demoró a causa de nuestra arribada a la Piazzetta. Al atracar la barca, me adelanté a pisar tierra, volviéndome luego para ayudarlo. Mientras él asía la mano que yo le había tendido encaró mi mirada, intencionalmente, y contestó—: ¡A Esmirna!
 Un par de días después partió solo. Yo había aventurado la conjetura de que la señorita Vernor era una criatura adorable, y seis meses más tarde me escribió Pickering diciéndome que tenía yo razón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

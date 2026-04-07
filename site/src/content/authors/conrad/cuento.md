@@ -199,6 +199,3 @@ Dejó de disimular llegado aquel punto.
 Se puso en pie. La mujer se levantó y le echó los brazos al cuello. Los ojos de ella le parecieron dos destellos en medio de la profunda oscuridad de la sala. Ella conocía la devoción de él por la verdad, cuánto lo horrorizaba la mentira, su humanidad.
 —¡Oh, mi pobre, pobre…!
 —Nunca podré saberlo —repitió con dureza, se separó, apretó las manos de ella contra sus labios y se marchó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -158,6 +158,3 @@ Me saludó con un ademán amistoso y se marchó con brío.
 El práctico del mar del Norte sacudió la cabeza negativamente.
 —¡Perder un barco de una manera tan tonta! ¡Oh, Dios mío! ¡Dios mío! —murmuró con tono sombrío, extendiendo de nuevo su pañuelo húmedo como una cortina frente a las brasas.
 Al marcharme intercambié una mirada y una sonrisa —de una estricta corrección— con la respetable señorita Blank, camarera de Las Tres Cornejas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

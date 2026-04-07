@@ -156,6 +156,3 @@ Celebró ver la figura corpulenta del tío Pancho, vestido de blanco, a solas en
 —Tío Pancho —dijo con encantadora sonrisa—, ¿tendrá la bondad de indicar al señor Merriam que quisiera hablar un momento con él?
 El tío Pancho se inclinó con la gracia de un elefante.
 —Buenas tardes, señora Conant —y tras este caballeroso saludo, dijo algo conturbado—: Pero ¿no sabe la señora que el señor Merriam embarcó esta tarde a las tres en el Pájaro, rumbo a Panamá?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

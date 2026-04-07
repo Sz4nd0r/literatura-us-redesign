@@ -100,6 +100,3 @@ Appacher huía ya como el viento.
 —Gracias, gracias, don Raimondo, lo sabía…
 —No te preocupes —continuó el cura suavemente—, no te preocupes si el obispo ya desconfía de mí… No te preocupes, te lo suplico, si tu presencia aquí puede causarme complicaciones graves… En pocas palabras, no te preocupes por mí. Si has sido enviado aquí para causarme la ruina, ¡hágase la voluntad de Dios!… Pero ¿qué haces? ¿Te vas?
 Y ésta es la razón de que los espíritus —en el caso de que algún alma en pena se obstine en permanecer sobre la tierra— no quieran vivir con nosotros, sino que prefieran retirarse a las casas abandonadas, entre las ruinas de las torres legendarias, en las capillas perdidas en medio de los bosques, en los peñascos solitarios que las olas baten y baten, y que lentamente se desmoronan.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

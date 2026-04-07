@@ -140,6 +140,3 @@ Mientras corría, decidió que nunca volvería a las granjas Bentley o al pueblo
 —He matado al elegido del Señor, y ahora seré un hombre y me enfrentaré al mundo —dijo valientemente. Dejó de correr y anduvo por un camino que serpenteaba junto al arroyo Wine en dirección al oeste.
 En el suelo, junto al arroyo, Jesse Bentley se movió con dificultad. Gimió y abrió los ojos. Estuvo un rato allí tumbado contemplando inmóvil el cielo. Cuando por fin se puso en pie, estaba confuso y no le sorprendió la desaparición del muchacho. Se sentó en un tronco al borde del camino y empezó a hablar de Dios. Eso fue todo lo que le sacaron. Cada vez que alguien nombraba a David, él miraba vagamente al cielo y decía que un mensajero del Señor se había llevado al chico.
 —Sucedió porque yo codiciaba demasiado la gloria —afirmaba, y nunca dijo nada más al respecto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

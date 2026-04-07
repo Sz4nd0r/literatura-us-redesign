@@ -77,6 +77,3 @@ Maida no llevaba paraguas ni chanclos. Tenía su vestido púrpura y eso era lo e
 Al dar la vuelta a una esquina estuvo a punto de tropezar con un transeúnte. Alzó la mirada y halló los ojos del señor Ramsay, relampagueantes de admiración.
 —Está usted magnífica con ese vestido, señorita Maida —dijo—. No sabe lo que he sentido no verla en la comida.	De todas las mujeres que he conocido es usted la que tiene más sentido e inteligencia. No hay nada tan sano y vigorizante como desafiar la intemperie, según usted hace. ¿Me permite acompañarla?
 Y Maida se ruborizó y asintió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

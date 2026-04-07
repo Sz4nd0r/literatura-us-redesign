@@ -50,6 +50,3 @@ La esposa lo agarró firmemente del brazo y no lo soltó hasta que estuvieron en
 —Y te atreves a contarme eso después de haber visto una gran tragedia de un gran amor en una gran película. ¡Vergüenza debía darte! Y ¿cómo vas a poder pagar la pensión a dos esposas y a un bastardo con lo que ganas y cómo puedes encontrarle algo a una casada casquivana que empieza a flirtear con el primer cartero que encuentra en la escalera y qué va a decir el carnicero?
 Pero el cartero tardó mucho en conciliar el sueño por la noche y no se durmió hasta que hubo comprendido que todas las grandes tragedias ya habían ocurrido y que ahora quedaban tragedias muy muy pequeñas. Y Lena permaneció también mucho tiempo despierta, llorando sola, la lamparilla estaba encendida y tenía un espejo en la almohada, y cuando se miró en él no vio más que vejez y fealdad. Pero el carnicero llegó a casa, borracho y alegre, y cuando abrió la carta comentó que querían que se suscribiera a un periódico vespertino.
 —Pero como sigan enviando ejemplares rotos se va a suscribir su madre —dijo—. Aunque seguramente ha sido culpa del correo, y como le eche la vista encima al cartero se va a llevar un soplamocos. ¡Vamos si se lo lleva!.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -118,6 +118,3 @@ Gary Wilkinson se aclaró la garganta antes de hablar.
 —Es un gran hombre —dijo—. Lo que queda de una época olvidada. Ya no hay muchos como él. Un pionero. Un verdadero kamaaina. ¡Indefenso y en manos de la policía a su edad! Deberíamos hacer algo por él en reconocimiento al gran servicio que ha prestado a Hawái. Resulta que sé que proviene de Sag Harbor y que hace más de medio siglo que no va por allí. ¿Por qué no lo sorprendemos, mañana por la mañana, pagándole la multa, regalándole un billete de vuelta a Sag Harbor y, digamos, aportando dinero suficiente para los gastos de un año de viaje? Propongo crear un comité formado por el coronel Chilton, Lask Finneston y yo mismo. Como presidente, ¿quién hay más apropiado que Lask Finneston, que conoció tan bien al anciano caballero en los viejos tiempos? Ya que nadie se opone, nombro a Lask Finneston presidente del Comité encargado de recaudar y donar dinero a fin de pagar la multa del tribunal correccional y los gastos de un año de viaje para tan noble pionero, John Ward, en reconocimiento a una vida entera dedicada a la construcción de Hawái.
 Nadie discrepó.
 —El comité celebrará su primera sesión en secreto —dijo Lask Finneston, al tiempo que se ponía en pie e indicaba a los demás el camino hacia la biblioteca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

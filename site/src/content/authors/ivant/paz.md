@@ -906,6 +906,3 @@ Vladímir Sergueich se volvió y vio a uno de sus buenos amigos, un tal señor P
 —Ahí está mi mujer —se apresuró a interrumpirle Vladímir Sergueich—. Vayamos a su encuentro.
 Y ambos caballeros se dirigieron a un elegante carruaje bajo, por una de cuyas puertas asomaba el rostro pálido, cansado, irritable y altivo de una mujer aún joven, pero ya marchita.
 Detrás viajaba otra dama, también con aire enojado, su madre. Vladímir Sergueich abrió las puertas del coche y ofreció el brazo a su mujer. Pomponski tendió el suyo a la madre de la joven, y las dos parejas se alejaron por la avenida Nevski, escoltadas por un lacayo no muy alto, de pelo moreno, con polainas de color guisante y una gran escarapela en el sombrero.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

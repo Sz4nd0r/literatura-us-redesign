@@ -221,6 +221,3 @@ sus patas y le contaron los dientes.
 el suplente del comandante del escuadrón.
 —Es un caballo irreprochable —confirmó
 Bisenko, el de los bigotes largos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

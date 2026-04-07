@@ -240,6 +240,3 @@ Permanecimos de pie en la ventana y observamos cómo se alejaba el coche. Cuando
 No contenía palabra alguna, sino esta breve línea de bailarines:
 —Si utiliza el código que le he explicado —dijo Holmes—, encontrará que simplemente significa «Come here at once» [Ven enseguida]. Estaba convencido de que era una invitación que no rechazaría, puesto que nunca se le pasaría por la cabeza que podía provenir más que de la dama. Y, en consecuencia, mi querido Watson, hemos acabado convirtiendo al bien a los bailarines cuando han sido tantas veces agentes del mal, y creo que he cumplido con mi promesa de proporcionarle algo inusual para sus notas. Nuestro tren sale a las tres cuarenta, y tengo ganas de llegar a Baker Street para la cena.
 Solo unas palabras como epílogo. El americano Abe Slaney fue condenado a muerte en el curso judicial de invierno en Norwich, pero su pena fue conmutada por trabajos forzados en consideración a las circunstancias atenuantes, y a la seguridad de que Hilton Cubitt había realizado el primer disparo. De la señora de Hilton Cubitt solo sé que se repuso por completo, sigue siendo viuda, y consagra toda su vida al cuidado de los pobres y a la administración de la herencia de su marido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

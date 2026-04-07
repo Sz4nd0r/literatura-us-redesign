@@ -373,6 +373,3 @@ poco la alfombra del suelo, moviéndose, qué mareo. Se quedó ahí, mojado y fr
 y vio al camarero en el otro extremo del vagón, una silueta blanca en la
 oscuridad, ahí de pie, observándolo sin moverse. Las vías describieron una curva
 y él, mareado, cayó de espaldas en la intensa calma del tren.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

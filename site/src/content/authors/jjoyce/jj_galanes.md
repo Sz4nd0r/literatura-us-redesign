@@ -542,6 +542,3 @@ frente. Luego, con un gesto grave, extendió una
 mano hacia la luz y, sonriendo, la abrió para que
 la contemplara su discípulo. Una monedita de oro
 brillaba sobre la palma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

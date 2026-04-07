@@ -173,6 +173,3 @@ Cuando tendió una mano temblorosa y la puso sobre la suya, sintió su peso y se
 —¿Y en el cuarto del medio va a estar el reloj octogonal de colgar?
 —Sí, y la mesa redonda también.
 —Entonces denme algo para comer, porque tengo hambre —dijo Nauri con satisfacción—. Y después vamos a dormir, porque estoy cansada. Y mañana, antes de vender la perla, vamos a hablar más sobre la casa. Sería mejor que nos dieran los franceses al contado. El dinero siempre es mejor que el crédito cuando se trata de comprarles mercaderías a los comerciantes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

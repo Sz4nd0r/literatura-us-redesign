@@ -468,6 +468,3 @@ Esa misma noche dormían ya los muchachos cuando María sintió los pasos del ca
 —Bien, échasela en el cuarto para que la descubran por la mañana.
 Y bajó la perra al suelo, que se les quedó mirando como si en aquella casa no hubiera nada que comer.
 Agosto de 1982.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

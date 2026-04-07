@@ -226,6 +226,3 @@ Y Diego indicó una tasca a la que entraron todos casi sin alientos. El olor a c
 —¡Ah!, sí… su corona. Siempre que va de cacería la deja en cualquier sitio. Así es Fredegunda, una mujer muy natural, muy fácil de conducir cuando no se enfada. Ella sí que no ha cortado los lazos con la naturaleza —comentó Diego sin inmutarse.
 Lucía cogió la corona pesada y, embelesada, la contempló largo rato, luego miró las paredes de cuero de la tienda y abrió una rendija para contemplar el bosque perfumado de lilas salvajes… afuera las fogatas estaban casi apagadas y los centinelas dormitaban… Diego les sirvió vino y repartió trozos de cordero asado. Lola y Petrouchka olvidaron el miedo y la miseria de la fonda, comieron y extasiados contemplaron a Lucía.
 —¡Hombre!, no te va mal la corona de Fredegunda… conviene que te dejes crecer dos trenzas largas… —comentó Diego, al ver a la chica con la joya colocada sobre la cabeza…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

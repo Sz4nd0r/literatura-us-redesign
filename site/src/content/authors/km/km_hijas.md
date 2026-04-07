@@ -301,6 +301,3 @@ Ambas callaron, esperando que la otra prosiguiese.
 —Di, di, Con —la instó Josephine.
 —No, no, Jug; dilo tú primero —dijo Constantia.
 —No, mujer, di lo que ibas a decir. Tú has empezado —argüyó Josephine.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

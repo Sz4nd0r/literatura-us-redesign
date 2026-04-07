@@ -198,6 +198,3 @@ Media hora más tarde, nos hallábamos sentados, los cuatro, en la pequeña sala
 —Pues bien, señor Gregson —dijo el americano mirando al oficial—, no sé cuál será el punto de vista británico, pero supongo que en Nueva York el marido de esta dama va a recibir más de una muestra de agradecimiento.
 —Tendrá que venir conmigo y ver al jefe —respondió Gregson—. Si lo que dice queda corroborado, no creo que ni ella ni su marido tengan mucho que temer. Pero, a lo que no le encuentro ni pies ni cabeza, señor Holmes, es a cómo demonios se ha visto usted mezclado en el asunto.
 —Por aprender, Gregson, por aprender. Por seguir buscando el conocimiento en la vieja universidad. Bueno, Watson, tiene un ejemplo más de lo trágico y lo grotesco que añadir a su colección. Por cierto, aún no son las ocho, ¡y hay velada de Wagner en el Covent Garden! Si nos damos prisa, podemos llegar al segundo acto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

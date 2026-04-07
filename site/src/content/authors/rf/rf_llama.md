@@ -42,6 +42,3 @@ Hay cosas que no se perdonan, ni siquiera a los inocentes.
 La conciencia de la verdad contenida en el aforismo de Chaucer, “the lyf so short, the craft so long to lerne”, en vez de disuadirme, me dio aún más fuerzas para dedicarme obsesivamente al aprendizaje del más solitario de los oficios. Pero me agoté en esta tarea horrenda. Escribir fue la más mortificante de todas las luchas que enfrenté. Nadie pagó más caro que yo por las líneas que escribió. ¡Ah, los esplendores ilusorios de la gloria! Estoy acabado, a los sesenta y siete años de edad. Mi último libro, The rover, no debí haberlo escrito.
 Pasé la noche despierto, con dolores alucinantes en la pierna. Pensé mucho en Crane. Escribo nuevamente su nombre: Crane.
 El fuego en el hogar casi se está apagando. Me siento tan débil que tengo miedo de no tener fuerzas para aprovechar esta ocasión en que estoy solo y levantarme de la cama y, sin que nadie me vea, arrojar este diario sobre las brasas del hogar, para que las llamas destruyan todas las referencias que hice a su nombre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

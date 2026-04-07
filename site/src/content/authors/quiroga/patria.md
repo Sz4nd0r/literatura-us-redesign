@@ -286,6 +286,3 @@ Y se alejó volando.
 En efecto, el hombre murió en breves días. Pero no
 murió del todo, porque su tierno hijo recordó lo bastante de aquella noche para
 ser más tarde en la vida un hombre libre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

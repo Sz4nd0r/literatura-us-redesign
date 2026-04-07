@@ -75,6 +75,3 @@ El hombre hizo chasquear un dedo y llamó:
 —Eusebio, la cuenta.
 Demoró su respuesta hasta que le trajeron la cuenta y la firmó. Entonces se puso en pie y le dijo al hijo, su cara frente a la otra:
 —Los ostiones. ¿Y le he preguntado alguna vez a los ostiones si yo les gusto, para comérmelos?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

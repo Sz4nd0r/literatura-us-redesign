@@ -181,6 +181,3 @@ Los dos gemelos se echaron a reír y Lady, pasando la mirada de uno a otro, jade
 La señora Walpole los miró, contempló a sus dos hijos de manos fuertes y caras bronceadas por el sol que reían a coro y a la perra que reía con ellos, con las patas aún manchadas de sangre. Salió a la puerta de la cocina y contempló las frescas colinas verdes y el movimiento del manzano bajo la leve brisa de la tarde.
 —Te arrancan la cabeza de cuajo —oyó que decía Jack.
 Todo estaba tranquilo y precioso bajo el sol: el cielo despejado, el suave perfil de las colinas... La señora Walpole cerró los ojos, sintiendo de pronto las manitas fuertes tirando de ella y las afiladas púas cerrándose en torno a su cuello.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

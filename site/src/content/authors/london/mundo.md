@@ -510,6 +510,3 @@ hacer de él el más diabólico de los criminales.
 Extractos escogidos de Excentricidades del crimen, de
 M. A. G. Burnside, con el permiso de sus editores. M. Holiday & Withsun.
 Transcriptos por Jack London.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

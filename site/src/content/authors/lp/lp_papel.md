@@ -89,6 +89,3 @@ Buscando, la señorita maltrataba las páginas, se irritaba por las recomendacio
 Balicci se levantó, vibrante de ira y convulso:
 —¡Le prohíbo decir que no es como está escrito! —le gritó, levantando los brazos—. ¡Me importa un cuerno que usted haya estado allí! ¡Es como está escrito, y punto! ¡Tiene que ser así! ¡Usted quiere hundirme! ¡Váyase! ¡Váyase! ¡No puede quedarse aquí! ¡Déjeme solo! ¡Váyase!
 Una vez a solas, Valeriano Balicci, después de haber cogido a tientas el libro que la señorita había arrojado al suelo, cayó sentado en el sillón; abrió el libro, acarició con las manos temblorosas las páginas arrugadas, luego hundió el rostro en ellas y permaneció así, absorto en la visión de Trondhjem con su catedral de mármol, con el cementerio al lado, adonde cada sábado por la noche los devotos llevan ofrendas de flores frescas —así, así como estaba escrito allí—. No había que tocar nada. El frío, la nieve, aquellas flores frescas y la sombra azul de la catedral. No había que tocar nada. Era así, y punto. Su mundo. Su mundo de papel. Todo su mundo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -201,6 +201,3 @@ Otra vez oyó el chofer los gritos de alguien. El grito provenía del cobertizo 
 —A mí puede esculcarme —dijo el chofer. Sus ojos dieron con los restos del baño y lo que alguna vez había sido el tocador y se echó a reír. Nada quedaba en ningún sitio.
 —¿Cómo se atreve a reír? —dijo el señor Thomas—. Esa era mi casa. Mi casa.
 —Créame que lo siento —dijo el chofer, haciendo esfuerzos sobrehumanos para contenerse; pero cuando recordó el súbito tirón del carro y la subsecuente lluvia de piedras y ladrillos, no aguantó más y echó a reír otra vez. Primero estaba ahí la casa, aún erguida entre los hoyos de bomba con la dignidad de un hombre con sombrero de copa y luego, de pronto, ¡crash! Nada quedaba, absolutamente nada—. Lo siento de veras, señor Thomas. Créame que no es nada personal. Es solo que, bueno, tiene usted que admitir que no deja de ser gracioso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

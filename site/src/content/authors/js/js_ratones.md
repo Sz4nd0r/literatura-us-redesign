@@ -1476,6 +1476,3 @@ George dejó que lo ayudara a ponerse de pie.
 Curley y Carlson los siguieron con la vista. Y Carlson comentó:
 —Ahora, ¿qué diablos les pasa a esos dos?
 FIN
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

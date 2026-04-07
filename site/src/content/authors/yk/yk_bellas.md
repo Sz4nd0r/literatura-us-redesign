@@ -627,6 +627,3 @@ La oyó bajar las escaleras con la muchacha morena a cuestas. En pie, y con el k
 Eguchi abrió la puerta de la habitación contigua. La ropa de la cama seguía igual, tirada hacia abajo y en desorden, y la forma desnuda de la muchacha de tez clara yacía en esplendorosa belleza.
 La contempló.
 Oyó alejarse un automóvil, probablemente con el cuerpo de la muchacha morena. ¿La llevarían a la ambigua posada donde condujeron al anciano Fukura?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

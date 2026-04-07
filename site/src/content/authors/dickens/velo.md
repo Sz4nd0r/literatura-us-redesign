@@ -90,6 +90,3 @@ Era verdad. Un cómplice, tan culpable como él mismo, había sido absuelto, mie
 Y el resultado era este; para él, la muerte, por la mano del verdugo, y para su madre la vergüenza y una locura incurable.
 Durante varios años, el joven cirujano visitó diariamente a la pobre loca inofensiva.
 Y no sólo para calmarla con su presencia y sus atenciones, sino para velar con mano generosa, por su comodidad y sustento. En el destello fugaz de su memoria que precedió a la muerte de la desdichada, un ruego por el bienestar y dicha de su protector salió de los labios de la pobre criatura desamparada. La oración voló al cielo, donde fue oída y la limosna que él dio le ha sido mil veces devuelta; pero entre los honores y las satisfacciones que merecidamente ha tenido no conserva recuerdo más grato a su corazón que el de la historia de la mujer del velo negro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

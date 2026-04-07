@@ -286,6 +286,3 @@ Se reimprimen, por “C1ásicos Huracán” los poemarios: El mar y tú
 Rodríguez Pagán, Juan A. Julia
 de Burgos: tres rostros de Nueva York y un largo silencio de Piedra.
 Humacao, Puerto Rico: Editorial Oriente, 1987
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

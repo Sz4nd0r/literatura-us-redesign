@@ -201,6 +201,3 @@ su espalda, oyó otra vez a la joven pedirle su calzado, y mientras
 simulaba leer un cartón comercial, trataba de torcer su español en un
 inglés tibio, profundo, que le permitiera entregarle uno de sus zapatos
 en señal de nupcias.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

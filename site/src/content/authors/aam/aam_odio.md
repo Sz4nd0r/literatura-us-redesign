@@ -457,6 +457,3 @@ En la iglesia había tenido la precaución de no hablarle primero a Sabitha, par
 Ya no temía realmente que la descubrieran, aunque no lograba entender cómo no había ocurrido. Y en cierto modo parecía correcto que las reliquias de su identidad anterior no estuvieran conectadas con la de ahora; y no digamos ya con la identidad real que esperaba asumir cuando huyera de esa ciudad y de todos los que creían conocerla. Lo que la abrumaba era el giro que aquello había tomado, las consecuencias fantásticas pero insulsas. Y también ofensivas, como un chiste o una advertencia burda que intentaba clavarle sus garras. Porque ¿dónde, en la lista de lo que planeaba conseguir en su vida, había una mínima mención a su responsabilidad por la existencia terrestre de un ser llamado Ornar?
 Sin hacer caso a su madre, escribió:
 —«No debes preguntar; se nos prohíbe saber…». —Hizo una pausa, mordió el lápiz y con un escalofrío de satisfacción concluyó—: «… qué nos reserva el destino a mí o a ti».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -482,6 +482,3 @@ Pero el sastrecillo, que acababa de perder veinte mil francos —porque a fin de
 Los otros, los del Café de la Paix, habían ido, sin duda, a la escuela con el sombrerero; alguno de ellos quizá había compartido su dormitorio en el cuartel.
 Pero lo que había compartido Kachoudas era, por así decirlo, un crimen.
 ¡Y ya se sabe que esto crea una muy distinta intimidad!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

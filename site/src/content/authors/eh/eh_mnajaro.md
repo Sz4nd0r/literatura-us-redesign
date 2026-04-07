@@ -988,6 +988,3 @@ respirar.
 Fuera de la tienda, la hiena seguía
 lanzando el mismo gemido extraño que la despertó. Pero los latidos del
 corazón le impedían oírlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

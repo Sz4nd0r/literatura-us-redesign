@@ -277,6 +277,3 @@ rosada.
 Juegan, juegan.
 Los miro entre la vaga bruma del gas y el humo.
 Y mirando estos hombres sé que la vida es triste.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

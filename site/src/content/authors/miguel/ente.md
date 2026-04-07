@@ -98,6 +98,3 @@ Un latigazo doble le desangró los labios...
 El insulto del Auditor perdióse en los oídos de una mitad de hombre que ya no oiría más. Al soltar la cuerda, el cadáver del Mosco, es decir, el tórax, porque le faltaban las dos piernas, cayó a plomo como péndulo roto.
 —¡Viejo embustero, de nada habría servido su declaración, porque era ciego! —exclamó el Auditor al pasar junto al cadáver.
 Y corrió a dar parte al Señor Presidente de las primeras diligencias del proceso, en un carricoche tirado por dos caballos flacos, que llevaban de lumbre en los faroles los ojos de la muerte. La policía sacó a botar el cuerpo del Mosco en una carreta de basuras que se alejó con dirección al cementerio. Empezaban a cantar los gallos. Los mendigos en libertad volvían a las calles. La sordomuda lloraba de miedo porque sentía un hijo en las entrañas...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

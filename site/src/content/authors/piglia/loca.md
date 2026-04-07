@@ -83,6 +83,3 @@ El viejo Luna lo miró impresionado y se inclinó sobre el papel.
 —Decime ¿vos te querés arruinar la vida? ¿Una loca de testigo para salvar a un cafishio? ¿Por qué te querés mezclar? —En la cara le brillaban un dulce sosiego, una calma que nunca le había visto—. Mirá, tomate el día franco, andá al cine, hacé lo que quieras, pero no armés lío. Si te enredás con la policía te echo del diario.
 Renzi se sentó frente a la máquina y puso un papel en blanco. Iba a redactar su renuncia; iba a escribir una carta al juez. Por las ventanas, las luces de la ciudad parecían grietas en la oscuridad. Prendió un cigarrillo y estuvo quieto, pensando en Almada, en Larry, oyendo a la loca que hablaba de Bairoletto. Después bajo la cara y se largó a escribir casi sin pensar, como si alguien le dictara:
 Gordo, difuso, melancólico, el traje de filafil verde nilo flotándole en el cuerpo —empezó a escribir Renzi—, Almada salió ensayando un aire de secreta euforia para tratar de borrar su abatimiento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

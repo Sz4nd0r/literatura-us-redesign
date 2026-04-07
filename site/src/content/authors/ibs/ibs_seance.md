@@ -89,6 +89,3 @@ En sueños se vio a sí mismo en la cafetería de la calle Cuarenta y dos, junto
 —¿Ya se ha marchado Nela? —inquirió él, asombrado de sus propias palabras. Debía de estar todavía medio dormido.
 La señora Kopitzky hizo una mueca de dolor, mientras su papada se agitaba y temblaba. Sus negros ojos se llenaron de reproche maternal.
 —¿Conque se ríe, eh? La muerte no existe, no existe. Vivimos eternamente, para siempre. Y amamos para siempre. Esa es la pura verdad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

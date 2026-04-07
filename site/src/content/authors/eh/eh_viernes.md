@@ -100,6 +100,3 @@ SOLDADO SEGUNDO: Llevas aquí demasiado tiempo.
 SOLDADO TERCERO: No, no es eso. Me siento fatal.
 SOLDADO SEGUNDO: Llevas aquí demasido tiempo. Eso es todo.
 TELÓN
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -214,6 +214,3 @@ nacional, como diría el general Alemán manzanares, sino al contrario
 para nuestra propia identificación y sin ningún agravante por ser
 salvadoreños.
 San Salvador, 22 de julio de 1996.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -323,6 +323,3 @@ Después de cenar se quedaron sentados un rato en los escalones de la parte dela
 Era como si él la hubiera perseguido y la hubiera atrapado de nuevo. Ella sonrió, con la cabeza apoyada en su brazo. Al fin y al cabo, era una persecución como cualquier otra.
 —Volveré a hacerlo si estoy lista —dijo—. La próxima vez será diferente.
 Ya estaba lista para entrar. Se levantó y miró desde el escalón superior al otro lado del jardín, donde se alzaba el cinamomo, y más allá, en dirección a los campos oscuros donde parpadeaban las luciérnagas. Él también se puso en pie y se quedó a su lado, con el entrecejo fruncido, tratando de mirar donde ella miraba. Al cabo de unos minutos ella lo cogió de la mano y lo condujo a la casa sonriendo como si le sonriera a él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

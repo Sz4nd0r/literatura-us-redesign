@@ -239,6 +239,3 @@ Los demonios no estaban allí. Se habían ido para siempre, porque ella estaba c
 ¿Y qué importancia tenía si se casaba con Phil Hunt o con Sophie? Aunque debería optar por Sophie, que ya se había convertido en la madre de aquellos niños… y qué hipocresía estar allí sentada, preocupándose por los niños cuando iba a dejarlos porque no tenía fuerzas para quedarse.
 Disponía de unas cuatro horas. Fueron deliciosas, sombrías, dulces, y se dejó deslizar suavemente, suavemente, hacia la orilla del río. Luego, sin apenas un atisbo de conciencia, se puso en pie, empujó el delgado tapete contra la puerta, se aseguró de que las ventanas estuvieran bien cerradas, puso dos chelines en la estufa y encendió el gas. Por primera vez desde que había estado en la habitación se tumbó en la dura cama que olía a humedad, que olía a sudor y a sexo.
 Se tendió boca arriba, sobre la colcha de satén verde, pero sus piernas estaban frías. Se incorporó, encontró una manta doblada en uno de los cajones de la cómoda, y se las cubrió con delicadeza. Estaba muy contenta allí acostada, mientras escuchaba el silbido suave y tenue del gas que inundaba la habitación, sus pulmones, su cerebro, y se dejaba llevar a la deriva hacia el oscuro río.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

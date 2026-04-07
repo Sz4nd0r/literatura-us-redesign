@@ -68,6 +68,3 @@ CATHERINE
 P.S. ¿Ha dicho algo Philip de mi fiesta? Le escribí pero no me ha respondido. Por favor, averigua si va a venir o si solo se ha olvidado de responder mi carta. Espero que venga, porque a veces me da la sensación de que me moriría si no viniera.
 P.P. S. Por favor, no le cuentes lo que te he dicho, porque me moriría si lo supiera.
 CATHERINE
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

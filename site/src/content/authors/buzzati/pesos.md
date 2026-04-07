@@ -70,6 +70,3 @@ Rodeado por un grupo de señoras, un hombre con una nariz especialmente desarrol
 Transportada, casi en éxtasis, Minnie bebía las palabras una a una.
 —¡Ya está bien, vámonos! —murmuró Nene a su amiga dándole un codazo—. No entiendo nada estos cuadros.
 —Oh —replicó Minnie—, perdona mi franqueza, pero te encuentro bastante retrógrada. ¡A mí me parecen fuera de serie!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

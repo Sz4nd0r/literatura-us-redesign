@@ -21,6 +21,3 @@ La mujer sonriendo ya sin la bata desde la cama, empezó a parecerle enorme a me
 Hasta que pudo, triunfal, iniciar su viaje de ida y vuelta en el túnel invisible, húmedo y sombrío, ida y vuelta hasta lograr verle la cara a dios por primera vez en su vida.
 Ya en la calle pensó que lo que había comprado no podía sustituir a la palabra amor ni a sus sueños ni a sus intuiciones. Pero él no podía estar equivocado, estaba escrito que algún día no lejano su cuerpo y su alma iban a fundirse en la verdad dichosa y presentida.
 1994
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

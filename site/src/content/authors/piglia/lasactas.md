@@ -337,6 +337,3 @@ la cara escondida por la muerte, la Matilde acostada encima y
 manchán­dose ele sangre, cuando lo maté:
 —Perdone, mi General —le dije, y
 me apuré bus­cándole el medio del pecho para evitarle el sufrimiento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

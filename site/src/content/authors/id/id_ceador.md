@@ -115,6 +115,3 @@ Empezó entonces su narración, y yo le escuché con interés.
 »”Nuestra experiencia nos ha probado, como la vuestra os probará algún día a vosotros, que uno puede flotar muy bien sin esperanza; sí, que incluso se flota mejor sin ella. Por tanto, también, nuestro credo consigue que en nosotros toda esperanza quede eliminada.
 »”No corremos ningún riesgo. Pues nuestro cambio de lugar en la existencia nunca crea, ni deja tras de sí, lo que el hombre llama un camino, en cuyo fenómeno (en realidad, no es fenómeno sino ilusión) malgastará deliberaciones incomprensiblemente apasionadas.
 »”El hombre, en fin, está alarmado por la idea del tiempo, y desequilibrado por los incesantes vagabundeos entre el pasado y el futuro. Los habitantes del mundo líquido han conciliado el pasado y el futuro en la máxima: Après nous le déluge.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

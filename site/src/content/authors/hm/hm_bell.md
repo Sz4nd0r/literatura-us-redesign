@@ -115,6 +115,3 @@ Mirando hacia atrás, vieron que la parte superior del campanario se había hund
 Tras ser desenterrada, se vio que la fractura principal se había iniciado en un pequeño punto junto a su corona; el cual al ser raspado, reveló un defecto, engañosamente diminuto, en la fundición; un defecto que posteriormente había sido empastado con algún producto desconocido.
 El refundido metal pronto volvió a su lugar en la superestructura reparada de la torre. Durante un año, el coro metálico de pájaros cantó musicalmente por entre las esculpidas celosías y tracerías del campanario. Pero en el primer aniversario de terminación de la torre —a primera hora de la mañana, apenas amanecido, antes de que la multitud la rodeara—, se produjo un temblor de tierra; se oyó un fuerte y sordo ruido. El pino de piedra, con toda su nidada de metálicos pájaros cantores, yacía derribado sobre la llanura.
 Así el ciego esclavo obedeció a su amo cegador; pero, en obediencia, lo mató. Así el creador fue muerto por la criatura. Así la campana fue demasiado pesada para la torre. Así la principal debilidad de la campana fue allá donde la sangre del hombre le había salpicado su imperfección. Y así el orgullo se derrumbó en la caída.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

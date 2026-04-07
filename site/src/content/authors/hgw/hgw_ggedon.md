@@ -275,6 +275,3 @@ Pareció dudar. Después, en un tono casi inaudible, contestó:
 —No pude llegar hasta ella. Estaba allí, al otro lado del templo… y entonces…
 —¿Y entonces? —insistí—. ¿Entonces?
 —¡Pesadillas! —exclamó—. ¡Auténticas pesadillas! ¡Dios mío! ¡Aves enormes que combatían y destruían…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

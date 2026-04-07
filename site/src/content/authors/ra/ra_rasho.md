@@ -57,6 +57,3 @@ Seguidamente, despojó a la vieja de sus ropas, y como ella tratara de impedirlo
 Un momento después la vieja, que había estado tendida como un muerto más, se incorporó, desnuda. Gruñendo y gimiendo, se arrastró hasta la escalera, a la luz de la antorcha que seguía ardiendo. Asomó la cabeza al oscuro vacío y los cabellos blancos le cayeron sobre la cara.
 Abajo, sólo la noche negra y muda.
 Adónde fue el sirviente, nadie lo sabe.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

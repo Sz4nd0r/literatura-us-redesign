@@ -74,6 +74,3 @@ Una hora después, ya apagadas las luces, Josefa, puesto ya su camisón de dormi
 rey, que se hallaba en su dormitorio, al otro lado del enladrillado pasillo.
 —Papá —dijo—, ¿te acuerdas de ese puma que llamaban El Diablo de la Oreja Partida? El que mató a González, el pastor de Martin, y unas cincuenta terneras del rancho Salado. Pues le he matado esta tarde, en el vado del Caballo Blanco. Le metí dos balas en la cabeza con mi 38, cuando ya se lanzaba contra mí. Le reconocí por el corte que el viejo González le hizo de un machetazo en la oreja izquierda al defenderse. Ni tú hubieses tirado mejor, papá.
 —¡Enhorabuena, hija! —contestó con su voz de trueno Ben Hablabajito desde la oscuridad de su cámara regia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

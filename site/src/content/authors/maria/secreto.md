@@ -74,6 +74,3 @@ Pausa breve, luego bajando la voz, el Pirata pregunta con sencillez.
 —Ahí donde usted piensa, mi Capitán —contesta respetuosamente el muchacho.
 —Pues a mil millones de pies bajo el mar, caray —estalla el viejo Pirata en una de esas sus famosas, estrepitosas carcajadas, que corta súbito, casi de raíz.
 Porque aquello que quiso ser carcajada resonó tremendo gemido, clamor de aflicción de alguien que, dentro de su propio pecho, estuviera usurpando su risa y su sentir; de alguien desesperado y ardiendo en deseo de algo que sabe irremisiblemente perdido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -144,6 +144,3 @@ No hay futuro.
 Ahora respiro aún más hondo. Me preparo, me preparo, vacilante. He ahí la médula de mi anhelo, condensada. Está ahí, a mano, en las palabras.
 Enciende la lámpara halógena. No hay luz suficiente en esta habitación.
 Amor, por favor sigue escribiendo. Tus cartas me alcanzarán siempre. Escríbeme, aunque sea con tu auténtica diminuta caligrafía. La sostendré a la luz. La aumentaré con mi amor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

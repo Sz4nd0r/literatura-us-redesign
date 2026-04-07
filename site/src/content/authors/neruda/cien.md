@@ -1633,6 +1633,3 @@ el suculento libro en la enramada,
 y allí donde respiran los claveles
 fundaremos un traje que resista
 la eternidad de un beso victorioso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

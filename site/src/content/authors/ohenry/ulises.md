@@ -112,6 +112,3 @@ Se dirigieron al embarcadero. El ranchero se detuvo ante la ventanilla.
 Percibióse de repente el casi unánime fragor de tres o cuatro puntapiés, caninos aullidos rasgaron el aire y un dolorido, ultrajado y renqueante perro, que parecía una torta de dulce, huyó frenéticamente por la calle, solo.
 —Un billete para Denver —dijo Jim.
 —Dos —dijo el ex hombre de perro, echando mano al bolsillo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

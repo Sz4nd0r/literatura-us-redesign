@@ -51,6 +51,3 @@ comandante de división Savitski. Como suele decirse, nos veremos en el cielo;
 pero como para los viejos no debe haber allá arriba un cielo sino un verdadero
 burdel, y como para gonorrea, bastante tenemos ya en la tierra, es probable que
 no nos veamos más. De manera que consérvate bien, compañero Chlebnikof.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

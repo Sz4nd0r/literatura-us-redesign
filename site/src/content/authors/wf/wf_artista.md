@@ -205,6 +205,3 @@ Pero Anne no le escucha.
 —Por no pensar —dice— que él… para vestirme yo con las pieles de unos animalillos aniquilados… Tú lo has puesto en un libro, pero no lo llegaste a terminar. No sabías nada de ese abrigo, ¿verdad que no? Esta vez Dios te ha ganado, Roger.
 —Sí, así es —dice Roger—. Dios me gana muchas veces. Pero en esto hay una cosa más. Sus hijos son mayores que los nuestros, y ni siquiera la señora Crain podría ponerse mi ropa interior, así que todo queda en su sitio.
 Claro. Todo quedó en su sitio. Pronto llegaría la Navidad y después la primavera, y luego el verano, el largo verano, los largos días del verano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

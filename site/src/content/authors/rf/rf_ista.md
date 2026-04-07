@@ -221,6 +221,3 @@ Yo estaba de pie en el borde del porche, ante la hilera de olivos, mirando hacia
 Y lo dije porque era la verdad.
 Y traté de pensar en otra cosa, y no presté atención a lo que mi madre dijo luego.
 ¿Cuántos años tenía entonces? Dieciséis. A los dieciséis años uno es joven, pero también puede ser un hombre adulto. Hoy tengo cuarenta y un años, y pienso en aquel tiempo sin pesar, aunque mi madre y yo ya no volviéramos a hablar de aquel modo nunca, y yo no haya oído su voz desde hace tanto, tanto tiempo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

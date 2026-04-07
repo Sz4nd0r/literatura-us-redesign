@@ -83,6 +83,3 @@ Un camarero le tomó de un brazo.
 Gorgia, en efecto, se tambaleaba.
 —No, no, gracias…
 Y sin tomar nada salió de allí, bajo la lluvia, desesperado. “¡Virgen Santa!”, murmuraba para sí, consciente de que para él toda alegría había acabado. Ni siquiera podía ofrecer ese dolor suyo a Dios, porque, ante esta clase de dolores, Dios se indigna.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

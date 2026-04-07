@@ -243,6 +243,3 @@ Nos saludó a los tres con una reverencia y salió tranquilamente, custodiado po
 —Y es usted un benefactor de la humanidad —dije.
 Holmes se encogió de hombros.
 —Bien, tal vez, a fin de cuentas, sea de cierta utilidad —observó—. «L’homme c’est rien, l’oeuvre c’est tout» [“El hombre no es nada, el trabajo lo es todo”], como le escribió Gustave Flaubert a George Sand.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

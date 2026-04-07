@@ -47,6 +47,3 @@ En actitud de elevar una ofrenda, ceremoniosamente, sujetó la nariz con ambas m
 En ese momento, sintió retornar una sensación que había estado a punto de olvidar. Instintivamente se llevó las manos a la nariz. ¡Era la nariz de antes, con sus 16 centímetros! Naigu volvió a sentirse tan lleno de júbilo como cuando comprobó su reducción.
 —Desde ahora nadie volverá a burlarse de mí.
 Así murmuró para sí mismo, haciendo oscilar con delicia la larga nariz en la brisa matinal del otoño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

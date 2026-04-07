@@ -92,6 +92,3 @@ Iba despacio porque estaba muy cansado; pero me sentía libre y sin miedo. ¡Qu�
 Llegué a la casa a pasos lentos; pensaba entrar al granero; pero sentí una discusión en el dormitorio de Tomasa. Oí la voz del novio hablando de los sesenta pesos; sin duda los que hubiera necesitado para comprarme. Yo ya iba a alegrarme de pensar que no les costaría nada, cuando sentí que él hablaba de casamiento; y al final, ya fuera de sí y en actitud de marcharse, dijo: «O el caballo o yo».
 Al principio la cabeza se me iba cayendo sobre la ventana colorada que daba al dormitorio de ella. Pero después, y en pocos instantes, decidí mi vida. Me iría. Había empezado a ser noble y no quería vivir en un aire que cada día se iría ensuciando más. Si me quedaba llegaría a ser un caballo indeseable. Ella misma tendría para mí, después, momentos de vacilación.
 No sé bien cómo es que me fui. Pero por lo que más lamentaba no ser hombre era por no tener un bolsillo donde llevarme aquel retrato.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

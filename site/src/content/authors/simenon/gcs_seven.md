@@ -534,6 +534,3 @@ Me miró con vaguedad.
 —La policía oficial no es la única… No veo por qué yo no podría hacer competencia a M. Leduc.
 Enrojecí hasta las orejas y balbuceé no sé que pretexto para retirarme… Descendí la escalera, dejando a Sonia y a G.7 libres por fin de la presencia del más obstinado de los intrusos.
 De un intruso que se obstinó hasta el punto de hundir sus manos en una pequeña estufa de abajo, para retirar un revólver, un cordel y una piedra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

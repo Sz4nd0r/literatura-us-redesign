@@ -356,6 +356,3 @@ Una cabeza surgió tortuosamente bajo la capota del automóvil.
 Clark hizo una última contorsión imposible para poder verle la cara.
 —El agua está caliente como si hirviera en una olla. ¿Te vienes a nadar?
 —Odio moverme —suspiró Sally Carrol con pereza—, pero creo que iré.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

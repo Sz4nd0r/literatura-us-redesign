@@ -175,6 +175,3 @@ No terminó, salió precipitadamente, y se le oyó subir la escalera hacia el pr
 —Pero, mi marido, ¿ha ganado, sí o no?
 —Ha ganado, señora… ¿Me permite? No creo coger este barco…
 Y, arrastrando la pierna izquierda, después de haber bebido el último whisky en el mostrador, Labro se coló por la escalera para ir a ver lo que pasaba arriba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -110,6 +110,3 @@ Era pasada la medianoche cuando dejamos a Walter a la puerta de su casa, a dos m
 —¡Pero yo lo vi! —grité—. ¡Lo vi!
 —Calma —dijo mi padre. Dejó que su mano descansara un instante sobre mi rodilla—. Calma. Sé que lo viste.
 También yo lo vi. Sam me llevó una vez allí después de matar mi primer ciervo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

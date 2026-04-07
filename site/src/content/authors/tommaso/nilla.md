@@ -33,6 +33,3 @@ Y así, el hombre se sorprendió a sí mismo, rodillas y codos en tierra, escrut
 Él también lo era. Pero si la cochinilla seguía afanándose, demostrando con ello que conservaba alguna esperanza, hacía tiempo que él sabía que era imposible toda esperanza e inútil empeñarse. Se sacudió el polvo de los pantalones y se rió de sí mismo (como aquel santo del Paraíso que, en vida, se había engañado acerca de las jerarquías angélicas).
 Cuando ociosamente buscó con la mirada a su minúscula compañera de una noche, constató que había desaparecido y esta vez sin retorno: ¿había acabado por encontrar su propio agujero… o, tal vez, la desconocida pena de aquella criaturita terrestre era peor que la suya? Tal vez. ¿Y qué? El sufrimiento separa, no une. En el mundo no hay hermanos.
 Y de nuevo, ¿cómo cruzar el desierto de la tarde, de la noche y luego el de todas las otras tardes y noches, aunque estén tachonadas de estrellas, y el de las mañanas, aunque el sol las haga fulgurantes?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -148,6 +148,3 @@ Flambeau arrancó de manos del sacerdote la tarjeta del príncipe Saradine y la 
 El último trozo de la tarjeta desapareció al fin en la sombra. Un primer tinte matinal, pálido y vibrante, transformó el cielo. La luna, tras los arbustos de la orilla, empezó a desvanecerse. La barca derivaba en silencio.
 —Padre —dijo Flambeau de pronto—. ¿No cree usted que todo fue un sueño?
 El sacerdote sacudió la cabeza, no se sabe si para negar o dudar, pero no dijo nada. Entre las sombras, un olor a espino y a pomar llegó hasta ellos, haciéndoles comprender que el viento se había despertado. Poco después, el viento balanceó la barca, hinchó la vela, y los fue llevando sobre el río hacia sitios más venturosos donde moraban unos hombres inofensivos…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

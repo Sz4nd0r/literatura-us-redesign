@@ -257,6 +257,3 @@ Se imaginó contándoselo a Peg, cuánto había tenido que acercarse para ver qu
 A mediodía, cuando el policía dio su versión de los hechos en el restaurante, contó que la fuerza del disparo había lanzado hacia atrás a Walter Weeble.
 —Algunos trozos del cuerpo salieron despedidos. La cabeza estaba en el vestíbulo, vamos, lo que quedaba de ella.
 No era una pierna. No la pierna de muestra, entera y decente dentro de los pantalones, con el pie calzado. Eso no era lo que cualquiera que hubiera llegado al final de las escaleras habría visto, ni lo que habría pisado para entrar en el dormitorio y mirar lo que había allí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

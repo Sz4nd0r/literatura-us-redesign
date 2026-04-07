@@ -174,6 +174,3 @@ Dan extrajo las tres postales que aún llevaba en la cartera y las miró. Una mo
 —Oh, me acuerdo de estas postales —dijo el señor Muirhead, cogiendo la última de ellas—. Se trata de marcar lo que quieres. —Leyó en voz alta—: «¿Cómo estás? Estoy bien □ solo □ feliz □ triste □ sin blanca □ estupendamente □». —El señor Muirhead se rió entre dientes. Leyó—: «He sido bueno □ malo □. He visto el golfo de México □ el océano Atlántico □ campos de naranjos □ atracciones interesantes □ a ti en mis sueños □». Me gusta ésta —dijo el señor Muirhead sin dejar de reír.
 —Puede quedársela —dijo Dan—. Me gustaría que se la quedara.
 —Eres una niña encantadora —dijo el señor Muirhead. Se quedó contemplando el vaso y luego miró por la ventana—. ¿Qué crees que ponía en la nota que me diste de parte de la señora Muirhead? —preguntó—. ¿Crees que me perdí algo?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

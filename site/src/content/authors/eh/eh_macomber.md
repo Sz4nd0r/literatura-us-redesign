@@ -439,6 +439,3 @@ Wilson la miró con sus ojos azules e inexpresivos.
 —Ya he terminado —dijo él—. Me había enfadado un poco. Tu marido había empezado a caerme bien.
 —Oh, por favor, cállate —dijo ella—. Por favor, cállate.
 —Eso está mejor —dijo Wilson—. Pedirlo por favor es mucho mejor. Ahora me callo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

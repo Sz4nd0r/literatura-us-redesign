@@ -241,6 +241,3 @@ Excelentísimo señor
 Piotr Zudoteshin.
 Excelentísimo señor.
 Pero, como la escritura de esas líneas no se parece en nada a la del resto del cuaderno, el editor se considera autorizado a concluir que las susodichas líneas fueron añadidas más tarde por una mano ajena, tanto más cuanto que ha llegado a su conocimiento que el señor Chulkaturin murió realmente la noche del 1 al 2 de abril de 18…, en su hacienda familiar de Ovéchaia Vodá.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

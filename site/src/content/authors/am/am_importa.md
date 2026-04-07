@@ -54,6 +54,3 @@ Y ella, cándidamente:
 —¿Y quién soy, entonces?
 —Eres el señor con quien me cruzo todas las mañanas al ir a la escuela.
 Me quedo sin respiro: ¿cómo hizo para reconocerme bajo la careta? Le arrojo un puñado de papel picado, llego al portal bajo, paso el puente, me interno en la oscuridad del depósito de materiales. He aquí una barrica de cal, a medias llena de agua. Arrojo allí la careta, la miro un instante. La máscara sobrenada en el agua; la luz de un farol enrojece la boca, enciende un reflejo negro en el barniz negro de las mejillas. Tiro también en el agua el cuchillo y me voy.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

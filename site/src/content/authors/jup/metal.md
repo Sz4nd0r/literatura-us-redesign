@@ -71,6 +71,3 @@ Trató de disculparse ante la mujer a su lado en la oscuridad. Ésta dijo:
 —Seguramente estás en shock. Debes de tener frío. Voy a encender otra vez la calefacción.
 Richard estaba recuperando la sobriedad y empezaba a apoderarse de él un tedio infinito. Nunca más, en la vida, su coche sería nuevo, masticaría su propio esmalte dental, daría Eleanor patadas al aire con sus largas y bonitas piernas. Giró la llave de contacto y arrancó el motor en busca de calor. La radio volvió a sonar suavemente, todavía Haendel.
 Moviéndose desde las caderas con fuerza sorprendente, Eleanor se giró y lo abrazó. Sus mejillas estaban húmedas; el carmín tenía sabor industrial. Buscando su cintura, la pequeñez de sus pechos, Richard palpó entre capas de tela. Seguían uno en brazos del otro cuando la luz azul giratoria del coche patrulla los sorprendió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

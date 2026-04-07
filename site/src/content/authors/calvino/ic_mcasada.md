@@ -99,6 +99,3 @@ Salió del bar para ver si habían abierto el portal. El obrero también salió,
 Stefania comprendió que había sucedido algo y que ya no podía volver atrás.
 Esta manera nueva de estar entre los hombres, el noctámbulo, el cazador, el obrero, la cambiaba. Había sido éste su adulterio, estar sola entre ellos, así, de igual a igual. De Fornero ni siquiera se acordaba ya.
 El portal estaba abierto. Stefania R. entró en su casa muy de prisa. La portera no la vio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

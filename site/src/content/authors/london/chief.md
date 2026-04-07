@@ -57,6 +57,3 @@ Jefe Solitario asintió con la cabeza.
 —Hasta que llegó el barco de vapor —interrumpió Mutsak.
 —Sí —dijo Jefe Solitario—, hasta que llegó el barco de vapor.
 [1902]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

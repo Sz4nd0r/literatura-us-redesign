@@ -252,6 +252,3 @@ Se acostó sobre la tierra, se
 acurrucó y cerró los ojos. Empezó a respirar sosegadamente.
 Rosita se acercaba a su cama con una
 taza humeante: “El café, negro, el café.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

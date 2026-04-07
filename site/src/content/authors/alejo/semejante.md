@@ -406,6 +406,3 @@ las crines enhiestas de la cimera que tanto trabajo me hubiera costado
 redondear--a semejanza de las cimeras magníficas de quienes podían
 encargar sus equipos de guerra a los artesanos de gran estilo, y que,
 por cierto, viajaban en la nave más velera y de mayor eslora.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

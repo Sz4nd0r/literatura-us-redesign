@@ -145,6 +145,3 @@ de éste.
 [2] En la versión original del relato, y en la versión recogida en These 13, se lee «a la
 entrada del juzgado». Aparentemente, clubhouse por courthouse es un error de
 transcripción.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

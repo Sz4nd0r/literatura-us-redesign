@@ -193,6 +193,3 @@ Esa misma noche, los Malloy volvieron a la marmórea sala de espera de la estaci
 —Vámonos a Los Ángeles —le dijo Alice a Evarts—. Todavía nos queda algún dinero. Podemos comprar los billetes en Chicago y tú puedes vender la obra en Hollywood, donde nadie ha oído hablar de mamá Finelli ni de toda esa gente.
 Evarts dijo que tomaría una decisión en Chicago. Estaba agotado y se quedó dormido. Mildred-Rose se metió el dedo gordo en la boca, y pronto ella y su madre sucumbieron también al sueño. La niña acarició las pieles resecas de su abrigo y notó que le decían que todo iba bien, muy bien...
 Quizá los Malloy se apearon del tren en Chicago y regresaron a Wentworth. No es difícil imaginar su retorno al hogar, pues los recibirían sus amigos y parientes, aun cuando seguramente no creyeran sus historias. O quizá, una vez en Chicago, cambiaron de tren y tomaron otro hacia el oeste, y, a decir verdad, es más fácil imaginar esto último. Uno puede verlos jugando a las cartas en el coche comedor y comiendo bocadillos de queso en las estaciones de ferrocarril mientras cruzan Kansas y Nebraska, sobre las montañas y rumbo a la costa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

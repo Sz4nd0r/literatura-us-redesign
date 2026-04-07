@@ -147,6 +147,3 @@ El señor Mafente asintió a los otros dos y salió corriendo tras su antiguo l�
 —¿Vamos? —preguntó el señor Chikwe.
 Sin mirar de nuevo al señor Devuli, el señor Kwenzi entró en el ministerio guardando la distancia, seguido del señor Devuli, cuya mano izquierda se apoyaba en el brazo del señor Mafente. El señor Chikwe fue el último en entrar, sonriendo, dando saltitos, mirando al señor Devuli.
 —Son las diez y media —observó cuando un empleado se acercó para impedirles el paso—. Las diez y media pasadas. Puedo oír el mismísimo Big Ben. La puntualidad, como todos sabemos, caballeros, es la piedra de toque de esa eficiencia sin la cual resulta imposible gobernar un país moderno. ¿No le parece, señor Kwenzi? ¿No le parece, señor Mafente? ¿No le parece, señor Devuli?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

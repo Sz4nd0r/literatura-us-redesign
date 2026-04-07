@@ -160,6 +160,3 @@ No, dijo. Oh, Dios santo, no. ¡No!
 Recuerdo los ojos de Ann y el sombrero que llevaba el día que nuestras miradas se cruzaron por vez primera. Nuestros bebés acababan de salir chillando del cajón de arena sobre sus piernas todavía inexpertas. Los cogimos en brazos. Y sobre sus arenosas cabezas, sonreímos. Creo que entonces se selló un pacto, al menos tan útil como el voto que todas juramos a unos maridos con los que ya no estamos casadas. La mirada retrospectiva, que, por lo general, menospreciamos, acaso sea tan valiosa como la previsión, en cuanto que sólo contempla cierto número de hechos.
 Entre tanto, el mundo de Anthony —una cosa pobre, densa, indefensa— sigue dando vueltas y más vueltas. La vida y la muerte están aferradas a su superficie e incrustadas en sus partes más blandas.
 Era justo que él llamara mi atención sobre sus penas y peligros. Era justo que desafiara mi sentido de la responsabilidad. Pero también era justo que yo inventara para mis amigas y nuestros hijos una crónica acerca de estas muertes singulares y del estado de nuestras perennes ataduras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -230,6 +230,3 @@ La puerta se abrió, y Lucy y Pauline introdujeron en la habitación una mesa pe
 —¡Vaya…, vaya! —murmuró.
 Con unas pinzas, Pauline sacó los instrumentos del agua hirviendo y los dispuso en hileras plateadas sobre el blanco mantel almidonado que cubría la mesa. La correa de cuero cedió parcialmente. Lucy se sentó en el borde de la cama y sacó la hipodérmica grande de la cazoleta.
 —Esto te dormirá un poco —le aseguró. La sostuvo verticalmente y expulsó un pequeño chorro de líquido. Mientras alargaba la mano para coger el algodón, el brazo de O'Byrne quedó libre. Lucy sonrió. Dejó la hipodérmica a un lado. Volvió a inclinarse hacia delante…, cálida, fragante…, lo contempló con unos ojos salvajes, enrojecidos…, sus dedos juguetearon con el extremo de su pene, y luego lo asieron firmemente. Relájate, Michael, cariño. —Le hizo un gesto enérgico con la cabeza a Pauline. Si es tan amable de asegurar esa correa, enfermera Sheperd, creo que podremos comenzar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -106,6 +106,3 @@ Mientras avanzaba en su relato, Jud había estado mezclando, lenta pero diestram
 —Son deliciosos —contesté—. Pero, ¿cómo?, ¿tú no comes alguno, Jud?
 Estoy seguro de que escuché un suspiro.
 —¿Yo? —dijo Jud—. ¡Jamás en mi vida los he de probar!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

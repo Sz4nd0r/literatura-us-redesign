@@ -357,6 +357,3 @@ El gobernador no pudo menos de pensar que era demasiado decir que Dios había ne
 —¿En Java?
 —No. Si usted nos presta la chalupa, iremos a esa isla donde tuvimos que pasar la noche. Tiene muy buenos recuerdos para los dos. Allí fue donde descubrí lo bueno que era Edward, y quiero que también allí reciba su recompensa.
 El gobernador se quedó sin aliento y se marchó rápidamente, porque estaba seguro de que si no se bebía en el acto una botella de cerveza le daría un ataque. En su vida había visto nada semejante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

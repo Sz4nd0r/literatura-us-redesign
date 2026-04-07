@@ -53,6 +53,3 @@ Así pues, las leyes eternas se habían hecho pedazos, un daño horrendo se hab�
 En el patio, hay un ruido de ventanas y postigos que se abren, llamadas, gritos de terror; en las ventanas grupos de figuras humanas, espectrales bajo esa luz. Lo Ritto siente que la mano de su mujer le aprieta la mano derecha con tanta fuerza que le hace daño.
 —Adolfo —susurra ella en un soplo—. ¡Adolfo, oh, perdóname, Adolfo, ten piedad de mí, perdóname!
 Mientras solloza se aprieta contra él, sacudida por un violento temblor. Con los ojos fijos en la monstruosa luna, él abraza a su mujer, mientras que, por toda la ciudad aterrorizada, se alza un estruendo que parece salir de las entrañas de la tierra —son los humanos, en un inmenso coro de millones y millones de gritos y lamentos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -224,6 +224,3 @@ Era de noche cuando llegó a la estación. Tal como había esperado, Montéclin 
 Su marido le ayudó a salir del coche y no dijo ni palabra hasta que estuvieron juntos al abrigo de la galería. Incluso entonces, no hablaron al principio. Pero Athénaïse se volvió hacia él con gesto suplicante. Cuando la abrazó, sintió la entrega de todo su cuerpo contra él y que, por primera vez, sus labios respondían a la pasión que él sentía.
 La noche en el campo era oscura, cálida y silenciosa, salvo por las distantes notas de un acordeón que alguien tocaba en una cabaña lejana. Un bebé negrito lloraba en alguna parte. Cuando Athénaïse se separó del abrazo de su marido, el sonido la detuvo.
 —¡Escucha Cazeau! ¡Cómo llora el bebé de Juliette! Pauvre ti chou [Pobre cariñito], me pregunto qué le pasará.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

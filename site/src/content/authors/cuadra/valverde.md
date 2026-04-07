@@ -200,6 +200,3 @@ Literaria acoge a los intelectuales más destacados del país.
 Fragmento de la monografía de estudiantes de periodismo de la UCA :
 "Historia y diagnóstico actual de la infraestructura de los medios
 masivos de comunicación en Nicaragua (1930-1992)".
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

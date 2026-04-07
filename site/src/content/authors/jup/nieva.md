@@ -134,6 +134,3 @@ Cuando Richard empezó a bajar las escaleras, Rebecca apoyó las dos manos en la
 —Buenas noches.
 Él miró hacia arriba; ella había entrado en el apartamento.
 Pero qué cerca habían estado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

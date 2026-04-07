@@ -102,6 +102,3 @@ Avanzaban por los arrabales de la ciudad, pasando ante la larga fila de moteles 
 “Ya”.
 Todas las luces de la casa estaban encendidas y unas siluetas empañadas permanecían frente a la ventana mirando la lluvia. Farrell permaneció detrás del coche del sheriff apoyado sobre la aleta lisa y húmeda. La lluvia le caía sobre la cabeza y le bajaba por el cuello. Frank se alejó unos metros y luego se detuvo, mirando hacia atrás. Farrell estaba apoyado en la aleta, columpiándose levemente, la lluvia cercándole.
 El agua salió a chorros del badén sobre sus pies, formando un remolino en la rejilla del desagüe de la esquina y precipitándose al centro de la tierra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -102,6 +102,3 @@ atronadora:
 —Nadie
 podía pretenderlo porque esta entrada era
 solamente para tí. Ahora voy a cerrarla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

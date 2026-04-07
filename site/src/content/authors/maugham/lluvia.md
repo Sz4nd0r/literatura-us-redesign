@@ -631,6 +631,3 @@ Se acercó a ella y arrancó el disco violentamente. La mujer se volvió hacia �
 La mujer se irguió. Nadie podría describir el desprecio de su expresión ni el odio burlón con que contestó:
 —¡Ustedes los hombres! ¡Puercos sucios, asquerosos! Todos son iguales, todos.
 ¡Puercos! ¡Puercos! El doctor Macphail lanzó una exclamación. Había comprendido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

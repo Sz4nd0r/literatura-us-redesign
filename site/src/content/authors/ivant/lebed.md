@@ -149,6 +149,3 @@ Llevaron el caballo al lugar en el que me alojaba. Al día siguiente resultó qu
 —No, señor, no se enoje, pero una vez que salen de la cuadra el asunto está concluido. Debería haber visto todo eso antes de llevárselo.
 Comprendí de qué se trataba, acepté mi mala suerte, rompí a carcajadas y me marché. Por suerte no había pagado un precio muy alto por aquella lección.
 Un par de días más tarde me marché y una semana después volví a recalar en Lebedián en mi viaje de regreso. En la cafetería encontré a casi la misma gente, y de nuevo me crucé con el Príncipe en la sala del billar. Pero el cambio habitual se había producido en la fortuna del señor Jlopákov. El pequeño oficial rubio había ocupado su lugar en los afectos del Príncipe. El pobre teniente retirado trató una vez más en mi presencia de efectuar su truco, pero el príncipe no solo no sonrió, sino que frunció el ceño y se estremeció. El señor Jlopákov estaba apesadumbrado, se hundió en una esquina y comenzó a rellenar su pipa en silencio…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

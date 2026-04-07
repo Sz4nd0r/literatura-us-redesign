@@ -66,6 +66,3 @@ Bueno, en realidad, había algo…
 —¿No recuerdas que vinimos aquí cada noche de esa maravillosa semana antes de que te arrebatara tu tan preciada virginidad, querida?
 —¡Deben de haber cambiado la decoración! Además, eso debió de ser en 1935… No he estado aquí desde entonces, creo. Y tienes que saber que fue antes de que me convirtiera al catolicismo…
 Lo que me recuerda a la actriz que, mientras hacía el papel de monja en una obra tremendamente religiosa, solía llevarse el hábito a casa; con la complicidad de la ayudante de camerino, que comprendía sus sentimientos. La obra, según ella explicó, carecía de un contenido verdaderamente cristiano. Vestía el hábito mientras planchaba, fregaba, lavaba la ropa interior… tareas a las que denominaba “mi pequeño cilicio”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

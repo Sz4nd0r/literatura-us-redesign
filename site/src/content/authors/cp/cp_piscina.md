@@ -42,6 +42,3 @@ Una de nuestras compañeras sonríe y, como está medio desnuda, se ve que piens
 —También eso es cierto —dice otro.
 —Sí, sí.
 Pero estamos todos inquietos, unos sentados y otros tumbados, alguno retorcido, y en nuestro interior hay un vacío, una espera, que hace estremecerse a nuestra piel desnuda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -306,6 +306,3 @@ no había sido consciente de ese hecho; entonces, sintió el mismo
 nebuloso y oscuro pelotón indefinido que se le formó cuando miraba a la
 envenenada. Después se levantó, y empezó a pasearse por toda su
 pequeña casa a grandes pasos y a profundos pensamientos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

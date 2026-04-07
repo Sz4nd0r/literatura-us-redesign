@@ -92,6 +92,3 @@ Mame alzó delicadamente entre sus manos la cara d Maggie. Surcábanle las lágr
 —Cuéntame, Maggie —rogó Mame—, si no quieres entre a preguntarle. ¿Te ha pegado?
 La señora Fink volvió a apoyar la cabeza, con desesperació en el pecho de Mame.
 —¡Por amor de Dios no abras esa puerta, Mame! Y no se lo cuentes a nadie... No, no me ha pegado. Pero está lavando. ¡Lavando la ropa!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

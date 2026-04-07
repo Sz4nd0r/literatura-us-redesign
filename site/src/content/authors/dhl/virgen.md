@@ -989,6 +989,3 @@ Querida señorita:
 Sé por los diarios que se halla usted bien después de su chapuzón. He de decirle lo mismo de mí. Espero volverla a ver un día, tal vez en la feria de ganado de Tideswell, aunque acaso volvamos por allá. Aquel día fui a despedirme de usted. Sin embargo, nunca llegué a hacerlo, pues el agua no me dejó tiempo. Espero hacerlo algún día. Su humilde servidor,
 JOE BOSWELL
 Y solo entonces Yvette cayó en la cuenta de que el gitano tenía un nombre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

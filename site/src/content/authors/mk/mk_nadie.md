@@ -334,6 +334,3 @@ No sé en qué medida la señora Zaturecka atendía a mis explicaciones, en qué
 Después se puso de pie, me dio (probablemente por última vez) la mano, dio media vuelta y se marchó.
 Pasó un rato antes de que cayera en la cuenta de que (a pesar del gélido silencio que me rodeaba) mi historia no pertenecía a la categoría de las historias trágicas, sino más bien a la de las cómicas.
 Eso me proporcionó cierto consuelo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

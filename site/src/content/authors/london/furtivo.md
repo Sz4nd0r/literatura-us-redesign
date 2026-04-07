@@ -352,6 +352,3 @@ misterio muy comentado. Como el Gobierno ruso nunca dijo nada del incidente,
 los Estados Unidos siguen sin saber qué fue del furtivo perdido, y tampoco se
 han enterado, oficialmente, de que algunos de sus ciudadanos habían secuestrado
 a cinco súbditos del zar. A veces, hasta las naciones tienen secretos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

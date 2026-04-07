@@ -226,6 +226,3 @@ Aquella noche comimos como los recién casados, yo junto a Candido, y una mujer 
 —Tienes que conservar la cabeza. Eres alguien que estudia —me dijo también esta vez.
 Pero yo quería estar alegre esa noche, y bebía con los demás. Seguimos bebiendo en el patio, cuando salimos al fresco. Bebimos y comimos uvas. Yo miraba a la colina oscura, donde ya no había ni una fogata, y me parecía haber nacido en aquel patio, haber estado con Candido siempre allá arriba.
 Él se dio cuenta de que tenía sueño, y me dijo que me fuera a dormir. Casi nos peleamos, pero todos decían que la cama estaba preparada y que total en el baile me aburriría. Respondí que no era por el baile, pero quería esperar a la madrugada. Candido me dio la razón y un momento después me llevaron a la cama porque me caía de sueño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

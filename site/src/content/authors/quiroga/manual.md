@@ -202,6 +202,3 @@ el del color local, el truco de las ciencias técnicas, el del estilista
 sobrio, el del folklore, y algunos más que no escapan a la malicia de los
 colegas, facilitarán todos ellos en gran medida la confección casera,
 rápida y sin fallas, de nuestros mejores cuentos nacionales...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

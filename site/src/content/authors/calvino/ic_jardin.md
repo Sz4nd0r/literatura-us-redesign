@@ -223,6 +223,3 @@ un juego espléndido: la batalla de algas.
 Estuvieron arrojándoselas a la cara a puñados,
 hasta caer la noche. Lo bueno era que Serenella
 nunca lloraba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

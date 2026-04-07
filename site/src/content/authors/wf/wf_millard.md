@@ -318,6 +318,3 @@ por arrastrado».
 mando del muy amplio Departamento del Oeste y de la defensa de Vicksburg. Tras la
 caída de Vicksburg perdió la ciudad de Jackson, Estado de Mississippi, frente al
 general William Tecumseh Sherman, de la Unión.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

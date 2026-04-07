@@ -65,6 +65,3 @@ verse y cada cual sentía la respiración del otro.
 Geri se dio la vuelta en la cama, ahogando el rostro en la almohada y alargando el oído en el vacío. Durante un instante la casa estuvo inmóvil y vaga, y un chillido lejano de la calle
 rasgó el enorme silencio. La tibieza del lecho mitigaba incluso el latido de las venas.
 A Geri, que sentía en la nuca y las sienes el hielo de la estancia, le parecía tener el cuerpo tendido al sol y que aquel zumbido leve del silencio era el clamor de las piscinas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -90,6 +90,3 @@ Tras la dura declaración que salió de los labios del doctor, se hizo el silenc
 En ese preciso instante, el doctor Cochran cayó de espaldas por las estrechas escaleras que daban a la calle. De su boca no salió grito alguno, solo se escuchó el estrépito de sus zapatos cayendo por las escaleras y el terrible sonido de su cuerpo desplomándose.
 Mary seguía inmóvil en su silla. Esperaba con los ojos cerrados. Su corazón latía a toda velocidad. Un cansancio sobrecogedor se apoderó de ella y de pronto sintió un escalofrío de los pies a la cabeza, como si pequeñas criaturas peludas jugaran por todo su cuerpo.
 Fue Duke Yetter quien subió el cuerpo sin vida del doctor por las escaleras y quien lo dejó sobre la cama de una de las salas de la consulta. Tras él, uno de los hombres que llevaba toda la tarde sentado delante de la puerta de la caballeriza agitaba las manos con gran nerviosismo. La luz del cigarrillo que sujetaba entre sus dedos no paraba de dar vueltas, bailando en la oscuridad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

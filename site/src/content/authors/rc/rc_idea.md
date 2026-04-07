@@ -76,6 +76,3 @@ Seguí echando spray.
 Al final subí la persiana de la cocina y miré por la ventana. Era muy tarde. Soplaba el viento, y oí ruido de ramas que se partían.
 —Esa tipeja —dije—. ¡Habráse visto…!
 Dije incluso cosas peores, cosas que no puedo repetir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

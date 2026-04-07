@@ -880,6 +880,3 @@ miraba fijamente hacia el monte, sin dejar de gimotear. Entonces, decíamos:
 Enfermó. Apenas podía respirar. Lo llevamos
 en brazos colina abajo hasta el monte y mi madre lo acarició y le dio palmadas
 mientras mi padre le apoyaba el cañón del arma en la nuca y disparaba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

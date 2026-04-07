@@ -81,6 +81,3 @@ Tan dramáticamente como si quisiera convencer de que lo ha comprendido todo ant
 Cuando Díaz Grey, en el consultorio frente a la plaza de la ciudad provinciana, se entrega al juego de conocerse a sí mismo mediante este recuerdo, el único, está obligado a confundir la sensación de su pasado en blanco con la de sus hombros débiles; la de la cabeza de pelo rubio y escaso, doblada contra el vidrio de la ventana, con la sensación de la soledad admitida de pronto, cuando ya era insuperable. También le es forzoso suponer que su vida meticulosa, su propio cuerpo privado de la lujuria, sus blandas creencias, son símbolos de la cursilería esencial del recuerdo que se empeña en mantener desde hace años.
 En el final preferido para su recuerdo, Díaz Grey se deja caer a un costado de la casa, sobre la arena mojada. El frenesí del Colorado, que amontona ramas, papeles, tablas, pedazos de muebles contra la pared de madera del chalet, lo hace reír a carcajadas, toser y revolcarse; cuando respira el olor del kerosene inmoviliza al otro con un silbido imperioso y se le acerca, resbalando sobre la humedad y las hojas, saca del bolsillo la caja de fósforos y la sacude junto a un oído mientras avanza y resbala.
 1949
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

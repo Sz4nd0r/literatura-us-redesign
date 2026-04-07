@@ -892,6 +892,3 @@ Rose siguió a la mujer, algo mayor que ella, como si arrastrara los pies.
 Pero él permaneció inmóvil, con aquella pequeña y amarga sonrisa en los labios.
 —Vamos, Rose —intervino la señora Pearson—. Vamos, si es que piensa venir. Perderemos el último metro.
 Y Rose la siguió. Pensaba: Tendré a Jill, algo es algo. Y cuando crezca, quizá no haya guerras ni bombas ni nada, y entonces la gente ya no hará tonterías.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

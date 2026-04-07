@@ -116,6 +116,3 @@ Pero no conseguía salir de la misma frase. Bueno —pensé impaciente mirando e
 A una distancia infinita yo veía el piso. Ofelia, inútilmente intenté alcanzar a la distancia el corazón de la chica callada. ¡Oh, no te asustes mucho!; a veces uno mata por amor, pero juro que un día uno se olvida, ¡lo juro! Uno no ama bien, oye, repetí como si pudiera alcanzarla antes de que, desistiendo de servir a lo verdadero, ella altivamente fuera a servir a la nada. Yo que no me había acordado de avisarle que sin el miedo existía el mundo. Pero juro que eso es la respiración. Estaba muy cansada, me senté en el banco de la cocina.
 Donde estoy ahora, batiendo despacito el pastel para mañana. Sentada, como si durante todos estos años hubiera esperado pacientemente en la cocina. Debajo de la mesa, tiembla el pollito de hoy. El color amarillo es el mismo, el pico es el mismo. Como se nos promete en la Pascua, en diciembre vuelve. Ofelia es la que no volvió: creció. Fue a ser la princesa hindú por la que su tribu esperaba en el desierto.
 A legião estrangeira (1964)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

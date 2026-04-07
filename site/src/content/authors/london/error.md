@@ -259,6 +259,3 @@ Y Amos Wentworth se marchó solo, tirando de un trineo cargado con provisiones p
 Amos Wentworth le entregó el saco del oro.
 —Espero que te muerda una mofeta y acabes aullando, enfermo de rabia. —Así se despidió Shorty.
 (1912)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

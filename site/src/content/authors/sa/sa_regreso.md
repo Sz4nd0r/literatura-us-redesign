@@ -132,6 +132,3 @@ John se quedó de pie bajo la luz de la luna en la acera frente al hotel y oyó 
 ¡Qué paz en el coche, qué paz en la noche! John no era de los que disfrutaban conduciendo deprisa, pero salió del pueblo a toda velocidad. “Sigues dos calles, giras a la derecha y tres más. Entonces llegas al cementerio. Sigue recto hacia el este. No tiene pérdida.”
 John tomaba las curvas a toda velocidad. En el límite del pueblo alguien le gritó desde la oscuridad, pero no se detuvo. Ansiaba llegar a la carretera que iba hacia el Este.
 “Voy a sacarla de aquí —pensó—. ¡Señor! ¡Eso sí que va a ser divertido! Voy a sacarla de aquí.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

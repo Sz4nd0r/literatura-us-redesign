@@ -353,6 +353,3 @@ Luego pulsó el botón que levantaba la divisoria.
 —Espera a que salgamos de la ciudad. Podrían pensar que estoy borracha.
 —Me gustaría ver qué cara se le queda a Walt, con sus cincuenta políticos.
 —Bórralos de tu cabeza, cariño. Es lo mejor —dijo ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

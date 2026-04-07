@@ -1033,6 +1033,3 @@ perspectivas temporales variadas, sino principalmente de una escritura de
 enorme tensión y hechizo. En este sentido, su obra maestra (y tantas de
 las obras que la preceden o acompañan) es también uno de los más
 deslumbrantes modelos de la nueva novela latinoamericana.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -330,6 +330,3 @@ esa puerta y encontrará en cada piedra, en cada hoja de árbol, en cada
 grito de pájaro marino, la poesía siempre viva de ese hombre que tanto
 lo amó.
 (Ginebra, 1973).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

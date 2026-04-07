@@ -132,6 +132,3 @@ Era este mismo Lejeune, o, como se lo conocía, Frants Ivánich, quien entró en
 Pero es posible que el lector se haya cansado de estar sentado aquí conmigo y el granjero Ovsiánikov, así que guardaré un elocuente silencio.
 Nota del Autor:
 [1]. Los bitiuk, o los de la raza del bitiuk, es como se conoce a una raza Particular de caballos originarios del distrito de Vorónezh, en los alrededores del famoso “Jrenov” (la antigua caballeriza de la condesa Orlova).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

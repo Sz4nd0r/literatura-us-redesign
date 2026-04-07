@@ -65,6 +65,3 @@ Se oyó desde el porche el ruido de un carro, y al cabo de un rato entró en la 
 Antes de dejar el campo visité a la anciana madre de Radílov. La encontré en la salita jugando al durachki [juego de cartas] con Fiódor Mijéich.
 —¿Tiene alguna noticia de su hijo? —le pregunté al cabo.
 La anciana rompió a llorar. Ya nunca más volví a preguntarle sobre Radílov.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

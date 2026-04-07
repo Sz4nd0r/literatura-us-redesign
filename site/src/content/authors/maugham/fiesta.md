@@ -286,6 +286,3 @@ Salieron de la habitación, siguiéndolos Kathleen inmediatamente y Millicent do
 Nadie contestó. Cruzaron el hall y salieron por la puerta principal. Subieron al coche. Las señoras en el asiento de detrás y Mr. Skinner junto al chófer. El coche no tenía arranque eléctrico y Davis tuvo que dar a la manivela. Mr. Skinner se volvió, mirando a Millicent con petulancia.
 —Nunca me lo debías haber dicho… Has sido muy egoísta.
 Davis ocupó su sitio y el auto se puso en marcha hacia el garden-party de los Canon.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

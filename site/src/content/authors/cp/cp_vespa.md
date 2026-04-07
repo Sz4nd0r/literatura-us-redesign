@@ -56,6 +56,3 @@ Pero Vespa no debió de oírlo. Había dicho ya con voz distinta:
 —¿Nina?
 —La chica de la barra.
 —Esa es una estúpida —dijo Vespa—. Nina es otra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -462,6 +462,3 @@ en llamas, México, Fondo de Cultura Económica, 1961.
 Páramo, París,. Gallimard, 1959, p. 8.
 [3] Véase Hellén Ferro, «La nueva novela mexicana; visión de Juan
 Rulfo», en Américas, noviembre 1964.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

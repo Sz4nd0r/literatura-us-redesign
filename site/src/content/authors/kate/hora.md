@@ -44,6 +44,3 @@ Se puso en pie y abrió la puerta ante la insistencia de su hermana. Había un t
 Alguien estaba abriendo la puerta principal con una llave. El que entró era Brently Millard, algo desaguisado tras el viaje, cargando con su maletín y su paraguas como si tal cosa. Había estado lejos del lugar del accidente, de hecho ni siquiera sabía que este había acontecido. Permaneció de pie, sorprendido ante el desgarrador grito de Josephine y el movimiento rápido de Richards para ocultarle y que su esposa no le viera.
 Pero Richards no había sido lo suficientemente rápido.
 Cuando llegaron los médicos dijeron que había muerto de una enfermedad del corazón: la alegría que mata.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

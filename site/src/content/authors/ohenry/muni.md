@@ -147,6 +147,3 @@ Esa noche, en el hotel, el tema principal de conversación —exceptuando tal ve
 —En mi opinión, caballeros, a Caswell lo ha asesinado uno de esos gamberros negros, que quería robarle. Esta tarde Caswell llevaba con él cincuenta dólares que mostró a varias personas del hotel. Cuando lo encontraron, el dinero había desaparecido.
 Al día siguiente, a las nueve, abandoné la ciudad y, mientras el tren cruzaba el puente sobre el río Cumberland, saqué del bolsillo un botón de asta amarilla del tamaño de una moneda de cincuenta céntimos, del cual colgaban hilachas de tosca cuerda de cáñamo, y lo arrojé por la ventana a las lentas aguas fangosas que corrían abajo.
 ¡Me pregunto qué pasará en Buffalo!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -169,6 +169,3 @@ El anciano, muy digno y severo, echó a andar hacia la puerta; François Villon 
 —Adiós, señor —dijo Villon mientras bostezaba—. Muchas gracias por la carne, aunque estuviera fría…
 Oyó cómo se cerraba la puerta a sus espaldas.
 La mañana comenzaba a levantarse sobre los tejados blancos de nieve de París. Era fría, cruda, desapacible. Maese Villon se detuvo tras unos pasos para desperezarse a gusto… «No era más que un viejo aburrido… Tengo que saber cuánto me darán por sus copones de oro», se dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

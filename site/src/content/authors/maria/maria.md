@@ -229,6 +229,3 @@ Temblar por el pasado, por el presente, por el futuro; por la sospecha, el rumor
 ¡Rodolfo! Helo aquí a mi lado y a tu lado, ayudándote a salvaguardar los cirios y las flores estrechándote la mano como tú lo deseas.
 Un llevar a cabo una infinidad de actos ajenos a su deseo, empeñando en ellos un falso entusiasmo, mientras una sed que él sabe insaciable lo devore por dentro… ésa será su vida.
 Ah, mi pobre Anita, tal vez sea ésta la vida de nosotros todos. ¡Ese eludir o perder nuestra verdadera vida encubriéndola tras una infinidad de pequeñeces con aspecto de cosas vitales!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

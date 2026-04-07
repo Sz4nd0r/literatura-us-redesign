@@ -204,6 +204,3 @@ Era más de medianoche cuando Winter y yo remamos hacia la orilla, tras haber to
 —Por eso lo contrató Butler: La chica se fugó con el cocinero chino el año pasado. Ésta es nueva. Tan sólo la ha tenido ahí con él desde hace dos meses.
 —Bueno, pues estoy frito.
 —Piensa que con este cocinero está a salvo. Pero yo no estaría tan seguro si fuera él. Los chinos tienen algo, cuando se proponen complacer a una mujer, no pueden resistirlos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

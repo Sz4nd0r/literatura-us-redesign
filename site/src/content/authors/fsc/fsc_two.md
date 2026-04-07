@@ -302,6 +302,3 @@ En el tren, Bill siguió llamando por teléfono hasta el último momento, procur
 Entonces se dio cuenta de que la había perdido. Vio las cosas como eran, sin hacerse ilusiones: aquel Paul Makova, y los meses que pasarían cerca, y los meses de soledad. Nada volvería a ser lo mismo. Después de darle muchas vueltas al asunto mientras leía a ratos Variety y Zit’s, empezó a parecerle, poco a poco, que, de alguna manera, Emmy había muerto.
 “Era una chica extraordinaria, una de las mejores. Tenía carácter”. Se daba perfectamente cuenta de que él había provocado aquella situación, y de que en todo aquello intervenía la ley de la compensación o algo parecido. Y comprendía además que, yéndose solo, volvía a valer tanto como ella. Todo, por fin, volvía a recuperar el equilibrio.
 Y más allá de todas las cosas, incluso más allá de su dolor, tuvo casi la agradable sensación de estar en manos de algo más grande que él, y de haber alcanzado un estado de cierto cansancio e inseguridad en sí mismo: dos cualidades que jamás había tolerado ni siquiera un instante. Y no le parecía tan terrible ir camino del Oeste para un final definitivo. Estaba seguro de que Emmy acudiría en el último momento, no importaba lo que estuviera haciendo ni lo maravillosos que fueran sus compromisos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

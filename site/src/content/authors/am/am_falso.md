@@ -74,6 +74,3 @@ Dije entonces:
 —Peor para ti... ¿Qué te has creído? Que aquel billete no me ha costado nada?... Pagué trescientas liras por él... Eres tú quien tendría que pagarme el perjuicio.
 En resumidas cuentas, discutimos durante un rato pero no quiso pagarme nada. Más aún, al final, cómo lo acusaba de timarme, sacó los billetes de mil, los rompió en muchos pedazos y fue a tirarlos en la boca de la alcantarilla, junto a la acera. Pero lo que más me indignó fue que, antes de irse, me dijo:
 —Tú no estás hecho para un trabajo honesto, serio, de responsabilidad... Permíteme que te lo diga yo, que te llevo veinte años... eres demasiado ligero, demasiado atolondrado... Como mucho, sirves para vender cigarrillos en el mercado negro... ¡Adiós, hombre!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

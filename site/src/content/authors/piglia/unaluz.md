@@ -287,6 +287,3 @@ en medio del andén vacío, doscientas caras rubias de nariz chata,
 son­reían, dos mil caras todas de perfil a través del vidrio, en medio
 de la luz, dos mil caras cruzando en ese subte cada vez más ligero, una
 luz, una luz que se iba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

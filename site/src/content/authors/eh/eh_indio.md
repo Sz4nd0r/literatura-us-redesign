@@ -80,6 +80,3 @@ Empezaba a clarear cuando regresaron al lago por el camino de los leñadores.
 —No, creo que no, Nick. Depende...
 Luego se sentaron en el bote; Nick en la popa, y su padre en el centro, remando. El sol ya se asomaba por las colinas. Un róbalo saltó y formó un círculo en el agua. Nick introdujo la mano en el agua, que estaba tibia a pesar del frío matinal.
 En el lago, sentado en la popa del bote, en aquella hora temprana, mientras su padre remaba, Nick tuvo la completa seguridad de que nunca moriría...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

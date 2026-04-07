@@ -282,6 +282,3 @@ Bajó a la oficina del contador del barco y esperó a que una pasajera dejara li
 —Siempre me preguntas lo mismo —se echó a reír.
 —A lo mejor me lo dices si cenamos juntos esta noche.
 Pero cuando la chica se fue, Henry se dio cuenta de que nunca podría decírselo: ni ella ni nadie. Francia era una tierra, Inglaterra era un pueblo, pero Estados Unidos, que conservaba aún cierta calidad de idea, era más difícil de definir; era las tumbas de Shiloh y las caras cansadas, ojerosas, nerviosas, de sus grandes hombres y los chicos de pueblo que murieron en la Argonne por una frase que, antes de que sus cuerpos se secaran, ya estaba vacía. Era un deseo del corazón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

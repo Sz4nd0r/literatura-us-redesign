@@ -63,6 +63,3 @@ Trimble hizo un gesto de asentimiento.
 Orrison lo siguió con la mirada cuando empezó a alejarse, casi esperando ver cómo se metía en un bar. Pero no había nada en Trimble que sugiriera o hubiera sugerido alguna vez que bebiera.
 “Jesús”, dijo para sí, “diez años borracho.”
 Súbitamente palpó el tejido de su abrigo y luego alargó la mano y apretó el pulgar contra el granito del edificio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

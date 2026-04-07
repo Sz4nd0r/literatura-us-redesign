@@ -41,6 +41,3 @@ Son cosas que no se deben entrever; por lo menos más alfa allá de un tanto. So
 Debería o no debería contarle, por razones de tal vez. Descubro, deduzco de lo que digo. ¿Será, si? ¿Palpo lo evidente? Más rebusco. ¿Sería éste nuestro desgonzar y el mundo, el plano —interdección de planos— donde se terminan de hacer las almas?
 Si es así, la “vida” consiste en experiencia extrema y seria; ¿su técnica —o por lo menos parte— exigiendo el consciente, el despojar, de todo lo que obstruye el crecer del alma, lo que la sobrecarga y soterra? Después, el “salto mortale”... —lo digo de ese modo, no porque los acróbatas italianos lo avivaron, sino porque necesitan de toques, nuevos aciertos, las expresiones comunes, amortiguadas... Y el juicio problema puede sobrevenir con la sencilla indagación: “¿Llegaste existir?
 ¿Sí? Pero, está, entonces, irremediablemente destruida la concepción de que vivimos en agradable acaso, sin ninguna razón, en un valle de estulticias? Dije. Si me permite, espero ahora, su opinión, propia, de usted, sobre tanto asunto. Solicito los reparos que se digne darme, a mí, siervo de usted, reciente amigo, pero compañero en el amor a la ciencia, a sus desviados aciertos y a sus tropiezos titubeados. ¿Sí?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

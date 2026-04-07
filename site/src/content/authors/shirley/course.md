@@ -96,6 +96,3 @@ Las dos mujeres se echaron a reír y la señora Harris comentó:
 Con el brazo en torno a los hombros de la niña, salió hasta la puerta principal de la casa y se quedó mirando a la señora Harris y a James hasta que entraron en su casa. La nueva vecina y el pequeño se detuvieron en el umbral, volvieron la cabeza y agitaron la mano. La señora Tylor y Carol les devolvieron el saludo.
 —¿No puedo ir al cine? —insistió Carol—. ¡Por favor, mamá!
 —Yo te llevaré, cariño —asintió la señora Tylor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

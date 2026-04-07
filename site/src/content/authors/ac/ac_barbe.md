@@ -61,6 +61,3 @@ Al día siguiente, por la mañana temprano, Erast Ivánich aparece de nuevo en l
 —Acaba de cortarme el pelo, Makar. Aún te queda la mitad de la cabeza.
 —Págueme por adelantado. No trabajo gratis.
 Erast Ivánich se marcha sin pronunciar palabra. Hasta la fecha sigue teniendo el pelo largo en una mitad de la cabeza y corto en la otra. Considera un lujo pagar por un corte de pelo y espera a que los cabellos cortados crezcan por sí mismos. Así fue a la boda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

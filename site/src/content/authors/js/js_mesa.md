@@ -253,6 +253,3 @@ El rostro, los brazos y el pecho de Billy chorreaban sangre. Su cuerpo se estrem
 Jody miró estúpidamente el potrillo húmedo y palpitante que estiraba la piel tratando de alzar la cabeza. Sus ojos, turbios y sin expresión, eran de un azul obscuro.
 —¡Que el diablo te coja! —gritó Billy—. ¿Vas a ir en busca de agua o no? ¿Vas a ir?
 Entonces Jody se volvió y corrió hacia la granja. La luz del alba iba en aumento. El muchacho sentía un dolor desde la garganta al estómago, y las piernas tiesas y pesadas. Trataba de sentirse feliz por el potro, pero no lograba apartar de su imaginación el rostro ensangrentado, despavorido, y los ojos fatigados de Billy Buck.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

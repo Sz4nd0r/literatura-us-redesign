@@ -28,6 +28,3 @@ En medio de la sala, una mesa con tablero de mármol y encima de él una cartera
 En este momento él se abalanzó contra el hombre, lo agarró por las solapas y se oyó a sí mismo gritar como un obseso: “¿Qué hace usted aquí?”. Y el hombre había respondido de un modo ridículo, absurdo; había respondido, supongamos, algo así como: “Pero bueno, ¿pero cómo se permite? ¿Sabe usted con quién…?”. Y entonces él había empezado a apretar, a retorcer, cada vez más, cada vez más. Y el hombre se había puesto rojo, luego lívido y luego de la boca le había salido medio palmo de lengua y, al final, se había desplomado en el suelo. El convulso y reflejo patear de una pierna y luego, nada (horribles esos ojos fuera de sus órbitas, lastimosas aquellas gafas caídas lejos). Y él había corrido para subir al tren que partía y en el que ahora se encontraba.
 Bueno, parecía que no había nada que añadir o que a él no le correspondiese hacerlo. Para el caso, y remontándose al principio, importaba saber cómo habría debido comportarse y en qué términos exactos habría debido replicar el desdichado para hallar piedad o perdón y esperar salvación. Entonces, ¿qué habría debido responder a su insensata pregunta?
 Bueno, tal vez: “¿No lo ve? Vivo”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

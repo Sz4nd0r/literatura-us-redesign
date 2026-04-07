@@ -46,6 +46,3 @@ Con dulzura y sin decir palabra la rechacé. Ella se fijó en mí con aire de ex
 —No hagas muecas... Te crees que gritaré porque soy pequeña. No tengas miedo. Antes gritaba, es cierto; pero ahora ya no...
 Y sin acabar escupió con un aire de indiferencia.
 Yo me alejé, llevando en mi corazón un horror indescriptible con la mirada de los ojos claros de la niña.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

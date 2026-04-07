@@ -345,6 +345,3 @@ SMOKE BELLEW, presidente
 Firmado
 JACK SHORTY, secretario
 (1912)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

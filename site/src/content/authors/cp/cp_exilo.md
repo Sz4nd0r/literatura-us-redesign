@@ -241,6 +241,3 @@ unos cuantos pasos llegaba a cualquier sitio y regresaba insatisfecho. No podía
 Ahora a aquel pueblo le faltaba también el fondo, que en el pasado había dado un horizonte a mis caminatas.
 Solo quedó la colina, bien visible desde la ventana del hotel, entre la lluvia, la colina requemada con murallones blancosucios en lo alto: el pueblo antiguo. Con aquella visión en
 los ojos, una mañana en que como de ordinario la luz agonizaba, partí para mi destino.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

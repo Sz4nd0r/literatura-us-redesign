@@ -660,6 +660,3 @@ Había felicidad en ambos rostros ante la
 perspectiva y durante un momento los dos tuvieron la misma visión de paz. Annie
 se acercó a él, y cuando el tren se paraba, se besaron por encima del niño que
 dormía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

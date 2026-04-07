@@ -223,6 +223,3 @@ Y yo tuve que hacer alguna cosa, de mí, lloré, grité, para ellos dos: —“�
 Y ellos bajaron las cabezas, creo que se estremecieron.
 Porque yo desconocí a mis Padres —me eran extraños; jamás podría
 verdaderamente conocerlos, yo; ¿Yo?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

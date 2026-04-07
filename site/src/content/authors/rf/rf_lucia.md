@@ -265,6 +265,3 @@ Hoy es el séptimo día de mi destierro. Soy la mujer más infeliz del mundo. No
 Me paso los días y las noches oyendo música en el radio de pilas, y escribiendo cartas. Querido José Roberto te amo, te amo, te amo, te amo, te amo, te amo, te amo, te amo, te amo. LA RASGO. Querido José Roberto. No puedo vivir sin ti, quiero estar cerca de ti, puede ser como criada o cocinera o quien te limpie los zapatos o lavandera o tapete o pipa o pantufla o perro o cucaracha o ratón, cualquier cosa de tu casa, no necesitas hablar conmigo, ni mirarme. LA RASGO. En su casa no hay cucarachas, perro, ratón. ¿Perro lleva acento? ¿Acento se acentúa? Soy muy ignorante para escribirle. (Olvido que ni siquiera sé dónde está.)
 No sé dónde está.
 Mi corazón está negro. El aire que respiro atraviesa un camino de carne podrida cancerosa que empieza en la nariz y termina con una punzada en algún lugar de mi espalda. Cuando pienso en José Roberto un rayo de luz corta mi corazón. Lo ilumina y duele. A veces pienso que mi única salida es el suicidio. ¿Fuego a las ropas? ¿Barbitúricos? ¿Me arrojo por la ventana? Hoy por la noche iré a bailar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

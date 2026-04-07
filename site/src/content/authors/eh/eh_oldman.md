@@ -89,6 +89,3 @@ Me levanté del suelo y salí con George, tratando de evitar los sollozos. Él m
 George Gardner me miró para saber si yo había oído algo y al comprobarlo dijo:
 —No hagas caso de lo que dicen esos vagos, Joe. Tu padre era un tipo estupendo.
 Pero no sé. Creo que cuando empiezan a hablar no dejan títere con cabeza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

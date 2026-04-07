@@ -124,6 +124,3 @@ Herr Brechenmacher bostezó y se desperezó, y entonces la miró malicioso.
 Pero la pequeña Frau tomó la vela y fue al cuarto contiguo. Los niños dormían profundamente. Tocó el colchón del bebé para ver si todavía estaba seco, y empezó a desabrocharse la blusa y la falda.
 —Siempre lo mismo —dijo—, en el mundo entero siempre es lo mismo; pero Dios del cielo... pero qué estúpido.
 Después hasta el recuerdo de la boda fue desvaneciéndose. Se acostó en la cama y se cubrió la cara con el brazo como una niña que esperara ser lastimada cuando Herr Brechenmacher entrara tambaleante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

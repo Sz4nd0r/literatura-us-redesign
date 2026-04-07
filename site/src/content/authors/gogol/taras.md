@@ -835,6 +835,3 @@ Cuando Taras Bulba volvió en sí del golpe que le había aturdido, cuando dirig
 —¡Adiós, camaradas —les gritó desde el elevado sitio en que estaba—. Acuérdense de mí, vuelvan en la próxima primavera, y que les vaya bien!… ¿Y ustedes, polacos del diablo, qué han ganado? ¡No hay nada en el mundo que amedrente a un cosaco! Esperen un poco, pronto llegará el tiempo en que sabrán lo que es la religión rusa ortodoxa. Los pueblos vecinos y lejanos lo presienten desde ahora; ¡de la tierra rusa levantaráse un zar, y no habrá poder en el mundo que deje de sometérsele!…
 Las llamas de la hoguera se elevaban ya, llegando a los pies de Taras y abrasando con su llama el grueso tronco del árbol… Pero, ¿hay fuego, torturas ni poder, capaces de domar la fuerza cosaca?
 El río Dniester es pequeño, pero posee varias ensenadas, muchos sitios sin fondo, y en sus orillas crecen abundantes juncos. El espejo del río es brillante, y en él resuena el grito sonoro de los cisnes, y el soberbio gogol [pato salvaje, parecido al cisne] se deja llevar por su rápida corriente. Miríadas de chorlitos, de gallinetas ciegas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -337,6 +337,3 @@ las palabras como insultos.
 —Ese dinero
 que te di lo gano haciendo contrabando de cocaína. En el Norte.
 1936
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

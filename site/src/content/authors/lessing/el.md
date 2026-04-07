@@ -141,6 +141,3 @@ Annie no dijo nada, entonces Mary salió a toda prisa.
 Se quedó sentada, con la mirada fija en la puerta. Pero su mente se llenaba de pensamientos vagos, hostiles.
 —Si quiero conservarlo, nunca podré decir lo que pienso, nunca podré decir la verdad. Solo está conmigo por conveniencia; pero si se lo dijera, solo conseguiría que se levantara y se fuera…
 Pero aquella no era toda la verdad; recordaba los gestos de cariño en su rostro, y por unos instantes, desapareció toda su amargura. Entonces recordó su larga y dura vida, el trabajo interminable, trabajo, trabajo… Recordó, de pronto, como si lo estuviera sintiendo en ese mismo instante, cómo le dolía la espalda cuando los niños eran pequeños; podía verlo tumbado en la cama leyendo el periódico, mientras ella apenas podía mantenerse en pie… Muy bien, muy bien, se gritaba a sí misma, no es justo, simplemente no es justo… La invadía una profunda sensación de injusticia; y era precisamente esta sensación la que debía reprimir, aplacar, si quería a Rob. Porque comprendió, por fin —y eso era más fuerte que cualquier otra cosa— que su vida no tenía ningún sentido sin él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

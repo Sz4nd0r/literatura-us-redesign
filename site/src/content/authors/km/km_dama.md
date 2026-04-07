@@ -152,6 +152,3 @@ En la carretera resonaron gritos de triunfo. Sí, allí estaba de nuevo: con sus
 Herr Erchardt, de pie en el carro traqueteante mientras Frau Kellermann le sujetaba por las rodillas, hizo bocina de sus manos para vociferar:
 —¡Siete y medio!
 —La ignorancia no puede quedar sin réplica —dijo a la dama de ideas avanzadas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -109,6 +109,3 @@ En la cama, con las persianas extrañamente echadas frente a la luminosa tarde y
 —Aun así eres bastante interesante. Aquí, aquí y aquí.
 —He dicho que sólo una siesta.
 En el rellano del piso de arriba, al otro lado de la puerta cerrada del dormitorio, sonó el teléfono. Después de cuatro timbrazos —lanzas gélidas arrojadas desde lejos— dejó de sonar sin que nadie descolgara. Hubo una pausa confusa. Luego un ring dubitativo, interrogante, como si alguien al pasar le hubiera dado un golpe a la mesa, seguido de una resuelta serie de sonoras zancadas, imperiosas y lastimeras, que no pararon hasta contar doce; luego, su amante colgó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

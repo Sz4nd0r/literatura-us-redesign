@@ -54,6 +54,3 @@ La voz del hombre se quebró y movió la cabeza.
 —Todo se fue al traste —dijo con calma y mucha tristeza—. Salió por la puerta y toda la vida que había habido en aquel cuarto se fue con ella. Se llevó a toda mi gente. Se fueron con ella por la puerta. Eso es lo que pasó.
 George Willard se dio la vuelta y salió de la habitación de Enoch Robinson. Al ir a cruzar el umbral oyó la voz débil y anciana que lloriqueaba quejosa en la oscuridad, junto a la ventana:
 —Estoy solo, muy solo —dijo la voz—. En mi cuarto el ambiente era cálido y acogedor, pero ahora estoy solo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

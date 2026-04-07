@@ -302,6 +302,3 @@ guardaba en el bolsillo del chaleco. De nuevo se dedicó
 a su pipa, y de nuevo la gallina pintada se alejó
 por la calle mayor del poblado cacareando como una
 necia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -105,6 +105,3 @@ Hubo una pausa de algunos segundos. El apuntador fue en puntas de pie a preparar
 —Adiós.
 —Oiga, como es probable que yo muera uno de estos días, voy a hacerle dos polcas; la otra servirá para cuando suban los liberales.
 Fue la única broma que dijo en toda su vida, y fue a tiempo, porque expiró a la mañana siguiente, a las cuatro y cinco, en paz con los hombres y mal consigo mismo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

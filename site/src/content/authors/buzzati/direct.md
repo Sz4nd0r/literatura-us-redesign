@@ -75,6 +75,3 @@ Conforme el tren huía, se fue haciendo aún más pequeña de lo que ya era: una
 Con un retraso acumulado de años y años, aún seguimos de viaje. Pero ¿hacia dónde? Cae la noche, los vagones están gélidos, no ha quedado casi nadie. Aquí y allá, en los rincones de los compartimientos oscuros, se sientan desconocidos con caras pálidas y duras que tienen frío y no lo dicen.
 ¿Hacia dónde? ¿A qué distancia está la última estación? ¿Llegaremos alguna vez? ¿Valía la pena huir con tanta precipitación de los lugares y de las personas queridas? ¿Dónde he puesto los cigarrillos? Ah, aquí, en el bolsillo de la chaqueta. Ciertamente no se puede volver atrás.
 Ánimo, pues, señor maquinista. ¿Cómo es tu cara y cómo te llamas? No te conozco ni te he visto nunca. ¡Ay de ti si no me ayudas! Mantente firme, maquinista, echa en el fuego el último carbón, haz volar a este viejo trasto chirriante, te lo ruego, lánzalo a toda velocidad, que se parezca al menos a la locomotora de antaño, ¿te acuerdas? Hazlo correr por la noche a todo trapo. Pero, por Dios te lo pido, no abandones, no dejes que el sueño se apodere de ti. Mañana tal vez lleguemos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

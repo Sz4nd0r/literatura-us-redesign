@@ -70,6 +70,3 @@ La cara de Susannah tembló: —No quiero ir—, dijo en un murmullo.
 ¡Niña maleducada y desagradecida! O vas al circo, Susannah, o te vas a la cama enseguida.
 La cabeza de Susannah se inclinó, más aún.
 Todo su cuerpito se inclinó hacia adelante. Parecía como si fuera a hacer una reverencia, una reverencia hasta el piso, ante su padre bueno y generoso y pedirle que la perdonara...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

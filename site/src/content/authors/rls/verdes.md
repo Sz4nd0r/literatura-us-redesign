@@ -222,6 +222,3 @@ Sin más, el príncipe Florizel hizo al joven clérigo una seña para que lo sig
 —Ahora que no está presente su hija —le dijo el príncipe—, quiero decirle que la trate con el debido cariño y respeto; levántele usted la mano, y le aseguro que al instante sufrirá una desgracia tan inmediata como irreparable.
 Agachó la cabeza sin decir palabra el viejo, pero nada más volverle la espalda el príncipe le hizo un gesto furioso de amenaza. Un poco más tarde se dirigió a la parada de coches de punto más próxima.
 Aquí —dice mi árabe— concluye el cuento de “La casa de las persianas verdes”. Una aventura más —añade —y habremos concluido El diamante del rajá. Los habitantes de Bagdad conocen el último eslabón de esta cadena como “La aventura del príncipe Florizel y el detective”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

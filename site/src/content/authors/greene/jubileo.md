@@ -61,6 +61,3 @@ Miró desesperadamente a su alrededor: un amigo; ni siquiera podía pensar en el
 —Pero te equivocas por completo —dijo el señor Chalfont—. No es eso. Para nada.
 —Vamos, si lo supe casi en cuanto me hablaste. No necesitas conservar las apariencias conmigo, querido —continuó Amy inexorablemente, mientras el aire de Mayfair se iba diluyendo en el señor Chalfont hasta que solo quedaron el departamentito amueblado, los panecillos de jamón, la plancha calentándose en la estufa—. No tienes por qué ser orgulloso. Pero si lo prefieres (a mí me da lo mismo, no significa nada) vamos a mi casa, y puedes hacer lo tuyo. A mí me da lo mismo, querido, pero si lo prefieres, yo sé cómo te sientes —y salieron juntos, del brazo, a la desolada calle llena de adornos.
 —Anímate, querido —dijo Amy, mientras el viento cogía los listones y los arrancaba de los postes y levantaba el polvo y hacía ondear los estandartes—, a una le gusta ver una cara alegre —y de pronto se volvió estridente y festiva; le daba palmadas en la espalda al señor Chalfont; le pellizcaba el brazo, y decía—: Vamos, un poco de espíritu de Jubileo, querido —se vengaba en el viejo señor Chalfont de todo un mundo de compañeros desagradables. Ya no se le podía llamar de otra manera: el viejo señor Chalfont.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

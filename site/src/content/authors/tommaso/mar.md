@@ -269,6 +269,3 @@ Roberto se arrojó entre sus brazos. También él estaba conmovido y dijo ponié
 —¿Qué isla? —preguntó Lucrezia.
 —Es una isla en medio de un mar azul, bajo un cielo azul. Se llega a una tranquila ensenada entre palmeras y naranjos, entre árboles siempre verdes, entre flores siempre abiertas…
 —¿Y no podríamos ir a esa isla? —le interrumpió la muchacha sonrojándose ligeramente y bajando los ojos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

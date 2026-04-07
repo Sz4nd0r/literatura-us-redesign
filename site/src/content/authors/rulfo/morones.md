@@ -556,6 +556,3 @@ Lucatero. No eres nada cariñoso. ¿Sabes quién sí era amoroso con una?
 —¿Quién?
 —El Niño Anacleto. El sí
 que sabía hacer el amor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

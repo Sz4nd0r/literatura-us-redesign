@@ -105,6 +105,3 @@ Temblaba.
 Volaba, con todo, la lucecita verde, viniendo también del bosque, luciérnaga,
 la primera. Sí, luciérnaga, ¡linda fuera! —pequeñita, en el aire, un instante
 sólo, alta, distante, yéndose ya. Era, de vez en cuando, la alegría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -215,6 +215,3 @@ Y Jorge miró, abatido, al tintero de la mesa. Calló. Blane le contemplaba con 
 —Estoy deshecho —suspiró Peregrine—. Pero tienes razón. Lo hecho, hecho está. Sería absurdo revolverlo.
 —¿Entonces…?
 —Seguiré tu consejo. No haré nada. Me tendré por un maldito imbécil y nada más. Realmente no sabría vivir sin Evie. Pero hay una cosa que no comprenderé jamás: ¿qué pudo ver aquel tipo en mi mujer?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

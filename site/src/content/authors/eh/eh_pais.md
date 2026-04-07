@@ -74,6 +74,3 @@ El doctor me contó que la mujer del mayor, que era mucho más joven y con quien
 El mayor estuvo tres días ausente del hospital; luego volvió a la hora de costumbre, con un brazal en la manga del uniforme. A su regreso, había en la pared varias fotografías de heridos, de todas clases, antes y después del tratamiento. Frente a él se hallaban tres fotografías de manos como la suya, completamente reformadas.
 Ignoro dónde las habrían conseguido; siempre creí que éramos los primeros en usar los aparatos.
 Las fotografías no le interesaban mucho al mayor, que más bien miraba la ventana.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

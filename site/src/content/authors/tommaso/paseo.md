@@ -38,6 +38,3 @@ Y allí estaba el gran padre y hasta se veían brillar las gavinas cuando tomaba
 Se había hecho tarde: sobre la áfaca y sobre el ballico se posaba la cojugada, sobre la atropa el átropo, sobre el amaranto el amaranto, y el brillo del sol ya no era más que una alizarina; olía a llaullau, se oía un lejano trisar. Y así, paso a paso, regresé.
 —Ahora, mientras hiendo los sisimbrios y hasta que llegue a mi casa, dime, ¡oh, amigo lector! ¿Acaso es que soy yo un poco bazagón? Tú no respondes y con ello asientes, y no te falta razón. Pero no daría ni un tarín por quien no supiera llenarse los ojos y el alma como yo hice ese día o por quien, sabiéndolo, quisiera guardarse todas las cosas para él solo.
 Pero ya regresé; mi mujer estaba chafallando soletas, el garzón cazumbraba, la suzarra preparaba, si no el mismo, otro jarope.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

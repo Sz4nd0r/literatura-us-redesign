@@ -52,6 +52,3 @@ Todavía tenía dinero en su cartera y la siguiente tentación se le presentó e
 La obra había terminado, la música dejó de sonar y el público comenzó a salir en fila. Era como un sueño que se acaba. La gente se dispersó en todas direcciones. La señora Sommers se dirigió a la esquina y esperó el tranvía.
 Un hombre de mirada penetrante, que se sentó frente a ella, examinaba con interés su pequeño y pálido rostro. Le intrigaba descifrar lo que había allí.
 En verdad, no veía nada, salvo que fuera brujo y pudiera detectar el angustioso deseo, el intenso anhelo de que el tranvía no se detuviera nunca en ninguna parte y siguiera rodando y rodando con ella para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

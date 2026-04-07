@@ -298,6 +298,3 @@ Don García se inclinó para examinar las joyas que estaban tras el vidrio del e
 Dionisia vio el rostro de don García al otro lado del cristal del escaparate. Sonreía bañado en una luz dorada, que sembraba de hojas otoñales y pétalos disecados a la lluvia que caía sobre la calle. Don García se inclinó sonriendo e hizo un gesto amenazador con el dedo índice:
 —¡No puedo hacer más por usted! ¡Cuidado!
 Le hizo una señal de adiós. Lo vio alejarse en torbellinos de lluvia dorada, metido en su impermeable blanco con reflejos de bronce que le recordaron las joyas de un español lujoso en algún lugar lejano. Dionisia se acomodó su túnica de color humo y se tendió a dormir en el fondo del valle tibio y silencioso abanicado por ramas de olivos, que le había regalado don García. Su memoria había cambiado de color y olvidó las ventiscas, la nieve, los granizos y el azul, ahora todo estaba envuelto en reflejos de bronce, iguales al impermeable que llevaba don García, que de pronto desapareció entre las ráfagas doradas de la lluvia…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

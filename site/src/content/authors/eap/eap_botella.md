@@ -55,6 +55,3 @@ en los cuales se representa al océano como precipitándose por cuatro
 bocas en el golfo Polar (Norte), para ser absorbido por las entrañas de la tierra.
 El Polo aparece representado por una roca negra, que se eleva a una altura prodigiosa.
 —E. A. P.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -202,6 +202,3 @@ Se sacó del bolsillo una gran hoja de papel, enteramente cubierta de fechas y n
 —¿Y qué piensa hacer usted?
 —Oh, ya los tengo en mis manos. He averiguado que él y los dos oficiales son los únicos americanos que hay a bordo. Los otros son finlandeses y alemanes También sé que los tres estuvieron fuera del barco la noche pasada. Me lo contó el estibador que se ha ocupado del cargamento. Cuando el velero llegue a Savannah, el vapor correo habrá llevado esta carta, y el telégrafo habrá informado a la policía de que estos tres caballeretes son reclamados aquí bajo acusación de asesinato.
 Sin embargo, siempre puede haber algo que trastoque los planes humanos mejor trazados, y los asesinos de John Openshaw no recibirían nunca las pepitas de naranja que habían de indicarles que otra persona, tan astuta y resuelta como ellos, les seguía los pasos. Aquel año las tormentas equinocciales fueron muy prolongadas y muy duras. Esperamos largo tiempo recibir noticias del Lone Star desde Savannah, pero no llegó ninguna. Por fin oímos decir que en algún punto remoto del Atlántico se había avistado el maltrecho codaste de una embarcación, zarandeado por las olas, que llevaba grabadas las letras «L. S.». Y esto es cuanto llegaríamos a saber acerca de la suerte que corrió el Lone Star.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

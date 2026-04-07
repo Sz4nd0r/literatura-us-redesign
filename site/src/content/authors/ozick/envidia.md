@@ -529,6 +529,3 @@ Salió a la calle. Era pleno día y el té lo había reconfortado. La calle resp
 —En cambio usted, después de Dios sabe cuántos años en América, habla con acento judío. Usurero, moishe.
 Edelshtein aulló por el auricular.
 —¡Amalequita! ¡Tito! ¡Nazi! ¡Los antisemitas sois una plaga en el mundo entero! ¡Por vuestra culpa se corrompen los niños! ¡Por vuestra culpa lo perdí todo, mi vida entera! ¡Por vuestra culpa no tengo traductor!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

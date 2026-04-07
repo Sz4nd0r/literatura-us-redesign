@@ -49,6 +49,3 @@ Ray Pearson perdió la paciencia y ahí acaba en realidad la historia de lo suce
 Ray Pearson también se rió. Le entraron ganas de reírse de sí mismo y del mundo entero.
 Cuando la silueta de Hal Winters desapareció en la oscuridad que se cernía sobre el camino que conducía a Winesburg, Ray dio media vuelta y anduvo despacio a través de los campos hasta el lugar donde había tirado el abrigo. Mientras andaba, debió de recordar las tardes agradables que había pasado en compañía de los niños de piernas delgadas en la casa destartalada junto al arroyo, pues murmuró estas palabras:
 —Da lo mismo. Dijese lo que dijese habría sido mentira —dijo en voz baja, y luego su propia silueta desapareció en la oscuridad de los campos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

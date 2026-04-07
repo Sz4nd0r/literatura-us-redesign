@@ -45,6 +45,3 @@ Así pensaba Cherviakov de camino a casa. No escribió la carta al general. Pens
 —¿Cómo? —susurró Cherviakov, pasmado de terror.
 —¡Fuera! —repitió el general, pataleando.
 Algo se quebró en el vientre de Cherviakov… Sin ver ni oír nada, retrocedió hacia la puerta, salió a la calle y echó a andar despacio… Al llegar maquinalmente a su casa, sin quitarse el uniforme, se tumbó en el diván y… murió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

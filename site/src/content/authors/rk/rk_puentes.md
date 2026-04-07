@@ -267,6 +267,3 @@ La suntuosa chimenea azul y blanca bajaba la corriente con velocidad. Podían ve
 —Estoy inmensamente agradecido, Rao Sahib. Creo que me ha salvado usted la vida. ¿Cómo Hitchcock…?
 —¡Oh! Tenía el pelo de punta. Vino a caballo en medio de la noche y me sacó de los brazos de Morfeo. Yo, de verdad, estaba muy preocupado, Finlinson, así que también he venido. Mi gran sacerdote está muy enfadado en estos momentos. Vamos de prisa, Mister Hitchcock. Me esperan a las doce cuarenta y cinco en el templo del estado donde consagramos algún nuevo ídolo. Si no, les invitaría a pasar el día conmigo. Son pesadísimas estas ceremonias religiosas, ¿eh Finlinson?
 Peroo, bien conocido por la tripulación, se había hecho con el mando del timón y gobernaba hábilmente el barco aguas arriba. Sin embargo, mientras viraba ya se imaginaba el medio metro de cuerda parcialmente retorcida con que azotaría a su gurú en la espalda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -55,6 +55,3 @@ Luchó unos instantes con las perlas en que las flores se enredaran. El trasatl�
 Entonces ella mordió el cordón del collar, lo trituró entre sus menudos dientes y dejó caer sobre el amado anhelante la lluvia de flores entre el rocío de las blancas perlas. Le miró con el alma en los ojos, hasta que, cegados por las lágrimas, reclinó el húmedo rostro en el pecho de Jeremías Sambrooke, que se olvidó un momento de sus estadísticas, asombrado de las niñas que se empeñan en hacer de mujeres. La multitud cantaba todavía a orillas del mar. Las voces se apagaban en la lejanía, pero aún las dulces palabras destilaban en el corazón de Dorotea la añoranza del amor lánguido y sentimental de Hawai. Y las palabras se clavaban como espinas en su corazón de niña, porque aventaban las cenizas de su amor imposible con el soplo de la eterna separación.
 Aloha oe, Aloha oe, e ke onaona no ho ilia Upo,
 un abrazo de cariño, ahoi ae au, hasta que nos volvamos a ver…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -137,6 +137,3 @@ Cuando regresé a Horta desde Cayena y vi de nuevo al “anarquista”, no tení
 Él negó con la cabeza.
 —Moriré aquí —respondió, y luego añadió pensativo—: Lejos de todos ellos.
 De cuando en cuando me da por pensar en él, me lo imagino tumbado con los ojos abiertos sobre el arnés de caballo en ese pequeño cobertizo lleno de herramientas y pedazos de hierro, el anarquista esclavo de la hacienda de Marañón, esperando con resignación infinita ese sueño que “voló” de su lado, como solía decir él, de forma incomprensible.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

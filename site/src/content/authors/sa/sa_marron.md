@@ -41,6 +41,3 @@ El general Grant se adentró en el bosque.
 Alejandro se fue a la guerra a caballo.
 Permítanme decirles… A veces, en mi mente, toda la vida de este mundo flota en un rostro humano. El rostro inconsciente del mundo se frena y se detiene ante mí.
 ¿Por qué nunca le he dicho a nadie una sola palabra que proceda de mí mismo? ¿Por qué, en todo el tiempo que llevamos juntos, jamás he sido capaz de romper el muro que me separa de mi esposa? Ya llevo escritas trescientas, cuatrocientas mil palabras. ¿No existen palabras que lleven hasta la vida? Algún día hablaré conmigo. Tal vez algún día escriba un testamento a mi favor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

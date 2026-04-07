@@ -143,6 +143,3 @@ El orador se volvió con febril rapidez y hundió la cabeza en la almohada.
 Alzó su cabeza con rapidez.
 —De ninguna manera, Dios mío —interrumpió—, no me pregunte mi nombre ni trate de averiguarlo. Dejemos que sea para usted una persona desconocida, un Vasili Vasílevich al que el destino ha destrozado. Al mismo tiempo, alguien común, sin pizca de originalidad. No merezco ningún nombre. Pero si realmente desea darme algún tipo de título, entonces puede llamarme… Llámeme el Hamlet del distrito de Schigrovski. Hay muchos Hamlets en cada distrito, pero es posible que todavía no se haya topado con ninguno… Hasta siempre.
 Hundió de nuevo su cabeza en la cama de plumas, y a la mañana siguiente, cuando vinieron a despertarme, ya no estaba en la habitación. Se había marchado antes del alba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

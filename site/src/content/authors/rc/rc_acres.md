@@ -127,6 +127,3 @@ Miraron ambos a la anciana. Pero tenía los ojos cerrados y parecía dormida.
 Mil dólares. Tal vez más. Waite no lo sabía. ¡Pero aun así: mil dólares! Se preguntó cómo lo harían, cómo informaría a la gente de que tenía tierras que alquilar. Aquel año ya era tarde para hacerlo, pero podría ponerse a preguntar por ahí cuando llegara la primavera. Cruzó los brazos y trató de pensar. Le empezaron a temblar las piernas y se apoyó contra la pared. Siguió allí un rato; y al cabo dejó que su peso resbalara con suavidad por la pared hasta quedar en cuclillas.
 —No es más que un alquiler —dijo.
 Miraba fijamente el suelo. Le pareció que se inclinaba en dirección a él, que se movía. Cerró los ojos y se llevó las manos a los oídos para serenarse. Y luego se le ocurrió ahuecar las manos: así le llegaría ese bramido como de viento que ruge dentro de una concha marina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

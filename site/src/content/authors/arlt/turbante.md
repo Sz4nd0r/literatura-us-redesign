@@ -283,6 +283,3 @@ un muerto al borrico. Dentro del pecho del muerto viene oculta una
 ametralladora.
 Y corriendo un
 andrajo muestra un largo corte en el pecho del cadáver robado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

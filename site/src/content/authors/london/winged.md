@@ -198,6 +198,3 @@ El joven miró a su prisionero, del que se había olvidado.
 —Ah, es el criador de palomas —respondió—. Supongo que los policías se harán cargo de él.
 Peter Winn estrechó la mano de su hijo en silencio y acarició a la paloma que el joven le había entregado. Al rato volvió a acariciarla y luego habló.
 —Prueba A de la acusación —dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

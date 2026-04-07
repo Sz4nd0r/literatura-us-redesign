@@ -290,6 +290,3 @@ Alguien subió la escalera con rapidez y después bajó apresuradamente, con muc
 Finalmente levantó el rostro y esbozó una sonrisa forzada mientras hablaba.
 —Nada… simplemente se me ocurrió, padre, que estabas por morir…
 Fue la experiencia más aterradora de mi vida… ya no tengo fuerzas para seguir escribiendo. Es inexpresablemente doloroso vivir en este estado mental. ¿No hay nadie que venga y me estrangule en silencio mientas duermo?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

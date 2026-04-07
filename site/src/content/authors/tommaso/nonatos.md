@@ -23,6 +23,3 @@ Ellos pretenden de mí, que ignoro el mío, su destino. Concédaseme presentarlo
 Les he dado hasta un nombre, pero podría ser que sufrieran precisamente por eso: por el hecho de que intenté hacerles vivir. Y ya están unidos a mí y ya no pueden dirigirse a otros; son esclavos del nombre que les he dado, de ese demasiado poco que les presté. Su conato de vida está ya condicionado al mío de creación; ya ni siquiera son errantes. Pero yo no sé seguir adelante. ¡Deben comprenderlo!
 Me persiguen. Intentaré daros una idea de ellos, pero no sabría hacerlo en un orden preciso. Así, pues, os los presentaré como puedo, al azar…
 (Más adelante el escritor llega a esta sorprendente proposición: “En efecto, casi he llegado a creer que el propio destino es, ni más ni menos, que una acción”. Por lo demás, el manuscrito, que debe de ser de hace unos veinte años, tal vez sea publicado completo algún día.)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

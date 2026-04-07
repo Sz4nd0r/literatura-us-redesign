@@ -150,6 +150,3 @@ Avanzamos sobre la espesura. Kalínich comenzó a cantar en falseto, brincando a
 Al día siguiente me marché de la hospitalaria morada de Polutikin.
 Nota del Autor:
 [1]. En el distrito de Oriol, densas y extensas masas de matas se conocen como “Plazas”; el dialecto de Oriol se distingue sobre todo por una gran variedad de frases y giros originales, a veces muy exactos, a veces completamente estrafalarios.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

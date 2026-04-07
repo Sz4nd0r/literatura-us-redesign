@@ -57,6 +57,3 @@ Luego de haber presentado esa cortés disculpa, Mr. Seeders dio media vuelta y s
 Pero, detrás de un tabique conveniente, Tildy se lanzó sobre una mesa entre restos de manteca y tazas de café, sollozando amargamente, regresando de nuevo a la gran, planicie gris, donde transitan las mujeres de nariz roma y cabello color paja. Rompió la vincha roja con que sujetaba sus cabellos y la tiró al suelo. Despreciaba absolutamente a Seeders; había recibido su beso como el de un príncipe explorador y profético que podría haber hecho funcionar los relojes y los pajes en la tierra de las hadas. Pero el beso había sido dado por un beodo y sin intención; la corte no se había agitado ante la falsa alarma; ella debía permanecer por siempre siendo la Bella Durmiente.
 Sin embargo, no estaba todo perdido. Aileen la rodeó con sus brazos y la mano roja de Tildy permaneció crispada entre los restos de manteca, hasta que sintió el cálido apretón de la de su amiga.
 —No te lamentes, Til —dijo Aileen, que no entendía del todo la situación—. Ese cara de nabo, broche de ropa, de Seeders, no lo merece. No tiene nada de caballero, pues de otro modo no se habría disculpado nunca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

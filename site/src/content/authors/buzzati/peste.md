@@ -55,6 +55,3 @@ Y me ataron al banco después de meterme en el bolsillo, supremo escarnio, el im
 Cuando, tras media hora de enormes esfuerzos, conseguí desatarme, me lancé en la noche, sin avisar siquiera de lo ocurrido a la señora, y corrí como un loco hacia el lazareto, más allá del hipódromo, esperando llegar a tiempo.
 Pero justo cuando yo llegaba, Celada estaba saliendo del recinto con los dos enterradores, y pasó de largo como si no me hubiese visto nunca, alejándose en la oscuridad.
 No logré alcanzarlo, no logré entrar en el recinto, no logré que suspendieran la destrucción del Rolls-Royce. Me quedé allí un buen rato: con el ojo pegado a una rendija de la empalizada, veía la hoguera de los desdichados autos, siluetas oscuras que se retorcían de sufrimiento entre las llamas. ¿Dónde estaba el mío? En ese infierno era imposible distinguirlo. Sólo un instante, por encima del mugido salvaje de las llamas, me pareció reconocer su querida voz. Un grito altísimo, desgarrador, que pronto se desvaneció en la nada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

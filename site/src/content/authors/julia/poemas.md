@@ -2284,6 +2284,3 @@ Burgos. Compiled and translated by Jack Agüeros. Willimantic,
 Connecticut: Curbstone Press, 1997
 Los [ ] contienen los títulos de los poemas que no se incluyen en esta
 selección.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

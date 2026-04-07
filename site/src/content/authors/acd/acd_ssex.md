@@ -220,6 +220,3 @@ Con relación a su carta del 19 de noviembre, tengo el placer de informarle que 
 Le agradezco su recomendación.
 Sinceramente suyo,
 SHERLOCK HOLMES
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

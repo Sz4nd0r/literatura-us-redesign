@@ -168,6 +168,3 @@ Alexey saltó del caballo, entregó las riendas al criado y entró en la casa si
 —¡Akulina, mi querida Akulina —repetía él, besándole las manos. Miss Jackson, testigo de esta escena, no sabía qué pensar. En ese momento se abrió la puerta y entró Grigory Ivánovich.
 —¡Ajá! —dijo Múromsky—. Parece que ya habéis arreglado las cosas…
 Los lectores me excusarán de la innecesaria obligación de describir el desenlace.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

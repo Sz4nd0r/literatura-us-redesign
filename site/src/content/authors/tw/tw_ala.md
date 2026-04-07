@@ -141,6 +141,3 @@ Así que aunque le ofreciera refugio a Julianne, se sentiría falso, melifluo, c
 —No intente volver en coche a su casa —aconsejó Morse.
 Ella puso la mano en el hombro del chico y tiró de él hacia el aparcamiento.
 —Está demasiado cansada —le gritó Morse, pero si ella respondió no pudo oírlo por el repiqueteo de la lluvia en la marquesina metálica. Atravesaron el asfalto. El viento venía en rachas, haciendo la lluvia tan fuerte que Morse tuvo que dar un salto atrás. Julianne recibía la lluvia en plena cara y nunca volvió la cabeza. Tampoco el niño, Charlie. Ella le cuidaría, estuviera preparado o no, mientras andaban bajo la lluvia como si no estuviera lloviendo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

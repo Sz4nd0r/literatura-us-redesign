@@ -44,6 +44,3 @@ Pensó que la lluvia tendría un efecto creador y maravilloso sobre su cuerpo. H
 El hombre de la acera se detuvo y se quedó escuchando. Era un anciano y estaba un poco sordo. Se llevó las manos a la boca y gritó:
 —¿Qué? ¿Cómo dice? —preguntó.
 Alice cayó desplomada al suelo y se quedó allí temblando. Estaba tan asustada de pensar en lo que había hecho, que, cuando el hombre siguió su camino, ella no se atrevió a incorporarse, sino que se arrastró a cuatro patas por la hierba hasta llegar a la casa. Cuando llegó a su habitación, cerró la puerta con llave y apoyó contra ella la mesita del vestidor. Tiritaba como si tuviera escalofríos y le temblaban tanto las manos que tuvo dificultades para ponerse el camisón. Una vez en la cama, enterró el rostro en la almohada y lloró desconsolada. “¿Qué es lo que me ocurre? Como no vaya con cuidado acabaré haciendo alguna barbaridad”, pensó y, volviéndose hacia la pared, trató de afrontar con entereza la idea de que mucha gente se ve obligada a vivir y morir sola, incluso en Winesburg.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

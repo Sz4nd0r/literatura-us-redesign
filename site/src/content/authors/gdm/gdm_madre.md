@@ -94,6 +94,3 @@ Una profunda piedad por ella y por ellos invadió mi alma. Exclamé:
 Mi amigo prosiguió:
 —No la compadezcas, querido. A quien hay que compadecer es a los pobres pequeños. Ahí tienes los resultados de las cinturas finas hasta el último día. Estos monstruos se fabrican con el corsé. Ella sabe de sobra que arriesga su vida en este juego. ¡Qué le importa, con tal de ser hermosa y amada!
 Y me acordé de la otra, la campesina, la Diabla, que vendía sus fenómenos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

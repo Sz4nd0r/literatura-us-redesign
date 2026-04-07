@@ -502,6 +502,3 @@ después publiqué un libro de cuentos, y hace poco terminé de escribir
 mi primera novela.
 A Erika le dije:
 —Vámonos a comer ese pollo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

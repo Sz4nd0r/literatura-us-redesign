@@ -193,6 +193,3 @@ No pretendo con estas notas ni siquiera haber arañado la superficie de lo que h
 Calaceite, 1971
 Notas:
 [*] Autor de la Historia personal de la literatura chilena. Porque creo que el género «historia personal» creado por él es efectivo, lo he empleado en el título de este libro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -116,6 +116,3 @@ peligro su vida? Y el empresario creyó distinguir —en aquel sueño
 aparentemente tranquilo en el que había desembocado el llanto— las
 primeras arrugas que comenzaban a insinuarse en la frente infantil y
 tersa del artista del trapecio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

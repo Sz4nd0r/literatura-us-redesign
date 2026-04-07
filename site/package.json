@@ -5,7 +5,7 @@
     "description": "Modernized Literatura.us",
     "main": "index.js",
     "scripts": {
-        "build": "npx @11ty/eleventy",
+        "build": "npx @11ty/eleventy --incremental",
         "start": "npx @11ty/eleventy --serve --incremental",
         "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
     },

@@ -125,6 +125,3 @@ El príncipe Akuli guardó silencio. Con un gesto de alivio, se quitó el lei de
 Guardó silencio mientras dejábamos atrás más de un kilómetro de pastos que se convirtieron en una plantación de caña de azúcar.
 —La tengo yo —dijo—. Y junto a ella está Keola, muerto antes de tiempo y convertido en la punta de una lanza por el amor de una mujer cuya tibia permanece a su lado. A ellos, a esos pobres y conmovedores huesos, debo más que a ninguna otra cosa o persona. Llegaron a mi poder en el punto álgido de mi adolescencia. Sé que cambiaron el curso de mi vida y mi forma de pensar. Me aportaron una modestia y una humildad gracias a las que la fortuna de mi padre no ha logrado nunca seducirme.
 »Y a menudo, cuando alguna mujer ha estado a punto de hacerse con el dominio de mi mente, he ido en busca de la tibia de Laulani. Además, cuando la hombría me ha llevado a sentirme excesivamente orgulloso y ansioso, he consultado la punta de lanza que es lo que queda de Keola, veloz corredor, luchador potente, amante y ladrón de la esposa de un rey. La contemplación de ambos huesos siempre me ha sido de gran ayuda y podríamos decir que en ellos he fundado mi religión… o mi forma de vivir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

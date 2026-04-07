@@ -70,6 +70,3 @@ Al día siguiente, en el Gran Almacén, la compañera de Masie, Lulú, la acorra
 —¿Ese? —dijo Masie tocándose los rizos laterales—. Ya no tiene nada que hacer. A ver, Lulú, ¿qué crees tú que quería ese tipo que hiciera yo?
 —¿Que te metieras en la farándula? —aventuró Lulú sin aliento.
 —Qué va; ese individuo es demasiado barato para eso. ¡Pretendía que me casara con él y que bajásemos a Coney Island para el viaje de novios!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -34,6 +34,3 @@ De hecho, ahora que acabo de fijar los ojos en ella, siento haber dado con una t
 —¿Sí?
 —Aunque de qué sirve comprar el periódico… Nunca pasa nada ¡Maldita guerra!… Como sea, no veo por qué deberíamos tener un caracol en la pared.
 Ah, ¡la marca en la pared! Era un caracol.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

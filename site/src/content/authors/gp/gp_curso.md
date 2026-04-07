@@ -112,6 +112,3 @@ F. P.S. Ésta es tu última oportunidad.
 Al cabo de dos semanas recibí un billete de cien dólares.
 Una semana después me encontré junto a la puerta de mi casa un paquete cuidadosamente envuelto que contenía una cartera de piel cosida a mano en Italia y un proyector con una caja de diapositivas que mostraban interesantes panorámicas de Europa y el Norte de África.
 Eso fue lo último que supe de ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

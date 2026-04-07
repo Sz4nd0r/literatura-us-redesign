@@ -154,6 +154,3 @@ Jamás volví a cruzarme con el señor X después de aquella noche. Volví a cen
 Su entusiasmo hizo chirriar mis sentimientos más delicados. Le dije bruscamente que el cinismo del señor X era sencillamente repugnante.
 —¡Oh, repugnante! ¡Repugnante! —confirmó mi amigo efusivo—. Y encima a veces le gusta gastar pequeñas bromas —agregó en tono confidencial.
 No supe qué me quiso decir con aquella última observación, y hasta hoy he sido completamente incapaz de averiguar en qué punto habría podido tratarse de una broma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

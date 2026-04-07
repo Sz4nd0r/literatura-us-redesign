@@ -192,6 +192,3 @@ mi intención ni mucho menos mi objetivo. Yo quería contar mi vida. No
 que a través de mi vida se contara la historia de Nicaragua. Creo que es
 algo sin remedio: formo parte de esa historia y no puedo prescindir de
 ella para hablar sobre mi vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

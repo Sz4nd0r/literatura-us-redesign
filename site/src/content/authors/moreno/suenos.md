@@ -434,6 +434,3 @@ quiere revelarme que mi último castigo consistirá en narrar a una cara
 desconocida (¿la de Dios, la de algún auditor mortal?) mi propia
 historia. Como una penitencia lo consumo, prometiéndome que mi culpa
 extrema no será meramente literaria, sino confesional.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

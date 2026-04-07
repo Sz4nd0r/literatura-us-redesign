@@ -350,6 +350,3 @@ Bajó despacio de laverja con un aire de incredulidad. Por supuesto, yo era supe
 —¿Te los dio el cura?
 —Sí, señorita.
 —¡Santo Cielo! —rezongó amargamente— ¡qué suerte tiene alguna gente! No es ninguna ventaja ser buena. Es mejor ser un pecador como tú.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

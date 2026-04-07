@@ -185,6 +185,3 @@ Esto es todo lo que se puede decir de él.
 ¿Y los Turkin? Iván Petróvich no ha envejecido, no ha cambiado nada y como antes sigue siendo ingenioso y cuenta historias divertidas; Vera Iosifovna lee gustosa a sus invitados sus novelas, tan simples y afables como antes. Y Kótik toca el piano cada día, unas cuatro horas. Ha envejecido notablemente, cae enferma a menudo y cada otoño va con su madre a Crimea. Al acompañarlas a la estación de tren, Iván Petróvich, cuando parte el tren, se seca las lágrimas y grita:
 —¡Váyanse, por favor!
 Y agita su pañuelo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

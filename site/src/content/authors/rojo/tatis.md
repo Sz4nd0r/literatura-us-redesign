@@ -342,6 +342,3 @@ a una gran patria, de que no navegamos solos; necesitamos la certidumbre
 der que individualmente hemos hecho parte de una gran historia y cultura
 colectivas; necesitamos, en fin, saber más de nosotros mismos, los
 pueblos del mar”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

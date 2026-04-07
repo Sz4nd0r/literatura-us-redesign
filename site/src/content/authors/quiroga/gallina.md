@@ -316,6 +316,3 @@ entres!
 Berta alcanzó a ver
 el piso inundado de sangre. Sólo pudo echar sus brazos sobre la cabeza y
 hundirse a lo largo de él con un ronco suspiro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

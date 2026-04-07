@@ -148,6 +148,3 @@ Cuando alcanzaron el límite de la ciudad el coche fúnebre avanzaba de prisa. P
 —¿Qué? —dijo Stevens.
 —Eso es lo que dije yo —dijo el director—. Y ella volvió a preguntarme: “¿Va a ponerlo usted en el periódico? Quiero que salga todo en el periódico. Todo”. Y yo tuve ganas de decirle: “Y en caso de que yo supiera cómo murió en realidad, ¿querría que lo pusiera igualmente?” Y, por Júpiter, si le hubiera dicho eso, e incluso si ella hubiera sabido lo que nosotros sabemos, creo que habría dicho sí. Pero no lo dije. Lo que dije fue: “Vamos, abuela, usted no podría leerlo”. Y ella dijo: “La señorita Belle me dirá dónde mirar, y yo lo miraré. Usted póngalo en el periódico. Todo”.
 —Oh —dijo Stevens—. “Sí —pensó—. Ahora ya no le importa. Tuvo que ser y ella no pudo evitarlo, así que ahora, una vez que todo ha terminado, que todo está hecho y zanjado, ya no le importa cómo murió. Quiso que volviera a casa, pero quiso que volviera a casa como es debido. Quiso aquel ataúd y aquellas flores y aquel coche fúnebre, y quiso seguirlo a través de la ciudad en otro coche”—. Vamos —dijo—. Volvamos. No he visto en dos días mi mesa de despacho.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

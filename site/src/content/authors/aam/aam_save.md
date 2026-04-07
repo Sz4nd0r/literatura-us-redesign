@@ -309,6 +309,3 @@ Si la muchacha venía a buscarla, aún estarían todos allí. La discreción de 
 Pero la chica no vendría. Conseguiría ofertas mucho mejores antes de que pasara diez minutos junto a la carretera. Ofertas más peligrosas, tal vez, pero también más interesantes y sin duda más beneficiosas.
 La muchacha no vendría. A no ser que se topara con un gandul de su edad, sin casa ni corazón. (Sé donde hay un sitio en el que nos podemos quedar, si nos quitamos de encima a la vieja).
 Esta noche no, pero a la noche siguiente Eve se acostaría en su casa vacía, con sus paredes de cartoné que la envolverían como un armazón de papel, deseando olvidarse de las preocupaciones, liberada de cualquier consecuencia, sin nada en la cabeza salvo el susurro del maíz, alto y profundo, que quizá ya hubiera dejado de crecer, pero que todavía, en la oscuridad, emitía un ruido lleno de vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -52,6 +52,3 @@ El viento sembró en el mar las risas festivas.
 El mocetón cubrió indolentemente a la mujer con el faldón de su armiak [abrigo tradicional ruso, de tela basta, con capucha y sin botones] y, desencajando sus redondos ojos de chiquillo, dijo, mirando al frente:
 —¡En cuanto lleguemos a casa, todo irá de maravilla! ¡Ay, Maria, ya verás qué bien nos va!
 El sol de alas de fuego volaba hacia occidente; las nubes lo perseguían, pero no le daban alcance, y se asentaban en las cumbres nevadas sobre las negras aristas de las montañas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

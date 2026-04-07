@@ -103,6 +103,3 @@ No hubo contestación alguna.
 —¡Charles!
 El anciano estremecido se incorporó
 y corrió bamboleándose débilmente hacia la puerta. Estaba abierta. Por ella llegaba el tumulto de una gran ciudad que despierta, y entre este tumulto las pisadas del hijo pródigo que se perdían a lo lejos, para siempre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

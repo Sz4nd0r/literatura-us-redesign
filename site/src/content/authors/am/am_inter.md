@@ -101,6 +101,3 @@ Meses después me encontré con Antonio, el mayordomo, y le pregunté:
 —¡Qué Pandolfi ni qué ocho cuartos!... Se casa con un príncipe meridional, un viejo chocho que podría ser su abuelo..., pero muy rico, dicen que posee media Calabria... En resumen, el agua va al mar.
 —¿Sigue tan bella?
 —Un ángel.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

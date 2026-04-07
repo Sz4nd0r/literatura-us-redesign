@@ -64,6 +64,3 @@ Fui al living a ver la televisión. Ahora la aventura era de todos. La tragedia 
 Al día siguiente hubo otro vuelo LH 303. Todos compramos todos los diarios de Italia y nos sentamos con los gruesos bultos de papel en las rodillas. Estábamos otra vez en la antesala. Rumbo a la pista del despegue, un remolcador arrastraba lentamente el jet PANAM. Lentos, fúnebres, lo seguían una ambulancia y dos carros bomba.
 En el aeropuerto de München, un hombre se acercó a la actriz con un ramo de flores y ella hizo como que no advertía la presencia del fotógrafo. La prensa alemana daba la última pátina de notoriedad, el detrito final del verdadero pánico.
 Entonces a casa. A contarlo. Y a contarlo y contarlo. Hasta olvidarlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

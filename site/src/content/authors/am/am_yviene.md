@@ -98,6 +98,3 @@ En ese momento se producirá un breve silencio; después la voz de la niña dir�
 —Es tarde, me vuelvo con mamá. Adiós.
 Me volveré, y la niña, ya enfundada en su piel sintética, vendrá a echarme los brazos al cuello, a besarme en las mejillas. No devolveré los besos; le abriré la puerta, la veré irse por el rellano; notaré, una vez más, que cojea.
 Esta fantasía me vuelve a diario y yo, reiterándola, la profundizo, la enriquezco. Ahora, por ejemplo, mientras me cocino un par de huevos en la hornilla, imagino que en vez de la niña, quien toca el timbre de mi puerta es la estudiante del primer piso, una hermosa muchacha pálida, de ojos verdes. Vendrá con un pretexto cualquiera, charlaremos, ella se quedará, todo terminará del modo previsto y previsible. Después, en el momento de máximo abandono, veré que le cuelga sobre el pecho el pendiente de la garra negra. Y cuando totalmente desnuda vaya de la cama a la ventana y, mirando afuera, exclame: “¡Qué hermosa terraza tienes, cuántos lindos tiestos de flores, qué magnífico campanario!”, advertiré que cojea un poco. Cojeando girará por la pieza, como hacen a veces las mujeres en casa de un hombre nuevo, después abrirá el cajón…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

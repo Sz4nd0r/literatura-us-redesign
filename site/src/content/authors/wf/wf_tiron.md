@@ -298,6 +298,3 @@ nuevo, más seguro, un Hispano-Suiza («Hisso»). Eran aviones que despedían gr
 cantidades de humo.
 [6[ Por tanto, de escasa potencia (los motores tienen cuatro cilindros, pero suele fallar
 uno), lo que hace que aumente el peligro inherente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -88,6 +88,3 @@ A la vuelta, naturalmente, estábamos mohínos. Alguien dijo:
 Pero Alessandro, más juicioso, contestó:
 —¡Qué catafalco ni que ocho cuartos! Fue culpa nuestra... ¿Sabéis lo que haremos la próxima vez? Traeremos a unas muchachas..., las mujeres son amables y con ellas no ocurren ciertas cosas.
 Nos despedimos en Roma sin decir una palabra, de mal humor. El coche tenía el parachoques y uno de los faros destrozados; y Teodoro, un labio partido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

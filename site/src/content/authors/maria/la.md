@@ -763,6 +763,3 @@ Pero, nacidas de su cuerpo, sentía una infinidad de raíces hundirse y esparcir
 Y ya no deseaba sino quedarse crucificada a la tierra, sufriendo y gozando en su carne el ir y venir de lejanas, muy lejanas mareas; sintiendo crecer la hierba, emerger islas nuevas y abrirse, en otro continente la flor ignorada que no vive sino un día de eclipse. Y sintiendo aún bullir y estallar soles, y derrumbarse, quien sabe adónde, montañas gigantes de arena.
 Lo juro. No tentó a la amortajada el menor deseo de incorporarse. Sola, podría, al fin, descansar, morir.
 Había sufrido la muerte de los vivos. Ahora anhelaba la inmersión total, la segunda muerte: la muerte de los muertos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

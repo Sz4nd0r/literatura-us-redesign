@@ -201,6 +201,3 @@ Lo ayudó a iniciar un cerro de arena.
 —Y por eso usted está tan contenta, ¿no es cierto?
 —Sí —respondió la mujer joven, pero ya algo ajada—. Su familia se aburría aquí.
 El niño habló poco el resto del verano. Sus padres estaban ocupados de otras cosas y no lo notaron. Sólo notaron cuánto había crecido. A veces Raúl cantaba para su primo Antonio, pero éste se desligaba: en realidad prefería jugar al caballo. Pía dijo que esos cantos no estaban de moda, y además, a ella le gustaban las canciones con palabras. Todos tenían los gustos muy marcados, eran muy «persona», como decían los grandes. Raúl pasó casi todo el resto del verano sentado en la arena, solo, tarareando algo que nadie conocía. Con el perfil fijo en el horizonte, parecía aguardar a alguien, algo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -61,6 +61,3 @@ Pero dado que ella valoraba sus libros, lo toleró con una sonrisa.
 —Lo haré de su parte.
 —¡Gracias! —dijo él, y una oleada de esperanza lo confundió por un instante—. ¡Ahora voy a cenar como un lobo!
 Sí, mantenía cierta relación con la vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

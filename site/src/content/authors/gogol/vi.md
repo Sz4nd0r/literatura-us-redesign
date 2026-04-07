@@ -317,6 +317,3 @@ El joven filósofo, que disfrutaba de sus nuevas prerrogativas con tan ferviente
 —¡Jomá era un tipo excelente! —dijo el campanero cuando el tabernero cojo le puso delante la tercera jarra—. ¡Un hombre notable! Y fíjate cómo ha acabado.
 —Yo sé por qué murió: porque tuvo miedo. Si no lo hubiera tenido, la bruja no habría podido hacerle nada. Le habría bastado con santiguarse y escupirle en la cola para salir indemne. Sé lo que digo: en Kiev, todas las mujeres del mercado son brujas.
 El campanero movió la cabeza en señal de asentimiento. Pero al darse cuenta de que su lengua no era capaz de articular palabra, se levantó no sin esfuerzo y, con paso vacilante, se internó en la maleza y se tumbó en el lugar más apartado. Fiel a su inveterada costumbre, no se olvidó de llevarse una vieja suela de bota que había tirada en un banco.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

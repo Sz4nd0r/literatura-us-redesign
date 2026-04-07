@@ -139,6 +139,3 @@ en novelas como El villorrio, La ciudad y La mansión con el nombre de V. K. Rat
 En otros relatos, como éste, y en novelas como Mientras agonizo y Sartoris, se llama
 Suratt. El nombre se cambió por el de Ratliff porque existía una persona real llamada
 Suratt.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

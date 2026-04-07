@@ -122,6 +122,3 @@ Dije que subiría al techo de la lancha para ver la llegada, pero creo que mi co
 Nos acercamos a la línea verde de la ribera, matizada ahora de verdes y de árboles distintos, y de movimiento. De cuando en cuando aparecían pequeños muelles, casas sostenidas en pilotes sobre el agua, hombres de torso desnudo y sombrero blanco pasando de la sombra al sol. Un pájaro gritó en la selva: la línea de la nota se alzó larga y clara, recogiendo en sí todos los ruidos, porque hubo un silencio después. Tras un recol-do boscoso, vi alzarse las torres azules de la iglesia de Tlacotlalpan sobre los árboles y las techumbres.
 No sé cuánto estuve allí, contemplando. Después recordé la advertencia de Mrs. Howland respecto al sol. Bajé, pedí una cerveza, y aguardé hasta que la lancha atracó. Al verme desembarcar los muchachos del pueblo me gritaron:
 —¡Güero! ¡Güero! ¡Güero!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

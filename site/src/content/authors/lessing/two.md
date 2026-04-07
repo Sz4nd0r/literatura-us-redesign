@@ -261,6 +261,3 @@ Sus rostros estaban a pocos centímetros de distancia, se miraban con hostilidad
 Cuando salió, deslizó la chaqueta sobre los hombros de Stella sin tocarla, y le dijo:
 —Vámonos, te llevaré en el coche.
 Caminó delante de ella hacia el coche, y ella lo siguió, sumisa, por el césped áspero. Era una noche realmente hermosa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

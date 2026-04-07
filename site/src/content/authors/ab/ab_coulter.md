@@ -84,6 +84,3 @@ El oficial del estado mayor retrocedió un paso y el asistente, dos.
 —Esta casa me pertenece, señor —fue la réplica, deliberadamente cortés.
 —¿Le pertenece? ¡Ah, entiendo! ¿Y éstos?
 —Mi mujer y mi hija. Soy el capitán Coulter.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

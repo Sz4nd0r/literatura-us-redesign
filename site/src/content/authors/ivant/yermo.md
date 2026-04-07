@@ -137,6 +137,3 @@ Ambos guardamos silencio.
 Una bandada de patos salvajes pasó silbando sobre nuestras cabezas, y los oímos aterrizar sobre el río cercano. Estaba bastante oscuro y comenzaba a hacer frío; en el bosque un ruiseñor cantaba con ganas. Nos metimos entre el heno y nos dispusimos a dormir.
 Nota del Autor:
 [1]. Términos que resultarán conocidos a los cazadores de ruiseñores: se utilizan para indicar las “partes” más hermosas del canto del ruiseñor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

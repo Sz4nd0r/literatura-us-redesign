@@ -128,6 +128,3 @@ Volskaya seguía callada. Alexey Ivánovich repitió la pregunta.
 —¿No me engaña? Píenselo: engañarme sería demasiado cruel, más cruel que la propia condición…
 Volskaya lo miró con ojos penetrantes y ardientes y contestó con voz firme: No.
 Alexey Ivánovich se puso de pie y desapareció inmediatamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

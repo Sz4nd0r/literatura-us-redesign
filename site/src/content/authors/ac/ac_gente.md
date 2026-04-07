@@ -90,6 +90,3 @@ A las cinco de la madrugada, el estudiante se despidió con ternura de todos e i
 —Adiós, me voy —le dijo el hijo.
 —Adiós… El dinero está sobre la mesita redonda… —le respondió el padre sin volverse.
 Cuando el mozo le conducía a la estación, caía una lluvia fría y desagradable. Los girasoles inclinaban más aún las cabezas y la hierba parecía más oscura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

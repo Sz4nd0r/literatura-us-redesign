@@ -82,6 +82,3 @@ El plan me pareció un tanto arriesgado. Aparecer de repente con un montón de n
 Entonces sonó el batintín para la cena.
 —Suba después a mi habitación —dijo Frau Fischer—. Tengo todavía muchas preguntas que hacerle.
 Me apretó fuertemente la mano, pero yo no respondí con la misma efusión.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

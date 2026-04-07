@@ -143,6 +143,3 @@ Había sido un año atrás; mientras él se encontraba en el extranjero, la niñ
 —Ya sé que la tienes.
 La niña dijo, locuazmente:
 —Después de que me operaron, le dije a mamá: ahora tengo la herida, como tú. Entonces, ¿me harás el retrato?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

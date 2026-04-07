@@ -236,6 +236,3 @@ Violet Grey, sin dejar de mirarle, se rio y le invitó a pasar al comedor.
 La cena le agradó mucho, pero estuvo silencioso y un poco solemne. Dijo que iría a ver a la señora Alsager al día siguiente. Y así lo hizo, pero en la casa le dijeron que había regresado a Torquay. Allí se quedó todo el invierno, toda la primavera, y cuando la volvió a ver la obra llevaba ya doscientas representaciones y él se había casado con Violet Grey. Sus obras a veces son un éxito, pero en ellas no sale ahora su mujer, como tampoco en otras. La señora Alsager sigue siendo una asidua de estas funciones.
 N. del T.:
 [1] Hansom: coche de dos ruedas tirado por un solo caballo, con una caja con dos asientos. A diferencia de otros carruajes de alquiler (más pesados y menos «distinguidos», como el cab o el four-wheeler, ambos de cuatro ruedas), el hansom tenía el pescante en lo alto de la parte trasera, detrás de la caja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

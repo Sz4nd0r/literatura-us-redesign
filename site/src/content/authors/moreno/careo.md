@@ -73,6 +73,3 @@ Ella tuvo un acceso ambiguo, que acudió a verter deponiendo la cabeza en el pa�
 —Dijo que iba a matarme a mí —gimoteó la mujer, que parecía derrumbarse.
 —Y bueno —dijo Basilio, sonriendo hacia el juez, como si aquel complemento agenciase la prueba de su inocencia—. Dije que iba a matarte y, sin embargo (extendía hacia ella, demostrativamente, las palmas de las dos manos), ¿no estás ahí? ¿No-Estás-Ahí?
 Estaba ahí, en efecto, y el hijo muerto, con una sonrisa de dientes salteados y apoyando su mayor y quebradiza estatura en los hombros de los dos vareadores, estaba en una foto en sepia, con las esquinas rotas, en el bolso donde la mujer sumergió definitivamente el pañuelo. Había visto ahora la cara del juez, mientras Basilio quería reforzar con esas manos la imagen de su mansedumbre, y había comprendido que los nueve años del fiscal estaban puestos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

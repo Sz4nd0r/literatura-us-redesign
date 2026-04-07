@@ -45,6 +45,3 @@ Mi madre estaba allí con él, en la mesa de la cocina. Intentaba escribir una c
 —Cariño —le propuse a Myrna la noche en que volvió al hogar—. ¿Qué tal si nos magreamos un rato y luego preparas una cena apetitosa de verdad?
 Y Myrna dijo:
 —Lávate las manos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

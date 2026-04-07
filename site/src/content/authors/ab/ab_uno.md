@@ -59,6 +59,3 @@ Este piquete de tiradores atravesó rápidamente la plantación dirigiéndose a 
 Está tan cubierto de polvo que sus ropas son del gris confederado. Tiene el rostro de un blanco amarillento; las mejillas hundidas; las sienes sobresalen con unos bordes angulosos dando a la frente una estrechez lúgubre; el labio superior, levemente alzado, descubre los dientes blancos, rígidamente apretados. El pelo está enteramente impregnado de sudor y el rostro tan húmedo como la hierba cubierta de rocío. Desde donde se encuentra, el oficial no advierte el fusil; en apariencia, el hombre había muerto por el derrumbamiento del edificio.
 —Muerto hace una semana —dijo el oficial lacónicamente.
 Siguió su camino, consultando su reloj con aire ausente, como para verificar su cálculo de la hora. Las seis y cuarenta minutos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

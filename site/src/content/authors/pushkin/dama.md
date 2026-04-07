@@ -260,6 +260,3 @@ CONCLUSIÓN
 Hermann perdió el juicio. Está internado en la clínica Obujovskaya, en la habitación número 17, no contesta a las preguntas y repite con asombrosa rapidez: “¡El tres, el siete, el as! ¡El tres, el siete, la dama…!”.
 Lizaveta Ivánovna se ha casado con un joven muy amable; tiene un puesto en alguna parte y posee una considerable fortuna: es hijo del antiguo administrador de la vieja condesa. Lizaveta Ivánovna tiene de pupila a una pariente pobre.
 Tomsky ha ascendido a capitán y se va a casar con la princesa Polina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

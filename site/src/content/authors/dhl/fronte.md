@@ -237,6 +237,3 @@ Katharine le oyó, con una punzada de pánico. Como conocía el castillo, subió
 —¡No, no! Un hombre se olvida hasta del forro de sus pantalones cuando ve juntos a la mujer y al fantasma.
 Los dos vagabundos se volvieron y se fueron, lentamente, colina arriba.
 Katharine sintió la caricia de Alan en su brazo bajo el viejo y despedazado castillo. Él la condujo a través del bosque, paseando por las rocas rojizas. El sol se había puesto, los árboles estaban azules. Él se rezagó bajo un gran pino, en la umbría. Y de nuevo la poseyó deprisa, y apretó su frío rostro contra el de ella, como si el mismo árbol estuviera creciendo a su alrededor, la dura y viva madera comprimiéndola y casi devorándola, las agujas afiladas frotando su cara, los miembros del árbol viviente envolviéndola, estrujándola en el éxtasis final, en sumisión, extrayendo de ella hasta la última gota de pasión, como las frías bayas blancas del muérdago en el árbol de la vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

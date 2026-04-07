@@ -312,6 +312,3 @@ Lynette había apagado las luces al abandonar la casa, y ahora la oía detrás d
 A continuación, soltó un grito, pero claramente era de placer. Me pareció oír sus cuerpos crujiendo, o quizá solo eran los peldaños de madera debajo de ellos, las viejas y desgastadas tablillas que soportaban su peso.
 Después de aquello, se subieron al coche. Se oyeron portazos. Pero solo recorrieron unos pocos metros y se detuvieron. El claxon aulló un segundo. Supongo que lo pulsaron en un arrebato de pasión. De vez en cuando se oía el rugido de la calefacción. Era una madrugada fría y austera.
 En algún momento de aquella mañana, volví a meter el relleno dentro de las tartas con una cuchara, uní bloques de masa, alisé los bordes con el dedo humedecido, rematé los repulgos e incluso el merengue sobre las bayas o los pasteles. Trabajé con sumo cuidado. Pero una vez destrozadas, ya no hay forma de arreglarlas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

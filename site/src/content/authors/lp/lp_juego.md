@@ -112,6 +112,3 @@ Gigi Venanzi sintió que se hundía la tierra bajo sus pies, que se le secaba la
 —Cuidado, Gigi, que no llegas a tiempo, si tienes que estar en el lugar del duelo a las siete. Te conviene ser puntual.
 Luego, desde lo alto de la escalera, todavía con los pantalones en la mano, le deseó:
 —¡Y buena suerte, querido, suerte!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

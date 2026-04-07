@@ -232,6 +232,3 @@ Observo entonces, con placer, que aquellos que me suponían agriado se retiran c
 Y así pasan los años. De mi ineptitud se desprende una filosofía implacable, serena, destructiva:
 —¿Para qué afanarse en estériles luchas, si al final del camino se encuentra como todo premio un sepulcro profundo y una nada infinita?
 Y yo sé que tengo razón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

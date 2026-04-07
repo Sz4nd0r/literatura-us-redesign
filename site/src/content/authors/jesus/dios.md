@@ -125,6 +125,3 @@ querer quedarse. Tienes que irte, caballo.
 —¡Vayan todos al carajo, oyeron! ¡Yo me quedo!
 —Pero mulato...
 —¡Vayan al carajo!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

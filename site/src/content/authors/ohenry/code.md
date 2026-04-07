@@ -298,6 +298,3 @@ por semana —dijo Scott.
 —Muy bien —dijo Vesey—. Algo es algo. Dígame...
 Mr. Scott, ¿qué expresión le gusta más: “Estamos en condiciones de afirmar sin
 temor a equivocarnos” o “En general, puede aseverarse con certeza”?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

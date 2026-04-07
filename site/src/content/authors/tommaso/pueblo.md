@@ -40,6 +40,3 @@ mil amores —él mismo me lo confesó— la cambiaría por otra, incluso más m
 en la asamblea de las letras patrias: ¡Debilidad de hombres ilustres! (En efecto, hay
 que saber que Móntale es autor de dos libritos de poemas, no carentes ciertamente de
 valor, si bien alejados de la excelsitud que ha alcanzado en los escenarios líricos.)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

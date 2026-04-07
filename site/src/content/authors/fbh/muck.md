@@ -238,6 +238,3 @@ tal superchería, y se negó a casarse con Genevra, que murió, veinte años
 después, de una enfermedad del corazón. El juez Tompkins perdió su fortuna. El
 coche-correo pasa dos veces por semana junto a la desierta cabaña de Donner
 Lake. Así fue vengada la muerte de Muck-a-Muck.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

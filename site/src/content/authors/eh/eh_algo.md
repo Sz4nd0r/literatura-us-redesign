@@ -156,6 +156,3 @@ Se levantó.
 —Bueno; adiós, entonces.
 —Adiós —dijo Nick. Partió por el camino hundido hacia donde había dejado la bicicleta. Por la tarde, el camino estaría umbroso, después de haber pasado el canal. Más a los lados del camino, había árboles, que no habían sido bombardeados. Era en ese trecho donde habían pasado marchando, al lado del Tercer Regimiento de Caballería, “Savoia”, que cabalgaba por la nieve con sus lanzas en ristre. El aliento de los caballos hacía plumas en el aire. No; eso fue en otra parte. ¿Dónde?
 —Mejor sería que montara en esa maldita bicicleta —dijo Nick—. No quiero perder el camino a Fornaci.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -37,6 +37,3 @@ Dulcemente agresivo, se hallaba de pie, solo en medio de los demás, con el cora
 Hasta que, surgiendo de lo más hondo del ser, de una fuente oculta en él manó la verdad. Que en seguida lo llenó de miedo y también de un orgullo que no había sentido nunca. Se había...
 Se había hecho hombre.
 Felicidade clandestina (1971)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

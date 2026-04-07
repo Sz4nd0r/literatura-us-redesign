@@ -84,6 +84,3 @@ Y entonces fue cuando las vi, cuando vi las piedras. Era como un pequeño nido d
 Eché el brazo para atrás y chillé: «¡Ahora!» Y lancé a aquella hija de perra tan lejos como pude.
 —No sé —le oí gritar—. No suelo fotografiar cuerpos en movimiento.
 —¡Otra vez! —vociferé, y cogí otra piedra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

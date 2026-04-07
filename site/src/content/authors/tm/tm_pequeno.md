@@ -227,6 +227,3 @@ Y entonces, de repente, con un impulso, con una carcajada breve, altiva y llena 
 ¿Qué se le pasaría por la cabeza para hacer lo que finalmente hizo? Tal vez fuera ese mismo odio voluptuoso que había sentido cuando ella lo humillaba con sus miradas el que ahora, cuando yacía en el suelo tras haber sido tratado como un perro, degeneró hasta convertirse en una furia delirante a la que tenía que abrir paso, aunque fuera en contra de sí mismo… O tal vez fuera una repugnancia por su propia persona la que lo invadió con el ansia de destruirse, de desgarrarse en pedazos, de extinguirse…
 Tumbado de bruces, se impulsó un poco más hacia delante, levantó el torso y lo dejó caer en el agua. No volvió a levantar la cabeza. Ni siquiera movió las piernas, que todavía yacían en la orilla.
 Al sonar el chapoteo, los grillos enmudecieron por un momento. Después su canto arrancó de nuevo, el parque siguió emitiendo sus leves susurros y, desde lo alto de la prolongada avenida, llegaba el eco amortiguado de las risas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

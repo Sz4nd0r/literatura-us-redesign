@@ -360,6 +360,3 @@ Fue él quien me acompañó a la estación…
 —¡Es usted incorregible! —le dije a Grojolski, sin poder reprimirme.
 —Sí, soy débil de carácter. Eso es verdad. He nacido así. ¿Conoce usted mi origen? Mi difunto padre traía por la calle de la amargura a un pobre empleado. ¡Lo maltrataba de un modo terrible! ¡Le hacía la vida imposible! En fin… Pero mi difunta madre tenía un gran corazón, venía de una familia modesta, de clase media. Por pura compasión, le tomó cariño a ese empleado. Y claro… Así que yo desciendo… del maltratado. ¿Cómo iba yo a tener carácter? ¿De dónde iba a sacarlo? Bueno, ya es la segunda llamada… ¡Adiós! ¡Vuelva otra vez a visitarnos, pero no le vaya a comentar a Iván Petróvich lo que le he contado!
 Le di la mano a Grojolski y subí de un salto al tren. Él inclinó la cabeza en dirección a mi vagón y se acercó a beber agua de una tina. Sin duda, estaba sediento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

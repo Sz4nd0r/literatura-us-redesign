@@ -154,6 +154,3 @@ Thomas Paine, firme partidario de la Revolución Americana en Common Sense
 anticlerical en The Age of Reason (1794).
 [3] Toda la disquisición sobre el caballo remite, entre otras cosas, al contenido del
 último relato de esta última sección, «Carcasona».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

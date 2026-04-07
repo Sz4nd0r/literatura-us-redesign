@@ -273,6 +273,3 @@ Lord Arthur se acercaba, en efecto, por el jardín, con un gran ramo de rosas am
 —¿Qué le debe usted, mi querido lord Arthur?
 —Pues Sybil —contestó él, ofreciendo las rosas a su mujer y mirándose en sus ojos violeta.
 —¡Qué tontería! —exclamó lady Windermere—. ¡No he oído en mi vida una tontería semejante!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

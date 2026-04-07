@@ -106,6 +106,3 @@ No sentía enojo en su corazón; sin duda la embargaría más tarde, cuando su i
 Bajó las escaleras con paso vacilante y rezagado. Conforme se alejaba, se giró una vez a mirar la imponente fachada del convento, esperando ver una cara familiar o, incluso, una mano que diera débiles muestras de que un corazón fiel aún la apreciaba. Mas sólo vio que las ventanas impolutas la miraban como si fueran muchos ojos fríos, rutilantes y llenos de reproches.
 En el pequeño cuarto blanco encima de la capilla, una mujer estaba arrodillada junto a la cama en la que Adrienne había dormido. Tenía la cara bien hundida en la almohada en su intento por ahogar los sollozos que sacudían su cuerpo. Era Sor Agathe.
 Después de un rato, una lega salió a la puerta con una escoba y barrió las lilas en flor que Adrienne había dejado caer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

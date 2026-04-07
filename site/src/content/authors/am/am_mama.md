@@ -73,6 +73,3 @@ Me fue imposible no preguntar:
 —Exacto, Lopresto.
 Con estas palabras me empujó fuera del despacho y me encontré en el jardín, con el leoncito de falso bronce apretado contra el pecho, desconcertado.
 ¿Han comprendido ustedes? Stefanini había utilizado la carta según mis instrucciones, antes que yo. Y con la misma persona. Les digo la verdad, estaba indignado. Que un pobretón, un desgraciado como yo pudiera recurrir a lo de la carta, pase. Pero que lo hubiera hecho Stefanini, un escritor, un poeta, un periodista, aunque desacreditado, alguien que había leído tantos libros y que incluso sabía francés, me parecía una cosa muy gorda. ¡Qué diablos, cuando uno se llama Stefanini no se hacen ciertas cosas! Pero pensé que también la vanidad había tenido parte en ello. Debía de haber pensado: “Es una hermosa carta, ¿por qué desaprovecharla?”, y se había ido a ver al abogado Zampichelli.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -87,6 +87,3 @@ Esa noche no pude dormir como de costumbre. Había un silencio espeso y fresco a
 —No lo sé bien, Juan, pero algo tiene que ver…
 Así los sorprendí hablando y detuve mi propia respiración esperando que Juan dijera que sí, porque él era él, y embotaba los sentidos y tapaba el piso de tierra donde vivíamos… Además desde entonces estoy seguro de que aun en piso bueno, después de comer y en cualquier latitud del mundo no es posible dejar de oír la maravillosa palabra de Juan Candela.
 (1944)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

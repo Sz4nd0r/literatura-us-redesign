@@ -278,6 +278,3 @@ Yo estaba verdaderamente compungido; puse mi mano sobre su hombro:
 Le miré cara a cara; dudé; estudié la situación.
 —Venga a sentarse conmigo, y se lo diré.
 Le llevé hasta un sofá, encendí otro cigarro y, empezando por la anécdota de aquella única vez que Vereker descendió de las nubes, le referí la extraordinaria serie de acontecimientos que, pese al fulgor del primer momento, me habían mantenido hasta entonces en la oscuridad. Le dije en una palabra lo que hasta aquí he escrito. Él me escuchó cada vez más atento y, a consecuencia de sus exclamaciones, de sus preguntas, pensé, para mi sorpresa, que después de todo no había sido tan inmerecedor de la confianza de su esposa. Experimentar tan bruscamente su falta de confianza le trastornó; pero vi cómo la primera conmoción apagaba lentamente sus latidos y después volvía a crecer en forma esta vez de oleadas de asombro y curiosidad: oleadas que prometían, como pude perfectamente notar, romperse al final con la misma furia que mis más altas mareas. Puedo añadir que hoy en día somos tan víctimas el uno como el otro de un deseo que nada puede apaciguar. El estado de ese pobre hombre me sirve casi de consuelo; hay momentos en que me parece que es mi venganza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

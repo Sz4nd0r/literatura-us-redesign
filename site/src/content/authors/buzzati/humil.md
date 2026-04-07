@@ -81,6 +81,3 @@ Después de esperar y esperar, el padre Celestino vio que al fin la multitud se 
 Para fortuna suya, la blanca figura se acercaba, haciéndose cada vez más grande, hasta llegar precisamente a su litera. El ermitaño se enjugó con el dorso de una mano los ojos perlados de lágrimas, y los alzó lentamente. Miró el rostro del Papa. Y lo reconoció.
 —Oh, eres tú, mi curita, mi pobre curita —exclamó el anciano con irresistible presencia de ánimo.
 Y en la vetusta majestad del Vaticano, por vez primera en la historia, se asistió a la siguiente escena: el Santo Padre y un viejísimo fraile desconocido venido de quién sabe dónde, cogidos de la mano, sollozaban juntos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

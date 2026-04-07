@@ -243,6 +243,3 @@ caminos. Mi abrigo cuelga detrás del coche, pero no puedo alcanzarlo,
 y ninguno de esos enfermos sinvergüenzas levantará un dedo para
 ayudarme. ¡Se han burlado de mí! Basta acudir una vez a un falso
 llamado de la campanilla nocturna para que lo irreparable se produzca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -233,6 +233,3 @@ Pero Lucas no contestó a esto, siguió plantado allí en su lado de la puerta d
 Hizo una prolongada inspiración y luego expulsó el aire mientras se miraban a través de las rejas, empañados los ojos del viejo observándole, inescrutables misteriosos. No había en ellos angustia en realidad y él pensó pacíficamente No solo me derrota, sino que en ningún momento ni por un segundo lo dudó siquiera.
 —Está bien —dijo—. Pero el que yo lo vea no servirá de nada, aunque pudiera apreciar lo de la bala. En fin, piense lo que eso significa. Tengo que desenterrarle, sacarle de aquel hoyo antes de que me cacen los Gowrie y traerle al pueblo para que el señor Hampton pueda mandar a por un especialista a Memphis que pueda aclarar lo de las balas —miró a Lucas, el viejo se asía suavemente a las rejas por el interior de la celda y ni siquiera le miraba a él ya. Hizo de nuevo una inspiración honda—. Pero lo principal es sacarle de allí y llevarle adonde pueda mirarle alguien antes de… —miró a Lucas—. Tendré que ir hasta allí y desenterrarle y volver al pueblo antes de media noche o de la una hasta puede que la media noche sea ya demasiado tarde. No veo cómo voy a poder. No voy a poder.
 —Procuraré esperar —dijo Lucas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

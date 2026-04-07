@@ -309,6 +309,3 @@ acuerdo que fue por esos días, porque en Zapotlán estaban quemando
 cohetes, mientras que por el rumbo donde tiré a Remigio se levantaba una
 gran parvada de zopilotes a cada tronido que daban los cohetes.
 De eso me acuerdo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

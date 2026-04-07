@@ -123,6 +123,3 @@ Pese a lo avanzado de la hora, al otro lado de las ventanas aún había veranean
 Era su última esperanza. Como no obtuvo respuesta, salió. Soplaba el viento, el aire era fresco. Ella no se daba cuenta del viento ni de la oscuridad, caminaba, caminaba… Una fuerza invencible la empujaba y parecía que, si ella se detuviera, algo le daría un empellón por la espalda.
 —¡Inmoral! —balbuceaba maquinalmente—. ¡Infame!
 Se ahogaba, se moría de vergüenza, no notaba dónde ponía los pies, pero lo que la empujaba hacia adelante era más fuerte que su vergüenza, que su razón, que su miedo…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

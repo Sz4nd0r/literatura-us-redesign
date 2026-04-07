@@ -172,6 +172,3 @@ El duque se levantó y besó, amorosamente, a su esposa.
 —Siempre fue tuyo, Cecil.
 —Y se lo dirás algún día a nuestros hijos, ¿verdad?
 Virginia se ruborizó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

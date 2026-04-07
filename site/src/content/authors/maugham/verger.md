@@ -109,6 +109,3 @@ El director se sintió tan sorprendido que se incorporó.
 El director le miró como si fuera un monstruo prehistórico y le dijo:
 —Así, pues, ¿ha sabido usted montar ese importante negocio y amasar una enorme fortuna sin saber leer ni escribir? ¡Bendito sea Dios! ¿Qué hubiera llegado a ser usted, si hubiese aprendido?
 —Probablemente —le contestó míster Foreman con una leve sonrisa— hubiera seguido siendo sacristán de la iglesia de San Pedro, de la plaza Neville.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

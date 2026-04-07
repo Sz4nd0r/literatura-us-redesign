@@ -37,6 +37,3 @@ Kolia marchaba sumiso al lado de su mujer y aventaba suavemente los mostachos de
 Kolia se detuvo en seco y abrió la boca; después se recuperó y dándome un fuerte pellizco me pasó el reloj por debajo de la mano.
 —¿Saco algún provecho de él? —lamentábase desconsolada, alejándose la ruda voz llorosa de madame Schvarts—. Hoy una bestialidad, mañana otra bestialidad. Dime, guiñapo ¿cuánto puede esperar una mujer?
 Llegaron a la esquina y torcieron hacia la Púshkinskaya. Quedé solo, apretando el reloj y de pronto con una claridad jamás experimentada vi las columnas de la Asamblea apuntando hacia lo alto, el follaje iluminado de la avenida y la cabeza de bronce de Pushkin con el difuso refulgor de la luna sobre ella; por primera vez veía lo que me rodeaba en su justa realidad: sosegado y de belleza indecible.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -202,6 +202,3 @@ aquella sonrisa suya:
 que has vuelto?
 —Esa —dije, asintiendo sabiamente— es la
 Voz de la ciudad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

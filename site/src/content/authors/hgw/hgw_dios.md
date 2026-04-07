@@ -70,6 +70,3 @@ El director técnico se puso en pie torpemente. Se pasó los dedos por el cuello
 —¡Pobre Holroyd! Ahora comprendo.
 Luego, casi mecánicamente, se dirigió al interruptor que estaba en la oscuridad y volvió de nuevo la corriente al circuito del ferrocarril. Al hacerlo, el cuerpo chamuscado se soltó de la máquina y cayó de cara hacia adelante. El cilindro de la dinamo rugió alto y claro, y el inducido batió el aire.
 Así terminó prematuramente el culto al Dios de las dinamos, quizá la más efímera de todas las religiones. A pesar de su brevedad también pudo vanagloriarse de al menos un martirio y un sacrificio humano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

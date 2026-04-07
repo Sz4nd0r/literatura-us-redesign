@@ -438,6 +438,3 @@ Beryl nunca había visto una sonrisa como aquélla. ¿Estaría borracho? Aquella
 —Pero ¿entonces por qué demonios has venido? —tartamudeó Harry Kember.
 Pero nadie le respondió.
 Una nubecilla serena pasó ocultando la luna. En aquellos segundos de oscuridad el mar resonó con eco más profundo y agitado. Luego la nube pasó y el sonido del mar volvió a ser un arrullo difuso, como si hubiese despertado de un oscuro sueño. Todo estaba en calma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -114,6 +114,3 @@ Seguían llamándola miss Zilphia Gant. “En cierto modo no puede uno imaginarl
 Tenía cuarenta y dos años.
 —Está gorda como una perdiz —decían las gentes de la ciudad—. Le sienta bien; le sienta bien de verdad.
 —Es natural, teniendo en cuenta lo que disfruto con la comida —decía ella, y se paraba a charlar cuando iba o venía de la escuela can la pequeña Zilphia de la mano, mientras su abrigo abierto, al agitarse al viento, dejaba al descubierto el delantal de costura de hule negro y los destellos rectos y delgados de las agujas sobre su regazo negro y el finísimo dibujo irregular del hilo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

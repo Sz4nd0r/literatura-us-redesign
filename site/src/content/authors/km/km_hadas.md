@@ -71,6 +71,3 @@ La señora B. se dirigió a la ventana, seguida del señor B., y ambos miraron h
 —¡Danos algo que comer! ¡Danos algo que comer! Sin saber cómo, abrieron la ventana.
 —¡Venid a comer! ¡Todos! ¡En seguida! ¡Y tú, nuestro chiquitín! ¡Tú, nuestro hombrecito!
 Pero era demasiado tarde. Los niños se habían transmutado en gorriones nuevamente y no podían oírles ya. Habían salido volando hasta perderse de vista.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

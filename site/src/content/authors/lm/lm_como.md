@@ -253,6 +253,3 @@ Se volvió y levantó el gato de nuevo para acercarlo a las molduras doradas del
 Sólo existía este mundo, esta tierra saqueada y que estaba en manos de un ventrílocuo. De buscar un lugar donde morir, ¿no podría ser éste? Como una vieja lección sobre conocer a tu especie y volver. Tenía miedo y, finalmente, sabía que los que tenían miedo buscaban oportunidades para ser valientes en el amor. Se colocó la flor en la camisa. Vida o muerte. Algo o nada. ¿Quieres algo o nada?
 Se acercó a él con un corazón del que algún día debería desterrar el terror.
 Aquí. Pero no ahora.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

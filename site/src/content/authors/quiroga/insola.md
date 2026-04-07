@@ -227,6 +227,3 @@ hermano materno, fue allá desde Buenos Aires, estuvo una hora en la chacra, y e
 cuatro días liquidó todo, volviéndose en seguida al Sur. Los indios se
 repartieron los perros, que vivieron en adelante flacos y sarnosos, e iban todas
 las noches con hambriento sigilo a robar espigas de maíz en las chacras ajenas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

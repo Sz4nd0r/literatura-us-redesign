@@ -330,6 +330,3 @@ en lugar de una gorra, se cubrió la cabeza con un manguito de señora. Una tía
 mía era muy aficionada al piano, y sacaba la lengua al tropezar con un hombre.
 Además, mi carácter extremadamente irritable induce a sospechas. ¿Por qué las
 buenas ideas acuden a la mente siempre demasiado tarde?...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

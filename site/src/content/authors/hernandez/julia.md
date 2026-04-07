@@ -694,6 +694,3 @@ sentado con los codos apoyados en las rodillas y de pronto escondió la
 cara; en ese instante me pareció tan pequeña como la de un cordero. Yo
 le fui a poner mi mano en un hombro y sin querer toqué su cabeza crespa.
 Entonces pensé que había rozado un objeto del túnel.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

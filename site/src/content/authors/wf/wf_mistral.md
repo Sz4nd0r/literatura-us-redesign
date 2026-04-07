@@ -468,6 +468,3 @@ explicita. Don dice incluso «Beaverette».
 y desvirgó a Evelyn Nesbitt (1884-1967), modelo y corista. El marido de la joven,
 Harry Thaw (1871-1947), lo mató de un tiro en el Madison Square Garden el 25 de
 junio de 1906.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

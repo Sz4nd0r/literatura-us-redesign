@@ -43,6 +43,3 @@ Sintió cómo a su paso se agitaba el polvo, vio el maíz de plata en los campos
 El largo y monótono camino se extendía ante él bajo la luna. Ahora su sombra iba a su espalda, como un perro tras su amo, y más allá de ella quedaba un día de sudor y de trabajo. Y ante él esperaba el sueño y la ocasional comida y otra vez el trabajo; y acaso una chica, cual fúnebre música, vestida de calicó frente al calor. Al día siguiente su sombra siniestra volvería a describir un círculo en torno a él, pero el día siguiente quedaba aún muy lejos.
 La luna navegaba cada vez más alto: pronto se deslizaría por la colina del cielo, recuperando con creces la plata que hubo prestado a árbol y trigo y colina y ondulada y monótona tierra fecunda. Abajo, un establo tomó un perfil de plata de la luna, un silo se convirtió en un sueño soñado en Grecia, los manzanos lanzaron plata como fontanas gesticulantes. La ciudad, planos de luz de luna; las luces del Palacio de justicia, fútiles ante la luna.
 Tras él, trabajo; ante él, trabajo; en torno, todas las viejas desesperanzas del aliento y del tiempo. Las estrellas eran como flores hechas añicos que flotaban en agua oscura y que engullían el oeste; el polvo seguía pegado a sus pies aún húmedos, y descendió lentamente por la colina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

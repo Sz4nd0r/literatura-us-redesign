@@ -240,6 +240,3 @@ superior del salón estaba completamente a oscuras ya.
 Levantando la vista hacia lo
 oscuro, me vi como una criatura manipulada y puesta en ridículo por
 la vanidad, y mis ojos ardieron de angustia y de rabia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

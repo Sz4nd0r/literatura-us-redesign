@@ -211,6 +211,3 @@ Al decirlo, pensaba en que los locos no sufren, y ven las cosas como quieren
 verlas. Pero también pensaba que era posible que mi mujer hubiera dicho la verdad,
 y casi lamentaba no haber visto con mis propios ojos a la Virgen y bajar del
 altar, abrir la vidriera y entregar el collar a mi mujer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

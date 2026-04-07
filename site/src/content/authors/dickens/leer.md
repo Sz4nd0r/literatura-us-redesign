@@ -122,6 +122,3 @@ Venecia y Genova desde el siglo VII en Venecia; los dux genoveses, a los que se 
 “—JAMES, TÚ ME HAS VISTO ANTES, ESTA NOCHE… Y LO SABES.
 “Y murió.”
 Cuando el correo alemán hubo terminado, esperé que comentasen algo de esa extraña historia. Pero todo fue silencio. Miré a mi alrededor y pude ver que los cinco correos se habían ido tan silenciosamente como si la montaña fantasmal los hubiese tragado en sus nieves eternas. A aquellas alturas yo no estaba de humor para seguir sentado solo en aquel escenario sombrío, con un aire helado soplando sobre mí… o, si he de decir la verdad, para estar sentado solo en ningún lugar. Así que volví a entrar en el locutorio del convento, donde encontré al caballero americano dispuesto aún a contar la biografía del honorable Ananias Dodger; la oí de cabo a rabo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

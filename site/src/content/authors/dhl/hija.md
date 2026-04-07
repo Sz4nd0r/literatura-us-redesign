@@ -216,6 +216,3 @@ Y volvió a mirarle con aquellos ojos enormes, angustiados y dubitativos. Y Ferg
 Pero Mabel seguía llorando a lágrima viva.
 —Me siento horrible. Me siento horrible. Siento que no soy nada adecuada para ti —dijo entre sollozos.
 —No, yo te quiero, te quiero —fue lo único que respondió, ciegamente, en un tono de voz que casi la asustó más que su horror a que no la quisiera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

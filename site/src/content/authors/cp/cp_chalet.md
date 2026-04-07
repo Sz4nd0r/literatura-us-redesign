@@ -240,6 +240,3 @@ Cuando cruzamos en tropel el jardín, Ginia me apretó la mano y me susurró que
 verja Ada le estrechó con fuerza la mano, y abrazó a Ginia, besándola.
 Formamos dos grupos. Delante, la señora y los dos viejos; detrás, yo, entre Ada y la rubita. Los escenarios oscuros de las plantas habían perdido en la sombra toda materialidad,
 y el aroma profundo de tierra y de noche estaba solo, bajo las estrellas. Caminaba sin recuerdos, respondiendo apenas a la conversación, anhelando el instante en que estaría solo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

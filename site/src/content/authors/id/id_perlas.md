@@ -102,6 +102,3 @@ La figura minúscula de Alexander, en la ventana de la otra habitación, le dijo
 —Por ahí viene tu tía mayor, con un gran ramo de flores.
 Lenta, muy lentamente, Jensine apartó los ojos del espejo y volvió al mundo del presente. Fue a la ventana.
 —Sí —dijo—, son de Bella Vista —que era como se llamaba la residencia de su padre. Desde la ventana, marido y mujer miraban hacia la calle.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

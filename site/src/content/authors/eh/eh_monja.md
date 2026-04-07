@@ -298,6 +298,3 @@ La religión es el opio del pueblo. Ese dispéptico y pequeño bodeguero creía 
 —Sí —dijo el señor Frazer—. Toquen otra vez La cucaracha. Es mejor que la radio.
 La revolución, pensó el señor Frazer, no es opio. La revolución es una catarsis; un éxtasis que sólo puede prolongarse en la tiranía. El opio entra antes y después. Estaba pensando bien. Demasiado bien.
 Se irían dentro de poco tiempo y se llevarían con ellos La cucaracha. Luego escucharía la radio. Podía escucharse la radio de modo que sólo uno la oía.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

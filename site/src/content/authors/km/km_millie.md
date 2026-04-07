@@ -78,6 +78,3 @@ Los tres se precipitaron fuera, en el momento en que Millie veía a Harrison cru
 —Millie, trae esa condenada linterna.
 Ella corrió descalza, en camisón de dormir, cuyos pliegues le golpeaban las piernas. En un momento salieron tras él como exhalaciones. Y al ver a Harrison a lo lejos y a los tres siguiéndole de cerca, un júbilo extraño y demente sofocó en ella todo lo demás. Se precipitó a la carretera, y allí, riéndose, bailoteando en medio del polvo, agitando su linterna, se puso a gritar:
 —¡Eh, eh! ¡Seguidle, Sid! ¡Cogerlo, Willie! ¡A él, a él! ¡Pegadle un tiro, Sid! ¡Pegadle un tiro!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

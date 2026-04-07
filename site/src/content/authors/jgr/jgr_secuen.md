@@ -140,6 +140,3 @@ transformaban? Y todo en sazón del ser. En el mundo no hay tonterías: la miel
 de lo maravilloso, venida a tales horas de cuentos, el anillo de los
 maravillados. Se amaban.
 Y la vaca —victoria, en sus dondes, por sus pasos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

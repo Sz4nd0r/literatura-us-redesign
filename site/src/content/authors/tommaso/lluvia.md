@@ -75,6 +75,3 @@ Pero aquí, ¡maldición!, de repente, ella se enfadó y, fríamente, señalánd
 —Él, el joven: date por enterado.
 Con lo que estalló en llanto. Me echó los brazos al cuello y sollozaba y gemía. Miraba por la ventana y murmuraba: “Llueve, llueve sin remisión; el cielo está todo cerrado; llueve… Pero aquí, no allí, por amor de Dios. Malo, no debiste hacerme esto…”.
 Un poco de histerismo, naturalmente. ¡Con dos niños pequeños…! Pero nadie me quita de la cabeza que, en el fondo, ella pueda tener razón. En efecto, si dos se quieren, ¿cómo es que no se sueñan las mismas cosas en el mismo instante? O, en términos menos absurdos, ¿a qué se debe el perenne desacuerdo de nuestros humores y hasta de nuestros sentimientos?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

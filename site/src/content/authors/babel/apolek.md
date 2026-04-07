@@ -247,6 +247,3 @@ un gato. Yo me despedí y me fui a dormir a casa de mi judío andrajoso.
 Sobre la ciudad vacilaba la luna sin
 patria. Me fui con ella, y en mí renacieron pensamientos en germen y canciones
 medio olvidadas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

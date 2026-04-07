@@ -134,6 +134,3 @@ Y la madre comprobó que era Ulrich, aunque sus cabellos fueran blancos.
 Él les dejó acercarse; se dejó tocar; pero no respondió nada a las preguntas que le hicieron; y hubo que llevarle a Loëche, donde los médicos constataron que se había vuelto loco.
 Y nadie supo jamás qué se había hecho de su compañero.
 La joven Hauser estuvo a punto de morir ese verano de una enfermedad de languidez que atribuyeron al frío de la montaña.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -193,6 +193,4 @@ eco arrastrando los pies entre las hojas. Me sentía incapaz de
 tomarme en serio el disgusto de mi amigo. Más aún, experimentaba una
 especie de sentimiento de hilaridad, como si todo se hubiese producido
 según un orden preestablecido y superior.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar
+Literatura.us Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

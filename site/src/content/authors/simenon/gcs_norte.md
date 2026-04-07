@@ -607,6 +607,3 @@ Y él, furioso:
 —Pero ¡lárguese, caramba!… ¡Especie de boba!…
 El chófer se volvió, sólo vio a una persona en el coche, quiso detenerse, pero el comisario bajó el cristal y murmuró:
 —Déjeme delante de una buena cervecería… ¡Tengo una sed de ésas!…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

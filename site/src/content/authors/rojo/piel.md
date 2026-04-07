@@ -208,6 +208,3 @@ pasos dignos y profundos dejaré la escalera. Me volveré tras la verja,
 contemplaré la casa: Máximo haciéndome gestos desde el balcón de la
 sala. Y me alejaré pensativo, el recuerdo de tu piel quemando lento y
 parejo, como el mejor Larrañaga.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -61,6 +61,3 @@ A nuestra llegada estuvo a punto de declararse un motín en la pensión. Subí c
 Herr Oberlehrer tuvo la atención de enviarme aquella misma noche un ramo de flores, y Frau Oberregierungsrat me pidió el patrón para un gorrito de niño.
 Al día siguiente el barón había partido.
 Sic transit gloria teutones mundi.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

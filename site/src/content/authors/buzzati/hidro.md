@@ -70,6 +70,3 @@ Finalmente, llegaron algunos fragmentos de conversación hasta los que estábamo
 Después una duda enfrió el entusiasmo. Cada cual pensó en sí mismo, diálogos ansiosos, toda la escalera era una frenética algarabía. “¿Cuál es el nombre? No han conseguido leerlo… Claro que se lee… es un nombre extranjero (todos pensamos en el doctor Stratz, el dentista del ático). No, no… es italiano… ¿Cómo? ¿Cómo? Empieza por T… No, no… por B de Bérgamo… ¿Y después?, ¿y después? ¿La segunda letra? ¿Has dicho U? ¿U de Udine?”.
 La gente me observaba. Nunca vi rostros humanos alterados por una felicidad tan salvaje. Un hombre no pudo resistir y estalló en una carcajada que acabó en una tos cavernosa: era el viejo Mercalli, el de la subasta de alfombras. Comprendí. El cajón con el infierno dentro era para mí, un regalo exclusivo; sólo para mí. Y los demás se habían salvado.
 ¿Qué otra cosa podía hacer? Retrocedí hacia mi casa. Los vecinos me miraban. ¡Con qué alegría me miraban! Abajo, los estertores tétricos del cajón, que lentamente subían por la escalera, se mezclaron con la repentina música de un acordeón. Alguien tocaba La vie en rose.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

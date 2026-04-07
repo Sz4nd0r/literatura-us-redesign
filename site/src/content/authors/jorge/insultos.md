@@ -89,6 +89,3 @@ resulten más laboriosos sean más eficaces. (15-v-70.)
 Publicado
 en Instrucciones para vivir en México, compilado por Guillermo
 Sheridan. México: Editorial Joaquín Mortiz, 1990.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

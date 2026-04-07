@@ -55,6 +55,3 @@ Diego sentía el abrigo áspero de Michele debajo de sus dedos, la sangre que vo
 Y Michele repetía:
 —¡Vaya cuentero, hostia! —con una sonrisa más suelta, como gastando una broma.
 Y los dos compañeros comprendieron que a partir de entonces cualquiera que fuese su destino: sangre, gritos, agotamiento, sentirían sin embargo el gusto sanguíneo de estar vivos y de compartir el dolor como el pan. Un áspero sabor de vida los acompañaría en adelante, en las galerías de Marassi llenas de gritos, en los barracones desolados del Norte, hasta el regreso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

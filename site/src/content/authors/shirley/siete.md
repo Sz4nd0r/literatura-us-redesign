@@ -119,6 +119,3 @@ El hombretón contó cuidadosamente el dinero y entregó los billetes al señor 
 —Si le parece bien, le podemos mandar el pedido a finales de semana.
 —Estupendo —asintió el hombre—. ¿Lista, querida? La mujer se incorporó y el hombre se apartó para dejarla pasar delante. El señor Harris cerró la marcha y, al llegar a la escalera, se detuvo y dijo a la mujer: —Cuidado con el escalón.
 La pareja empezó a subir la escalera y el señor Harris se quedó mirándolos hasta que desaparecieron. Después, apagó la lámpara llena de polvo que colgaba del techo y volvió a su escritorio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

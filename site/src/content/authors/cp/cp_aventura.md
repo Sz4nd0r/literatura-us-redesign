@@ -97,6 +97,3 @@ Sandra dijo a la mujer que se lo agradecía, pero que tenía prisa.
 Sandra la vio correr a la puertecita de las habitaciones y la siguió sin decir nada hasta el fondo de la escalera. La vieja se agarró jadeando a la barandilla y empezó a subir.
 —Se los meto en una bolsa. Espere.
 Sandra la miró por detrás hasta que hubo desaparecido en la vuelta del descansillo, y después empujó la puerta despacito y salió. Cruzó la plazuela con el corazón brincándole. En la calleja echó a correr y no se detuvo hasta llegar al jardín de la estación.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

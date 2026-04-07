@@ -225,6 +225,3 @@ El padre descolgó su fusil y su cartuchera.
 palabra más, sin volver siquiera la cabeza, fue a unirse a los móviles que iban
 a salir hacia el frente aquella misma noche.
 No se le ha vuelto a ver nunca más.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

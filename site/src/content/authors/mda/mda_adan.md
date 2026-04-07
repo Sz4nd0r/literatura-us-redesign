@@ -66,6 +66,3 @@ Y así fue como Adán y Eva entraron al cielo, al son de todas las cítaras que 
 —El señor juez lo sabe perfectamente —respondió el carmelita sonriendo.
 Y el juez llevándose a la boca una cucharada de postre:
 —Pensándolo bien, creo que nada de eso ocurrió; pero además, doña Leonor, si hubiese ocurrido, no estaríamos aquí saboreando este postre, que es, en verdad, algo delicioso. ¿Sigue trabajando para usted aquella vieja repostera de Itapagipe?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

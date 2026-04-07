@@ -211,6 +211,3 @@ La oreja peluda del viejo junio a sus labios bisbiseantes.
 Y cuando terminó, entrecerró los ojos queriendo retener las lágrimas.
 —¿Eso pusiste? ¿Eso mandastes? ¿Esa fue tu orden?, preguntaba Tata Guamarachito, la risa pintada de sus labios a sus mejillas, como si riera con todas sus arrugas.
 —Sí, eso mismo, pues a ella también la despedacé al romper el retrato... y se me hace. Tata, que cuando rompí el retrato de la Cardenala Cifuentes en mi calabozo, empecé a librarme de su maleficio. La mujer, cuando no sale buena, es la peor de las luces malas, y por eso en mi mandato ordené al desconocido del caballo que tomara el primer retrato de una pérfida, y lo rompiera hay muchas maneras de hacer pedazos a la gente...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

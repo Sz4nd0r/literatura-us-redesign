@@ -225,6 +225,3 @@ Una curiosidad muy natural se despertó en todas las caras, y el propio subastad
 Juzguen ustedes mismos si podía negarle la promesa de cumplir ese ruego. En quince años, nada he visto que se pareciera lo más mínimo a la descripción hecha por mi padre. Y he aquí que ahora, en la subasta…
 El pintor se interrumpió y volvióse hacia la pared para mirar otra vez el retrato. Ese mismo movimiento lo repitió inmediatamente la muchedumbre que le escuchaba. Pero, ante la estupefacción general, el retrato había desaparecido del muro. Susurros y rumores confusos recorrieron la concurrencia, tras lo cual oyeron nítida y repentinamente las palabras: “Lo han robado, lo han robado”. Alguien aprovechando que el público se hallaba pendiente del relato, se lo había llevado.
 Los reunidos tardaron en salir de su estupor, dudando si realmente habían visto aquellos ojos extraordinarios, o si era, simplemente, una ilusión que se había aparecido por un momento a los suyos, cansados de tanto mirar viejos cuadros.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

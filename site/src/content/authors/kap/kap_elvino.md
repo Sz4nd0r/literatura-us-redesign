@@ -391,6 +391,3 @@ El señor Thompson se detuvo aquí para pensar un momento. Humedeció la punta d
 Fue el señor Homer T. Hatch quien vino a hacerle daño a un
 hombre inofensivo. Él fue el causante de todos estos problemas y mereció morir, pero lamento haber sido yo quien tuvo que matarle.
 Chupó la punta del lápiz otra vez y firmó cuidadosamente con su nombre completo, dobló el papel y se lo guardó en el bolsillo exterior. Después de quitarse el zapato y el calcetín del pie derecho, colocó la culata de la escopeta en el suelo con los dos cañones gemelos apuntando hacia su cabeza. Era una posición muy incómoda. Apoyando la cabeza en la boca de la escopeta pensó un poco cómo hacerlo. Estaba temblando y en su cabeza resonaba un tamborileo que le dejó sordo y ciego, pero se tendió de lado sobre la tierra, puso el cañón bajo su barbilla y buscó el gatillo con el dedo gordo del pie. De esa forma podía hacerlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

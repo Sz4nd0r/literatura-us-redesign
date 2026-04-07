@@ -85,6 +85,3 @@ Al oír el ruido, ella asomó la cabeza.
 Y se trasladaron a la cueva inmediata.
 —Aquí se está mucho mejor —dijo el niño. —Pues ya estás yendo a traerme unos palos para hacer fuego.
 A los del banco de arriba les empezaron a gruñir las tripas, y, como obedeciendo a aquella señal, las dos viejas criaturas se levantaron, y, sin decir palabra, se fueron renqueando como ánades.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

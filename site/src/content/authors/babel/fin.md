@@ -97,6 +97,3 @@ Puso el pie en el pescante de la calesa y se acordó de Fiedka.
 —Tiene pupila —dijo Mayórov a su acompañante al partir—, brega como es debido…
 El caballo alto llevaba a la ciudad a él y al jefe de urbanización. Por el camino encontraron a los viejos y viejas expulsados del asilo. Iban renqueando, encorvados bajo sus bártulos y caminaban en silencio. Soldados desenvueltos les hacían guardar fila. Chirriaban los carros de los paralíticos. Un silbido de asfixia, una crepitación sumisa se escapaba del pecho de los chantres retirados, de los payasos de bodas, de las cocineras de circuncisiones y de los dependientes cesantes.
 El sol estaba alto. El calor se cebaba en aquel montón de harapos que se arrastraba por la tierra. Caminaban por una lúgubre carretera de piedra, ante chozas de adobes, por campos aplastados por pedrizales, cerca de casas abiertas de par en par, destruidas por los proyectiles, vadeando la colina de la peste. En la Odesa de otros tiempos la ciudad estaba unida al cementerio por un camino de una tristeza indecible.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

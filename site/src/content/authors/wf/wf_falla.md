@@ -81,6 +81,3 @@ Los demás dejan al herido y suben la pendiente a trompicones, deprisa, luchando
 —Usted primero, señor —murmura el sargento.
 —¡He dicho fuera, hombre! —dice el capitán.
 El sargento entra en el túnel. El capitán lo sigue. Asoma por la rampa exterior de la avalancha que había cerrado la cueva, al pie de la cual los catorce hombres se arrodillan en grupo. A cuatro patas, como un animal, el capitán respira, y su respiración emite un áspero sonido. «Pronto llegará el verano —piensa a la vez que el aire entra en sus pulmones a mayor velocidad de lo que logra vaciarlos para respirar de nuevo—. Pronto llegará el verano, los días serán largos». Al pie de la pendiente, los catorce hombres se arrodillan. El del centro tiene una Biblia en la mano, de la que lee con monótona entonación. Por encima de su voz se alza el farfullar del herido, sin sentido, sin énfasis, sostenido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

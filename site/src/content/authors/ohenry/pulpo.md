@@ -116,6 +116,3 @@ Yo pregunté a Jeff si había sido alguna vez fundador de monopolios durante aqu
 “—¿Y de qué trataba? —pregunté.
 “—De la temperancia —se me contestó.
 “Al acabar esa magnífica disertación todos los pajarenses hicieron voto solemne de no beber en un año”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

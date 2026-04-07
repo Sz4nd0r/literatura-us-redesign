@@ -428,6 +428,3 @@ mano. Pero no pudo pronunciar ni una de las cosas maravillosas que pensaba
 decir. Por alguna diabólica razón, las
 únicas palabras que pudo pronunciar:
 —¡Mi estimada dama, me encantaría... me encantaría!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -113,6 +113,3 @@ En primer lugar, marcó el número de Li Faa, pero no la encontró hasta que lla
 —Por eso lloré —respondió Ah Kim.
 Li Faa lo miró sin comprender.
 —Lloré —explicó él, porque de repente supe que el fin de mi madre se acercaba. En sus golpes no había fuerza, no hacían daño. Lloré porque supe que ya no tenía fuerza para herirme. Por eso lloré, mi Flor de Serenidad, mi Descanso Perfecto. Ese es el único motivo por el que lloré.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -289,6 +289,3 @@ no les dijo palabra; pero tomó el cuaderno de Katia y dejó en él, a
 modo de recuerdo, su autógrafo:
 “Montigomo, Garra de Buitre,
 jefe de los Invencibles”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -33,6 +33,3 @@ Son ellas las que zumban. Desde que he caído han acudido sin demora. Amodorrad
 El médico tenía razón. No puede su oficio ser más lucrativo.
 Mas he aquí que esta ansia desesperada de resistir se aplaca y cede el paso a una beata imponderabilidad. No me siento ya un punto fijo en la tierra, arraigado a ella por gravísima tortura. Siento que fluye de mí como la vida misma, la ligereza del vaho ambiente, la luz del sol, la fecundidad de la hora. Libre del espacio y el tiempo, puedo ir aquí, allá, a este árbol, a aquella liana. Puedo ver, lejanísimo ya, como un recuerdo de remoto existir, puedo todavía ver, al pie de un tronco, un muñeco de ojos sin parpadeo, un espantapájaros de mirar vidrioso y piernas rígidas. Del seno de esta expansión, que el sol dilata desmenuzando mi conciencia en un billón de partículas, puedo alzarme y volar, volar…
 Y vuelo, y me poso con mis compañeras sobre el tronco caído, a los rayos del sol que prestan su fuego a nuestra obra de renovación vital.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -73,6 +73,3 @@ Pero la baronesa Anna ya estaba fuera, en la oscuridad, completamente aturdida t
 ¡Alto ahí! ¡Ni una palabra más! ¡Fijaos en ese pequeño y valioso detalle! ¡Ahí estaba ella, encantada y cautivada sólo porque esa locuela trotamundos había ido a besarle la mano!
 Y ahí te dejamos, baronesa Anna, con un beso en la frente. ¡Buena suerte! Nosotros nos vamos. ¡Duerme! Pasarás toda la noche soñando con la «Golondrina» que vino a ti y serás un poquito feliz.
 Pues un instante de felicidad, un pequeño arrebato y delirio de dicha, nos conmueve el corazón cuando esos dos mundos entre los que vaga descarriada la nostalgia aciertan a encontrarse en una fugaz y engañosa proximidad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

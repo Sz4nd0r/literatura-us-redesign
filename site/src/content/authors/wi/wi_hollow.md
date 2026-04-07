@@ -109,6 +109,3 @@ Una vez cesaron las risas destempladas de los demás y se hizo de nuevo el silen
 »Ergo, si un maestro de escuela pueblerina resulta rotundamente rechazado por una joven y hermosa holandesa a la que pretende, de inmediato obtendrá dicho maestro el beneficio de una buena carrera profesional en la abogacía y hasta en la política».
 El caballero de las pobladas cejas frunció y alzó estas una y otra vez, sorprendido por tan apabullante silogismo; mientras, el viejecito del traje raído le contemplaba, o eso me pareció, con un inmenso y no menor sarcástico aire de triunfo. El adusto caballero, al fin, no tuvo sino que reconocer que todo aquello estaba muy bien, que el argumento había sido bien defendido, aunque mostró una leve objeción: en cualquier caso, tal historia, para su gusto y para sus entendederas, resultaba un tanto extravagante, añadiendo que, encima, le habían quedado sin aclaración un par de puntos.
 «Le aseguro, caballero, que ni yo mismo me creo la mitad de ese cuento», le respondió entonces el narrador.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

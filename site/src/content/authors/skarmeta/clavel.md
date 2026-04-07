@@ -101,6 +101,3 @@ La mucama levantó el cerrojo y el muchacho trepó los primeros escalones.
 El joven golpeó la puerta, pero no esperó a que le respondiesen. Accionó la manilla e irrumpió en la habitación. La muchacha se mostró desnuda, excepto por el pequeño calzón que estaba a punto de hacer resbalar sobre la cadera. El joven avanzó sin titubeos y desprendió la flor de su boca. La puso en el florero, junto con los otros claveles. Miró los pequeños senos de la joven y volvió a hundir las manos en los bolsillos.
 —Bueno —dijo, antes de abandonar la habitación— para otra vez sé más explícita.
 Setúbal, Portugal, 1975.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -98,6 +98,3 @@ Faltan tres hojas con los apuntes correspondientes a varias semanas.
 “Los marineros saben que un grupo de ballenas que se calienta al sol o juguetea sobre la superficie del océano, separadas por millas de distancia, se zambullen al mismo tiempo y desaparecen en un momento. La señal es emitida en un tono demasiado grave para el oído del marinero que está en el palo mayor o el de sus compañeros en cubierta, que sienten la vibración en el barco como las piedras de una catedral se conmueven con el bajo del órgano”.
 “Y lo que pasa con los sonidos, ocurre también con los colores. A cada extremo del espectro luminoso el químico detecta la presencia de los llamados rayos “actínicos”. Representan colores —colores integrales en la composición de la luz— que somos incapaces de reconocer. El ojo humano también es un instrumento imperfecto y su alcance llega sólo a unas pocas octavas de la verdadera “escala cromática”. No estoy loco; lo que ocurre es que hay colores que no podemos ver”.
 “Y, Dios me ampare, ¡el engendro maldito es de uno de esos colores!”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

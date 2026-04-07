@@ -66,6 +66,3 @@ Soapy notó una mano en el hombro. Se volvió de inmediato para encararse con el
 —Nada —contestó Soapy.
 —Pues acompáñame.
 —Tres meses en la Isla —dijo el magistrado a la mañana siguiente en el tribunal.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

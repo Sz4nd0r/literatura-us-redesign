@@ -150,6 +150,3 @@ por hoy.” ¡Oh! sí, el desgraciado chico tenía suficiente por hoy. Sus dient
 castañeteaban, temblaba de fiebre. Hubo que subirlo a su cama. Creo que aquella
 noche yo también tuve fiebre; todo el tiempo sentía el traqueteo de la carreta
 y oía a mi pobre amigo decir con voz suave: “¡Déjeme irme, señor Klotz!”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

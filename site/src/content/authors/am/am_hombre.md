@@ -29,6 +29,3 @@ A mí me entró miedo y le pregunté qué veía. Y ella contestó:
 —Hijo mío, hay demasiada gente que te odia... ¿De qué sirve cumplir con nuestro deber cuando la gente lo odia a uno? Sirve sólo para tener la conciencia tranquila.
 Entonces yo le he respondido:
 —A mí me basta con tener la conciencia tranquila, como la tengo. Todo lo demás no me importa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

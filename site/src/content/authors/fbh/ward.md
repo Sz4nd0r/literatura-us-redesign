@@ -1049,6 +1049,3 @@ viuda de un tal señor Tretherick, tanto en su noviazgo, como en su breve vida
 de casado, se mostró indiferente en grado sumo a las infantiles gracias de
 Carrie Tretherick, la pequeña hija de la viuda, y esta torpe insensibilidad del
 coronel provocó la ira de esta última.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

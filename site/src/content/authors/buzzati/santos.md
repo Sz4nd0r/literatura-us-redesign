@@ -56,6 +56,3 @@ Marcolino era un tipo de una pieza, extrovertido y lleno de alegría:
 —¿Pero por qué no entras? Está anocheciendo y empieza a refrescar, podríamos encender el fuego y cenar juntos.
 —Con mucho gusto, con muchísimo gusto —contestó Marcolino.
 Entraron, cortaron un poco de leña y encendieron el fuego, aunque les costó un poco porque la leña todavía estaba húmeda. Pero después de mucho soplar, al final se alzó una buena llamarada. Entonces Gancillo puso sobre el fuego la olla con agua para la sopa y, mientras esperaban a que hirviese, ambos se sentaron en el banco calentándose las rodillas y charlando amigablemente. De la chimenea empezó a salir una delgada columna de humo, y también aquel humo era Dios.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

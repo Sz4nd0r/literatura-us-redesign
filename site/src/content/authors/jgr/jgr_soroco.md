@@ -32,6 +32,3 @@ Soroco no esperó a que todo desapareciese. Ni miró. Se quedó con el sombrero 
 Pero se detuvo. En eso, se puso raro, parecía que iba a perder lo de sí, dejar de ser. Así, en un exceso de espíritu, fuera de sentido. Y pasó lo que no se podía anticipar: ¿quién iba a pensar en aquello? En un romper —él empezó a cantar, alto, fuerte, pero sólo para sí— y era el mismo desatinado canto que las dos tanto habían cantado. Cantaba continuando.
 La gente se heló, se hundió —un instantáneo. La gente... Y fue sin estar de acuerdo, nadie entendería lo que se hiciera: todos, de una vez, por compasión a Soroco, empezaron, también, a acompañar aquel canto sin razón. ¡Y con las voces tan altas! Todos caminando, con él, Soroco, y canta que can-tando, tras él, los de más atrás casi que corrían, nadie que dejase de cantar. Fue algo de no salir más de la memoria. Fue un caso sin comparación.
 Ahora la gente llevaba a Soroco a su casa, de verdad. La gente, con él, iba hasta adonde iba ese cantar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -281,6 +281,3 @@ SIGISMUND WYER, doctor en ciencias
 socio de la National Geographic Society
 Washington, D. C., EE. UU.
 —La guardaré donde no pueda perderse —dijo Harris.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

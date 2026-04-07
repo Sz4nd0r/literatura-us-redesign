@@ -48,6 +48,3 @@ Un párpado oscureciéndose en el costado.
 El mundo como conspiración. ¿Argumento posible? Una mujer sube al colectivo. Imagínate que organizas una historia de amor y nadie viene.
 En casa toma mucho café. En el Howard Johnson pide ensalada de repollo. Piensa cómo la ensalada se parece a un mapa hecho papel picado: dónde estuviste, hacia dónde vas: “Usted está aquí”, dice la estrella roja en la parte de atrás del menú.
 Ocasionalmente una cita con la cara blanca como un papel te pregunta si los escritores se desaniman con frecuencia. Contesta que a veces se desaniman y a veces no. Di que se parece mucho a tener la polio. “Interesante”, sonríe tu cita, y luego mira los pelos de su brazo y empieza a alisarlos, a todos, siempre, en la misma dirección.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

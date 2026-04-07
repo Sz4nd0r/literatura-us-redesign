@@ -218,6 +218,3 @@ Las dos mulas se habían detenido; el hombre de más edad se puso de frente al h
 Pero el joven sí. Miró al hombre del caballo pinto, el cigarrillo que ardía en su mano, el hilo de humo tenue, sin viento, en el silencio soleado, y a la mujer de la yegua castaña, los brazos alzados y las manos afanosas en el cabello luminoso, como una nube, proyectando, tratando de proyectarse como suelen los jóvenes, hacia esa remota e inaccesible ella, tratando de abarcar el vano e impenetrable instante de división, de desesperación, que al ser joven fue como la ira: ira por la mujer perdida, ira por el hombre en cuya silueta caminaba por la tierra la trágica e ineludible ruina de ella.
 —Estaba llorando —dijo, y se puso a despotricar y a maldecir con rabia, sin motivo, sin objeto.
 —Vamos —dijo el de más edad. No se volvió a mirar—. Digo yo que tendrán más o menos listos los panecillos para el desayuno del cazador cuando lleguemos a la casa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

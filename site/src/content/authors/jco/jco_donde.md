@@ -193,6 +193,3 @@ Ella se puso de pie.
 Connie sintió el linóleo bajo sus pies; estaba frío. Se quitó el pelo de los ojos, echándolo hacia atrás. Arnold Friend soltó el poste, titubeante, y abrió sus brazos para recibirla, sus codos apuntando el uno al otro y sus muñecas colgando sin vida, como para demostrar que se trataba de un abrazo avergonzado y un poco burlón, que no quería que se sintiera abrumada.
 Ella apoyó su mano contra la puerta mosquitera. Se vio a sí misma abriendo lentamente la puerta como si estuviera de nuevo a salvo en la puerta opuesta, observando a este cuerpo y a esta cabeza de pelo largo yendo hacia la luz del sol donde Arnold Friend le esperaba.
 —Mi dulce niña de los ojos azules —dijo él, en un suspiro medio cantado que nada tenía que ver con sus ojos café pero que fue absorbido de todos modos por las vastas extensiones de tierra iluminada por el sol que se extendían detrás de él y a su alrededor: toda esa tierra que Connie jamás había visto y que no reconocía, salvo por el hecho de saber que estaba yendo hacia ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

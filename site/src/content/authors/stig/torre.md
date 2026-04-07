@@ -113,6 +113,3 @@ Entonces se vio tan perdido que las dos sintieron pesar. Sus ojos erraron por el
 Una pausa larga. Luego a trompicones:
 —Yo, yo ya me voy. Pero ahora vayan a la torre, señoras. Allí verán una cosa extraña en el primer peldaño de la escalera. Cuando salgan de allí cierren con doble vuelta para que ningún gamberro entre mientras yo esté fuera. Buenas tardes.
 Desapareció. Corrió hacia la torre por detrás de los rosales, abrió la puerta, subió a toda prisa y se tiró al suelo. Al poco rato escuchó voces. Oyó la puerta. La llave giraba. Una vez. Dos veces. No se habían cuidado de mirar en el primer peldaño. Tan poca cosa era. Qué amargura. Cuando ya no oyó más voces fue bajando la escalera despacio y con cuidado y se sentó abajo, no tuvo ningún pensamiento extraño, no sintió ninguna rabia especial. Sobre todo no sintió nada. No pensó en nada. Ni siquiera en la fuente. Tan sólo se quedó allí sentado hora tras hora o, lo que era igual, año luz tras año luz, mientras se sentía cada vez más cansado. El cansancio es bueno, el cansancio siempre es bueno, en especial cuando uno se ejercita en el arte amargo de ser prisionero de sí mismo. También es buena mucha calma y cierto temple para no dejarse conmover, ya que para soportarse uno mismo se necesitan buenos nervios.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

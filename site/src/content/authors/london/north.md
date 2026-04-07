@@ -177,6 +177,3 @@ Un cazador recibió una bala en la frente, cayó hacia delante sin vida y, con e
 Se agarró con fuerza a su cuello y metió las piernas entre las de él, hasta hacerlo tropezar y trastabillar. Fairfax se tambaleó violentamente para recuperar el equilibrio, volvió a tropezar y cayó de espaldas al suelo. Se golpeó la cabeza con una raíz que sobresalía y se quedó aturdido, casi sin fuerzas para luchar. Al caer, la joven había oído el silbido de una flecha que pasaba zumbando y cubrió su cuerpo con el de ella, como si fuera un escudo, abrazándolo con fuerza, el rostro y los labios pegados a su cuello.
 En ese momento, Keen se puso de pie tras un matorral que se encontraba a seis metros de distancia. Miró a su alrededor detenidamente. La batalla se había alejado de ellos y los gritos del último hombre se desvanecían ya. No había testigos. Colocó una flecha en la cuerda del arco y miró hacia el hombre y la mujer. Entre el pecho y el brazo de ella asomaba la carne blanca del costado del hombre. Keen inclinó el arco y tiró de la flecha hacia atrás. Lo hizo dos veces con calma, para asegurarse, y luego disparó su misil de afilada punta y dio de lleno en aquella carne blanca, más blanca aún debido al color broncíneo del pecho y el brazo que la rodeaban.
 [1901]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -99,6 +99,3 @@ faltos de gusto, pero la fuerza de su dolor es de una austera sublimidad y el
 ardiente historia de ese país, los relatos de talmudistas que al mismo tiempo
 arrendaban fondas, de rabinos que eran usureros, de muchachas forzadas por
 mercenarios polacos y que provocaban duelos entre los magnates.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

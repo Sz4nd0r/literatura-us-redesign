@@ -174,6 +174,3 @@ aprendió la ciencia de poner la tilde / ni de errar por la Vía Láctea con pas
 humilde!», y continúa refiriéndose a un mundo seguro en las profundidades del
 bosque, a una isla más feliz «en la que no hubo tormentos ni enemigo», ni «la sed de
 oro del cristiano». Se trata de la concepción eurocéntrica del Destino Manifiesto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

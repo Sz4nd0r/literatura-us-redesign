@@ -51,6 +51,3 @@ Asomándose a la puerta de su sucia consulta, el doctor Parcival observó asusta
 —Si no es hoy, será otro día —susurró moviendo la cabeza—. Pero al final acabarán crucificándome, crucificándome inútilmente.
 El doctor Parcival empezó a suplicar a George Willard.
 Debes escucharme —insistió—. Si algo me ocurriera, tal vez tú puedas escribir el libro que, de lo contrario, nadie escribiría. La idea es muy sencilla, tan sencilla que, si no tienes cuidado, podrías olvidarla. Consiste en esto: todo el mundo es Jesucristo y todos acaban siendo crucificados. Eso es lo que quería decirte. No lo olvides. Pase lo que pase, no dejes que se te olvide.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -115,6 +115,3 @@ La libreta donde apuntaba los pedidos del día sobresalía con rigidez del bolsi
 Había algo en sus ojos y en su actitud que me resulta demasiado difícil expresar con palabras.
 —Uno empieza a hablar… —dijo finalmente en la puerta, sonrió con tristeza, y así desapareció de mi vista.
 Y esta es la historia de Mr. Skelmersdale en el País de las Hadas, tal como me la relató.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

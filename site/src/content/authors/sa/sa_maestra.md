@@ -422,6 +422,3 @@ sin saber algo que Kate Swift quería decirme”,
 murmuró entre sueños. Y se quedó dormido, y fue
 él la última persona que se acostó en Winesburgo
 aquella noche de invierno.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

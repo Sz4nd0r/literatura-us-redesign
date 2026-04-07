@@ -506,6 +506,3 @@ El último de los sagrados diecinueve había caído víctima del fardo endemonia
 Por mediación de la alcaldía, respondiendo a una súplica y petición, se permitió a Hadleyburg que cambiase de nombre (nadie quiera saber por cuál, pues yo no lo diré), suprimiendo una palabra de su lema que, por espacio de muchas generaciones, había adornado la estampilla oficial del pueblo.
 Ha vuelto a ser una población honrada, y tendrá que ser muy madrugador el hombre que pretenda sorprenderla de nuevo sesteando.
 ![](/assets/images/mt.jpg)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

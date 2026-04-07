@@ -97,6 +97,3 @@ Mi padre volvió con el perro jadeando. Blasfemaba.
 —Por un pelo. Desde aquí hasta allí. Un animal así. ¿La habéis visto?
 —Nada —dijo el Beato.
 Yo me colgué el fusil en bandolera y empezamos a bajar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

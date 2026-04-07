@@ -276,6 +276,3 @@ Ella lo escuchó un rato inmóvil y al final, como si fuese el propio destino el
 En lo alto, el capitán Hagberd parecía haber recuperado su estado de ruidosa alegría.
 —¡Métase en casa y quédese tranquilo! —contestó ella llorando desde el umbral.
 Pero él no obedeció, estaba demasiado alegre de haberse librado de ese “algo” que iba mal. De pronto fue como si toda la locura del mundo se desplomara sobre la joven para llenar de miedo su corazón en la voz de aquel anciano que proclamaba a voz en grito su desquiciada fe en un mañana eterno.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

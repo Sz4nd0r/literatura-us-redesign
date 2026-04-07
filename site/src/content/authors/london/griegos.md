@@ -121,6 +121,3 @@ La embarcación, abandonada a una corta distancia, flotaba tranquilamente a barl
 Mientras hablaba, alejaba la embarcación. El sedal se había roto, pero un trozo se había quedado enganchado. Retiramos unos cuarenta o cincuenta pies, con un joven esturión atrapado en un montón de anzuelos sin barbas. Charley cortó de un navajazo esta parte del sedal y lo lanzó a la caseta del timón cerca de los dos cautivos.
 —He aquí la prueba… la muestra —añadió Charley—. Miradla bien a fin de reconocerla ante los jueces, y acordaros de la hora y el lugar de la captura.
 Sin volver a virar mal a propósito ni dar bandazos de un lado a otro, llegamos triunfalmente a Benicia, llevando con nosotros al rey de los griegos sólidamente atado en la caseta del timón, prisionero por primera vez por la Patrulla Pesquera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

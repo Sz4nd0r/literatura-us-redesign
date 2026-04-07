@@ -188,6 +188,3 @@ tiene el alma, no le obligas a manifestarse abiertamente.
 Tampoco yo tengo compasión conmigo mismo, y
 muchas veces me bato con el enemigo una hora o más, pues quisiera saber a toda
 costa qué es lo que el hombre lleva dentro...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

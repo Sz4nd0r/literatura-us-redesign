@@ -145,6 +145,3 @@ paisaje, en suma, de su soberbia belleza artística, El llano en llamas
 y Pedro Páramo fueron ejercicios suficientes en los que Rulfo
 probó su capacidad para evocar la crueldad y el dolor, y no quiso
 repetirlo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

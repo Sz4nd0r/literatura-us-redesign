@@ -402,6 +402,3 @@ murmullos entrecortados que su mejor amigo deja escapar entre sueños.
 Esta es, en fin, una de las razones por las que
 la profesión de asaltar trenes resulta mucho menos agradable que cualquiera de
 sus ramas colaterales: la política y el monopolio comercial.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

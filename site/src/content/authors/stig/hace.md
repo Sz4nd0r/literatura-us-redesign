@@ -148,6 +148,3 @@ No estaba en la cocina ni tampoco estaba en el salón. No estaba en la tienda ni
 Nieve, oscuridad y viento entraron en la casa cuando Henrik Abraham abrió la puerta. Bajaron a tientas la escalera. No vieron nada que no fuera el feroz revoloteo de las tinieblas.
 —¿Tienes la carta? —le preguntó la chica a gritos.
 —Tengo la carta —respondió Henrik Abraham a gritos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

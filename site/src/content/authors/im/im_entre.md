@@ -178,6 +178,3 @@ Stephen miró al otro lado, donde estaba Charmian.
 —Mañana puedes echar un vistazo en el armario del pasillo. Dentro hay una bolsa llena de regalos.
 —¿Para Charmian también?
 —Sí. —Escrutó su rostro, iluminado por la luz que venía del pasillo. Empezaba a notar el frío. Los compré para tu cumpleaños —añadió. Pero ella estaba dormida y casi sonriendo, y en la palidez de su garganta Stephen creyó ver un radiante campo de nieve blanca que, una mañana luminosa, cuando era un chiquillo de ocho años, no había osado mancillar con las huellas de sus pies.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

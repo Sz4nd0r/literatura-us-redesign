@@ -106,6 +106,3 @@ Después de las dos almuerzan juntos; al anochecer, juntos hacen los deberes y l
 —Mur…, mur…, mur…
 De repente se oyen fuertes golpes en el portón. Olenka se despierta y el miedo le corta la respiración; su corazón late con fuerza. Pasa medio minuto y vuelven a resonar los golpes. «Debe ser un telegrama de Karkov —piensa ella, y todo su cuerpo empieza a temblar—. La madre quiere que Sasha vaya a vivir con ella, en Karkov… ¡Dios mío!». Está presa de desesperación; la cabeza, los pies y las manos se le ponen fríos y, al parecer, en todo el mundo no hay persona más desdichada que ella. Pero transcurre un minuto más, se oyen voces: es el veterinario que regresó del club. «Ah bueno, no es nada, gracias a Dios», piensa ella. Poco a poco cae el peso de su corazón y vuelve a sentirse bien; se acuesta y piensa en Sasha, quien duerme profundamente en la habitación vecina y, de vez en cuando, dice en sueños:
 —¡Te voy a dar! ¡Vete! ¡No me toques!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

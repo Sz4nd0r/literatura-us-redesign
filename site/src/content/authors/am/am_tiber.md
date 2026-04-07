@@ -30,6 +30,3 @@ Pero en el zaguán me espera otra novedad en esta tarde de novedades. Un perro v
 —Vamos, arriba —con voz resignada, y en el acto me sigue al ascensor.
 Naturalmente, en casa el perro es muy bien recibido. La sirvienta le encuentra un collar del que cuelga una gran “C”, hecha de un metal blanco que parece plata; y en el momento lo bautiza con el nombre de Castagna. El perro, al oírse llamar Castagna en tono amistoso, parece definitivamente confortado: mueve la cola, me sigue a mi estudio.
 Voy a sentarme en la silla habitual, cerca de la ventana; el anteojo binocular está donde lo dejé poco atrás, sobre el antepecho. El perro se enrosca a mis pies, entrecierra los ojos, como para dormir. Tomo los anteojos, los dirijo a la calle junto al Tíber. Sobre el montículo de basuras, el canasto siempre está allí, intacto, limpio, vivo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

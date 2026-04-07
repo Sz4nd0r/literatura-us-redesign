@@ -102,6 +102,3 @@ Esperé en vano la respuesta a mis palabras. Me impacienté y llamé en voz alta
 Silencio. Llamé otra vez.
 —¡Fortunato!
 No hubo respuesta. Pasé una antorcha por la abertura y la dejé caer dentro. Sólo me fue devuelto un tintinear de cascabeles. Sentí que una náusea me envolvía; su causa era la humedad de las catacumbas. Me apresuré a terminar mi trabajo. Puse la última piedra en su sitio y la fijé con el mortero. Contra la nueva mampostería volví a alzar la antigua pila de huesos. Durante medio siglo, ningún mortal los ha perturbado. ¡Requiescat in pace!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

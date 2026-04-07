@@ -59,6 +59,3 @@ Ahora estaba llegando al estribo, pero antes de que llegara ellos ya iban camino
 Pero les siguió fielmente. Uno de los chicos paró un coche en la calle de Vasagatan. Ella y Britt subieron las últimas y se sentaron en los trasportines. Solveig iba entre los dos chicos en los asientos de atrás. Ya se estaba riendo. El coche dobló la calle, dio la vuelta por Tegelbacken, y metió el morro bajo el puente del ferrocarril porque las barreras estaban echadas. Ninguno de ellos se atrevió a mirar por la ventanilla hasta entonces; se sentían demasiado corridos para ello.
 A la altura del ayuntamiento Inga notó que dos manos se cerraban desde atrás sobre sus pechos. Abúlicamente se dejó volcar hacia atrás y no sintió ninguna alegría ni ninguna excitación tampoco. Britt tenía el morro amohinado y sacaba brillo tercamente a la cerradura de la maleta de Solveig con la palma de la mano.
 No pasaría mucho tiempo sin que se echasen a reír, tal vez no más allá del instituto de Kungsholmen o de la filial de la Biblioteca Municipal, porque el primer sobresalto al descubrir que uno está preso —en la pasta de chocolate o en la mezcla de cemento o en cualquier otra cosa— no dura mucho. El segundo, el definitivo, el verdaderamente grande, es peor…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

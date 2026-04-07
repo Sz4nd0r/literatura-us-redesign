@@ -245,6 +245,3 @@ De repente el tejado entero se hundió entre los muros, y un volcán de llamas b
 ¿Y si no estaba muerto? Tal vez sólo el tiempo pueda algo contra este Ser Invisible y Temible. ¿Por qué ese cuerpo transparente, ese cuerpo incognoscible, ese cuerpo espiritual, habría de temer también él las enfermedades, las heridas, los achaques, un final prematuro?
 ¿Un final prematuro? De él nace todo el miedo del hombre. Después del hombre, el Horla. ¡Después de aquel que puede morir cada día, a cada hora, a cada momento, por cualquier accidente, ha llegado aquel que no morirá hasta que haya llegado su día, su hora y su momento, por haber tocado a su fin su existencia!
 ¡No…, no…, sin duda…, no ha muerto… Entonces, entonces… tendré que matarme yo!…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

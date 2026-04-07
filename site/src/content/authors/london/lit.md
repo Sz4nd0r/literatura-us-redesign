@@ -306,6 +306,3 @@ muchas horas a elevar su voz, vieja y apagada, contra la ingratitud filial de lo
 general y de su hija Lit-Lit en particular. Sus últimos años se han visto amargados por
 la total seguridad de que fue engañado. Incluso John Fox ha dejado de afirmar que había
 pagado diez mantas y un arma de fuego de más por Lit-Lit.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

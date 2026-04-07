@@ -82,6 +82,3 @@ Lizbeth se sentó en el banco de hierro forjado de color blanco que había junto
 —Ya sabes. La vieja casa de papá y mamá.
 —¿Aún la tienen?
 —Supongo. No lo sé —Lizbeth rió y se apoyó en él—. Me da miedo preguntar —tomó la copa de entre los dedos de Mitchell y bebió un sorbo—. Solos aquí. Nosotros solos. Brindo por eso —para sorpresa de Mitchell, le besó en los labios. La primera vez que le besaba así, juvenil y atrevida, en los labios, en mucho tiempo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

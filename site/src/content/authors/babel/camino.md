@@ -65,6 +65,3 @@ El comisario de asuntos interiores de comunas de la región Norte salió del des
 Me hicieron traductor de la Sección Internacional. Recibí ropa de soldado y talones para comer. Me asignaron el rincón de una sala de lo que fue Gobernación y allí me puse a traducir las declaraciones de diplomáticos, incendiarios y espías.
 No había pasado el día y ya tenía de todo: ropa, comida, trabajo y compañeros fieles.
 Así, trece años atrás, comenzó esta vida mía, formidable, llena de sentido y de alegría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

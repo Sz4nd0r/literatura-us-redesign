@@ -116,6 +116,3 @@ Savka pronunció las últimas palabras con una sonrisa en los labios, pero a mí
 Miré el rostro de Savka. Estaba pálido, crispado por esa mezcla de piedad y repugnancia que sienten ciertas personas cuando ven sufrir a los animales.
 —Cuando el gato se divierte, el ratón llora… —dijo con un suspiro.
 Agafia se levantó bruscamente, sacudió la cabeza y se dirigió hacia su marido con paso firme. Por lo visto, había hecho acopio de todas sus fuerzas y se había decidido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

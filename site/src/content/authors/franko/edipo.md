@@ -151,6 +151,3 @@ Minutos después me vino a la cabeza la explicación de su furia. Ahora era su t
 —¿Tampoco tú estás dormido? —gruñó.
 —Vamos, no te hagas del rogar y pasa tu brazo por mi espalda —le dije, y así lo hizo él, en cierto modo. Gingerly, supongo, sería la mejor manera de calificar su gesto. Era muy huesudo, pero mejor que nada.
 Cuando llegó la Navidad fue a comprarme un ferrocarril de juguete verdaderamente de primera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

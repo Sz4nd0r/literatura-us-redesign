@@ -228,6 +228,3 @@ ocuparon Manila y Douglas MacArthur tuvo que abandonar las islas con su famoso
 «volveré». En 1942 fue nombrado comandante de la región del Pacífico
 Suroccidental y retomó las islas Filipinas en octubre de 1944. MacArthur volvió a
 Manila en 1945.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

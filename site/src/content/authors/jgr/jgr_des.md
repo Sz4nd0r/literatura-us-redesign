@@ -34,6 +34,3 @@ De modo que surtió efecto. Desaparecieron los puntos suspensivos, el tiempo sec
 Por fin, hasta la propia mujer. Le llegó la noticia adonde se encontraba, en ignota, defendida, perfecta distancia. Se supo desnuda y pura. Volvió sin culpa, con dengues y titubeos, desplegando su bandera al viento.
 Tres veces se roza la felicidad. Juan Joaquín y Viliria se retomaron y compartieron, transmutados, lo verdadero y mejor de su útil vida.
 Y archívese el asunto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

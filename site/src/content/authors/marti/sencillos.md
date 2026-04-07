@@ -932,6 +932,3 @@ A aquel que nunca me deja?
 A donde van los difuntos:
 Verso, o nos condenan juntos,
 O nos salvamos los dos!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -51,6 +51,3 @@ De vez en cuando intervenía gravemente. Le hablé de veleros y puertos de arrib
 Discutimos sobre si era mejor un velero o una motonave. Me explicó, aunque ya lo sabía, que los veleros son ahora mirlos blancos, reliquias de museo, buques escuela. Cuando oyó que nunca había visto el mar, cambió de cara de golpe y porrazo, quedó consternado. Me apretó el hombro y me preguntó por qué no partía con él al día siguiente. Nos pusimos de acuerdo en que escribiría desde Génova en cuanto hubiera encontrado un buen puesto. Inmediatamente después me pareció cansado, lo vi soñoliento y me levanté para irme. Rezongó sin moverse, luego me tendió la mano.
 Esa noche no volví a casa. Entré en el café de la estación para saborear solo mi futuro y apreciar mi nueva independencia. Estaba borracho pero no de vino, e incluso sentía en mí una claridad y una osadía que luego no he vuelto a experimentar. Hacia la madrugada estaba cansado y, sin embargo, no tenía sueño. Regresé a casa de buen humor.
 No fue fácil calmar a mi madre, pero la idea de que dentro de poco tendría que habituarse a una ausencia muy distinta me convirtió en un buen chico. Naturalmente, no quería creer que hubiese pasado la noche solo, y esta imaginación suya me divertía. Vendrían también las mujeres, más adelante.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

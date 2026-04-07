@@ -228,6 +228,3 @@ La mañana era desapacible. A lo largo de la línea férrea, donde por la noche 
 Me despedí… Se habían dicho muchas cosas por la noche, pero no me llevaba conmigo ni una sola respuesta; de toda la conversación, el filtro de la memoria solo conservaba por la mañana el recuerdo de las luces y la imagen de Kisochka. Al montar en mi caballo, dirigí una última mirada al estudiante y a Anániev, al perro histérico con los ojos turbios de borracho, a los obreros que se vislumbraban en la bruma matinal, al terraplén, al caballejo que estiraba el cuello, y pensé: «¡No hay modo de entender nada en este mundo!».
 En el momento en que arreaba a mi caballo y partía al galope a lo largo de la línea, y algo después, cuando solo veía ante mí una llanura infinita y sombría y un cielo frío y encapotado, recordé las cuestiones que se habían planteado por la noche. Mientras meditaba, la llanura abrasada por el sol, el cielo inmenso, el oscuro robledal que se columbraba en lontananza y el nebuloso horizonte parecían decirme: «¡Sí, no hay modo de comprender nada en este mundo!».
 Empezaba a despuntar el sol…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

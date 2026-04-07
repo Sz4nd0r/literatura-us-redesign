@@ -329,6 +329,3 @@ Luego dijo:
 Los árboles dieron paso a campos. Pete condujo entre cercas metálicas llenas de trozos de papel llevados por el viento. Un tul de niebla colgaba sobre las cunetas, derramándose sobre la carretera, apagando las fantasmales luces halógenas encendidas en los patios de las granjas ante las que pasaba. La niebla dejaba gotas de agua que rodaban por el parabrisas.
 Pete rebuscó entre sus casetes. Encontró el Canon de Pachelbel y lo puso. Cuando empezaron a sonar los violines se echó hacia atrás y adoptó una expresión atenta, como si los estuviera escuchando de verdad. Sonrió para sí como un hombre que ha terminado su trabajo y saldado sus deudas, hecho todo lo que debía hacer.
 Y de ese modo, sonriendo, moviendo la cabeza al ritmo de la música, siguió otros dos o tres kilómetros más y fingió que no estaba aminorando ya la marcha, que no iba a dar la vuelta, que sería capaz de seguir conduciendo así, solo, y que tendría la contestación adecuada cuando su mujer se quedara parada delante de él a la puerta de su casa y preguntara: «¿Dónde está? ¿Dónde está tu hermano?».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

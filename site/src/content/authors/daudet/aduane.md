@@ -137,6 +137,3 @@ equivoco. Al pasar uno de ellos por delante de mí para echar al fuego un haz de
 leña, me dijo con voz baja y conmovida:
 —¡Ya ve usted, señor, que pasan muchos tormentos
 en nuestro oficio!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

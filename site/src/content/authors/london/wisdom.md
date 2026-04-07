@@ -45,6 +45,3 @@ Los dos obedecieron en silencio, sin miedo, porque es el futuro el que presiona 
 —Entonces adiós, compañeros. Ojalá ocupéis un lugar junto a una olla bien llena, en una tienda donde haga calor, antes de que acabe el día.
 Mientras hablaba, alzó el rifle y muchos ecos rompieron el silencio. Nada más apagarse, otros rifles hablaron en la distancia. Charley el de Sitka se sobresaltó. Había disparado más de una persona, sin embargo en el grupo solo tenían un rifle. Echó una rápida ojeada a los hombres que yacían inmóviles, sonrió con malicia ante la sabiduría del camino y echó a andar con prisa para reunirse con los hombres del Yukón.
 [1899]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

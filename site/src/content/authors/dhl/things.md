@@ -82,6 +82,3 @@ Y cuando estuvieron en su moderna casita del campus de la Universidad de Clevela
 —Europa es la mayonesa, sí, pero es Norteamérica la que pone la langosta. ¿O no?
 —¡Sin duda! —dijo ella con satisfacción.
 Y él la miró fijamente. Estaba en la jaula, pero dentro se sentía a salvo. Y resultaba evidente que Valerie era, por fin, ella misma. Se había hecho con el botín. Y sin embargo Erasmus, alrededor de la nariz, tenía un aire extraño, malévolo, escolástico, de puro escepticismo. Pero le gustaba la langosta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

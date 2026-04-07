@@ -202,6 +202,3 @@ La señora Fettley miró y se estremeció. Después se inclinó y besó a la se�
 —Valía la pena, ¿no?, valía la pena el dolor.
 —Los labios, que todavía conservaban rastros de su belleza, apenas suspiraron estas palabras.
 La señora Fettley besó aquellos labios y se fue hacia la puerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

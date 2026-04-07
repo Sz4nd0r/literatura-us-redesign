@@ -62,6 +62,3 @@ El marido captó su mirada. El odio volvió a agitarse en su pecho y, para herir
 —Serie nueve mil cuatrocientos noventa y nueve, número cuarenta y seis. ¡No veintiséis!
 La esperanza y el odio desaparecieron de repente e inmediatamente Iván Dmítrich y su mujer encontraron la habitación oscura, pequeña y sofocante. Imaginaban que la cena que hubieran estado comiendo les sentaba mal y pesaba en sus estómagos. Las noches se volvían largas y tediosas.
 —¿Qué significa este infierno? —dijo Iván Dmítrich, con fastidio—. Por donde vas hay siempre trozos de papel, migas y cáscaras bajo mis suelas. ¡Es que no se barre este lugar nunca! ¡Necesito dejar esta casa, que me lleve el diablo! ¡Me iré ahora mismo y me colgaré del primer árbol que encuentre!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

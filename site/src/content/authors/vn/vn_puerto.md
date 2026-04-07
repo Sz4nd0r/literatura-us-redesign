@@ -82,6 +82,3 @@ Nikitin la miró atentamente y luego repitió con una nota de desesperación.
 Nikitin lo dejó estar con una sonrisa sardónica, le embutió en la mano un billete de cinco francos, y desapareció rápidamente cruzando la plaza. Un instante después oyó unas pisadas rápidas tras de sí, y una respiración entrecortada, y también el roce de un vestido. Se volvió a mirar. No había nadie. La plaza estaba oscura y desierta. Una hoja de periódico volaba por las baldosas de la plaza impulsada por el viento de la noche.
 Suspiró, volvió a sonreír una vez más, se embutió las manos en los bolsillos, y mirando a las estrellas, que lucían y desaparecían como impulsadas por unos fuelles gigantes, empezó a bajar caminando hacia el mar. Se sentó en el viejo muelle con los pies colgando sobre el agua, contemplando el movimiento rítmico de las olas iluminadas por la luna, y se quedó así sentado durante mucho rato, con la cabeza hacia atrás, apoyada en las palmas de las manos.
 Una estrella fugaz cayó despedida, repentina como un latido perdido del corazón. Una fuerte ráfaga de viento, limpia, le atravesó el cabello, pálido en el resplandor nocturno.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

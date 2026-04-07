@@ -109,6 +109,3 @@ La voz del mísero ciego era débil y trémula, su pétreo rostro no reflejaba e
 “—¡Oh, Alá! ¡Concédeme también a mí un corazón tan firme como el suyo!
 “Y luego se adentró en la oscuridad de la noche…
 “Así murió el jan Mosolaima el Asvab, y se convirtió en jan de Crimea Tolaik Algalla…”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

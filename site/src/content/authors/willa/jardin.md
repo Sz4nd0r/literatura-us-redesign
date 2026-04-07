@@ -55,6 +55,3 @@ Durante el desayuno, su marido la miró con preocupación desde el otro lado de 
 Noble la miró, entre divertido y enfadado.
 —¿Sabes que estoy bastante decepcionado? Casi esperaba que, por una vez, ya sabes, fueras un poco insensata.
 —Ya no, ahora que lo he consultado con la almohada —respondió Caroline, y los dos se levantaron de la mesa, riendo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

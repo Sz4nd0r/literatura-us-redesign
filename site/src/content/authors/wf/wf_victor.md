@@ -389,6 +389,3 @@ orgullo». Por el manuscrito, cabe deducir que lo dice el narrador, y no Matthew
 [6] Alec Gray inconscientemente regresa a Londres para asistir a las ceremonias del
 Día del Recuerdo, 11 de noviembre, en que se celebra el Armisticio que puso fin a la
 Primera Guerra Mundial, momento en que su «vida» en la guerra «muere».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

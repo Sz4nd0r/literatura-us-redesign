@@ -82,6 +82,3 @@ Volvió al comedor, a la mesa en la que estaban sentados los tres hombres, pero 
 —De veras —rogó Sylvester—. Tienes que ser razonable.
 —¡Razonable! ¡Razonable! —El rostro gris del jockey tembló, luego se detuvo en una sonrisa helada y desagradable. Sacudió la mesa hasta que los platos se tambalearon, y por un momento pareció que la iba a volcar. Pero de pronto lo dejó. Alargó la mano a la fuente que estaba a su lado y se metió deliberadamente en la boca un puñado de patatas fritas. Masticaba despacio, con el labio superior levantado, se volvió y escupió la masa pastosa sobre la suave alfombra roja que cubría el suelo—. ¡Depravados! —dijo. Y su voz sonaba delgada y rota. Saboreó la palabra como si tuviera un sabor que le gustara—. ¡Depravados! —repitió, y volviéndose se marchó del comedor con su rígido pavoneo.
 Sylvester encogió uno de sus hombros pesados y caídos. El hombre rico secó un poco de agua que se había vertido sobre el mantel, y no hablaron hasta que vino el camarero a recoger los platos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

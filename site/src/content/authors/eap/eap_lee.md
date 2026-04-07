@@ -98,6 +98,3 @@ y así paso, tendido a su lado, las noches,
 velando a mi amada, mi amor, mi consorte,
 en su sepulcro junto al mar turquí,
 el mar que ruge por ella y por mí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

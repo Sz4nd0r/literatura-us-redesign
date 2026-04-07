@@ -103,6 +103,3 @@ Algunos se reían y decían que su tacañería había desaparecido con el susto 
 —Sí —respondió la señora Deems, con seriedad—. ¡Por allí va la señora Parkins en su viejo carro, con mi Lucy sentada a su lado, tan vivaracha como Nathan! ¿No tiene la señora Parkins una expresión mucho más simpática que antes? Cuánto más hace por los demás, y más se empobrece, más rica parece sentirse.
 —No es muy corriente en una mujer de su edad volver sobre sus pasos. Nos permite creer que el Cielo cuida y ayuda a la gente —dijo la vecina.
 Y las dos se quedaron mirando con grata admiración a la mujer enjuta y menuda que se alejaba por la accidentada carretera. Ya mediaba la primavera, pero la señora Parkins seguía luciendo su mejor sombrero de invierno; el viejo y roñoso, adornado con un lazo gris, lo encontraron las hijas del pastor al derretirse la nieve, y lo escondieron con mucho cuidado para el espantapájaros parroquial cuando llegara la siembra del maíz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

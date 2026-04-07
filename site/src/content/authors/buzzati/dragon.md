@@ -170,6 +170,3 @@ Nadie había respondido a su grito, nadie se había movido en todo el mundo. Las
 Lo que el hombre había hecho era justo, totalmente conforme a las leyes. Y sin embargo, parecía imposible que nadie hubiera respondido a la última llamada del dragón. Andrónico, lo mismo que su mujer y los cazadores, sólo pensaba en huir; incluso los naturalistas renunciaron a realizar el embalsamamiento, con tal de alejarse rápidamente de allí.
 Los hombres del pueblo habían desaparecido, como si presintieran alguna maldición. Las sombras subían por las paredes ruinosas. Del cuerpo del dragón, armazón apergaminado, se elevaban ininterrumpidamente dos hilos de humo que se retorcían lentamente en el aire estancado. Todo parecía haber acabado. Un triste incidente que había que olvidar y nada más. Pero el conde Gerol seguía tosiendo y tosiendo. Agotado, se hallaba sentado en una gran piedra, junto a sus amigos, que no se atrevían a hablarle. Incluso la intrépida María miraba hacia otra parte. Sólo se oían aquellas secas tosecillas. Martino Gerol trataba de dominarlas en vano; una especie de fuego se difundía dentro de su pecho, cada vez más hondo.
 —Lo presentía —susurró el gobernador Andrónico a su mujer, que temblaba un poco—. Presentía que esto acabaría mal.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -80,6 +80,3 @@ Entre todos quitan la lámpara y buscan por debajo de la mesa. Sus manos cogen l
 Sonia, con la cabeza apoyada sobre los brazos, duerme dulce, plácida y profundamente. Como si llevara ya una hora dormida. Se durmió sin querer, mientras los otros buscan el kopek.
 —¡Anda! ¡Échate en la cama de mamá! —dice Ania sacándola del comedor—. ¡Anda!
 Todos la conducen en tropel, y al cabo de cinco minutos la cama de mamá ofrece un espectáculo curioso: Sonia duerme, y a su lado Aliosha exhala suaves ronquidos mientras sobre las piernas de ambos descansan las cabezas de Grisha y de Ania. Allí junto a ellos se acurruca Andréi, el hijo de la cocinera, y a su lado, perdido su valor, hasta el próximo juego, yacen desparramados los kopeks. ¡Buenas noches!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

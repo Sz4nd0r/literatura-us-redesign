@@ -250,6 +250,3 @@ hoy, por eso, estoy aquí.
 Desde el principio mi peor amigo,
 ¡sangre de un ratón era yo mismo!
 Cuando desperté, vi a Mulvaney —el rocío nocturno le perlaba el mostacho— apoyado en su fusil mientras montaba guardia, solitario como Prometeo en su roca, con no sé qué buitres royéndole el hígado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

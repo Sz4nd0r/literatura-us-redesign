@@ -367,6 +367,3 @@ Miss Amy tornó a comunicarse con las estrellas de agosto y replicó:
 Por último, ella descendió la mirada, y las señoritas Frush se encaminaron juntas hacia la mansión.
 —En fin, él ya está satisfecho.
 —Sí, y —reflexionó Miss Susan un tanto melancólicamente mientras andaban— ¡tú al final pudiste disfrutar de tu semana en París!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

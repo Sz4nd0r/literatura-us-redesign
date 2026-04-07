@@ -46,6 +46,3 @@ ignoran y se buscan, viven juntos y no lo saben, y al encontrarse necesitan esta
 Clara, pobrecilla, me quiso aquella noche como siempre. Quizá me quiso más, pues también ella tiene sus malicias. Jugamos a veces a alzar de nuevo entre nosotros el misterio,
 a intuir que cada uno es para el otro alguien ajeno, huyendo así de la monotonía. Pero ahora ya no podía perdonarle que fuese una mujer, alguien que transforma el sabor remoto del
 viento en sabor de carne.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

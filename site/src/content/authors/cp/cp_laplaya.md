@@ -706,6 +706,3 @@ Pero él quería ir a Génova. Me pidió que le prestase el dinero para el viaje
 —¿Qué crees? —exclamé—, ¿que se acuerda de ti?
 Entonces calló de nuevo. Yo pensaba en lo extraño de la situación: el que tenía el dinero para el viaje era yo, y no lo hacía. Mientras tanto llegamos a la callejuela y la vista del olivo me irritó. Empezaba a comprender que nada es más inhabitable que un lugar donde se ha sido feliz. Comprendí el por qué Doro un buen día había tomado el tren para volver a las colinas y a la mañana siguiente se había reintegrado a su destino.
 La misma noche nos encontramos en el café —estábamos todos, Guido también, Nina, en su mesita— y convencí a Berti para que regresara conmigo a Turín. Guido quería llevarnos a bailar, estaba dispuesto a llevarle también a él. Pero nosotros partimos aquella noche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

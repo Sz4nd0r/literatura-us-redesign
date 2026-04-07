@@ -197,6 +197,3 @@ A propósito, me arrojé. Y caí.
 Y, me parece, el mundo se acabó.
 Por lo menos, el de aquella noche. Después, al día siguiente, sano y
 glorioso, yo en el recreo, vino Gamboa, entonces, y así me dijo: —“¿Eh, eh, pues? ¿Viste cómo mi cuento era también de verdad?” Saltamos, nos agarramos en fiera pelea.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -189,6 +189,3 @@ barrera y le gritó que lo siguiera. La gente le chilló para que él
 continuara caminando, pero Frank seguía llamándola. Ella volvió su
 pálida cara hacia él, pasiva, como animal desamparado. Sus ojos no
 le dieron ningún signo de amor, ni de adiós, ni de reconocimiento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

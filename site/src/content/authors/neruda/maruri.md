@@ -257,6 +257,3 @@ Y por la vastedad del vacío van a ciegas
 las nubes de la tarde, como barcas perdidas
 que escondieran estrellas rotas en sus bodegas.
 Y la muerte del mundo cae sobre mi vida.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

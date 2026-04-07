@@ -66,6 +66,3 @@ Se tambaleó hasta la fuente para apagar aquella llamarada, tropezó sobre Rosta
 ¡Oh! Don Rui, el listo, ¡era veneno! Porque Guanes, tan pronto como había llegado a Retortilho, antes incluso de comprar las alforjas, a toda prisa, y cantando, se dirigió a una callejuela, por detrás de la catedral, para comprarle al viejo droguista judío el veneno que, mezclado con el vino, lo convertiría a él, y solamente a él, en dueño de todo el tesoro.
 Anocheció. Dos cuervos, de entre la bandada que graznaba allá en los zarzales, ya se habían posado sobre el cuerpo de Guanes. La fuente, cantando, lavaba al otro muerto. Medio enterrado en la hierba negra, todo el rostro de Rui se había vuelto negro. Una estrellita centelleaba en el cielo.
 El tesoro todavía se encuentra allí, en la mata de Roquelanes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

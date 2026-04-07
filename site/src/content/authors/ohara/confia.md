@@ -332,6 +332,3 @@ Me la tendió y la sopesé.
 —Está cargada, ¿verdad? —dije.
 —Oh, sí —dijo—. Pero sé que puedo confiar en ti con las armas de fuego.
 —Philip siempre ha dicho que podía confiar en ti con las armas de fuego —dijo Martha Haddon.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

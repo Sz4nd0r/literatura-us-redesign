@@ -92,6 +92,3 @@ Elías dió algunos pasos hacia ella conteniendo la respiración, pero de repent
 —Pregunta al viejo Ese. Ha vuelto hace unos días y anda trabajando en los peores sitios por un dólar diario. He oído decir que durante su ausencia ha rodado por los lugares de los minyos.
 —¿Quién? ¿Uno? ¿Ese? ¡Cualquier día se hubiera metido ese cobardón en los sitios de peligro y en donde se reparten golpes! ¿Por qué no decir que ha sido él el propio Gran Jefe de los minyos? Mira, ahí le tienes: pregúntale.
 La salida del minero fue acogida por una carcajada homérica. Elías Martín, Uno, que acababa de entrar en la sala, dirigió en rededor una tímida mirada, y se echó también a reir para hacer coro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -154,6 +154,3 @@ y sentí en él un dolor como si algo lo penetrara y unas dulces lágrimas brota
 manos y, temblando como un tallo de hierba, sin ningún obstáculo me entregué al primer conocimiento y la primera revelación
 de mi corazón, a la primera sensación de mi aún confusa naturaleza de hombre… En aquel instante finalizaba mi primera infancia.
 Cuando, al cabo de dos horas, regresé a casa, ya no encontré a madame M*; se había marchado con su marido a Moscú, por algo que les había surgido repentinamente. Nunca más volví a verla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

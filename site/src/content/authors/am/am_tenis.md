@@ -134,6 +134,3 @@ En ese momento el baile alcanzaba su máximo esplendor. El salón estaba atestad
 —No os olvidéis —dijo por última vez Jancovich—: animación, bailad, divertíos como si no hubiera pasado nada.
 Luego, Mastrogiovanni delante y los demás siguiéndolo, entraron los cinco entre la multitud y se confundieron con ella, sin distinguirse ya de los demás bailarines que, vestidos de negro como ellos, a paso de danza, abrazados a sus damas, desfilaban lentamente ante el tablado de la orquesta.
 (1927)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

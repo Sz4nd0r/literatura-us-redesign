@@ -482,6 +482,3 @@ tratando de oír. No se oía nada: la noche era de
 un silencio perfecto. Escuchó de nuevo:
 perfectamente muda. Sintió que se había quedado
 solo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

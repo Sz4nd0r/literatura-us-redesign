@@ -71,6 +71,3 @@ En ese “mañana” había tanta fe, una fuerza tan grande y misteriosa, que hi
 —Bueno, pues que Dios os bendiga —murmuró.
 Mañana… mañana… quién sabe. De una u otra forma acabaréis consiguiéndolo…
 “Qué hermosa palabra es ‘mañana’”, pensó Prestinari, que ya no podía pronunciarla. Y para que no se notara que estaba llorando, salió corriendo como alma que lleva el diablo, alejándose sobre la laguna.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

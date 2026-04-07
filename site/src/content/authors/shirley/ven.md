@@ -115,6 +115,3 @@ Al llegar a la puerta de la casa, se volvió y dijo a la señora Archer:
 —¿No se los dije? —exclamó la señora Corn—. ¿No se los he estado diciendo desde el principio?
 La señora Archer, con los ojos fijos en Kathy, tuvo el impulso de echar fuera al viejo a empujones, pero él se anticipó.
 —“Ven a bailar conmigo en Irlanda” —repitió. Apoyándose en la pared, llegó a la puerta de la calle y la abrió—. Y el tiempo corre... —añadió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

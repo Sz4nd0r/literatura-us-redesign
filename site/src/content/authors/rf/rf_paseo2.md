@@ -100,6 +100,3 @@ Golpeé a Ángela con el lado izquierdo de la salpicadera, arrojando su cuerpo u
 Cuando llegué a casa mi mujer estaba viendo la televisión, una película en colores, doblada.
 Hoy tardaste más. ¿Estabas muy nervioso?, dijo.
 Estaba. Pero ya pasó. Ahora voy a dormir. Mañana voy a tener un día terrible en la oficina.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

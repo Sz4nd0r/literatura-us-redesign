@@ -68,6 +68,3 @@ Del patio llegaban unos sonidos semejantes al aullido de un perro.
 —Lo que hay que ver… ¡Está chiflado!
 —¡Se acostumbrará! —dijo Semión y al punto se quedó dormido.
 Pronto los otros se durmieron también. Y la puerta quedó sin cerrar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

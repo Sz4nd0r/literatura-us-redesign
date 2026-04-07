@@ -162,6 +162,3 @@ Avergonzado, encogiéndose un poco de hombros y tiritando luego, cogió las bols
 Empezó a correr por la ladera, no pudo evitarlo. Cuando ya llegaba a la carretera donde su coche parecía asentado a la luz de la luna como un barco, su corazón empezó a lanzar tremendas explosiones, como un rifle, bang bang bang.
 Cayó al suelo aterrado, las bolsas cayeron junto a él. Tenía la sensación de que todo aquello había pasado antes. Se cubrió el pecho con ambas manos, para que nadie oyese el ruido de su corazón.
 Pero nadie lo oyó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

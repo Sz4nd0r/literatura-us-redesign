@@ -48,6 +48,3 @@ De pronto empiezo a masticar algo duro, y escucho el ruido de algo que cruje.
 Después de aquello recuerdo una sed terrible. Estoy echado en mi cama y no puedo dormirme porque me duele el estómago, y un sabor extraño que inunda mi boca que arde. Mi padre recorre la habitación de cabo a rabo gesticulando.
 —¡Debo de haberme resfriado! —murmura—. Tengo una extraña sensación en la cabeza… Es como si alguien estuviera sentado encima… O a lo mejor es porque yo… En fin… No he comido hoy… Me siento extraño, soy un estúpido… Veo esos hombres pagando diez rublos por ostras, ¿por qué no me acerqué a ellos y les pedí algo? Aunque fuera un préstamo… Me lo habrían dado.
 Me duermo hacia la mañana. Me duermo y sueño con una rana con garras sentada sobre una concha y con sus ojos clavados en mí. A mediodía me despierto mascando la fiebre y busco a mi padre, que sigue gesticulando, y recorriendo la habitación de cabo a rabo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

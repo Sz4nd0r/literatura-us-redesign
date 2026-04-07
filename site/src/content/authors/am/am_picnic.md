@@ -73,6 +73,3 @@ Ahora todos me insultaban; y yo les respondía en el mismo tono, tranquilo, aunq
 En resumidas cuentas, sin saber muy bien cómo, me encontré en la calle, con un gran frío, y con mi mujer que lloraba y repetía:
 —Ya ves lo que has hecho... Ahora nos hemos hecho enemigos y el año que viene será peor que el que ha acabado.
 Así, discutiendo, entre los estallidos de las lamparillas quemadas y los cascos de vajilla que volaban desde las ventanas, nos volvimos a casa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

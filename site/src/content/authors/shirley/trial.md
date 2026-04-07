@@ -78,6 +78,3 @@ Emily se descubrió contemplando el retrato del marido de la mujer. “Un hombre
 —Si puedo hacer algo más por ti, dímelo.
 —Gracias —repitió Emily, abriendo la puerta. Esperó un momento y luego se dirigió a la escalera para regresar a su habitación.
 —Más tarde pasaré a verte —prometió la señora Alien—, sólo para ver qué tal te encuentras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

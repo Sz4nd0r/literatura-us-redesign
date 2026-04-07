@@ -82,6 +82,3 @@ Harris dio unos pasos y abrió la puerta del baño; cuando se asomó al interior
 —Lo mismo digo —respondió ella, y cerró la puerta tras él, lentamente. Escuchó sus pisadas bajando los peldaños y echó un vistazo al reloj. Las tres y veinticinco.
 De pronto, le entraron prisas. Buscó la nota que le había dejado Nancy Roberts y escribió en la otra cara, con un lápiz que sacó de una de las cajas: “Mi querida señora Roberts: Esperé hasta las tres y media. Me temo que los muebles no me interesan. Hilda Clarence”. Lápiz en mano, permaneció pensativa unos instantes y añadió: “P. D. Llamó su esposo. Dice que lo llame usted”.
 Recogió el bolso, La cartuja de Parma y el Villager, y cerró la puerta. La chincheta aún seguía allí; la extrajo y volvió a clavarla con la nota. Después, dio media vuelta, bajó la escalera y se dirigió a su casa. Le dolían los hombros.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

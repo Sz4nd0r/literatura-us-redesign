@@ -188,6 +188,3 @@ si es que quiere más pan. Y si surgiera el caso de que hubiera shi, nos llenar�
 »Lo miro y veo que Iemeliá quiere decirme algo. Se irguió haciendo fuerzas y moviendo los labios…
 De pronto, se puso todo encarnado y con los ojos clavados en mí… Después, fue palideciendo cada vez más hasta quedarse
 un instante sin consciencia; echó la cabeza hacia atrás, respiró profundamente y en aquel instante entregó su alma a Dios.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

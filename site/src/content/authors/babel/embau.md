@@ -85,6 +85,3 @@ Y añadió suavemente:
 El comandante de la remonta arrojó las
 bridas al ordenanza. Subió cuatro escalones de un salto y teatralmente,
 flotando el capote, desapareció en la residencia del estado mayor.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -83,6 +83,3 @@ Rosina había aparecido desde detrás del árbol y se hallaba inclinada sobre é
 Las lágrimas de felicidad humedecieron el rostro de Rosina.
 —El castigo ha sido severo —observó el escultor—. Incluso la justicia puede perdonar. ¡Cuánto más lo hará la ternura de una mujer! Roderick Elliston, tanto si la serpiente fue un reptil físico, como si fue la morbidez de su naturaleza la que sugirió a su capricho ese símbolo, la consecuencia de la historia sigue siendo auténtica y poderosa. Un egoísmo tremendo, manifestado en su caso en la forma de celos, es un demonio tan temible como cualquier otro que se haya introducido en el corazón humano. Pero ¿puede estar purificado un pecho en el que ha habitado tanto tiempo?
 —Oh, sí —contestó Rosina con una sonrisa celestial—. La serpiente sólo era una fantasía oscura, y lo que ejemplificaba era tan sombrío como ella misma. El pasado, por sombrío que pareciera, no causará tristeza en el futuro. Dándole su debida importancia, sólo debemos pensar en él como en una anécdota de nuestra Eternidad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -87,6 +87,3 @@ York acercó la cara al rostro que se desdibujaba.
 Un brillo risueño asomó a los ojos azules de Scott cuando susurró:
 —Muchacho, aquel pan tenía demasiado bicarbonato.
 Dicen que estas fueron sus últimas palabras. Y cuando el sol, que tantas veces se había puesto sobre la ira de estos dos necios, volvió a verlos reunidos, la mano de Scott resbaló, fría e inerte, entre las de su antiguo socio y supo que la enemistad de Sandy Bar había terminado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

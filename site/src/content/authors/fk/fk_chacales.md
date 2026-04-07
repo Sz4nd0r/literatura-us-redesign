@@ -161,6 +161,3 @@ allí; otra vez el jefe alzó el látigo; yo retuve su brazo.
 —Tienes razón, señor —dijo—,
 dejémoslos en su oficio; por otra parte es tiempo de partir. Ya los
 has visto. Prodigiosos animales, ¿no es cierto? ¡Y cómo nos odian!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

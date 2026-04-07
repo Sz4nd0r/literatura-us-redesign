@@ -110,6 +110,3 @@ Ella le hizo señas de que no, con la cabeza.
 —¡Ven! —dijo él, encaminándose por la primera calle a la izquierda, y mirando una por una las tumbas que estaban alineadas allí.
 Era la penúltima de aquella calle. Entonces él se descubrió la cabeza, lentamente, puso la corona en la lápida funeraria, retrocedió lentamente y, sin que ella lo viera, se alejó, para darle tiempo de rezar una oración. Pero ella permaneció allí, muda, sin ni siquiera poder alejar el pañuelo de los ojos. Ni un pensamiento, ni una lágrima para el muerto. Desorientada, se giró de pronto para buscar a su marido, lo llamó, como hasta ahora nunca lo había llamado, se agarró a su brazo, convulsa:
 —¡Perdóname! ¡Perdóname! ¡Llévame lejos!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

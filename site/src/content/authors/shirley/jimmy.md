@@ -49,6 +49,3 @@ Llevada de la misma sensación de triunfo, continuó pensando: En realidad, él 
 —Lo había olvidado —respondió él, levantando la vista—. Supongo que eso haré.
 ¿Por qué tuve que abrir la boca?, se preguntó ella, y continuó pensando: Él ya lo había olvidado; el problema es que, realmente, lo había olvidado. Se le fue de la cabeza por completo, sin dedicarle un momento más su atención. Si fuera una serpiente, ya le habría picado.
 Debajo de la escalera del sótano, se dijo de nuevo; con la cabeza aplastada y esa maldita carta entre las manos enlazadas. Y vale la pena, pensó; oh, sí, vale la pena.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

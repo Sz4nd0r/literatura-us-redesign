@@ -391,6 +391,3 @@ y procuró armarse ele valor para hacerse a la idea
 de que son muchas las personas que se ven
 obligadas a vivir y morir solitarias, aun en
 Winesburgo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

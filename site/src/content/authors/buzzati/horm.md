@@ -88,6 +88,3 @@ Pero el conde Mandranico ya se iba, arrastrando su piernecita por el plano incli
 Ya solo en el talud, Leclerc observaba su reino. Las arenas continuaban cayendo, arrastradas hacia abajo por una fuerza misteriosa. Vio también a los fellahs abandonar el palacio en una carrera desordenada, huir horrorizados, desaparecer de una forma casi inexplicable. El ayudante, con guardapolvo blanco, corría llamándoles de forma airada, intentando retenerles en vano. Después también él calló.
 Entonces se pudo oír la voz del desierto que avanzaba: un coro contenido de mil susurros hormigueantes. Deslizándose hacia abajo por una escarpadura, una pequeña oleada de arena llegó hasta el pedestal de la primera columna y, poco después, una segunda enterró todo el basamento.
 —Dios mío —murmuró Leclerc—. Dios mío.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

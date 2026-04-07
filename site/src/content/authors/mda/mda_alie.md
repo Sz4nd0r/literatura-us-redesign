@@ -344,6 +344,3 @@ Fue terminante. Simón Bacamarte inclinó la cabeza, simultáneamente triste y f
 —La cuestión es científica —decía él—; se trataba de una doctrina nueva, cuyo primer ejemplo soy yo. Reúno en mí mismo la teoría y la práctica.
 —¡Simón! ¡Simón! ¡Mi amor! —le decía la esposa con el rostro arrasado por las lágrimas.
 Pero el ilustre médico, con ojos encendidos de convicción científica, no prestó oídos a la desesperación de la mujer, y blandamente la rechazó. Cerrados los portones de la Casa Verde, se entregó al estudio y a la cura de sí mismo. Dicen los cronistas que murió diecisiete meses más tarde, en el mismo estado en que entró, sin haber podido avanzar en sus investigaciones un solo paso más. Algunos llegan al extremo de insinuar que en Itaguaí el único loco que hubo fue él; pero esta opinión, fundada en un rumor que circuló desde que el alienista expiró, no apoya su presunta validez en otra cosa que ese rumor; y rumor discutible, pues se lo atribuyen al padre Lopes, que con tanto énfasis realzara las cualidades del gran hombre. Sea como fuere, se efectuó el entierro con mucha pompa e infrecuente solemnidad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

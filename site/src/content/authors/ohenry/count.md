@@ -298,6 +298,3 @@ Maggie dijo con tímida sonrisa, ya segura del perdón:
 —¿Creíste alguna vez esa historia del conde?
 —Del todo, no —dijo él—, porque la fotografía que
 llevas en el dije es la de Mike Sullivan.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

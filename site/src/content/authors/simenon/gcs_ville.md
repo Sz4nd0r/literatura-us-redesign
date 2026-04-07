@@ -437,6 +437,3 @@ Emilio y Torrence, desdeñando el lujo culinario del Royal y en una modesta tabe
 »¿Qué puede decir, ella?… ¿Qué puede hacer?… ¿Qué prueba dar, cuando todas las pruebas están contra ella?…
 »Si yo no hubiese charlado con mi amigo John, si éste no se hubiese acordado de que Enrique hablaba húngaro, si…
 —Con tanto si… —refunfuñó Torrence—. ¡Oiga! Espero que, a pesar de todo, no vayamos a comer solamente gambas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

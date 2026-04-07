@@ -237,6 +237,3 @@ Tenían que volver a la ciudad. El funicular esperaba.
 Más en broma que en serio, le dije:
 —Me parece que ha estado usted a ver a Steinach en Viena. Y que le han hecho una operación para rejuvenecerle.
 Por toda contestación, el conde se llevó a los labios el índice derecho y luego se lo puso contra la nariz. Y entonces me guiñó un ojo. Inmediatamente después cerró el puño, enderezó el pulgar e hizo un gesto complicado, que estoy seguro estaría preñado de significado vital para cualquier italiano. Para mí, ignorante del lenguaje de los signos, su significado exacto no estuvo demasiado claro. Pero el conde no se ofreció a aclararlo con explicaciones verbales. Se quitó el sombrero sin decir una palabra y volviendo a recomendarme silencio, llevándose el índice a los labios, echó a correr con agilidad pasmosa por la pendiente muy pronunciada que llevaba hasta el funicular, en uno de cuyos cochecitos ya la Colombella había tomado asiento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

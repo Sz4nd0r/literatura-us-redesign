@@ -85,6 +85,3 @@ Cuando el mozo nos hubo servido el café y los cigarrillos, recordé a Gerald su
 —Estoy convencido de ello —respondí.
 Gerald sacó de nuevo la cajita de tafilete, lo abrió y estuvo contemplando largo rato la fotografía.
 —Sigo teniendo mis dudas —exclamó finalmente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

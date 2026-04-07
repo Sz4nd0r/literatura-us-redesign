@@ -30,6 +30,3 @@ Se recobró, levantó la batuta dirigiendo una mirada arrogante y alegre a los d
 Un típico arpegio descendente de clarinete le avisó de que ya estaban llegando: iba a empezar el arrebato, la empinada salvaje con que la Octava Sinfonía salta desde la llanura de la mediocridad y, con los encabalgamientos típicos de Brahms, en potentes ráfagas, se eleva verticalmente para descollar, victoriosa, en una luz suprema, como una nube.
 Se lanzó con ímpetu desbordado por la cólera. La orquesta, estremecida, también se encabritó, oscilando pavorosamente durante una fracción de segundo, y después salió al galope, irresistible.
 Entonces el rumor, los cuchicheos, los golpes, las pisadas, los pasos y el ir y venir callaron, nadie se movió ni rechistó, todos quedaron paralizados, no ya de miedo sino de vergüenza, mientras en las astas plateadas de las trompetas, allá arriba, las banderas ondeaban.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

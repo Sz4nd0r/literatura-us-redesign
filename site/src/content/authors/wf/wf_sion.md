@@ -329,6 +329,3 @@ De manera que Hunter me cedió su mitad de las esposas y se hizo a un lado.
 —¿Cuál de los dos qué? —dijo Montgomery Ward.
 —¿Tío o primo tuyo? —dije yo.
 —¿Sí? —dijo Montgomery Ward.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

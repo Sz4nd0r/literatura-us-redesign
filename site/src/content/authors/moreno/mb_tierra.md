@@ -47,6 +47,3 @@ En
 Tierra en la boca, es evidente que el dolor alfabetiza a estos seres primarios. Aprenden cuando ya es tarde, adquieren (como el Gallego) verdadero gusto por la vida cuando no tienen otra escapatoria que el suicidio; aun Isabel teme y a la vez confía que el Gallego haya dejado un hijo en su vientre, pero a la vez sabe que ese hijo nacerá en la cárcel o en la frustración. El sobrecogedor mensaje -si es que la novela tiene alguno, o si de todas maneras existe al margen de las intenciones de su autor- es que a estos pobres la lección del dolor les llega tarde. Los conmueve, los estremece, les permite hallar en si mismos reservas de amor que ignoraban poseer; los sacude y educa, pero en realidad los sacude para la muerte o los educa para la cárcel. El sistema es cruel.
 Señalemos, por último, y ya no como valor literario, que la objetividad de la obra sirve para enjuiciar indirectamente a este sistema, que si bien no es todavía (en la novela) la aberrante dictadura, ya lleva en sí mismo su pretexto y su germen.
 Tierra en la boca testimonia un derrumbe, y en ese sentido adicional, extraliterario, también constituye un aporte invalorable a la interpretación social de un período, particularmente crítico, del Uruguay contemporáneo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

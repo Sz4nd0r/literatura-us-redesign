@@ -262,6 +262,3 @@ Frank Castle, llorando de risa, había sacado el pañuelo para secarse las lágr
 —Si… si… —empezó, pero no acertaba a sacarlo.
 —¿Qué? ¿Qué? Francesco…
 —Si… imaginemos… —Sentía que la risa lo estrangulaba; tosió para liberar el aire constreñido—. Mira, ¡es que ya te veo cayendo de rodillas delante de cada una de estas malditas estatuas! Viviana, ¡es una chiesa! ¡Los curas no han ido a comer! ¡Los curas están ahí abajo! ¡Debajo de tus pies! —Por fin entendía exactamente lo que había ocurrido en Fumicaro: se había impuesto una penitencia para toda la vida—. ¡Podrías pasarte aquí mil años!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

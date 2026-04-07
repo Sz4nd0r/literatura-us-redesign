@@ -64,6 +64,3 @@ Se sentaron juntos: el presidente con veintitrés cumplidos y el subordinado. Si
 —Respóndeme como chekista —dijo tras un silencio—, respóndeme como revolucionario: ¿para qué queremos un hombre así en la sociedad futura?
 —No lo sé —Borovoi no se movía y miraba de frente—, probablemente no lo necesitemos.
 Con un esfuerzo apartó de la memoria los recuerdos. Después se animó y habló a los chekistas llegados de Moscú de Fróim Grach, de su astucia y tenacidad, de su desprecio hacia el prójimo, de todas esas asombrosas historias que pertenecen al pasado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

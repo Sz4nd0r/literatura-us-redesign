@@ -313,6 +313,3 @@ pantalón de Cooper.
 En el bananal enterró a su perro, apisonó la tierra encima, y regresó
 profundamente disgustado, llevando de la mano a sus dos chicos, que lloraban
 despacio para que su padre no los sintiera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

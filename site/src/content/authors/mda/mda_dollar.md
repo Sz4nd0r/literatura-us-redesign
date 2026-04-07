@@ -663,6 +663,3 @@ se metió en la diplomacia y se perfila como uno de los luceros de nuestra
 representación internacional. Jorge sigue siendo un incurable farrista; doña
 Antonia se prepara para despedirse del mundo.
 En cuanto a Miss Dollar, causa indirecta de todos estos sucesos, un día, al salir a la calle, fue atropellada por un carruaje; falleció poco después. Margarita no pudo retener algunas lágrimas por la noble perrita; el cuerpo fue enterrado en la quinta familiar, a la sombra de un naranjo; cubre la sepultura una lápida con esta simple inscripción: A Miss Dollar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

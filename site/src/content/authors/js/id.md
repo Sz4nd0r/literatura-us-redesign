@@ -57,6 +57,3 @@ El festín de Babette
 Tempestades
 La historia inmortal
 El anillo
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

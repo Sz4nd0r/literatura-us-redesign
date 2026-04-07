@@ -82,6 +82,3 @@ Se fue caminando lentamente por la calle hasta que encontró el primer bote gran
 basura. Entonces, tiró al bebé en el bote.
 El bebé había nacido mal formado. Tenía un solo brazo. Ella no iba a darle de mamar y
 nadie iba a querer comprarle aquella cosa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

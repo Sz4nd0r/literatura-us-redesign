@@ -216,6 +216,3 @@ rodearlo de un esplendor así?
 Y el cura huyó, desorientado,
 casi con vergüenza, como si acabase de penetrar en un templo en el
 que no tuviera derecho de entrar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

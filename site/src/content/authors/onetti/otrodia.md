@@ -32,6 +32,3 @@ Frente al espejo, la Sonia se quitó la peluca y se acarició las mejillas.
 —Otra vez barbuda.
 Después se desnudó y estuvo mirando los pechos hinchados con parafina y el sexo que le colgaría tembloroso e inútil hasta después de las sardinas.
 1985
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

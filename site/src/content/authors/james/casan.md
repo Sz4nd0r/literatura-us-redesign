@@ -545,6 +545,3 @@ sabe por dónde tomarla».
 William Shakespeare.
 [4] Alusión al monólogo de Hamlet, acto II, escena 2: «La obra es la cosa con la que
 atraparé la conciencia del rey».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

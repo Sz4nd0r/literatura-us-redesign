@@ -85,6 +85,3 @@ Entonces la voz cristalina de Joy Molineau cruzó el aire:
 Colmillo Lobo la oyó. Abandonó el camino de inmediato y se dirigió hacia donde se encontraba su dueña. El equipo al completo lo siguió, el trineo se balanceó un segundo sobre un solo patín y lanzó a Harrington al suelo. Savoy pasó como un rayo. Harrington se levantó y observó cómo el otro cruzaba el río y llegaba a la oficina del registro. No pudo evitar oír lo que se dijo.
 —Ah, él hizo muy bien —explicaba Joy Molineau al teniente—. Él…, cómo decir…, marcar paso. Sí, él marcar paso muy bien.
 [1899]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

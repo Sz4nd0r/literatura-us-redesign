@@ -230,6 +230,3 @@ decir alguna tontería. De manera que me fui, y desde aquel día no he vuelto a
 ver a mi mujer. Quizás volverá un día, considerando que no es fácil encontrar
 un marido como yo. Pero no traspasará el umbral de mi casa, si antes no me
 explica por qué me ha dejado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

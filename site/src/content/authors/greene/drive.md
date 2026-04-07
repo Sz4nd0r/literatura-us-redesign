@@ -154,6 +154,3 @@ Su padre llamó desde el primer descanso: “¿Quién anda ahí?”.
 —Soy yo —dijo ella. Explicó—, creí que habías dejado la puerta sin seguro.
 —¿Y la dejé?
 —No —dijo suavemente—; está bien cerrada —y corrió con firmeza el cerrojo sin hacer ruido. Esperó a que su padre cerrara su puerta. Tocó el radiador para calentarse los dedos; lo había instalado él mismo, había hecho mejoras en la propiedad; “en quince años”, pensó, “será nuestra”. Se sentía libre de angustia mientras escuchaba la lluvia sobre el techo; su padre había revisado el techo palmo a palmo ese invierno; no había por dónde entrara la lluvia. Se quedaría afuera, tamborileando en la capota destartalada, haciendo agujeros en el campo de tréboles. Permaneció junto a la puerta sintiendo solo la ligera repulsión que siempre había experimentado hacia las cosas débiles y estropeadas, pensando: “No es una tragedia”, y mirando con una especie de ternura el débil cerrojo barato que cualquier hombre hubiera podido abrir, pero que había sido colocado por un Hombre, el jefe de oficina de Bergson’s.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

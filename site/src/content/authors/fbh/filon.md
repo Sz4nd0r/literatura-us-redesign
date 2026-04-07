@@ -580,6 +580,3 @@ Como obedeciendo a la magia de su voz, el joven apareció a dos o tres brazadas 
 —¿Salvado por usted o por Jesusa? —preguntó.
 Ella dirigió una rápida mirada en rededor, asustada y temerosa. No había más que una respuesta que pudiese cerrar aquella boca burlona. La dió.
 —Es lo que he dicho siempre, señores—peroraba gravemente Whiskey Dick algunas semanas después, apoyado en el mostrador con el vaso en la mano—. “Jorge”, dije a éste, “lo que se cuenta a una señorita del gran género, del gran tono, no vale tanto para ganar o perder la partida como lo que se hace”. Lo mismo digo con relación a los asuntos del Vado en general. No es tanto a lo que Carr y los compañeros se han propuesto hacer, como a lo que han hecho las mismas cosas, a lo que debéis los triunfos que se han presentado en vuestro juego, compañeros; ahí está la causa de que por fin hayáis encontrado el filón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

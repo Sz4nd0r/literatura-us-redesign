@@ -96,6 +96,3 @@ Un instante después, cediendo a la fuerza del vino, se dejó caer cuan largo er
 Oyéronse pasos presurosos en la escalera y resonaron pesados golpes en la puerta. Me disponía a impedir que volvieran a molestarnos cuando un paje de la casa de Mentoni irrumpió en el aposento y gritó, con palabras que la emoción ahogaba y volvía incoherentes:
 —¡Mi señora… mi señora… envenenada… envenenada…! ¡Oh la hermosa… la hermosa Afrodita!
 Estupefacto, me precipité a la otomana y traté de que el durmiente recobrara el uso de los sentidos. Pero sus miembros estaban rígidos, lívidos los labios, y aquellos ojos brillantes aparecían ahora fijos para siempre por la muerte. Retrocedí tambaleándome hasta la mesa y mi mano cayó sobre una copa rota y ennegrecida. Y la conciencia de la entera, de la terrible verdad, se abrió paso como un rayo en mi alma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

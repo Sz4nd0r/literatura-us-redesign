@@ -116,6 +116,3 @@ Sacó apresuradamente el reloj de su bolsillo.
 —Tenemos el tiempo justo para tomar el tren a California. Allí es donde vivo ahora. Quizás tu madre se junte allí con nosotros después. Te contaré toda mi vida durante el viaje. Ven.
 Durante un momento estrechó entre sus brazos al niño, que estaba entre asustado y confiado. Después, agarrados de la mano, atravesaron corriendo el corral, pasaron la valla y bajaron por la calle. Oyeron que se abría la puerta de la cocina y escucharon estas últimas palabras:
 —¡Johnnie, so perezoso! ¿Por qué paras de serrar? ¡Espera, que vas a ver cómo te sacudo las pulgas!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

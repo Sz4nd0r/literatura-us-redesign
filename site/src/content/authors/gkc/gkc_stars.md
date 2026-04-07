@@ -121,6 +121,3 @@ Y la voz continuó:
 —Ya usted ha comenzado también a decaer. Usted acostumbraba a jactarse de que nunca cometía una ruindad; pero esta noche ha incurrido usted en una ruindad: deja usted tras de sí la sospecha contra un honrado muchacho que ya se tiene bien ganada la enemiga de los poderosos; usted le separa de la mujer a quien ama y de quien es amado. Pero todavía cometerá usted peores ruindades en adelante.
 Tres diamantes como tres rayos cayeron sobre el césped, lanzados desde la copa del árbol. El hombre pequeñín se inclinó a recogerlos, y cuando volvió a alzar los ojos hacia la verde jaula del árbol, vio que ya el pájaro de plata la había abandonado.
 La recuperación de las joyas —y le tocó realizarla al padre Brown, de casualidad, como siempre— fue la causa de que aquella noche acabara en jubiloso triunfo. Sir Leopold, en un rapto de buen humor, hasta se atrevió a decirle al cura que aunque él, en lo personal, tenía miras mucho más amplias, no era incapaz de respetar a aquellos que, en razón de su credo, estaban obligados a vivir como enclaustrados e ignorantes de las cosas del mundo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

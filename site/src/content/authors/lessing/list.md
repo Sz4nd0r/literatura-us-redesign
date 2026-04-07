@@ -299,6 +299,3 @@ Graham pasó por delante de los tramoyistas que, podría haberlo jurado, no lo r
 —No queda bien, Barbara. Ya sé que te encanta ese tono de azul, pero échale otro vistazo, sé buena chica…
 Graham abandonó el escenario, pasó por el despacho donde estaba el portero leyendo el periódico. Alzó la vista, movió la cabeza como asintiendo, volvió a su periódico. Graham fue en busca de un taxi, mientras pensaba: Será mejor que me invente algo convincente y luego llamaré por teléfono a mi esposa.
 Por suerte tenía una excusa para no estar en casa ese día, porque esa tarde tenía que entrevistar a un joven (para la televisión) sobre su nueva novela.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

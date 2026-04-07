@@ -194,6 +194,3 @@ Pero volvió a rezar, mirando el brillo azuloso del arma, dos primeras mitades d
 De vuelta al cuarto del niño, le robó la bolsa de agua caliente. En el dormitorio, envolvió en ella el Smith and Wesson, aguardando con paciencia que el caño adquiriera temperatura humana para la boca ansiosa.
 Admitió, sin vergüenza, la farsa que estaba cumpliendo. Luego escuchó, sin prisa, sin miedo, los tres golpes fallidos del percutor. Escuchó, por segundos, el cuarto tiro de la bala que le rompía el cerebro. Sin entender, estuvo un tiempo en la primera noche y la luna, creyó que volvía a tener derramado en su garganta el sabor del hombre, tan parecido al pasto fresco, a la felicidad y al veraneo. Avanzaba pertinaz en cada bocacalle del sueño y el cerebro deshechos, en cada momento de fatiga mientras remontaba la cuesta interminable, semidesnuda, torcida por la valija. La luna continuaba creciendo. Ella, horadando la noche con sus pequeños senos resplandecientes y duros como el zinc, siguió marchando hasta hundirse en la luna desmesurada que la había esperado, segura, años, no muchos.
 (1963)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -31,6 +31,3 @@ Esa mujer, ésa de ahí, qué falsa, hipócrita y terriblemente cruel que era. Q
 Dos caballeros lo condujeron fuera de la habitación. La reunión se disolvió.
 Unos días más tarde el señor Becker, al parecer de común acuerdo con su esposa, se hizo internar en un sanatorio para enfermedades nerviosas. Sin embargo, estaba perfectamente sano; simplemente, había llegado a un límite.
 Después los Becker se mudaron a otra ciudad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

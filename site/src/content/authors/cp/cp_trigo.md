@@ -250,6 +250,3 @@ quería ver aquel trigo segado. ¿No me da las gracias?
 Amalia, apoyada en la mesa, no entendió enseguida. Luego le llamearon las mejillas y se quedó sin resuello. Saltó hacia la puerta, la abrió, corrió abajo. Torcía la cara al caminar,
 para esconderse, y los chillidos de los niños le llegaban como desde una distancia remota, mitigados en un zumbido. Al rato de estar en casa se dejó zurrar por el viejo que, al caer la
 noche, seguía sin persuadirse de que ella desde la cocina no hubiera oído nada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

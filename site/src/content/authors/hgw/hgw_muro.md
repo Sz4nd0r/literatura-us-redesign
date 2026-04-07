@@ -126,6 +126,3 @@ Al parecer, aquella noche, él realizó todo el trayecto andando desde la Cámar
 Yo no lo sé. He contado esta historia igual que él me la contó a mí. Hay veces en que creo que Wallace no fue más que la víctima de una coincidencia entre una rara, aunque no sin precedentes, clase de alucinación y una trampa producto del descuido, pero de eso, si he de ser sincero, no tengo una convicción muy profunda.
 Podéis tildarme de supersticioso, si queréis, y de disparatado, pero en verdad, estoy bastante convencido de que él estaba dotado de un don prodigioso, y de un sentido —ignoro cuál— que, bajo la apariencia de un muro y de una puerta, le ofrecía una salida, una secreta y peculiar vía de escape a otro mundo absolutamente más hermoso. En cualquier caso, le traicionó al final, diréis vosotros. Pero, ¿le traicionó realmente? Aquí os enfrentáis con el más recóndito misterio de estos soñadores, de estos hombres visionarios e imaginativos. Para nosotros el mundo sólo tiene formas vulgares, una empalizada, un foso… De acuerdo con nuestras normas cotidianas, él pasó de la seguridad a las tinieblas, al peligro, y a la muerte.
 Pero, ¿fue realmente así para él?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

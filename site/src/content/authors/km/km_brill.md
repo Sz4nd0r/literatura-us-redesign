@@ -226,6 +226,3 @@ rato. La caja de la que había sacado la piel todavía estaba sobre la
 cama. Desató rápidamente la tapa; y rápidamente, sin mirar, volvió a
 guardarla. Pero cuando volvió a colocar la tapa le pareció oír un
 ligero sollozo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

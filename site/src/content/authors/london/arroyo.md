@@ -233,6 +233,3 @@ Shorty negó con la cabeza y empezó a reírse. Era una risa colosal. Las risita
 Por casualidad, sus ojos se posaron en la batea. Se acercó a ella y le dio una patada, desparramando el oro por el suelo.
 —No es nuestro —dijo—. Pertenece al tipo al que anoche hice retroceder ciento cincuenta metros. Y lo que me fastidia es que ciento cuarenta y siete de ellos fueron para bien. Para el bien de él. Vamos, Smoke. Regresemos a Dawson. Aunque si tienes ganas de matarme, no levantaré ni un dedo para evitarlo.
 (1911)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -79,6 +79,3 @@ Aquella noche, los pinos que rodeaban la cabaña, sacudidos por la tempestad, ar
 Y se hubiera levantado de la cama a no habérselo impedido su criada. Sin embargo, haciendo extraños movimientos, continuó en su singular delirio:
 —¡Ven acá, borriquita! ¡So, so! ¡quieta! ¡Qué oscuro está! Alerta con los baches, y cuida también de él, vieja. Ya sabes que a veces, cuando está borracho, rueda como un tronco hasta la cuneta. Corre, pues, en derechura hasta el pino de allá arriba, en la colina. Bueno... ¡no lo dije!... ¡ahí está!... ya viene... solo... sereno... ¡Cómo brillan sus ojos! ¡Tennessee!
 Y así fue a su encuentro...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

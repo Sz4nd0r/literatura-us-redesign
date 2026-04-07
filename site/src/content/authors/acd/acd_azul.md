@@ -251,6 +251,3 @@ Siguió un largo silencio, roto solo por su agitada respiración y por el acompa
 —Ni una palabra más. ¡Fuera de aquí!
 No hicieron falta más palabras. Hubo una carrera precipitada, un ruido de pisadas en la escalera, el eco de un portazo y el seco repicar de unos pies que corrían por la calle.
 —Al fin y al cabo, Watson —dijo Holmes, alargando la mano en busca de su pipa de arcilla—, la policía no me paga para que cubra sus deficiencias. Si Horner corriera peligro sería otro cantar, pero este tipo no comparecerá para declarar contra él y el proceso no seguirá adelante. Seguro que estoy indultando a un delincuente, pero es posible que esté salvando un alma. El tal Ryder no volverá a descarriarse. Tiene demasiado miedo. Envíelo a la cárcel y lo convertirá en carne de presidio para el resto de su vida. Además, la Navidad invita al perdón. La casualidad ha puesto en nuestro camino un problema sumamente singular, y el placer de resolverlo ha sido ya recompensa suficiente. Si tiene usted la amabilidad de tocar la campanilla, doctor, iniciaremos otra investigación cuyo elemento principal será también un ave.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

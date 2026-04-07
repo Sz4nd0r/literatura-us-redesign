@@ -491,6 +491,3 @@ Y para terminar con otra nota alegre hay que decir que el ex ministro Arias, des
 El ex ministro partió de regreso a Nicaragua una vez efectuada la boda, contento porque en esta época, para él de vacas flacas, había tenido la suerte de pode dotar a su segunda hija. ¿Cómo dotaría a las tres que le quedaban? En fin, eso se vería cuando llegara el momento.
 Archibaldo y Charo tuvieron, como siempre fue el deseo de él, muchos hijos. El pintor a veces recordaba a la pobre Blanca, que fue tanto menos ardiente que su Charo. Pero con el paso de los años se fue borrando su imagen, y pese a que bautizaron Blanca a su primera hija en recuerdo de la desaparecida, ya después ni siquiera pensaba en ella cuando con Charo llevaban a su tropa de chiquillos a navegar en barquita, o a pasear por el Retiro, seguidos por Luna, su gran y fiel perro gris.
 Madrid, octubre de 1979 a enero de 1980
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

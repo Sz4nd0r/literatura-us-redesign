@@ -197,6 +197,3 @@ Iván Ivánich se desvistió en silencio y se acostó.
 —Señor, perdónanos a nosotros, pecadores —dijo, cubriéndose la cabeza.
 De su pipa, que estaba encima de la mesita, salía un fuerte olor a tabaco. Burkin tardó bastante en dormirse, se preguntaba de dónde salía aquel olor tan pesado.
 La lluvia golpeó en la ventana toda la noche.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

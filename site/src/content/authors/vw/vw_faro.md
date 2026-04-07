@@ -580,6 +580,3 @@ N. del T.:
 [6] Este verso y los que siguen son del Soneto XCVIII de William Shakespeare, traducción de José Méndez Herrera, Selecciones de poesía universal, Plaza & Janes, 1976.
 [7] El señor Ramsay recita un verso del poema The Castaway [El náufrago] (1799), de William Cowper (1731-1800).
 [8] Son los últimos versos de The Castaway, ya citado anteriormente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

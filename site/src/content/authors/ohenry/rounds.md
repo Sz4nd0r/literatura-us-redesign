@@ -231,6 +231,3 @@ El policía Cleary abandonó de nuevo la esquina.
 El viejo Denny dobló su diario y ascendió
 presuroso la escalera, en el preciso instante en que Mrs. Murphy iba a cerrar
 la puerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

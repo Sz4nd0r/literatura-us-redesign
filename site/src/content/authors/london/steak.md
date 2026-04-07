@@ -119,6 +119,3 @@ Tom King vio las luces cegadoras del local y las sonrientes camareras, y, entre 
 No llevaba un céntimo encima. Los tres kilómetros que lo separaban de su casa le parecieron muy largos. Era evidente que envejecía. Cuando cruzaba el Dominio, se dejó caer de pronto en un banco. La idea de que su mujer estaría esperándole, ansiosa de saber cómo había terminado el encuentro, le sumió en una angustiosa desesperación. Esto era peor que un knock-out: no se sentía con fuerzas para mirarla a la cara.
 Estaba desfallecido y amargado. El vivo dolor que sentía en los nudillos le hizo comprender que, aunque encontrase trabajo como peón de albañil, tardaría lo menos una semana en poder empuñar la pala o el pico. Las palpitaciones que le producía el hambre en la boca del estómago le hacían sentir náuseas. Una profunda desolación se apoderó de él y notó que sus ojos se llenaban de lágrimas incontenibles. Se cubrió la cara con las manos y lloró. Y mientras lloraba, se acordó de la paliza que pro­pinó a Stowsher
 Bill una noche ya lejana. ¡Pobre Stowsher Bill! Ahora comprendía por qué lloró aquella noche en los vestuarios.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

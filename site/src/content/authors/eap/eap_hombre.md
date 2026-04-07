@@ -40,6 +40,3 @@ Faltaba ya poco para el amanecer, pero gran cantidad de miserables borrachos ent
 —Este viejo —dije por fin— representa el arquetipo y el genio del profundo crimen. Se niega a estar solo. Es el hombre de la multitud. Sería vano seguirlo, pues nada más aprenderé sobre él y sus acciones. El peor corazón del mundo es un libro más repelente que el Hortulus Animae[1], y quizá sea una de las grandes mercedes de Dios el que er lässt sich nicht lesen.
 Notas:
 [1] El Hortulus Animae cum Oratiunculis Aliquibis Superadditis, de Grünninger.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

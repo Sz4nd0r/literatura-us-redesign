@@ -123,6 +123,3 @@ Charley llamó a la puerta. En seguida abrieron y una agradable bocanada de aire
 —Entrad a calentaros un poco, muchachos, y os daremos un café caliente —anunció Charley, haciéndolos desfilar delante de él.
 Y allí, sentado muy triste ante el fuego, con una taza de moca entre las manos, volvimos a ver al “Marsopa”. Nicolás y yo nos volvimos rápidamente hacia Charley. Se echó a reír a mandíbula batiente.
 —Nunca hay que hacer las cosas a medias —declaró—. Cuando uno se pone a elaborar una táctica, no hay que omitir ningún detalle. Pensé en la playa, y aposté a dos policías. Ése es todo el secreto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -130,6 +130,3 @@ Porteus inventó un test de inteligencia que publicó en 1926 en Raza y temperam
 según el cual la inteligencia está determinada por la raza. Se trataba de un laberinto, y
 George está en el bar como en un laberinto. Sus planteamientos eran evidentemente
 racistas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

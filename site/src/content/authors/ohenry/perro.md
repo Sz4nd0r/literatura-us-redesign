@@ -188,6 +188,3 @@ Me acordé de “Lovey” y gemí lastimeramente.
 —Te voy a llamar “Pete” —dijo mi amo, y si yo
 hubiera tenido cinco colas no habría tenido suficientes para agitarlas
 celebrando merecidamente el hecho.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

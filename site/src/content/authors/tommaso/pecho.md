@@ -185,6 +185,3 @@ Y a mi beso la sentí responder con todas sus fibras.
 Bueno, pues el resto, naturalmente, no cuenta. Si aludo a él es por gusto o, tal vez, por indagar ociosamente cuánto el consiguiente puede comprometer al antecedente en los castillos de naipes de nuestros afectos.
 Ella era de nuevo presa de la esperanza, pero tanto vale decir en seguida que ya en ese punto tuve vergüenza y remordimiento de mi mezquino éxito. En efecto, reflexionemos un poco: la esperanza es un sentimiento falaz por naturaleza. Y no basta: ella cometió el grave error de encariñarse conmigo, cuando está claro que estos mínimos episodios de nuestra vida no tienen ni pueden tener historia. A largo plazo, ¿qué iba a hacer yo con ella y, principalmente, ella conmigo? Todo acaba mal, ya se ha dicho, y así todo se resquebrajó, como la “frágil muralla” de su pecho.
 Parece como si tuviéramos que contentarnos con gozos ambiguos, errados y, por añadidura, fugaces.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

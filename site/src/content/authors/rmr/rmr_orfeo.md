@@ -919,6 +919,3 @@ el sentido de su maravilloso encuentro.
 Y si a ti lo terrenal te olvidara,
 di a la callada tierra: Yo paso.
 Al agua, que a prisa pasa: Yo soy.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

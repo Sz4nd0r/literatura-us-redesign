@@ -104,6 +104,3 @@ La mujer que murió estaba destinada a alimentar la vida animal. De cualquier mo
 Murió en un claro en el bosque y hasta después de muerta siguió alimentando la vida animal.
 Ven, probablemente sea eso; cuando mi hermano contó la historia, aquella noche en que llegamos a casa y mi madre y mis hermanas se sentaron a escuchar, me pareció que no captaba la esencia. Era demasiado joven, y yo también. Algo tan completo tiene su propia belleza.
 Procuraré no poner énfasis en ese punto. Lo aclaro simplemente porque no me quedé satisfecho entonces ni tiempo después. Hablo de eso solo para que ustedes comprendan por qué me he sentido impulsado a tratar de contar la historia una vez más.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

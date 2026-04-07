@@ -217,6 +217,3 @@ Percival Delaney y Chancey Delarouse intercambiaron una mirada. Sin prisa y en u
 —Tienes razón, no pertenece a nuestro mundo —asintió Bola de Sebo.
 Glen Ellen, California,
 26 de septiembre de 1916.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

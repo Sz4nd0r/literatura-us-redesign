@@ -99,6 +99,3 @@ Al término de la reunión, identifiqué a la maestra de Laurie y fui a hablar c
 —¿Charles?
 —Sí —dije, con una risilla—. Con ese Charles en la clase, supongo que todo el mundo en la escuela debe estar de cabeza.
 —¿Charles? —repitió ella—. No tenemos ningún Charles en la escuela.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

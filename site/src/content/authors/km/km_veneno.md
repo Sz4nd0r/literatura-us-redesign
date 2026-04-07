@@ -88,6 +88,3 @@ Sonrió como en un ensueño y así me miró.
 —Me preguntaba —contestó Beatrice— si después del almuerzo no podrías ir al correo y ver qué pasó con las cartas de la tarde. ¿Podrías, amor? No es que esté esperando correspondencia, pero sólo pensaba que tal vez sería tonto no tener las cartas si es que están en el correo, no crees. Sería tonto tener que esperar hasta mañana.
 Hizo girar la copa entre sus dedos tomándola del tallo. Su hermosa cabeza estaba hacia un lado. Tomé mi copa y bebí, casi a sorbos, muy lentamente, observando su cabeza oscura y pensando en carteros y escarabajos azules, y despedidas que no eran en verdad despedidas...
 ¡Bueno, dios! ¿No es extraño? No, no es extraño. El trago sabía asquerosamente amargo, raro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

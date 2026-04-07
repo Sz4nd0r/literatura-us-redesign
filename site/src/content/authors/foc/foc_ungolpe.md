@@ -167,6 +167,3 @@ Sentada en el escalón, se aferró a la barandilla mientras le volvía el alient
 Abrió los ojos y miró hacia el agujero negro, hasta el mismo fondo desde donde había comenzado a subir hacía tanto tiempo.
 —Buena Suerte —dijo con una voz profunda que resonó en todas las plantas de la caverna—, Bebé.
 «Buena Suerte, Bebé», repitieron maliciosos los tres ecos. Luego volvió a reconocer la sensación, un pequeño vuelco, parecía no estar en su estómago. Parecía no estar en ningún lado, en la nada, descansando y esperando, con tiempo de sobra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

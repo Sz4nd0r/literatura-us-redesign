@@ -271,6 +271,3 @@ No se Ofrece Recompensa
 Pues ¡se ha MARCHADO PARA SIEMPRE!
 —Lo pintó tu abuelita —dijo el abuelo. Se revolvió el mechón blanco y miró a Fenela tan
 contento que la niña casi creyó que le estaba guiñando un ojo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -134,6 +134,3 @@ Esperamos en pie toda la noche, cada uno en su cuarto, y no regresó. Al día si
 —Su tía se fue de viaje —me respondió la cocinera cuando por fin me atreví a preguntarle.
 Pero yo sabía que no era verdad.
 La vida en casa continuó, tal como si tía Matilde viviera aún con nosotros. Es cierto que ellos solían reunirse en la biblioteca, y quizás encerrados allí hablaran, logrando sobrepasar el muro de temor que los aislaba, dando rienda suelta a sus temores y a sus dudas. Pero no estoy seguro. Varias veces vino un visitante que claramente no era de nuestro mundo, y se encerraron con él. Pero no creo que les haya traído noticias de las posibles pesquisas, quizás no fuera más que el jefe de un sindicato de estibadores que venía a reclamar indemnización por algún accidente. La puerta de la biblioteca era demasiado maciza, demasiado pesada, y jamás supe si tía Matilde, arrastrada por la perra blanca, se perdió en la ciudad, o en la muerte, o en una región más misteriosa que ambas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

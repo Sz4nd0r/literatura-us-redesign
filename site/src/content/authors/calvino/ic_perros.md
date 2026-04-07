@@ -66,6 +66,3 @@ Había alquilado un colchón a María la Loca que tenía dos en su cama y ahora 
 —Adelante —decía Belmoretto—. Yo me encargo de despertaros. Tendemos encima una manta y vualá, nadie os ve y hasta podéis hacer un hijo. Adelante.
 Un venecia probó primero, junto con una de las muchachas bajaitalia. La más vieja de los mercadonegro reservó el segundo turno para ella y para el pobre diablo dormido que tenía encima. Belmoretto había sacado ya una libreta y anotaba los pedidos, todo contento.
 Al alba le devolvería el colchón a María la Loca y harían cabriolas en la cama hasta avanzado el día. Después, por fin, se dormirían.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -678,6 +678,3 @@ Por fin: cuando se dice —como Arlt— que todo crítico es un escritor fracasa
 25. Después de esta réplica, tachado en el manuscrito se lee. ¡Como había cambiado! Hacía algunos momentos estaba altiva, casi terrible, ahora está triste, abatida… es más bien una jovencita tímida que una mujer del mundo.↩
 26. Hemos respetado la versión original. En la copia mecanografiada, en cambio, dice:… la verdadera, la terrible verdad de la vida, incomprensible para todos los demás? Aceptó aquella verdad sin vacilaciones, como si fuera algo inexorable.↩
 27. La versión manuscrita se interrumpe acá. Lo que sigue corresponde a la copia mecanografiada por Kostia.↩
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

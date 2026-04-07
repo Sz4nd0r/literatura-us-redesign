@@ -357,6 +357,3 @@ Era éste el mismo que ya había recogido dos veces el caballero. Los amorcillos
 —Y tan posible —respondió alzando sobre su barbilla el encajito negro.
 —No sé cómo agradecer, señora…
 —Ni hace falta. Sois un galante caballero, y nos volveremos a ver, puesto que estáis entre nosotros. El rey os ha colocado bajo el estandarte blanco. Acordaos de que no hay mejor elocuencia para un solicitante que la de saber callar a tiempo… Y dispensadnos —añadió, riendo y marchándose— si antes de concederos la mano de nuestra sobrina hemos tomado informes.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -2327,6 +2327,3 @@ su lado.
 repitió en su alma. «Éste es el fin de la muerte» —se dijo—.
 «La muerte ya no existe.» Tomó un sorbo de aire, se detuvo en medio
 de un suspiro, dio un estirón y murió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

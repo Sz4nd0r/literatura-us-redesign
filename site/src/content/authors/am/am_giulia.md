@@ -66,6 +66,3 @@ Me armo de coraje y abro. Es Giulia, la muchacha Giulia, tal como, en el fondo, 
 Automáticamente, digo:
 —Esperaba a mi hija.
 —¿Quién? ¿Giulia? Acabo de verla allí abajo, en la plaza, hablaba con un fulano. Bueno, le dirás que estás ocupado, que vuelva mañana. Quédate tranquilo, te necesita, volverá. —Me precede por el corredor contoneándose ligeramente, como complacida por su propia gracia. Agrega—: Y además, ¿cuántas hijas quieres tener? ¿No te basto yo?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

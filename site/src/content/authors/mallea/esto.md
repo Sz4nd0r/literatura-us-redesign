@@ -149,6 +149,3 @@ Algo así como un inmenso alivio lo tuvo pesadamente clavado en el sillón.
 Desde el primero de los seis años corridos a contar desde la hora en que empezó a engañar a su mujer sufría aquel odioso y creciente sentimiento de culpa.
 —¡Qué liberación! —pensó, levantándose—. Esto sí que no podía esperarse.
 Y por primera vez salió de su casa a la calle iluminado por una suerte de contento, fulgor o curiosa bienaventuranza.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

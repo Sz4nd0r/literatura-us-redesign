@@ -148,6 +148,3 @@ Devolví el dinero al mayor Tucker; enseguida me dirigí hacia el coronel Rockin
 —Coronel —le dije—. Espero que haya disfrutado de nuestra pequeña broma. No quisiéramos exagerar la nota. ¡Secuestradores! ¡Qué gracioso! Mi nombre es Rheingelder, y soy sobrino de Chauncey Depew. Mi amigo es primo segundo del editor de Puck. Nos encontramos aquí pasando una temporada, y de vez en cuando nos gusta practicar nuestro humorismo tradicional. Quedan aún varias botellas de coñac; cuando se hayan agotado terminará nuestra farsa.
 ¿De qué vale entrar en detalles? Uno o dos bastarán. Recuerdo al mayor Tallahassee tocando una marimba, y a Calígula danzando con la cabeza apoyada en el pecho de un gigantesco guardavías. Me resisto a describir el cakewalk bailado por mí y el señor Patterson G. Coble, y secundado por el propio Jackson T. Rockingham.
 A la mañana siguiente, perdidas ya todas nuestras esperanzas, tuvimos un consuelo. Comprendimos que Al-Raisuli no se divirtió tanto con su Burdick Harris como nosotros con el personal de la Compañía Ferroviaria del Sunrise & Edenville Tap.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

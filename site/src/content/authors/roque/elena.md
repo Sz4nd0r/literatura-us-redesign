@@ -122,6 +122,3 @@ también son/ fascistas. Y pensé, no puede ser, no Roque, eso no es
 verdad, el que tenga el mínimo de locura no es loco, el que tenga el
 mínimo de cancer no es canceroso. Prefiero a Lopez Velarde que confiesa
 sin más, su "íntima tristeza reaccionaría".
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

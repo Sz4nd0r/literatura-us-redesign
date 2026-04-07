@@ -162,6 +162,3 @@ Nota del Autor:
 [1]. En el año 40 se dio una época de heladas muy crueles, y no nevó hasta finales de diciembre; todo el verdor murió congelado, y el invierno destruyó sin piedad grandes
 extensiones de bosques de robles. Es difícil sustituirlos: la fertilidad de la tierra
 evidentemente está mermando; en los descampados “reservados” (sobre los que las personas pasean iconos), crecen álamos y abedules por sí solos en lugar de estos árboles nobles; no poseemos otra manera de hacer crecer bosques.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

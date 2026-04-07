@@ -198,6 +198,3 @@ Y enredaderas por toda la fachada, por donde están las guías.
 Claro que no hay mucha correspondencia. Mi familia es, claro, la más importante del pueblo y si ellos prefieren desaparecer de la faz de la tierra en cuanto al correo se refiere, en fin, allá ellos. Aquí en el pueblo algunos están de mi parte y otros están en mi contra. Sé muy bien quiénes están de mi parte y quiénes contra mí. Los hay que son capaces de dejar de comprar sellos solo para demostrar que están de parte de Papá-Daddy.
 Pero en fin, aquí estoy y aquí seguiré. Y quiero que el mundo sepa que soy feliz.
 Y desde luego, si en este instante apareciera aquí Stella-Rondo, se hincara de rodillas e intentara explicarme todos los detalles de su vida conyugal con el señor Whitaker, yo me taparía los oídos y no querría oír ni una palabra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

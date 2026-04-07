@@ -203,6 +203,3 @@ Yo ya no las vi, era más prudente por aquello de que la seño todo lo dice sin 
 Iba yo a decir que sí, pero me acordé de eso del clandestinaje que me había explicado esa mañana el Pato y con la cabeza dije un ¡no! que me dolió harto. ¡No importa!, trabajo mucho con los compañeros y cuando llegue el día del triunfo y de agitar las banderas, le diré:
 —Seño, ¿se acuerda usted de Camargo, ese parásito burgués? —y nos reiremos los cuatro juntos, la seño, Lucía, Serafín y yo… ¿qué digo? Serafín hace ya mucho tiempo que cayó víctima de la lucha por el pueblo. ¡No importa! En el día del triunfo le haremos su muy hermoso monumento, alto, muy alto, con sus columnas de oro y arriba muy arriba él, Serafín, hecho en oro macizo, como el Ángel de la Independencia de los gatos, con sus alas abiertas… Así lo hemos decidido mis compañeros y yo.
 Y mientras ese tiempo llega, ¡a las pintas compañeros! De noche y cuando los enemigos andan distraídos… Y que nadie diga que yo soy el Niño Perdido, porque de perdido, ¡nada!…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

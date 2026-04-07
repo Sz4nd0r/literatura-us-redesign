@@ -189,6 +189,3 @@ Y Maigret, llenando una nueva pipa, farfulló:
 —En primer lugar era preciso saber que las viejas barcas se reparan con un fondo de cemento… Nadie me lo decía…
 Luego, cambiando bruscamente de tono:
 —Lo más chocante es que lo he contado y, en efecto, hay cien mil francos… Un matrimonio curioso, ¿no le parece?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

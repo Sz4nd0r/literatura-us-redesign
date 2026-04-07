@@ -44,6 +44,3 @@ Ya no volvería a verla. Nunca sabría quién era. No hablaría jamás con ella.
 ¿Y si él, sin saberlo, lo hubiese hecho todo por ella? ¿Por ella y las mujeres como ella, las desconocidas, las peligrosas criaturas que jamás había tocado? ¿Y si los años eternos de clausura, de fatigas, de rigor, de pobreza, de disciplina, de renuncias, hubiesen tenido sólo aquel objeto; si en lo profundo de sus desnudas maceraciones hubiese estado al acecho aquel tremendo deseo? ¿Si detrás del afán de celebridad y de poder, bajo estas miserables apariencias, le hubiese impelido tan sólo el amor?
 Pero él nunca había comprendido algo como esto, ni lo había sospechado, ni siquiera en broma. Sólo pensarlo le habría parecido una escandalosa locura.
 Por ello, los años habían pasado inútilmente. Y hoy, ya era demasiado tarde.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

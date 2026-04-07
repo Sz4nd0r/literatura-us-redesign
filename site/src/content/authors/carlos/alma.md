@@ -79,6 +79,3 @@ Trato de interrogarlo con las cejas levantadas.
 Se levanta sin despedirse. Los ojos azules me miran con tristeza y compasión. Trato de sonreír y recojo la carta. El altoparlante:
 —…le départ de son vol numéro 707… Paris, Gander, New York et México… priés de se rendre à la porte numéro 5.
 Tomo mis cosas, me arreglo la boina y bajo a la puerta de salida. Llevo la bolsa y el estuche en las manos y el pase entre los dedos, pero logro, entre la puerta y la escalerilla del avión, romper la carta y arrojar los pedazos al viento frío, a la niebla que quizá los lleve hasta el lago donde te zambullías, Juan Luis, en busca de un espejismo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

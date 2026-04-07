@@ -231,6 +231,3 @@ Ella permanecía sentada y lanzó una mirada furiosa al fuego.
 —Tantas agallas como un hombre, se puede desear que tenga una mujer, de verdad te lo digo —dijo él alargando su mano y tocando a tientas sus pechos cálidos y turgentes.
 Ella pareció estremecerse. Pero su mano insistía, insinuándose entre sus pechos mientras ella continuaba mirando el fuego.
 —Y no creas que he venido aquí a mendigar —dijo él—. Tengo más de mil libras a mi nombre. Y un poco de pelea me complace. Pero eso no quiere decir que tengas que negar que eres mi mujer…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

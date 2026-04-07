@@ -66,6 +66,3 @@ Elsie dejó de sollozar.
 Elsie sonrió, le rodeó la cintura con el brazo y lo acompañó por el vestíbulo hasta la puerta. El vestíbulo no era muy amplio, pero ella siguió abrazada a él. Walter abrió la puerta y se puso el sombrero en la cabeza. Elsie lo besó en la mejilla y en la boca. Él se puso bien el sombrero nuevamente.
 —Pues bueno —dijo—, hasta la noche.
 Fue lo primero que le vino a la cabeza. No había dicho eso en años.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

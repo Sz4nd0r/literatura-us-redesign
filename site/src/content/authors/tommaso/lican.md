@@ -29,6 +29,3 @@ Durante bastantes meses la luna no reapareció en el cielo y nosotros nos sentí
 Efectivamente, también aquella mísera alegría nuestra duró poco. Una noche la luna volvió a aparecer. Estaba mellada y fumosa, sombría hasta más no poder y apenas se veía; tal vez sólo mi amigo y yo podíamos verla porque sabíamos que estaba allí. Y nos miraba sombría desde lo alto con aire de venganza. Entonces vimos cuánto daño le había hecho su paso forzado por la estrechez del cañón. Pero el viento de los espacios y su misma carrera la iban limpiando paulatinamente del hollín y su continua rotación volvía a dar forma a su blanco cuerpo. Durante mucho tiempo apareció como cuando sale de un eclipse y cada día un poco más clara, hasta que volvió a ser así, como cualquiera puede verla, y nosotros volvimos a revolcarnos en el fango.
 Pero no se vengó, como parecía que quería hacer. En el fondo, es más buena de lo que creemos, menos maligna, más estúpida. ¡Qué sé yo! Yo tiendo a creer que, en definitiva, no tiene ninguna culpa, que la culpa no es suya, que ella está obligada igual que nosotros, realmente quiero creerlo. Mi amigo no; para él no hay excusas que valgan.
 Y por eso es por lo que yo os digo: contra la luna no hay nada que hacer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

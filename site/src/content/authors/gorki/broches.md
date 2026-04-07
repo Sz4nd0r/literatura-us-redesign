@@ -169,6 +169,3 @@ Siomka, espeluznado, sombrío y taciturno, le dijo gravemente:
 —Como no te mueras pronto, mi querido zoquete, van a acabar comiéndote las moscas y cucarachas a ti y tus ocurrencias…
 —¡Qué lengua tienes! Venga, bebamos un vasito… ¡por la conclusión del incidente!
 Y bebimos todos juntos por la conclusión de tan curioso incidente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

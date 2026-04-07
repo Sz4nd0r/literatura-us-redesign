@@ -66,6 +66,3 @@ Hizo un gesto con la mano en dirección al noreste y dijo:
 —Tu tabaco es muy bueno. Ahora me llevo una buena ración de él en la petaca, pero su recuerdo me acompañará hasta que muera. Como muestra de mi agradecimiento y a cambio de los mocasines que tú calzas, te regalaré estos muclucs. Conmemoran a Klooch y a los siete cachorrillos ciegos. También constituyen el recuerdo de un hecho sin precedentes en la historia: la destrucción de la raza animal más antigua de la tierra y de la más joven. Su mayor virtud consiste en que nunca se gastarán.
 Tras efectuar el intercambio, vació las cenizas de la pipa, me estrechó la mano me deseo buenas noches y se alejó deambulando entre la nieve. En relación con este relato, sobre el que ya he declinado cualquier responsabilidad, recomendaría a quienes tienen poca fe que visiten el Instituto Smithsonian. Si llevan las credenciales adecuadas y no acuden en época de vacaciones, sin duda conseguirán que los reciba el profesor Dolvidson. Los muclucs están ahora en sus manos y él verificará, no la forma en que se obtuvieron, sino el material del que están hechos. Si él afirma que están hechos en piel de mamut, el mundo científico acepta su veredicto. ¿Qué más necesitan ustedes?
 [1900]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

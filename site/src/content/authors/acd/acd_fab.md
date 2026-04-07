@@ -177,6 +177,3 @@ El inspector se echó a reír.
 Un par de días después, mi amigo me lanzó uno de los números quincenales del North Surrey Observer. Bajo una retahíla de exaltados titulares, encabezados por «El horror de El santuario» y que concluían con «Brillante investigación policial», había una densa columna impresa que ofrecía la primera narración del asunto paso a paso. El párrafo de cierre es representativo del resto. Decía lo siguiente:
 La extraordinaria agudeza con la que el inspector MacKinnon dedujo a partir del olor de la pintura que se podía estar disimulando otro olor, como podía ser el del gas; la audaz deducción de que la cámara acorazada podría ser también la cámara de la muerte, y las ulteriores pesquisas que condujeron al descubrimiento de los cadáveres en un pozo abandonado, astutamente disimulado por una caseta de perro, debería perdurar en la historia del crimen como un ejemplo permanente de la inteligencia de nuestros detectives de la policía.
 —Bueno, bueno, MacKinnon es un buen tipo —dijo Holmes con una sonrisa indulgente—. Puede archivarlo entre los demás casos, Watson. Quizá se pueda contar la verdadera historia algún día.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

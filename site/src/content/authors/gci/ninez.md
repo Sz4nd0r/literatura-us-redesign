@@ -148,6 +148,3 @@ Me miró radiante, sonriendo.
 —¿Sí? ¿Dime, dime qué cosa?
 —Un sable de guerra.
 Y para completar el gesto infantil, imité un guerrero con su sable en la mano, el pelo revuelto y una mueca de furia en el rostro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

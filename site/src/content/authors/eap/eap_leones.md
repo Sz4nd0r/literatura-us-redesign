@@ -122,6 +122,3 @@ Con esto bastaba. Cambiamos tarjetas. A la mañana siguiente, en Chalk-Farm, le 
 Todo esto me mortificó, y fui a visitar a mi padre.
 —Padre —pregunté—. ¿Cuál es la finalidad esencial de mi existencia?
 —Hijo mío —me contestó—, sigue siendo el estudio de la Nasología; pero, al herir al elector en la nariz, te has excedido lamentablemente. Tienes una hermosa nariz, es verdad; pero ahora Bluddennuff no tiene ninguna. Estás condenado, y él se ha convertido en el héroe del día. Doy fe de que en Fum-Fudge la grandeza de un «león» se halla proporcionada con el tamaño de su proboscis. Pero, ¡santo cielo!, no se puede competir con un león que no tiene absolutamente ninguna proboscis.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

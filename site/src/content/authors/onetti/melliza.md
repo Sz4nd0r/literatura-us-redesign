@@ -58,6 +58,3 @@ Un mundo, una flaca pero tenaz corriente migratoria, una repetida historia de pl
 Yo la alzaba semidormida hasta mi desvelo luchando contra la marea, la fofa hinchazón del absurdo.
 Tres veces por noche, todas las noches, perseguidos como insectos entre la suciedad, las sombras, el sórdido escándalo de las amuebladas portuarias donde no pedían documentos, ella gritando «la poli» o murmurando ternuras a un Josesito desconocido, matando reiterada mis esperanzas, mi necesidad de sueño hasta que la piedad deriva en la resolución, casi desconocida dentro del insomnio infinito, de taparle la boca, la cara, el pasado y el nunca con la almohada más gruesa que pudiera manotear.
 1973
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

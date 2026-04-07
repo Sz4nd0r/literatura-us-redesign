@@ -277,6 +277,3 @@ conocer el peligro de la serpiente, la única serpiente de agua venenosa que hab
 toda Norteamérica. La exclamación española «podría haberse introducido en la
 lengua de los chickasaw —señala Calvin Brown en A Glossary of Faulkner’s South,
 p. 142—, aunque no tengo pruebas de que así fuese»
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

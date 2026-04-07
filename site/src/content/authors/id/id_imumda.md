@@ -505,6 +505,3 @@ Hablaba en voz baja para que no se despertaran los dos jóvenes, dormidos pláci
 Se detuvo y miró a la pared. Por entre las tablas aparecía una franja azul que daba a la luz de la linterna un color rojizo. Estaba rompiendo el alba.
 La anciana sacó lentamente los dedos de entre la mano de Kasparson y colocó uno sobre sus labios para decir:
 —A ce moment de sa narration, Scheherazade vit paraïtre le matin, et, discrète, se tut..
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

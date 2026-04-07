@@ -72,6 +72,3 @@ Pausa. Todos movieron la cabeza y me miraron con la boca llena de huesos de cere
 —No tiene nada de particular que se esté repitiendo en Inglaterra ese horrible estado de cosas que se da en París —dijo la viuda doblando la servilleta—. ¿Cómo va a conservar una mujer el marido a su lado si después de tres años ignora cuál es su plato favorito?
 —Mahlzcit, mahlzcit! [la comida, la comida].
 Cerré la puerta tras de mí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

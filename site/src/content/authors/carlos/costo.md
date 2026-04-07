@@ -82,6 +82,3 @@ Salvador se zafó de la mano y retrocedió unos pasos. El cigarrillo de atrás a
 —Van conmigo, maje.
 Sintió el fuego del cigarrillo de atrás muy cerca de la nuca. Luego el grito de Cristóbal. Arrojó un paquete y pegó con el brazo libre sobre el rostro del tipo. Sintió el cigarrillo aplastado y la punta ardiente en el puño. Y luego vio el rostro manchado de saliva roja que se acercaba. Salvador giró con los puños cerrados y vio la navaja y luego la sintió en el estómago.
 El hombre retiró lentamente la navaja y castañeteó los dedos y Salvador cayó con la boca abierta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

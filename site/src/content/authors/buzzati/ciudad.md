@@ -62,6 +62,3 @@ Pero el perro no responde, no se detiene, ni siquiera vuelve la cabeza.
 Lo veo empequeñecerse, ovejita negra, detrás y fuera de los sucesivos halos de las farolas.
 —¡Espartaco! —vuelvo a llamar.
 Nada. Troc troc. Ahora ya no se le ve.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

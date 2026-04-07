@@ -133,6 +133,3 @@ La policía. ¿Y qué iba a hacer la policía en un caso semejante? Sólo yo sab
 Pero sea como sea, yo sabía, y ustedes dirán que podía, es más, que habría tenido el deber de denunciar el hecho. Pero, señores míos, si hubiera cumplido con esos deberes no me hallaría en la situación en que estoy. No, no meterse en asuntos ajenos siempre fue la sencilla regla de mi vida que me ha conducido a esta posición tranquila y… ejem… honrada. ¿A que por la presente historia no se diría que no suelo meterme en los asuntos ajenos? Pero, al menos, dejar las criaturas a su destino siempre me pareció la norma más honesta y más sabia.
 Es cierto que ustedes también lo saben ahora, pero ya pasó mucho tiempo y no creo que haya nada que temer de algún cívico impulso por parte de alguno de ustedes. Ya. Quién sabe cómo fue a acabar toda aquella gente. Algunos ya habrán muerto. Sólo de Marta supe, por casualidad, que es una vieja y aristocrática solterona y que se ocupa de sus propiedades. Todavía vive en aquella casa, pero sola.
 Y con esto basta. Más arriba me puse en plan poético. Ya es hora de volver al trabajo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

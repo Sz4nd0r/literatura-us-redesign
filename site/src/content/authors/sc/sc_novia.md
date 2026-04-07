@@ -218,6 +218,3 @@ Potter alzó la valija.
 —Bueno, digo que está terminado, Jack —dijo Wilson. Miraba al suelo—. ¡Casado!
 Scratchy no era un estudioso de la caballerosidad; ocurría simplemente que, frente a esta situación desconocida, era como un niño de las antiguas llanuras.
 Recogió su revólver de estribor y, colocando ambas armas en las cartucheras, se alejó. Sus pies dibujaban, al caminar, huellas en forma de embudo sobre la gruesa arena.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

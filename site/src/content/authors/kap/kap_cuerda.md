@@ -49,6 +49,3 @@ Ya lo creo que tenía hambre. Ahí estaba el café. Lo alzó para que lo viese. 
 Ella caminó junto a él sujetándose con una mano en su cinturón de cuero. Tironeaba y le empujaba un poco al andar y se apoyaba en su cuerpo. Él la rodeó con su brazo libre y le dio una palmadita en el estómago. Intercambiaron cautelosas sonrisas. ¡Café, café para los tortolitos! Él se sintió como si le trajera un hermoso regalo.
 Era un amor, creía la mujer con toda firmeza, y de haber tenido su café por la mañana no se hubiese comportado de modo tan sorprendente… Había un chotacabras, imagínate, totalmente fuera de estación, que se posaba en el manzano silvestre y llamaba solo a los demás. Tal vez su hembra lo hubiese abrumado. Tal vez. Tenía la esperanza de oírlo una vez más, amaba los chotacabras… Él sabía cómo era ella, ¿no?
 Claro, él sabía cómo era ella.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

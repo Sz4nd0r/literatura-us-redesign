@@ -50,6 +50,3 @@ Yi-Chin-Ho le tendió una hoja de papel, que el gobernador acercó a la luz.
 —Una nariz poco común —dijo el gobernador—; una nariz como no he visto nunca. Pero, ¿qué esperas hacer con ella, Yi-Chin-Ho?
 —La busco como medio de restituir el dinero al gobierno. La busco para hacer un servicio a Vuestra Excelencia y la busco para salvar mi pobre e indigna cabeza. Desearía, además, obtener de Vuestra Excelencia que tuviese la bondad de poner su sello sobre el dibujo de esa nariz.
 El gobernador, riendo, puso el sello del Estado sobre la hoja, y Yi-Chin-Ho se despidió de él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

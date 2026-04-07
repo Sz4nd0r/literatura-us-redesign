@@ -122,6 +122,3 @@ En las habitaciones privadas del dueño pidió con gran desparpajo un sifón ase
 El Padre Brown se abotonó su vulgar abrigo hasta el cuello, porque la noche estaba desapacible, y sacó su vulgar paraguas del paragüero.
 —Sí —dijo—; debe de ser un trabajo muy duro ser un caballero; pero, ¿sabe usted?, a veces he pensado que debe de ser casi igual de laborioso el trabajo de un camarero.
 Y al mismo tiempo que decía «buenas noches» abrió la pesada puerta de aquel palacio de placeres. Las puertas doradas se cerraron tras él, y el Padre Brown se lanzó a buen paso por las oscuras y húmedas calles en busca de un vehículo público.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

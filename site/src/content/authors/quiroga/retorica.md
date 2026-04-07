@@ -118,6 +118,3 @@ tarde ya para perderla. Pero haré cuanto esté en mí para no hacerlo
 peor.
 Idilio y otros cuentos.
 Montevideo: Claudio García (Biblioteca “Rodó”, 13), 1945.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

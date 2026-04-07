@@ -393,6 +393,3 @@ A una milla de distancia, el jinete que poco antes había emprendido
 un rápido galope en dirección al poblado, rompió a cantar, con voz de
 coyote acatarrado, una canción que empezaba con las siguientes palabras:
 No bromees con mi novia Lulú, si no quieres tener un disgusto…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

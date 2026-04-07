@@ -248,6 +248,3 @@ amargas lágrimas Y nadie... nadie sabe...
 en el mostrador —masculla el boticario, arropándose en la manta—.
 Haz el favor de guardarlos en la mesa.
 Y al punto se queda dormido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

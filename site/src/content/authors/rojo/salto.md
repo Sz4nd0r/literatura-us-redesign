@@ -48,6 +48,3 @@ Entonces, ante la atónita mirada de sus padres, la piel de Susana comenzó a pa
 —¡Corazón de Jesús! ¡Gracias! ¡Gracias! —exclamó la madre temblando de alegría. Y estrechaba contra su pecho la mano del padre, que la miraba en silencio, los ojos humedecidos.
 De pronto un grito rebotó en las paredes de la casa. Había sido Susana.
 Susana, que con la boca aún entreabierta y los brazos hacia arriba, volteaba sus manos del dorso hasta la palma, mirándolas fijamente, como si poco a poco sufrieran una mutación abominable. Luego, mostrándoselas a sus padres, caminó lentamente hacia ellos. Se detuvo. Dejó caer los brazos. Bajó la cabeza. Hizo la Señal de la Cruz. Y atravesando decididamente la habitación se tiró por la ventana murmurando incoherencias.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -149,6 +149,3 @@ a mirar. Mi mente empezará a flotar y cuando vuelva a abrir los ojos volveré a
 días. Luego me quedaré dormido y cuando me despierte volveré a sentirme como aquella noche en que salí de mi apartamento tras haber vivido la experiencia
 más importante de mi vida. A ver si me explico, lo que estoy intentando decirte es que, al amanecer, mi mente habrá borrado por completo el recuerdo de
 aquella otra mujer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

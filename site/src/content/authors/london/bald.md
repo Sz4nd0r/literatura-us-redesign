@@ -41,6 +41,3 @@ El rey del Klondike se detuvo, meditabundo, y los que se hallaban agrupados a su
 “Parecía como si lo hubiese perseguido asimismo algún oso y hubiese tropezado contra unas matas. Ambos nos habíamos equivocado.
 “Pero entonces oímos un ruido terrible en el camino y no nos detuvimos para darnos más explicaciones. Por la tarde vimos a Joe Gee, y nos armamos de rifles, volviendo a aquel lugar, dispuestos a hacer frente a los osos de cara pelada. Quizás no lo creeréis, pero cuando llegamos a aquel sitio hallamos muertos a los dos animales. Y es que al huir yo, se habían encontrado, y no queriendo ceder el paso ninguno de los dos, habían luchado hasta la muerte.
 “Puesto que hablamos de osos…”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

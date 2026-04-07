@@ -258,6 +258,3 @@ En este momento los dos amigos pasaban ante el café Tortoni. En la claridad de 
 IX
 —Y semejante locura, ¿no te espanta? —dijo Eugenio.
 —En efecto —replicó Marcelo—. Pero te ruego que cuando hables mal de las grisetas hagas una excepción de la pequeña Pinsón. Nos ha entretenido con su charla durante una velada, ha empeñado su traje por cuatro francos y se ha hecho un chal de una cortina; y quien dice lo que sabe, da lo que tiene y hace lo que puede, no está obligado a más.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -136,6 +136,3 @@ Un automóvil recorrió la avenida circular que conducía a la casa y de él des
 —Iba a darte el cuarto rosa, Bella —dijo Martha pensando en voz alta—. Pero será mejor que lo ocupe ella con los niños y las niñeras. Te daré el de la reina Emma.
 —Es el que ocupé la última vez y el que prefiero —dijo Bella.
 Roscoe Scandwell, conocedor por aprendizaje del amor hawaiano y de su expresión, erguido, esbelto y digno en medio de las dos mujeres de nobles proporciones, rodeó con sus brazos aquellas dos cinturas suntuosas, y, juntos, echaron a andar los tres hacia la casa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -2276,6 +2276,3 @@ cuenta es que al terminar de es­cribirla me sentí en paz, seguro de
 haber logrado lo más importante que puede esperarse de esta clase de
 tarea: había aceptado un desafío, había convertido en victoria por lo
 menos una de las derrotas cotidianas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -115,6 +115,3 @@ Me pareció absurdo y casi cómico que la tía dijese mirándolo tolerante:
 —No ha sido malo este mes.
 También Nino sonreía.
 En la alquería, adonde di mis primeros paseos, supe que Pietro los había ayudado en la vendimia y en otros trabajos, y ahora vivía sin hacer nada, con los ahorros de sus jornadas de albañil. Como nos marcharíamos a la ciudad dentro de poco, fui a buscarlo y le propuse tenerlo en la alquería de jornalero, pero no ya en el porche, sino en la cuadra. Pietro me encontró buena cara y me respondió que tenía intención de vender la cabra y de moverse un poco. El mundo es grande. Entonces le regalé cien liras, con una sensación de alivio.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -805,6 +805,3 @@ Para bien o para mal, nunca jamás volví a escribir a la Hermana Irma, aunque a
 veces me llegan noticias de Bambi Kramer. Lo último que supe es que se dedicaba a
 ilustrar sus propias felicitaciones de Navidad. Debe ser algo digno de verse, si no ha
 perdido la mano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

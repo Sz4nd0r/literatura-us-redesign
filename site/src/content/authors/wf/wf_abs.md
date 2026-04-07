@@ -514,6 +514,3 @@ QUENTIN COMPSON
 Nieto del primer amigo que tuvo Thomas Sutpen en el Condado de Yoknapatawpha. Nació en Jefferson en 1891. Asistió a la Universidad de Harvard entre 1909 y 1910. Murió en Cambridge, estado de Massachusetts, en 1910.
 SHREVLIN MCCANNON
 Nacido en Edmonton, estado de Alberta, Canadá, en 1890. Asistió a la Universidad de Harvard entre 1910 y 1914. Capitán del Cuerpo Médico del Real Ejército, Fuerzas Expedicionarias, en Francia, entre 1914 y 1918. Hoy ejerce la especialidad de cirugía en Edmonton, Alberta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

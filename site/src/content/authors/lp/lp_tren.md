@@ -87,6 +87,3 @@ Existía, ¡ah!, existía, fuera de aquella horrenda casa, fuera de todos sus to
 Naturalmente, durante el primer día se había excedido. Se había emborrachado. Todo el mundo adentro, de pronto: un cataclismo. Poco a poco se recompondría. Aún estaba ebrio por el aire, era consciente de ello.
 En cuanto se recompusiera totalmente iría a pedirle disculpas a su jefe y retomaría su contabilidad como antes. El jefe, simplemente, no tenía que pretender demasiado de él, como hacía en el pasado: tenía que concederle que, de vez en cuando, entre una partida y otra que tuviera que registrar, se escapara a Siberia… o… a las florestas del Congo:
 —Sólo hace falta un instante, señor caballero. Ahora que el tren ha silbado…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -69,6 +69,3 @@ Esperé durante un whisky repugnante, industria nacional, y dos cigarrillos fuma
 Tampoco hubo buen hombre. Natalia me había dicho en la cama durante la siesta de aquella tarde que Charlie le dejaba el dinero de los campos paternos entre las páginas del segundo tomo de los Essais de Montaigne, entreverado en la biblioteca. Era un sobre grande y pesado lleno de billetes también grandes que me costó acomodar en el bolsillo.
 Antes de irme no tuve ya más curiosidad por el difunto. Pero sí me agaché para dar vuelta a uno de los cartones apoyados contra la pared. Era un cuadro para mi gusto muy malo, donde los colores violentos parecían pelearse entre sí. Es probable que Charlie hubiera pensado lo mismo que yo.
 1987
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

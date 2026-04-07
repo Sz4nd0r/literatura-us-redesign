@@ -163,6 +163,3 @@ Temblar y enfurecerme una y otra vez… / Ah, María Magdalena, / ¿dónde habr�
 mayor dolor? // Una tumba me fue dada / para guardarla hasta el Día del Juicio… /
 Pero Dios miró desde el Cielo / ¡y apartó la Lápida! / Un día de todos mis años, / una
 hora de ese solo día… / Su Ángel vio mis lágrimas / ¡y apartó la Lápida!]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

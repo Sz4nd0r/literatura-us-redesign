@@ -168,6 +168,3 @@ El granjero reflexionó un instante, echó una mirada inquieta a un banco de nub
 —¡Está bien! Necesito un carretero; le cojo a prueba. ¡Vaya a comer con los muchachos!
 La voz se le ahogó a Ross Shanklin en su seca garganta y tuvo que hacer un esfuerzo para responder:
 —¡Gracias, no se arrepentirá! ¿Dónde puedo echar un trago de agua y lavarme un poco?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

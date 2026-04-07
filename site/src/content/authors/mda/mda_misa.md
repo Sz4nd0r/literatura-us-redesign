@@ -79,6 +79,3 @@ Llegamos a quedarnos por algún tiempo —no puedo decir cuánto— completament
 —¡Misa de gallo! —repitieron desde afuera, golpeando.
 —Vaya, vaya, no se haga esperar. La culpa ha sido mía. Adiós, hasta mañana.
 Y con la misma cadencia del cuerpo, Concepción entró por el corredor adentro, pisaba mansamente. Salí a la calle y encontré al vecino que me esperaba. Nos dirigimos de allí a la iglesia. Durante la misa, la figura de Concepción se interpuso más de una vez entre el sacerdote y yo; que se disculpe esto por mis diecisiete años. A la mañana siguiente, en la comida, hablé de la misa de gallo y de la gente que estaba en la iglesia, sin excitar la curiosidad de Concepción. Durante el día la encontré como siempre, natural, benigna, sin nada que hiciera recordar la charla de la víspera. Para Año Nuevo fui a Mangaratiba. Cuando regresé a Río de Janeiro, en marzo, el escribano había muerto de una apoplejía. Concepción vivía en Engenho Novo, pero no la visité, ni me la encontré. Más tarde escuché que se había casado con el escribiente sucesor de su marido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -33,6 +33,3 @@ Los tres, junto con varios amigos de Elliot que lo llamaban Hubie, fueron juntos
 Al poco tiempo los amigos empezaron a marchar de regreso a París. Touraine no había resultado lo que parecía ser al principio. Pronto los amigos se habían ido con un poeta joven y soltero a una playa cerca de Trouville. Todos eran muy felices allí.
 Elliot se quedó en el chateau de Touraine porque lo había alquilado para todo el verano. Él y la señora Elliot intentaron todo lo posible tener un bebé en la espaciosa y calurosa cama del dormitorio de la habitación. La señora Elliot estaba aprendiendo a escribir a máquina al tacto sin mirar el teclado, pero vio que a medida que mejoraba en velocidad cometía más errores. Ahora su amiga era quien escribía todos los manuscritos. Era muy prolija y eficiente y parecía disfrutarlo.
 Elliot había empezado a beber vino blanco y vivía aparte en su propio cuarto. Escribía una buena cantidad de poemas durante la noche y por la mañana se veía exhausto. La señora Elliot y su amiga ahora dormían juntas en la espaciosa cama medieval. En muchas oportunidades lloraban juntas. Por la noche todos cenaban en el jardín bajo un plátano y soplaba la brisa nocturna y Elliot bebía su vino blanco y él y la amiga charlaban y todos eran muy felices.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

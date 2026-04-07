@@ -253,6 +253,3 @@ Hasta la fecha, la villa ha permanecido pobre y pequeña; nunca ha sido reedific
 Todo fue por causa de un pecado cometido por un marido, una esposa y un cochero. Y aunque no es habitual en los judíos ir a suplicar junto a la tumba de un suicida, las muchachas que van a visitar las tumbas de sus madres suelen acercarse al montículo de tierra, tras la valla, lloran y ofrecen plegarias no sólo para ellas y sus familias, sino también por el alma de la pobre Lise, la hija de Shifrah Tammar.
 Y la costumbre se ha mantenido hasta nuestros días.
 (Traducido del yidis al inglés por Elaine Gottlieb y June Ruth Flaum).
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

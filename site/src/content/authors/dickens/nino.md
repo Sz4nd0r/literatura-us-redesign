@@ -48,6 +48,3 @@ Y el anciano contestó con una sonrisa tranquila:
 —Estoy siempre recordando. ¡Ven y recuerda conmigo!
 El peregrino se sentó al lado del anciano, de frente al sereno anochecer; y todos sus amigos volvieron en silencio y permanecieron a su alrededor. El lindo chiquillo, el niño hermoso, el joven enamorado, el padre, la madre y los hijos, todos estaban allí y nadie se perdió de vista.
 Entonces los amó a todos y fue cariñoso e indulgente con ellos; siempre le complacía contemplarlos mientras era honrado y amado. Y pienso que el viajero debes ser tú, querido abuelo, porque ese fue tu modo de obrar para con nosotros y también es la forma en que nosotros te hemos respondido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

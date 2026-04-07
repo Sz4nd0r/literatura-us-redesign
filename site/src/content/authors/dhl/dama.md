@@ -362,6 +362,3 @@ Así era como Robert la veía. Ciss lloraba amargamente por la mujer perdida. E 
 —Oh, Robert —dijo ella—. ¡No quiero ser así!
 —No —dijo él—, no quiero que lo seas. Es como tú dices, debe de haber alguna clase de Dios en alguna parte y alguna clase de justicia divina. De otra manera, no merece la pena estar vivo. Uno puede seguir terriblemente equivocado sin saberlo. Nadie intentó enseñarle a madre el buen camino cuando aún era niña. Y tampoco ella supo enseñármelo a mí, cuando yo lo era. Si no hay ningún Dios al que recurrir, Ciss, no hubieras podido atraparme.
 Pauline fue rencorosa incluso muerta. Dejó a Robert solo dos mil libras y Old Brinsley, la casa, no los valiosos objects d’art. Estos últimos, con todo el resto de su dinero, fueron destinados a la fundación del Museo Pauline Attenborough.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -126,6 +126,3 @@ Vivo, alto, la cara de barro limón, el pelo de nige lustroso, los dientes de co
 En el suave resplandor celeste de la madrugada, la luna dormilona, la luna de la desaparición con el conejo amarillo en la cara, el conejo padre de todos los conejos amarillos en la cara de la luna muerta, las montañas azafranadas, baño de trementina hacia los valles, y el lucero del alba, el Nixtamalero.
 Los maiceros entraban de nuevo a las montañas de Ilóm. Se oía el golpe de sus lenguas de hierro en los troncos de los árboles. Otros preparaban las quemas para la siembra, meñiques de una voluntad oscura que pugna, después de milenios, por libertar al cautivo del colibrí blanco, prisionero del hombre en la piedra y en el ojo del grano de maíz. Pero el cautivo puede escapar de las entrañas de la tierra, al calor y resplandor de las rozas y la guerra. Su cárcel es frágil y si escapa el fuego, ¿qué corazón de varón impávido luchará contra él, si hace huir a todos despavoridos?
 El Gaspar, al verse perdido, se arrojó al río. El agua le dio la vida contra el veneno, le daría la muerte a la montada que disparó sin hacer blanco. Después sólo se oyó el zumbar de los insectos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -270,6 +270,3 @@ En el preciso instante en que iba a empezar la cremación, el hombre lloroso se 
 —Soy Jim Johnson, ¿sabes? Su primer marido. —Entonces se desquició por completo—. Es suyo —agregó, con las palabras entrecortadas por sollozos y ahogadas por el pañuelo que le cubría la cara y al que se refería—. ¿Te enteraste alguna vez de que le gustaba el amarillo?
 —No —respondió Arthur tristemente. Quizá Arthur se habría sentido un poco menos apenado de haberse enterado de que esa afición por el amarillo era un detalle vinculado a la señorita Carichata que ni siquiera el señor Obscenidad, cortés y sensualmente perspicaz como era, había adivinado.
 Con un ademán tiernamente viril, Arthur ciñó a Jim en un abrazo. Se arrodillaron juntos en silencio mientras el cuerpo era incinerado. Desde el cielo, la señorita Carichata observaba complacida. Que la perdonen si disfrutó un poco con el mal ajeno. Es posible que a ninguno de nosotros se nos conozca nunca a fondo. Pero ¿quién de nosotros ha sido tan amado?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

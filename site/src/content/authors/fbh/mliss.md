@@ -201,6 +201,3 @@ Melisa le echó los brazos al cuello, y dijo, llena de alegría:
 —Pero ahora, ¿esta noche?
 —Tanto mejor.
 Agarrados de las manos salieron al camino, al estrecho camino por el que una vez la habían conducido sus cansados pies a la puerta del maestro, y que parecía no deber pisar sola ya más. Miriadas de estrellas centelleaban sobre sus cabezas. Para el bien o para el mal, la lección había sido aprovechada, y detrás de ellos la escuela de Red-Mountain se cerró para siempre, dejando un rastro imperdurable.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

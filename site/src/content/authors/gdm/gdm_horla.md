@@ -105,6 +105,3 @@ Añado: «Algunos días antes del primer ataque de la enfermedad que casi me lle
 No tengo nada más que añadir, señores.
 *
 —Tampoco yo. No sé si este hombre está loco o si lo estamos los dos…, o si…, si nuestro sucesor ha llegado realmente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

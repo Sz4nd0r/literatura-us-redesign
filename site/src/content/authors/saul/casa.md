@@ -298,6 +298,3 @@ Reanudó su carta de instrucciones al abogado Claiborne. «En las siguientes con
 ¿Cómo pudo suceder aquello? Estudió lo que había escrito (finalmente reconoció que no había alternativa).
 —Estoy borracha —dijo—, y no sé lo que hago. Moriré y se acabó. Como India. Tan muerta como un seto de lilas. Entonces se le ocurrió que había un principio y un medio.
 Como en la última temporada. Volvió a empezar… Un principio. Después de eso, estaba el principio del medio, la mitad del medio, el final de la mitad del medio y un medio bastante tardío. En realidad, todo lo que conozco yo es el medio. El resto son solo rumores. Pero esta noche no soy capaz de dar la casa. Estoy borracha y, por tanto, la necesito. Y mañana, se prometió a sí misma, volveré a pensarlo. Lo resolveré, seguro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

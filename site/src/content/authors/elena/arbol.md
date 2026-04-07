@@ -218,6 +218,3 @@ Nadie contestó a sus llamados y el teléfono estaba en la otra habitación. Los
 Volvió a escuchar los pasos descalzos y se cubrió la cara con las manos.
 Gabina volvió a la casa de su patrona a las seis de la mañana. No fue sino hasta las ocho cuando notó que algo raro había ocurrido. En el cuarto halló a la señora Marta: hacía más de cinco horas que estaba muerta. La policía encontró a Luisa escondida en una casa vecina, con el cuchillo ensangrentado en la mano. La llevaron a la cárcel de Tacubaya.
 —¡Ya no hay ninguna de mis compañeras! —dijo Luisa, después de revisar las celdas y los patios. Y se sentó a llorar con amargura. Había olvidado que entre su salida y su regreso había transcurrido más de un cuarto de siglo. Martita tenía razón: el pasado era irrecuperable.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

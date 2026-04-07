@@ -773,6 +773,3 @@ si no veis a nadie, si os asustan
 los lápices sin punta, si la madre
 España cae —digo, es un decir—,
 salid, niños, del mundo; id a buscarla!...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

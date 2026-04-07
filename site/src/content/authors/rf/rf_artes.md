@@ -117,6 +117,3 @@ Es complicado tener dos amantes. Problemas logísticos. Sin olvidar a la mujer q
 Hice un trato con Gisela, no me gusta ver sufrir a nadie.
 María José dejó de fumar y ya no tiene los dientes tan amarillos.
 El nuevo libro casi está listo. Será aún mejor que el primero. Éxito, yo entiendo de eso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

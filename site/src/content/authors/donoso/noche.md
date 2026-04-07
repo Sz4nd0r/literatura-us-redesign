@@ -133,6 +133,3 @@ Les prometo que no. Me pongo en cuatro patas en el suelo a limpiar el vómito de
 No se fueron. Aceptaron mi ayuda y yo se lo agradecí. La Brígida fue la que dijo:
 —Este conoce bien la casa. Que él nos busque una pieza, un entretecho escondido, alguna parte que nadie sepa que existe, para criar al niño milagroso que va a nacer del vientre de la Iris… Mudito, entiendes, búscanos dónde… que nadie sepa… que nadie oiga… que nadie vea…
 Sólo cuando les dije que había encontrado el lugar justo, un sótano, quedé aceptado y me permitieron ser la séptima bruja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

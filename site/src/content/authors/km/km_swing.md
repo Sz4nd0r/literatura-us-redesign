@@ -150,6 +150,3 @@ Una gloriosa sensación de triunfo envolvió a Viola.
 Y se echó a reír, divertida ante aquellas absurdas palabras que acababa de pronunciar.
 Cuando se cerró la puerta y escuchó los pasos del desconocido que descendía la escalera, estalló en una carcajada y comenzó a bailar por la habitación.
 ¡Qué mañana! Se le quedaría bien grabada. Había sido su primera pelea y, si hubiese querido, podía haber sido su primera conquista. Cruzó los brazos sobre sus costados. “Debo tener las costillas moradas —pensó—. Sólo faltaba que mi bien amado Casimir me hubiera visto.” Todo el rencor y desagrado que sentía por Casimir habían desaparecido. ¿Qué culpa tenía el pobrecillo de no tener dinero? La culpa era tanto de ella como de él, pues ambos eran algo diferentes de todos los demás; eran los que luchaban contra ellos, como ella acababa de hacerlo. ¿Cuándo darían las tres? Se vio a sí misma corriendo a su encuentro; echándole los brazos al cuello. “Mi bien; claro que sí, estamos unidos para vencer. ¿Me amas todavía? Ay, he pasado hace poco un rato tan horrible...”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -292,6 +292,3 @@ estentórea de trueno: “Yah! Yah! Yah!”. Me parece que vamos a pescar muchos
 peces
 —siguió diciéndome Oti, y terminó de este modo—: Cuando se levante el
 sol le llevaré a ese comerciante blanco el pescado más grande.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

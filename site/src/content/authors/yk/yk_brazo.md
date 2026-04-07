@@ -215,6 +215,3 @@ Me arrodillé junto a la cama, apoyé el pecho contra ella y froté mi corazón 
 —¿Dónde está su brazo? —levanté la cabeza.
 Yacía a los pies de la cama, con la palma hacia arriba sobre el ovillo de la manta. Los dedos estirados no se movían. El brazo era débilmente blanco bajo la luz opaca.
 Con una exclamación de alarma lo recogí y apreté con fuerza contra mi pecho. Lo abracé como se abraza a un niño pequeño a quien la vida está abandonando. Llevé los dedos a mis labios. ¡Ojalá el rocío de la mujer manara de entre las largas uñas y las yemas de los dedos!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

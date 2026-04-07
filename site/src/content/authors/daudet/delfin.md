@@ -102,6 +102,3 @@ niño le interrumpe con cólera:
 sirve absolutamente para nada!?
 ... Y, sin querer atender a nada más, el pequeño
 Delfín se vuelve hacia la muralla, y llora amargamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

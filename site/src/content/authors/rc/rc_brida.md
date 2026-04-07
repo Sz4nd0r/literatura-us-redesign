@@ -234,6 +234,3 @@ A dondequiera que vaya, le deseo suerte.
 Uno de los cajones de la cómoda está abierto y voy a cerrarlo. En el fondo del cajón veo la brida que Holits llevaba al venir. Se le debió de olvidar, con las prisas. Pero tal vez no. A lo mejor la dejó a propósito.
 —Una brida —digo.
 La llevo a la ventana y la miro a la luz. Nada extraordinario, sólo una vieja brida de cuero. No sé mucho de eso. Pero sé que una parte va a la boca del caballo. Y que esa parte se llama bocado. Es de acero. Las riendas van por encima de la cabeza hasta el cuello, donde se cogen entre los dedos. El jinete tira de las riendas a un lado y a otro y el caballo da la vuelta. Es sencillo. El bocado pesa y está frío. Si se tuviera eso entre los dientes, creo que se andaría deprisa. Cuando se sintiera el tirón, se sabría que había llegado el momento. El momento de ir a alguna parte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

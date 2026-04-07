@@ -23,6 +23,3 @@ No expresé mi opinión.
 En Bolonia nos dijo adiós antes de tomar el tren para Milán y Aosta, desde donde iba a atravesar solo el paso que lo llevaría a Suiza. Le hablé de los cuadros de Mantegna que había en Milán.
 —No —me respondió con su apocamiento característico—, Mantegna no me gusta.
 En un papel le escribí la dirección de varios camaradas de Milán y la de un sitio donde podría comer. Me agradeció muchísimo lo que hacía por él, pero ya estaba pensando en la travesía del paso. Estaba ansioso por llevarla a cabo mientras duraba el buen tiempo. Adoraba las montañas durante el otoño. La última noticia que tuve de él fue que los suizos lo en-carcelaron cerca de Sion.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -238,6 +238,3 @@ Pero nada ha resultado ser así. El sexo ha quedado domesticado, desprovisto de 
 Y, a fin de cuentas, ¿qué ha sido de Ronette, olvidada en el pasado, salpicada por su claroscuro, manchada y aureolada por eso, confinada por los adjetivos de los demás? ¿Qué hace, ahora que nadie le sigue los pasos? Y, poniéndonos más prácticos: ¿tuvo a su bebé, o no? ¿Se lo quedó, o no? Donny, dulcemente sentado a la mesa delante de ella, es con toda probabilidad el padre de un niño de diez años y no tiene la menor sospecha.
 ¿Debería contárselo? El melodrama la tienta, la idea de una revelación, de una sensación, de un buen final.
 Pero no sería un final, sería solo el principio de otra cosa. En cualquier caso, la propia historia parece haber quedado obsoleta. Es una historia arcaica, una fábula, un antiguo mosaico. Es una historia que ahora no ocurriría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -85,6 +85,3 @@ al poco tiempo se casó con un leñador que la golpeaba a la manera de los pahar
 Si tomamos en cuenta que Lispeth había ingresado a la Iglesia Anglicana a la madura edad de cinco semanas, esta declaración desacredita el juicio de la esposa del capellán.
 Cuando murió Lispeth ya era una vieja. Siempre tuvo un perfecto dominio de la lengua inglesa y cuando estaba suficientemente borracha podía algunas veces ser inducida a contar la historia de su primer amor.
 Era difícil creer que la arrugada criatura de vista nebulosa, que parecía un manojo de trapos carbonizados, pudo alguna vez ser “Lispeth de la Misión de Kotgarh”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

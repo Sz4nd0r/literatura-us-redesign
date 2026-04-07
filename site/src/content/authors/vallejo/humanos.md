@@ -2436,6 +2436,3 @@ al seso, el llanto
 y a la garganta, una gana espantosa de ahogar
 lo que ahora siento,
 como un hombre que soy y que he sufrido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

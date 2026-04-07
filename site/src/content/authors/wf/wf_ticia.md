@@ -217,6 +217,3 @@ se le considera un hechicero. En El ruido y la furia, novela narrada como este r
 por otros niños de la familia Compson, aparece la única referencia adicional a esta
 superstición.
 [2] Véase la primera nota a “Hojas rojas”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

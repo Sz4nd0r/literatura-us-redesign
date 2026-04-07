@@ -141,6 +141,3 @@ Regresó a la casita y comenzó a afanarse en un rincón.
 Las ruedas del carro del campesino resonaron fuera de la parcela.
 —¡Mire, ya se larga! —dijo—. ¡Le daré su merecido!
 Media hora más tarde me despedí de él en las lindes del bosque.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

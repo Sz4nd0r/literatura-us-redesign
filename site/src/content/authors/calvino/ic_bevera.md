@@ -77,6 +77,3 @@ Bisma reapareció en el fondo del callejón. Avanzaba hacia ellos.
 Duce, escribió el otro.
 Pero el manchado ya disparaba. Murieron juntos hombre y mulo, pero permanecieron un instante de pie. Como si el mulo hubiera caído sobre las cuatro pezuñas y fuera de una sola pieza, con sus patas negras y torcidas. Los de las brigadas negras estaban allí, mirando; el manchado dejó caer la metralleta que estaba sostenida por la correa y le castañeteaban los dientes. Después se inclinaron juntos, hombre y mulo; parecía que fueran a dar un paso más, pero se derrumbaron el uno sobre el otro.
 Los del pueblo fueron por la noche a buscarlos. A Bisma lo enterraron, el mulo lo cocinaron. Era carne dura pero tenían hambre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

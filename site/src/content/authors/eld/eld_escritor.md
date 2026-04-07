@@ -139,6 +139,3 @@ He vendido la tienda con muy buen beneficio y voy a enviar hoy mismo a Frances u
 En cuanto a la naturaleza de mi enfermedad te diré que los médicos no me la han revelado, pero lo que sé es que me muero de no haber vivido la vida que me correspondía. Nunca debí venir a este desierto, no era mi sitio.
 He pedido a Ruth y a los chicos que se incinere mi cadáver y se esparzan mis cenizas por el mar.
 Tu hijo que te quiere, Jack.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

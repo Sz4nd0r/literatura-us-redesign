@@ -66,6 +66,3 @@ Han excavado los parterres y han removido la tierra. A diario se forman nuevas p
 Porque pronto llegará la muerte del año, pronto será el día más corto.
 Estoy sentada en un banco de la avenida que en verano, gracias a los álamos y la fuente, parece Italia en un día azul, pero ahora nubes grisáceas y marrones discurren por el cielo desde el noreste. Bandadas de gorriones, hambrienta expectación, se materializan en cuanto llego, pero he sido olvidadiza: no tengo más que una galleta. Se posan en el banco, en su respaldo, en mi zapato, bastante encorvados, mientras el viento tironea de sus plumas y les altera la silueta. También hay gaviotas, señal de que el mar debe de estar encrespado o quizá ha habido un vertido de petróleo.
 Volando hacia la puesta del sol, que hoy es espectacular, de oro y rojo, con nubes oscuras y comprimidas, se ven unas aves que giran lentamente, como desechos desiguales después de un torbellino. Parecen grajos, aunque no es posible; más bien deben de ser gaviotas. Pero es hermoso imaginar que son grajos, del mismo modo que, ya de vuelta a casa, los plátanos, torcidos en la misma dirección por el viento, parecen, con sus troncos salpicados de manchas, ciervos a punto de saltar todos a una hacia las puertas septentrionales.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -130,6 +130,3 @@ Burt cogió el cenicero. Lo puso de canto sobre su palma. Adoptó la pose de un 
 —Por favor —dijo Vera—. Es nuestro cenicero.
 Burt salió por la puerta del patio. No estaba seguro, pero creía haber demostrado algo. Confiaba en haber dejado claro algo. Y ese algo era que pronto deberían tener una conversación seria. Había cosas de las que era necesario hablar, cosas importantes que tenían que discutirse. Volverían a hablar. Quizá después de las fiestas, cuando las cosas volvieran a la normalidad. Le diría, por ejemplo, que aquel maldito cenicero no era sino un maldito plato.
 Orilló la tarta del camino de entrada y subió al coche. Arrancó y metió la marcha atrás. Le resultó difícil arreglárselas hasta que dejó el cenicero a un lado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

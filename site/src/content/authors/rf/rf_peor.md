@@ -105,6 +105,3 @@ Estoy en la estética con mi amiga Lulu, la cínica boquifloja.
 “Me volví así, lo hombres me volvieron así.”
 “A mí no me va a pasar eso, ya verás. No me voy a volver una bruja amargada como tú.”
 Por la noche, en la casa, me quedo desnuda frente al espejo, estiro un brazo hacia un lado y lo sacudo, y después el otro. ¿Cómo nunca había visto eso pellejo flojo, que cuelga de mi brazo como una carne muerta? ¿Y las arrugas del rostro? ¿Y los talones con callos? ¿Y la flacidez que reviste mi cuerpo, como una tripa asquerosa? Yo no era así. Dios mío, es mejor que me muera rápido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

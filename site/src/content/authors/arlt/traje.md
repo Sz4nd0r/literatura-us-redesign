@@ -230,6 +230,3 @@ Y un día, cuando harto de caminar por las tierras que están a la orilla de la 
 Por eso he escrito estas líneas que son testimonio de mi honrada vida1.
 Notas
 1. Gustavo Boer fue detenido bajo la inculpación del asesinato de un marinero, que se encontró muerto en su habitación. Boer, para simular haber cometido el delito en un ataque de locura, salió a la calle desnudo. Su mismo relato del proceso que él quiere hacemos creer, refleja su estado de anormalidad; nos presenta a un imaginativo poético completamente normal. Como se supone, Boer será condenado a pesar de sus tentativas de pasar por demente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

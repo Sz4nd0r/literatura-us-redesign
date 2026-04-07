@@ -62,6 +62,3 @@ El rostro de Lise estaba tan impasible, que Sigismund no sabía si había oído 
 —No —contestó ella.
 —¿Tienes idea —preguntó él— de dónde puedes haberlo perdido?
 —No —contestó ella—. No tengo la menor idea.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

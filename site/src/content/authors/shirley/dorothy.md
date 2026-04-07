@@ -52,6 +52,3 @@ Mi madre añadió que, si Dot se tranquilizaba lo suficiente como para hablar, n
 —Pobrecita... Con nosotras estás a salvo.
 Esa noche, Dot tuvo que quedarse a dormir en casa. Mandamos a mi hermano a casa de Dot para decirle a su madre que mi amiga se quedaba conmigo y que se había comprado un abrigo gris de tweed con talle princesa, muy práctico y con una cálida entretela.
 Dot lo llevó todo ese año.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

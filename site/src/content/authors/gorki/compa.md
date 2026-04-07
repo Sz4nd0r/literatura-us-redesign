@@ -192,6 +192,3 @@ Los viejos camaradas contemplaron pensativos la hoguera, sentados uno enfrente d
 —Bueno, eso aún está por ver: si ella conmigo o yo con ella… —sonrió Tuchkov.
 Callaron…
 A sus espaldas, el bosque se alzaba como un muro oscuro y susurraba con dulzura, la hoguera crepitaba alegremente; a su alrededor las sombras bailaban en silencio, y flotaban sobre los campos las espesas tinieblas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

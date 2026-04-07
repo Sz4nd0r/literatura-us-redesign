@@ -308,6 +308,3 @@ Crujen minutos en tus pies naciendo,
 tu sexo asesinado se incorpora,
 y levanta la mano en donde vive
 todavía el secreto de la espuma.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

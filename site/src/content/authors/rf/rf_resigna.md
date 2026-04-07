@@ -202,6 +202,3 @@ N. del T.:
 [2] El estado de Louisiana es el único de la Unión que no se divide en condados, sino en parroquias.
 [3] Brazo pantanoso de un río, en Louisiana.
 [4] En español en el original.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

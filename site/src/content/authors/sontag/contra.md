@@ -80,6 +80,3 @@ la novela, una noción clara de las formas de narración. Quizá la crítica
 cinematográfica proporcione la ocasión y sirva de punta de lanza, pues el cine es
 primordialmente una forma visual, sin por ello dejar de ser una subdivisión de la
 literatura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

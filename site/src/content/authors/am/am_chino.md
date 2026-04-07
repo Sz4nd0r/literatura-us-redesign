@@ -44,6 +44,3 @@ Y yo lo sacudía por el cuello y gritaba hasta quedarme sin voz:
 —¿Qué has hecho con el perro?... ¡Asesino!... ¿Qué has hecho con el perro?
 Por fin nos separaron, y Bonifazi y los demás me hicieron subir a la camioneta que iba a Roma.
 Aquel mismo día devolví el pachón a su amo y me dieron la propina. Pero no volví a Tormarancio. No poseía nada y en casa de Bonifazi nada había dejado. Le debía un mes y pensé que no hay mal que por bien no venga. Por otra parte, esta historia del perro chino había hecho que me disgustara mi oficio y decidí cambiarlo. Me hice vendedor ambulante, yendo por ahí con un carrito lleno de todo un poco: aceitunas dulces, semillas de melón, castañas pilongas, avellanas, higos secos y nueces. Hacía cartuchos todo el día, en el puente nuevo, a la entrada del túnel del Gianicolo, y entre unas cosas y otras iba tirando. En aquella época siempre estaba triste, y la vida no me decía nada, quizás por culpa del perro. Sólo una vez vi a Fesseria, a lo lejos, pero no le hablé: si me hubiera dicho que también había comido del perro creo que la habría matado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

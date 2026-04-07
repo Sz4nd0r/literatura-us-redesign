@@ -601,6 +601,3 @@ un día u otro voy a encontrar, inesperadamente, a Olivera; que voy a tropezar
 con él, aquí, y que me va a poner sonriendo la mano en el hombro:
 —¡Oh, patrón velho...! Tenemos trabajado lindo con vosé, lá,
 no Misiones!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -188,6 +188,3 @@ jardín, se dirigía a la cancela y desaparecía. Sin pérdida de tiempo, el ban
 al pabellón en compañía de los criados y constató la huida del prisionero. Para no despertar
 rumores innecesarios, cogió la declaración de renuncia de la mesa y, al regresar a la casa,
 la guardó en la caja fuerte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

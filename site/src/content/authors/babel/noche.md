@@ -98,6 +98,3 @@ Y Galin habló conmigo de la educación
 política del primer ejército de caballería. Habló mucho tiempo, sordamente y
 explícitamente. El párpado se movía sobre el ojo ciego y de la palma destrozada
 de su mano chorreaba la sangre.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

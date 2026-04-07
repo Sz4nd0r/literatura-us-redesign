@@ -141,6 +141,3 @@ Creo que conversamos poco más de media hora, a partir del momento en que Dina s
 volví, y fue la primera vez que el régisseur que dominara nuestras vidas tiró de los hilos. Nos encontramos sin estupefacción y sin novelería. Pero ese día y el otro y el otro estuvimos allí, y muchas veces nos confesamos después la emoción incierta, aventurada —y en ella más conflictual que en mí— con que esperamos cada veinticuatro horas la llegada de esa cita implícita.
 Vinculo el nombre de Dina Canavaggia y su historia del week-end de los gatitos al comienzo de los meses más importantes de mi vida. Debería ir y decírselo, ir y agradecérselo, ir y pedirle que lo recordásemos juntos. Pero en estos últimos días, cuando —por una clase de ritualismo del que Cora abominaría— voy a la librería y, más concretamente, al rincón de los libros de arte, me arreglo para que sea a primera hora de la tarde, cuando me consta que Dina no está en el negocio.
 No sé la causa; le dejo saludos, pero tengo una invencible cobardía de verla.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

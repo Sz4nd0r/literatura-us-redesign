@@ -643,6 +643,3 @@ ahora, ¡sólo será una cuestión de tiempo!
 —Entonces, es mejor que esperes. Buenas
 noches, querida.
 Y, en realidad... resultó que tenía razón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

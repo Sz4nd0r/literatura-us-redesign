@@ -80,6 +80,3 @@ Su voz, queda, murmuró:
 ¡Éste era el último insulto! Me habían arrebatado la dignidad, la posición social, la cortesía, mi voluntad entera, ¡ahora, acabarían por matar mi sexo! Abrí la puerta de par en par: Tlazol en traje de ceremonias, cargada de joyas gruesas y serpientes, avanzó a abrazarme: mi boca reía dislocada. Tlazol cerró la puerta con llave, sus labios se acercaron a los míos, y a mordiscos arrancó su carne. En la mano de la Diosa brillaba un puñal opaco; lenta, lenta, lo acercó a mi corazón. La carne de los labios yacía, gimiendo espantosamente, en el suelo.
 Los labios gritaban, casi en suspiro: —Huye, Oliverio, huye… No quise llegar hasta este punto… yo también creo… ¡Oh, por qué me arrancaste de la contemplación!…
 Tlazol me abrazó en un espasmo sin suspiros. El puñal quedó allí, en mi centro, como un pivote loco, girando solo mientras ella abría la puerta a la caravana de ruidos minuciosos, de alas y culebras, que se amasaban en el pasillo, y las guitarras torcidas y las voces internas cantaban.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

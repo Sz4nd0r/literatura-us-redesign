@@ -115,6 +115,3 @@ Erwin apoyó una mano en la puerta del coche y respondió desmayadamente:
 —Una pena —dijo Erwin.
 —Una pena —repitió ella y bostezó.
 Erwin se inclinó, besó su gran guante negro, que cubría cinco dedos extendidos y con una tosecita se metió en la oscuridad. Caminó con esfuerzo, le dolían las piernas y le agobiaba pensar que al día siguiente era lunes y que le costaría mucho levantarse de la cama.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

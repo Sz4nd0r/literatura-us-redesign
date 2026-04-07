@@ -218,6 +218,3 @@ con atención. Richardson quiso decir algo, pero sólo
 pudo inclinarse hacia adelante y palmear los brillantes hombros acerados.
 El pequeño caballo volvió la cabeza y miró solemnemente
 hacia atrás.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

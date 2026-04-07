@@ -231,6 +231,3 @@ entre mis queridas montañas ni me irrita la aparición de su estúpida cara de
 luna.
 Mis días transcurren plácidos y por las noches
 duermo tranquilamente como un niño...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

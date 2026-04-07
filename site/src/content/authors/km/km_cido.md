@@ -160,6 +160,3 @@ Ahora Janey le tocaba la corbata con los dedos. Apretaba ambos bordes, uniéndol
 —John, querido, no te sabe mal que te lo haya contado, ¿verdad? ¿No te habrás puesto triste? Espero que no haya echado a perder la noche…, ahora que estamos juntos, por fin los dos solos…
 Pero al oír sus palabras tuvo que esconder el rostro, tuvo que ocultarlo en su pecho y estrecharla entre sus brazos.
 ¡Echar a perder la noche! ¡Estar los dos solos! Ya nunca, nunca, volverían a estar solos los dos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

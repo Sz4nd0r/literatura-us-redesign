@@ -146,6 +146,3 @@ Mi corazón había estado a punto de salírseme del pecho, arrastrado por la neg
 —Recibe el don de mi sangre sagrada —murmuré.
 Pero mi corazón no estaba. No sentí alegría cuando ella se inclinó para tocar el suelo. Ni un oscuro sobresalto. Me recosté en las almohadas blancas. Un polvo blanquecino giraba en los haces de luz. Mi piel era polvo. Polvo mis labios. Polvo las uñas sucias de mis pies.
 Levántate, pensé, ¡levántate y anda! ¡Este polvo es ilimitado!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

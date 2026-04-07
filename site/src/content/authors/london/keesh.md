@@ -86,6 +86,3 @@ Hubo un largo silencio. Los hombres se miraban entre sí, y Keesh continuó comi
 Y Klosh Kwan exclamó:
 —¡Ah! —y cada uno dijo algo de acuerdo con su carácter, y todos comprendieron.
 Y esta es la historia de Keesh, que vivió hace muchos años a orillas del océano polar. Porque se sirvió de ingenio y no de encantamientos, ascendió desde el igloo más pobre del pueblo a cacique de su tribu, y se dice que mientras él vivió, su pueblo disfrutó de prosperidad, y ni las viudas ni los débiles volvieron a llorar de noche por falta de alimento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -113,6 +113,3 @@ A la vista de semejante espectáculo, el odio de Harrocks se fue apaciguando. Un
 —¡Dios tenga piedad de mí! —gritó—. ¡Oh, Dios! ¿Qué he hecho? —Sabía que «la cosa» que aún estaba debajo, aunque se movía y sentía, era ya un hombre muerto, y que toda la sangre estaría hirviendo en las venas. Una inmensa piedad hacia la agonía horrible del desgraciado comenzó a desalojar de su mente cualquier otro sentimiento. Se detuvo, algo indeciso y luego, volviéndose hacia el vagón, volcó presuroso su contenido sobre lo que una vez había sido un hombre. El chillido cesó y una hirviente confusión de humo, polvo y llamas se levantó hacia él. Cuando pasó, pudo ver el cono, despejado otra vez.
 Luego, bamboleándose, volvió a tomarse fuertemente del pasamanos. Sus labios se movieron, pero no pudieron formular una palabra.
 Abajo, se oía un rumor de voces y de pasos rápidos. El fragor del molino cesó bruscamente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -51,6 +51,3 @@ Lo rechacé con un ademán e insistí, con voz estrangulada:
 —Pero yo creí que era una broma.
 —Para ellos, sí, pero no para mí —dijo.
 De forma que me marché e intenté no pensar más en ello. Pero, si primero evitaba a los del grupo, ahora llegaba incluso a odiarlos. Me habían embromado tanto que me hicieron creer que deseaba algo absolutamente imposible. Y, en cambio, era posible; y el instinto, que no falla nunca, me había advertido de la verdad: Marcella era la mujer que yo necesitaba. Porque, en efecto, no solo era grande, como yo deseaba, sino que, por añadidura, había crecido con ganas de un marido pequeño. Mucho más que una ocasión, como había dicho ella: casi un milagro. Pero yo sabía que no se volvería a repetir.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

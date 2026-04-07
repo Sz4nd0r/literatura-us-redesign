@@ -289,6 +289,3 @@ A.R.
 —Bueno, ¿qué me dices? —preguntó Smoke—. Aceptamos la invitación, supongo.
 —Tengo que decir una cosa —respondió Shorty—. Y es que Aguas Rápidas nunca sufrirá si se arruina. Es un buen actor, un actor condenadamente bueno. Y otra cosa: he hecho mal los cálculos. Aguas Rápidas gana diecisiete mil dólares, sí, pero no solo eso. Tú y yo le hemos conseguido hasta el último huevo en buen estado del Klondike, novecientos sesenta y cuatro, con dos que le regalamos para demostrar nuestras buenas intenciones. Y él fue tan gruñón y tan tacaño que incluso se llevó en un cubo los tres o cuatro que abrió. Una última cosa: tú y yo somos buenos buscadores de oro y mineros con cabeza, pero en cuanto a las finanzas somos los inocentones más fáciles de embaucar del mundo. Después de esto, tú y yo nos centraremos en las zonas donde haya rocas elevadas y árboles altos. Y si vuelves a hablarme de huevos, en ese momento y lugar disolveremos nuestra sociedad. ¿Entendido?
 (1912)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

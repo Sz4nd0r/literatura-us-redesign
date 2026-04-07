@@ -129,6 +129,3 @@ ajustado vestido de seda azul y se puso el viejo de
 sarga que solía usar, después tiró por la ventana, en la basura, la
 semillas de membrillo y bórax que últimamente
 empleaba para la cara.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

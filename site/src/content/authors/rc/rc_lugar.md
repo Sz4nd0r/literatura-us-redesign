@@ -224,6 +224,3 @@ Myers arrancó y se apartó del bordillo.
 Myers le dio unas palmaditas en la mano.
 —Daban miedo —dijo Paula.
 Myers no contestó. Le dio la impresión de que la voz de Paula le llegaba de muy lejos. Siguió conduciendo. La nieve golpeaba contra el parabrisas. Siguió silencioso, mirando la carretera. Se hallaba en el final mismo de una historia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

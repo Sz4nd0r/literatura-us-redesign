@@ -116,6 +116,3 @@ Cuando salí de la cárcel advertí que mi cabeza había quedado congelada otra 
 —¡Muerto de sueño!
 Lo miré alejarse mientras mi cabeza repetía fielmente, como un eco, igual que un año antes:
 —Muerto de sueño..., muerto de sueño..., muerto de sueño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

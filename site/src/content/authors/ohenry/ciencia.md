@@ -80,6 +80,3 @@ Agencia Peters y Tucker, Cairo, Illinois.
 “—Me los dio ella —aseguró Andy—. La he estado visitando tres veces a la semana durante un mes.
 “—Entonces ¿eres tú Guillermo Wilkinson? —le pregunté.
 “—Lo era —me contestó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

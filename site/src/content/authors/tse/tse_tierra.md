@@ -852,6 +852,3 @@ que aunque no da nada al profesional,
 se aparece al mundo placentera.
 [80] Shantih. Repetido como aquí, es la culminación formal de un Upanishad. «La paz que traspasa el entendimiento» es nuestro equivalente a esta palabra. (N. del A.)
 La frase bíblica a la que se refiere Eliot en su nota procede de la carta de san Pablo a los Filipenses, 4,7: «Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús».
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

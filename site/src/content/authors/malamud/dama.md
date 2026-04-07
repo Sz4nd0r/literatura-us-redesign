@@ -198,6 +198,3 @@ Max dijo que seguramente lo tomaría. Luego se despidió de Karla:
 —Gracias por la invitación.
 —Amor, matrimonio, felicidad —⁠canturreó Karla, de pie en las escaleras con su minivestido de ganchillo.
 Subió corriendo a ver a sus criaturas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

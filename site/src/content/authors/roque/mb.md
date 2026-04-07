@@ -597,6 +597,3 @@ ni la absoluta honestidad, quisiera acon­sejarle que renuncie a la
 embajada de Guatemala en París. Quizá así podría conservar por lo
 menos un po­quito del decoro que Sartre otorgó al premio más
 muni­cipal de la tierra.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

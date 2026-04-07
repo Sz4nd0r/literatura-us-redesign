@@ -192,6 +192,3 @@ Y así pasó. La
 tortuga, feliz y contenta con el cariño que le tienen, pasea por todo el
 jardín, y es la misma gran tortuga que vemos todos los días comiendo el
 pastito alrededor de las jaulas de los monos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -94,6 +94,3 @@ Había dejado de trabajar. No era eso lo que él quería; ¡si su padre lo viera
 —Sí, me gusta. Pero en el fondo, por la noche, cuando vuelves, qué te ha quedado. El lunes, vuelta a empezar, y te fue como te fue.
 —Claro —dijo él mordiendo la brizna. Ahora había que dejarla en paz, si no, no volvería a trabajar. Dio media vuelta y bajó.
 En los bancales de abajo los hombres casi habían terminado y Nanín envolvía las gavillas en lonas para bajarlas cargadas sobre las espaldas. El mar altísimo con respecto a las colinas empezaba a teñirse de violeta del lado del ocaso. El hijo del patrón miraba su tierra, pura piedra y paja dura, y comprendía que él le sería siempre desesperadamente ajeno.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

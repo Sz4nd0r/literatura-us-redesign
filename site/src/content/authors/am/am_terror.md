@@ -188,6 +188,3 @@ Para comprender lo inconsciente que es Lorusso basta con saber que, tras un mome
 Y él, frotándose las manos, dijo:
 —¡Uy, qué bien, mañana hay sopa de judías en Regina Coeli!
 Así me enteré de que también era perjuro, pues siempre me había jurado que nunca lo habían metido en la cárcel. Luego miré mis pies, vi que me había quedado con los zapatos de Lorusso y pensé que, después de todo, había obtenido lo que deseaba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

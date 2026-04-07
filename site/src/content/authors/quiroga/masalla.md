@@ -116,6 +116,3 @@ Durante quince segundos nuestras miradas quedaron ligadas con tremenda fijeza. E
 Ese beso nos cuesta la vida—concluye la voz—, y lo sabemos. Cuando se ha muerto una vez de amor, se debe morir de nuevo. Hace un rato, al recogerme Luis a sí, hubiera dado el alma por poder ser besada. Dentro de un instante me besará, y lo que en nosotros fue sublime e insostenible niebla de ficción, descenderá, se desvanecerá al contacto sustancial y siempre fiel de nuestros restos mortales.
 Ignoro lo que nos espera más allá. Pero si nuestro amor fue un día capaz de elevarse sobre nuestros cuerpos envenenados, y logró vivir tres meses en la alucinación de un idilio, tal vez ellos, urna primitiva y esencial de ese amor, hayan resistido a las contingencias vulgares, y nos aguarden.
 De pie sobre la lápida, Luis y yo nos miramos larga y libremente ya. Sus brazos ciñen mi cintura, su boca busca mi boca, y yo le entrego la mía con una pasión tal, que me desvanezco…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

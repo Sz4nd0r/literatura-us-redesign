@@ -277,6 +277,3 @@ Hablaba del capitán Johns. Yo no dije nada.
 El capitán Johns, eso me dijeron, armó un buen escándalo ante la desaparición de su primer oficial, e hizo que la policía francesa buscara su cuerpo por todo el país. Supongo que al final su armador lo convenció de que se olvidara de toda aquella historia. Estoy convencido de que jamás entendió nada de aquel misterioso suceso.
 Incluso a día de hoy todavía intenta (está jubilado y su conversación es un tanto deslavazada) relatar la historia del oficial negro que sirvió a sus órdenes, “un asesino con aires de caballero” y el pelo negro como ala de cuervo que encaneció súbitamente tras una aparición sobrenatural. Un fantasma vengador. Resulta un tanto complicado entender exactamente de qué está hablando cuando nombra todas aquellas escalerillas de popa, pelos blancos y negros. Y si su hermana se encuentra presente (sigue siendo una mujer muy enérgica), suele cortar el tema de raíz diciendo:
 —No presten ninguna atención a lo que dice, tiene el cerebro lleno de demonios.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -80,6 +80,3 @@ Luego nos retiramos, pues eran las 23, y permanecimos un rato en la acera. El ho
 —Esta es mi humilde residencia —dijo—; comienzo a percatarme por los signos, de que mi esposa se ha retirado a dormir. Por consiguiente, me voy a aventurar un poco en el terreno de la hospitalidad. Deseo que entren al sótano, donde comemos, y compartamos un discreto refrigerio. Habrá un poco de rica gallina fría y un par de botellas de cerveza inglesa. Serán bienvenidos si entran a comer y beber, porque les estoy agradecido por la diversión que me han proporcionado.
 El apetito y la conciencia míos y de Tobin armonizaban con la propuesta, aunque difícilmente entraba dentro de la superstición de Danny el pensar que unos tragos y un lunch frío representaran la buena suerte prometida por la palma de la mano.
 —Desciendan los escalones —dijo el hombre de la nariz torcida—; yo entraré por la puerta de arriba y los haré pasar. Le diré a la nueva sirvienta —agregó— que prepare café para que beban antes de retirarse. Es bueno el café que hace Katie Mahorner, para ser una muchacha nueva, que recién hace tres meses que ha llegado. Entren —dijo el hombre— y la enviaré a vuestra presencia.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

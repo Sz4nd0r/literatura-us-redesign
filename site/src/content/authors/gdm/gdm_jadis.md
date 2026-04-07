@@ -63,6 +63,3 @@ La joven cogió en sus manos trémulas las manos arrugadas de la vieja:
 —Cállate, abuelita; cállate, por Díos; te lo suplico.
 Y, de rodillas, con lágrimas en los ojos, pide al Cielo una pasión única, devoradora, inextinguible, conforme al delirio de los poetas modernos; mientras que su abuela, besándola en la frente, penetrada todavía por la encantadora y sana reflexión que los filósofos del siglo XVIII, derramaron como un perfume sutil sobre las imaginaciones de su tiempo, balbucía:
 —Ten cuidado, mi probre hijita; si crees en locuras semejantes, serás muy desgraciada.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

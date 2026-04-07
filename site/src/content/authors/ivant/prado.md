@@ -192,6 +192,3 @@ Le saludé con un gesto y me marché, siguiendo mi camino a lo largo del río, e
 Todo rebullía, bordoneaba, se despabilaba, rumoreaba, hablaba. Por doquiera cuajábanse en fulgentes diamantes los goterones de rocío; hasta mí llegaron limpios, claros, como lavados también por el frescor de la mañana, tañidos de campanas…
 Y de pronto, junto a mí, hostigados por los muchachos, mis amigos, pasó el descansado tropel de caballos.
 Con gran tristeza, debo añadir que aquel mismo año Pavel dejó de existir. No murió ahogado; murió a consecuencia de una caída de caballo. ¡Lástima de chico! ¡Era un esplendido muchacho!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

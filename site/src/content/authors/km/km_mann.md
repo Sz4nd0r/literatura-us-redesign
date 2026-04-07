@@ -143,6 +143,3 @@ La acercó de un jalón y la besó en la boca.
 Ella se zafó estremecida, desencajada.
 —¿Quién ha hecho eso? ¿quién hizo ese ruido?
 —¡Achk! —profirió Sabina huyendo del cuarto.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

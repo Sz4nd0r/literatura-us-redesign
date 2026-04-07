@@ -351,6 +351,3 @@ Me levanté a abrirle la puerta.
 —Tu casa —le dije.
 E indiqué los muros resquebrajados por la humedad.
 La miré alejarse hacia la bajada del subterráneo, y enseguida me senté sobre el escaño a mirar los edificios del frente. En la mano aún me quedaba un cacho de pan francés, y la abundante mermelada se le iba chorreando por las márgenes. Me eché el trozo a la boca, y me quedé todo el rato masticándolo, hasta sentirlo cruzarme la garganta y depositarse en el fondo de mi estómago.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

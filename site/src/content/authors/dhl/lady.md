@@ -973,6 +973,3 @@ También el conde sonreía.
 —¡Exactamente! —exclamó Basil—. No dictaré leyes para nadie, ni siquiera para mí mismo. Y viviré mi vida.
 —Entonces alcanzará la felicidad a su manera —afirmó el conde—. Encuentro muy difícil no dictarme leyes a mí mismo. Solo el pensamiento de la muerte, y de la vida después de la muerte, me apartan de hacerlo.
 —Como me ayuda a mí pensar en la eternidad —dijo Basil—. Supongo que acaba por ser una misma cosa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

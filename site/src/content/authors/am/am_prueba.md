@@ -112,6 +112,3 @@ De modo que nos fuimos al cine, pero sin coche, en autobús. E Iris, en el cine,
 —Yo soy un poco como la madre de Iris... ¿Verdad que es una chica muy guapa? Tenga en cuenta que usted ha hecho una promesa y que deberá mantenerla... ¡Ay de usted si no la mantiene!
 —Prometer y mantener es de cobarde —le dije, bromeando.
 —Usted ha hecho una promesa y la mantendrá —dijo ella—. Iris tiene que tener su prueba y la tendrá.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

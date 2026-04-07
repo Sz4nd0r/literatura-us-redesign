@@ -522,6 +522,3 @@ dicho que este poste tiene un travesaño?
 —Sí, claro. Lo estuve mirando un rato largo. Por eso...
 Charley levantó nuevamente los ojos y dudó, extrañado antes de hablar.
 —No hay ningún travesaño —dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

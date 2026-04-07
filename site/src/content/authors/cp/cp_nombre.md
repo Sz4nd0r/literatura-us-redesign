@@ -64,6 +64,3 @@ Pale no respondió. A fuerza de escapar de casa se había vuelto taciturno como 
 —No es eso —replicó Pale—. ¿Crees que a la víbora le importa que te hagas el buen chico? La víbora quiere matar a los que la buscan...
 Pero en ese momento se reanudó el grito de antes. La vieja había vuelto a la ventana. Chirriaron las ruedas de un carro y se oyó el chapuzón de un balde en el pozo. Entonces
 eché a andar hacia casa, y Pale se quedó en el puente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

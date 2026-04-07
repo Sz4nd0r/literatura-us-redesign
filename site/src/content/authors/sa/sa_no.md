@@ -82,6 +82,3 @@ Ray Pearson también se rió. Quiso reírse de sí mismo y del mundo entero.
 La forma de Hal Winters desapareció en la penumbra que cubría el camino a Winesburg, atravesó lentamente los campos y recogió su raído abrigo. Mientras andaba empezó a recordar las agradables tardes
 que pasó con los niños de piernas flacas en la casa destartalada junto al arroyo, porque murmuró unas palabras:
 —Es lo mejor. Cualquier cosa que le hubiera dicho hubiera sido una mentira —dijo suavemente, y luego su silueta también se perdió en la oscuridad de los campos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -51,6 +51,3 @@ Llegar allí y despedir la pelotita, todo fue uno.
 —¡Lejos de mí, Satán! ¡Lejos de mí, Satán!
 La pelota cayó fuera del convento —fiesta de brincos y rebrincos de corderillo en libertad—, y, dando su salto inusitado, abrióse como por encanto en forma de sombrero negro sobre la cabeza del niño, que corría tras ella. Era el sombrero del demonio.
 Y así nace al mundo el Sombrerón.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

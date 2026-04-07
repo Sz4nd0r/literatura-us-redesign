@@ -118,6 +118,3 @@ con sesenta minutos de diamante.
 Pero no se ofrece recompensa
 pues se ha ido para SIEMPRE!
 —Fue tu abuela quien lo escribió —dijo el abuelo, y agitó aquel mechón blanco mirando a Fenella de un modo tan divertido que la niña casi creyó que le había hecho un guiño.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

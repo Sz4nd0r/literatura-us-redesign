@@ -212,6 +212,3 @@ una razón u otra nunca lo hice. No he vuelto a verla. Ahora, sólo me
 queda la foto que tengo en el cajón de rni escritorio, y el pensamiento
 de que las mujeres que no he tenido (como ocurre a todos los grandes
 seductores de la his­toria), son más numerosas que las arenas del mar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

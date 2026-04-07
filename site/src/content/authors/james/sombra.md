@@ -297,6 +297,3 @@ Ella lo miraba fijamente y tuvo que admitir, al cabo de un rato, que sí, que as
 —Pero mientras yo estuve aquí ella estuvo encantadora.
 —Encantadora, de eso estoy hablando.
 Lo dijo en un tono que ponía la situación bajo la luz idónea, una luz en la que los dos parecían contemplar amablemente, casi con ternura, a la pobre Maud alejándose, con su linda cabeza agachada bajo el peso de una teoría que le venía grande. Sin embargo, las últimas palabras de Voyt declararon que en ésta —en la teoría— algo había que los obligaba a reconocer que Maud no se había mostrado, la tarde en que conversaron, del todo carente de sentido. Su conciencia, si ellos la dejaban en paz —como debían hacer piadosamente después de esto— era, a fin de cuentas, una especie de tímida historia romántica. No era una historia romántica como la de ellos dos, algo que haría feliz a cualquier autor digno de contarla —uno que tuviera la capacidad de invención o pudiera tener el valor necesario—, sino una satisfacción pequeña, amedrentada, famélica, subjetiva que a ella no le haría ningún daño ni tampoco ningún bien a los demás. ¿Quién sino un zoquete —él seguía firme en su opinión— podría ver en todo aquello la sombra de una «historia»?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

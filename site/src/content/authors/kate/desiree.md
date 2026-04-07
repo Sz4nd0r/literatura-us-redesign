@@ -67,6 +67,3 @@ Semanas después, en L’Abri, tuvo lugar una curiosa escena. En el centro de un
 Una elegante cuna de madera de sauce, con todos sus primorosos adornos, fue puesta en la pira, que ya había sido alimentada con la suntuosidad de un magnífico ajuar de bebé recién nacido. Había vestidos de seda, y junto a éstos, otros de raso y de terciopelo; encajes, también, y bordados; sombreros y guantes, pues la corbeille había sido de excepcional calidad.
 Lo último en desaparecer entre las llamas fue un pequeño manojo de cartas; inocentes garabatos diminutos que Désirée le había mandado durante los días de su vida en común. Quedaba una hoja suelta en la parte de atrás del cajón de donde había tomado el manojo. Pero no era de Désirée. Pertenecía a una vieja carta de su madre dirigida a su padre. La leyó. En ella, su madre le agradecía a Dios por haberla bendecido con el amor de su esposo.
 “Pero, sobre todo”, había escrito, “agradezco noche y día al buen Dios por haber dispuesto de tal manera nuestras vidas, que nuestro querido Armand nunca sabrá que su madre (quien lo adora) pertenece a la raza que ha sido marcada a fuego con el estigma de la esclavitud”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

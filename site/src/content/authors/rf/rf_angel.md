@@ -166,6 +166,3 @@ No tengo teléfono.
 Sônia debe saber cómo encontrarte si te necesito, ¿no? Ella fue muy buena, recomendándote para ser mi ángel de la guarda.
 No respondí. La mujer esperó conmigo hasta que llegó el autobús, los dos dentro del carro oyendo la música que le gustaba, el violín no me pareció tan irritante.
 Tomé el autobús. Ella agitó la mano mientras el autobús se alejaba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

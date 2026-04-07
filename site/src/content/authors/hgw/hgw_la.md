@@ -95,6 +95,3 @@ Wedderburn había perdido mucha sangre, pero aparte de eso no tenía ninguna les
 —Venga a ver el invernadero.
 El frío aire exterior entraba por la puerta abierta y el empalagoso perfume casi se había desvanecido. La mayoría de las rotas raicillas aéreas, ya marchitas, yacían entre algunas manchas oscuras sobre los ladrillos. El tallo de la floración se rompió con la caída de la planta y las flores crecían con los bordes de los pétalos mustios y marrones. El doctor se inclinó hacia ella, pero vio que una de las raicillas aéreas todavía se movía débilmente y dudó.
 A la mañana siguiente la extraña orquídea todavía estaba allí, ahora negra y putrefacta. La puerta batía intermitentemente con la brisa matinal y toda la colección de orquídeas de Wedderburn estaba reseca y postrada. Pero el propio Wedderburn en su dormitorio estaba radiante y dicharachero con la gloria de su extraña aventura.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

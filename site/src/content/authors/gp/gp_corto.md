@@ -347,6 +347,3 @@ los recién nacidos!
 A lo que, con lo lista, dura y alegre que era yo, sólo pude decir antes de partir a
 vivir y a morir:
 —No, padre, él no me quiere.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

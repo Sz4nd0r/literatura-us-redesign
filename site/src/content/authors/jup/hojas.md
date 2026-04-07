@@ -153,6 +153,3 @@ salvajes, precisas, entre la hojas de la vid. Se ha alterado el
 ángulo de iluminación. Imagino al calor reclinado contra la puerta y
 la abro para dejarlo entrar; a mis pies, cae la luz solar como un
 penitente.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

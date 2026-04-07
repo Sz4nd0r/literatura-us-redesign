@@ -123,6 +123,3 @@ pequeños y mustios.
 Si en los ojos tenía lágrimas, en aquella voz
 había odio. ¡El odio es la cólera de los débiles! Si yo fuese la amoladora, no
 las tendría todas conmigo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -416,6 +416,3 @@ Bruno sacó un pitillo y lo encendió. Sopló el humo y enderezó la bicicleta.
 —¿Qué dicen sus hermanas? —pregunté.
 —Oh, a esas les importa un pepino —respondió Bruno, volviendo la cabeza—. Y a la madre menos que a nadie. La única que lo cuida un poco es la rubia.
 Se alejó por la carretera mientras yo lo seguía con los ojos pasmado, y en el fondo contento.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

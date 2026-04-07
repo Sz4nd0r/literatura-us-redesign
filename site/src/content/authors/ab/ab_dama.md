@@ -52,6 +52,3 @@ En un instante nos pusimos de pie. Tomándolo por las solapas escruté su hermos
 Irene, uno y otro engañaron a esta amiga que tanto te quiere.
 MARY JANE DEMENT
 P. S. Lo peor de todo es que no hay ningún misterio. Todo fue inventado por Jack Raynor para despertar mi curiosidad. James no es un thug. Me asegura solemnemente que en todos sus viajes no ha puesto jamás un pie en Sepoy.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

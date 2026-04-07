@@ -44,6 +44,3 @@ Pocas de las obras de Kafka fueron publicadas durante su vida: las colecciones d
 —Un artista del trapecio [La primera desgracia] (1922)
 —Un artista del hambre (1922)
 —Otros cuentos breves (1917, 1920, 1921)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

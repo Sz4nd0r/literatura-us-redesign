@@ -119,6 +119,3 @@ El muchacho gritó con un desprecio que le hacía disfrutar:
 —Porque padre quiere apaleaaaaaarte —gritó a toda prisa la primera voz.
 La segunda voz no añadió nada, y el muchacho comenzó a llamar a Antropka de nuevo. Sus gritos, cada vez menos frecuentes, más débiles, me llegaban todavía cuando todo se había vuelto completamente oscuro, mientras yo seguía las lindes de la foresta en torno a mi pequeña aldea, a unas cinco verstas de Kolotovka.
 —¡Antropkaaaa! —seguía resonando en la noche llena de sombras.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

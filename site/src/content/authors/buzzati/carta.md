@@ -97,6 +97,3 @@ Aturdido, arrastrado por la corriente.
 ¿Cuánto duró la vorágine? ¿Horas, días, meses, milenios? Al caer la noche se quedó por fin solo.
 Pero antes de salir del despacho trató de poner un poco de orden en la pila de papelajos, expedientes, proyectos, protocolos que había en el escritorio. Bajo esa enorme montaña encontró una hoja de papel de carta sin membrete escrita a mano. Reconoció las primeras letras.
 Intrigado, leyó. “Qué estupideces, qué sarta de ridiculeces, ¿cuándo las habré escrito?”, se preguntó, rebuscando inútilmente en la memoria con una sensación de hastío y desconcierto nunca antes experimentada, y se pasó una mano por el pelo ya gris. “¿Cuándo habré escrito estas tonterías? Y por otra parte, ¿quién era esa Ornella?”.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -503,6 +503,3 @@ Estaban sentados en la cervecería Dauphine, cuando de repente el comisario se p
 —¿Y Janvier? —preguntó.
 —¿Qué?
 —¿No le han relevado…? ¡El pobre…! Cuando pienso que mientras nosotros bebemos medios, él está condenado a servirlos…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -55,6 +55,3 @@ Sería un hombre sin duda cuarentón, o incluso cincuentón, calvo, de complexi�
 El maestro de pompas fúnebres coge el jarrón de las rosas. Sólo en una ocasión durante el parlamento del joven se despierta en él un destello de interés, de que ha oído algo fuera de lo ordinario. Pero cuando el joven menciona el nombre del muerto, las cejas del maestro se alzan ligeramente. ¿Chejov, dices? Un momento, en seguida estoy contigo.
 ¿Entiendes lo que te estoy diciendo?, le dijo Olga al joven. Deja las copas. No te preocupes por ellas. Olvida las copas de cristal y demás, olvida todo eso. Deja la habitación como está. Ahora ya todo está listo. Estamos ya listos. ¿Vas a ir?
 Pero en aquel momento el joven pensaba en el corcho que seguía en el suelo, muy cerca de la punta de su zapato. Para recogerlo tendría que agacharse sin soltar el jarrón de las rosas. Eso es lo que iba a hacer. Se agachó. Sin mirar hacia abajo. Cogió el corcho, lo encajó en el hueco de la palma y cerró la mano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

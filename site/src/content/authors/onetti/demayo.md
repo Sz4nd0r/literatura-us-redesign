@@ -78,6 +78,3 @@ Suaid caminaba, estremecido de alegría nerviosa. Nadie sabía en Florida lo ext
 Ante el tráfico de la avenida, quiso que las ametralladoras cantaran velozmente, entre pelotas de humo, su rosario de cuentas alargadas.
 Pero no lo consiguió y volvióse a contemplar Florida. Se encontraba cansado y calmo, como si hubiera llorado mucho tiempo. Mansamente, con una sonrisa agradecida para María Eugenia, se fue hacia los cristales y las luces policromas que techaban la calle con su pulsar rítmico.
 1933
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

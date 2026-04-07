@@ -52,6 +52,3 @@ Me puse en pie y me dirigí hacia uno de los columpios. El aire, de una tibia du
 Renuncié definitivamente a continuar allí y fui a vestirme.
 Ahora creo que las sombrillas son lo único que presta algún atractivo al «Luft Bad». Y, si alguna vez me da por ir allí, me envuelvo en el impermeable de mi marido y me siento en un rincón, lo más escondida posible.
 Y puedo asegurar que no es porque me sienta avergonzada, ni mucho menos, de enseñar mis piernas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

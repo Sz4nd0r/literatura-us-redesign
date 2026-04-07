@@ -52,6 +52,3 @@ Tom se sintió humillado. No podía pelear con George Willard porque era incapaz
 —Bueno —dijo en voz baja—. No sé cómo fue. Me sentí feliz. Mira, Helen White hizo que me sintiera feliz, y la noche contribuyó también. Yo quería sufrir, hacerme daño. Pensaba que era mi deber, porque todo el mundo sufre y hace daño a los demás. Se me ocurrieron muchas cosas, pero ninguna me sirvió de nada. Todas le habrían hecho daño a alguien.
 La voz de Tom Foster se volvió chillona y, por una vez en su vida, estuvo a punto de exaltarse.
 —Fue como hacer el amor, eso es lo que quiero decir —explicó—. ¿No te das cuenta? Por eso lo hice. Y me alegro. Me enseñó algo, y eso es precisamente lo que necesitaba. ¿No lo entiendes? Quería aprender algo. Por eso lo hice.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

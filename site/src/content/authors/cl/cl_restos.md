@@ -24,6 +24,3 @@ Muchas cosas peores que me pasaron ya las he perdonado. Ésta, sin embargo, no p
 Cuando horas después en casa se calmó la atmósfera, mi hermana me pintó y me peinó. Pero algo había muerto en mí. Y, como en las historias que había leído, donde las hadas encantaban y desencantaban a las personas, a mí me habían desencantado: ya no era una rosa, había vuelto a ser una simple niña. Bajé a la calle; de pie allí no era ya una flor sino un pensativo payaso de labios encarnados. A veces, en mi hambre de sentir el éxtasis, empezaba a ponerme alegre, pero con remordimiento me acordaba del grave estado de mi madre y volvía a morirme.
 Sólo horas después llegó la salvación. Y si me apresuré a aferrarme a ella fue por lo mucho que necesitaba salvarme. Un chico de unos doce años, que para mí ya era un muchacho, ese chico muy guapo se paró frente a mí y con una mezcla de cariño, grosería, broma y sensualidad me cubrió el pelo, ya lacio, de confeti: por un instante permanecimos enfrentados, sonriendo, sin hablar. Y entonces yo, mujercita de ocho años, consideré durante el resto de la noche que al fin alguien me había reconocido; era, sí, una rosa.
 Felicidade clandestina (1971)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -62,6 +62,3 @@ Me recibieron los olores conocidos de mi casa y la voz de mi madre que en ese mo
 —Pillo… ¿cómo estuvo la despedida de soltero?
 A partir de ese instante el teléfono llamó sin cesar: siempre eran Ema y don Ignacio; querían cronometrar el tiempo y la salida para llegar juntos a San Jacinto. El atrio y las naves de la iglesia estaban atestadas de plumas y de faldas de raso. La boda olía a perfumes y a incienso y junto a mí, cubierta de una maraña de velos opacos, Ema parecía muy satisfecha, mientras el padre profería amenazas. «Esta noche la iré a ver», me repetía una y otra vez, mientras su cuerpo desnudo se paseaba líquido entre los altares. En la sacristía se acercó a mí y me besó en la boca mientras todos me daban la mano en señal de duelo. La vi desaparecer entre los invitados como una delgada columna de azogue…
 En Acapulco no he visto absolutamente nada. Ema me cubre como una espesa capa de tierra, inconmovible a cualquier milagro. Sé que no voy a recuperarla, es el castigo por haber renunciado a la belleza… Nunca más hallaré la preciosa veta… porque ahora sé que ella era Mercurio…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

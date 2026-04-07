@@ -203,6 +203,3 @@ Luego desapareció en la curva.
 —¿Con quién tengo el gusto de hablar? —gritaba la señora Watts, mientras la señora Carson llamaba por teléfono.
 La banda seguía tocando. Unos creían que Lily iba en el tren y otros juraban que no, que no iba.
 Pero todos vitoreaban y alguien lanzó un sombrero de paja hacia los cables del teléfono.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

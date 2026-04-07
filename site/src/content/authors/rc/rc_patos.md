@@ -92,6 +92,3 @@ Cuando estuvo seguro de que se había dormido deshizo el abrazo y se dio la vuel
 Se levantó de la cama y fue hasta la ventana. Miró a través de ella hacia la oscuridad pero no logró ver nada, ni siquiera la lluvia. Pero sí que oía cómo iba cayendo, cómo se precipitaba del tejado en cascadas e iba a dar al gran charco que había al pie de la ventana. Oía la lluvia por toda la casa. Pasó un dedo por el cristal, surcado fuera por gruesos goterones.
 Cuando volvió a la cama, se acostó muy junto a ella y le puso una mano sobre la cadera.
 —Cariño, despierta —le susurró. Pero ella se estremeció ligeramente y se apartó hacia su lado de la cama. Y siguió durmiendo—. Despierta —le susurró de nuevo—. He oído algo ahí fuera.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

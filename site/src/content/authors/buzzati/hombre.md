@@ -46,6 +46,3 @@ En la cárcel tenebrosa, cuando el viejecito terminó de contar su historia, uno
 —¿De modo que, si mi cabeza no está llena de serrín, el condenado viejecito de la cabaña, el más grande de todos, eres tú?
 —¡Ah, amigos míos —murmuró el barbudo sin contestar ni sí ni no—, qué extraña es la vida!
 Entonces, durante un momento, los picaros que le habían escuchado callaron, porque hay cosas que dan mucho que pensar incluso a los hombres más ruines.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

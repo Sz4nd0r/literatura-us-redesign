@@ -61,6 +61,3 @@ receta y se la doy. Y sin darle tiempo para que se recupere de su asombro, salgo
 Mientras subo al coche para iniciar mi cotidiano rol de visitas, casi siento las ganas de reír. Efectivamente, ahora recuerdo que el monstruo redondo de Platón, según parece, caminaba cómicamente con sus cuatro brazos y sus cuatro piernas, formando una especie de rueda,
 tal y como lo hacen los acróbatas y ciertas divinidades de la India. ¡Exactamente igual! ¿Qué otra cosa puede hacer un ser tan extraño cuya unidad consiste en la desunión, su fuerza en la debilidad y sus alegrías en el dolor?
 (1976)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

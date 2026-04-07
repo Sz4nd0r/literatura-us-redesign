@@ -486,6 +486,3 @@ del Almendares. Pero nadie prestaba atención al relato, porque el sol
 viajaba de oriente a occidente, y las horas que crecen a la derecha de
 los relojes deben alargarse por la pereza, ya que son las que más
 seguramente llevan a la muerte.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

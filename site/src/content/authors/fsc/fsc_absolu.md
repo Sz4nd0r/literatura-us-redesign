@@ -191,6 +191,3 @@ Pero ahora el sacerdote murmuraba palabras ininteligibles, doloridas, y el chico
 —Dios mío —gritó, con una voz extraña, antes de derrumbarse.
 Y de las ropas gastadas del sacerdote se desprendió una opresión humana, y se mezcló con el leve olor de la comida que se pudría en los rincones. Rudolph lanzó un grito y abandonó el lugar corriendo, aterrorizado, mientras el hombre yacía inmóvil, llenando la sala, llenándola de voces y rostros, una multitud de voces, pura ecolalia, hasta que estalló una carcajada aguda e inacabable.
 Al otro lado de la ventana el siroco azul temblaba sobre el trigo, y chicas rubias paseaban sensualmente por los caminos que unían los campos, gritándoles frases inocentes y excitantes a los muchachos que trabajaban en los trigales. Bajo los vestidos de algodón se adivinaba la forma de las piernas, y el borde de los escotes estaba tibio y húmedo. Hacía ya cinco horas que la vida fértil y caliente ardía en la tarde. Dentro de tres horas sería de noche, y en toda la región aquellas rubias nórdicas y aquellos altos muchachos de las granjas se tenderían junto al trigo, bajo la luna.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

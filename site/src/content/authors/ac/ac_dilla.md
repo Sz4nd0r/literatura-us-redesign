@@ -114,6 +114,3 @@ Contaba con los dedos su dinero y temía confesarse que esos doscientos rublos a
 “El padre Avraam sólo gasta en comer tres rublos al mes —pensaba Kunin—. Con un rublo la popesa puede hacerse una camisa y la mujer del médico contratar a una lavandera. ¡Sea como fuere, les ayudaré! ¡Les ayudaré sin falta!”.
 En ese momento Kunin se acordó de la denuncia que había dirigido al obispo y todo su cuerpo se contrajo como bajo el efecto de una ducha fría. Ese recuerdo anegó su alma de un sentimiento angustioso de vergüenza ante sí mismo y ante la invisible verdad…
 Así empezó y acabó el esfuerzo sincero que hacía por mostrarse útil uno de esos muchos hombres bienintencionados, pero demasiado satisfechos e irreflexivos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

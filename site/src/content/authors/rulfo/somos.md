@@ -157,6 +157,3 @@ hace temblar y sacudirse todita, y, mientras, la creciente sigue subiendo.
 El sabor a podrido que viene de allá salpica la cara mojada de Tacha y
 los dos pechitos de ella se mueven de arriba abajo, sin parar, como si de
 repente comenzaran a hincharse para empezar a trabajar por su perdición.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

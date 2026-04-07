@@ -189,6 +189,3 @@ Emilie se mantuvo firme ante su oferta, impertérrita.
 —Ahora está listo —dijo él.
 Pero él no podía soportar la oscura y profunda desnudez de sus ojos, que apenas cambiaban bajo aquel sufrimiento.
 —No es más que un tonto —sentenció, retirándose nervioso y preparándose para lo que pudiera hacer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

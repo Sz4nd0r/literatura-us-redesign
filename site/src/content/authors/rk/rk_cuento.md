@@ -406,6 +406,3 @@ Charlie hablaba y hablaba; yo, separado de él por millares de años, considerab
 Charlie miró, como si lo hubieran golpeado.
 —¡La galera! ¿Qué galera? ¡Santos cielos, no me embrome! Esto es serio. Usted no sabe hasta qué punto.
 Grish Chunder estaba en lo cierto. Charlie había probado por primera vez el amor de una mujer, que aniquila el recuerdo, y el cuento más hermoso del mundo jamás llegaría a escribirse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

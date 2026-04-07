@@ -215,6 +215,3 @@ La voz ronca del hombre de mar interrumpió nuestra conversación.
 —Señor mío, el problema se había vuelto muy sencillo. Si era un hombre de mar, solo podía ser uno que hubiese estado con él en el Sea Unicorn. Hasta donde pude alcanzar, no había navegado en otro barco. Me pasé tres días mandando telegramas a Dundee, y al final averigüé los nombres de la tripulación del Sea Unicorn en 1883. Cuando encontré a Patrick Cairns entre los arponeros, mi búsqueda llegó a su fin. Deduje que el tipo estaba probablemente en Londres y que desearía abandonar el país por un tiempo. Por lo tanto, me pasé unos días en el East End, me inventé una expedición al Ártico, ofrecí unas condiciones tentadoras para los arponeros que sirvieran a las órdenes del capitán Basil… ¡y ya puede ver el resultado!
 —¡Increíble! —exclamó Hopkins—. ¡Increíble!
 —Tiene que conseguir que pongan al joven Neligan en libertad tan pronto como sea posible —dijo Holmes—. Le confieso que creo que le debe una disculpa. Deben devolverle la caja de hojalata, pero, por supuesto, los valores que vendió Peter Carey se han perdido para siempre. Aquí está el coche, Hopkins, y ya puede llevarse a su hombre. Si me necesita para el juicio, podrá encontrarnos a Watson y a mí en algún lugar de Noruega… Ya le enviaré los detalles.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

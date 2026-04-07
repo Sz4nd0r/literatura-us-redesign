@@ -22,6 +22,3 @@ Y con el soplo de vida, súbitamente se reveló una Lisette que desconocíamos. 
 El diagnóstico: no iba a vivir, a menos que tuviera oxígeno a la mano y, aun así, era improbable. «No se debe comprar un mono en la calle», me censuró moviendo la cabeza, «a veces ya viene enfermo». No, se tenía que comprar una mona determinada, saber el origen, tener por lo menos cinco años de garantía del amor, saber lo que había hecho o no, como si fuera para casarse. Consulté un instante con los chicos. Y le dije al enfermero: «Le está gustando mucho Lisette. Pues si la deja pasar unos días cerca del oxígeno, en cuanto se cure, es suya». Pero él pensaba. «¡Lisette es bonita!», imploré. «Es linda», concordó él, pensativo. Después suspiró y dijo: «Si curo a Lisette, es suya». Nos fuimos con la servilleta vacía.
 Al día siguiente llamaron por teléfono, y yo avisé a los chicos de que Lisette había muerto. El menor me preguntó: «¿Te parece que se murió con los aretes puestos?». Yo dije que sí. Una semana después, el mayor me dijo: «¡Te pareces tanto a Lisette!». «Yo también te quiero», respondí.
 A legião estrangeira (1964)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

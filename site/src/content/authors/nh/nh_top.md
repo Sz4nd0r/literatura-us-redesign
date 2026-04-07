@@ -119,6 +119,3 @@ Mientras mascullaba de este modo, la bruja volvió a cargar su pipa con tabaco y
 —¡Pobre Feathertop! —continuó—. Podría darle fácilmente otra oportunidad y lanzarlo mañana al mundo de nuevo. Pero no; sus sentimientos son demasiado tiernos, y su sensibilidad demasiado profunda. Parece tener demasiado corazón para pelear por su propio bienestar en un mundo tan vacío y despiadado. Bien, bien; al fin y al cabo, lo utilizaré como espantapájaros. Ésta es una vocación inocente Y útil, y muy apropiada para mi tesoro; y si cada uno de sus hermanos de carne y hueso tuviera otra igualmente adecuada, la humanidad marcharía mejor. Y en cuanto a esta pipa, la necesito más que él.
 Dicho lo cual, la Madre Rigby se acomodó la boquilla entre los labios:
 —¡Dickon! —gritó, con voz aguda y destemplada—. ¡Otro tizón para mi pipa!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

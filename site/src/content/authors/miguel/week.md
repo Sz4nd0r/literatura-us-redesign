@@ -303,6 +303,3 @@ Me despedí a media tarde, no sin repartir algunas monedas entre la gente menuda
 Los S. P. S. (en guerra), estaban sumamente alarmados, temiendo por mí, pues daban por seguro que había encontrado al caballero del anillo de esmeraldas en el anular jugando al 19 colorado en el casino y que con él habíamos marchado a la captura de las armas a la finca El Grano de Oro.
 —¡Atala!… ¡Atala!… —gritaron todos al verme entrar, palpándome como a un ser que regresa de un enorme peligro, efusión bulliciosa que se convirtió en silencio cuando empecé a contar lo que me había sucedido:
 —Amigos, el Caballero de la Esmeralda no se presentó en el casino a jugar el 19 colorado, pero fue mejor… Al salir me encontré con el azar iluminado por una sortija color de esperanza…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

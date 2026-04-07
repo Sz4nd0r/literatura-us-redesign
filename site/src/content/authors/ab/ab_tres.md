@@ -38,6 +38,3 @@ La conmoción de Lassiter era máxima.
 —No sabía cómo decírtelo —habló entonces Abro—. Hace un año, el ejército federal del norte arrasó tu casa en una de sus incursiones.
 —Y mi familia, ¿dónde está?
 —En el cielo, confío en ello… Fueron asesinados por los soldados.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

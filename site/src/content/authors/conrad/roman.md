@@ -159,6 +159,3 @@ Luego los dos se alejaron y se olvidaron del pequeño, pero yo no me moví. Los 
 —Me gustaría que enviara una carta a Viena sobre ese puesto. El joven se lo merece y su opinión puede ser decisiva.
 La cara de mi tío mostraba un genuino desconcierto. Expresaba con la misma claridad que cualquier frase: ¿qué recomendación puede ser mejor que la de un padre? Pero el príncipe era rápido descifrando gestos. Volvió a hablar con el acento monótono que tienen los hombres que no han oído su propia voz durante años, para quienes el mundo sin sonidos es una morada llena de sombras en silencio. Hasta el día de hoy recuerdo las palabras exactas:
 —Se lo pido porque, ya sabe, mi hija y mi yerno no confían en mi juicio respecto a los hombres. Piensan que me dejo llevar demasiado por los sentimientos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -179,6 +179,3 @@ Saint-Clair fue, por unas horas, el hombre más avergonzado y el más feliz del 
 —¡Oh! lo que hay que hacer en una ocasión semejante. Arrojó al suelo su pistola con pesar. La tiró con tanta fuerza que le rompió el gatillo. Es una pistola inglesa de Manton; no sé si podrá encontrar en París un armero capaz de hacerle uno nuevo.
 * * *
 La condesa pasó tres años enteros sin ver a nadie; tanto en invierno como en verano, permanecía en su casa de campo, saliendo apenas de su dormitorio, atendida por una mulata que conocía su relación con Saint-Clair, y a la que no le decía dos palabras al día. Al cabo de tres años su prima Julia regresó de un largo viaje; forzó la puerta y encontró a la pobre Matilde tan delgada y tan pálida, que creyó ver el cadáver de la mujer que había dejado bella y llena de vida. Consiguió, no sin esfuerzo, sacarla de su retiro y llevarla a Hyères. Allí languideció la condesa otros tres o cuatro meses, luego murió de una enfermedad pulmonar causada por disgustos domésticos, según el doctor M… que la asistió.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

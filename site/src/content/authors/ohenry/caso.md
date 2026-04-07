@@ -153,6 +153,3 @@ Volvióse a Kauffman.
 La señora Sharp se levantó para despedirse. Se las había arreglado para permanecer en la ciudad hasta que le abonasen la póliza. El comisario no la entretuvo. Era una mujer y en aquel momento no sabía cómo hablarle. El descanso y el tiempo restaurarían los ánimos de la pobre...
 No obstante, antes de que ella partiera, Lucas Standifer dijo, con tono oficial:
 —El departamento de Seguros, Estadística e Historia ha hecho lo que ha podido para solucionar su caso. Era difícil resolverlo según las normas burocráticas. Las estadísticas yerran y la historia no acierta siempre, pero nosotros generalmente creemos dominar bien todo lo concerniente al seguro.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

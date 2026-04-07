@@ -73,6 +73,3 @@ El hombre miraba a un lado y otro, como si su avión pudiera andar por allí y e
 Poco después, el verano había caído rabioso sobre Madrid. Tres meses de infierno, repetía la gente. Un día, en el reparto de la tarde, me llegó un ejemplar de Presencia con sellos de Suiza. Lo miré sin entusiasmo, lo desdoblé y vi en un recuadro:
 María José Lemos, estudiante, detenida en la isla de Latorre desde el golpe militar, fue apresada por efectivos de la Guardia Nacional el 5 de abril, fecha en la cual abandonaba el penal y recuperaba la libertad. Desde entonces se encuentra desaparecida, sin que ninguna autoridad militar ni policial se responsabilice de su paradero.
 1978
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

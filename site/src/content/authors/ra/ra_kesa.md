@@ -55,6 +55,3 @@ Pero, después de todo, nadie sabe cuánto mejor es morir esta muerte que seguir
 Hace tiempo que sólo puedo amar a un hombre. Ese hombre es, justamente, el que vendrá esta noche para matarme.
 Hasta la débil llama de esta lámpara resulta luminosa para mí, maltratada como he sido por el hombre que amo…
 Kesa apaga la luz. Un momento después, se oye un ruido leve al abrirse la puerta del jardín. La luna irradia una suave claridad.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

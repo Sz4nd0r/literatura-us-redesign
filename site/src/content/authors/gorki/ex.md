@@ -792,6 +792,3 @@ Y se apartó para dejar pasar al viejo, pero éste se le encaró y le dijo entre
 —Hay hombres de todas clases… Tantas como quiera Dios… Los hay peores que yo… aún peores, ¡sí!
 El cielo encapotado colgaba en silencio sobre el patio sucio y sobre el hombre atildado, de perilla gris, que andaba por allí, midiendo las distancias con sus propios pasos y con sus ojillos penetrantes. Una corneja que estaba posada en el tejado del viejo caserón graznó solemnemente, estirando el cuello y balanceándose.
 Había en las nubes grises y austeras que cubrían enteramente el cielo algo severo e implacable, como si, listas para deshacerse en lluvia, tuvieran la firme determinación de lavar toda la inmundicia de aquella tierra desdichada, atormentada y triste.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

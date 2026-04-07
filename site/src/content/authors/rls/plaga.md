@@ -58,6 +58,3 @@ El viento soplaba enérgicamente en el cercado y la nieve caía de forma pesada.
 Nos complace poder completar lo escrito más arriba (proveniente del mismo señor reverendo) con los siguientes pormenores de documentos contemporáneos.
 Encontramos (en «Dictámenes y Prevenciones Especiales», del doctor Zophar Cant) que el siervo de Dios, Ephraim Martext, padeció mucho tiempo una fiebre violenta que le causó muchos desvaríos; en sus delirios decía que había sido tocado por la plaga.
 Más aún: cuenta un relato personal que aquella noche la mansión de los Ravenswood fue reducida a cuatro negras y ruinosas paredes. Así que el misterio del sótano de la plaga nunca llegó a resolverse.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

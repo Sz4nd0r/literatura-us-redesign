@@ -97,6 +97,3 @@ Así se lamentaba, arrastrando una voz
 tristona. Luego murmuró algo y empujó al chico mudo hacia la pared. Saschka se
 acostó con ella en los harapos de aquel lecho. Y yo intenté dormirme. Y me
 forjé sueños para dormirme con hermosos pensamientos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -528,6 +528,3 @@ Abandonado como los muelles en el alba.
 Sólo la sombra trémula se retuerce en mis manos.
 Ah más allá de todo. Ah más allá de todo.
 Es la hora de partir. Oh abandonado!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

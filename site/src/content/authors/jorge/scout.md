@@ -111,6 +111,3 @@ Cuando llegamos al Refugio Scout que había en París, que estaba en el Local de
 Todos levantaron la mano. Nicodemus contempló por un momento aquel bosque de manos levantadas y después dijo:
 —Bueno, pues los que vinieron en barco, regresan en barco y los que vinieron en avión, aunque quieran regresar en barco, regresan en avión. ¿Que por qué? porque yo digo. Porque yo soy el Jefe de la Delegación y porque ustedes no tienen todavía veintiún años, ni criterio formado, ni capacidad para decidir por cuenta propia.
 Y regresaron en avión.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

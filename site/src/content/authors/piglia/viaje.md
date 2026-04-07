@@ -225,6 +225,3 @@ El departamento estaba casi vacío, alumbrado por la luz verdosa de una lámpara
 —Sí —dijo Emilio y la abrazó—. Sí.
 Una música sofocada llegaba desde una radio entre las mantas de la cama deshecha.
 —¿Te gusta? —dijo ella—. Es la Tosca de Puccini.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

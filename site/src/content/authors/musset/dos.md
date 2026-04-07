@@ -395,6 +395,3 @@ Ya os dije al comenzar mi relato que Valentín tenía una madre a la que amaba t
 La madre entró en su cuarto estando él sumido en sus pensamientos..
 —Hijo mío —le dijo—, esta mañana te he visto triste. ¿Qué tienes? ¿Puedo servirte de algo? ¿Necesitas algún dinero? Si no me es posible hacer nada por ti, al menos debo saber tus penas y consolarte..
 —Gracias, madre —respondió Valentín—. Pensaba emprender un viaje y me preguntaba qué nos hace más felices, si el amor o el placer, y había olvidado la amistad. No saldré de mi patria, y no quiero abrir mi corazón más que a la única mujer que merezca compartirle contigo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

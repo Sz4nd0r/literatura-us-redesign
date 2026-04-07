@@ -64,6 +64,3 @@ Aunque no veía la expresión del rostro del dependiente, comprendió, sin embar
 —Ocho rublos, monsieur.
 —Pues envuélvamela…
 El marido ofendido pagó los ocho rublos, cogió la red y cada vez más ofendido salió de la tienda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -77,6 +77,3 @@ Jerry fue a recoger el taco que había dejado sobre la mesa, pero al hacerlo Dar
 —No hagas eso —dijo Dark—. Y no grites. Podría oírte la policía, y no te interesa que venga la policía. No te interesa que la policía se meta en esto, chico listo.
 —¡Me has roto las manos! ¡Me has roto las manos! —gritó Jerry. El dolor era atroz y rompió a llorar.
 —Para que no vuelvas a meterlas en bolsillo ajeno —dijo Frank—. Largo de aquí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

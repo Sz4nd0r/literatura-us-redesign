@@ -287,6 +287,3 @@ una joven así —¡en armas! Sonreí, yo, Joaquín Norberto respetador.
 Abracé a Misia María Andreza, mía, teníamos los ojos desanublados.
 ¿Qué me dicen? Pues sí. Aquí en esta hacienda Santa Cruz de la Onsa;
 aquí es un recato. Ah, bueno; y semejante hecho pasó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

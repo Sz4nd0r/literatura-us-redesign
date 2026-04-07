@@ -272,6 +272,3 @@ la ventana, querida, observa esa última hoja de hiedra que está
 sobre la pared ¿No es extraño que no se moviera ni agitara al soplar
 el viento? ¡Ah, querida! Es la obra maestra de Behrman: la pintó
 allí la noche en que cayó la última hoja.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

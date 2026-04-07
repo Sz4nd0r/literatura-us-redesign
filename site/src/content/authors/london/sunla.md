@@ -180,6 +180,3 @@ Así partieron Bill-Man, sus hermanos y Mesahchie hacia el sur sin caminos. Y al
 Esa mina se trabaja en secreto, como ha ocurrido con muchas otras minas de la región septentrional, y ningún otro hombre, excepto los de la compañía que forman Bill-Man, Jim y Charley, conoce la situación de Mandell, al borde del océano Ártico. Aab-Waak aún lleva la cabeza sobre el hombro, se ha convertido en oráculo y predica la paz entre los miembros de la generación más joven, por lo que la compañía le paga una pensión. Tyee es el capataz de la mina. Pero ha desarrollado una nueva teoría sobre los de la Tierra del Sol.
 —Los que viven bajo el camino del sol no son débiles —dice, mientras fuma su pipa y observa al turno de día dejar paso al turno de noche—, porque el sol se les mete en la sangre y los quema con un fuego terrible hasta llenarlos de ansia y pasión. Siempre arden, por eso no saben cuándo se les vence. Además, dentro llevan una inquietud que es un demonio, y llegan a la tierra para sufrir, esforzarse y luchar sin descanso. Yo lo sé. Yo, Tyee.
 [1901]
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

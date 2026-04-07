@@ -255,6 +255,3 @@ Calló un momento.
 Philippa se acercó a Babette y la rodeó con sus brazos. Sintió el cuerpo de la cocinera contra el suyo como un monumento de mármol, pero se estremeció y tembló ella misma de pies a cabeza.
 Durante un rato no pudo hablar. Luego susurró:
 —¡Sin embargo, esto no es el fin! Tengo la impresión, Babette, de que esto no es el fin. En el Paraíso usted será la gran artista que Dios quería que fuese. ¡Ah! —añadió, con las lágrimas corriéndole por las mejillas—. ¡Ah, cómo deleitará a los ángeles!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

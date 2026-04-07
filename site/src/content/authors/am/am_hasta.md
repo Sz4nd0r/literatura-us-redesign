@@ -88,6 +88,3 @@ Guglielmo gritaba como un puerco al que están degollando; y yo, agarrando un cu
 “¡Hasta la vista!” Se lo había dicho al director de Portolongone y, en efecto, esa misma tarde me encontré en una celda de Regina Coeli, junto con otros tres. Para desahogarme, conté lo ocurrido, y uno de ellos, entonces, que parecía muy sabihondo, observó:
 —Hermano, cuando dijiste “¡hasta la vista!” era tu subconsciente quien te hacía hablar así... Tú ya sabías que lo ibas a hacer.
 Quizás tenía razón él, pues hablaba muy difícil y sabía incluso lo que era el subconsciente. Pero entre tanto yo estaba dentro y el “¡hasta la vista!” se lo había dicho a la libertad, por esta vez.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

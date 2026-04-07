@@ -258,6 +258,3 @@ Está bien, dije, y el detective se fue con el rastreador a juntarse con los glo
 Sí, por favor. Estoy cansada.
 Fabiana vivía en la calle de las Laranjeiras. Cuando entramos al túnel Rebouças me dijo, te amo.
 No hablamos del globo. Ni en el túnel ni en la cama, ni después tomando café con leche, ni en todo aquel día, ni nunca más.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -62,6 +62,3 @@ El hombre sonrió, y contestó:
 »En la calle, el extranjero me preguntó detalles sobre la baronesa, a quien había encontrado exquisita. Pero no volví a oír hablar ni de él ni de ella.
 »Transcurrieron tres meses más.
 »Una mañana, hace apenas quince días, ella llegó a mi casa a la hora del almuerzo y, poniéndome una cartera entre las manos, dijo: “Querido, es usted un ángel. Ahí tiene cincuenta mil francos; soy yo la que compro el Cristo, y pago veinte mil francos más del precio convenido, a condición de que me siga enviando..., nuevos clientes..., pues mi Cristo... está aún en venta...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -31,6 +31,3 @@ Frente al escaparate de Jacob's le recogió la ambulancia del Hospital de Urgenc
 ¡Tonterías!
 Vivió catorce dias —uno por cada año de anhelar—, pidiendo continuamente, en su delirio, le devolvieran su pipa de cerezo. Cuando la enfermera le tendía la que había encontrado en sus bolsillos, la rechazaba con gesto de disgusto, y lloraba con tal angustia que hasta el médico, animal sin lágrimas, sollozaba apenado.
 En los momentos de la agonía, una extraña sonrisa ocupó el lugar de su mueca angustiosa de solicitud y fue quedando sereno, sereno, como si le acariciase un tierno soñar. Por último, un suspiro y calló en los escaparates de las pipas del cielo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

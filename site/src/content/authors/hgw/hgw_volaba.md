@@ -71,6 +71,3 @@ El teniente meditó alegremente un momento. Luego añadió:
 —¿Los demás estaban bien? —preguntó el etnólogo.
 —Sí —respondió el teniente—, los demás estaban bien, aunque un poco sedientos, ya sabe.
 Y al recordarlo se sirvió otro whisky con soda.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

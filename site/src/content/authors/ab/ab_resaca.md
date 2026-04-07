@@ -55,6 +55,3 @@ Entonces tiró apresuradamente la carta a los ardientes carbones de la chimenea.
 —¡Oh! No puedo soportar la visión de la sangre —exclamó—. ¿Cómo murió?
 Me había levantado instintivamente para rescatar aquel pedazo de papel, sagrado hasta para mí, y estaba de pie detrás de ella. Cuando hizo la pregunta volvió la cara ligeramente. La luz de la carta ardiendo se reflejó en sus ojos y le tintó una mejilla con un color carmesí igual que el rojo de la mancha del papel. Jamás había visto nada tan hermoso como aquella odiosa criatura.
 —Lo mordió una serpiente —respondí.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -82,6 +82,3 @@ Pasa un instante que me parece una hora; después escucho su voz, que murmura co
 —Nada. Quiero que nos casemos.
 Permanece callada un momento más, y después dice, con singular penetración:
 —A mí me agrada, no pido nada mejor, aunque después nada cambiará, ¿no te parece? En tu caso es distinto, se ve que lo pensaste y entendiste qué es lo que te conviene; no tiene nada de malo, sin embargo. —Después, poniéndose tierna—: Bueno, hasta luego, maridito mío. Pero, entretanto, ¿por qué no tomas esa maldita pistola y vas a tirarla en el estanque del parque público, allí enfrente? A esta hora no hay nadie, ni un alma. Ve allí, y cuando vuelvas dormiremos muy bien, como duermen marido y mujer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

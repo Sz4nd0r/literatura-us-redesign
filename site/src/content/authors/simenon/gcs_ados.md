@@ -509,6 +509,3 @@ Y explicó a Maigret:
 —Mi tía pagará…
 * * *
 Viviane La Pommeraye, en efecto, deshecha, jadeante, se había refugiado en casa de una de sus tías, en donde, desde su infancia, pasaba sus vacaciones.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

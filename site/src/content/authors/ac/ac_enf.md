@@ -69,6 +69,3 @@ Del piso superior, sonrosado y fresco por el baño, bajaba el general.
 —Y en esta habitación…, ¿qué hay? —preguntó, señalando a una puerta.
 Andréi Jrisanfich, cuadrándose, dijo en voz alta:
 —¡La ducha sharko, excelencia!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

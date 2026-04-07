@@ -190,6 +190,3 @@ Wilfrid se llevó una mano a la cabeza una mano temblorosa— y preguntó con vo
 —¡Oh, eso es cosa de sentido común! —dijo el otro con una sombra de sonrisa—. Pero, escúcheme usted un poco más. He dicho que sé todo esto, pero nadie más lo sabrá. El próximo paso es usted quien tiene que darlo; yo no doy más pasos: yo sello esto con el sello de la confesión. Si me pregunta usted por qué, me sobran razones, y sólo una le importa a usted. Dejo a usted en libertad de obrar, porque no está usted aún muy corrompido, como suelen estarlo los asesinos. Usted no quiso contribuir a la acusación del herrero, cuando era la cosa más fácil, ni a la de su mujer, que tampoco era difícil. Usted trató de echar la culpa al idiota, sabiendo que no se le podía castigar. Y ese solo hecho es un vislumbre de salvación, y el encontrar tales vislumbres en los asesinos lo tengo yo por oficio propio. Y ahora, baje usted al pueblo, y haga usted lo que quiera, que está usted tan libre como el viento. Porque yo ya he dicho mi última palabra.
 Bajaron la escalera de caracol en el mayor silencio, y salieron frente a la fragua, a la luz del sol. Wilfrid Bohun levantó cuidadosamente la aldaba, abrió la puerta de la cerca de palo y, dirigiéndose al inspector, dijo:
 —Me entrego a la justicia: he matado a mi hermano.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -133,6 +133,3 @@ Tumbado en la cama, mientras la calurosa tarde de verano transcurría lentamente
 Esta idea lo alteró de tal manera que llamó con el timbre a la enfermera y le pidió que le diera las gafas de lejos, que en la cama no utilizaba. Sólo entonces consiguió tranquilizarse un poco: gracias a ellas pudo cerciorarse de que eran árboles de verdad y de que las hojas, aunque fuera ligeramente, de vez en cuando eran movidas por el viento.
 Después de irse la enfermera, Corte pasó un cuarto de hora en completo silencio. Seis pisos, seis terribles murallas, aunque se debiera a un error formal, pesaban ahora sobre él de forma implacable. ¿En cuántos años —sí, había que pensar en años—, conseguiría volver a subir hasta el borde de aquel precipicio?
 ¿Por qué la habitación se oscurecía repentinamente cuando, sin embargo, era plena tarde? Haciendo un esfuerzo supremo, Giuseppe Corte, que se sentía paralizado por un extraño torpor, miró el reloj que había en la mesilla de noche, al lado de la cama: las tres y media. Volvió la cabeza hacia el otro lado y vio que, obedeciendo a una misteriosa orden, las persianas enrollables descendían lentamente, cerrando el paso a la luz.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

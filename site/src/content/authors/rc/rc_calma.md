@@ -69,6 +69,3 @@ Miramos juntos al espejo. Me seguía sujetando la cabeza.
 Yo me estaba mirando, y él me miraba también. Pero si vio algo no hizo comentario alguno sobre ello.
 Me pasó los dedos por el pelo. Y lo hizo despacio, como si pensara en otra cosa. Me pasó los dedos por el pelo. Y lo hizo con ternura, como lo haría un amante.
 Fue en Crescent City, California, cerca de la frontera con Oregón. Dejé la ciudad poco después. Pero hoy he estado pensando en aquel lugar, en Crescent City; en cómo estaba tratando de rehacer allí mi vida con mi mujer; en cómo —en el asiento de aquella barbería, aquella mañana— decidí dejar la ciudad. Hoy he estado pensando en la calma que sentí cuando cerré los ojos y dejé que los dedos del barbero se deslizaran por mi pelo, en la dulzura de aquellos dedos en mi pelo, que empezaba ya a crecer de nuevo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

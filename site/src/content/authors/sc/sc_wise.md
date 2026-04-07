@@ -573,6 +573,3 @@ dijo:
 Se tardaron en llegar al Café Colorado; pero cuando llegaron,
 las botellas estaban apiladas sobre la barra, abundantes como los
 troncos en una cerca.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

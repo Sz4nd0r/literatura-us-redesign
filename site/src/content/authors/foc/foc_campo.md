@@ -259,6 +259,3 @@ La señora Hopewell y la señora Freeman, que estaban en el campo de atrás, des
 —Pero si parece ese buen joven aburrido que trató de venderme una biblia ayer —dijo la señora Hopewell achicando los ojos—. Debe haber estado vendién—dolas a los negros allá atrás. Era tan simple —dijo—, pero creo que el mundo sería mucho mejor si todos nosotros fuéramos tan simples.
 La mirada de la señora Freeman lo alcanzó justo antes de que desapareciese detrás de la colina. Luego, volvió su atención a un bulbo de cebolla de olor diabólico que estaba levantando el suelo.
 —Algunos no pueden ser tan simples —dijo—. Yo sé que nunca podría.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -279,6 +279,3 @@ Gumercindo estaba tirado en la sala, su camisa empapada de sangre. A un lado la 
 “Bienaventurados los que tienen sed y hambre de justicia.”
 “Eres un fanático, Leitão.”
 “Yo estoy en paz con mi conciencia. Estoy en paz con Dios. Llevo el amor de Jesús en el corazón.”
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

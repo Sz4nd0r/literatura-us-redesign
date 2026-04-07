@@ -93,6 +93,3 @@ Ahora nos queríamos. Era muy raro querer a alguien, querer a todo el mundo: a E
 Eva y yo nos mirábamos las manos, los pies, los cabellos, tan encerrados en ellos mismos, tan lejos de nosotros. Era increíble que mi mano fuera yo, se movía como si fuera ella misma. Y también queríamos a nuestras manos como a otras personas, tan extrañas como nosotras o tan irreales como los árboles, los patios, la cocina. Perdíamos cuerpo y el mundo había perdido cuerpo. Por eso nos amábamos, con el amor desesperado de los fantasmas. Y no había solución. Antes de la Guerra de Troya fuimos dos en una, no amábamos, sólo estábamos, sin saber bien a bien en dónde. Héctor y Aquiles no nos guardaron compañía. Sólo nos dejaron solas, rondando, rondándonos, sin tocarnos, ni tocar nada nunca más. También ellos giraban en el Reino de las Sombras, sin poder acostumbrarse a su condición de almas en pena. Por las noches yo oía a Héctor arrastrando sus armas. Eva escuchaba los pasos de Aquiles y el rumor metálico de su escudo.
 —Yo estoy con Héctor —afirmaba en la mañana en medio de los muros evanescentes de mi cuarto.
 —Yo, con Aquiles —decía la voz de Eva muy lejos de su lengua. Las dos voces estaban muy lejos de los cuerpos, sentados en la misma cama.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -109,6 +109,3 @@ N. del T.:
 [2] Carolus Duran, pseudónimo de Charles Duran (1837-1917), destacado pintor
 francés.
 [3] Impagable, extraordinaria.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

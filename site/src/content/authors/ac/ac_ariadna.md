@@ -125,6 +125,3 @@ Una tarde, mientras paseaba por el malecón, me encontré con Shamojin, que carg
 Y se alejó corriendo.
 —¡Empiezo a creer en los espíritus! —me gritó, dándose la vuelta—. ¡Parece que el espíritu del abuelo Hilarión estaba en lo cierto! ¡Ah, ojalá sea así!
 Al día siguiente de ese encuentro partí de Yalta, de modo que desconozco cómo habrá acabado la aventura de Shamojin.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -223,6 +223,3 @@ $100.000
 Grief puso la fecha y firmó. Luego hizo una pausa y añadió:
 P.D.: Quedan pendientes tres libros de Swithin Hall, que tomé prestados de la biblioteca: La ley de los fenómenos psíquicos, de Hudson; El vientre de París, de Zola; y El problema de Asia, de Mahan. Dichos libros, o su valor, podrán ser recuperados en la oficina que el susodicho David Grief posee en Sidney.
 Apagó la luz eléctrica, cogió los libros, cerró con pestillo la puerta principal y se fue en dirección al bote que lo esperaba.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

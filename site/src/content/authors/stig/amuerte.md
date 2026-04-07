@@ -77,6 +77,3 @@ Salieron a la noche fría y despejada, con estrellas como agujas de hielo, los o
 —Aquí hay un sombrero de copa —dijo, y trató de agacharse—, un sombrero de copa y un ramillete de flores.
 Pasaron por un puente, grandes piedras negras dormían sin ningún sentido entre el hielo cubierto de nieve.
 —No lo intente —le dijeron, y estrecharon en torno suyo el cerco de carne cada vez más próximo—, no lo intente con nosotros.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

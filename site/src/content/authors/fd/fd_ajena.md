@@ -619,6 +619,3 @@ Iván Andréievich regresó por tercera vez.
 —¿Qué es eso? —exclamó la mujer—. ¡Una perrita muerta! ¡Dios! ¿De dónde ha salido…? ¿Qué has hecho…? ¿Dónde has estado? Dímelo ahora mismo, ¿dónde has estado…?
 —¡Corazoncito! —respondió Iván Andréievich, más muerto aún que Amishka—. ¡Corazoncito…!
 Pero por esta vez vamos a dejar a nuestro héroe hasta otra oportunidad, ya que aquí comienza otra nueva y particular historia. Algún día, caballeros, les terminaremos de contar todos estos infortunios y persecuciones del destino. Pero ¡han de reconocer que los celos son una pasión imperdonable y, por si fuera poco, también una desgracia…!
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

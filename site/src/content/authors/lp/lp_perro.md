@@ -70,6 +70,3 @@ Y como al villano todavía no se le veía y quizás aquel día, como ocurría a 
 —Pero, ten cuidado, despacito —le dijo la mamá—, y luego vuelve arriba, sin tardar, ¿entendido?
 Continuó diciéndoselo desde la ventana, mientras la niña bajaba con pasos rápidos pero cautos, manteniendo la cabecita agachada y sonriendo para sus adentros por la fiesta que esperaba de su grueso amigo que aún dormía.
 Bajo la roca, agachado como una fiera al acecho, permanecía Jaco Naca, con su fusil. La niña, al doblar, se lo encontró de frente, de pronto, muy cercano. Apenas tuvo tiempo de mirarlo con los ojos asustados: el disparo retumbó y la niña cayó de espaldas, entre los gritos de su madre y de los otros inquilinos que, con horror, veían rodar el cuerpecito por la pendiente, hasta cerca del perro que permanecía allí, inerte, con las cuatro patas estiradas.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

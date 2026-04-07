@@ -117,6 +117,3 @@ El general y los oficiales dieron vueltas en torno a la calesa y examinaron dete
 Y ante los ojos de los oficiales apareció Certokutskiy, ovillado en su bata, en la postura más inverosímil.
 —¡Cómo…! ¿Usted…? —exclamó asombrado el general.
 Y, con esas palabras, el general cerró inmediatamente la portezuela, volvió a tapar a Chertokutskiy con la manta de viaje y salió seguido de los señores oficiales.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

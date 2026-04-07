@@ -38,6 +38,3 @@ Pero el padre dejó de llorar súbitamente y su rostro se contrajo de cólera.
 —¡Pepona! —dijo irritado a su esposa—. ¡Cabeza de alcornoque! ¿Acaso es esto el icono?
 —¡Ah, santos del paraíso!
 ¿Qué había sucedido? El maestro de caligrafía alzó tímidamente los ojos y vio que estaba salvado: la mamá, en su precipitación, en vez de descolgar de la pared el icono, había descolgado el retrato del escritor Lazhéchnikov. El viejo Péplov y su esposa Kleopatra Petrovna, con el retrato en las manos, estaban confusos, sin saber qué hacer ni qué decir. El maestro de caligrafía aprovechó la confusión y escapó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

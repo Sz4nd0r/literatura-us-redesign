@@ -33,6 +33,3 @@ Por fin se quitó las gafas, castañeteó los dientes, se enjugó los ojos hacie
 Pero yo todavía soy un hombre.
 Cuando me traicionaron o me asesinaron, cuando alguien se fue para siempre, cuando perdí lo mejor que me quedaba, o cuando supe que iba a morir... yo no como. No soy todavía esta potencia, esta construcción, esta ruina. Empujo el plato, rechazo la carne y su sangre.
 Laços de família (1960)
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

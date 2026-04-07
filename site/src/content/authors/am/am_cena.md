@@ -91,6 +91,3 @@ Acabó como tenía que acabar: con los guardias que tomaban los nombres; con las
 Cuando salimos, además, se abrió una ventana y alguien lanzó a la calle un paquete de desperdicios que dio en la cabeza de Amilcare.
 —Oh, perdón —dijo una vocecita—; era para los gatos.
 En efecto, había cantidad de gatos acurrucados en la calle, esperando que nos fuésemos para acercarse al paquete. Pero Amilcare había perdido la cabeza; convencido, quién sabe por qué, de haber sido blanco del patrón, quería volver atrás; y tuvimos que llevárnoslos poco menos que en vilo, mientras maldecía y se limpiaba el sombrero de las raspas de pescado. En resumidas cuentas, lo que se dice una magnífica cena.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

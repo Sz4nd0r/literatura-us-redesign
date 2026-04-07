@@ -48,6 +48,3 @@ Con dulzura dejó el auricular en su posición inicial. Se llevó la mano a su c
 El teléfono volvió a sonar por segunda vez. La misma voz joven, inexpresiva y un poco angustiada preguntó por Charlie.
 —Tiene el número equivocado. Creo que se confunde y marca la letra O en lugar del cero.
 Se sentaron a tomar su inesperado té nocturno y festivo. El regalo de cumpleaños seguía sobre la mesa. Él sorbía el té con ruido; el rostro, ruborizado; de vez en cuando impartía un movimiento circular a su vaso alzado para que el azúcar se disolviera mejor. A un lado de la calva, allí donde tenía una gran marca de nacimiento se destacaba llamativa una vena hinchada y, aunque se había afeitado aquella mañana, en su barbilla se observaba una cerda plateada. Mientras ella le servía otro vaso de té, él se puso las gafas y volvió a examinar con placer las jarritas de luminoso color amarillo, verde, rojo. Sus torpes labios húmedos repetían los nombres de sus elocuentes etiquetas: albaricoque, uva, ciruelas claudias, membrillo. Había llegado a la manzana cuando volvió a sonar el teléfono.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

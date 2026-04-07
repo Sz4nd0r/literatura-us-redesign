@@ -145,6 +145,3 @@ Luego su amiga, una mujer de unos cuarenta años, muy furiosa, se pone a gritar:
 Luego la tal Fe se me acerca con una gran sonrisa. Dice: Francamente, hay gente pesada, ¿no le parece, Iz? Le hemos dado su merecido, ¿no cree? Y entonces va y me da un beso. Salude a Cissy, ¿vale? Rodea con sus brazos a sus compinches. Intercambian algunas palabras, igual que si le dieran a la manivela de un motor. Luego rompen a reír. Dicen adiós a Emanuel. Venga a reír. Venga a reír. Hasta la vista, Iz…, hasta pronto…
 Y yo digo: ¿Qué es lo que pasa, Emanuel, podrías explicarme qué es lo que acaba de pasar? ¿Te ha parecido que había algo gracioso? Es la primera vez que no me contesta. Está escribiendo su nombre en la acera. EMANUEL. Emanuel en grandes letras mayúsculas.
 Y las mujeres se alejan de nosotros. Venga a hablar. Venga a hablar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

@@ -92,6 +92,3 @@ George Willard y el operador de telégrafos llegaron a la calle principal de Win
 El joven reportero se sintió enfermo y débil. En su imaginación, también se vio viejo y deforme.
 —No maté a la madre —dijo Wash Williams mirando a lo largo de la calle—. Le pegué una sola vez con una silla y luego llegaron los vecinos y se la llevaron. Gritaba tan fuerte… ¿ve usted? Ya nunca tendré oportunidad de matarla.
 Murió de una fiebre al cabo de un mes de que sucedió eso.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

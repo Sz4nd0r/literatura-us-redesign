@@ -170,6 +170,3 @@ respondió a su pregunta con voz apenas audible:
 –No, mi hijo,
 matar un ratón no es un pecado: los ratones están mejor muertos que
 vivos...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

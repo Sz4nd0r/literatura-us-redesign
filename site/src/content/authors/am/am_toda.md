@@ -43,6 +43,3 @@ Sin alterar su aire de fatiga y decepción, aprueba:
 Dicho lo cual, me empuja a un diván y después, rápidamente, sale.
 En seguida escucho la llave girar en la cerradura.
 Me acerco a la ventana y me pregunto si no será el caso de saltar abajo, a la calle, así sea al precio de matarme. Pero lo pienso mejor: lo que yo quiero no es salvarme, sino explicarme, hacerme entender, comunicarme. La templada e indirecta luz del cielo nublado me seduce, me quedo quieto, encantado, en un iluso desvarío. Estoy hasta tal punto en medio de la vida, que dentro de poco me encontraré, quizá, secuestrado o asesinado; y al mismo tiempo estoy fuera de ella, totalmente extraño. ¿Lo comprenderán? ¿Conseguiré que lo entiendan? Entretanto, a mis espaldas, se abre la puerta.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

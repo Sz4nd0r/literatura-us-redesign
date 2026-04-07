@@ -45,6 +45,3 @@ alemán... Y por el estilo, querido.
 —¡Admirable colección!
 —Sí. Pesa libra y media, sin contar todo lo que yo, por descuido, alcancé a tragarme y digerir. Y me he tragado yo, probablemente, unas cinco, seis libras…
 Misha tomó con cuidado la hoja de periódico, contempló por un minuto la colección y la vertió de vuelta en la gaveta. Yo tomé en la mano el vaso, empecé a tomar té, pero ya no rogué mandar por el pan.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

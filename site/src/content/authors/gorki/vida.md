@@ -42,6 +42,3 @@ Entonces las miradas de la Vida se dirigieron dulces hacia aquel que no había h
 —¿Qué exiges?
 —¿Dónde está la justicia? Dámela. Más tarde sabré conseguirlo todo… Por el momento sólo quiero la justicia. He esperado mucho tiempo con paciencia, con razones, sin el menor descanso. He esperado… pero llegó la hora. ¿Dónde está la justicia?…
 —Tómatela —contestó la Vida impasible.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

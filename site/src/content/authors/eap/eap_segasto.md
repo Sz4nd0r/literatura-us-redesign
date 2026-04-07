@@ -90,6 +90,3 @@ Comencé entonces a percibir con toda claridad que el objeto erguido ante mí er
 Murmurando una excusa el negro se acercó a su amo, le abrió la boca con el aire entendido de un jockey y le ajustó en el interior un aparato de singular aspecto, haciéndolo con grandísima destreza, aunque por mi parte no alcancé a ver nada. El cambio en la expresión del general fue tan instantáneo como sorprendente. Cuando habló de nuevo, su voz había recobrado aquella rica tonalidad y potencia que me habían llamado la atención en nuestra primera entrevista.
 —¡Malditos sean esos perros! —dijo con una articulación tan clara que me sobresalté—. ¡Malditos sean! No sólo me hundieron el paladar, sino que se tomaron el trabajo de cortarme por lo menos siete octavos de lengua. Pero, afortunadamente, tenemos a Bonfanti, que es inigualable en toda América cuando se trata de artículos de esta especie. Se lo recomiendo a usted con toda confianza —agregó el general, inclinándose— y le aseguro que mucho me complace poder hacerlo.
 Agradecí su gentileza lo mejor posible y me despedí de inmediato, perfectamente enterado de la verdad y sin el menor resto de aquel misterio que tanto me había perturbado. Era evidente. Era clarísimo. El brigadier general honorario John A. B. C. Smith era el hombre… que se gastó.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

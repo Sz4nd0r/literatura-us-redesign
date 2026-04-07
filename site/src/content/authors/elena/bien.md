@@ -32,6 +32,3 @@ Petrouchka ha huido a encerrarse en el armario. Ya no saldrá de allí en toda l
 —Lola, Lola, has producido una explosión… ¡Y andamos huyendo, Lola!
 Claro que no sabemos de quién huimos, Lola, ni por qué huimos, pero en este tiempo de los Derechos del Hombre y de los Decretos es necesario huir y huir sin tregua, Lola, lo sabes…
 Sobre las duelas brilla tu corona verde; la recogeré temprano, antes de salir a buscar un hostal. Las «cabezas bien pensantes» no suelen hospedarse en los lugares regenteados por sus admiradores…
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

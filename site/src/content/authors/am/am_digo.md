@@ -83,6 +83,3 @@ Ella enrojeció de placer y respondió con su voz dulce:
 —No digo que no..., pero tengo que hablar con mamá.
 Esta primera frase me impresionó, y luego la recordé como un augurio: “No digo que no”...
 En resumen, nos casamos, y si quieren ustedes conocer a una pareja bien avenida, vengan a vernos. Giulia sigue igual que aquella mañana en que me contestó: “No digo que no”...
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

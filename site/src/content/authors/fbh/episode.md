@@ -379,6 +379,3 @@ Cansada de velar, Carry se había dormido a su lado, y los delegados dedos de la
 Y lo miró fijamente a la cara. Jack le estrechó la mano pero no contestó. Después de algunos momentos de silencio ella dijo de nuevo:
 —Acaso aciertes en tu elección. Es buena muchacha, Jack... pero un poco atrevida.
 El último destello de vida se desprendió de aquella cabeza débil, loca y apasionada: ya no dijo más. Cuando llegaron a ella un momento después, una mariposa que se había posado en su pecho voló, y la mano que apartaron de la cabeza de Carry, cayó inerte a su lado.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

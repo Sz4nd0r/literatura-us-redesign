@@ -951,6 +951,3 @@ casi jocosa—. No lo sabía. Esperé tanto como fue posible antes de llenar de 
 caja. Pero antes de entrar todos ustedes en la habitación, llené la caja con humo de mi
 pipa y la cerré. Pero no sabía nada. Estaba mucho más asustado que Granby Dodge.
 En fin, todo salió bien. El humo permaneció dentro de la caja casi una hora.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

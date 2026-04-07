@@ -200,6 +200,3 @@ lo no-real, la no-tiempo, silencio en su imaginación. Sólo el uno-y-otra, un
 en-sí-juntos, el vivir en punto sin parar, solamente corazón: pensamiento,
 pensamor. Albor. Avanzaban, parados, dentro de la luz, como si fuera en el día
 de Todos los Pájaros.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

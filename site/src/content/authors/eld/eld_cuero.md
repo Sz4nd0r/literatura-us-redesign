@@ -63,6 +63,3 @@ De acuerdo, dijo alguien.
 Presidente. Muchedumbre. Bala. Dijo Slater, tenemos miles de personas en este país cuya vocación consiste en explicarnos nuestras propias experiencias. ¿Me van a decir acaso que esto no es un recurso?
 Slater, vamos a acabar pegándonos como quiera usted admitir esa especie de material. No tiene usted idea de la gente con quienes se está gastando los cuartos. No comprenderán, lo interpretarán como fuente. ¿Y se da cuenta usted del lío en que acabará entonces el asunto? Habrá que interrogar a todos esos recursos, a la gente de ideas más claras del país, gente que ya está muy mosca, ¿se atreverá usted a preguntarles de dónde sacaron su información?
 No, no se me está escuchando, dijo Slater. Sabremos de donde sacaron su información. Fuimos nosotros quienes se la dimos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

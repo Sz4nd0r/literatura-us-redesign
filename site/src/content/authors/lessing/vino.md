@@ -81,6 +81,3 @@ La miró con perspicacia. Entonces, con una especie de gesto burlón, a modo de 
 —Querida, no es culpa mía; simplemente no es culpa mía.
 —No —contestó.
 Él puso la copa de vino en sus manos; ella la alzó, observó las pequeñas burbujas carmesí del reconfortante líquido, y bebió con él.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

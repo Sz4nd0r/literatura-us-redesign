@@ -279,6 +279,3 @@ de subir al caballo que había escondido la noche anterior. Tula apartó
 unas ramas y se hundió en lo verde. Yo monté a caballo y regresé a la
 factoría para probar la coartada, mientras que allí, bajo el sol se
 quedó Farjala Bill Alí. Las hormigas se lo comían vivo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

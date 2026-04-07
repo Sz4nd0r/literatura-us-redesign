@@ -142,6 +142,3 @@ El muchacho se volvió con rabia en el asiento.
 El señor Shiftlet quedó tan sorprendido que condujo lentamente unos cincuenta metros con la puerta todavía abierta. Una nube exactamente del mismo color que el sombrero del muchacho y en forma de nabo había descendido sobre el sol, y otra, de aspecto más feo, se agazapó detrás del coche. El señor Shiftlet sintió que toda la podredumbre del mundo iba a tragárselo. Levantó el brazo y lo dejó caer sobre el pecho.
 —¡Oh, Señor! —rezó— ¡Aparece y limpia este mundo de las porquerías!
 El nabo continuó descendiendo lentamente. Unos minutos más tarde, sonó de atrás, como una risotada, el estruendo de un trueno y unas gotas de lluvia fantásticas, como tapas de latas, se estrellaron contra la parte posterior del coche del señor Shiftlet. Se apresuró a pisar el acelerador y con el muñón fuera de la ventanilla corrió contra la lluvia galopante hasta Mobile.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

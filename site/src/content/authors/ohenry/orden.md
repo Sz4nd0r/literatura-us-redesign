@@ -59,6 +59,3 @@ Salí con presteza en busca de Kraft. Sus satánicos ojos eran los mismos, sus c
 —Con el dinero hemos comprado un cottage en Bronx —me dijo—. Puedes encontrarme cualquier tarde a las 19.
 —Entonces —le contesté—, ¿cuando nos dirigiste contra el maderero no era a causa de el Infalible Orden Artístico de la Naturaleza?
 —Bueno, no del todo —repuso Kraft con una sonrisa.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

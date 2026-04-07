@@ -218,6 +218,3 @@ Después de un tenso y desesperado instante, la señorita Wrexall gritó:
 —¿Y verdaderamente necesita alguna mujer estar celosa de mí?
 —Así es —dijo el marido.
 Y eso fue todo lo que dijo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

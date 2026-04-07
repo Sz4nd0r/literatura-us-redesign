@@ -578,6 +578,3 @@ Billy Higgins la había visto pasar rumbo a la proa. El viejo jefe de camareros 
 —No sabía que las mexicanas eran tan desabridas. De todas maneras, pobrecita. Empezaba a quererla, como a una tía vieja. Pensar que tenemos que hacer la comedia tres días más, ¡oooooooh!
 —Ahora olvida eso. Ven, Harry, ven.
 —A la víbora, víbora de la mar, de la mar.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

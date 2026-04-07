@@ -20,6 +20,3 @@ El hombre permaneció con Betsy en la cama durante toda su agonía, acariciando 
 El hombre pasó la noche entera despierto al lado de Betsy, acariciándola con cuidado, en silencio, sin saber qué decir. Habían vivido juntos dieciocho años.
 Por la mañana, la dejó en la cama y fue a la cocina y preparó un café. Fue a tomar el café a la sala. La casa nunca había estado tan vacía y triste.
 Por fortuna el hombre no había tirado la caja de cartón de la licuadora. Volvió al cuarto. Cuidadosamente, colocó el cuerpo de Betsy dentro de la caja. Con la caja bajo el brazo caminó hacia la puerta. Antes de abrirla y salir, se secó los ojos. No quería que lo vieran así.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

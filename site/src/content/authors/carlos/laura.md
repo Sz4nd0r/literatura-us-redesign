@@ -228,6 +228,3 @@ Luego vinieron las malas noticias, hubo una huelga de mineros en Cananea, otra e
 —Qué pena cortar un árbol que le da sombra al café.
 —Sí, cuando el café tiene buen precio. Ahora los precios andan muy caídos. Más vale cortar los árboles y venderlos como madera.
 —Ya estaría de Dios. Volverán a crecer.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

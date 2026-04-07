@@ -182,6 +182,3 @@ La mujer se quedó en silencio tanto rato que a él le dieron ganas de decir alg
 —Verá —dijo—. Yo todavía quiero a mi marido. —Lo miró con un ademán de súplica—. Y creo que usted lo entiende.
 —Sí, vaya si lo entiendo —dijo él.
 Se acercó a ella y la dejó apoyar la cabeza sobre su hombro. Con mucha delicadeza le atusó el pelo.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

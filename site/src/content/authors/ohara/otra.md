@@ -75,6 +75,3 @@ Aborrecía a la gente que llamaba a las puertas y necesitaba que se le repitiese
 Abrió la puerta e inmediatamente comprendió cuánta razón tuvo al creer que había dicho: “Un momento”. Porque la señorita Farnswort estaba de pie, en medio de la habitación, casi desnuda. El señor Winfield comprendió inmediatamente que aquello era el mentís de toda la vida digna que había llevado. En los ojos de la muchacha había una fría chispa asesina, y una expresión de repugnancia, desprecio y anticipo de la idea que para siempre iba a evocar en ella su nombre. Esto fue lo que le dijo:
 —¡Salga de aquí, viejo asqueroso!
 El hombre volvió a su cuarto y a su sillón. Lentamente sacó un cigarrillo de su petaca, pero no lo encendió. Todo lo hizo despacio. Le sobraba tiempo, demasiado ya para él. Sabía que habían de pasar horas antes de empezar a detestarse a sí mismo. Lo mejor que podía hacer durante un rato era seguir sentado y proyectar sus propios terrores.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

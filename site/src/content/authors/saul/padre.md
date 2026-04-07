@@ -84,6 +84,3 @@ Rogin, con el torso desnudo, se sentó, apoyando el pecho contra el fresco esmal
 —Nada absolutamente tienes malo —dijo ella, y se apretó contra él, rodeándole con los brazos y echándole luego encima el agua despacito hasta que a él le pareció que el agua salía de ella misma, que era el cálido fluido del propio espíritu amoroso secreto de Joan que se posaba en el agua verde y espumosa, y olvidó las palabras que había ensayado en su pensamiento y le desapareció todo el enfado que sentía por aquel hijo que tendría, y suspiró, y le dijo a ella desde el lavabo lleno de agua:
 —Siempre tienes estas ideas maravillosas, Joan. ¿Sabes? Tienes una especie de instinto, un don especialísimo.
 1. En español en el original.↩
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

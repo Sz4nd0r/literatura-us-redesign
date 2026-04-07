@@ -66,6 +66,3 @@ Recogió en un montón todas las alhajas que Rinaldo le había dado y se las met
 —¡Cretino! —le gritó Tore, furioso—. ¡Ignorante!... Te has dejado embaucar por esa otra cretina que va a tu lado.
 Hubieran tenido que ver ustedes a Rinaldo. Saltó a través de la mesa, aferró a Tore por las solapas de la camisa. En resumidas cuentas, tuvimos que separarlos.
 Aquella noche, cuando se hubieron ido, no resollamos y nos fuimos también nosotros pocos minutos después. A la noche siguiente nos volvimos a encontrar, pero ya se había acabado la antigua alegría. Además, observamos que muchos de los anillos habían desaparecido, y también algún reloj. Dos noches después estábamos todos sin joyas pero más mohinos que nunca. Pasó una semana y, luego, unos con una excusa y los demás con otra, dejamos de reunirnos. Se había acabado, estaba claro, y las cosas, cuando se acaban, no vuelven a empezar. A nadie le gusta la sopa recalentada. Después he sabido que Rinaldo se ha casado un día de estos con Lucrezia; me dijeron que, en la iglesia, ella estaba más cubierta de joyas que una estatua de la Virgen. ¿Y Tore? Hace tiempo lo he visto en su garaje. Tenía un anillo en el dedo, pero no era de oro, y sin brillante: uno de esos anillos de plata que suelen llevar los mecánicos.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

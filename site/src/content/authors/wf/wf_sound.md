@@ -2828,6 +2828,3 @@ Y eso fue todo. Estos otros no eran Compson. Eran negros:
 TP. Quien en la calle Beale de Memphis llevaba las mismas ropas chillonas baratas e intransigentes especialmente hechas para él por los explotadores de los obreros textiles de Chicago y Nueva York.
 FRONY. Quien se casó con un mozo de estación y marchó a vivir a St. Louis y después regresó a Memphis para vivir con su madre puesto que Dilsey se negó a ir más lejos.
 LUSTER. Un hombre a los catorce años. Quien no solamente era capaz de cuidarse por completo y proteger a un retrasado mental que le doblaba en edad y le triplicaba en tamaño, sino que además lo mantenía entretenido.
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar

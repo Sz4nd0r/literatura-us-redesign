@@ -112,6 +112,3 @@ Acaso comenzaba a desprenderse y estaba llegando a ser feliz, vuelto a cero, rec
 —Bueno, usted ya sabe lo demás. Juana empezó a sentirse mal, con la fajina. Pero el doctor de allá la examinó, le preguntó qué vida había hecho, y cuando supo dijo que eran los ovarios y que teníamos que venirnos a Montevideo. Así fue la cosa. Tomamos un ómnibus y nos fuimos directamente al hospital. Ella cada vez se quejaba más, porque el viaje la había puesto peor; y al fin, parece que era apendicitis. La dejé internada, porque cuando la examinaron empezó con los vómitos. Y justo cuando salía del hospital, me cago, estaba el tira en la puerta y se me viene derechito. ¿No habrá manera de avisarle que si no voy a verla es porque estoy preso?
 ...Ahora que estoy en libertad y él cayó, tengo que pedirle al abogado que me mande a careo. Estoy loca por verlo, aunque más no sea en el Juzgado...
 —Va a saberlo, si no lo sabe ya —dijo el tipo—. Porque el Juez ordenó que a ella también se le tome declaración. A lo mejor voy yo mismo al hospital. ¿Quiere mandarle decir algo?
-Literatura
-.us
-Mapa de la biblioteca | Aviso Legal | Quiénes Somos | Contactar
